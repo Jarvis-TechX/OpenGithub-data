@@ -1,7 +1,7 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:16Z
+**Snapshot Time:** 2026-01-22T02:33:10Z
 **Total Repositories:** 22
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,7 +15,7 @@ COLMAP - Structure-from-Motion and Multi-View Stereo
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 10,764 |
+| Stars | 10,765 |
 | Forks | 1,875 |
 | Stars today | 6 |
 
@@ -28,7 +28,7 @@ Filament is a real-time physically based rendering engine for Android, iOS, Wind
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 19,401 |
+| Stars | 19,402 |
 | Forks | 2,095 |
 | Stars today | 3 |
 
@@ -41,7 +41,7 @@ An Open Source Machine Learning Framework for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 193,430 |
+| Stars | 193,431 |
 | Forks | 75,186 |
 | Stars today | 23 |
 
@@ -118,7 +118,7 @@ A machine learning-based video super resolution and frame interpolation framewor
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,198 |
+| Stars | 17,199 |
 | Forks | 1,525 |
 | Stars today | 32 |
 
@@ -132,7 +132,7 @@ RealSense SDK
 |--------|-------|
 | Language | C++ |
 | Stars | 8,482 |
-| Forks | 4,969 |
+| Forks | 4,970 |
 | Stars today | 4 |
 
 ---
@@ -209,7 +209,7 @@ GoogleTest - Google Testing and Mocking Framework
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 38,104 |
+| Stars | 38,105 |
 | Forks | 10,674 |
 | Stars today | 6 |
 
@@ -222,7 +222,7 @@ Static reflection for enums (to string, from string, iteration) for modern C++, 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 5,913 |
+| Stars | 5,912 |
 | Forks | 531 |
 | Stars today | 2 |
 
@@ -248,7 +248,7 @@ A library that provides an embeddable, persistent key-value store for fast stora
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,431 |
+| Stars | 31,433 |
 | Forks | 6,704 |
 | Stars today | 10 |
 
@@ -262,7 +262,7 @@ Production-grade client-side tracing, profiling, and analysis for complex softwa
 |--------|-------|
 | Language | C++ |
 | Stars | 5,431 |
-| Forks | 664 |
+| Forks | 665 |
 | Stars today | 12 |
 
 ---
@@ -275,7 +275,7 @@ Complete Open Source and Modular solution for MMO
 |--------|-------|
 | Language | C++ |
 | Stars | 7,938 |
-| Forks | 3,168 |
+| Forks | 3,169 |
 | Stars today | 8 |
 
 ---

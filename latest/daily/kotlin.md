@@ -1,7 +1,7 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:19Z
+**Snapshot Time:** 2026-01-22T02:33:13Z
 **Total Repositories:** 22
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -54,7 +54,7 @@ Manga reader for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 14,506 |
+| Stars | 14,509 |
 | Forks | 363 |
 | Stars today | 43 |
 
@@ -80,7 +80,7 @@ vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动�
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 24,228 |
+| Stars | 24,229 |
 | Forks | 3,090 |
 | Stars today | 26 |
 
@@ -106,7 +106,7 @@ A private messenger for Android.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 28,187 |
+| Stars | 28,186 |
 | Forks | 6,644 |
 | Stars today | 7 |
 
@@ -197,7 +197,7 @@ Loop Habit Tracker, a mobile app for creating and maintaining long-term positive
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,528 |
+| Stars | 9,529 |
 | Forks | 1,119 |
 | Stars today | 8 |
 
@@ -223,7 +223,7 @@ A V2Ray client for Android, support Xray core and v2fly core
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 49,850 |
+| Stars | 49,852 |
 | Forks | 6,826 |
 | Stars today | 42 |
 

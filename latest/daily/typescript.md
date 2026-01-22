@@ -1,7 +1,7 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:08Z
+**Snapshot Time:** 2026-01-22T02:33:01Z
 **Total Repositories:** 12
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,7 +15,7 @@ Generative UI SDK for React
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,317 |
+| Stars | 3,339 |
 | Forks | 202 |
 | Stars today | 222 |
 
@@ -28,7 +28,7 @@ A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,040 |
+| Stars | 10,041 |
 | Forks | 326 |
 | Stars today | 36 |
 
@@ -42,7 +42,7 @@ A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow
 |--------|-------|
 | Language | TypeScript |
 | Stars | 12,522 |
-| Forks | 2,255 |
+| Forks | 2,256 |
 | Stars today | 87 |
 
 ---
@@ -54,7 +54,7 @@ Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qw
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,707 |
+| Stars | 8,728 |
 | Forks | 668 |
 | Stars today | 1,073 |
 
@@ -67,8 +67,8 @@ polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket c
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,604 |
-| Forks | 871 |
+| Stars | 1,611 |
+| Forks | 876 |
 | Stars today | 341 |
 
 ---
@@ -80,7 +80,7 @@ An autonomous agent for deep financial research
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,043 |
+| Stars | 8,046 |
 | Forks | 1,015 |
 | Stars today | 505 |
 
@@ -93,7 +93,7 @@ From the team behind Gatsby, Mastra is a framework for building AI-powered appli
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 19,932 |
+| Stars | 19,937 |
 | Forks | 1,437 |
 | Stars today | 460 |
 
@@ -106,7 +106,7 @@ Build AI Agents, Visually
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 48,438 |
+| Stars | 48,440 |
 | Forks | 23,629 |
 | Stars today | 46 |
 
@@ -119,7 +119,7 @@ An all-in-one enhancement suite for Google Gemini - timeline navigation, folder 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 2,633 |
+| Stars | 2,639 |
 | Forks | 72 |
 | Stars today | 286 |
 
@@ -159,7 +159,7 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 |--------|-------|
 | Language | TypeScript |
 | Stars | 10,938 |
-| Forks | 547 |
+| Forks | 548 |
 | Stars today | 66 |
 
 ---

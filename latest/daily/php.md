@@ -1,7 +1,7 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:11Z
+**Snapshot Time:** 2026-01-22T02:33:04Z
 **Total Repositories:** 22
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -80,7 +80,7 @@ PHP Static Analysis Tool - discover bugs in your code without running it!
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,783 |
+| Stars | 13,784 |
 | Forks | 934 |
 | Stars today | 9 |
 
@@ -94,7 +94,7 @@ High-performance panel based on V2board secondary development supporting new pro
 |--------|-------|
 | Language | PHP |
 | Stars | 3,716 |
-| Forks | 1,016 |
+| Forks | 1,017 |
 | Stars today | 3 |
 
 ---
@@ -133,7 +133,7 @@ A platform to create documentation/wiki content built with PHP & Laravel
 |--------|-------|
 | Language | PHP |
 | Stars | 18,127 |
-| Forks | 2,318 |
+| Forks | 2,319 |
 | Stars today | 6 |
 
 ---
@@ -171,8 +171,8 @@ Prior to making any Submission(s), you must sign an Adobe Contributor License Ag
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 12,028 |
-| Forks | 9,415 |
+| Stars | 12,027 |
+| Forks | 9,414 |
 | Stars today | 1 |
 
 ---
@@ -274,7 +274,7 @@ A customizable, open-source ecommerce platform built on WordPress. Build any com
 |--------|-------|
 | Language | PHP |
 | Stars | 10,142 |
-| Forks | 10,732 |
+| Forks | 10,731 |
 | Stars today | 1 |
 
 ---

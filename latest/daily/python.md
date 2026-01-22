@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:07Z
+**Snapshot Time:** 2026-01-22T02:32:59Z
 **Total Repositories:** 13
-**New Entries:** 8
+**New Entries:** 0
 **Quality Score:** 96.92/100
 
 ---
@@ -15,21 +15,21 @@ Official Claude Code compound engineering plugin
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,696 |
+| Stars | 5,717 |
 | Forks | 458 |
 | Stars today | 190 |
 
 ---
 
-## 2. [xai-org/grok-1](https://github.com/xai-org/grok-1) 🆕
+## 2. [xai-org/grok-1](https://github.com/xai-org/grok-1)
 
 Grok open release
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 50,965 |
-| Forks | 8,426 |
+| Stars | 50,976 |
+| Forks | 8,427 |
 | Stars today | 141 |
 
 ---
@@ -41,8 +41,8 @@ The absolute trainer to light up AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,208 |
-| Forks | 918 |
+| Stars | 11,218 |
+| Forks | 919 |
 | Stars today | 527 |
 
 ---
@@ -54,7 +54,7 @@ The absolute trainer to light up AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 6,106 |
+| Stars | 6,120 |
 | Forks | 486 |
 | Stars today | 100 |
 
@@ -65,39 +65,39 @@ The absolute trainer to light up AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 16,239 |
+| Stars | 16,238 |
 | Forks | 1,541 |
 | Stars today | 97 |
 
 ---
 
-## 6. [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) 🆕
+## 6. [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 68,556 |
+| Stars | 68,558 |
 | Forks | 9,679 |
 | Stars today | 142 |
 
 ---
 
-## 7. [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) 🆕
+## 7. [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
 
 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,257 |
+| Stars | 3,258 |
 | Forks | 1,526 |
 | Stars today | 36 |
 
 ---
 
-## 8. [pytorch/executorch](https://github.com/pytorch/executorch) 🆕
+## 8. [pytorch/executorch](https://github.com/pytorch/executorch)
 
 On-device AI across mobile, embedded and edge for PyTorch
 
@@ -110,41 +110,41 @@ On-device AI across mobile, embedded and edge for PyTorch
 
 ---
 
-## 9. [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) 🆕
+## 9. [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
 
 A tool designed to simplify the creation of OpenCore EFI
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 4,696 |
+| Stars | 4,697 |
 | Forks | 460 |
 | Stars today | 32 |
 
 ---
 
-## 10. [karpathy/nanochat](https://github.com/karpathy/nanochat) 🆕
+## 10. [karpathy/nanochat](https://github.com/karpathy/nanochat)
 
 The best ChatGPT that $100 can buy.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 40,605 |
+| Stars | 40,607 |
 | Forks | 5,255 |
 | Stars today | 42 |
 
 ---
 
-## 11. [vllm-project/vllm](https://github.com/vllm-project/vllm) 🆕
+## 11. [vllm-project/vllm](https://github.com/vllm-project/vllm)
 
 A high-throughput and memory-efficient inference and serving engine for LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 68,057 |
-| Forks | 12,765 |
+| Stars | 68,062 |
+| Forks | 12,766 |
 | Stars today | 101 |
 
 ---
@@ -162,14 +162,14 @@ RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, ac
 
 ---
 
-## 13. [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) 🆕
+## 13. [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
 
 NanoGPT (124M) in 2 minutes
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 4,196 |
+| Stars | 4,199 |
 | Forks | 562 |
 | Stars today | 16 |
 

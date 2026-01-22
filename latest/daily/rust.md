@@ -1,7 +1,7 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:13Z
+**Snapshot Time:** 2026-01-22T02:33:07Z
 **Total Repositories:** 16
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,8 +15,8 @@ an open source, extensible AI agent that goes beyond code suggestions - install,
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 26,795 |
-| Forks | 2,444 |
+| Stars | 26,799 |
+| Forks | 2,445 |
 | Stars today | 454 |
 
 ---
@@ -28,7 +28,7 @@ A high-performance algorithmic trading platform and event-driven backtester
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,328 |
+| Stars | 18,330 |
 | Forks | 2,151 |
 | Stars today | 62 |
 
@@ -41,7 +41,7 @@ Get 10X more out of Claude Code, Codex or any coding agent
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,244 |
+| Stars | 18,260 |
 | Forks | 1,683 |
 | Stars today | 411 |
 
@@ -54,7 +54,7 @@ An improved implementation of the Ralph Wiggum technique for autonomous AI agent
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,156 |
+| Stars | 1,158 |
 | Forks | 130 |
 | Stars today | 98 |
 
@@ -106,8 +106,8 @@ HTTP routing and request-handling library for Rust that focuses on ergonomics an
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 24,657 |
-| Forks | 1,318 |
+| Stars | 24,659 |
+| Forks | 1,319 |
 | Stars today | 17 |
 
 ---
@@ -145,7 +145,7 @@ Fuzzy Finder in rust!
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,378 |
+| Stars | 6,379 |
 | Forks | 234 |
 | Stars today | 26 |
 
@@ -210,7 +210,7 @@ Lightning-fast and Powerful Code Editor written in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 37,923 |
+| Stars | 37,924 |
 | Forks | 1,219 |
 | Stars today | 61 |
 

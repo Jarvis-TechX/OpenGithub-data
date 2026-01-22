@@ -1,7 +1,7 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:15Z
+**Snapshot Time:** 2026-01-22T02:33:08Z
 **Total Repositories:** 17
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,7 +15,7 @@ Power full Task Manager
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,957 |
+| Stars | 2,958 |
 | Forks | 235 |
 | Stars today | 296 |
 
@@ -28,7 +28,7 @@ An open source, portable, easy to use, readable and flexible TLS library, and re
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 6,408 |
+| Stars | 6,409 |
 | Forks | 2,830 |
 | Stars today | 5 |
 
@@ -41,8 +41,8 @@ Lightweight image viewer for Windows with animated GIF/WEBP support
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 973 |
-| Forks | 57 |
+| Stars | 976 |
+| Forks | 58 |
 | Stars today | 38 |
 
 ---
@@ -54,7 +54,7 @@ Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scala
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 14,240 |
+| Stars | 14,241 |
 | Forks | 8,539 |
 | Stars today | 20 |
 
@@ -68,7 +68,7 @@ xv6 OS
 |--------|-------|
 | Language | C |
 | Stars | 9,181 |
-| Forks | 4,426 |
+| Forks | 4,427 |
 | Stars today | 1 |
 
 ---
@@ -93,7 +93,7 @@ A flexible distributed key-value database that is optimized for caching and othe
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 24,546 |
+| Stars | 24,547 |
 | Forks | 1,007 |
 | Stars today | 11 |
 
@@ -118,7 +118,7 @@ The VESC motor control firmware
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,897 |
+| Stars | 2,898 |
 | Forks | 1,678 |
 | Stars today | 6 |
 
@@ -182,7 +182,7 @@ Ultralightweight JSON parser in ANSI C
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,379 |
+| Stars | 12,380 |
 | Forks | 3,416 |
 | Stars today | 1 |
 
@@ -195,7 +195,7 @@ The official NGINX Open Source repository.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 29,153 |
+| Stars | 29,155 |
 | Forks | 7,731 |
 | Stars today | 15 |
 
