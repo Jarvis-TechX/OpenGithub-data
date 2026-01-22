@@ -1,0 +1,61 @@
+{
+  "timestamp": "2020-02-19T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "github",
+      "repo_name": "hubot-scripts",
+      "full_name": "github/hubot-scripts",
+      "url": "https://github.com/github/hubot-scripts",
+      "description": "DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-19.md"
+    },
+    {
+      "rank": 2,
+      "owner": "nicolaskruchten",
+      "repo_name": "pivottable",
+      "full_name": "nicolaskruchten/pivottable",
+      "url": "https://github.com/nicolaskruchten/pivottable",
+      "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-19.md"
+    },
+    {
+      "rank": 3,
+      "owner": "basecamp",
+      "repo_name": "trix",
+      "full_name": "basecamp/trix",
+      "url": "https://github.com/basecamp/trix",
+      "description": "A rich text editor for everyday writing",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-19.md"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "generated_at": "2026-01-22T09:49:15.941207",
+  "total_dates": 4135,
+  "date_range": [
+    "2014-08-09",
+    "2026-01-22"
+  ],
+  "periods": {
+    "daily": {
+      "dates": 4135,
+      "files": 32558
+    },
+    "weekly": {
+      "dates": 40,
+      "files": 53
+    },
+    "monthly": {
+      "dates": 7,
+      "files": 20
+    }
+  },
+  "languages": {
+    "python": {
+      "days": 4135,
+      "files": 4137
+    },
+    "go": {
+      "days": 4133,
+      "files": 4135
+    },
+    "javascript": {
+      "days": 4131,
+      "files": 4133
+    },
+    "cpp": {
+      "days": 3908,
+      "files": 3908
+    },
+    "coffeescript": {
+      "days": 2133,
+      "files": 2133
+    },
+    "java": {
+      "days": 3241,
+      "files": 3243
+    },
+    "objective-c": {
+      "days": 813,
+      "files": 813
+    },
+    "swift": {
+      "days": 3228,
+      "files": 3230
+    },
+    "ruby": {
+      "days": 530,
+      "files": 532
+    },
+    "rust": {
+      "days": 2872,
+      "files": 2874
+    },
+    "c++": {
+      "days": 10,
+      "files": 12
+    },
+    "r": {
+      "days": 9,
+      "files": 9
+    },
+    "lua": {
+      "days": 9,
+      "files": 9
+    },
+    "markdown": {
+      "days": 29,
+      "files": 29
+    },
+    "sql": {
+      "days": 9,
+      "files": 9
+    },
+    "scala": {
+      "days": 9,
+      "files": 9
+    },
+    "shell": {
+      "days": 29,
+      "files": 29
+    },
+    "c#": {
+      "days": 10,
+      "files": 12
+    },
+    "css": {
+      "days": 313,
+      "files": 313
+    },
+    "c": {
+      "days": 30,
+      "files": 32
+    },
+    "html": {
+      "days": 313,
+      "files": 313
+    },
+    "typescript": {
+      "days": 2105,
+      "files": 2107
+    },
+    "vue": {
+      "days": 313,
+      "files": 313
+    },
+    "all": {
+      "days": 173,
+      "files": 211
+    },
+    "jupyter-notebook": {
+      "days": 20,
+      "files": 20
+    },
+    "makefile": {
+      "days": 20,
+      "files": 20
+    },
+    "tex": {
+      "days": 20,
+      "files": 20
+    },
+    "kotlin": {
+      "days": 21,
+      "files": 23
+    },
+    "php": {
+      "days": 1,
+      "files": 3
+    }
+  },
+  "sources": {
+    "larsbijl": {
+      "files": 10283,
+      "percentage": "31.5%"
+    },
+    "frodeaa": {
+      "files": 15719,
+      "percentage": "48.2%"
+    },
+    "yangwenmai": {
+      "files": 2863,
+      "percentage": "8.8%"
+    },
+    "bonfy": {
+      "files": 3516,
+      "percentage": "10.8%"
+    },
+    "opengithubs-daily": {
+      "files": 163,
+      "percentage": "0.5%"
+    },
+    "opengithubs-weekly": {
+      "files": 39,
+      "percentage": "0.1%"
+    },
+    "opengithubs-monthly": {
+      "files": 6,
+      "percentage": "0.0%"
+    },
+    "unknown": {
+      "files": 42,
+      "percentage": "0.1%"
+    }
+  }
+}

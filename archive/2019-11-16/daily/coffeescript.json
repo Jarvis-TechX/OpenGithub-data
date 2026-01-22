@@ -1,0 +1,61 @@
+{
+  "timestamp": "2019-11-16T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "cypress-io",
+      "repo_name": "cypress",
+      "full_name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-16.md"
+    },
+    {
+      "rank": 2,
+      "owner": "dropbox",
+      "repo_name": "zxcvbn",
+      "full_name": "dropbox/zxcvbn",
+      "url": "https://github.com/dropbox/zxcvbn",
+      "description": "Low-Budget Password Strength Estimation",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-16.md"
+    },
+    {
+      "rank": 3,
+      "owner": "basecamp",
+      "repo_name": "trix",
+      "full_name": "basecamp/trix",
+      "url": "https://github.com/basecamp/trix",
+      "description": "A rich text editor for everyday writing",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-16.md"
+    }
+  ]
+}

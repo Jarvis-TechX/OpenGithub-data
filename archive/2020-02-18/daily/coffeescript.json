@@ -1,0 +1,45 @@
+{
+  "timestamp": "2020-02-18T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 2,
+  "new_repos_count": 0,
+  "quality_score": 10,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "sorich87",
+      "repo_name": "bootstrap-tour",
+      "full_name": "sorich87/bootstrap-tour",
+      "url": "https://github.com/sorich87/bootstrap-tour",
+      "description": "Quick and easy product tours with Twitter Bootstrap Popovers",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-18.md"
+    },
+    {
+      "rank": 2,
+      "owner": "JunoLab",
+      "repo_name": "atom-julia-client",
+      "full_name": "JunoLab/atom-julia-client",
+      "url": "https://github.com/JunoLab/atom-julia-client",
+      "description": "Juno a good IDE?",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-18.md"
+    }
+  ]
+}

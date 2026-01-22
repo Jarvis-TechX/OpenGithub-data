@@ -1,0 +1,61 @@
+{
+  "timestamp": "2020-02-27T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "Leonidas-from-XIV",
+      "repo_name": "node-xml2js",
+      "full_name": "Leonidas-from-XIV/node-xml2js",
+      "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
+      "description": "XML to JavaScript object converter.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-27.md"
+    },
+    {
+      "rank": 2,
+      "owner": "github",
+      "repo_name": "hubot-scripts",
+      "full_name": "github/hubot-scripts",
+      "url": "https://github.com/github/hubot-scripts",
+      "description": "DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-27.md"
+    },
+    {
+      "rank": 3,
+      "owner": "PinionTech",
+      "repo_name": "srcds-info",
+      "full_name": "PinionTech/srcds-info",
+      "url": "https://github.com/PinionTech/srcds-info",
+      "description": "A tool to query Source based servers",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-27.md"
+    }
+  ]
+}

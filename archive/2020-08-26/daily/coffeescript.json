@@ -1,0 +1,61 @@
+{
+  "timestamp": "2020-08-26T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "codecombat",
+      "repo_name": "codecombat",
+      "full_name": "codecombat/codecombat",
+      "url": "https://github.com/codecombat/codecombat",
+      "description": "Game for learning how to code.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-26.md"
+    },
+    {
+      "rank": 2,
+      "owner": "EloB",
+      "repo_name": "Easter-eggs-11",
+      "full_name": "EloB/Easter-eggs-11",
+      "url": "https://github.com/EloB/Easter-eggs-11",
+      "description": "XOR encryption for Node.js",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-26.md"
+    },
+    {
+      "rank": 3,
+      "owner": "goodeggs",
+      "repo_name": "fibrous",
+      "full_name": "goodeggs/fibrous",
+      "url": "https://github.com/goodeggs/fibrous",
+      "description": "Easily mix asynchronous and synchronous programming styles in node.js.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-26.md"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "timestamp": "2020-03-26T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 2,
+  "new_repos_count": 0,
+  "quality_score": 10,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "taigaio",
+      "repo_name": "taiga-front",
+      "full_name": "taigaio/taiga-front",
+      "url": "https://github.com/taigaio/taiga-front",
+      "description": "Agile project management platform. Built on top of Django and AngularJS",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-26.md"
+    },
+    {
+      "rank": 2,
+      "owner": "overleaf",
+      "repo_name": "overleaf",
+      "full_name": "overleaf/overleaf",
+      "url": "https://github.com/overleaf/overleaf",
+      "description": "A web-based collaborative LaTeX editor",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-26.md"
+    }
+  ]
+}

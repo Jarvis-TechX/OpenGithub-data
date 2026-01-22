@@ -1,0 +1,61 @@
+{
+  "timestamp": "2020-09-15T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "dropbox",
+      "repo_name": "zxcvbn",
+      "full_name": "dropbox/zxcvbn",
+      "url": "https://github.com/dropbox/zxcvbn",
+      "description": "Low-Budget Password Strength Estimation",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-15.md"
+    },
+    {
+      "rank": 2,
+      "owner": "node-cache",
+      "repo_name": "node-cache",
+      "full_name": "node-cache/node-cache",
+      "url": "https://github.com/node-cache/node-cache",
+      "description": "a node internal (in-memory) caching module",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-15.md"
+    },
+    {
+      "rank": 3,
+      "owner": "progedu",
+      "repo_name": "intro-curriculum-3008",
+      "full_name": "progedu/intro-curriculum-3008",
+      "url": "https://github.com/progedu/intro-curriculum-3008",
+      "description": "38 (ISC License)",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-15.md"
+    }
+  ]
+}

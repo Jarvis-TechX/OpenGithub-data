@@ -1,0 +1,61 @@
+{
+  "timestamp": "2019-11-25T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "michaelficarra",
+      "repo_name": "CoffeeScriptRedux",
+      "full_name": "michaelficarra/CoffeeScriptRedux",
+      "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
+      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-25.md"
+    },
+    {
+      "rank": 2,
+      "owner": "balena-os",
+      "repo_name": "balena-up-board",
+      "full_name": "balena-os/balena-up-board",
+      "url": "https://github.com/balena-os/balena-up-board",
+      "description": "Balena support for UP board",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-25.md"
+    },
+    {
+      "rank": 3,
+      "owner": "Glavin001",
+      "repo_name": "atom-beautify",
+      "full_name": "Glavin001/atom-beautify",
+      "url": "https://github.com/Glavin001/atom-beautify",
+      "description": "Universal beautification package for Atom editor ( Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding  )",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-25.md"
+    }
+  ]
+}

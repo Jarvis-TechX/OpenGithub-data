@@ -1,0 +1,29 @@
+{
+  "timestamp": "2019-06-27T00:00:00Z",
+  "since": "daily",
+  "language": "cpp",
+  "total_count": 1,
+  "new_repos_count": 0,
+  "quality_score": 5,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "schacon",
+      "repo_name": "blink",
+      "full_name": "schacon/blink",
+      "url": "https://github.com/schacon/blink",
+      "description": "Example file to blink the LED on an Arduino",
+      "language": "cpp",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-27.md"
+    }
+  ]
+}

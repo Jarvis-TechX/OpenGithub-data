@@ -1,0 +1,61 @@
+{
+  "timestamp": "2019-12-16T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "codecombat",
+      "repo_name": "codecombat",
+      "full_name": "codecombat/codecombat",
+      "url": "https://github.com/codecombat/codecombat",
+      "description": "Game for learning how to code.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-16.md"
+    },
+    {
+      "rank": 2,
+      "owner": "philc",
+      "repo_name": "vimium",
+      "full_name": "philc/vimium",
+      "url": "https://github.com/philc/vimium",
+      "description": "The hacker's browser.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-16.md"
+    },
+    {
+      "rank": 3,
+      "owner": "ccd0",
+      "repo_name": "4chan-x",
+      "full_name": "ccd0/4chan-x",
+      "url": "https://github.com/ccd0/4chan-x",
+      "description": "Adds various features to 4chan.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-16.md"
+    }
+  ]
+}

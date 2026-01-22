@@ -1,0 +1,61 @@
+{
+  "timestamp": "2020-06-11T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "f",
+      "repo_name": "omelette",
+      "full_name": "f/omelette",
+      "url": "https://github.com/f/omelette",
+      "description": "Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-11.md"
+    },
+    {
+      "rank": 2,
+      "owner": "FelisCatus",
+      "repo_name": "SwitchyOmega",
+      "full_name": "FelisCatus/SwitchyOmega",
+      "url": "https://github.com/FelisCatus/SwitchyOmega",
+      "description": "Manage and switch between multiple proxies quickly & easily.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-11.md"
+    },
+    {
+      "rank": 3,
+      "owner": "alexeypetrushin",
+      "repo_name": "mongo-lite",
+      "full_name": "alexeypetrushin/mongo-lite",
+      "url": "https://github.com/alexeypetrushin/mongo-lite",
+      "description": "Simple and compact API for MongoDB",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-11.md"
+    }
+  ]
+}

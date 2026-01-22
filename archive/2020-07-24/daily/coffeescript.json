@@ -1,0 +1,45 @@
+{
+  "timestamp": "2020-07-24T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 2,
+  "new_repos_count": 0,
+  "quality_score": 10,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "dropbox",
+      "repo_name": "zxcvbn",
+      "full_name": "dropbox/zxcvbn",
+      "url": "https://github.com/dropbox/zxcvbn",
+      "description": "Low-Budget Password Strength Estimation",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-24.md"
+    },
+    {
+      "rank": 2,
+      "owner": "atom",
+      "repo_name": "settings-view",
+      "full_name": "atom/settings-view",
+      "url": "https://github.com/atom/settings-view",
+      "description": "Edit Atom settings",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-24.md"
+    }
+  ]
+}

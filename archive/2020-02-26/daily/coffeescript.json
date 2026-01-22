@@ -1,0 +1,45 @@
+{
+  "timestamp": "2020-02-26T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 2,
+  "new_repos_count": 0,
+  "quality_score": 10,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "jashkenas",
+      "repo_name": "coffeescript",
+      "full_name": "jashkenas/coffeescript",
+      "url": "https://github.com/jashkenas/coffeescript",
+      "description": "Unfancy JavaScript",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-26.md"
+    },
+    {
+      "rank": 2,
+      "owner": "progedu",
+      "repo_name": "intro-curriculum-3006",
+      "full_name": "progedu/intro-curriculum-3006",
+      "url": "https://github.com/progedu/intro-curriculum-3006",
+      "description": "36 (ISC License)",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-26.md"
+    }
+  ]
+}

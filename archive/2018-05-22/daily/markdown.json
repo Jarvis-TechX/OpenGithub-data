@@ -1,0 +1,61 @@
+{
+  "timestamp": "2018-05-22T00:00:00Z",
+  "since": "daily",
+  "language": "markdown",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:yangwenmai/github-trending-backup",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-124803",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "ljun20160606",
+      "repo_name": "blog",
+      "full_name": "ljun20160606/blog",
+      "url": "https://github.com/ljun20160606/blog",
+      "description": "Share",
+      "language": "Markdown",
+      "stars": 10,
+      "forks": 3,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:yangwenmai/github-trending-backup",
+      "quality_grade": "B",
+      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-22.md"
+    },
+    {
+      "rank": 3,
+      "owner": "klpn",
+      "repo_name": "static-dust",
+      "full_name": "klpn/static-dust",
+      "url": "https://github.com/klpn/static-dust",
+      "description": "My personal blog.",
+      "language": "Markdown",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:yangwenmai/github-trending-backup",
+      "quality_grade": "B",
+      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-22.md"
+    },
+    {
+      "rank": 4,
+      "owner": "harens",
+      "repo_name": "blog",
+      "full_name": "harens/blog",
+      "url": "https://github.com/harens/blog",
+      "description": "Share",
+      "language": "Markdown",
+      "stars": 0,
+      "forks": 3,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:yangwenmai/github-trending-backup",
+      "quality_grade": "B",
+      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-22.md"
+    }
+  ]
+}

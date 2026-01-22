@@ -1,0 +1,45 @@
+{
+  "timestamp": "2020-05-05T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 2,
+  "new_repos_count": 0,
+  "quality_score": 10,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "Pagedraw",
+      "repo_name": "pagedraw",
+      "full_name": "Pagedraw/pagedraw",
+      "url": "https://github.com/Pagedraw/pagedraw",
+      "description": "a UI builder for React web apps",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-05.md"
+    },
+    {
+      "rank": 2,
+      "owner": "Gutenberg-Technology",
+      "repo_name": "gt-unsafe-filter",
+      "full_name": "Gutenberg-Technology/gt-unsafe-filter",
+      "url": "https://github.com/Gutenberg-Technology/gt-unsafe-filter",
+      "description": "Filter to be used with ng-bind-html to prevent AngularJS unsafe warning",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-05.md"
+    }
+  ]
+}

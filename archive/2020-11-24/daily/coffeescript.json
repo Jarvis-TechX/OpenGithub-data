@@ -1,0 +1,61 @@
+{
+  "timestamp": "2020-11-24T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "basecamp",
+      "repo_name": "trix",
+      "full_name": "basecamp/trix",
+      "url": "https://github.com/basecamp/trix",
+      "description": "A rich text editor for everyday writing",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-11/2020-11-24.md"
+    },
+    {
+      "rank": 2,
+      "owner": "overleaf",
+      "repo_name": "overleaf",
+      "full_name": "overleaf/overleaf",
+      "url": "https://github.com/overleaf/overleaf",
+      "description": "A web-based collaborative LaTeX editor",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-11/2020-11-24.md"
+    },
+    {
+      "rank": 3,
+      "owner": "codecombat",
+      "repo_name": "codecombat",
+      "full_name": "codecombat/codecombat",
+      "url": "https://github.com/codecombat/codecombat",
+      "description": "Game for learning how to code.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-11/2020-11-24.md"
+    }
+  ]
+}

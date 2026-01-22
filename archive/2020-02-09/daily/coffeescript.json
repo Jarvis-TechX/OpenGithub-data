@@ -1,0 +1,61 @@
+{
+  "timestamp": "2020-02-09T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "codecombat",
+      "repo_name": "codecombat",
+      "full_name": "codecombat/codecombat",
+      "url": "https://github.com/codecombat/codecombat",
+      "description": "Game for learning how to code.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-09.md"
+    },
+    {
+      "rank": 2,
+      "owner": "FelisCatus",
+      "repo_name": "SwitchyOmega",
+      "full_name": "FelisCatus/SwitchyOmega",
+      "url": "https://github.com/FelisCatus/SwitchyOmega",
+      "description": "Manage and switch between multiple proxies quickly & easily.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-09.md"
+    },
+    {
+      "rank": 3,
+      "owner": "mikemurray",
+      "repo_name": "kis",
+      "full_name": "mikemurray/kis",
+      "url": "https://github.com/mikemurray/kis",
+      "description": "A simple static site generator using Jade, CoffeeScript and Stylus",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-09.md"
+    }
+  ]
+}

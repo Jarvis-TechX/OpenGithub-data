@@ -1,0 +1,61 @@
+{
+  "timestamp": "2020-03-21T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "Pagedraw",
+      "repo_name": "pagedraw",
+      "full_name": "Pagedraw/pagedraw",
+      "url": "https://github.com/Pagedraw/pagedraw",
+      "description": "a UI builder for React web apps",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-21.md"
+    },
+    {
+      "rank": 2,
+      "owner": "assaf",
+      "repo_name": "vanity.js",
+      "full_name": "assaf/vanity.js",
+      "url": "https://github.com/assaf/vanity.js",
+      "description": "NO LONGER MAINTAINED",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-21.md"
+    },
+    {
+      "rank": 3,
+      "owner": "philc",
+      "repo_name": "vimium",
+      "full_name": "philc/vimium",
+      "url": "https://github.com/philc/vimium",
+      "description": "The hacker's browser.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-21.md"
+    }
+  ]
+}

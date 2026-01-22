@@ -1,0 +1,61 @@
+{
+  "timestamp": "2019-09-20T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "cypress-io",
+      "repo_name": "cypress",
+      "full_name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-20.md"
+    },
+    {
+      "rank": 2,
+      "owner": "FelisCatus",
+      "repo_name": "SwitchyOmega",
+      "full_name": "FelisCatus/SwitchyOmega",
+      "url": "https://github.com/FelisCatus/SwitchyOmega",
+      "description": "Manage and switch between multiple proxies quickly & easily.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-20.md"
+    },
+    {
+      "rank": 3,
+      "owner": "boennemann",
+      "repo_name": "badges",
+      "full_name": "boennemann/badges",
+      "url": "https://github.com/boennemann/badges",
+      "description": "Readme Badges  Gotta catch 'em all",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-20.md"
+    }
+  ]
+}

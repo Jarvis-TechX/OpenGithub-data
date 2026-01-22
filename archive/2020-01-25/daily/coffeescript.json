@@ -1,0 +1,29 @@
+{
+  "timestamp": "2020-01-25T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 1,
+  "new_repos_count": 0,
+  "quality_score": 5,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "github",
+      "repo_name": "hubot-scripts",
+      "full_name": "github/hubot-scripts",
+      "url": "https://github.com/github/hubot-scripts",
+      "description": "DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-25.md"
+    }
+  ]
+}

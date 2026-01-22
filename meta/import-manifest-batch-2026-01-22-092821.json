@@ -1,0 +1,52 @@
+{
+  "batch_id": "batch-2026-01-22-092821",
+  "timestamp": "2026-01-22T01:28:45.862620+00:00",
+  "imports": [
+    {
+      "date": "2024-02-29",
+      "since": "monthly",
+      "language": "all",
+      "file": "archive/2024-02-29/monthly/all.json",
+      "repo_count": 50,
+      "quality_score": 100,
+      "source_path": "/tmp/github-monthly-rank/2024/02.md"
+    },
+    {
+      "date": "2024-03-31",
+      "since": "monthly",
+      "language": "all",
+      "file": "archive/2024-03-31/monthly/all.json",
+      "repo_count": 50,
+      "quality_score": 100,
+      "source_path": "/tmp/github-monthly-rank/2024/03.md"
+    },
+    {
+      "date": "2024-04-30",
+      "since": "monthly",
+      "language": "all",
+      "file": "archive/2024-04-30/monthly/all.json",
+      "repo_count": 50,
+      "quality_score": 100,
+      "source_path": "/tmp/github-monthly-rank/2024/04.md"
+    },
+    {
+      "date": "2024-05-31",
+      "since": "monthly",
+      "language": "all",
+      "file": "archive/2024-05-31/monthly/all.json",
+      "repo_count": 50,
+      "quality_score": 100,
+      "source_path": "/tmp/github-monthly-rank/2024/05.md"
+    },
+    {
+      "date": "2024-06-30",
+      "since": "monthly",
+      "language": "all",
+      "file": "archive/2024-06-30/monthly/all.json",
+      "repo_count": 50,
+      "quality_score": 100,
+      "source_path": "/tmp/github-monthly-rank/2024/06.md"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,29 @@
+{
+  "timestamp": "2020-07-15T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 1,
+  "new_repos_count": 0,
+  "quality_score": 5,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "codecombat",
+      "repo_name": "codecombat",
+      "full_name": "codecombat/codecombat",
+      "url": "https://github.com/codecombat/codecombat",
+      "description": "Game for learning how to code.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-15.md"
+    }
+  ]
+}

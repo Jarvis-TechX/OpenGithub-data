@@ -1,0 +1,61 @@
+{
+  "timestamp": "2020-01-08T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 3,
+  "new_repos_count": 0,
+  "quality_score": 15,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "nicolaskruchten",
+      "repo_name": "pivottable",
+      "full_name": "nicolaskruchten/pivottable",
+      "url": "https://github.com/nicolaskruchten/pivottable",
+      "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-08.md"
+    },
+    {
+      "rank": 2,
+      "owner": "Leonidas-from-XIV",
+      "repo_name": "node-xml2js",
+      "full_name": "Leonidas-from-XIV/node-xml2js",
+      "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
+      "description": "XML to JavaScript object converter.",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-08.md"
+    },
+    {
+      "rank": 3,
+      "owner": "jarav",
+      "repo_name": "webgl",
+      "full_name": "jarav/webgl",
+      "url": "https://github.com/jarav/webgl",
+      "description": "* [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines): Chinese copywriting guidelines for better written communication",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-08.md"
+    }
+  ]
+}

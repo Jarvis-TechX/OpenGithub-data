@@ -1,0 +1,3427 @@
+{
+  "batch_id": "batch-2026-01-22-093310",
+  "timestamp": "2026-01-22T01:33:34.211383+00:00",
+  "imports": [
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-01/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-01/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-01/daily/python.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-01/daily/ruby.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-01/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-01/daily/makefile.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-01/daily/swift.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-01/daily/shell.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-01/daily/objective-c.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-01/daily/kotlin.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-01/daily/javascript.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-01/daily/html.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-01/daily/c.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-01/daily/typescript.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-01/daily/jupyter-notebook.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-01/daily/css.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-01/daily/tex.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-01/daily/vue.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-01/daily/markdown.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-02/daily/python.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-02/daily/go.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-02/daily/rust.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-02/daily/ruby.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-02/daily/c.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-02/daily/swift.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-02/daily/shell.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-02/daily/objective-c.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-02/daily/kotlin.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-02/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-02/daily/makefile.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-02/daily/html.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-02/daily/css.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-02/daily/typescript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-02/daily/javascript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-02/daily/jupyter-notebook.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-02/daily/vue.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-02/daily/markdown.json",
+      "repo_count": 4,
+      "quality_score": 20,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-02/daily/tex.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-03/daily/python.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-03/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-03/daily/go.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-03/daily/ruby.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-03/daily/c.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-03/daily/java.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-03/daily/swift.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-03/daily/shell.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-03/daily/makefile.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-03/daily/objective-c.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-03/daily/kotlin.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-03/daily/jupyter-notebook.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-03/daily/css.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-03/daily/html.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-03/daily/javascript.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-03/daily/vue.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-03/daily/tex.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-03/daily/markdown.json",
+      "repo_count": 4,
+      "quality_score": 20,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-03/daily/typescript.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-04/daily/python.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-04/daily/go.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-04/daily/ruby.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-04/daily/rust.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-04/daily/c.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-04/daily/makefile.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-04/daily/java.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-04/daily/shell.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-04/daily/swift.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-04/daily/objective-c.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-04/daily/kotlin.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-04/daily/jupyter-notebook.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-04/daily/html.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-04/daily/javascript.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-04/daily/typescript.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-04/daily/css.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-04/daily/vue.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-04/daily/tex.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-04/daily/markdown.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-05/daily/python.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-05/daily/rust.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-05/daily/go.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-05/daily/ruby.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-05/daily/c.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-05/daily/java.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-05/daily/shell.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-05/daily/makefile.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-05/daily/swift.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-05/daily/objective-c.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-05/daily/kotlin.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-05/daily/jupyter-notebook.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-05/daily/javascript.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-05/daily/html.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-05/daily/css.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-05/daily/typescript.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-05/daily/tex.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-05/daily/vue.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-05/daily/markdown.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-06/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-06/daily/ruby.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-06/daily/c.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-06/daily/python.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-06/daily/java.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-06/daily/makefile.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-06/daily/shell.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-06/daily/rust.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-06/daily/objective-c.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-06/daily/kotlin.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-06/daily/swift.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-06/daily/javascript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-06/daily/html.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-06/daily/typescript.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-06/daily/jupyter-notebook.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-06/daily/vue.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-06/daily/css.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-06/daily/tex.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-06/daily/markdown.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-07/daily/c.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-07/daily/rust.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-07/daily/ruby.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-07/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-07/daily/python.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-07/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-07/daily/shell.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-07/daily/makefile.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-07/daily/swift.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-07/daily/objective-c.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-07/daily/jupyter-notebook.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-07/daily/kotlin.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-07/daily/html.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-07/daily/javascript.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-07/daily/css.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-07/daily/vue.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-07/daily/typescript.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-07/daily/tex.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-07/daily/markdown.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-08/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-08/daily/rust.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-08/daily/python.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-08/daily/c.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-08/daily/ruby.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-08/daily/java.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-08/daily/makefile.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-08/daily/swift.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-08/daily/shell.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-08/daily/objective-c.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-08/daily/kotlin.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-08/daily/html.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-08/daily/typescript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-08/daily/javascript.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-08/daily/vue.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-08/daily/jupyter-notebook.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-08/daily/css.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-08/daily/tex.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-08/daily/markdown.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-09/daily/c.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-09/daily/python.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-09/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-09/daily/go.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-09/daily/ruby.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-09/daily/java.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-09/daily/shell.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-09/daily/makefile.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-09/daily/objective-c.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-09/daily/swift.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-09/daily/jupyter-notebook.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-09/daily/kotlin.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-09/daily/html.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-09/daily/javascript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-09/daily/typescript.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-09/daily/css.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-09/daily/tex.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-09/daily/vue.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-09/daily/markdown.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-10/daily/c.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-10/daily/python.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-10/daily/ruby.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-10/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-10/daily/shell.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-10/daily/java.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-10/daily/swift.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-10/daily/makefile.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-10/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-10/daily/javascript.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-10/daily/kotlin.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-10/daily/typescript.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-10/daily/html.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-10/daily/objective-c.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-10/daily/css.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-10/daily/vue.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-10/daily/tex.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-10/daily/markdown.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-10/daily/jupyter-notebook.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-11/daily/python.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-11/daily/ruby.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-11/daily/c.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-11/daily/go.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-11/daily/rust.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-11/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-11/daily/shell.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-11/daily/swift.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-11/daily/makefile.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-11/daily/kotlin.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-11/daily/jupyter-notebook.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-11/daily/html.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-11/daily/javascript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-11/daily/css.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-11/daily/objective-c.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-11/daily/typescript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-11/daily/vue.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-11/daily/tex.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-11/daily/markdown.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-12/daily/python.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-12/daily/c.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-12/daily/ruby.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-12/daily/rust.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-12/daily/go.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-12/daily/java.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-12/daily/shell.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-12/daily/objective-c.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-12/daily/makefile.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-12/daily/kotlin.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-12/daily/jupyter-notebook.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-12/daily/swift.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-12/daily/typescript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-12/daily/html.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-12/daily/javascript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-12/daily/css.json",
+      "repo_count": 8,
+      "quality_score": 40,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-12/daily/vue.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-12/daily/markdown.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-12/daily/tex.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-13/daily/ruby.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-13/daily/python.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-13/daily/rust.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-13/daily/go.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-13/daily/c.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-13/daily/java.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-13/daily/makefile.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-13/daily/shell.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-13/daily/objective-c.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-13/daily/kotlin.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-13/daily/swift.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-13/daily/jupyter-notebook.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-13/daily/javascript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-13/daily/html.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-13/daily/typescript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-13/daily/vue.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-13/daily/css.json",
+      "repo_count": 6,
+      "quality_score": 30,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-13/daily/tex.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-13/daily/markdown.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-14/daily/rust.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-14/daily/go.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-14/daily/ruby.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-14/daily/c.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-14/daily/java.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-14/daily/makefile.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-14/daily/shell.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-14/daily/objective-c.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-14/daily/kotlin.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-14/daily/swift.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-14/daily/html.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-14/daily/jupyter-notebook.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-14/daily/javascript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-14/daily/python.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-14/daily/css.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-14/daily/typescript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-14/daily/vue.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-14/daily/tex.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-14/daily/markdown.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-15/daily/python.json",
+      "repo_count": 8,
+      "quality_score": 40,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-15/daily/rust.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-15/daily/c.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-15/daily/go.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-15/daily/ruby.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-15/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-15/daily/shell.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-15/daily/swift.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-15/daily/makefile.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-15/daily/kotlin.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-15/daily/jupyter-notebook.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-15/daily/objective-c.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-15/daily/html.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-15/daily/javascript.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-15/daily/css.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-15/daily/typescript.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-15/daily/vue.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-15/daily/tex.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-15/daily/markdown.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-16/daily/python.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-16/daily/c.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-16/daily/go.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-16/daily/rust.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-16/daily/ruby.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-16/daily/java.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-16/daily/objective-c.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-16/daily/makefile.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-16/daily/shell.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-16/daily/swift.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-16/daily/kotlin.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-16/daily/jupyter-notebook.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-16/daily/html.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-16/daily/typescript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-16/daily/vue.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-16/daily/css.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-16/daily/javascript.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-16/daily/tex.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-16/daily/markdown.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-17/daily/python.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-17/daily/c.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-17/daily/rust.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-17/daily/go.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-17/daily/ruby.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-17/daily/java.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-17/daily/shell.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-17/daily/objective-c.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-17/daily/makefile.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-17/daily/swift.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-17/daily/kotlin.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-17/daily/jupyter-notebook.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-17/daily/html.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-17/daily/typescript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-17/daily/css.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-17/daily/javascript.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-17/daily/vue.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-17/daily/tex.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-17/daily/markdown.json",
+      "repo_count": 8,
+      "quality_score": 40,
+      "source_path": "/tmp/github-trending-backup/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-18/daily/python.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-18/daily/c.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-18/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-18/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-18/daily/ruby.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-18/daily/java.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-18/daily/shell.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-18/daily/makefile.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-18/daily/kotlin.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-18/daily/swift.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-18/daily/html.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-18/daily/jupyter-notebook.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-18/daily/javascript.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-18/daily/typescript.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-18/daily/css.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-18/daily/vue.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-18/daily/tex.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-18/daily/markdown.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-18/daily/objective-c.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-19/daily/c.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-19/daily/python.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-19/daily/go.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-19/daily/ruby.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-19/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-19/daily/java.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-19/daily/makefile.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-19/daily/shell.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-19/daily/objective-c.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-19/daily/swift.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-19/daily/kotlin.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-19/daily/jupyter-notebook.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-19/daily/javascript.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-19/daily/html.json",
+      "repo_count": 8,
+      "quality_score": 40,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-19/daily/tex.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-19/daily/vue.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-19/daily/css.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-19/daily/markdown.json",
+      "repo_count": 8,
+      "quality_score": 40,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-19/daily/typescript.json",
+      "repo_count": 9,
+      "quality_score": 45,
+      "source_path": "/tmp/github-trending-backup/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-20/daily/go.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-20/daily/rust.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-20/daily/python.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "c",
+      "file": "archive/2026-01-20/daily/c.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "ruby",
+      "file": "archive/2026-01-20/daily/ruby.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-20/daily/java.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "shell",
+      "file": "archive/2026-01-20/daily/shell.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "swift",
+      "file": "archive/2026-01-20/daily/swift.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "makefile",
+      "file": "archive/2026-01-20/daily/makefile.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "kotlin",
+      "file": "archive/2026-01-20/daily/kotlin.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "objective-c",
+      "file": "archive/2026-01-20/daily/objective-c.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "jupyter-notebook",
+      "file": "archive/2026-01-20/daily/jupyter-notebook.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "html",
+      "file": "archive/2026-01-20/daily/html.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-20/daily/javascript.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "typescript",
+      "file": "archive/2026-01-20/daily/typescript.json",
+      "repo_count": 6,
+      "quality_score": 30,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "css",
+      "file": "archive/2026-01-20/daily/css.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "vue",
+      "file": "archive/2026-01-20/daily/vue.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "tex",
+      "file": "archive/2026-01-20/daily/tex.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "markdown",
+      "file": "archive/2026-01-20/daily/markdown.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github-trending-backup/2026-01-20.md"
+    }
+  ],
+  "errors": []
+}

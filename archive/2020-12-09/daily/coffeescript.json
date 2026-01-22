@@ -1,0 +1,29 @@
+{
+  "timestamp": "2020-12-09T00:00:00Z",
+  "since": "daily",
+  "language": "coffeescript",
+  "total_count": 1,
+  "new_repos_count": 0,
+  "quality_score": 5,
+  "source": "import:larsbijl/trending-archive",
+  "quality_grade": "B",
+  "import_batch_id": "batch-2026-01-21-130404",
+  "repositories": [
+    {
+      "rank": 1,
+      "owner": "angular-ui",
+      "repo_name": "angular-google-maps",
+      "full_name": "angular-ui/angular-google-maps",
+      "url": "https://github.com/angular-ui/angular-google-maps",
+      "description": "AngularJS directives for the Google Maps Javascript API",
+      "language": "coffeescript",
+      "stars": 0,
+      "forks": 0,
+      "stars_today": 0,
+      "is_new": false,
+      "source": "import:larsbijl/trending-archive",
+      "quality_grade": "B",
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-09.md"
+    }
+  ]
+}
