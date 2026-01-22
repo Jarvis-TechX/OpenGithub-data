@@ -1,7 +1,7 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:10Z
+**Snapshot Time:** 2026-01-22T02:33:03Z
 **Total Repositories:** 19
 **New Entries:** 0
 **Quality Score:** 97.89/100
@@ -129,7 +129,7 @@ Flexible authentication solution for Rails with Warden.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 40,924 |
+| Stars | 40,925 |
 | Forks | 5,970 |
 | Stars today | 11 |
 
@@ -167,7 +167,7 @@ An uroboros program with 100+ programming languages
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,395 |
+| Stars | 14,396 |
 | Forks | 564 |
 | Stars today | 10 |
 

@@ -1,7 +1,7 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:18Z
+**Snapshot Time:** 2026-01-22T02:33:12Z
 **Total Repositories:** 19
 **New Entries:** 0
 **Quality Score:** 95.79/100
@@ -15,7 +15,7 @@ The Metadata Platform for your Data and AI Stack
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 11,463 |
+| Stars | 11,465 |
 | Forks | 3,343 |
 | Stars today | 6 |
 
@@ -93,7 +93,7 @@ Open-source IoT Platform - Device management, data collection, processing and vi
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 20,964 |
+| Stars | 20,965 |
 | Forks | 6,047 |
 | Stars today | 5 |
 
@@ -119,7 +119,7 @@ an easy-to-use dynamic service discovery, configuration and service management p
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 32,562 |
+| Stars | 32,564 |
 | Forks | 13,241 |
 | Stars today | 10 |
 
@@ -143,7 +143,7 @@ Free universal database tool and SQL client
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 48,333 |
+| Stars | 48,334 |
 | Forks | 4,007 |
 | Stars today | 35 |
 
@@ -156,7 +156,7 @@ All Algorithms implemented in Java
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 64,782 |
+| Stars | 64,781 |
 | Forks | 20,909 |
 | Stars today | 9 |
 
@@ -169,7 +169,7 @@ Free and Open Source, Distributed, RESTful Search Engine
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 75,935 |
+| Stars | 75,936 |
 | Forks | 25,795 |
 | Stars today | 21 |
 
@@ -205,7 +205,7 @@ Design patterns implemented in Java
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 93,648 |
+| Stars | 93,647 |
 | Forks | 27,373 |
 | Stars today | 8 |
 

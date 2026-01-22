@@ -1,7 +1,7 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:07Z
+**Snapshot Time:** 2026-01-22T02:33:00Z
 **Total Repositories:** 12
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -16,7 +16,7 @@ PDF Reader in JavaScript
 |--------|-------|
 | Language | JavaScript |
 | Stars | 52,695 |
-| Forks | 10,569 |
+| Forks | 10,570 |
 | Stars today | 12 |
 
 ---
@@ -41,7 +41,7 @@ A Privacy First PDF Toolkit
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,510 |
+| Stars | 10,511 |
 | Forks | 805 |
 | Stars today | 64 |
 
@@ -55,7 +55,7 @@ A Privacy First PDF Toolkit
 |--------|-------|
 | Language | JavaScript |
 | Stars | 5,318 |
-| Forks | 563 |
+| Forks | 564 |
 | Stars today | 23 |
 
 ---
@@ -119,7 +119,7 @@ jQuery JavaScript Library
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 59,777 |
+| Stars | 59,778 |
 | Forks | 20,503 |
 | Stars today | 20 |
 
@@ -132,7 +132,7 @@ jQuery JavaScript Library
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 38,864 |
+| Stars | 38,865 |
 | Forks | 3,412 |
 | Stars today | 29 |
 
@@ -158,8 +158,8 @@ A script allowing you to download images and videos from Telegram web even if th
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,414 |
-| Forks | 323 |
+| Stars | 3,417 |
+| Forks | 324 |
 | Stars today | 5 |
 
 ---

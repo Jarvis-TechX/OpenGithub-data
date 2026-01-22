@@ -1,7 +1,7 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:20Z
+**Snapshot Time:** 2026-01-22T02:33:18Z
 **Total Repositories:** 17
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,7 +15,7 @@ A tool for creating and running Linux containers using lightweight virtual machi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 23,476 |
+| Stars | 23,477 |
 | Forks | 594 |
 | Stars today | 105 |
 
@@ -156,7 +156,7 @@ Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with A
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,090 |
+| Stars | 1,092 |
 | Forks | 71 |
 | Stars today | 19 |
 

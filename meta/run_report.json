@@ -1,12 +1,12 @@
 {
-  "run_timestamp": "2026-01-22T01:59:49Z",
+  "run_timestamp": "2026-01-22T02:33:18Z",
   "total_snapshots": 1,
   "snapshots": [
     {
       "language": "swift",
-      "since": "monthly",
-      "timestamp": "2026-01-22T01:59:49Z",
-      "total_count": 19,
+      "since": "daily",
+      "timestamp": "2026-01-22T02:33:18Z",
+      "total_count": 17,
       "new_repos_count": 0,
       "quality_score": 100.0
     }

@@ -1,7 +1,7 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-22T01:59:12Z
+**Snapshot Time:** 2026-01-22T02:33:06Z
 **Total Repositories:** 21
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -28,7 +28,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 31,059 |
+| Stars | 31,060 |
 | Forks | 2,885 |
 | Stars today | 15 |
 
@@ -41,7 +41,7 @@ Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC,
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,809 |
+| Stars | 11,810 |
 | Forks | 893 |
 | Stars today | 475 |
 
@@ -54,7 +54,7 @@ Repository for the next iteration of composite service (e.g. Ingress) and load b
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,589 |
+| Stars | 2,590 |
 | Forks | 657 |
 | Stars today | 8 |
 
@@ -80,7 +80,7 @@ High-Performance server for NATS.io, the cloud and edge native messaging system.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 19,004 |
+| Stars | 19,005 |
 | Forks | 1,720 |
 | Stars today | 9 |
 
@@ -93,7 +93,7 @@ Automatically provision and manage TLS certificates in Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 13,493 |
+| Stars | 13,494 |
 | Forks | 2,300 |
 | Stars today | 3 |
 
@@ -275,7 +275,7 @@ A continuation of HomeBox the inventory and organization system built for the Ho
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,962 |
+| Stars | 4,963 |
 | Forks | 311 |
 | Stars today | 20 |
 
