@@ -1,49 +1,49 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-01-21T01:48:19Z
+**Snapshot Time:** 2026-01-22T01:59:07Z
 **Total Repositories:** 13
-**New Entries:** 0
+**New Entries:** 8
 **Quality Score:** 96.92/100
 
 ---
 
-## 1. [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
+## 1. [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+
+Official Claude Code compound engineering plugin
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 5,696 |
+| Forks | 458 |
+| Stars today | 190 |
+
+---
+
+## 2. [xai-org/grok-1](https://github.com/xai-org/grok-1) 🆕
+
+Grok open release
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 50,965 |
+| Forks | 8,426 |
+| Stars today | 141 |
+
+---
+
+## 3. [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)
 
 The absolute trainer to light up AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 10,786 |
-| Forks | 884 |
-| Stars today | 98 |
-
----
-
-## 2. [google/langextract](https://github.com/google/langextract)
-
-A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 23,207 |
-| Forks | 1,595 |
-| Stars today | 552 |
-
----
-
-## 3. [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
-
-RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 9,499 |
-| Forks | 819 |
-| Stars today | 296 |
+| Stars | 11,208 |
+| Forks | 918 |
+| Stars today | 527 |
 
 ---
 
@@ -54,123 +54,123 @@ RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, ac
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,855 |
-| Forks | 478 |
-| Stars today | 288 |
+| Stars | 6,106 |
+| Forks | 486 |
+| Stars today | 100 |
 
 ---
 
-## 5. [public-apis/public-apis](https://github.com/public-apis/public-apis)
-
-A collective list of free APIs
+## 5. [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 392,417 |
-| Forks | 41,989 |
-| Stars today | 442 |
+| Stars | 16,239 |
+| Forks | 1,541 |
+| Stars today | 97 |
 
 ---
 
-## 6. [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
+## 6. [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) 🆕
+
+Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 16,164 |
-| Forks | 1,536 |
-| Stars today | 380 |
+| Stars | 68,556 |
+| Forks | 9,679 |
+| Stars today | 142 |
 
 ---
 
-## 7. [verygoodplugins/automem](https://github.com/verygoodplugins/automem)
+## 7. [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) 🆕
 
-AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:
+🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 496 |
-| Forks | 59 |
-| Stars today | 64 |
+| Stars | 3,257 |
+| Forks | 1,526 |
+| Stars today | 36 |
 
 ---
 
-## 8. [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)
+## 8. [pytorch/executorch](https://github.com/pytorch/executorch) 🆕
 
-Official Claude Code compound engineering plugin
+On-device AI across mobile, embedded and edge for PyTorch
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,325 |
-| Forks | 441 |
-| Stars today | 272 |
+| Stars | 4,170 |
+| Forks | 806 |
+| Stars today | 7 |
 
 ---
 
-## 9. [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)
+## 9. [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) 🆕
 
-Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+A tool designed to simplify the creation of OpenCore EFI
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,362 |
-| Forks | 739 |
-| Stars today | 135 |
+| Stars | 4,696 |
+| Forks | 460 |
+| Stars today | 32 |
 
 ---
 
-## 10. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+## 10. [karpathy/nanochat](https://github.com/karpathy/nanochat) 🆕
 
-VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+The best ChatGPT that $100 can buy.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,287 |
-| Forks | 613 |
-| Stars today | 584 |
+| Stars | 40,605 |
+| Forks | 5,255 |
+| Stars today | 42 |
 
 ---
 
-## 11. [thu-ml/tianshou](https://github.com/thu-ml/tianshou)
+## 11. [vllm-project/vllm](https://github.com/vllm-project/vllm) 🆕
 
-An elegant PyTorch deep reinforcement learning library.
+A high-throughput and memory-efficient inference and serving engine for LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,628 |
-| Forks | 1,233 |
-| Stars today | 118 |
+| Stars | 68,057 |
+| Forks | 12,765 |
+| Stars today | 101 |
 
 ---
 
-## 12. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+## 12. [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
 
-CLI tool for configuring and monitoring Claude Code
+RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 17,767 |
-| Forks | 1,604 |
-| Stars today | 249 |
+| Stars | 9,539 |
+| Forks | 822 |
+| Stars today | 45 |
 
 ---
 
-## 13. [serengil/deepface](https://github.com/serengil/deepface)
+## 13. [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) 🆕
 
-A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
+NanoGPT (124M) in 2 minutes
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 21,868 |
-| Forks | 2,981 |
-| Stars today | 29 |
+| Stars | 4,196 |
+| Forks | 562 |
+| Stars today | 16 |
 
 ---
