@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-01-22T10:08:54.658069",
+  "total_dates": 3236,
+  "date_range": [
+    "2016-11-27",
+    "2026-01-31"
+  ],
+  "periods": {
+    "daily": {
+      "dates": 3235,
+      "files": 16393
+    },
+    "weekly": {
+      "dates": 136,
+      "files": 136
+    },
+    "monthly": {
+      "dates": 24,
+      "files": 24
+    }
+  },
+  "languages": {
+    "java": {
+      "days": 3234,
+      "files": 3234
+    },
+    "go": {
+      "days": 3235,
+      "files": 3235
+    },
+    "javascript": {
+      "days": 3230,
+      "files": 3230
+    },
+    "python": {
+      "days": 3229,
+      "files": 3229
+    },
+    "rust": {
+      "days": 2796,
+      "files": 2796
+    },
+    "all": {
+      "days": 679,
+      "files": 829
+    }
+  },
+  "sources": {
+    "frodeaa": {
+      "files": 15724,
+      "percentage": "95.0%"
+    },
+    "opengithubs-daily": {
+      "files": 669,
+      "percentage": "4.0%"
+    },
+    "opengithubs-weekly": {
+      "files": 136,
+      "percentage": "0.8%"
+    },
+    "opengithubs-monthly": {
+      "files": 24,
+      "percentage": "0.1%"
+    }
+  }
+}

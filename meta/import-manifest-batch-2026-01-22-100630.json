@@ -1,0 +1,1231 @@
+{
+  "batch_id": "batch-2026-01-22-100630",
+  "timestamp": "2026-01-22T02:06:31.782582+00:00",
+  "imports": [
+    {
+      "date": "2024-01-19",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-01-19/weekly/all.json",
+      "repo_count": 30,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/01/1.13-1.19.md"
+    },
+    {
+      "date": "2024-01-26",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-01-26/weekly/all.json",
+      "repo_count": 30,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/01/1.20-1.26.md"
+    },
+    {
+      "date": "2024-01-31",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-01-31/weekly/all.json",
+      "repo_count": 30,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/01/1.25-1.31.md"
+    },
+    {
+      "date": "2024-02-05",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-02-05/weekly/all.json",
+      "repo_count": 30,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/02/20240205.md"
+    },
+    {
+      "date": "2024-02-19",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-02-19/weekly/all.json",
+      "repo_count": 30,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/02/20240219.md"
+    },
+    {
+      "date": "2024-02-26",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-02-26/weekly/all.json",
+      "repo_count": 25,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/02/20240226.md"
+    },
+    {
+      "date": "2024-03-04",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-03-04/weekly/all.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/03/20240304.md"
+    },
+    {
+      "date": "2024-03-11",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-03-11/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/03/20240311.md"
+    },
+    {
+      "date": "2024-03-18",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-03-18/weekly/all.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-weekly-rank/2024/03/20240318.md"
+    },
+    {
+      "date": "2024-03-22",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-03-22/weekly/all.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-weekly-rank/2024/03/20240322.md"
+    },
+    {
+      "date": "2024-03-25",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-03-25/weekly/all.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-weekly-rank/2024/03/20240325.md"
+    },
+    {
+      "date": "2024-03-28",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-03-28/weekly/all.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-weekly-rank/2024/03/20240328.md"
+    },
+    {
+      "date": "2024-04-01",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-04-01/weekly/all.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-weekly-rank/2024/04/20240401.md"
+    },
+    {
+      "date": "2024-04-07",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-04-07/weekly/all.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-weekly-rank/2024/04/20240407.md"
+    },
+    {
+      "date": "2024-04-08",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-04-08/weekly/all.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/04/20240408.md"
+    },
+    {
+      "date": "2024-04-15",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-04-15/weekly/all.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/04/20240415.md"
+    },
+    {
+      "date": "2024-04-18",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-04-18/weekly/all.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/04/20240418.md"
+    },
+    {
+      "date": "2024-04-22",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-04-22/weekly/all.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/04/20240422.md"
+    },
+    {
+      "date": "2024-04-28",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-04-28/weekly/all.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/04/20240428.md"
+    },
+    {
+      "date": "2024-04-29",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-04-29/weekly/all.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/04/20240429.md"
+    },
+    {
+      "date": "2024-05-06",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-05-06/weekly/all.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/05/20240506.md"
+    },
+    {
+      "date": "2024-05-13",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-05-13/weekly/all.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-weekly-rank/2024/05/20240513.md"
+    },
+    {
+      "date": "2024-05-20",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-05-20/weekly/all.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-weekly-rank/2024/05/20240520.md"
+    },
+    {
+      "date": "2024-05-27",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-05-27/weekly/all.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github-weekly-rank/2024/05/20240527.md"
+    },
+    {
+      "date": "2024-06-03",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-06-03/weekly/all.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/06/20240603.md"
+    },
+    {
+      "date": "2024-06-11",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-06-11/weekly/all.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/06/20240611.md"
+    },
+    {
+      "date": "2024-06-17",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-06-17/weekly/all.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/06/20240617.md"
+    },
+    {
+      "date": "2024-06-24",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-06-24/weekly/all.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github-weekly-rank/2024/06/20240624.md"
+    },
+    {
+      "date": "2024-07-01",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-07-01/weekly/all.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/07/20240701.md"
+    },
+    {
+      "date": "2024-07-02",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-07-02/weekly/all.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/07/20240702.md"
+    },
+    {
+      "date": "2024-07-08",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-07-08/weekly/all.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/07/20240708.md"
+    },
+    {
+      "date": "2024-07-15",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-07-15/weekly/all.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/07/20240715.md"
+    },
+    {
+      "date": "2024-07-19",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-07-19/weekly/all.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/07/20240719.md"
+    },
+    {
+      "date": "2024-07-22",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-07-22/weekly/all.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/07/20240722.md"
+    },
+    {
+      "date": "2024-07-31",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-07-31/weekly/all.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/07/20240731.md"
+    },
+    {
+      "date": "2024-08-12",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-08-12/weekly/all.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/08/20240812.md"
+    },
+    {
+      "date": "2024-08-16",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-08-16/weekly/all.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-weekly-rank/2024/08/20240816.md"
+    },
+    {
+      "date": "2024-08-19",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-08-19/weekly/all.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github-weekly-rank/2024/08/20240819.md"
+    },
+    {
+      "date": "2024-08-26",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-08-26/weekly/all.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/08/20240826.md"
+    },
+    {
+      "date": "2024-08-29",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-08-29/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/08/20240829.md"
+    },
+    {
+      "date": "2024-08-30",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-08-30/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/08/20240830.md"
+    },
+    {
+      "date": "2024-09-02",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-09-02/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/09/20240902.md"
+    },
+    {
+      "date": "2024-09-09",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-09-09/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/09/20240909.md"
+    },
+    {
+      "date": "2024-09-16",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-09-16/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/09/20240916.md"
+    },
+    {
+      "date": "2024-09-23",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-09-23/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/09/20240923.md"
+    },
+    {
+      "date": "2024-09-30",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-09-30/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/09/20240930.md"
+    },
+    {
+      "date": "2024-10-07",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-10-07/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/10/20241007.md"
+    },
+    {
+      "date": "2024-10-14",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-10-14/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/10/20241014.md"
+    },
+    {
+      "date": "2024-10-21",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-10-21/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/10/20241021.md"
+    },
+    {
+      "date": "2024-10-28",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-10-28/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/10/20241028.md"
+    },
+    {
+      "date": "2024-10-31",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-10-31/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/10/20241031.md"
+    },
+    {
+      "date": "2024-11-04",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-11-04/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/11/20241104.md"
+    },
+    {
+      "date": "2024-11-11",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-11-11/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/11/20241111.md"
+    },
+    {
+      "date": "2024-11-18",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-11-18/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/11/20241118.md"
+    },
+    {
+      "date": "2024-11-29",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-11-29/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/11/20241129.md"
+    },
+    {
+      "date": "2024-12-02",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-12-02/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/12/20241202.md"
+    },
+    {
+      "date": "2024-12-09",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-12-09/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/12/20241209.md"
+    },
+    {
+      "date": "2024-12-16",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-12-16/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/12/20241216.md"
+    },
+    {
+      "date": "2024-12-23",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-12-23/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/12/20241223.md"
+    },
+    {
+      "date": "2024-12-30",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2024-12-30/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2024/12/20241230.md"
+    },
+    {
+      "date": "2025-01-06",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-01-06/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/01/20250106.md"
+    },
+    {
+      "date": "2025-01-13",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-01-13/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/01/20250113.md"
+    },
+    {
+      "date": "2025-01-20",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-01-20/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/01/20250120.md"
+    },
+    {
+      "date": "2025-01-27",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-01-27/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/01/20250127.md"
+    },
+    {
+      "date": "2025-02-03",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-02-03/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/02/20250203.md"
+    },
+    {
+      "date": "2025-02-05",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-02-05/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/02/20250205.md"
+    },
+    {
+      "date": "2025-02-10",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-02-10/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/02/20250210.md"
+    },
+    {
+      "date": "2025-02-17",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-02-17/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/02/20250217.md"
+    },
+    {
+      "date": "2025-02-18",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-02-18/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/02/20250218.md"
+    },
+    {
+      "date": "2025-02-24",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-02-24/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/02/20250224.md"
+    },
+    {
+      "date": "2025-03-03",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-03-03/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/03/20250303.md"
+    },
+    {
+      "date": "2025-03-10",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-03-10/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/03/20250310.md"
+    },
+    {
+      "date": "2025-03-14",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-03-14/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/03/20250314.md"
+    },
+    {
+      "date": "2025-03-17",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-03-17/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/03/20250317.md"
+    },
+    {
+      "date": "2025-03-18",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-03-18/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/03/20250318.md"
+    },
+    {
+      "date": "2025-03-24",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-03-24/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/03/20250324.md"
+    },
+    {
+      "date": "2025-03-25",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-03-25/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/03/20250325.md"
+    },
+    {
+      "date": "2025-03-28",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-03-28/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/03/20250328.md"
+    },
+    {
+      "date": "2025-03-31",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-03-31/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/03/20250331.md"
+    },
+    {
+      "date": "2025-04-01",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-04-01/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/04/20250401.md"
+    },
+    {
+      "date": "2025-04-07",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-04-07/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/04/20250407.md"
+    },
+    {
+      "date": "2025-04-14",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-04-14/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/04/20250414.md"
+    },
+    {
+      "date": "2025-04-18",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-04-18/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/04/20250418.md"
+    },
+    {
+      "date": "2025-04-21",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-04-21/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/04/20250421.md"
+    },
+    {
+      "date": "2025-04-28",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-04-28/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/04/20250428.md"
+    },
+    {
+      "date": "2025-05-06",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-05-06/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/05/20250506.md"
+    },
+    {
+      "date": "2025-05-09",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-05-09/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/05/20250509.md"
+    },
+    {
+      "date": "2025-05-12",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-05-12/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/05/20250512.md"
+    },
+    {
+      "date": "2025-05-19",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-05-19/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/05/20250519.md"
+    },
+    {
+      "date": "2025-05-26",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-05-26/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/05/20250526.md"
+    },
+    {
+      "date": "2025-06-02",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-06-02/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/06/20250602.md"
+    },
+    {
+      "date": "2025-06-06",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-06-06/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/06/20250606.md"
+    },
+    {
+      "date": "2025-06-09",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-06-09/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/06/20250609.md"
+    },
+    {
+      "date": "2025-06-13",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-06-13/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/06/20250613.md"
+    },
+    {
+      "date": "2025-06-16",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-06-16/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/06/20250616.md"
+    },
+    {
+      "date": "2025-06-20",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-06-20/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/06/20250620.md"
+    },
+    {
+      "date": "2025-06-23",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-06-23/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/06/20250623.md"
+    },
+    {
+      "date": "2025-06-30",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-06-30/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/06/20250630.md"
+    },
+    {
+      "date": "2025-07-07",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-07-07/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/07/20250707.md"
+    },
+    {
+      "date": "2025-07-14",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-07-14/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/07/20250714.md"
+    },
+    {
+      "date": "2025-07-21",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-07-21/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/07/20250721.md"
+    },
+    {
+      "date": "2025-07-28",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-07-28/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/07/20250728.md"
+    },
+    {
+      "date": "2025-07-31",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-07-31/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/07/20250731.md"
+    },
+    {
+      "date": "2025-08-04",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-08-04/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/08/20250804.md"
+    },
+    {
+      "date": "2025-08-11",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-08-11/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/08/20250811.md"
+    },
+    {
+      "date": "2025-08-15",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-08-15/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/08/20250815.md"
+    },
+    {
+      "date": "2025-08-18",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-08-18/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/08/20250818.md"
+    },
+    {
+      "date": "2025-08-25",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-08-25/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/08/20250825.md"
+    },
+    {
+      "date": "2025-09-01",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-09-01/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/09/20250901.md"
+    },
+    {
+      "date": "2025-09-05",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-09-05/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/09/20250905.md"
+    },
+    {
+      "date": "2025-09-08",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-09-08/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/09/20250908.md"
+    },
+    {
+      "date": "2025-09-15",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-09-15/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/09/20250915.md"
+    },
+    {
+      "date": "2025-09-22",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-09-22/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/09/20250922.md"
+    },
+    {
+      "date": "2025-09-25",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-09-25/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/09/20250925.md"
+    },
+    {
+      "date": "2025-09-26",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-09-26/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/09/20250926.md"
+    },
+    {
+      "date": "2025-09-29",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-09-29/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/09/20250929.md"
+    },
+    {
+      "date": "2025-10-06",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-10-06/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/10/20251006.md"
+    },
+    {
+      "date": "2025-10-08",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-10-08/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/10/20251008.md"
+    },
+    {
+      "date": "2025-10-13",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-10-13/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/10/20251013.md"
+    },
+    {
+      "date": "2025-10-14",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-10-14/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/10/20251014.md"
+    },
+    {
+      "date": "2025-10-20",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-10-20/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/10/20251020.md"
+    },
+    {
+      "date": "2025-10-27",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-10-27/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/10/20251027.md"
+    },
+    {
+      "date": "2025-10-28",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-10-28/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/10/20251028.md"
+    },
+    {
+      "date": "2025-11-03",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-11-03/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/11/20251103.md"
+    },
+    {
+      "date": "2025-11-10",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-11-10/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/11/20251110.md"
+    },
+    {
+      "date": "2025-11-17",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-11-17/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/11/20251117.md"
+    },
+    {
+      "date": "2025-11-24",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-11-24/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/11/20251124.md"
+    },
+    {
+      "date": "2025-12-01",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-12-01/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/12/20251201.md"
+    },
+    {
+      "date": "2025-12-08",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-12-08/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/12/20251208.md"
+    },
+    {
+      "date": "2025-12-15",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-12-15/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/12/20251215.md"
+    },
+    {
+      "date": "2025-12-22",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-12-22/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/12/20251222.md"
+    },
+    {
+      "date": "2025-12-29",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2025-12-29/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2025/12/20251229.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2026-01-05/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2026/01/20260105.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2026-01-09/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2026/01/20260109.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2026-01-12/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2026/01/20260112.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "weekly",
+      "language": "all",
+      "file": "archive/2026-01-19/weekly/all.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github-weekly-rank/2026/01/20260119.md"
+    }
+  ],
+  "errors": []
+}
