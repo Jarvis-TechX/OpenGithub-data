@@ -1,0 +1,81 @@
+{
+  "batch_id": "batch-2026-01-23-160821",
+  "source": "frodeaa",
+  "timestamp": "2026-01-23T16:08:40.152706",
+  "total_skipped": 10,
+  "by_reason": {
+    "grade_a_protected": 10
+  },
+  "skipped": [
+    {
+      "date": "2026-01-21",
+      "since": "daily",
+      "language": "go",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-21.md"
+    },
+    {
+      "date": "2026-01-21",
+      "since": "daily",
+      "language": "java",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-21.md"
+    },
+    {
+      "date": "2026-01-21",
+      "since": "daily",
+      "language": "javascript",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-21.md"
+    },
+    {
+      "date": "2026-01-21",
+      "since": "daily",
+      "language": "python",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-21.md"
+    },
+    {
+      "date": "2026-01-21",
+      "since": "daily",
+      "language": "rust",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-21.md"
+    },
+    {
+      "date": "2026-01-22",
+      "since": "daily",
+      "language": "go",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-22.md"
+    },
+    {
+      "date": "2026-01-22",
+      "since": "daily",
+      "language": "java",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-22.md"
+    },
+    {
+      "date": "2026-01-22",
+      "since": "daily",
+      "language": "javascript",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-22.md"
+    },
+    {
+      "date": "2026-01-22",
+      "since": "daily",
+      "language": "python",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-22.md"
+    },
+    {
+      "date": "2026-01-22",
+      "since": "daily",
+      "language": "rust",
+      "reason": "grade_a_protected",
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-22.md"
+    }
+  ]
+}

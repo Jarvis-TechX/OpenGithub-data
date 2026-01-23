@@ -1,0 +1,907 @@
+{
+  "batch_id": "batch-2026-01-23-160821",
+  "timestamp": "2026-01-23T08:08:39.913086+00:00",
+  "imports": [
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-01/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-01/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-01/daily/javascript.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-01/daily/python.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-01",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-01/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-01.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-02/daily/go.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-02/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-02/daily/javascript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-02/daily/python.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-02",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-02/daily/rust.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-02.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-03/daily/go.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-03/daily/java.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-03/daily/javascript.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-03/daily/python.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-03",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-03/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-03.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-04/daily/go.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-04/daily/java.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-04/daily/javascript.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-04/daily/python.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-04",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-04/daily/rust.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-04.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-05/daily/go.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-05/daily/java.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-05/daily/javascript.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-05/daily/python.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-05",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-05/daily/rust.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-05.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-06/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-06/daily/java.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-06/daily/javascript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-06/daily/python.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-06",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-06/daily/rust.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-06.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-07/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-07/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-07/daily/javascript.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-07/daily/python.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-07",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-07/daily/rust.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-07.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-08/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-08/daily/java.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-08/daily/javascript.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-08/daily/python.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-08",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-08/daily/rust.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-08.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-09/daily/go.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-09/daily/java.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-09/daily/javascript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-09/daily/python.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-09",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-09/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-09.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-10/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-10/daily/java.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-10/daily/javascript.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-10/daily/python.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-10",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-10/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-10.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-11/daily/go.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-11/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-11/daily/javascript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-11/daily/python.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-11",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-11/daily/rust.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-11.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-12/daily/go.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-12/daily/java.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-12/daily/javascript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-12/daily/python.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-12",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-12/daily/rust.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-12.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-13/daily/go.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-13/daily/java.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-13/daily/javascript.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-13/daily/python.json",
+      "repo_count": 15,
+      "quality_score": 75,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-13",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-13/daily/rust.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-13.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-14/daily/go.json",
+      "repo_count": 24,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-14/daily/java.json",
+      "repo_count": 19,
+      "quality_score": 95,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-14/daily/javascript.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-14/daily/python.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-14",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-14/daily/rust.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-14.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-15/daily/go.json",
+      "repo_count": 23,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-15/daily/java.json",
+      "repo_count": 21,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-15/daily/javascript.json",
+      "repo_count": 11,
+      "quality_score": 55,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-15/daily/python.json",
+      "repo_count": 8,
+      "quality_score": 40,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-15",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-15/daily/rust.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-15.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-16/daily/go.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-16/daily/java.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-16/daily/javascript.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-16/daily/python.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-16",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-16/daily/rust.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-16.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-17/daily/go.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-17/daily/java.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-17/daily/javascript.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-17/daily/python.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-17",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-17/daily/rust.json",
+      "repo_count": 22,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-17.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-18/daily/go.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-18/daily/java.json",
+      "repo_count": 14,
+      "quality_score": 70,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-18/daily/javascript.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-18/daily/python.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-18",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-18/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-18.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-19/daily/go.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-19/daily/java.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-19/daily/javascript.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-19/daily/python.json",
+      "repo_count": 12,
+      "quality_score": 60,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-19",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-19/daily/rust.json",
+      "repo_count": 20,
+      "quality_score": 100,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-19.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "go",
+      "file": "archive/2026-01-20/daily/go.json",
+      "repo_count": 18,
+      "quality_score": 90,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "java",
+      "file": "archive/2026-01-20/daily/java.json",
+      "repo_count": 17,
+      "quality_score": 85,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "javascript",
+      "file": "archive/2026-01-20/daily/javascript.json",
+      "repo_count": 10,
+      "quality_score": 50,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "python",
+      "file": "archive/2026-01-20/daily/python.json",
+      "repo_count": 13,
+      "quality_score": 65,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-20.md"
+    },
+    {
+      "date": "2026-01-20",
+      "since": "daily",
+      "language": "rust",
+      "file": "archive/2026-01-20/daily/rust.json",
+      "repo_count": 16,
+      "quality_score": 80,
+      "source_path": "/tmp/github_trending_archive/archive/2026-01/2026-01-20.md"
+    }
+  ],
+  "errors": []
+}
