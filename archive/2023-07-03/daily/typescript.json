@@ -15,15 +15,17 @@
       "repo_name": "wefwef",
       "full_name": "aeharding/wefwef",
       "url": "https://github.com/aeharding/wefwef",
-      "description": "wefwef — a mobile-first Lemmy web client",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Voyager — a beautiful app for Lemmy",
+      "language": "TypeScript",
+      "stars": 1724,
+      "forks": 172,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "AFFiNE",
       "full_name": "toeverything/AFFiNE",
       "url": "https://github.com/toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "language": "TypeScript",
+      "stars": 62117,
+      "forks": 4310,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "memos",
       "full_name": "usememos/memos",
       "url": "https://github.com/usememos/memos",
-      "description": "A lightweight, self-hosted memo hub. Open Source and Free forever.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+      "language": "Go",
+      "stars": 55344,
+      "forks": 3972,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "thedevs-network/kutt",
       "url": "https://github.com/thedevs-network/kutt",
       "description": "Free Modern URL Shortener.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10515,
+      "forks": 1407,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "bluesky-social/feed-generator",
       "url": "https://github.com/bluesky-social/feed-generator",
       "description": "ATProto Feed Generator Starter Kit",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1986,
+      "forks": 714,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "calcom/cal.com",
       "url": "https://github.com/calcom/cal.com",
       "description": "Scheduling infrastructure for absolutely everyone.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 39833,
+      "forks": 11663,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "balena-io/etcher",
       "url": "https://github.com/balena-io/etcher",
       "description": "Flash OS images to SD cards & USB drives, safely and easily.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 32995,
+      "forks": 2322,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "bluesky-social/social-app",
       "url": "https://github.com/bluesky-social/social-app",
       "description": "The Bluesky Social application for Web, iOS, and Android",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 17591,
+      "forks": 2591,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "owncast",
       "full_name": "owncast/owncast",
       "url": "https://github.com/owncast/owncast",
-      "description": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box.",
+      "language": "Go",
+      "stars": 10871,
+      "forks": 1171,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "angular/components",
       "url": "https://github.com/angular/components",
       "description": "Component infrastructure and Material Design components for Angular",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 24981,
+      "forks": 6843,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "bluesky-social/atproto",
       "url": "https://github.com/bluesky-social/atproto",
       "description": "Social networking technology created by Bluesky",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 9070,
+      "forks": 814,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 14,
@@ -231,7 +257,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "t3-oss/create-t3-turbo",
       "url": "https://github.com/t3-oss/create-t3-turbo",
       "description": "Clean and simple starter repo using the T3 Stack along with Expo React Native",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 5931,
+      "forks": 546,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "tierrun/tier-vercel-openai",
       "url": "https://github.com/tierrun/tier-vercel-openai",
       "description": "This project generates marketing content using OpenAI, implements metered pricing model, checks for feature access based on their current subscription, reports usage of a feature, manages subscription and more using Tier.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 342,
+      "forks": 52,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "imgly/background-removal-js",
       "url": "https://github.com/imgly/background-removal-js",
       "description": "Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6908,
+      "forks": 447,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "quivr",
       "full_name": "StanGirard/quivr",
       "url": "https://github.com/StanGirard/quivr",
-      "description": "🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ",
+      "language": "Python",
+      "stars": 38880,
+      "forks": 3722,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "mdn/yari",
       "url": "https://github.com/mdn/yari",
       "description": "The platform code behind MDN Web Docs",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1274,
+      "forks": 548,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "memmy",
       "full_name": "Memmy-App/memmy",
       "url": "https://github.com/Memmy-App/memmy",
-      "description": "An iOS client for Lemmy",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "An Apollo inspired open-source iOS and Android client for Lemmy built with React-Native. Find us on the App Store and Google Play!",
+      "language": "TypeScript",
+      "stars": 537,
+      "forks": 53,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "chatgpt-demo",
       "full_name": "anse-app/chatgpt-demo",
       "url": "https://github.com/anse-app/chatgpt-demo",
-      "description": "Minimal web UI for ChatGPT.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Minimal web UI for ChatGPT. ",
+      "language": "TypeScript",
+      "stars": 8040,
+      "forks": 3672,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "civitai/civitai",
       "url": "https://github.com/civitai/civitai",
       "description": "A repository of models, textual inversions, and more",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6994,
+      "forks": 711,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     }
   ]
 }

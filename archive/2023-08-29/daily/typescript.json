@@ -15,15 +15,17 @@
       "repo_name": "Rocket.Chat",
       "full_name": "RocketChat/Rocket.Chat",
       "url": "https://github.com/RocketChat/Rocket.Chat",
-      "description": "The communications platform that puts data protection first.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Secure CommsOS™ for mission-critical operations",
+      "language": "TypeScript",
+      "stars": 44392,
+      "forks": 13000,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "kamranahmedse/developer-roadmap",
       "url": "https://github.com/kamranahmedse/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 347792,
+      "forks": 43650,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "paradigmxyz/rivet",
       "url": "https://github.com/paradigmxyz/rivet",
       "description": "Developer Wallet & DevTools for Anvil",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 930,
+      "forks": 91,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "TypeStrong/typedoc",
       "url": "https://github.com/TypeStrong/typedoc",
       "description": "Documentation generator for TypeScript projects.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 8331,
+      "forks": 753,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "withfig/autocomplete",
       "url": "https://github.com/withfig/autocomplete",
       "description": "IDE-style autocomplete for your existing terminal & shell",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 25073,
+      "forks": 5514,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "ikun-ui",
       "full_name": "ikun-svelte/ikun-ui",
       "url": "https://github.com/ikun-svelte/ikun-ui",
-      "description": "🐔A Svelte.js based UnoCSS UI library that allows you to make websites",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🐔A Svelte.js based UnoCSS UI library that allows you to make  websites",
+      "language": "TypeScript",
+      "stars": 1473,
+      "forks": 92,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "bautistaaa/typehero",
       "url": "https://github.com/bautistaaa/typehero",
       "description": "Connect, collaborate, and grow with a community of TypeScript developers",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6570,
+      "forks": 461,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "LibreChat",
       "full_name": "danny-avila/LibreChat",
       "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source for self-hosting. More features in development",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+      "language": "TypeScript",
+      "stars": 33294,
+      "forks": 6666,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "webdriverio/webdriverio",
       "url": "https://github.com/webdriverio/webdriverio",
       "description": "Next-gen browser and mobile automation test framework for Node.js",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 9710,
+      "forks": 2651,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 11,
@@ -177,13 +197,15 @@
       "url": "https://github.com/matijagrcic/azurechatgpt",
       "description": "* [apollographql/apollo-client](https://github.com/apollographql/apollo-client): 🚀  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.",
       "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 194,
+      "forks": 973,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "nodejs/nodejs.org",
       "url": "https://github.com/nodejs/nodejs.org",
       "description": "The Node.js® Website",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6782,
+      "forks": 6473,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "signoz",
       "full_name": "SigNoz/signoz",
       "url": "https://github.com/SigNoz/signoz",
-      "description": "SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool",
+      "language": "TypeScript",
+      "stars": 25416,
+      "forks": 1915,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "ionic-team/capacitor",
       "url": "https://github.com/ionic-team/capacitor",
       "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14819,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "hydrogen",
       "full_name": "Shopify/hydrogen",
       "url": "https://github.com/Shopify/hydrogen",
-      "description": "Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks. Demo store 👇🏼",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Hydrogen lets you build faster headless storefronts in less time, on Shopify.",
+      "language": "TypeScript",
+      "stars": 1866,
+      "forks": 378,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "storybook",
       "full_name": "storybookjs/storybook",
       "url": "https://github.com/storybookjs/storybook",
-      "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+      "language": "TypeScript",
+      "stars": 89107,
+      "forks": 9835,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "typeorm/typeorm",
       "url": "https://github.com/typeorm/typeorm",
       "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 36262,
+      "forks": 6480,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "web3.js",
       "full_name": "web3/web3.js",
       "url": "https://github.com/web3/web3.js",
-      "description": "Ethereum JavaScript API",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.",
+      "language": "TypeScript",
+      "stars": 19961,
+      "forks": 5084,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "graphql-wordlist",
       "full_name": "Escape-Technologies/graphql-wordlist",
       "url": "https://github.com/Escape-Technologies/graphql-wordlist",
-      "description": "The only graphql wordlists you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The only GraphQL wordlist you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.",
+      "language": "TypeScript",
+      "stars": 456,
+      "forks": 46,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     }
   ]
 }

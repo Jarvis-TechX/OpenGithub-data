@@ -16,14 +16,16 @@
       "full_name": "Const-me/Whisper",
       "url": "https://github.com/Const-me/Whisper",
       "description": "High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10088,
+      "forks": 906,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "qbittorrent/qBittorrent",
       "url": "https://github.com/qbittorrent/qBittorrent",
       "description": "qBittorrent BitTorrent client",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35147,
+      "forks": 4544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "transmission/transmission",
       "url": "https://github.com/transmission/transmission",
       "description": "Official Transmission BitTorrent client repository",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13942,
+      "forks": 1319,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "WLED",
       "full_name": "Aircoookie/WLED",
       "url": "https://github.com/Aircoookie/WLED",
-      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+      "language": "C++",
+      "stars": 17382,
+      "forks": 3975,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "SerenityOS/serenity",
       "url": "https://github.com/SerenityOS/serenity",
       "description": "The Serenity Operating System 🐞",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 32838,
+      "forks": 3294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "LizardByte/Sunshine",
       "url": "https://github.com/LizardByte/Sunshine",
       "description": "Self-hosted game stream host for Moonlight.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33815,
+      "forks": 1656,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 8,
@@ -144,14 +158,16 @@
       "full_name": "hrydgard/ppsspp",
       "url": "https://github.com/hrydgard/ppsspp",
       "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13238,
+      "forks": 2404,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 10,
@@ -167,7 +183,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 11,
@@ -176,14 +194,16 @@
       "full_name": "sorayuki/obs-multi-rtmp",
       "url": "https://github.com/sorayuki/obs-multi-rtmp",
       "description": "OBS複数サイト同時配信プラグイン",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4638,
+      "forks": 609,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 12,
@@ -192,14 +212,16 @@
       "full_name": "zodiacon/Recon2023",
       "url": "https://github.com/zodiacon/Recon2023",
       "description": "Recon 2023 slides and code",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 80,
+      "forks": 14,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 13,
@@ -207,15 +229,17 @@
       "repo_name": "rpcs3",
       "full_name": "RPCS3/rpcs3",
       "url": "https://github.com/RPCS3/rpcs3",
-      "description": "PS3 emulator/debugger",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "stars": 18050,
+      "forks": 2187,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 14,
@@ -224,14 +248,16 @@
       "full_name": "aseprite/aseprite",
       "url": "https://github.com/aseprite/aseprite",
       "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35397,
+      "forks": 7716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 15,
@@ -240,14 +266,16 @@
       "full_name": "xbmc/xbmc",
       "url": "https://github.com/xbmc/xbmc",
       "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 20341,
+      "forks": 6479,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 16,
@@ -256,14 +284,16 @@
       "full_name": "google/omaha",
       "url": "https://github.com/google/omaha",
       "description": "Google Update for Windows",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2614,
+      "forks": 742,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 17,
@@ -271,15 +301,17 @@
       "repo_name": "OpenDTU",
       "full_name": "tbnobody/OpenDTU",
       "url": "https://github.com/tbnobody/OpenDTU",
-      "description": "Software for ESP32 to talk to Hoymiles Inverters",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters",
+      "language": "C++",
+      "stars": 2083,
+      "forks": 568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 18,
@@ -287,15 +319,17 @@
       "repo_name": "Waybar",
       "full_name": "Alexays/Waybar",
       "url": "https://github.com/Alexays/Waybar",
-      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+      "language": "C++",
+      "stars": 10469,
+      "forks": 969,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 19,
@@ -303,15 +337,17 @@
       "repo_name": "FastLED",
       "full_name": "FastLED/FastLED",
       "url": "https://github.com/FastLED/FastLED",
-      "description": "The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github \"issues\" just for tracking library bugs / enhancements.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github \"issues\" just for tracking library bugs / enhancements. ",
+      "language": "C++",
+      "stars": 7246,
+      "forks": 1735,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "PCSX2/pcsx2",
       "url": "https://github.com/PCSX2/pcsx2",
       "description": "PCSX2 - The Playstation 2 Emulator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14267,
+      "forks": 1862,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "namazso/MagicSigner",
       "url": "https://github.com/namazso/MagicSigner",
       "description": "Signtool for expired certificates",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 511,
+      "forks": 54,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "flyinghead/flycast",
       "url": "https://github.com/flyinghead/flycast",
       "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2111,
+      "forks": 254,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "esphome/esphome",
       "url": "https://github.com/esphome/esphome",
       "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10437,
+      "forks": 4984,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "arvidn/libtorrent",
       "url": "https://github.com/arvidn/libtorrent",
       "description": "an efficient feature complete C++ bittorrent implementation",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5823,
+      "forks": 1059,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     }
   ]
 }

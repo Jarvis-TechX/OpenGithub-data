@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "atuin",
       "full_name": "ellie/atuin",
       "url": "https://github.com/ellie/atuin",
-      "description": "",
-      "language": "All languages",
-      "stars": 24400,
-      "forks": 0,
+      "description": "✨ Magical shell history",
+      "language": "Rust",
+      "stars": 28006,
+      "forks": 766,
       "stars_today": 112,
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "pathway",
       "full_name": "pathwaycom/pathway",
       "url": "https://github.com/pathwaycom/pathway",
-      "description": "",
-      "language": "All languages",
-      "stars": 26700,
-      "forks": 0,
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "stars": 57873,
+      "forks": 1554,
       "stars_today": 89,
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "MNN",
       "full_name": "alibaba/MNN",
       "url": "https://github.com/alibaba/MNN",
-      "description": "",
-      "language": "All languages",
-      "stars": 11600,
-      "forks": 0,
+      "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
+      "language": "C++",
+      "stars": 13983,
+      "forks": 2179,
       "stars_today": 57,
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "agent-zero",
       "full_name": "frdel/agent-zero",
       "url": "https://github.com/frdel/agent-zero",
-      "description": "",
-      "language": "All languages",
-      "stars": 9800,
-      "forks": 0,
+      "description": "Agent Zero AI framework",
+      "language": "Python",
+      "stars": 13807,
+      "forks": 2811,
       "stars_today": 54,
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "lerobot",
       "full_name": "huggingface/lerobot",
       "url": "https://github.com/huggingface/lerobot",
-      "description": "",
-      "language": "All languages",
-      "stars": 14500,
-      "forks": 0,
+      "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+      "language": "Python",
+      "stars": 21124,
+      "forks": 3564,
       "stars_today": 54,
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "voideditor/void",
       "url": "https://github.com/voideditor/void",
       "description": "",
-      "language": "All languages",
-      "stars": 23700,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 28110,
+      "forks": 2276,
       "stars_today": 53,
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "firecrawl",
       "full_name": "mendableai/firecrawl",
       "url": "https://github.com/mendableai/firecrawl",
-      "description": "",
-      "language": "All languages",
-      "stars": 40000,
-      "forks": 0,
+      "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
+      "language": "TypeScript",
+      "stars": 76898,
+      "forks": 5812,
       "stars_today": 52,
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
-      "language": "All languages",
-      "stars": 13600,
-      "forks": 0,
+      "language": "Batchfile",
+      "stars": 21421,
+      "forks": 1787,
       "stars_today": 51,
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "nautilus_trader",
       "full_name": "nautechsystems/nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "",
-      "language": "All languages",
-      "stars": 8800,
-      "forks": 0,
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": 18409,
+      "forks": 2164,
       "stars_today": 50,
       "is_new": false,
       "source": "import:opengithubs-daily",
       "quality_grade": "B",
-      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md"
+      "source_path": "/tmp/github-daily-rank/2025/06/20250615.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     }
   ]
 }

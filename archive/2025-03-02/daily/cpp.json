@@ -16,14 +16,16 @@
       "full_name": "LadybirdBrowser/ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 57826,
+      "forks": 2613,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "praydog/REFramework",
       "url": "https://github.com/praydog/REFramework",
       "description": "Scripting platform, modding framework and VR support for all RE Engine games",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4333,
+      "forks": 463,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "qbittorrent/qBittorrent",
       "url": "https://github.com/qbittorrent/qBittorrent",
       "description": "qBittorrent BitTorrent client",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35147,
+      "forks": 4544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "openscad",
       "full_name": "openscad/openscad",
       "url": "https://github.com/openscad/openscad",
-      "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller  ",
+      "language": "C++",
+      "stars": 8750,
+      "forks": 1426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70907,
+      "forks": 11484,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "aseprite/aseprite",
       "url": "https://github.com/aseprite/aseprite",
       "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35397,
+      "forks": 7716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "stable-diffusion.cpp",
       "full_name": "leejet/stable-diffusion.cpp",
       "url": "https://github.com/leejet/stable-diffusion.cpp",
-      "description": "Stable Diffusion and Flux in pure C/C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "language": "C++",
+      "stars": 5247,
+      "forks": 512,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "SoftFever/OrcaSlicer",
       "url": "https://github.com/SoftFever/OrcaSlicer",
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12293,
+      "forks": 1654,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "nekoray",
       "full_name": "MatsuriDayo/nekoray",
       "url": "https://github.com/MatsuriDayo/nekoray",
-      "description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
+      "language": "C++",
+      "stars": 15099,
+      "forks": 1460,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "harfbuzz/harfbuzz",
       "url": "https://github.com/harfbuzz/harfbuzz",
       "description": "HarfBuzz text shaping engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5308,
+      "forks": 709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "MusicPlayer2",
       "full_name": "zhongyang219/MusicPlayer2",
       "url": "https://github.com/zhongyang219/MusicPlayer2",
-      "description": "这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BASS和FFMpeg）。播放器支持大部分常见的音频格式。",
+      "language": "C++",
+      "stars": 6130,
+      "forks": 479,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "hyprwm/Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33434,
+      "forks": 1530,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "OpenTTD/OpenTTD",
       "url": "https://github.com/OpenTTD/OpenTTD",
       "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7525,
+      "forks": 1092,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "apple/foundationdb",
       "url": "https://github.com/apple/foundationdb",
       "description": "FoundationDB - the open source, distributed, transactional key-value store",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16101,
+      "forks": 1466,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     }
   ]
 }

@@ -15,15 +15,17 @@
       "repo_name": "quivr",
       "full_name": "StanGirard/quivr",
       "url": "https://github.com/StanGirard/quivr",
-      "description": "🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ",
+      "language": "Python",
+      "stars": 38880,
+      "forks": 3722,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "llama-gpt",
       "full_name": "getumbrel/llama-gpt",
       "url": "https://github.com/getumbrel/llama-gpt",
-      "description": "A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!",
+      "language": "TypeScript",
+      "stars": 10991,
+      "forks": 716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "steven-tey/novel",
       "url": "https://github.com/steven-tey/novel",
       "description": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 15912,
+      "forks": 1357,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "calcom/cal.com",
       "url": "https://github.com/calcom/cal.com",
       "description": "Scheduling infrastructure for absolutely everyone.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 39833,
+      "forks": 11663,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "smol-ai/GodMode",
       "url": "https://github.com/smol-ai/GodMode",
       "description": "AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4323,
+      "forks": 347,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "Kaiyiwing/qwerty-learner",
       "url": "https://github.com/Kaiyiwing/qwerty-learner",
       "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 21370,
+      "forks": 2336,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "ill-inc/biomes-game",
       "url": "https://github.com/ill-inc/biomes-game",
       "description": "Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2641,
+      "forks": 337,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "actualbudget/actual",
       "url": "https://github.com/actualbudget/actual",
       "description": "A local-first personal finance app",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 24466,
+      "forks": 2097,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "documenso/documenso",
       "url": "https://github.com/documenso/documenso",
       "description": "The Open Source DocuSign Alternative.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 12224,
+      "forks": 2276,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "Anish-Agnihotri/friendmex",
       "url": "https://github.com/Anish-Agnihotri/friendmex",
       "description": "BitMEX-inspired trading interface for friend.tech shares.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 199,
+      "forks": 69,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "weaigc/bingo",
       "url": "https://github.com/weaigc/bingo",
       "description": "Bingo，一个让你呼吸顺畅 New Bing。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2869,
+      "forks": 1219,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "pingdotgg/uploadthing",
       "url": "https://github.com/pingdotgg/uploadthing",
       "description": "File uploads for modern web devs",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4992,
+      "forks": 407,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "openstatus",
       "full_name": "openstatusHQ/openstatus",
       "url": "https://github.com/openstatusHQ/openstatus",
-      "description": "The open-source monitoring service",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🫖 Status page with uptime monitoring & API monitoring as code   🫖",
+      "language": "TypeScript",
+      "stars": 8237,
+      "forks": 562,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "big-agi",
       "full_name": "enricoros/big-agi",
       "url": "https://github.com/enricoros/big-agi",
-      "description": "💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.",
+      "language": "TypeScript",
+      "stars": 6826,
+      "forks": 1565,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "lenster",
       "full_name": "lensterxyz/lenster",
       "url": "https://github.com/lensterxyz/lenster",
-      "description": "Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿",
+      "language": "TypeScript",
+      "stars": 29524,
+      "forks": 1803,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "jackyzha0/quartz",
       "url": "https://github.com/jackyzha0/quartz",
       "description": "🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 11033,
+      "forks": 3405,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "frontend",
       "full_name": "home-assistant/frontend",
       "url": "https://github.com/home-assistant/frontend",
-      "description": "🍭 Frontend for Home Assistant",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":lollipop: Frontend for Home Assistant",
+      "language": "TypeScript",
+      "stars": 5183,
+      "forks": 3511,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 18,
@@ -295,7 +329,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "scaffold-eth/scaffold-eth-2",
       "url": "https://github.com/scaffold-eth/scaffold-eth-2",
       "description": "Open source forkable Ethereum dev stack",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1946,
+      "forks": 1290,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "zzzgydi/clash-verge",
       "url": "https://github.com/zzzgydi/clash-verge",
       "description": "A Clash GUI based on tauri. Supports Windows, macOS and Linux.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 22029,
+      "forks": 3193,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "AmruthPillai/Reactive-Resume",
       "url": "https://github.com/AmruthPillai/Reactive-Resume",
       "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 34568,
+      "forks": 3792,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     }
   ]
 }

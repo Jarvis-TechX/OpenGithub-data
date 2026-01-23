@@ -16,14 +16,16 @@
       "full_name": "SoftFever/OrcaSlicer",
       "url": "https://github.com/SoftFever/OrcaSlicer",
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12293,
+      "forks": 1654,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "CleverRaven/Cataclysm-DDA",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
       "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11984,
+      "forks": 4416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "topjohnwu/Magisk",
       "url": "https://github.com/topjohnwu/Magisk",
       "description": "The Magic Mask for Android",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 58292,
+      "forks": 16488,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "telegram-bot-api",
       "full_name": "tdlib/telegram-bot-api",
       "url": "https://github.com/tdlib/telegram-bot-api",
-      "description": "Telegram Bot API server",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Telegram Bot API server ",
+      "language": "C++",
+      "stars": 3967,
+      "forks": 782,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "intel/intel-extension-for-transformers",
       "url": "https://github.com/intel/intel-extension-for-transformers",
       "description": "⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2173,
+      "forks": 216,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "hsutter/cppfront",
       "url": "https://github.com/hsutter/cppfront",
       "description": "A personal experimental C++ Syntax 2 -> Syntax 1 compiler",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5883,
+      "forks": 265,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "mamedev/mame",
       "url": "https://github.com/mamedev/mame",
       "description": "MAME",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9845,
+      "forks": 2286,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "espressif/arduino-esp32",
       "url": "https://github.com/espressif/arduino-esp32",
       "description": "Arduino core for the ESP32",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16141,
+      "forks": 7795,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "organicmaps",
       "full_name": "organicmaps/organicmaps",
       "url": "https://github.com/organicmaps/organicmaps",
-      "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+      "language": "C++",
+      "stars": 13107,
+      "forks": 1306,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "rhasspy/piper",
       "url": "https://github.com/rhasspy/piper",
       "description": "A fast, local neural text to speech system",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10467,
+      "forks": 896,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "aseprite/aseprite",
       "url": "https://github.com/aseprite/aseprite",
       "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35397,
+      "forks": 7716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "BambuStudio",
       "full_name": "bambulab/BambuStudio",
       "url": "https://github.com/bambulab/BambuStudio",
-      "description": "PC Software for BambuLab's 3D printers",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "PC Software for BambuLab and other 3D printers",
+      "language": "C++",
+      "stars": 3696,
+      "forks": 571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "Waybar",
       "full_name": "Alexays/Waybar",
       "url": "https://github.com/Alexays/Waybar",
-      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+      "language": "C++",
+      "stars": 10469,
+      "forks": 969,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "juce-framework/JUCE",
       "url": "https://github.com/juce-framework/JUCE",
       "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7967,
+      "forks": 1967,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "LizardByte/Sunshine",
       "url": "https://github.com/LizardByte/Sunshine",
       "description": "Self-hosted game stream host for Moonlight.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33815,
+      "forks": 1656,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "Atmosphere-NX/Atmosphere",
       "url": "https://github.com/Atmosphere-NX/Atmosphere",
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17775,
+      "forks": 1375,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "OpenRCT2/OpenRCT2",
       "url": "https://github.com/OpenRCT2/OpenRCT2",
       "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 15093,
+      "forks": 1716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "infinity",
       "full_name": "infiniflow/infinity",
       "url": "https://github.com/infiniflow/infinity",
-      "description": "The AI-native database built for LLM applications, providing incredibly fast vector and full-text search",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.",
+      "language": "C++",
+      "stars": 4346,
+      "forks": 412,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "Marlin",
       "full_name": "MarlinFirmware/Marlin",
       "url": "https://github.com/MarlinFirmware/Marlin",
-      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": 17256,
+      "forks": 19643,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "official-stockfish/Stockfish",
       "url": "https://github.com/official-stockfish/Stockfish",
       "description": "A free and strong UCI chess engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14547,
+      "forks": 2736,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "jomjol/AI-on-the-edge-device",
       "url": "https://github.com/jomjol/AI-on-the-edge-device",
       "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7988,
+      "forks": 832,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     }
   ]
 }

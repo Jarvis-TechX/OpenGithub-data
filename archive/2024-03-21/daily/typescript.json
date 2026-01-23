@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "continue",
       "full_name": "continuedev/continue",
       "url": "https://github.com/continuedev/continue",
-      "description": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent",
+      "language": "TypeScript",
+      "stars": 31043,
+      "forks": 4084,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "discord/embedded-app-sdk",
       "url": "https://github.com/discord/embedded-app-sdk",
       "description": "🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1378,
+      "forks": 198,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "apache/superset",
       "url": "https://github.com/apache/superset",
       "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 70237,
+      "forks": 16573,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "playwright",
       "full_name": "microsoft/playwright",
       "url": "https://github.com/microsoft/playwright",
-      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+      "language": "TypeScript",
+      "stars": 81573,
+      "forks": 5033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "nodejs/nodejs.org",
       "url": "https://github.com/nodejs/nodejs.org",
       "description": "The Node.js® Website",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6782,
+      "forks": 6473,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "mattermost/mattermost",
       "url": "https://github.com/mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 35001,
+      "forks": 8286,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "superagent",
       "full_name": "superagent-ai/superagent",
       "url": "https://github.com/superagent-ai/superagent",
-      "description": "🥷 Run AI-agents with an API",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.",
+      "language": "TypeScript",
+      "stars": 6369,
+      "forks": 956,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "Flowise",
       "full_name": "FlowiseAI/Flowise",
       "url": "https://github.com/FlowiseAI/Flowise",
-      "description": "Drag & drop UI to build your customized LLM flow",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Build AI Agents, Visually",
+      "language": "TypeScript",
+      "stars": 48492,
+      "forks": 23630,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "midday",
       "full_name": "midday-ai/midday",
       "url": "https://github.com/midday-ai/midday",
-      "description": "Run your business smarter.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+      "language": "TypeScript",
+      "stars": 13627,
+      "forks": 1305,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "xyflow/xyflow",
       "url": "https://github.com/xyflow/xyflow",
       "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 34896,
+      "forks": 2278,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "vuejs/vue",
       "url": "https://github.com/vuejs/vue",
       "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 209879,
+      "forks": 33905,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "mattermost/focalboard",
       "url": "https://github.com/mattermost/focalboard",
       "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 25756,
+      "forks": 2469,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "vercel/ai-chatbot",
       "url": "https://github.com/vercel/ai-chatbot",
       "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 19316,
+      "forks": 6243,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:57Z"
     }
   ]
 }

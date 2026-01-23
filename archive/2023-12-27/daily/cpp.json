@@ -15,15 +15,17 @@
       "repo_name": "gpt4all",
       "full_name": "nomic-ai/gpt4all",
       "url": "https://github.com/nomic-ai/gpt4all",
-      "description": "gpt4all: open-source LLM chatbots that you can run anywhere",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "stars": 77051,
+      "forks": 8316,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "gpt4all",
       "full_name": "nomic-ai/gpt4all",
       "url": "https://github.com/nomic-ai/gpt4all",
-      "description": "gpt4all: open-source LLM chatbots that you can run anywhere",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "stars": 77051,
+      "forks": 8316,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "gpt4all",
       "full_name": "nomic-ai/gpt4all",
       "url": "https://github.com/nomic-ai/gpt4all",
-      "description": "gpt4all: open-source LLM chatbots that you can run anywhere",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "stars": 77051,
+      "forks": 8316,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "TensorRT-LLM",
       "full_name": "NVIDIA/TensorRT-LLM",
       "url": "https://github.com/NVIDIA/TensorRT-LLM",
-      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "language": "Python",
+      "stars": 12716,
+      "forks": 2035,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "TensorRT-LLM",
       "full_name": "NVIDIA/TensorRT-LLM",
       "url": "https://github.com/NVIDIA/TensorRT-LLM",
-      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "language": "Python",
+      "stars": 12716,
+      "forks": 2035,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "SoftFever/OrcaSlicer",
       "url": "https://github.com/SoftFever/OrcaSlicer",
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12293,
+      "forks": 1654,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "SoftFever/OrcaSlicer",
       "url": "https://github.com/SoftFever/OrcaSlicer",
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12293,
+      "forks": 1654,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "Z3Prover/z3",
       "url": "https://github.com/Z3Prover/z3",
       "description": "The Z3 Theorem Prover",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11845,
+      "forks": 1603,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "dragonflydb/dragonfly",
       "url": "https://github.com/dragonflydb/dragonfly",
       "description": "A modern replacement for Redis and Memcached",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29811,
+      "forks": 1137,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "dragonflydb/dragonfly",
       "url": "https://github.com/dragonflydb/dragonfly",
       "description": "A modern replacement for Redis and Memcached",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29811,
+      "forks": 1137,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "dragonflydb/dragonfly",
       "url": "https://github.com/dragonflydb/dragonfly",
       "description": "A modern replacement for Redis and Memcached",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29811,
+      "forks": 1137,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "dragonflydb/dragonfly",
       "url": "https://github.com/dragonflydb/dragonfly",
       "description": "A modern replacement for Redis and Memcached",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29811,
+      "forks": 1137,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "apple/swift",
       "url": "https://github.com/apple/swift",
       "description": "The Swift Programming Language",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 69599,
+      "forks": 10647,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "apple/swift",
       "url": "https://github.com/apple/swift",
       "description": "The Swift Programming Language",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 69599,
+      "forks": 10647,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "apple/swift",
       "url": "https://github.com/apple/swift",
       "description": "The Swift Programming Language",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 69599,
+      "forks": 10647,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "isl-org/Open3D",
       "url": "https://github.com/isl-org/Open3D",
       "description": "Open3D: A Modern Library for 3D Data Processing",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13256,
+      "forks": 2520,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "isl-org/Open3D",
       "url": "https://github.com/isl-org/Open3D",
       "description": "Open3D: A Modern Library for 3D Data Processing",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13256,
+      "forks": 2520,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "isl-org/Open3D",
       "url": "https://github.com/isl-org/Open3D",
       "description": "Open3D: A Modern Library for 3D Data Processing",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13256,
+      "forks": 2520,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 193455,
+      "forks": 75200,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 23,
@@ -384,14 +428,16 @@
       "full_name": "autowarefoundation/autoware.universe",
       "url": "https://github.com/autowarefoundation/autoware.universe",
       "description": "",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1457,
+      "forks": 836,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     }
   ]
 }

@@ -15,15 +15,17 @@
       "repo_name": "AFFiNE",
       "full_name": "toeverything/AFFiNE",
       "url": "https://github.com/toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "language": "TypeScript",
+      "stars": 62117,
+      "forks": 4310,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "wefwef",
       "full_name": "aeharding/wefwef",
       "url": "https://github.com/aeharding/wefwef",
-      "description": "wefwef — a mobile-first Lemmy web client",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Voyager — a beautiful app for Lemmy",
+      "language": "TypeScript",
+      "stars": 1724,
+      "forks": 172,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "reworkd/AgentGPT",
       "url": "https://github.com/reworkd/AgentGPT",
       "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 35581,
+      "forks": 9454,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "lx-music-desktop",
       "full_name": "lyswhut/lx-music-desktop",
       "url": "https://github.com/lyswhut/lx-music-desktop",
-      "description": "一个基于 electron 的音乐软件",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "一个基于 Electron 的音乐软件",
+      "language": "TypeScript",
+      "stars": 48427,
+      "forks": 6614,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "josStorer/RWKV-Runner",
       "url": "https://github.com/josStorer/RWKV-Runner",
       "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6179,
+      "forks": 586,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "freeCodeCamp",
       "full_name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 436212,
+      "forks": 43167,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "ThePrimeagen/kata-machine",
       "url": "https://github.com/ThePrimeagen/kata-machine",
       "description": "* [BuilderIO/qwik](https://github.com/BuilderIO/qwik): Instant-loading web apps, without effort",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1457,
+      "forks": 1430,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "Evansy/MallChatWeb",
       "url": "https://github.com/Evansy/MallChatWeb",
       "description": "mallchat的前端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1225,
+      "forks": 515,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "bluesky-social/atproto",
       "url": "https://github.com/bluesky-social/atproto",
       "description": "Social networking technology created by Bluesky",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 9070,
+      "forks": 814,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "adrianhajdin/project_next13_car_showcase",
       "url": "https://github.com/adrianhajdin/project_next13_car_showcase",
       "description": "Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1889,
+      "forks": 384,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "memos",
       "full_name": "usememos/memos",
       "url": "https://github.com/usememos/memos",
-      "description": "A lightweight, self-hosted memo hub. Open Source and Free forever.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+      "language": "Go",
+      "stars": 55344,
+      "forks": 3972,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "bluesky-social/social-app",
       "url": "https://github.com/bluesky-social/social-app",
       "description": "The Bluesky Social application for Web, iOS, and Android",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 17591,
+      "forks": 2591,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "HeroicGamesLauncher",
       "full_name": "Heroic-Games-Launcher/HeroicGamesLauncher",
       "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
-      "description": "A Native GOG and Epic Games Launcher for Linux, Windows and Mac.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.",
+      "language": "TypeScript",
+      "stars": 10615,
+      "forks": 553,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "starlight",
       "full_name": "withastro/starlight",
       "url": "https://github.com/withastro/starlight",
-      "description": "🌟 Build beautiful, high-performance documentation websites with Astro",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🌟 Build beautiful, accessible, high-performance documentation websites with Astro",
+      "language": "TypeScript",
+      "stars": 7794,
+      "forks": 898,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "shadcn/taxonomy",
       "url": "https://github.com/shadcn/taxonomy",
       "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 19139,
+      "forks": 2698,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "ajnart/homarr",
       "url": "https://github.com/ajnart/homarr",
       "description": "Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6998,
+      "forks": 295,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "remix-run/remix",
       "url": "https://github.com/remix-run/remix",
       "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 32150,
+      "forks": 2723,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "leon-ai/leon",
       "url": "https://github.com/leon-ai/leon",
       "description": "🧠 Leon is your open-source personal assistant.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 16922,
+      "forks": 1416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     }
   ]
 }

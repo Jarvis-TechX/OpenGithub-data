@@ -16,14 +16,16 @@
       "full_name": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 89721,
+      "forks": 4776,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "url": "https://github.com/Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14647,
+      "forks": 1894,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "clash-verge-rev/clash-verge-rev",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 93753,
+      "forks": 6866,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "CapSoftware/Cap",
       "url": "https://github.com/CapSoftware/Cap",
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 16635,
+      "forks": 1196,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "Koenkk/zigbee-herdsman-converters",
       "url": "https://github.com/Koenkk/zigbee-herdsman-converters",
       "description": "Collection of device converters to be used with zigbee-herdsman",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1142,
+      "forks": 4006,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "ohcnetwork/care_fe",
       "url": "https://github.com/ohcnetwork/care_fe",
       "description": "Care is a Digital Public Good enabling TeleICU & Decentralised Administration of Healthcare Capacity across States.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 602,
+      "forks": 1001,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "langchain-ai/social-media-agent",
       "url": "https://github.com/langchain-ai/social-media-agent",
       "description": "📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2003,
+      "forks": 359,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "boxyhq/saas-starter-kit",
       "url": "https://github.com/boxyhq/saas-starter-kit",
       "description": "🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4675,
+      "forks": 1172,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "heyverse/hey",
       "url": "https://github.com/heyverse/hey",
       "description": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 29524,
+      "forks": 1803,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "BartoszJarocki/cv",
       "url": "https://github.com/BartoszJarocki/cv",
       "description": "Print-friendly, minimalist CV page",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 9606,
+      "forks": 1074,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "actualbudget/actual",
       "url": "https://github.com/actualbudget/actual",
       "description": "A local-first personal finance app",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 24466,
+      "forks": 2097,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "freeCodeCamp",
       "full_name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 436212,
+      "forks": 43167,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md"
+      "source_path": "/tmp/trending_archive/2025/2025-03/2025-03-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:06Z"
     }
   ]
 }

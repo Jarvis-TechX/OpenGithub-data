@@ -16,14 +16,16 @@
       "full_name": "StudioCherno/Walnut",
       "url": "https://github.com/StudioCherno/Walnut",
       "description": "Walnut is a simple application framework for Vulkan and Dear ImGui apps",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2375,
+      "forks": 473,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70907,
+      "forks": 11484,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "diasurgical/devilutionX",
       "url": "https://github.com/diasurgical/devilutionX",
       "description": "Diablo build for modern operating systems",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9278,
+      "forks": 945,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "rathena/rathena",
       "url": "https://github.com/rathena/rathena",
       "description": "rAthena is an open-source cross-platform MMORPG server.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3291,
+      "forks": 2606,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "obsproject/obs-websocket",
       "url": "https://github.com/obsproject/obs-websocket",
       "description": "Remote-control of OBS Studio through WebSocket",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4236,
+      "forks": 734,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87745,
+      "forks": 38770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "qbittorrent/qBittorrent",
       "url": "https://github.com/qbittorrent/qBittorrent",
       "description": "qBittorrent BitTorrent client",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35147,
+      "forks": 4544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "PCSX2/pcsx2",
       "url": "https://github.com/PCSX2/pcsx2",
       "description": "PCSX2 - The Playstation 2 Emulator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14267,
+      "forks": 1862,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "tdlib/td",
       "url": "https://github.com/tdlib/td",
       "description": "Cross-platform library for building Telegram clients",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 8422,
+      "forks": 1897,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "ByConity/ByConity",
       "url": "https://github.com/ByConity/ByConity",
       "description": "ByConity is an open source cloud data warehouse",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2227,
+      "forks": 311,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "gaoxiang12/slam_in_autonomous_driving",
       "url": "https://github.com/gaoxiang12/slam_in_autonomous_driving",
       "description": "《自动驾驶中的SLAM技术》对应开源代码",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2435,
+      "forks": 563,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "Marlin",
       "full_name": "MarlinFirmware/Marlin",
       "url": "https://github.com/MarlinFirmware/Marlin",
-      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": 17256,
+      "forks": 19643,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "Light-City/CPlusPlusThings",
       "url": "https://github.com/Light-City/CPlusPlusThings",
       "description": "C++那些事",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 42804,
+      "forks": 8832,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "citizenfx/fivem",
       "url": "https://github.com/citizenfx/fivem",
       "description": "The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4038,
+      "forks": 2536,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "esphome/esphome",
       "url": "https://github.com/esphome/esphome",
       "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10437,
+      "forks": 4984,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "zhongyang219/TrafficMonitor",
       "url": "https://github.com/zhongyang219/TrafficMonitor",
       "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 42848,
+      "forks": 3579,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "sr_lio",
       "full_name": "ZikangYuan/sr_lio",
       "url": "https://github.com/ZikangYuan/sr_lio",
-      "description": "A LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "[IROS 2024] A  LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency",
+      "language": "C++",
+      "stars": 523,
+      "forks": 61,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "skypjack/entt",
       "url": "https://github.com/skypjack/entt",
       "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12186,
+      "forks": 1043,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "ZygiskOnKernelSU",
       "full_name": "Dr-TSNG/ZygiskOnKernelSU",
       "url": "https://github.com/Dr-TSNG/ZygiskOnKernelSU",
-      "description": "Run Zygisk on KernelSU",
+      "description": "Standalone implementation of Zygisk",
       "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "stars": 8377,
+      "forks": 669,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "BambuStudio",
       "full_name": "bambulab/BambuStudio",
       "url": "https://github.com/bambulab/BambuStudio",
-      "description": "PC Software for BambuLab's 3D printers",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "PC Software for BambuLab and other 3D printers",
+      "language": "C++",
+      "stars": 3696,
+      "forks": 571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "Maknee/minigpt4.cpp",
       "url": "https://github.com/Maknee/minigpt4.cpp",
       "description": "Port of MiniGPT4 in C++ (4bit, 5bit, 6bit, 8bit, 16bit CPU inference with GGML)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 568,
+      "forks": 26,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "microsoft/IoT-For-Beginners",
       "url": "https://github.com/microsoft/IoT-For-Beginners",
       "description": "12 Weeks, 24 Lessons, IoT for All!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 16729,
+      "forks": 2765,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md"
+      "source_path": "/tmp/trending_archive/2023/2023-07/2023-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:50Z"
     }
   ]
 }

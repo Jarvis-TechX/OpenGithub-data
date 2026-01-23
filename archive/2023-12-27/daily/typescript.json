@@ -15,15 +15,17 @@
       "repo_name": "atomicals-js",
       "full_name": "atomicals/atomicals-js",
       "url": "https://github.com/atomicals/atomicals-js",
-      "description": "Atomicals CLI and Javascript Library",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Atomicals Javascript Command Line Utility (CLI)",
+      "language": "TypeScript",
+      "stars": 40,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "atomicals-js",
       "full_name": "atomicals/atomicals-js",
       "url": "https://github.com/atomicals/atomicals-js",
-      "description": "Atomicals CLI and Javascript Library",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Atomicals Javascript Command Line Utility (CLI)",
+      "language": "TypeScript",
+      "stars": 40,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "atomicals-js",
       "full_name": "atomicals/atomicals-js",
       "url": "https://github.com/atomicals/atomicals-js",
-      "description": "Atomicals CLI and Javascript Library",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Atomicals Javascript Command Line Utility (CLI)",
+      "language": "TypeScript",
+      "stars": 40,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "atomicals-js",
       "full_name": "atomicals/atomicals-js",
       "url": "https://github.com/atomicals/atomicals-js",
-      "description": "Atomicals CLI and Javascript Library",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Atomicals Javascript Command Line Utility (CLI)",
+      "language": "TypeScript",
+      "stars": 40,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "AmruthPillai/Reactive-Resume",
       "url": "https://github.com/AmruthPillai/Reactive-Resume",
       "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 34568,
+      "forks": 3792,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "AmruthPillai/Reactive-Resume",
       "url": "https://github.com/AmruthPillai/Reactive-Resume",
       "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 34568,
+      "forks": 3792,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "dify",
       "full_name": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "description": "An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Production-ready platform for agentic workflow development.",
+      "language": "TypeScript",
+      "stars": 126981,
+      "forks": 19792,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "router",
       "full_name": "TanStack/router",
       "url": "https://github.com/TanStack/router",
-      "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).",
+      "language": "TypeScript",
+      "stars": 13212,
+      "forks": 1495,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "chatnio",
       "full_name": "Deeptrain-Community/chatnio",
       "url": "https://github.com/Deeptrain-Community/chatnio",
-      "description": "🚀 强大精美的 AI 聚合聊天平台，适配OpenAI，Claude，讯飞星火，Midjourney，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google PaLM2，LocalAI 等模型，支持分布式流式传输，图像生成，对话跨设备自动同步和分享功能，实现订阅和 Token 弹性计费系统，Key 中转服务，多模型聚合支持等。实现联网搜索功能，AI 卡片，AI 项目生成器，AI 批量文章生成等功能，引领开源聚合新时代。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+      "language": "TypeScript",
+      "stars": 8908,
+      "forks": 1179,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "chatnio",
       "full_name": "Deeptrain-Community/chatnio",
       "url": "https://github.com/Deeptrain-Community/chatnio",
-      "description": "🚀 强大精美的 AI 聚合聊天平台，适配OpenAI，Claude，讯飞星火，Midjourney，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google PaLM2，LocalAI 等模型，支持分布式流式传输，图像生成，对话跨设备自动同步和分享功能，实现订阅和 Token 弹性计费系统，Key 中转服务，多模型聚合支持等。实现联网搜索功能，AI 卡片，AI 项目生成器，AI 批量文章生成等功能，引领开源聚合新时代。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+      "language": "TypeScript",
+      "stars": 8908,
+      "forks": 1179,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "chatnio",
       "full_name": "Deeptrain-Community/chatnio",
       "url": "https://github.com/Deeptrain-Community/chatnio",
-      "description": "🚀 强大精美的 AI 聚合聊天平台，适配OpenAI，Claude，讯飞星火，Midjourney，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google PaLM2，LocalAI 等模型，支持分布式流式传输，图像生成，对话跨设备自动同步和分享功能，实现订阅和 Token 弹性计费系统，Key 中转服务，多模型聚合支持等。实现联网搜索功能，AI 卡片，AI 项目生成器，AI 批量文章生成等功能，引领开源聚合新时代。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+      "language": "TypeScript",
+      "stars": 8908,
+      "forks": 1179,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "chatnio",
       "full_name": "Deeptrain-Community/chatnio",
       "url": "https://github.com/Deeptrain-Community/chatnio",
-      "description": "🚀 强大精美的 AI 聚合聊天平台，适配OpenAI，Claude，讯飞星火，Midjourney，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google PaLM2，LocalAI 等模型，支持分布式流式传输，图像生成，对话跨设备自动同步和分享功能，实现订阅和 Token 弹性计费系统，Key 中转服务，多模型聚合支持等。实现联网搜索功能，AI 卡片，AI 项目生成器，AI 批量文章生成等功能，引领开源聚合新时代。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+      "language": "TypeScript",
+      "stars": 8908,
+      "forks": 1179,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "ChatGPT-Next-Web",
       "full_name": "ChatGPTNextWeb/ChatGPT-Next-Web",
       "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
-      "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+      "language": "TypeScript",
+      "stars": 87129,
+      "forks": 60516,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "ChatGPT-Next-Web",
       "full_name": "ChatGPTNextWeb/ChatGPT-Next-Web",
       "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
-      "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+      "language": "TypeScript",
+      "stars": 87129,
+      "forks": 60516,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "Innei/Shiro",
       "url": "https://github.com/Innei/Shiro",
       "description": "📜 A minimalist personal website embodying the purity of paper and freshness of snow.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4114,
+      "forks": 876,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "unocss/unocss",
       "url": "https://github.com/unocss/unocss",
       "description": "The instant on-demand atomic CSS engine.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18514,
+      "forks": 957,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "chathub-dev/chathub",
       "url": "https://github.com/chathub-dev/chathub",
       "description": "All-in-one chatbot client",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 10515,
+      "forks": 1124,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "chathub-dev/chathub",
       "url": "https://github.com/chathub-dev/chathub",
       "description": "All-in-one chatbot client",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 10515,
+      "forks": 1124,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "chathub-dev/chathub",
       "url": "https://github.com/chathub-dev/chathub",
       "description": "All-in-one chatbot client",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 10515,
+      "forks": 1124,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "blacksev/Gemini-Next-Web",
       "url": "https://github.com/blacksev/Gemini-Next-Web",
       "description": "A well-designed cross-platform Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 Gemini 应用。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 434,
+      "forks": 197,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "blacksev/Gemini-Next-Web",
       "url": "https://github.com/blacksev/Gemini-Next-Web",
       "description": "A well-designed cross-platform Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 Gemini 应用。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 434,
+      "forks": 197,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     }
   ]
 }

@@ -16,14 +16,16 @@
       "full_name": "kroma-network/tachyon",
       "url": "https://github.com/kroma-network/tachyon",
       "description": "Modular ZK(Zero Knowledge) backend accelerated by GPU",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7731,
+      "forks": 235,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "swordbluesword/PalWorld-NetCrack",
       "url": "https://github.com/swordbluesword/PalWorld-NetCrack",
       "description": "* [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu): Nintendo Switch emulator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "hrydgard/ppsspp",
       "url": "https://github.com/hrydgard/ppsspp",
       "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13238,
+      "forks": 2404,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "SerenityOS/serenity",
       "url": "https://github.com/SerenityOS/serenity",
       "description": "The Serenity Operating System 🐞",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 32838,
+      "forks": 3294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "OpenTTD/OpenTTD",
       "url": "https://github.com/OpenTTD/OpenTTD",
       "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7525,
+      "forks": 1092,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "stenzek/duckstation",
       "url": "https://github.com/stenzek/duckstation",
       "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9590,
+      "forks": 869,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "geode",
       "full_name": "geode-sdk/geode",
       "url": "https://github.com/geode-sdk/geode",
-      "description": "The ultimate Geometry Dash modding toolkit",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "The ultimate Geometry Dash modding framework",
+      "language": "C++",
+      "stars": 1457,
+      "forks": 268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "scottbez1/smartknob",
       "url": "https://github.com/scottbez1/smartknob",
       "description": "Haptic input knob with software-defined endstops and virtual detents",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 21315,
+      "forks": 1226,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "ComfyTextures",
       "full_name": "AlexanderDzhoganov/ComfyTextures",
       "url": "https://github.com/AlexanderDzhoganov/ComfyTextures",
-      "description": "Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models ",
+      "language": "C++",
+      "stars": 667,
+      "forks": 82,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "UE4SS-RE/RE-UE4SS",
       "url": "https://github.com/UE4SS-RE/RE-UE4SS",
       "description": "Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2285,
+      "forks": 357,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "xbmc/xbmc",
       "url": "https://github.com/xbmc/xbmc",
       "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 20341,
+      "forks": 6479,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "rpcs3",
       "full_name": "RPCS3/rpcs3",
       "url": "https://github.com/RPCS3/rpcs3",
-      "description": "PS3 emulator/debugger",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "stars": 18050,
+      "forks": 2187,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "endless-sky/endless-sky",
       "url": "https://github.com/endless-sky/endless-sky",
       "description": "Space exploration, trading, and combat game.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7074,
+      "forks": 1200,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "Marlin",
       "full_name": "MarlinFirmware/Marlin",
       "url": "https://github.com/MarlinFirmware/Marlin",
-      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": 17256,
+      "forks": 19643,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "Waybar",
       "full_name": "Alexays/Waybar",
       "url": "https://github.com/Alexays/Waybar",
-      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+      "language": "C++",
+      "stars": 10469,
+      "forks": 969,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "LizardByte/Sunshine",
       "url": "https://github.com/LizardByte/Sunshine",
       "description": "Self-hosted game stream host for Moonlight.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33815,
+      "forks": 1656,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "nlohmann/json",
       "url": "https://github.com/nlohmann/json",
       "description": "JSON for Modern C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 48638,
+      "forks": 7299,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 18,
@@ -295,7 +329,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 19,
@@ -305,13 +341,15 @@
       "url": "https://github.com/YimMenu/YimMenu",
       "description": "YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.",
       "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "stars": 1576,
+      "forks": 157,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87745,
+      "forks": 38770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "CleverRaven/Cataclysm-DDA",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
       "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11984,
+      "forks": 4416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "cp-algorithms/cp-algorithms",
       "url": "https://github.com/cp-algorithms/cp-algorithms",
       "description": "Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10046,
+      "forks": 1975,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "SoftFever/OrcaSlicer",
       "url": "https://github.com/SoftFever/OrcaSlicer",
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12293,
+      "forks": 1654,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:55Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:55Z"
     }
   ]
 }

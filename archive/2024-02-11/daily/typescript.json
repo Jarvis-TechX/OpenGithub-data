@@ -16,14 +16,16 @@
       "full_name": "subquery/subql",
       "url": "https://github.com/subquery/subql",
       "description": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18866,
+      "forks": 385,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "projectx",
       "full_name": "projectx-codehagen/projectx",
       "url": "https://github.com/projectx-codehagen/projectx",
-      "description": "ProjectX aims to simplify financial management with a user-friendly interface and robust backend",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Badget aims to simplify financial management with a user-friendly interface and robust backend",
+      "language": "TypeScript",
+      "stars": 2720,
+      "forks": 309,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "jan",
       "full_name": "janhq/jan",
       "url": "https://github.com/janhq/jan",
-      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "language": "TypeScript",
+      "stars": 40159,
+      "forks": 2494,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "civitai/civitai",
       "url": "https://github.com/civitai/civitai",
       "description": "A repository of models, textual inversions, and more",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6994,
+      "forks": 711,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "rocketseat-education/nlw-expert-nodejs",
       "url": "https://github.com/rocketseat-education/nlw-expert-nodejs",
       "description": "Real-time voting system built with Node.js",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 217,
+      "forks": 73,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "bluesky-social/feed-generator",
       "url": "https://github.com/bluesky-social/feed-generator",
       "description": "ATProto Feed Generator Starter Kit",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1986,
+      "forks": 714,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "arduino/arduino-ide",
       "url": "https://github.com/arduino/arduino-ide",
       "description": "Arduino IDE 2.x",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2959,
+      "forks": 568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "microsoft/vscode",
       "url": "https://github.com/microsoft/vscode",
       "description": "Visual Studio Code",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 180944,
+      "forks": 37541,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "TanStack/query",
       "url": "https://github.com/TanStack/query",
       "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 48248,
+      "forks": 3666,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "quivr",
       "full_name": "QuivrHQ/quivr",
       "url": "https://github.com/QuivrHQ/quivr",
-      "description": "Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ",
+      "language": "Python",
+      "stars": 38880,
+      "forks": 3722,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "bluesky-social/social-app",
       "url": "https://github.com/bluesky-social/social-app",
       "description": "The Bluesky Social application for Web, iOS, and Android",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 17591,
+      "forks": 2591,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "hono",
       "full_name": "honojs/hono",
       "url": "https://github.com/honojs/hono",
-      "description": "Fast, Lightweight, Web-standards",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Web framework built on Web Standards",
+      "language": "TypeScript",
+      "stars": 28368,
+      "forks": 904,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "apify/crawlee",
       "url": "https://github.com/apify/crawlee",
       "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 21253,
+      "forks": 1165,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "prisma-examples",
       "full_name": "prisma/prisma-examples",
       "url": "https://github.com/prisma/prisma-examples",
-      "description": "🚀 Ready-to-run Prisma example projects",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": " 🚀 Ready-to-run Prisma example projects",
+      "language": "TypeScript",
+      "stars": 6604,
+      "forks": 1471,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "tradingview/lightweight-charts",
       "url": "https://github.com/tradingview/lightweight-charts",
       "description": "Performant financial charts built with HTML5 canvas",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 13524,
+      "forks": 2130,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "webprodigies/webprodigies-cypress",
       "url": "https://github.com/webprodigies/webprodigies-cypress",
       "description": "* [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 631,
+      "forks": 247,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "adefee/paver-palworld-save-editor",
       "url": "https://github.com/adefee/paver-palworld-save-editor",
       "description": "* [Effect-TS/effect](https://github.com/Effect-TS/effect): A fully-fledged functional effect system for TypeScript with a rich standard library",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 36,
+      "forks": 6,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "medplum/medplum",
       "url": "https://github.com/medplum/medplum",
       "description": "Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2103,
+      "forks": 671,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "immich",
       "full_name": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
-      "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 89721,
+      "forks": 4776,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     }
   ]
 }

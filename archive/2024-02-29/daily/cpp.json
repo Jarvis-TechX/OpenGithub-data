@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "SuperTux/supertux",
       "url": "https://github.com/SuperTux/supertux",
       "description": "SuperTux source code",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2832,
+      "forks": 563,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 4,
@@ -79,15 +85,17 @@
       "repo_name": "TinyWebServer",
       "full_name": "qinguoyi/TinyWebServer",
       "url": "https://github.com/qinguoyi/TinyWebServer",
-      "description": "🔥 Linux下C++轻量级WebServer服务器",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":fire: Linux下C++轻量级WebServer服务器",
+      "language": "C++",
+      "stars": 19141,
+      "forks": 4212,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 6,
@@ -95,15 +103,17 @@
       "repo_name": "godot-orchestrator",
       "full_name": "Vahera/godot-orchestrator",
       "url": "https://github.com/Vahera/godot-orchestrator",
-      "description": "Godot Engine (4.2+) Visual Scripting with Orchestrator.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Orchestrator: Unleashing Creativity with Visual Scripting ",
+      "language": "C++",
+      "stars": 1417,
+      "forks": 75,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 7,
@@ -112,14 +122,16 @@
       "full_name": "endless-sky/endless-sky",
       "url": "https://github.com/endless-sky/endless-sky",
       "description": "Space exploration, trading, and combat game.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7074,
+      "forks": 1200,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 8,
@@ -127,15 +139,17 @@
       "repo_name": "fheroes2",
       "full_name": "ihhub/fheroes2",
       "url": "https://github.com/ihhub/fheroes2",
-      "description": "fheroes2 is a recreation of Heroes of Might and Magic II game engine.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "fheroes2 is a recreation of Heroes of Might and Magic II game engine",
+      "language": "C++",
+      "stars": 3216,
+      "forks": 426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 9,
@@ -144,14 +158,16 @@
       "full_name": "Light-City/CPlusPlusThings",
       "url": "https://github.com/Light-City/CPlusPlusThings",
       "description": "C++那些事",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 42804,
+      "forks": 8832,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 10,
@@ -160,14 +176,16 @@
       "full_name": "ApolloAuto/apollo",
       "url": "https://github.com/ApolloAuto/apollo",
       "description": "An open autonomous driving platform",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 26385,
+      "forks": 9956,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 11,
@@ -176,14 +194,16 @@
       "full_name": "microsoft/terminal",
       "url": "https://github.com/microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 101468,
+      "forks": 9033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 12,
@@ -192,14 +212,16 @@
       "full_name": "amnezia-vpn/amnezia-client",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "description": "Amnezia VPN Client (Desktop+Mobile)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9687,
+      "forks": 680,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 13,
@@ -208,14 +230,16 @@
       "full_name": "nlohmann/json",
       "url": "https://github.com/nlohmann/json",
       "description": "JSON for Modern C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 48638,
+      "forks": 7299,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 14,
@@ -224,14 +248,16 @@
       "full_name": "envoyproxy/envoy",
       "url": "https://github.com/envoyproxy/envoy",
       "description": "Cloud-native high-performance edge/middle/service proxy",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 27385,
+      "forks": 5220,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 15,
@@ -247,7 +273,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 16,
@@ -256,14 +284,16 @@
       "full_name": "loveBabbar/CodeHelp-DSA-Busted-Series",
       "url": "https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series",
       "description": "This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3693,
+      "forks": 2456,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 17,
@@ -271,15 +301,17 @@
       "repo_name": "SuGaR",
       "full_name": "Anttwo/SuGaR",
       "url": "https://github.com/Anttwo/SuGaR",
-      "description": "Official PyTorch implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering (CVPR 2024)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "[CVPR 2024] Official PyTorch implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering",
+      "language": "C++",
+      "stars": 3161,
+      "forks": 268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 18,
@@ -287,15 +319,17 @@
       "repo_name": "Hyprland",
       "full_name": "hyprwm/Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
-      "description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 33434,
+      "forks": 1530,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 19,
@@ -304,14 +338,16 @@
       "full_name": "PX4/PX4-Autopilot",
       "url": "https://github.com/PX4/PX4-Autopilot",
       "description": "PX4 Autopilot Software",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10939,
+      "forks": 14951,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 20,
@@ -319,15 +355,17 @@
       "repo_name": "velox",
       "full_name": "facebookincubator/velox",
       "url": "https://github.com/facebookincubator/velox",
-      "description": "A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A composable and fully extensible C++ execution engine library for data management systems.",
+      "language": "C++",
+      "stars": 4027,
+      "forks": 1439,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 21,
@@ -335,15 +373,17 @@
       "repo_name": "grpc",
       "full_name": "grpc/grpc",
       "url": "https://github.com/grpc/grpc",
-      "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": 44249,
+      "forks": 11041,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "protocolbuffers/protobuf",
       "url": "https://github.com/protocolbuffers/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70362,
+      "forks": 16009,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "aristocratos/btop",
       "url": "https://github.com/aristocratos/btop",
       "description": "A monitor of resources",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29865,
+      "forks": 901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "yhirose/cpp-httplib",
       "url": "https://github.com/yhirose/cpp-httplib",
       "description": "A C++ header-only HTTP/HTTPS server and client library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16038,
+      "forks": 2613,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md"
+      "source_path": "/tmp/trending_archive/2024/2024-02/2024-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     }
   ]
 }

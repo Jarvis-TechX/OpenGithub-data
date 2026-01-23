@@ -16,14 +16,16 @@
       "full_name": "google/googletest",
       "url": "https://github.com/google/googletest",
       "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38119,
+      "forks": 10679,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87745,
+      "forks": 38770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "openxla/iree",
       "url": "https://github.com/openxla/iree",
       "description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3569,
+      "forks": 824,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "CleverRaven/Cataclysm-DDA",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
       "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11984,
+      "forks": 4416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "Pikafish",
       "full_name": "official-pikafish/Pikafish",
       "url": "https://github.com/official-pikafish/Pikafish",
-      "description": "UCI xiangqi engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A free and strong UCI xiangqi engine",
+      "language": "C++",
+      "stars": 1575,
+      "forks": 266,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "google-deepmind/mujoco",
       "url": "https://github.com/google-deepmind/mujoco",
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11799,
+      "forks": 1296,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "SerenityOS/serenity",
       "url": "https://github.com/SerenityOS/serenity",
       "description": "The Serenity Operating System 🐞",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 32838,
+      "forks": 3294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "TensorRT-LLM",
       "full_name": "NVIDIA/TensorRT-LLM",
       "url": "https://github.com/NVIDIA/TensorRT-LLM",
-      "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "language": "Python",
+      "stars": 12716,
+      "forks": 2035,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "project-chip/connectedhomeip",
       "url": "https://github.com/project-chip/connectedhomeip",
       "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 8538,
+      "forks": 2317,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "microsoft/calculator",
       "url": "https://github.com/microsoft/calculator",
       "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 30838,
+      "forks": 5709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "apache/brpc",
       "url": "https://github.com/apache/brpc",
       "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17450,
+      "forks": 4091,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "arrow",
       "full_name": "apache/arrow",
       "url": "https://github.com/apache/arrow",
-      "description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "stars": 16425,
+      "forks": 3993,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "gabime/spdlog",
       "url": "https://github.com/gabime/spdlog",
       "description": "Fast C++ logging library.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 28169,
+      "forks": 5027,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "autowarefoundation/autoware.universe",
       "url": "https://github.com/autowarefoundation/autoware.universe",
       "description": "* [baldurk/renderdoc](https://github.com/baldurk/renderdoc): RenderDoc is a stand-alone graphics debugging tool.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1457,
+      "forks": 836,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "uWebSockets.js",
       "full_name": "uNetworking/uWebSockets.js",
       "url": "https://github.com/uNetworking/uWebSockets.js",
-      "description": "μWebSockets for Node.js back-ends 🤘",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "μWebSockets for Node.js back-ends :metal:",
+      "language": "C++",
+      "stars": 8980,
+      "forks": 618,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "openai/triton",
       "url": "https://github.com/openai/triton",
       "description": "Development repository for the Triton language and compiler",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "MLIR",
+      "stars": 18222,
+      "forks": 2519,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "openscad",
       "full_name": "openscad/openscad",
       "url": "https://github.com/openscad/openscad",
-      "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller  ",
+      "language": "C++",
+      "stars": 8750,
+      "forks": 1426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "CMU-Perceptual-Computing-Lab/openpose",
       "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
       "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33704,
+      "forks": 8051,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "Hyprland",
       "full_name": "hyprwm/Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
-      "description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 33434,
+      "forks": 1530,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "google/tcmalloc",
       "url": "https://github.com/google/tcmalloc",
       "description": "* [scylladb/scylladb](https://github.com/scylladb/scylladb): NoSQL data store using the seastar framework, compatible with Apache Cassandra",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5098,
+      "forks": 540,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md"
+      "source_path": "/tmp/trending_archive/2023/2023-12/2023-12-05.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     }
   ]
 }

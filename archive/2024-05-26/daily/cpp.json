@@ -15,15 +15,17 @@
       "repo_name": "no-defender",
       "full_name": "es3n1n/no-defender",
       "url": "https://github.com/es3n1n/no-defender",
-      "description": "A slightly more fun way to disable windows defender. (through the WSC api)",
+      "description": "A slightly more fun way to disable windows defender + firewall. (through the WSC api)",
       "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "stars": 2042,
+      "forks": 26,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "aseprite/aseprite",
       "url": "https://github.com/aseprite/aseprite",
       "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35397,
+      "forks": 7716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "godotengine/godot",
       "url": "https://github.com/godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 105765,
+      "forks": 24122,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "LocalAI",
       "full_name": "mudler/LocalAI",
       "url": "https://github.com/mudler/LocalAI",
-      "description": "🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+      "language": "Go",
+      "stars": 42283,
+      "forks": 3473,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "LizardByte/Sunshine",
       "url": "https://github.com/LizardByte/Sunshine",
       "description": "Self-hosted game stream host for Moonlight.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33815,
+      "forks": 1656,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "wxWidgets/wxWidgets",
       "url": "https://github.com/wxWidgets/wxWidgets",
       "description": "Cross-Platform C++ GUI Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6991,
+      "forks": 1885,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "M2Team/NanaZip",
       "url": "https://github.com/M2Team/NanaZip",
       "description": "The 7-Zip derivative intended for the modern Windows experience",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12922,
+      "forks": 319,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "pcg-mlp/KsanaLLM",
       "url": "https://github.com/pcg-mlp/KsanaLLM",
       "description": "* [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix): Fix Play Integrity (and SafetyNet) verdicts.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 522,
+      "forks": 43,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "bulletphysics/bullet3",
       "url": "https://github.com/bulletphysics/bullet3",
       "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14182,
+      "forks": 3028,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "JoeyDeVries/LearnOpenGL",
       "url": "https://github.com/JoeyDeVries/LearnOpenGL",
       "description": "Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12237,
+      "forks": 2940,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "MaaAssistantArknights/MaaAssistantArknights",
       "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 19280,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "aria2/aria2",
       "url": "https://github.com/aria2/aria2",
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 39801,
+      "forks": 3808,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "JoltPhysics",
       "full_name": "jrouwe/JoltPhysics",
       "url": "https://github.com/jrouwe/JoltPhysics",
-      "description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+      "language": "C++",
+      "stars": 9414,
+      "forks": 640,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "drogonframework/drogon",
       "url": "https://github.com/drogonframework/drogon",
       "description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13425,
+      "forks": 1293,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "sorayuki/obs-multi-rtmp",
       "url": "https://github.com/sorayuki/obs-multi-rtmp",
       "description": "OBS複数サイト同時配信プラグイン",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4638,
+      "forks": 609,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70907,
+      "forks": 11484,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "OpenRCT2/OpenRCT2",
       "url": "https://github.com/OpenRCT2/OpenRCT2",
       "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 15093,
+      "forks": 1716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "microsoft/terminal",
       "url": "https://github.com/microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 101468,
+      "forks": 9033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "Waybar",
       "full_name": "Alexays/Waybar",
       "url": "https://github.com/Alexays/Waybar",
-      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+      "language": "C++",
+      "stars": 10469,
+      "forks": 969,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "PCSX2/pcsx2",
       "url": "https://github.com/PCSX2/pcsx2",
       "description": "PCSX2 - The Playstation 2 Emulator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14267,
+      "forks": 1862,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "ton-blockchain/ton",
       "url": "https://github.com/ton-blockchain/ton",
       "description": "Main TON monorepo",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3857,
+      "forks": 1452,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "ThePhD/sol2",
       "url": "https://github.com/ThePhD/sol2",
       "description": "Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4891,
+      "forks": 590,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md"
+      "source_path": "/tmp/trending_archive/2024/2024-05/2024-05-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:58Z"
     }
   ]
 }

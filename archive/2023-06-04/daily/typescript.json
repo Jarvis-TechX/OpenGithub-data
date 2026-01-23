@@ -15,15 +15,17 @@
       "repo_name": "chainlit",
       "full_name": "Chainlit/chainlit",
       "url": "https://github.com/Chainlit/chainlit",
-      "description": "Build Python LLM apps in minutes ⚡️",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Build Conversational AI in minutes ⚡️",
+      "language": "Python",
+      "stars": 11426,
+      "forks": 1642,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "highlight",
       "full_name": "highlight/highlight",
       "url": "https://github.com/highlight/highlight",
-      "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.",
+      "language": "TypeScript",
+      "stars": 9092,
+      "forks": 474,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "desktop/desktop",
       "url": "https://github.com/desktop/desktop",
       "description": "Focus on what matters instead of fighting with Git.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 21138,
+      "forks": 10105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "ui",
       "full_name": "shadcn/ui",
       "url": "https://github.com/shadcn/ui",
-      "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "language": "TypeScript",
+      "stars": 105364,
+      "forks": 7728,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "supabase",
       "full_name": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
-      "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 96641,
+      "forks": 11334,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "the1812/Bilibili-Evolved",
       "url": "https://github.com/the1812/Bilibili-Evolved",
       "description": "强大的哔哩哔哩增强脚本",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 28170,
+      "forks": 1721,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "plane",
       "full_name": "makeplane/plane",
       "url": "https://github.com/makeplane/plane",
-      "description": "🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": 44779,
+      "forks": 3413,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "epic-stack",
       "full_name": "epicweb-dev/epic-stack",
       "url": "https://github.com/epicweb-dev/epic-stack",
-      "description": "This is a Remix Stack with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.",
+      "language": "TypeScript",
+      "stars": 5526,
+      "forks": 464,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "big-agi",
       "full_name": "enricoros/big-agi",
       "url": "https://github.com/enricoros/big-agi",
-      "description": "💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.",
+      "language": "TypeScript",
+      "stars": 6826,
+      "forks": 1565,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "calcom/cal.com",
       "url": "https://github.com/calcom/cal.com",
       "description": "Scheduling infrastructure for absolutely everyone.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 39833,
+      "forks": 11663,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "trpc",
       "full_name": "trpc/trpc",
       "url": "https://github.com/trpc/trpc",
-      "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ",
+      "language": "TypeScript",
+      "stars": 39403,
+      "forks": 1469,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "katspaugh/wavesurfer.js",
       "url": "https://github.com/katspaugh/wavesurfer.js",
       "description": "Audio waveform player",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 10064,
+      "forks": 1752,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "mattermost/mattermost",
       "url": "https://github.com/mattermost/mattermost",
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 35001,
+      "forks": 8286,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "Eugeny/tabby",
       "url": "https://github.com/Eugeny/tabby",
       "description": "A terminal for a more modern age",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 68381,
+      "forks": 3842,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 18,
@@ -295,7 +329,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "Nutlope/restorePhotos",
       "url": "https://github.com/Nutlope/restorePhotos",
       "description": "Restoring old and blurry face photos with AI.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4397,
+      "forks": 691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "prisma-examples",
       "full_name": "prisma/prisma-examples",
       "url": "https://github.com/prisma/prisma-examples",
-      "description": "🚀 Ready-to-run Prisma example projects",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": " 🚀 Ready-to-run Prisma example projects",
+      "language": "TypeScript",
+      "stars": 6604,
+      "forks": 1471,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "activepieces",
       "full_name": "activepieces/activepieces",
       "url": "https://github.com/activepieces/activepieces",
-      "description": "An automation tool / Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier clone ❤️",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "language": "TypeScript",
+      "stars": 20467,
+      "forks": 3175,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "waku",
       "full_name": "dai-shi/waku",
       "url": "https://github.com/dai-shi/waku",
-      "description": "Minimalistic React Framework",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⛩️ The minimal React framework",
+      "language": "TypeScript",
+      "stars": 6078,
+      "forks": 189,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md"
+      "source_path": "/tmp/trending_archive/2023/2023-06/2023-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:49Z"
     }
   ]
 }

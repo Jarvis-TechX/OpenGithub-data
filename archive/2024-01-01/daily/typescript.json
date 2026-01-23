@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "jan",
       "full_name": "janhq/jan",
       "url": "https://github.com/janhq/jan",
-      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "language": "TypeScript",
+      "stars": 40159,
+      "forks": 2494,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 39024,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "kamranahmedse/developer-roadmap",
       "url": "https://github.com/kamranahmedse/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 347792,
+      "forks": 43650,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "openchatai/OpenCopilot",
       "url": "https://github.com/openchatai/OpenCopilot",
       "description": "🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 5136,
+      "forks": 405,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "freeCodeCamp",
       "full_name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 436212,
+      "forks": 43167,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "tech-interview-handbook",
       "full_name": "yangshun/tech-interview-handbook",
       "url": "https://github.com/yangshun/tech-interview-handbook",
-      "description": "💯 Curated coding interview preparation materials for busy software engineers",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Curated coding interview preparation materials for busy software engineers",
+      "language": "TypeScript",
+      "stars": 136945,
+      "forks": 16377,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "atomicals-js",
       "full_name": "atomicals/atomicals-js",
       "url": "https://github.com/atomicals/atomicals-js",
-      "description": "Atomicals CLI and Javascript Library",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Atomicals Javascript Command Line Utility (CLI)",
+      "language": "TypeScript",
+      "stars": 40,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "screenshot-to-code",
       "full_name": "abi/screenshot-to-code",
       "url": "https://github.com/abi/screenshot-to-code",
-      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "language": "Python",
+      "stars": 71478,
+      "forks": 8835,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "webcrumbs",
       "full_name": "webcrumbs-community/webcrumbs",
       "url": "https://github.com/webcrumbs-community/webcrumbs",
-      "description": "Create and modify Node.js websites and applications with a no-code interface and powerful plugins, enriched by the community. 🌟 Star to support our work!",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Build, re(use), and share your own Webcrumbs Plugins — compatible with any site, any stack. 🌟 Star to support our work!",
+      "language": "Roff",
+      "stars": 1803,
+      "forks": 160,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "HerbertHe/iptv-sources",
       "url": "https://github.com/HerbertHe/iptv-sources",
       "description": "Autoupdate iptv sources",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 8549,
+      "forks": 1187,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "radishes",
       "full_name": "radishes-music/radishes",
       "url": "https://github.com/radishes-music/radishes",
-      "description": "Cross-platform copyright-free music platform（跨平台的无版权音乐平台）. 支持 windows / macos / linux / web",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web",
+      "language": "TypeScript",
+      "stars": 1135,
+      "forks": 94,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "ethereum/remix-project",
       "url": "https://github.com/ethereum/remix-project",
       "description": "Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2857,
+      "forks": 1282,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "actualbudget/actual",
       "url": "https://github.com/actualbudget/actual",
       "description": "A local-first personal finance app",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 24466,
+      "forks": 2097,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "the1812/Bilibili-Evolved",
       "url": "https://github.com/the1812/Bilibili-Evolved",
       "description": "强大的哔哩哔哩增强脚本",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 28170,
+      "forks": 1721,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "AFFiNE",
       "full_name": "toeverything/AFFiNE",
       "url": "https://github.com/toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "language": "TypeScript",
+      "stars": 62117,
+      "forks": 4310,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "ags",
       "full_name": "Aylur/ags",
       "url": "https://github.com/Aylur/ags",
-      "description": "A customizable and extensible shell",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Scaffolding CLI for Astal+Gnim",
+      "language": "TypeScript",
+      "stars": 2885,
+      "forks": 153,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "giscus",
       "full_name": "giscus/giscus",
       "url": "https://github.com/giscus/giscus",
-      "description": "A comment system powered by GitHub Discussions.  💬 💎",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:",
+      "language": "TypeScript",
+      "stars": 11143,
+      "forks": 443,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "catppuccin/catppuccin",
       "url": "https://github.com/catppuccin/catppuccin",
       "description": "😸 Soothing pastel theme for the high-spirited!",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18262,
+      "forks": 329,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "owncast",
       "full_name": "owncast/owncast",
       "url": "https://github.com/owncast/owncast",
-      "description": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box.",
+      "language": "Go",
+      "stars": 10871,
+      "forks": 1171,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-01/2024-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:54Z"
     }
   ]
 }

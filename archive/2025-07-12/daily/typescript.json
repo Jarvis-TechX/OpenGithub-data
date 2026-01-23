@@ -16,14 +16,16 @@
       "full_name": "Lissy93/personal-security-checklist",
       "url": "https://github.com/Lissy93/personal-security-checklist",
       "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 20598,
+      "forks": 1411,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md"
+      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "LibreChat",
       "full_name": "danny-avila/LibreChat",
       "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+      "language": "TypeScript",
+      "stars": 33294,
+      "forks": 6666,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md"
+      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "description": "Production-ready platform for agentic workflow development.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 126981,
+      "forks": 19792,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md"
+      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "playwright",
       "full_name": "microsoft/playwright",
       "url": "https://github.com/microsoft/playwright",
-      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+      "language": "TypeScript",
+      "stars": 81573,
+      "forks": 5033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md"
+      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "browserbase/stagehand",
       "url": "https://github.com/browserbase/stagehand",
       "description": "The AI Browser Automation Framework",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 20530,
+      "forks": 1332,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md"
+      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 170826,
+      "forks": 53992,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md"
+      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "ant-design/ant-design",
       "url": "https://github.com/ant-design/ant-design",
       "description": "An enterprise-class UI design language and React UI library",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 97344,
+      "forks": 54427,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md"
+      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "ourongxing/newsnow",
       "url": "https://github.com/ourongxing/newsnow",
       "description": "Elegant reading of real-time and hottest news",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 17525,
+      "forks": 5044,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md"
+      "source_path": "/tmp/trending_archive/2025/2025-07/2025-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     }
   ]
 }

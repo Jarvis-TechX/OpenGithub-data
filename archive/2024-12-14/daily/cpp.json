@@ -16,14 +16,16 @@
       "full_name": "sogou/workflow",
       "url": "https://github.com/sogou/workflow",
       "description": "C++ Parallel Computing and Asynchronous Networking Framework",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14287,
+      "forks": 2568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "google/glog",
       "url": "https://github.com/google/glog",
       "description": "C++ implementation of the Google logging module",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7359,
+      "forks": 2105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "catchorg/Catch2",
       "url": "https://github.com/catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 20150,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "chriskohlhoff/asio",
       "url": "https://github.com/chriskohlhoff/asio",
       "description": "Asio C++ Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5719,
+      "forks": 1341,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "gcc-mirror/gcc",
       "url": "https://github.com/gcc-mirror/gcc",
       "description": "* [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork): Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10635,
+      "forks": 4678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "Project-OSRM/osrm-backend",
       "url": "https://github.com/Project-OSRM/osrm-backend",
       "description": "Open Source Routing Machine - C++ backend",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7430,
+      "forks": 3850,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "CleverRaven/Cataclysm-DDA",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
       "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11984,
+      "forks": 4416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "description": "Firebase SDK for Apple App Development",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6508,
+      "forks": 1715,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "lballabio/QuantLib",
       "url": "https://github.com/lballabio/QuantLib",
       "description": "The QuantLib C++ library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6684,
+      "forks": 2090,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "google/googletest",
       "url": "https://github.com/google/googletest",
       "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38119,
+      "forks": 10679,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "google/benchmark",
       "url": "https://github.com/google/benchmark",
       "description": "A microbenchmark support library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9967,
+      "forks": 1731,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "transmission/transmission",
       "url": "https://github.com/transmission/transmission",
       "description": "Official Transmission BitTorrent client repository",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13942,
+      "forks": 1319,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "swiftlang/swift",
       "url": "https://github.com/swiftlang/swift",
       "description": "The Swift Programming Language",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 69599,
+      "forks": 10647,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "nlohmann/json",
       "url": "https://github.com/nlohmann/json",
       "description": "JSON for Modern C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 48638,
+      "forks": 7299,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "fmtlib/fmt",
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 23186,
+      "forks": 2813,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "envoyproxy/envoy",
       "url": "https://github.com/envoyproxy/envoy",
       "description": "Cloud-native high-performance edge/middle/service proxy",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 27385,
+      "forks": 5220,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "cloudflare/workerd",
       "url": "https://github.com/cloudflare/workerd",
       "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7442,
+      "forks": 516,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "microsoft/onnxruntime",
       "url": "https://github.com/microsoft/onnxruntime",
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 19060,
+      "forks": 3662,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "TheAlgorithms/C-Plus-Plus",
       "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
       "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33731,
+      "forks": 7702,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "emscripten-core/emscripten",
       "url": "https://github.com/emscripten-core/emscripten",
       "description": "Emscripten: An LLVM-to-WebAssembly Compiler",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 27143,
+      "forks": 3478,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "duckdb/duckdb",
       "url": "https://github.com/duckdb/duckdb",
       "description": "DuckDB is an analytical in-process SQL database management system",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35607,
+      "forks": 2874,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     }
   ]
 }

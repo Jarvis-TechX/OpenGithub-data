@@ -16,14 +16,16 @@
       "full_name": "google/adk-js",
       "url": "https://github.com/google/adk-js",
       "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 715,
+      "forks": 74,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "nocobase/nocobase",
       "url": "https://github.com/nocobase/nocobase",
       "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 21307,
+      "forks": 2406,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110054,
+      "forks": 5418,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "C4illin/ConvertX",
       "url": "https://github.com/C4illin/ConvertX",
       "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 15436,
+      "forks": 844,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "Personal_AI_Infrastructure",
       "full_name": "danielmiessler/Personal_AI_Infrastructure",
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Personal AI Infrastructure for upgrading humans.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": 5620,
+      "forks": 875,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 22018,
+      "forks": 1307,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "daytonaio/daytona",
       "url": "https://github.com/daytonaio/daytona",
       "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49624,
+      "forks": 3947,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "ant-design/ant-design",
       "url": "https://github.com/ant-design/ant-design",
       "description": "An enterprise-class UI design language and React UI library",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 97344,
+      "forks": 54427,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "puppeteer/puppeteer",
       "url": "https://github.com/puppeteer/puppeteer",
       "description": "JavaScript API for Chrome and Firefox",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 93380,
+      "forks": 9372,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "TheNetsky/Microsoft-Rewards-Script",
       "url": "https://github.com/TheNetsky/Microsoft-Rewards-Script",
       "description": "Automated Microsoft Rewards script, using TypeScript, Cheerio and Playwright.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 644,
+      "forks": 152,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     }
   ]
 }

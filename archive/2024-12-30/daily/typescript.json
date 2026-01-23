@@ -16,14 +16,16 @@
       "full_name": "elizaOS/eliza",
       "url": "https://github.com/elizaOS/eliza",
       "description": "Autonomous agents for everyone",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 17398,
+      "forks": 5437,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "teableio/teable",
       "url": "https://github.com/teableio/teable",
       "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 20754,
+      "forks": 1193,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "jan",
       "full_name": "janhq/jan",
       "url": "https://github.com/janhq/jan",
-      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "language": "TypeScript",
+      "stars": 40159,
+      "forks": 2494,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "metamask-extension",
       "full_name": "MetaMask/metamask-extension",
       "url": "https://github.com/MetaMask/metamask-extension",
-      "description": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+      "language": "TypeScript",
+      "stars": 13059,
+      "forks": 5513,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "maxun",
       "full_name": "getmaxun/maxun",
       "url": "https://github.com/getmaxun/maxun",
-      "description": "🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Turn websites into clean data pipelines & structured APIs in minutes!",
+      "language": "TypeScript",
+      "stars": 14161,
+      "forks": 1130,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "cline/cline",
       "url": "https://github.com/cline/cline",
       "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 57109,
+      "forks": 5638,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "desktop",
       "full_name": "Comfy-Org/desktop",
       "url": "https://github.com/Comfy-Org/desktop",
-      "description": "The desktop app for ComfyUI.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The desktop app for ComfyUI (Windows & macOS)",
+      "language": "TypeScript",
+      "stars": 2015,
+      "forks": 178,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "browserless/browserless",
       "url": "https://github.com/browserless/browserless",
       "description": "Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 12273,
+      "forks": 949,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "Vali-98/ChatterUI",
       "url": "https://github.com/Vali-98/ChatterUI",
       "description": "Simple frontend for LLMs built in react-native.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2036,
+      "forks": 161,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "excalidraw/excalidraw",
       "url": "https://github.com/excalidraw/excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 115119,
+      "forks": 12252,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "onejs/one",
       "url": "https://github.com/onejs/one",
       "description": "❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4356,
+      "forks": 115,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "CopilotKit",
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁",
+      "language": "TypeScript",
+      "stars": 28112,
+      "forks": 3653,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "upscayl/upscayl",
       "url": "https://github.com/upscayl/upscayl",
       "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 42681,
+      "forks": 2033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 89721,
+      "forks": 4776,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "blakeblackshear/frigate",
       "url": "https://github.com/blakeblackshear/frigate",
       "description": "NVR with realtime local object detection for IP cameras",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 29689,
+      "forks": 2763,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "platforms",
       "full_name": "vercel/platforms",
       "url": "https://github.com/vercel/platforms",
-      "description": "A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A full-stack Next.js app with multi-tenancy.",
+      "language": "TypeScript",
+      "stars": 6597,
+      "forks": 1030,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md"
+      "source_path": "/tmp/trending_archive/2024/2024-12/2024-12-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:04Z"
     }
   ]
 }

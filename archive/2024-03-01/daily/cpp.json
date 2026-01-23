@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "ClickHouse",
       "full_name": "ClickHouse/ClickHouse",
       "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a free analytics DBMS for big data",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": 45394,
+      "forks": 8004,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "nlohmann/json",
       "url": "https://github.com/nlohmann/json",
       "description": "JSON for Modern C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 48638,
+      "forks": 7299,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 5,
@@ -96,14 +104,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87745,
+      "forks": 38770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 7,
@@ -112,14 +122,16 @@
       "full_name": "libjxl/libjxl",
       "url": "https://github.com/libjxl/libjxl",
       "description": "JPEG XL image format reference implementation",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3320,
+      "forks": 330,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 8,
@@ -127,15 +139,17 @@
       "repo_name": "SafeLine",
       "full_name": "chaitin/SafeLine",
       "url": "https://github.com/chaitin/SafeLine",
-      "description": "一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.",
+      "language": "Go",
+      "stars": 20223,
+      "forks": 1296,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 9,
@@ -143,15 +157,17 @@
       "repo_name": "grpc",
       "full_name": "grpc/grpc",
       "url": "https://github.com/grpc/grpc",
-      "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "stars": 44249,
+      "forks": 11041,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 10,
@@ -159,15 +175,17 @@
       "repo_name": "fheroes2",
       "full_name": "ihhub/fheroes2",
       "url": "https://github.com/ihhub/fheroes2",
-      "description": "fheroes2 is a recreation of Heroes of Might and Magic II game engine.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "fheroes2 is a recreation of Heroes of Might and Magic II game engine",
+      "language": "C++",
+      "stars": 3216,
+      "forks": 426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 11,
@@ -176,14 +194,16 @@
       "full_name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 85859,
+      "forks": 56497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 12,
@@ -192,14 +212,16 @@
       "full_name": "PointCloudLibrary/pcl",
       "url": "https://github.com/PointCloudLibrary/pcl",
       "description": "Point Cloud Library (PCL)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10826,
+      "forks": 4691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 13,
@@ -208,14 +230,16 @@
       "full_name": "catchorg/Catch2",
       "url": "https://github.com/catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 20150,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 14,
@@ -224,14 +248,16 @@
       "full_name": "google/flatbuffers",
       "url": "https://github.com/google/flatbuffers",
       "description": "FlatBuffers: Memory Efficient Serialization Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 25447,
+      "forks": 3486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 15,
@@ -240,14 +266,16 @@
       "full_name": "facebookresearch/faiss",
       "url": "https://github.com/facebookresearch/faiss",
       "description": "A library for efficient similarity search and clustering of dense vectors.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38857,
+      "forks": 4197,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 16,
@@ -256,14 +284,16 @@
       "full_name": "autowarefoundation/autoware.universe",
       "url": "https://github.com/autowarefoundation/autoware.universe",
       "description": "* [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): LLM inference in C/C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1457,
+      "forks": 836,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 17,
@@ -272,14 +302,16 @@
       "full_name": "dogecoin/dogecoin",
       "url": "https://github.com/dogecoin/dogecoin",
       "description": "very currency",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 15134,
+      "forks": 3068,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 18,
@@ -288,14 +320,16 @@
       "full_name": "openxla/iree",
       "url": "https://github.com/openxla/iree",
       "description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3569,
+      "forks": 824,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 19,
@@ -304,14 +338,16 @@
       "full_name": "COVESA/vsomeip",
       "url": "https://github.com/COVESA/vsomeip",
       "description": "An implementation of Scalable service-Oriented MiddlewarE over IP",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1353,
+      "forks": 782,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "PX4/PX4-Autopilot",
       "url": "https://github.com/PX4/PX4-Autopilot",
       "description": "PX4 Autopilot Software",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10939,
+      "forks": 14951,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "google/glog",
       "url": "https://github.com/google/glog",
       "description": "C++ implementation of the Google logging module",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7359,
+      "forks": 2105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 22,
@@ -351,15 +391,17 @@
       "repo_name": "electron",
       "full_name": "electron/electron",
       "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 119868,
+      "forks": 16944,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "protocolbuffers/protobuf",
       "url": "https://github.com/protocolbuffers/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70362,
+      "forks": 16009,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     }
   ]
 }

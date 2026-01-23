@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "area51",
       "full_name": "ProjectDreamland/area51",
       "url": "https://github.com/ProjectDreamland/area51",
-      "description": "Source code for Area 51 (2005)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Source code for Area 51 (2005) ",
+      "language": "C++",
+      "stars": 564,
+      "forks": 66,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "electron",
       "full_name": "electron/electron",
       "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 119868,
+      "forks": 16944,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "MMKV",
       "full_name": "Tencent/MMKV",
       "url": "https://github.com/Tencent/MMKV",
-      "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.",
+      "language": "C++",
+      "stars": 18450,
+      "forks": 1973,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "gabime/spdlog",
       "url": "https://github.com/gabime/spdlog",
       "description": "Fast C++ logging library.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 28169,
+      "forks": 5027,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "Tencent/rapidjson",
       "url": "https://github.com/Tencent/rapidjson",
       "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14962,
+      "forks": 3644,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "juce-framework/JUCE",
       "url": "https://github.com/juce-framework/JUCE",
       "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7967,
+      "forks": 1967,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "apache/brpc",
       "url": "https://github.com/apache/brpc",
       "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17450,
+      "forks": 4091,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "WerWolv/ImHex",
       "url": "https://github.com/WerWolv/ImHex",
       "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 52372,
+      "forks": 2326,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "Mozilla-Ocho/llamafile",
       "url": "https://github.com/Mozilla-Ocho/llamafile",
       "description": "Distribute and run LLMs with a single file.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C",
+      "stars": 23653,
+      "forks": 1260,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "azerothcore/azerothcore-wotlk",
       "url": "https://github.com/azerothcore/azerothcore-wotlk",
       "description": "Complete Open Source and Modular solution for MMO",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7939,
+      "forks": 3169,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "mavlink/qgroundcontrol",
       "url": "https://github.com/mavlink/qgroundcontrol",
       "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4270,
+      "forks": 4585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "google/flatbuffers",
       "url": "https://github.com/google/flatbuffers",
       "description": "FlatBuffers: Memory Efficient Serialization Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 25447,
+      "forks": 3486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "pybind/pybind11",
       "url": "https://github.com/pybind/pybind11",
       "description": "Seamless operability between C++11 and Python",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17657,
+      "forks": 2261,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
       "description": "A framework for building native applications using React",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 125167,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "dxvk",
       "full_name": "doitsujin/dxvk",
       "url": "https://github.com/doitsujin/dxvk",
-      "description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
+      "language": "C++",
+      "stars": 16433,
+      "forks": 1054,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "eProsima/Fast-DDS",
       "url": "https://github.com/eProsima/Fast-DDS",
       "description": "The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2704,
+      "forks": 892,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "openai/triton",
       "url": "https://github.com/openai/triton",
       "description": "Development repository for the Triton language and compiler",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "MLIR",
+      "stars": 18222,
+      "forks": 2519,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "duckdb",
       "full_name": "duckdb/duckdb",
       "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an in-process SQL OLAP Database Management System",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "stars": 35607,
+      "forks": 2874,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "CLIUtils/CLI11",
       "url": "https://github.com/CLIUtils/CLI11",
       "description": "CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4097,
+      "forks": 425,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "ml-explore/mlx",
       "url": "https://github.com/ml-explore/mlx",
       "description": "MLX: An array framework for Apple silicon",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 23570,
+      "forks": 1464,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 85859,
+      "forks": 56497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "openxla/xla",
       "url": "https://github.com/openxla/xla",
       "description": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3917,
+      "forks": 727,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md"
+      "source_path": "/tmp/trending_archive/2024/2024-03/2024-03-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:56Z"
     }
   ]
 }

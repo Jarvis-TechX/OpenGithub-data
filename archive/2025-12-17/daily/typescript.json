@@ -16,14 +16,16 @@
       "full_name": "C4illin/ConvertX",
       "url": "https://github.com/C4illin/ConvertX",
       "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 15436,
+      "forks": 844,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "simstudioai/sim",
       "url": "https://github.com/simstudioai/sim",
       "description": "Open-source platform to build and deploy AI agent workflows.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26027,
+      "forks": 3249,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "nicotsx/zerobyte",
       "url": "https://github.com/nicotsx/zerobyte",
       "description": "Backup automation for self-hosters. Built on top of restic",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 5061,
+      "forks": 121,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "sst/opencode",
       "url": "https://github.com/sst/opencode",
       "description": "The open source coding agent.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 85161,
+      "forks": 7644,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "siyuan-note/siyuan",
       "url": "https://github.com/siyuan-note/siyuan",
       "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 40808,
+      "forks": 2531,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 170826,
+      "forks": 53992,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "logto-io/logto",
       "url": "https://github.com/logto-io/logto",
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 11468,
+      "forks": 691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "calcom/cal.com",
       "url": "https://github.com/calcom/cal.com",
       "description": "Scheduling infrastructure for absolutely everyone.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 39833,
+      "forks": 11663,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "shadcn-ui/ui",
       "url": "https://github.com/shadcn-ui/ui",
       "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 105365,
+      "forks": 7729,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "ant-design/x",
       "url": "https://github.com/ant-design/x",
       "description": "Craft AI-driven interface effortlessly🤖",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4251,
+      "forks": 987,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "nukeop/nuclear",
       "url": "https://github.com/nukeop/nuclear",
       "description": "Streaming music player that finds free music for you",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 16973,
+      "forks": 1262,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "getumbrel/umbrel",
       "url": "https://github.com/getumbrel/umbrel",
       "description": "A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 10331,
+      "forks": 691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     }
   ]
 }

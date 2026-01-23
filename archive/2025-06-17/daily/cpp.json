@@ -16,14 +16,16 @@
       "full_name": "google/flatbuffers",
       "url": "https://github.com/google/flatbuffers",
       "description": "FlatBuffers: Memory Efficient Serialization Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 25447,
+      "forks": 3486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "meshtastic/firmware",
       "url": "https://github.com/meshtastic/firmware",
       "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6620,
+      "forks": 1932,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "78/xiaozhi-esp32",
       "url": "https://github.com/78/xiaozhi-esp32",
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 23449,
+      "forks": 4940,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 85859,
+      "forks": 56497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "alibaba/MNN",
       "url": "https://github.com/alibaba/MNN",
       "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13983,
+      "forks": 2179,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 93594,
+      "forks": 14588,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "microsoft/onnxruntime",
       "url": "https://github.com/microsoft/onnxruntime",
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 19060,
+      "forks": 3662,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "apache/arrow",
       "url": "https://github.com/apache/arrow",
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16425,
+      "forks": 3993,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "ai-dynamo/nixl",
       "url": "https://github.com/ai-dynamo/nixl",
       "description": "NVIDIA Inference Xfer Library (NIXL)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 839,
+      "forks": 228,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "facebookresearch/faiss",
       "url": "https://github.com/facebookresearch/faiss",
       "description": "A library for efficient similarity search and clustering of dense vectors.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38857,
+      "forks": 4197,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "facontidavide/PlotJuggler",
       "url": "https://github.com/facontidavide/PlotJuggler",
       "description": "The Time Series Visualization Tool that you deserve.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5640,
+      "forks": 747,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "tensorflow/tflite-micro",
       "url": "https://github.com/tensorflow/tflite-micro",
       "description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2724,
+      "forks": 985,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
       "description": "A framework for building native applications using React",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 125167,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "ros-navigation/navigation2",
       "url": "https://github.com/ros-navigation/navigation2",
       "description": "ROS 2 Navigation Framework and System",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3859,
+      "forks": 1701,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "microsoft/LightGBM",
       "url": "https://github.com/microsoft/LightGBM",
       "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 18026,
+      "forks": 3978,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "ClickHouse/ClickHouse",
       "url": "https://github.com/ClickHouse/ClickHouse",
       "description": "ClickHouse® is a real-time analytics database management system",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 45394,
+      "forks": 8004,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "maplibre/maplibre-native",
       "url": "https://github.com/maplibre/maplibre-native",
       "description": "MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1707,
+      "forks": 453,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "duckdb/duckdb",
       "url": "https://github.com/duckdb/duckdb",
       "description": "DuckDB is an analytical in-process SQL database management system",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35607,
+      "forks": 2874,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70907,
+      "forks": 11484,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "xgboost",
       "full_name": "dmlc/xgboost",
       "url": "https://github.com/dmlc/xgboost",
-      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "stars": 27895,
+      "forks": 8832,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md"
+      "source_path": "/tmp/trending_archive/2025/2025-06/2025-06-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:09Z"
     }
   ]
 }

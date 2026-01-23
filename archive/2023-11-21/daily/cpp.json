@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "TensorRT",
       "full_name": "NVIDIA/TensorRT",
       "url": "https://github.com/NVIDIA/TensorRT",
-      "description": "NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+      "language": "C++",
+      "stars": 12626,
+      "forks": 2301,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "JoltPhysics",
       "full_name": "jrouwe/JoltPhysics",
       "url": "https://github.com/jrouwe/JoltPhysics",
-      "description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.",
+      "language": "C++",
+      "stars": 9414,
+      "forks": 640,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "ArduPilot/ardupilot",
       "url": "https://github.com/ArduPilot/ardupilot",
       "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14397,
+      "forks": 20117,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "Brendan-Kirtlan/Video-Encode",
       "url": "https://github.com/Brendan-Kirtlan/Video-Encode",
       "description": "Encodes a file into a video format to store on a cloud video hosting service",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 940,
+      "forks": 72,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "InternLM/lmdeploy",
       "url": "https://github.com/InternLM/lmdeploy",
       "description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 7550,
+      "forks": 649,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "apache/brpc",
       "url": "https://github.com/apache/brpc",
       "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17450,
+      "forks": 4091,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "NVIDIA/FasterTransformer",
       "url": "https://github.com/NVIDIA/FasterTransformer",
       "description": "Transformer related optimization, including BERT, GPT",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6387,
+      "forks": 928,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "facebook/folly",
       "url": "https://github.com/facebook/folly",
       "description": "An open-source C++ library developed and used at Facebook.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 30233,
+      "forks": 5841,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "microsoft/onnxruntime",
       "url": "https://github.com/microsoft/onnxruntime",
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 19060,
+      "forks": 3662,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "SoftFever/OrcaSlicer",
       "url": "https://github.com/SoftFever/OrcaSlicer",
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12293,
+      "forks": 1654,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "microsoft/calculator",
       "url": "https://github.com/microsoft/calculator",
       "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 30838,
+      "forks": 5709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "interview",
       "full_name": "huihut/interview",
       "url": "https://github.com/huihut/interview",
-      "description": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation…",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",
+      "language": "C++",
+      "stars": 37437,
+      "forks": 8131,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "idaholab/moose",
       "url": "https://github.com/idaholab/moose",
       "description": "Multiphysics Object Oriented Simulation Environment",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2146,
+      "forks": 1179,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "taichi",
       "full_name": "taichi-dev/taichi",
       "url": "https://github.com/taichi-dev/taichi",
-      "description": "Productive & portable high-performance programming in Python.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Productive, portable, and performant GPU programming in Python.",
+      "language": "C++",
+      "stars": 27916,
+      "forks": 2380,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "srs",
       "full_name": "ossrs/srs",
       "url": "https://github.com/ossrs/srs",
-      "description": "SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
+      "language": "C++",
+      "stars": 28419,
+      "forks": 5640,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "tensorflow/tflite-micro",
       "url": "https://github.com/tensorflow/tflite-micro",
       "description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2724,
+      "forks": 985,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "WinMerge/winmerge",
       "url": "https://github.com/WinMerge/winmerge",
       "description": "WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 8408,
+      "forks": 935,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "google/leveldb",
       "url": "https://github.com/google/leveldb",
       "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38758,
+      "forks": 8151,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "yhirose/cpp-httplib",
       "url": "https://github.com/yhirose/cpp-httplib",
       "description": "A C++ header-only HTTP/HTTPS server and client library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16038,
+      "forks": 2613,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "gnuradio/gnuradio",
       "url": "https://github.com/gnuradio/gnuradio",
       "description": "GNU Radio – the Free and Open Software Radio Ecosystem",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5880,
+      "forks": 2065,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "aristocratos/btop",
       "url": "https://github.com/aristocratos/btop",
       "description": "A monitor of resources",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29865,
+      "forks": 901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "capnproto/capnproto",
       "url": "https://github.com/capnproto/capnproto",
       "description": "Cap'n Proto serialization/RPC system - core tools and C++ library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12804,
+      "forks": 1022,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md"
+      "source_path": "/tmp/trending_archive/2023/2023-11/2023-11-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:53Z"
     }
   ]
 }

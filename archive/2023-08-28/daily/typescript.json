@@ -16,14 +16,16 @@
       "full_name": "kamranahmedse/developer-roadmap",
       "url": "https://github.com/kamranahmedse/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 347792,
+      "forks": 43650,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "paradigmxyz/rivet",
       "url": "https://github.com/paradigmxyz/rivet",
       "description": "Developer Wallet & DevTools for Anvil",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 930,
+      "forks": 91,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "lx-music-desktop",
       "full_name": "lyswhut/lx-music-desktop",
       "url": "https://github.com/lyswhut/lx-music-desktop",
-      "description": "一个基于 electron 的音乐软件",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "一个基于 Electron 的音乐软件",
+      "language": "TypeScript",
+      "stars": 48427,
+      "forks": 6614,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "actualbudget/actual",
       "url": "https://github.com/actualbudget/actual",
       "description": "A local-first personal finance app",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 24466,
+      "forks": 2097,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "bluesky-social/social-app",
       "url": "https://github.com/bluesky-social/social-app",
       "description": "The Bluesky Social application for Web, iOS, and Android",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 17591,
+      "forks": 2591,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "adrianhajdin/threads",
       "url": "https://github.com/adrianhajdin/threads",
       "description": "Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1586,
+      "forks": 294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "n8n",
       "full_name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 170826,
+      "forks": 53992,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "bautistaaa/typehero",
       "url": "https://github.com/bautistaaa/typehero",
       "description": "Connect, collaborate, and grow with a community of TypeScript developers",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6570,
+      "forks": 461,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "freeCodeCamp",
       "full_name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 436212,
+      "forks": 43167,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "remix-run/remix",
       "url": "https://github.com/remix-run/remix",
       "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 32150,
+      "forks": 2723,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "type-challenges/type-challenges",
       "url": "https://github.com/type-challenges/type-challenges",
       "description": "Collection of TypeScript type challenges with online judge",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 47542,
+      "forks": 5207,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "zjxxxxxxxxx/axios-miniprogram",
       "url": "https://github.com/zjxxxxxxxxx/axios-miniprogram",
       "description": "基于 Promise 的 HTTP 请求库，适用于各大小程序平台。",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 226,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 14,
@@ -231,7 +257,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "nodejs/nodejs.org",
       "url": "https://github.com/nodejs/nodejs.org",
       "description": "The Node.js® Website",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 6782,
+      "forks": 6473,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "makenotion/notion-sdk-js",
       "url": "https://github.com/makenotion/notion-sdk-js",
       "description": "Official Notion JavaScript Client",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 5506,
+      "forks": 701,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "AFFiNE",
       "full_name": "toeverything/AFFiNE",
       "url": "https://github.com/toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+      "language": "TypeScript",
+      "stars": 62117,
+      "forks": 4310,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "astro",
       "full_name": "withastro/astro",
       "url": "https://github.com/withastro/astro",
-      "description": "The all-in-one web framework designed for speed. ⭐️ Star to support our work!",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+      "language": "TypeScript",
+      "stars": 56158,
+      "forks": 3091,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "joplin",
       "full_name": "laurent22/joplin",
       "url": "https://github.com/laurent22/joplin",
-      "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+      "language": "TypeScript",
+      "stars": 53095,
+      "forks": 5692,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "mattermost/focalboard",
       "url": "https://github.com/mattermost/focalboard",
       "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 25756,
+      "forks": 2469,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "joschan21/breadit",
       "url": "https://github.com/joschan21/breadit",
       "description": "Modern Fullstack Reddit Clone in Next.js 13 & TypeScript",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1112,
+      "forks": 271,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md"
+      "source_path": "/tmp/trending_archive/2023/2023-08/2023-08-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:52:51Z"
     }
   ]
 }

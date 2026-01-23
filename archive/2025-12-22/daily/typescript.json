@@ -16,14 +16,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110054,
+      "forks": 5418,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 89721,
+      "forks": 4776,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "Personal_AI_Infrastructure",
       "full_name": "danielmiessler/Personal_AI_Infrastructure",
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Personal AI Infrastructure for upgrading humans.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars": 5620,
+      "forks": 875,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "DIYgod/RSSHub",
       "url": "https://github.com/DIYgod/RSSHub",
       "description": "🧡 Everything is RSSible",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 41330,
+      "forks": 9070,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "stan-smith/FossFLOW",
       "url": "https://github.com/stan-smith/FossFLOW",
       "description": "Make beautiful isometric infrastructure diagrams",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 16791,
+      "forks": 1074,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 39024,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "sct/overseerr",
       "url": "https://github.com/sct/overseerr",
       "description": "Request management and media discovery tool for the Plex ecosystem",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 5028,
+      "forks": 589,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "tambo-ai/tambo",
       "url": "https://github.com/tambo-ai/tambo",
       "description": "Generative UI SDK for React",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4488,
+      "forks": 226,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "kizuna-ai-lab/sokuji",
       "url": "https://github.com/kizuna-ai-lab/sokuji",
       "description": "Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 777,
+      "forks": 72,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "afkarxyz/SpotiFLAC",
       "url": "https://github.com/afkarxyz/SpotiFLAC",
       "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 3553,
+      "forks": 207,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "midday-ai/midday",
       "url": "https://github.com/midday-ai/midday",
       "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 13627,
+      "forks": 1305,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "kubernetes-sigs/headlamp",
       "url": "https://github.com/kubernetes-sigs/headlamp",
       "description": "A Kubernetes web UI that is fully-featured, user-friendly and extensible",
-      "language": "typescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 5462,
+      "forks": 535,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md"
+      "source_path": "/tmp/trending_archive/2025/2025-12/2025-12-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T15:53:13Z"
     }
   ]
 }
