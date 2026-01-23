@@ -64,14 +64,16 @@
       "full_name": "pocke/iro.vim",
       "url": "https://github.com/pocke/iro.vim",
       "description": "Iro.vim is a Vim plugin that is a next generation syntax highlighter.",
-      "language": "ruby",
-      "stars": 22,
-      "forks": 0,
+      "language": "Ruby",
+      "stars": 64,
+      "forks": 3,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-05.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T06:44:42Z"
     },
     {
       "rank": 5,
@@ -160,14 +162,16 @@
       "full_name": "PaulTaykalo/swift-scripts",
       "url": "https://github.com/PaulTaykalo/swift-scripts",
       "description": "Some useful scripts for swift developers",
-      "language": "ruby",
-      "stars": 54,
-      "forks": 0,
+      "language": "Ruby",
+      "stars": 952,
+      "forks": 201,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-05.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T06:44:42Z"
     },
     {
       "rank": 11,

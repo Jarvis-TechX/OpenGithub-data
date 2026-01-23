@@ -32,14 +32,16 @@
       "full_name": "PaulTaykalo/swift-scripts",
       "url": "https://github.com/PaulTaykalo/swift-scripts",
       "description": "Some useful scripts for swift developers",
-      "language": "ruby",
-      "stars": 43,
-      "forks": 0,
+      "language": "Ruby",
+      "stars": 952,
+      "forks": 201,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-04.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T06:44:42Z"
     },
     {
       "rank": 3,
@@ -176,14 +178,16 @@
       "full_name": "mwpastore/rack-session-smart_cookie",
       "url": "https://github.com/mwpastore/rack-session-smart_cookie",
       "description": "Slightly smarter session cookies for Rack 2 apps",
-      "language": "ruby",
-      "stars": 27,
+      "language": "Ruby",
+      "stars": 43,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-04.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-23T06:44:42Z"
     },
     {
       "rank": 12,
