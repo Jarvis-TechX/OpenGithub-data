@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "mcastorina/graph-cli",
       "url": "https://github.com/mcastorina/graph-cli",
       "description": "Flexible command line tool to create graphs from CSV data",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 803,
+      "forks": 31,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "almandin/fuxploider",
       "url": "https://github.com/almandin/fuxploider",
       "description": "File upload vulnerability scanner and exploitation tool.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3293,
+      "forks": 517,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "bert_language_understanding",
       "full_name": "brightmart/bert_language_understanding",
       "url": "https://github.com/brightmart/bert_language_understanding",
-      "description": "Pre-training of Deep Bidirectional Transformers for Language Understanding",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN",
+      "language": "Python",
+      "stars": 969,
+      "forks": 211,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "TensorFlow-Course",
       "full_name": "open-source-for-science/TensorFlow-Course",
       "url": "https://github.com/open-source-for-science/TensorFlow-Course",
-      "description": "Simple and ready-to-use tutorials for TensorFlow",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":satellite: Simple and ready-to-use tutorials for TensorFlow ",
+      "language": "Jupyter Notebook",
+      "stars": 16338,
+      "forks": 3169,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "Swall0w/torchstat",
       "url": "https://github.com/Swall0w/torchstat",
       "description": "Model analyzer in PyTorch",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1502,
+      "forks": 139,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "SummitKwan/transparent_latent_gan",
       "url": "https://github.com/SummitKwan/transparent_latent_gan",
       "description": "Use supervised learning to illuminate the latent space of GAN for controlled generation and edit",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1978,
+      "forks": 356,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "vergeml/vergeml",
       "url": "https://github.com/vergeml/vergeml",
       "description": "Machine Learning Environment - alpha version",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 340,
+      "forks": 12,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 217107,
+      "forks": 49988,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "facebookresearch/maskrcnn-benchmark",
       "url": "https://github.com/facebookresearch/maskrcnn-benchmark",
       "description": "Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 9390,
+      "forks": 2475,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "tensorflow/models",
       "url": "https://github.com/tensorflow/models",
       "description": "Models and examples built with TensorFlow",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 77694,
+      "forks": 45328,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "BERT-keras",
       "full_name": "Separius/BERT-keras",
       "url": "https://github.com/Separius/BERT-keras",
-      "description": "Keras implementation of BERT(Bidirectional Encoder Representations from Transformers)",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Keras implementation of BERT with pre-trained weights",
+      "language": "Python",
+      "stars": 816,
+      "forks": 192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 14,
@@ -231,7 +257,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "system-design-primer",
       "full_name": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python",
+      "stars": 333105,
+      "forks": 54165,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "awesome-python",
       "full_name": "vinta/awesome-python",
       "url": "https://github.com/vinta/awesome-python",
-      "description": "A curated list of awesome Python frameworks, libraries, software and resources",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+      "language": "Python",
+      "stars": 279551,
+      "forks": 27113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "keras-team/keras",
       "url": "https://github.com/keras-team/keras",
       "description": "Deep Learning for humans",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 63739,
+      "forks": 19678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "Python3WebSpider/DouYin",
       "url": "https://github.com/Python3WebSpider/DouYin",
       "description": "API of DouYin for Humans used to Crawl Popular Videos and Musics",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 651,
+      "forks": 258,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "public-apis",
       "full_name": "toddmotto/public-apis",
       "url": "https://github.com/toddmotto/public-apis",
-      "description": "A collective list of public JSON APIs for use in web development.",
+      "description": "A collective list of free APIs",
       "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "stars": 2892,
+      "forks": 296,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "django/django",
       "url": "https://github.com/django/django",
       "description": "The Web framework for perfectionists with deadlines.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 86546,
+      "forks": 33539,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "scikit-learn/scikit-learn",
       "url": "https://github.com/scikit-learn/scikit-learn",
       "description": "scikit-learn: machine learning in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 64749,
+      "forks": 26623,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "rg3/youtube-dl",
       "url": "https://github.com/rg3/youtube-dl",
       "description": "Command-line program to download videos from YouTube.com and other video sites",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 139545,
+      "forks": 10586,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "poetry",
       "full_name": "sdispater/poetry",
       "url": "https://github.com/sdispater/poetry",
-      "description": "Python dependency management and packaging made easy.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Python packaging and dependency management made easy",
+      "language": "Python",
+      "stars": 34158,
+      "forks": 2393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "Algorithm_Interview_Notes-Chinese",
       "full_name": "imhuay/Algorithm_Interview_Notes-Chinese",
       "url": "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese",
-      "description": "2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "我的学习空间: 笔记, 备忘, 刷题, 代码",
+      "language": "Python",
+      "stars": 47,
+      "forks": 8,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "ageitgey/face_recognition",
       "url": "https://github.com/ageitgey/face_recognition",
       "description": "The world's simplest facial recognition api for Python and the command line",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 56066,
+      "forks": 13713,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-10/2018-10-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     }
   ]
 }

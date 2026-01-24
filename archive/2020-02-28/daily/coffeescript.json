@@ -16,14 +16,16 @@
       "full_name": "codecombat/codecombat",
       "url": "https://github.com/codecombat/codecombat",
       "description": "Game for learning how to code.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8407,
+      "forks": 4168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "Pagedraw/pagedraw",
       "url": "https://github.com/Pagedraw/pagedraw",
       "description": "a UI builder for React web apps",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3554,
+      "forks": 462,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "nicolaskruchten/pivottable",
       "url": "https://github.com/nicolaskruchten/pivottable",
       "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4449,
+      "forks": 1087,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

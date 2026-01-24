@@ -16,14 +16,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-14.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-14.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "Leonidas-from-XIV/node-xml2js",
       "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
       "description": "XML to JavaScript object converter.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4973,
+      "forks": 609,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-14.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "CoffeeScriptRedux",
       "full_name": "michaelficarra/CoffeeScriptRedux",
       "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
-      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "CoffeeScript",
+      "stars": 1836,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-14.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

@@ -63,15 +63,17 @@
       "repo_name": "trackmd",
       "full_name": "ropenscilabs/trackmd",
       "url": "https://github.com/ropenscilabs/trackmd",
-      "description": "Tools for tracking changes in Markdown format within RStudio",
+      "description": ":no_entry: ARCHIVED :no_entry: RStudio Addin for Tracking Document Changes",
       "language": "R",
-      "stars": 35,
-      "forks": 0,
+      "stars": 92,
+      "forks": 4,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 5,

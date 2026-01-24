@@ -15,15 +15,17 @@
       "repo_name": "ccxt",
       "full_name": "ccxt/ccxt",
       "url": "https://github.com/ccxt/ccxt",
-      "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go ",
+      "language": "Python",
+      "stars": 40658,
+      "forks": 8481,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "bigskysoftware/htmx",
       "url": "https://github.com/bigskysoftware/htmx",
       "description": "</> htmx - high power tools for HTML",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 47245,
+      "forks": 1563,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "krasimir/react-in-patterns",
       "url": "https://github.com/krasimir/react-in-patterns",
       "description": "A free book that talks about design patterns/techniques used while developing with React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13595,
+      "forks": 985,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "return-ShowHiddenChannels",
       "full_name": "JustOptimize/return-ShowHiddenChannels",
       "url": "https://github.com/JustOptimize/return-ShowHiddenChannels",
-      "description": "The return of the banned plugin ShowHiddenChannels",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A BetterDiscord plugin which displays all hidden channels and allows users to view information about them.",
+      "language": "JavaScript",
+      "stars": 908,
+      "forks": 377,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "antonioru/beautiful-react-hooks",
       "url": "https://github.com/antonioru/beautiful-react-hooks",
       "description": "🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8367,
+      "forks": 585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "MichMich/MagicMirror",
       "url": "https://github.com/MichMich/MagicMirror",
       "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 23219,
+      "forks": 4509,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "adrianhajdin/project_shareme_social_media",
       "url": "https://github.com/adrianhajdin/project_shareme_social_media",
       "description": "Image Sharing Social Media App",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1735,
+      "forks": 437,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "mifi/lossless-cut",
       "url": "https://github.com/mifi/lossless-cut",
       "description": "The swiss army knife of lossless video/audio editing",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 37468,
+      "forks": 1824,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "mozilla/pdf.js",
       "url": "https://github.com/mozilla/pdf.js",
       "description": "PDF Reader in JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 52711,
+      "forks": 10571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "PrismarineJS/mineflayer",
       "url": "https://github.com/PrismarineJS/mineflayer",
       "description": "Create Minecraft bots with a powerful, stable, and high level JavaScript API.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6524,
+      "forks": 1170,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "beefproject/beef",
       "url": "https://github.com/beefproject/beef",
       "description": "The Browser Exploitation Framework Project",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10678,
+      "forks": 2342,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "DPlayer",
       "full_name": "DIYgod/DPlayer",
       "url": "https://github.com/DIYgod/DPlayer",
-      "description": "🍭 Wow, such a lovely HTML5 danmaku video player",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":lollipop: Wow, such a lovely HTML5 danmaku video player",
+      "language": "JavaScript",
+      "stars": 16269,
+      "forks": 2480,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "FUT-Auto-Buyer",
       "full_name": "ckalgos/FUT-Auto-Buyer",
       "url": "https://github.com/ckalgos/FUT-Auto-Buyer",
-      "description": "Fifa UT AutoBuyer / Snipping Bot for fifa ultimate team web app with captcha solver",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Fifa UT Trader for fifa ultimate team web app with captcha solver",
+      "language": "JavaScript",
+      "stars": 639,
+      "forks": 194,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "K8sAcademy/Fundamentals-HandsOn",
       "url": "https://github.com/K8sAcademy/Fundamentals-HandsOn",
       "description": "Files for the Docker and Kubernetes Fundamentals Hands-On labs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "C#",
+      "stars": 740,
+      "forks": 851,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "AlreadyBored/basic-js",
       "url": "https://github.com/AlreadyBored/basic-js",
       "description": "* [https://github.com/judygab/web-dev-projects](judygab/web-dev-projects) Projects repo for tutorials for my YouTube Channel",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 217,
+      "forks": 9839,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Solidity",
+      "stars": 26936,
+      "forks": 12415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "gorhill/uBlock",
       "url": "https://github.com/gorhill/uBlock",
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 61086,
+      "forks": 3915,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "1Lighty/BetterDiscordPlugins",
       "url": "https://github.com/1Lighty/BetterDiscordPlugins",
       "description": "All of my BetterDiscord plugins. If you require support for them, join my Discord server. https://discord.gg/NYvWdN5",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 564,
+      "forks": 722,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "Leask/socratex",
       "url": "https://github.com/Leask/socratex",
       "description": "A Secure Web Proxy. Which is fast, secure, and easy to use.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 297,
+      "forks": 35,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "image_border_optimizer",
       "full_name": "hellojuantu/image_border_optimizer",
       "url": "https://github.com/hellojuantu/image_border_optimizer",
-      "description": "轻量化的图片编辑器",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A Lightweight Image Editor",
+      "language": "JavaScript",
+      "stars": 481,
+      "forks": 83,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     }
   ]
 }

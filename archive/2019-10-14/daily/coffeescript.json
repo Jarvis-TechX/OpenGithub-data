@@ -15,15 +15,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     }
   ]
 }

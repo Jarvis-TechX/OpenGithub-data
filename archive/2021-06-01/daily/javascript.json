@@ -15,15 +15,17 @@
       "repo_name": "tmall-miao",
       "full_name": "MonsterNone/tmall-miao",
       "url": "https://github.com/MonsterNone/tmall-miao",
-      "description": "天猫618/双十一喵币/年货节芭芭农场任务一键完成（绕过淘宝检测，新版淘宝也能用）",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "喵币助手：618天猫（淘宝）、京东任务一键完成。HarmonyOS Next（鸿蒙5）版本开发中。",
+      "language": "Python",
+      "stars": 4026,
+      "forks": 498,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "jklepatch/eattheblocks",
       "url": "https://github.com/jklepatch/eattheblocks",
       "description": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4002,
+      "forks": 3139,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "websockets/ws",
       "url": "https://github.com/websockets/ws",
       "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 22621,
+      "forks": 2516,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "vfat-tools/vfat-tools",
       "url": "https://github.com/vfat-tools/vfat-tools",
       "description": "* [https://github.com/sushrut111/cowin-automation-extn](sushrut111/cowin-automation-extn) Source code for chrome extension Cowin Automation. Auto fills the fields on cowin vaccine slot booking portal to speed up the process and quickly book a slot.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 906,
+      "forks": 1060,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "jitsi/jitsi-meet",
       "url": "https://github.com/jitsi/jitsi-meet",
       "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 28423,
+      "forks": 7704,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "bilibili/flv.js",
       "url": "https://github.com/bilibili/flv.js",
       "description": "HTML5 FLV Player",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 23253,
+      "forks": 3362,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "d3",
       "full_name": "d3/d3",
       "url": "https://github.com/d3/d3",
-      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+      "language": "Shell",
+      "stars": 112204,
+      "forks": 22835,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "Matt-Fontes/SendScriptWhatsApp",
       "url": "https://github.com/Matt-Fontes/SendScriptWhatsApp",
       "description": "Script para enviar o Roteiro do filme Shrek, linha por linha, no WhatsApp",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3371,
+      "forks": 1488,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "kit",
       "full_name": "sveltejs/kit",
       "url": "https://github.com/sveltejs/kit",
-      "description": "The fastest way to build Svelte apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "web development, streamlined",
+      "language": "JavaScript",
+      "stars": 20207,
+      "forks": 2194,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "jd_shell",
       "full_name": "lan-tianxiang/jd_shell",
       "url": "https://github.com/lan-tianxiang/jd_shell",
-      "description": "京豆 京东 lxk0301 jd-base loon docker 羊毛 脚本",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Node网页开发工具",
+      "language": "JavaScript",
+      "stars": 943,
+      "forks": 321,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "react-boilerplate/react-boilerplate",
       "url": "https://github.com/react-boilerplate/react-boilerplate",
       "description": "🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 29545,
+      "forks": 6070,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
       "url": "https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
       "description": "* [https://github.com/nextapps-de/winbox](nextapps-de/winbox) WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 415,
+      "forks": 24,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "boring-avatars",
       "full_name": "boringdesigners/boring-avatars",
       "url": "https://github.com/boringdesigners/boring-avatars",
-      "description": "Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.",
+      "language": "TypeScript",
+      "stars": 6116,
+      "forks": 207,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "node-red/node-red",
       "url": "https://github.com/node-red/node-red",
       "description": "Low-code programming for event-driven applications",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 22663,
+      "forks": 3785,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "nodebestpractices",
       "full_name": "goldbergyoni/nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (June 2021)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":white_check_mark:  The Node.js best practices list (July 2024)",
+      "language": "Dockerfile",
+      "stars": 104955,
+      "forks": 10681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "handsontable",
       "full_name": "handsontable/handsontable",
       "url": "https://github.com/handsontable/handsontable",
-      "description": "JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡",
+      "language": "JavaScript",
+      "stars": 21754,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "typicode/json-server",
       "url": "https://github.com/typicode/json-server",
       "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 75593,
+      "forks": 7271,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     }
   ]
 }

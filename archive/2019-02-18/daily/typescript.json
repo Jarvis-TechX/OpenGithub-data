@@ -65,13 +65,15 @@
       "url": "https://github.com/tridactyl/tridactyl",
       "description": "A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.",
       "language": "TypeScript",
-      "stars": 1507,
-      "forks": 149,
+      "stars": 6050,
+      "forks": 426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 5,
@@ -79,15 +81,17 @@
       "repo_name": "notable",
       "full_name": "notable/notable",
       "url": "https://github.com/notable/notable",
-      "description": "The markdown-based note-taking app that doesn't suck.",
+      "description": "The Markdown-based note-taking app that doesn't suck.",
       "language": "TypeScript",
-      "stars": 8247,
-      "forks": 307,
+      "stars": 23417,
+      "forks": 1184,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 6,
@@ -95,15 +99,17 @@
       "repo_name": "ant-design",
       "full_name": "ant-design/ant-design",
       "url": "https://github.com/ant-design/ant-design",
-      "description": "🌈 A UI Design Language",
+      "description": "An enterprise-class UI design language and React UI library",
       "language": "TypeScript",
-      "stars": 42537,
-      "forks": 14445,
+      "stars": 97344,
+      "forks": 54426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 7,
@@ -113,13 +119,15 @@
       "url": "https://github.com/Microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
-      "stars": 45175,
-      "forks": 6339,
+      "stars": 107533,
+      "forks": 13213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 8,
@@ -143,15 +151,17 @@
       "repo_name": "deno",
       "full_name": "denoland/deno",
       "url": "https://github.com/denoland/deno",
-      "description": "A new way to JavaScript",
-      "language": "TypeScript",
-      "stars": 31177,
-      "forks": 1494,
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": 105936,
+      "forks": 5868,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 10,
@@ -159,15 +169,17 @@
       "repo_name": "angular",
       "full_name": "angular/angular",
       "url": "https://github.com/angular/angular",
-      "description": "One framework. Mobile & desktop.",
+      "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
-      "stars": 45357,
-      "forks": 11816,
+      "stars": 99737,
+      "forks": 27024,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 11,
@@ -177,13 +189,15 @@
       "url": "https://github.com/Eugeny/terminus",
       "description": "A terminal for a more modern age",
       "language": "TypeScript",
-      "stars": 5519,
-      "forks": 186,
+      "stars": 68390,
+      "forks": 3842,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 12,
@@ -191,15 +205,17 @@
       "repo_name": "nest",
       "full_name": "nestjs/nest",
       "url": "https://github.com/nestjs/nest",
-      "description": "A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) heavily inspired by Angular 🚀",
+      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
       "language": "TypeScript",
-      "stars": 12712,
-      "forks": 824,
+      "stars": 74315,
+      "forks": 8175,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 13,
@@ -207,15 +223,17 @@
       "repo_name": "formik",
       "full_name": "jaredpalmer/formik",
       "url": "https://github.com/jaredpalmer/formik",
-      "description": "Build forms in React, without the tears 😭",
+      "description": "Build forms in React, without the tears 😭 ",
       "language": "TypeScript",
-      "stars": 13152,
-      "forks": 798,
+      "stars": 34376,
+      "forks": 2794,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 14,
@@ -225,13 +243,15 @@
       "url": "https://github.com/labs42io/clean-code-typescript",
       "description": "Clean Code concepts adapted for TypeScript",
       "language": "TypeScript",
-      "stars": 1439,
-      "forks": 73,
+      "stars": 9701,
+      "forks": 1180,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 15,
@@ -239,15 +259,17 @@
       "repo_name": "coc.nvim",
       "full_name": "neoclide/coc.nvim",
       "url": "https://github.com/neoclide/coc.nvim",
-      "description": "Intellisense engine for vim8 & neovim, full language server protocol support as VSCode",
+      "description": "Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.",
       "language": "TypeScript",
-      "stars": 1127,
-      "forks": 34,
+      "stars": 25128,
+      "forks": 966,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 16,
@@ -273,13 +295,15 @@
       "url": "https://github.com/tensorflow/tfjs-models",
       "description": "Pretrained models for TensorFlow.js",
       "language": "TypeScript",
-      "stars": 2086,
-      "forks": 515,
+      "stars": 14744,
+      "forks": 4408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 18,
@@ -287,15 +311,17 @@
       "repo_name": "deno_note",
       "full_name": "chenshenhai/deno_note",
       "url": "https://github.com/chenshenhai/deno_note",
-      "description": "《Deno进阶开发笔记》 (不定时更新)🌶🌶🌶",
+      "description": "《Deno进阶开发笔记》 (不定时更新)  🌶🌶🌶",
       "language": "TypeScript",
-      "stars": 23,
-      "forks": 0,
+      "stars": 659,
+      "forks": 37,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 19,
@@ -303,15 +329,17 @@
       "repo_name": "CopyTranslator",
       "full_name": "CopyTranslator/CopyTranslator",
       "url": "https://github.com/CopyTranslator/CopyTranslator",
-      "description": "Foreign language reading and translation assistant based on copy and translate.(Latest: v0.0.7-Kylin-RC1)",
+      "description": "🔠Foreign language reading and translation assistant based on copy and translate.",
       "language": "TypeScript",
-      "stars": 2271,
-      "forks": 259,
+      "stars": 17537,
+      "forks": 1948,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 20,
@@ -321,13 +349,15 @@
       "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
       "description": "The repository for high quality TypeScript type definitions.",
       "language": "TypeScript",
-      "stars": 20440,
-      "forks": 16478,
+      "stars": 50847,
+      "forks": 30553,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 21,
@@ -335,15 +365,17 @@
       "repo_name": "typeorm",
       "full_name": "typeorm/typeorm",
       "url": "https://github.com/typeorm/typeorm",
-      "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+      "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
       "language": "TypeScript",
-      "stars": 11142,
-      "forks": 1300,
+      "stars": 36263,
+      "forks": 6480,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 22,
@@ -369,13 +401,15 @@
       "url": "https://github.com/probot/probot",
       "description": "🤖 A framework for building GitHub Apps to automate and improve your workflow",
       "language": "TypeScript",
-      "stars": 4242,
-      "forks": 402,
+      "stars": 9431,
+      "forks": 1017,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 24,
@@ -401,13 +435,15 @@
       "url": "https://github.com/streamich/react-use",
       "description": "React Hooks — 👍",
       "language": "TypeScript",
-      "stars": 2178,
-      "forks": 70,
+      "stars": 43903,
+      "forks": 3279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     }
   ]
 }

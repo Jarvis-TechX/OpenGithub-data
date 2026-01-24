@@ -16,14 +16,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-13.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "CoffeeScriptRedux",
       "full_name": "michaelficarra/CoffeeScriptRedux",
       "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
-      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "CoffeeScript",
+      "stars": 1836,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-13.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     }
   ]
 }

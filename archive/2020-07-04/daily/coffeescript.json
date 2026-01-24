@@ -16,14 +16,16 @@
       "full_name": "jcipriano/boxframe-js",
       "url": "https://github.com/jcipriano/boxframe-js",
       "description": "A simple Javascript framework and library",
-      "language": "coffeescript",
-      "stars": 0,
+      "language": "CoffeeScript",
+      "stars": 3,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "yakyak/yakyak",
       "url": "https://github.com/yakyak/yakyak",
       "description": "Desktop chat client for Google Hangouts",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3783,
+      "forks": 313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "balena-raspberrypi",
       "full_name": "balena-os/balena-raspberrypi",
       "url": "https://github.com/balena-os/balena-raspberrypi",
-      "description": "Resin support for RaspberryPI boards",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Balena support for RaspberryPI boards",
+      "language": "BitBake",
+      "stars": 206,
+      "forks": 88,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "Gutenberg-Technology/gt-unsafe-filter",
       "url": "https://github.com/Gutenberg-Technology/gt-unsafe-filter",
       "description": "Filter to be used with ng-bind-html to prevent AngularJS unsafe warning",
-      "language": "coffeescript",
+      "language": "CoffeeScript",
       "stars": 0,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

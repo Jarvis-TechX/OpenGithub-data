@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "chinese-copywriting-guidelines",
       "full_name": "sparanoid/chinese-copywriting-guidelines",
       "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
-      "description": "Chinese copywriting guidelines for better written communication",
+      "description": "Chinese copywriting guidelines for better written communication／中文文案排版指北",
       "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 15173,
+      "forks": 1834,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "nicolaskruchten/pivottable",
       "url": "https://github.com/nicolaskruchten/pivottable",
       "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4449,
+      "forks": 1087,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "JunoLab/atom-julia-client",
       "url": "https://github.com/JunoLab/atom-julia-client",
       "description": "Juno a good IDE?",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 271,
+      "forks": 72,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "Gutenberg-Technology/gt-unsafe-filter",
       "url": "https://github.com/Gutenberg-Technology/gt-unsafe-filter",
       "description": "Filter to be used with ng-bind-html to prevent AngularJS unsafe warning",
-      "language": "coffeescript",
+      "language": "CoffeeScript",
       "stars": 0,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "jeremyramin/terminal-plus",
       "url": "https://github.com/jeremyramin/terminal-plus",
       "description": "A terminal package for Atom, complete with themes and more.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 479,
+      "forks": 246,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

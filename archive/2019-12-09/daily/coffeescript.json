@@ -16,14 +16,16 @@
       "full_name": "rubykube/peatio-trading-ui",
       "url": "https://github.com/rubykube/peatio-trading-ui",
       "description": "Peatio trading UI extracted as separate Rails 5 application.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 43,
+      "forks": 85,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-09.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     }
   ]
 }

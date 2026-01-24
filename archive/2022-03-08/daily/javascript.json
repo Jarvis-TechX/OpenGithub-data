@@ -16,14 +16,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "mysqljs/mysql",
       "url": "https://github.com/mysqljs/mysql",
       "description": "A pure node.js JavaScript Client implementing the MySQL protocol.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18832,
+      "forks": 2529,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "ngoctienTNT/WomenDay",
       "url": "https://github.com/ngoctienTNT/WomenDay",
       "description": "* [https://github.com/cheatsheet1999/FrontEndCollection](cheatsheet1999/FrontEndCollection) Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 48,
+      "forks": 294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "UnblockNeteaseMusic/server",
       "url": "https://github.com/UnblockNeteaseMusic/server",
       "description": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7635,
+      "forks": 755,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Solidity",
+      "stars": 26936,
+      "forks": 12415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "antonnell/networklist-org",
       "url": "https://github.com/antonnell/networklist-org",
       "description": "* [https://github.com/github/docs](github/docs) The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 641,
+      "forks": 549,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "url": "https://github.com/Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14650,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "gorhill/uBlock",
       "url": "https://github.com/gorhill/uBlock",
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 61086,
+      "forks": 3915,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "john-smilga/node-express-course",
       "url": "https://github.com/john-smilga/node-express-course",
       "description": "* [https://github.com/f/fatura](f/fatura) eArşiv / eFatura Fatura Oluşturucu",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3843,
+      "forks": 4075,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "ethereumbook",
       "full_name": "ethereumbook/ethereumbook",
       "url": "https://github.com/ethereumbook/ethereumbook",
-      "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+      "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 21407,
+      "forks": 5217,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 12,
@@ -208,14 +230,16 @@
       "full_name": "simple-icons/simple-icons",
       "url": "https://github.com/simple-icons/simple-icons",
       "description": "SVG icons for popular brands",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 24235,
+      "forks": 3022,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 14,
@@ -224,14 +248,16 @@
       "full_name": "leonardomso/33-js-concepts",
       "url": "https://github.com/leonardomso/33-js-concepts",
       "description": "📜 33 JavaScript concepts every developer should know.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 66176,
+      "forks": 9193,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 15,
@@ -241,13 +267,15 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 269698,
+      "forks": 12308,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 16,
@@ -255,15 +283,17 @@
       "repo_name": "spicetify-cli",
       "full_name": "spicetify/spicetify-cli",
       "url": "https://github.com/spicetify/spicetify-cli",
-      "description": "Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
+      "language": "JavaScript",
+      "stars": 21992,
+      "forks": 827,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 17,
@@ -273,13 +303,15 @@
       "url": "https://github.com/WeeJeWel/wg-easy",
       "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 854,
+      "forks": 141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 18,
@@ -288,14 +320,16 @@
       "full_name": "BotsAppOfficial/BotsApp",
       "url": "https://github.com/BotsAppOfficial/BotsApp",
       "description": "Your personal assistant, on WhatsApp! The most user friendly userbot for the platform!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 5528,
+      "forks": 1269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 19,
@@ -304,14 +338,16 @@
       "full_name": "codedthemes/berry-free-react-admin-template",
       "url": "https://github.com/codedthemes/berry-free-react-admin-template",
       "description": "Berry free react material-ui admin template for easing and faster web development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2128,
+      "forks": 980,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "vaxilu/x-ui",
       "url": "https://github.com/vaxilu/x-ui",
       "description": "支持多协议多用户的 xray 面板",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18684,
+      "forks": 7268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "cruip/tailwind-dashboard-template",
       "url": "https://github.com/cruip/tailwind-dashboard-template",
       "description": "Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2737,
+      "forks": 742,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     }
   ]
 }

@@ -16,14 +16,16 @@
       "full_name": "denysdovhan/wtfjs",
       "url": "https://github.com/denysdovhan/wtfjs",
       "description": "🤪 A list of funny and tricky JavaScript examples",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 37609,
+      "forks": 2670,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "HorrorPills/ChatGPT-Gnome-Desktop-Extension",
       "url": "https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension",
       "description": "ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 556,
+      "forks": 38,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "midudev/aprendiendo-react",
       "url": "https://github.com/midudev/aprendiendo-react",
       "description": "Curso para aprender React desde cero",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 8844,
+      "forks": 1204,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "gluon-framework/gluon",
       "url": "https://github.com/gluon-framework/gluon",
       "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3076,
+      "forks": 79,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "strapi",
       "full_name": "strapi/strapi",
       "url": "https://github.com/strapi/strapi",
-      "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+      "language": "TypeScript",
+      "stars": 71065,
+      "forks": 9385,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "clean-code-javascript",
       "full_name": "ryanmcdermott/clean-code-javascript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-      "description": "🛁 Clean Code concepts adapted for JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Clean Code concepts adapted for JavaScript",
+      "language": "JavaScript",
+      "stars": 94283,
+      "forks": 12502,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "verekia/js-stack-from-scratch",
       "url": "https://github.com/verekia/js-stack-from-scratch",
       "description": "🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20445,
+      "forks": 1973,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "vincelwt/chatgpt-mac",
       "url": "https://github.com/vincelwt/chatgpt-mac",
       "description": "ChatGPT for Mac, living in your menubar.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6325,
+      "forks": 492,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "react",
       "full_name": "facebook/react",
       "url": "https://github.com/facebook/react",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 242462,
+      "forks": 50449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "gchq/CyberChef",
       "url": "https://github.com/gchq/CyberChef",
       "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 33817,
+      "forks": 3829,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "material-ui",
       "full_name": "mui/material-ui",
       "url": "https://github.com/mui/material-ui",
-      "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "language": "JavaScript",
+      "stars": 97682,
+      "forks": 32793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "axios/axios",
       "url": "https://github.com/axios/axios",
       "description": "Promise based HTTP client for the browser and node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 108520,
+      "forks": 11497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "Awesome-JavaScript-Interviews",
       "full_name": "rohan-paul/Awesome-JavaScript-Interviews",
       "url": "https://github.com/rohan-paul/Awesome-JavaScript-Interviews",
-      "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
+      "language": "JavaScript",
+      "stars": 3687,
+      "forks": 886,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "react-grid-layout/react-grid-layout",
       "url": "https://github.com/react-grid-layout/react-grid-layout",
       "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 21984,
+      "forks": 2699,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "MuhammedKalkan/OpenLens",
       "url": "https://github.com/MuhammedKalkan/OpenLens",
       "description": "OpenLens Binary Build Repository",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4362,
+      "forks": 313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "photonstorm/phaser",
       "url": "https://github.com/photonstorm/phaser",
       "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 38906,
+      "forks": 7132,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "GoogleChrome/lighthouse",
       "url": "https://github.com/GoogleChrome/lighthouse",
       "description": "Automated auditing, performance metrics, and best practices for the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 29752,
+      "forks": 9637,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "meteor/meteor",
       "url": "https://github.com/meteor/meteor",
       "description": "Meteor, the JavaScript App Platform",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 44772,
+      "forks": 5254,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "planka",
       "full_name": "plankanban/planka",
       "url": "https://github.com/plankanban/planka",
-      "description": "The realtime kanban board for workgroups built with React and Redux.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "PLANKA is the kanban-style project mastering tool for everyone.",
+      "language": "JavaScript",
+      "stars": 11380,
+      "forks": 1169,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "hapijs/joi",
       "url": "https://github.com/hapijs/joi",
       "description": "The most powerful data validation library for JS",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 21199,
+      "forks": 1512,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     }
   ]
 }

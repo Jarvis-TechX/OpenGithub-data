@@ -15,15 +15,17 @@
       "repo_name": "simdjson",
       "full_name": "simdjson/simdjson",
       "url": "https://github.com/simdjson/simdjson",
-      "description": "Parsing gigabytes of JSON per second",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": 23144,
+      "forks": 1209,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "topjohnwu/Magisk",
       "url": "https://github.com/topjohnwu/Magisk",
       "description": "The Magic Mask for Android",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 58303,
+      "forks": 16496,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "azerothcore/azerothcore-wotlk",
       "url": "https://github.com/azerothcore/azerothcore-wotlk",
       "description": "Complete Open Source and Modular solution for MMO",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7941,
+      "forks": 3170,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "diasurgical/devilutionX",
       "url": "https://github.com/diasurgical/devilutionX",
       "description": "Diablo build for modern operating systems",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9280,
+      "forks": 945,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "AlexandreRouma/SDRPlusPlus",
       "url": "https://github.com/AlexandreRouma/SDRPlusPlus",
       "description": "Cross-Platform SDR Software",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5558,
+      "forks": 761,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "xmrig",
       "full_name": "xmrig/xmrig",
       "url": "https://github.com/xmrig/xmrig",
-      "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "language": "C",
+      "stars": 9772,
+      "forks": 3789,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "ly4k/CallbackHell",
       "url": "https://github.com/ly4k/CallbackHell",
       "description": "Exploit for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 480,
+      "forks": 95,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "oceanbase",
       "full_name": "oceanbase/oceanbase",
       "url": "https://github.com/oceanbase/oceanbase",
-      "description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
+      "language": "C++",
+      "stars": 9924,
+      "forks": 1859,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "aristocratos/btop",
       "url": "https://github.com/aristocratos/btop",
       "description": "A monitor of resources",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29872,
+      "forks": 901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "xenia-project/xenia",
       "url": "https://github.com/xenia-project/xenia",
       "description": "Xbox 360 Emulator Research Project",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9162,
+      "forks": 1277,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "PixlOne/logiops",
       "url": "https://github.com/PixlOne/logiops",
       "description": "An unofficial userspace driver for HID++ Logitech devices",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4043,
+      "forks": 296,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "google/benchmark",
       "url": "https://github.com/google/benchmark",
       "description": "A microbenchmark support library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9970,
+      "forks": 1731,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "duckstation",
       "full_name": "stenzek/duckstation",
       "url": "https://github.com/stenzek/duckstation",
-      "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+      "language": "C++",
+      "stars": 9593,
+      "forks": 869,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "USTC-Course",
       "full_name": "USTC-Resource/USTC-Course",
       "url": "https://github.com/USTC-Resource/USTC-Course",
-      "description": "❤️中国科学技术大学课程资源",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":heart:中国科学技术大学课程资源",
+      "language": "C++",
+      "stars": 15979,
+      "forks": 3523,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "rpcs3",
       "full_name": "RPCS3/rpcs3",
       "url": "https://github.com/RPCS3/rpcs3",
-      "description": "PS3 emulator/debugger",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "stars": 18051,
+      "forks": 2187,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "SerenityOS/serenity",
       "url": "https://github.com/SerenityOS/serenity",
       "description": "The Serenity Operating System 🐞",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 32839,
+      "forks": 3294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "JoeyDeVries/LearnOpenGL",
       "url": "https://github.com/JoeyDeVries/LearnOpenGL",
       "description": "Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12237,
+      "forks": 2940,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87749,
+      "forks": 38772,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "GDevelop",
       "full_name": "4ian/GDevelop",
       "url": "https://github.com/4ian/GDevelop",
-      "description": "🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+      "language": "JavaScript",
+      "stars": 19643,
+      "forks": 1232,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "openscad",
       "full_name": "openscad/openscad",
       "url": "https://github.com/openscad/openscad",
-      "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "OpenSCAD - The Programmers Solid 3D CAD Modeller  ",
+      "language": "C++",
+      "stars": 8753,
+      "forks": 1426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "electron",
       "full_name": "electron/electron",
       "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 119872,
+      "forks": 16947,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md"
+      "source_path": "/tmp/trending_archive/2021/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     }
   ]
 }

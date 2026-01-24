@@ -15,15 +15,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "f/omelette",
       "url": "https://github.com/f/omelette",
       "description": "Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 1398,
+      "forks": 43,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "Psiphon-Inc/psiphon-website",
       "url": "https://github.com/Psiphon-Inc/psiphon-website",
       "description": "Source of the psiphon3.com, etc., download and info sites",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 28,
+      "forks": 16,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "edemaine/cocreate",
       "url": "https://github.com/edemaine/cocreate",
       "description": "Cocreate Shared Whiteboard/Drawing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 218,
+      "forks": 28,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "fakeNetflix/Shopify-repo-search_query_parser",
       "url": "https://github.com/fakeNetflix/Shopify-repo-search_query_parser",
       "description": "Shopify repo",
-      "language": "coffeescript",
+      "language": "CoffeeScript",
       "stars": 0,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "fakeNetflix/Shopify-repo-jquery.payment",
       "url": "https://github.com/fakeNetflix/Shopify-repo-jquery.payment",
       "description": "Shopify repo",
-      "language": "coffeescript",
+      "language": "CoffeeScript",
       "stars": 0,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "fakeNetflix/coinbase-repo-zxcvbn",
       "url": "https://github.com/fakeNetflix/coinbase-repo-zxcvbn",
       "description": "coinbase repo",
-      "language": "coffeescript",
-      "stars": 0,
+      "language": "CoffeeScript",
+      "stars": 1,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "harmsk/atom-html-preview",
       "url": "https://github.com/harmsk/atom-html-preview",
       "description": "Atom HTML Live Preview Package",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 174,
+      "forks": 75,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     }
   ]
 }

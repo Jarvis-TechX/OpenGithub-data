@@ -17,13 +17,15 @@
       "url": "https://github.com/chockenberry/MarkdownAttributedString",
       "description": "Adding Markdown support to NSAttributedString.",
       "language": "Objective-C",
-      "stars": 338,
-      "forks": 0,
+      "stars": 609,
+      "forks": 27,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "MobileIMSDK",
       "full_name": "JackJiang2011/MobileIMSDK",
       "url": "https://github.com/JackJiang2011/MobileIMSDK",
-      "description": "一个专为移动端开发的开源原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。",
+      "description": "原创全平台IM通信层框架，轻量级、高度提炼，历经10年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp、鸿蒙Next，服务端基于Netty。",
       "language": "Objective-C",
-      "stars": 2700,
-      "forks": 0,
+      "stars": 5964,
+      "forks": 1364,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "WeChatExtension-ForMac",
       "full_name": "MustangYM/WeChatExtension-ForMac",
       "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
-      "description": "Mac版微信的功能拓展",
+      "description": "A plugin for Mac WeChat",
       "language": "Objective-C",
-      "stars": 4332,
-      "forks": 0,
+      "stars": 22703,
+      "forks": 3593,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "iOS_Tips",
       "full_name": "wsl2ls/iOS_Tips",
       "url": "https://github.com/wsl2ls/iOS_Tips",
-      "description": "iOS的一些示例，持续更新中：1、暗黑模式 2、AppleID登录应用 3、AVFoundation 高仿微信相机拍摄和编辑 4、AVFoundation 人脸检测 5、AVFoundation 实时滤镜 6、GPUImage框架的使用 7、音视频编解码 8、OpenGLES 9、LeetCode算法练习",
+      "description": "iOS的一些示例，持续更新中：1、AVFoundation 高仿微信相机拍摄和编辑 2、AVFoundation 人脸检测、实时滤镜、音视频编解码、GPUImage框架的使用等音视频相关内容    3、OpenGLES    4、LeetCode算法练习   5、iOS Crash防护和APM监控    6、WKWebView相关的内容  等........",
       "language": "Objective-C",
-      "stars": 194,
-      "forks": 0,
+      "stars": 1250,
+      "forks": 332,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "voice",
       "full_name": "react-native-community/voice",
       "url": "https://github.com/react-native-community/voice",
-      "description": "🎤 React Native Voice Recognition library for iOS and Android (Online and Offline Support)",
-      "language": "Objective-C",
-      "stars": 758,
-      "forks": 0,
+      "description": ":microphone: React Native Voice Recognition library for iOS and Android (Online and Offline Support)",
+      "language": "TypeScript",
+      "stars": 2146,
+      "forks": 607,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "wix/react-native-notifications",
       "url": "https://github.com/wix/react-native-notifications",
       "description": "React Native Notifications",
-      "language": "Objective-C",
-      "stars": 1983,
-      "forks": 0,
+      "language": "Java",
+      "stars": 3335,
+      "forks": 764,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "santa",
       "full_name": "google/santa",
       "url": "https://github.com/google/santa",
-      "description": "A binary whitelisting/blacklisting system for macOS",
-      "language": "Objective-C",
-      "stars": 3050,
-      "forks": 0,
+      "description": "A binary authorization and monitoring system for macOS",
+      "language": "Objective-C++",
+      "stars": 4517,
+      "forks": 293,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "react-native-community/async-storage",
       "url": "https://github.com/react-native-community/async-storage",
       "description": "An asynchronous, persistent, key-value storage system for React Native.",
-      "language": "Objective-C",
-      "stars": 1376,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 5027,
+      "forks": 480,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "firebase-ios-sdk",
       "full_name": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase iOS SDK",
-      "language": "Objective-C",
-      "stars": 1695,
-      "forks": 0,
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": 6508,
+      "forks": 1715,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "WeChatTweak-macOS",
       "full_name": "Sunnyyoung/WeChatTweak-macOS",
       "url": "https://github.com/Sunnyyoung/WeChatTweak-macOS",
-      "description": "A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开",
-      "language": "Objective-C",
-      "stars": 4605,
-      "forks": 0,
+      "description": "A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨",
+      "language": "Swift",
+      "stars": 13301,
+      "forks": 1567,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 11,
@@ -177,13 +197,15 @@
       "url": "https://github.com/ivpusic/react-native-image-crop-picker",
       "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
       "language": "Objective-C",
-      "stars": 4043,
-      "forks": 0,
+      "stars": 6331,
+      "forks": 1608,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "react-native-community/react-native-template-typescript",
       "url": "https://github.com/react-native-community/react-native-template-typescript",
       "description": "👾 Clean and minimalist React Native template for a quick start with TypeScript.",
-      "language": "Objective-C",
-      "stars": 706,
-      "forks": 0,
+      "language": "Java",
+      "stars": 1896,
+      "forks": 390,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -209,13 +233,15 @@
       "url": "https://github.com/yorkie/react-native-wechat",
       "description": "🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)",
       "language": "Objective-C",
-      "stars": 2636,
-      "forks": 0,
+      "stars": 2916,
+      "forks": 710,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -223,15 +249,17 @@
       "repo_name": "XHLaunchAd",
       "full_name": "CoderZhuXH/XHLaunchAd",
       "url": "https://github.com/CoderZhuXH/XHLaunchAd",
-      "description": "🔥The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad. 【 Github下载不了可以访问国内下载地址: https://gitee.com/CoderZhuXH/XHLaunchAd】",
+      "description": "🔥The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad. 【 Github下载不了/下载慢 可以访问国内下载地址: https://gitee.com/CoderZhuXH/XHLaunchAd】",
       "language": "Objective-C",
-      "stars": 3219,
-      "forks": 0,
+      "stars": 3697,
+      "forks": 742,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -255,15 +285,17 @@
       "repo_name": "Bitlyzer",
       "full_name": "albertodebortoli/Bitlyzer",
       "url": "https://github.com/albertodebortoli/Bitlyzer",
-      "description": "Class to shorten URLs with Bit.ly on iOS (both block based and delegate based using ARC)",
+      "description": "Class to shorten URLs with Bit.ly on iOS (both block based and delegate based using ARC) ",
       "language": "Objective-C",
-      "stars": 39,
-      "forks": 0,
+      "stars": 41,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 18,
@@ -273,13 +305,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 4308,
-      "forks": 0,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 19,
@@ -287,15 +321,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "language": "Objective-C",
-      "stars": 8941,
-      "forks": 0,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 20,
@@ -305,13 +341,15 @@
       "url": "https://github.com/tencentyun/MLVBSDK",
       "description": "移动直播 SDK，国内下载镜像：",
       "language": "Objective-C",
-      "stars": 327,
-      "forks": 0,
+      "stars": 773,
+      "forks": 911,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,
@@ -321,13 +359,15 @@
       "url": "https://github.com/cluries/CCCPortForwarding",
       "description": "CCCPortForwarding",
       "language": "Objective-C",
-      "stars": 1,
+      "stars": 3,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,
@@ -337,13 +377,15 @@
       "url": "https://github.com/fpillet/NSLogger",
       "description": "A modern, flexible logging tool",
       "language": "Objective-C",
-      "stars": 4773,
-      "forks": 0,
+      "stars": 4998,
+      "forks": 568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 23,
@@ -353,13 +395,15 @@
       "url": "https://github.com/kharrison/CodeExamples",
       "description": "Code Examples",
       "language": "Objective-C",
-      "stars": 1920,
-      "forks": 0,
+      "stars": 2133,
+      "forks": 950,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 24,
@@ -369,13 +413,15 @@
       "url": "https://github.com/github/Rebel",
       "description": "Cocoa framework for improving AppKit",
       "language": "Objective-C",
-      "stars": 1141,
-      "forks": 0,
+      "stars": 1122,
+      "forks": 111,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 25,
@@ -385,13 +431,15 @@
       "url": "https://github.com/github/Archimedes",
       "description": "Geometry functions for Cocoa and Cocoa Touch",
       "language": "Objective-C",
-      "stars": 473,
-      "forks": 0,
+      "stars": 467,
+      "forks": 36,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

@@ -16,14 +16,16 @@
       "full_name": "OIRNOIR/WebM-Maker-Thing-Idk",
       "url": "https://github.com/OIRNOIR/WebM-Maker-Thing-Idk",
       "description": "This is a simple tool to allow you to create WebM files with changing aspect ratios.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 634,
+      "forks": 56,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "tech-interview-handbook",
       "full_name": "yangshun/tech-interview-handbook",
       "url": "https://github.com/yangshun/tech-interview-handbook",
-      "description": "💯 Curated coding interview preparation materials for busy software engineers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Curated coding interview preparation materials for busy software engineers",
+      "language": "TypeScript",
+      "stars": 136953,
+      "forks": 16377,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "abduvik/just-enough-series",
       "url": "https://github.com/abduvik/just-enough-series",
       "description": "Repository to host files for \"Just Enough\" YouTube Series",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 491,
+      "forks": 33,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "MuhammedKalkan/OpenLens",
       "url": "https://github.com/MuhammedKalkan/OpenLens",
       "description": "OpenLens Binary Build Repository",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4362,
+      "forks": 313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "alshedivat/al-folio",
       "url": "https://github.com/alshedivat/al-folio",
       "description": "A beautiful, simple, clean, and responsive Jekyll theme for academics",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 14962,
+      "forks": 12754,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "vaxilu/x-ui",
       "url": "https://github.com/vaxilu/x-ui",
       "description": "支持多协议多用户的 xray 面板",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18684,
+      "forks": 7268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "oldboyxx/jira_clone",
       "url": "https://github.com/oldboyxx/jira_clone",
       "description": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11048,
+      "forks": 2144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "yoimiya-kokomi/miao-plugin",
       "url": "https://github.com/yoimiya-kokomi/miao-plugin",
       "description": "Miao-Plugin for Yunzai-Bot",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1548,
+      "forks": 238,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "zhaoolee/ChineseBQB",
       "url": "https://github.com/zhaoolee/ChineseBQB",
       "description": "🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 15248,
+      "forks": 1329,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "quasarframework/quasar",
       "url": "https://github.com/quasarframework/quasar",
       "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27045,
+      "forks": 3681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "blackmatrix7/ios_rule_script",
       "url": "https://github.com/blackmatrix7/ios_rule_script",
       "description": "分流规则、重写写规则及脚本。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 24462,
+      "forks": 3853,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "gfodor/p2pcf",
       "url": "https://github.com/gfodor/p2pcf",
       "description": "Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1050,
+      "forks": 66,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "cesium",
       "full_name": "CesiumGS/cesium",
       "url": "https://github.com/CesiumGS/cesium",
-      "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "An open-source JavaScript library for world-class 3D globes and maps :earth_americas:",
+      "language": "JavaScript",
+      "stars": 14757,
+      "forks": 3738,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "rolling-scopes-school/tasks",
       "url": "https://github.com/rolling-scopes-school/tasks",
       "description": "* [https://github.com/github/docs](github/docs) The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3369,
+      "forks": 4741,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "strapi",
       "full_name": "strapi/strapi",
       "url": "https://github.com/strapi/strapi",
-      "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+      "language": "TypeScript",
+      "stars": 71065,
+      "forks": 9385,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "midoks/mdserver-web",
       "url": "https://github.com/midoks/mdserver-web",
       "description": "Simple Linux Panel",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4458,
+      "forks": 722,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "vue-admin-template",
       "full_name": "PanJiaChen/vue-admin-template",
       "url": "https://github.com/PanJiaChen/vue-admin-template",
-      "description": "a vue2.0 minimal admin template",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "a vue2.0 minimal admin template ",
+      "language": "JavaScript",
+      "stars": 20449,
+      "forks": 7459,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "handsontable",
       "full_name": "handsontable/handsontable",
       "url": "https://github.com/handsontable/handsontable",
-      "description": "JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡",
+      "language": "JavaScript",
+      "stars": 21754,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
       "description": "A framework for building native applications using React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 125168,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "adrianhajdin/project_fitness_app",
       "url": "https://github.com/adrianhajdin/project_fitness_app",
       "description": "* [https://github.com/adiwajshing/Baileys](adiwajshing/Baileys) Lightweight full-featured WhatsApp Web + Multi-Device API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1175,
+      "forks": 424,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "node-fetch/node-fetch",
       "url": "https://github.com/node-fetch/node-fetch",
       "description": "A light-weight module that brings the Fetch API to Node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8859,
+      "forks": 1049,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     }
   ]
 }

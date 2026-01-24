@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -33,13 +35,15 @@
       "url": "https://github.com/tabler/tabler",
       "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
       "language": "HTML",
-      "stars": 20411,
-      "forks": 2147,
+      "stars": 40652,
+      "forks": 4327,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "flutter-in-action",
       "full_name": "flutterchina/flutter-in-action",
       "url": "https://github.com/flutterchina/flutter-in-action",
-      "description": "《Flutter实战》电子书",
-      "language": "HTML",
-      "stars": 6959,
-      "forks": 1379,
+      "description": "《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。",
+      "language": "JavaScript",
+      "stars": 8639,
+      "forks": 1678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -65,13 +71,15 @@
       "url": "https://github.com/phil-opp/blog_os",
       "description": "Writing an OS in Rust",
       "language": "HTML",
-      "stars": 4389,
-      "forks": 374,
+      "stars": 17237,
+      "forks": 1188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -97,13 +105,15 @@
       "url": "https://github.com/luizdepra/hugo-coder",
       "description": "A minimalist blog theme for hugo.",
       "language": "HTML",
-      "stars": 757,
-      "forks": 356,
+      "stars": 3009,
+      "forks": 1158,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -127,15 +137,17 @@
       "repo_name": "docsy",
       "full_name": "google/docsy",
       "url": "https://github.com/google/docsy",
-      "description": "A set of Hugo doc templates for launching open source content.",
-      "language": "HTML",
-      "stars": 608,
-      "forks": 107,
+      "description": "Hugo theme for open source documentation",
+      "language": "JavaScript",
+      "stars": 2893,
+      "forks": 954,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -143,15 +155,17 @@
       "repo_name": "re0-web",
       "full_name": "lyy289065406/re0-web",
       "url": "https://github.com/lyy289065406/re0-web",
-      "description": "RE0：从零开始的异世界生活 （WEB版）",
+      "description": "Re0：从零开始的异世界生活 （WEB 版）",
       "language": "HTML",
-      "stars": 41,
+      "stars": 5,
       "forks": 19,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -176,14 +190,16 @@
       "full_name": "simple-icons/simple-icons",
       "url": "https://github.com/simple-icons/simple-icons",
       "description": "SVG icons for popular brands",
-      "language": "HTML",
-      "stars": 8174,
-      "forks": 1018,
+      "language": "JavaScript",
+      "stars": 24235,
+      "forks": 3022,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 12,
@@ -191,15 +207,17 @@
       "repo_name": "GTFOBins.github.io",
       "full_name": "GTFOBins/GTFOBins.github.io",
       "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "Curated list of Unix binaries that can be exploited to bypass system security restrictions",
-      "language": "HTML",
-      "stars": 2220,
-      "forks": 283,
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "language": "YAML",
+      "stars": 12536,
+      "forks": 1485,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -207,15 +225,17 @@
       "repo_name": "nndl.github.io",
       "full_name": "nndl/nndl.github.io",
       "url": "https://github.com/nndl/nndl.github.io",
-      "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+      "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning ",
       "language": "HTML",
-      "stars": 10522,
-      "forks": 2355,
+      "stars": 18702,
+      "forks": 3677,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -223,15 +243,17 @@
       "repo_name": "beautiful-jekyll",
       "full_name": "daattali/beautiful-jekyll",
       "url": "https://github.com/daattali/beautiful-jekyll",
-      "description": "✨ Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll",
+      "description": "✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com",
       "language": "HTML",
-      "stars": 2341,
-      "forks": 7323,
+      "stars": 5760,
+      "forks": 17350,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -257,13 +279,15 @@
       "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
       "description": "吴恩达老师的机器学习课程个人笔记",
       "language": "HTML",
-      "stars": 14644,
-      "forks": 5711,
+      "stars": 36156,
+      "forks": 11127,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -287,15 +311,17 @@
       "repo_name": "learning-area",
       "full_name": "mdn/learning-area",
       "url": "https://github.com/mdn/learning-area",
-      "description": "Github repo for the MDN Learning Area.",
+      "description": "GitHub repo for the MDN Learning Area. ",
       "language": "HTML",
-      "stars": 2386,
-      "forks": 7711,
+      "stars": 7526,
+      "forks": 27416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 19,
@@ -320,14 +346,16 @@
       "full_name": "dcramer/hive",
       "url": "https://github.com/dcramer/hive",
       "description": "My home infrastructure",
-      "language": "HTML",
-      "stars": 21,
+      "language": "Jinja",
+      "stars": 33,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,

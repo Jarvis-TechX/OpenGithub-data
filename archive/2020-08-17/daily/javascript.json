@@ -16,14 +16,16 @@
       "full_name": "maratonadev-la/desafio-1-2020",
       "url": "https://github.com/maratonadev-la/desafio-1-2020",
       "description": "* [https://github.com/maratonadev-br/desafio-1-2020](maratonadev-br/desafio-1-2020)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 114,
+      "forks": 160,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "dashersw/mogollar",
       "url": "https://github.com/dashersw/mogollar",
       "description": "A MongoDB UI built with Electron",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 286,
+      "forks": 28,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "techreagan/youtube-clone-nodejs-api",
       "url": "https://github.com/techreagan/youtube-clone-nodejs-api",
       "description": "VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 683,
+      "forks": 250,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "url": "https://github.com/Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14650,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "jhu-ep-coursera/fullstack-course4",
       "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
       "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10949,
+      "forks": 11761,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "gothinkster/react-redux-realworld-example-app",
       "url": "https://github.com/gothinkster/react-redux-realworld-example-app",
       "description": "Exemplary real world application built with React + Redux",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5613,
+      "forks": 2557,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "chatify",
       "full_name": "munafio/chatify",
       "url": "https://github.com/munafio/chatify",
-      "description": "A package for Laravel PHP Framework to add a complete real-time chat system to your app by only a few steps.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.",
+      "language": "PHP",
+      "stars": 2359,
+      "forks": 489,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "iptv",
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of 8000+ publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "in-quiz-questions",
       "full_name": "Ebazhanov/in-quiz-questions",
       "url": "https://github.com/Ebazhanov/in-quiz-questions",
-      "description": "Skill Linkedin quiz Assessment, answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers ",
+      "language": "Python",
+      "stars": 28655,
+      "forks": 13101,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "webtorrent/webtorrent",
       "url": "https://github.com/webtorrent/webtorrent",
       "description": "⚡️ Streaming torrent client for the web",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30710,
+      "forks": 2783,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "realworld",
       "full_name": "gothinkster/realworld",
       "url": "https://github.com/gothinkster/realworld",
-      "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+      "language": "TypeScript",
+      "stars": 82759,
+      "forks": 7551,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "nodebestpractices",
       "full_name": "goldbergyoni/nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (August 2020)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":white_check_mark:  The Node.js best practices list (July 2024)",
+      "language": "Dockerfile",
+      "stars": 104955,
+      "forks": 10681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "joplin",
       "full_name": "laurent22/joplin",
       "url": "https://github.com/laurent22/joplin",
-      "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+      "language": "TypeScript",
+      "stars": 53103,
+      "forks": 5694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "shapez.io",
       "full_name": "tobspr/shapez.io",
       "url": "https://github.com/tobspr/shapez.io",
-      "description": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "shapez is an open source base building game on Steam inspired by factorio!",
+      "language": "JavaScript",
+      "stars": 6802,
+      "forks": 1282,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "kautukkundan/Awesome-Profile-README-templates",
       "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
       "description": "A collection of awesome readme templates to display on your profile",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11139,
+      "forks": 7340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "reaction",
       "full_name": "reactioncommerce/reaction",
       "url": "https://github.com/reactioncommerce/reaction",
-      "description": "Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. ",
+      "language": "JavaScript",
+      "stars": 12439,
+      "forks": 2201,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "amis-editor",
       "full_name": "fex-team/amis-editor",
       "url": "https://github.com/fex-team/amis-editor",
-      "description": "amis 可视化编辑器在线工具 http://fex-team.github.io/amis-editor",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "amis 可视化编辑器示例 https://aisuda.github.io/amis-editor-demo",
+      "language": "TypeScript",
+      "stars": 2531,
+      "forks": 656,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "typescript-cheatsheets/react",
       "url": "https://github.com/typescript-cheatsheets/react",
       "description": "Cheatsheets for experienced React developers getting started with TypeScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 46905,
+      "forks": 4274,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 23,
@@ -375,7 +419,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     }
   ]
 }

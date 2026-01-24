@@ -16,14 +16,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-11/2020-11-30.md"
+      "source_path": "/tmp/trending_archive/2020/2020-11/2020-11-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     }
   ]
 }

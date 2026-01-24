@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "ProtonMail/gopenpgp",
       "url": "https://github.com/ProtonMail/gopenpgp",
       "description": "A high-level OpenPGP library",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 1209,
+      "forks": 137,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 120018,
+      "forks": 42265,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "v2ray/v2ray-core",
       "url": "https://github.com/v2ray/v2ray-core",
       "description": "A platform for building proxies to bypass network restrictions.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 46882,
+      "forks": 8901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "golang/go",
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 132083,
+      "forks": 18763,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "gosuri/uiprogress",
       "url": "https://github.com/gosuri/uiprogress",
       "description": "A go library to render progress bars in terminal applications",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 2139,
+      "forks": 123,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "gin",
       "full_name": "gin-gonic/gin",
       "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": 87769,
+      "forks": 8548,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "kratos",
       "full_name": "bilibili/kratos",
       "url": "https://github.com/bilibili/kratos",
-      "description": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Your ultimate Go microservices framework for the cloud-native era.",
+      "language": "Go",
+      "stars": 25373,
+      "forks": 4150,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "fatedier/frp",
       "url": "https://github.com/fatedier/frp",
       "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 103782,
+      "forks": 14819,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "helm/helm",
       "url": "https://github.com/helm/helm",
       "description": "The Kubernetes Package Manager",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 29329,
+      "forks": 7466,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "avelino/awesome-go",
       "url": "https://github.com/avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 163256,
+      "forks": 12923,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "gohugoio/hugo",
       "url": "https://github.com/gohugoio/hugo",
       "description": "The world’s fastest framework for building websites.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 86213,
+      "forks": 8181,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "maruel/panicparse",
       "url": "https://github.com/maruel/panicparse",
       "description": "Crash your app in style (Golang)",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 3717,
+      "forks": 102,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "sql-machine-learning/sqlflow",
       "url": "https://github.com/sql-machine-learning/sqlflow",
       "description": "Brings SQL and AI together.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 5185,
+      "forks": 707,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "jeff",
       "full_name": "abraithwaite/jeff",
       "url": "https://github.com/abraithwaite/jeff",
-      "description": "🍍Jeff provides the simplest way manage web sessions in Go.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "🍍Jeff provides the simplest way to manage web sessions in Go.",
+      "language": "Go",
+      "stars": 270,
+      "forks": 17,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "Unknwon/the-way-to-go_ZH_CN",
       "url": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
       "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 35164,
+      "forks": 8579,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "cdr/sshcode",
       "url": "https://github.com/cdr/sshcode",
       "description": "Run VS Code on any server over SSH.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 5718,
+      "forks": 214,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "istio/istio",
       "url": "https://github.com/istio/istio",
       "description": "Connect, secure, control, and observe services.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 37855,
+      "forks": 8221,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "rclone",
       "full_name": "ncw/rclone",
       "url": "https://github.com/ncw/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": 55093,
+      "forks": 4855,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "prometheus/prometheus",
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 62344,
+      "forks": 10110,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "goldmark",
       "full_name": "yuin/goldmark",
       "url": "https://github.com/yuin/goldmark",
-      "description": "🏆A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": ":trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.",
+      "language": "Go",
+      "stars": 4556,
+      "forks": 283,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "pion/webrtc",
       "url": "https://github.com/pion/webrtc",
       "description": "Pure Go implementation of the WebRTC API",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 15945,
+      "forks": 1817,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     }
   ]
 }

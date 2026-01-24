@@ -16,14 +16,16 @@
       "full_name": "benphelps/homepage",
       "url": "https://github.com/benphelps/homepage",
       "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 142,
+      "forks": 7,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "pedroslopez/whatsapp-web.js",
       "url": "https://github.com/pedroslopez/whatsapp-web.js",
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20631,
+      "forks": 4780,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "appwrite",
       "full_name": "appwrite/appwrite",
       "url": "https://github.com/appwrite/appwrite",
-      "description": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+      "language": "TypeScript",
+      "stars": 54522,
+      "forks": 4958,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "11ty/webc",
       "url": "https://github.com/11ty/webc",
       "description": "Single File Web Components",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1404,
+      "forks": 43,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "sec-an/Better-Auto-XXQG",
       "url": "https://github.com/sec-an/Better-Auto-XXQG",
       "description": "学习强国 基于Auto.js实现的学习助手 免root 适配安卓 自动化脚本 热更新",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 685,
+      "forks": 195,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 10,
@@ -161,13 +179,15 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 269698,
+      "forks": 12308,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "raganork-md",
       "full_name": "souravkl11/raganork-md",
       "url": "https://github.com/souravkl11/raganork-md",
-      "description": "Multi-functional WhatsApp bot project",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A light-weight multi-functional WhatsApp bot framework.",
+      "language": "JavaScript",
+      "stars": 747,
+      "forks": 1538,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "soyHenry/Prep-Course",
       "url": "https://github.com/soyHenry/Prep-Course",
       "description": "* [https://github.com/30-seconds/30-seconds-of-code](30-seconds/30-seconds-of-code) Short JavaScript code snippets for all your development needs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 528,
+      "forks": 20319,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "soumyajit4419/Portfolio",
       "url": "https://github.com/soumyajit4419/Portfolio",
       "description": "My self coded personal website build with React.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6151,
+      "forks": 3355,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "listen1/listen1_desktop",
       "url": "https://github.com/listen1/listen1_desktop",
       "description": "one for all free music in china (Windows, Mac, Linux desktop)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11122,
+      "forks": 1516,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "MiaoYan",
       "full_name": "tw93/MiaoYan",
       "url": "https://github.com/tw93/MiaoYan",
-      "description": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⛷ Lightweight Markdown app to help you write great sentences.",
+      "language": "Swift",
+      "stars": 7448,
+      "forks": 434,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "MetaMask/metamask-mobile",
       "url": "https://github.com/MetaMask/metamask-mobile",
       "description": "Mobile web browser providing access to websites that use the Ethereum blockchain",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2797,
+      "forks": 1525,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "jonasschmedtmann/complete-node-bootcamp",
       "url": "https://github.com/jonasschmedtmann/complete-node-bootcamp",
       "description": "Starter files, final projects and FAQ for my Complete Node.js Bootcamp",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3481,
+      "forks": 3865,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "sudheerj/reactjs-interview-questions",
       "url": "https://github.com/sudheerj/reactjs-interview-questions",
       "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 44127,
+      "forks": 10264,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "crwn-clothing-v2",
       "full_name": "ZhangMYihua/crwn-clothing-v2",
       "url": "https://github.com/ZhangMYihua/crwn-clothing-v2",
-      "description": "Version 2 of Crwn-Clothing!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Version 2 of Crwn-Clothing! ",
+      "language": "JavaScript",
+      "stars": 513,
+      "forks": 5659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "NginxProxyManager/nginx-proxy-manager",
       "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
       "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 31238,
+      "forks": 3556,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "metamask-extension",
       "full_name": "MetaMask/metamask-extension",
       "url": "https://github.com/MetaMask/metamask-extension",
-      "description": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+      "language": "TypeScript",
+      "stars": 13059,
+      "forks": 5513,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "sql.js",
       "full_name": "sql-js/sql.js",
       "url": "https://github.com/sql-js/sql.js",
-      "description": "A javascript library to run SQLite on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A javascript library to run SQLite on the web.  ",
+      "language": "JavaScript",
+      "stars": 13500,
+      "forks": 1103,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     }
   ]
 }

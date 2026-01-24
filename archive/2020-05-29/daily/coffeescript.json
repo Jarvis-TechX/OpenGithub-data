@@ -15,15 +15,17 @@
       "repo_name": "unpoly",
       "full_name": "unpoly/unpoly",
       "url": "https://github.com/unpoly/unpoly",
-      "description": "Unobtrusive Javascript Framework for server-side applications",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Progressive enhancement for HTML",
+      "language": "JavaScript",
+      "stars": 2730,
+      "forks": 85,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-29.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "nicolaskruchten/pivottable",
       "url": "https://github.com/nicolaskruchten/pivottable",
       "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4449,
+      "forks": 1087,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-29.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     }
   ]
 }

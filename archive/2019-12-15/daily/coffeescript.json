@@ -16,14 +16,16 @@
       "full_name": "chaijs/chai-things",
       "url": "https://github.com/chaijs/chai-things",
       "description": "Chai support for assertions on array elements",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 105,
+      "forks": 15,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-15.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     }
   ]
 }

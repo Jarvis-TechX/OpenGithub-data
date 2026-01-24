@@ -15,15 +15,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "faker-js/faker",
       "url": "https://github.com/faker-js/faker",
       "description": "Generate massive amounts of fake data in the browser and node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14822,
+      "forks": 1042,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "Marak/colors.js",
       "url": "https://github.com/Marak/colors.js",
       "description": "get colors in your node.js console",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5186,
+      "forks": 449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "nolanlawson/fuite",
       "url": "https://github.com/nolanlawson/fuite",
       "description": "A tool for finding memory leaks in web apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4631,
+      "forks": 74,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "mapbox/mapbox-gl-js",
       "url": "https://github.com/mapbox/mapbox-gl-js",
       "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 12104,
+      "forks": 2318,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "faker2",
       "full_name": "shufflewzc/faker2",
       "url": "https://github.com/shufflewzc/faker2",
-      "description": "不知名大佬备份",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "不破楼兰终不还",
+      "language": "JavaScript",
+      "stars": 2839,
+      "forks": 569,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "JD_tencent_scf",
       "full_name": "zero205/JD_tencent_scf",
       "url": "https://github.com/zero205/JD_tencent_scf",
-      "description": "自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "自用脚本，随缘更新",
+      "language": "TypeScript",
+      "stars": 651,
+      "forks": 252,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "MichMich/MagicMirror",
       "url": "https://github.com/MichMich/MagicMirror",
       "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 23219,
+      "forks": 4509,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "tmall-miao",
       "full_name": "MonsterNone/tmall-miao",
       "url": "https://github.com/MonsterNone/tmall-miao",
-      "description": "年货节天猫、京东任务一键完成（绕过淘宝检测，新版淘宝也能用）",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "喵币助手：618天猫（淘宝）、京东任务一键完成。HarmonyOS Next（鸿蒙5）版本开发中。",
+      "language": "Python",
+      "stars": 4026,
+      "forks": 498,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "DeepLearning-500-questions",
       "full_name": "scutan90/DeepLearning-500-questions",
       "url": "https://github.com/scutan90/DeepLearning-500-questions",
-      "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06",
+      "language": "JavaScript",
+      "stars": 57091,
+      "forks": 15984,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "chalk/chalk",
       "url": "https://github.com/chalk/chalk",
       "description": "🖍 Terminal string styling done right",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 22914,
+      "forks": 906,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "google/zx",
       "url": "https://github.com/google/zx",
       "description": "A tool for writing better scripts",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 45080,
+      "forks": 1192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "star7th/showdoc",
       "url": "https://github.com/star7th/showdoc",
       "description": "ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "PHP",
+      "stars": 12743,
+      "forks": 2231,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "ascoders/weekly",
       "url": "https://github.com/ascoders/weekly",
       "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30810,
+      "forks": 3279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "leanote/leanote",
       "url": "https://github.com/leanote/leanote",
       "description": "Not Just A Notepad! (golang + mongodb) http://leanote.org",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11728,
+      "forks": 2458,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "shufflewzc/faker3",
       "url": "https://github.com/shufflewzc/faker3",
       "description": "Faker2的纯净版",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1868,
+      "forks": 508,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "30-Days-Of-React",
       "full_name": "Asabeneh/30-Days-Of-React",
       "url": "https://github.com/Asabeneh/30-Days-Of-React",
-      "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 27299,
+      "forks": 7720,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "fx",
       "full_name": "antonmedv/fx",
       "url": "https://github.com/antonmedv/fx",
-      "description": "Command-line tool and terminal JSON viewer 🔥",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Terminal JSON viewer & processor",
+      "language": "Go",
+      "stars": 20206,
+      "forks": 469,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "YMFE/yapi",
       "url": "https://github.com/YMFE/yapi",
       "description": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27764,
+      "forks": 4846,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "dropzone/dropzone",
       "url": "https://github.com/dropzone/dropzone",
       "description": "Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18392,
+      "forks": 3279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "Anarios/return-youtube-dislike",
       "url": "https://github.com/Anarios/return-youtube-dislike",
       "description": "Chrome extension to return youtube dislikes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13449,
+      "forks": 605,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-01/2022-01-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     }
   ]
 }

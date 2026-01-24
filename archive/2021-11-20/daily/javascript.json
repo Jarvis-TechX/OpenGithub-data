@@ -15,15 +15,17 @@
       "repo_name": "budibase",
       "full_name": "Budibase/budibase",
       "url": "https://github.com/Budibase/budibase",
-      "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+      "language": "TypeScript",
+      "stars": 27566,
+      "forks": 2068,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "Anarios/return-youtube-dislike",
       "url": "https://github.com/Anarios/return-youtube-dislike",
       "description": "Chrome extension to return youtube dislikes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13449,
+      "forks": 605,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "nolimits4web/swiper",
       "url": "https://github.com/nolimits4web/swiper",
       "description": "Most modern mobile touch slider with hardware accelerated transitions",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 41763,
+      "forks": 9716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "pinojs/pino",
       "url": "https://github.com/pinojs/pino",
       "description": "🌲 super fast, all natural json logger",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17214,
+      "forks": 937,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "chinese-poetry",
       "full_name": "chinese-poetry/chinese-poetry",
       "url": "https://github.com/chinese-poetry/chinese-poetry",
-      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
+      "language": "JavaScript",
+      "stars": 50871,
+      "forks": 10285,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "quill",
       "full_name": "quilljs/quill",
       "url": "https://github.com/quilljs/quill",
-      "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility",
+      "language": "TypeScript",
+      "stars": 46767,
+      "forks": 3614,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "OlympusDAO/olympus-frontend",
       "url": "https://github.com/OlympusDAO/olympus-frontend",
       "description": "* [https://github.com/blueedgetechno/win11React](blueedgetechno/win11React) Windows 11 in React 💻🌈⚡",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 290,
+      "forks": 677,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "date-fns/date-fns",
       "url": "https://github.com/date-fns/date-fns",
       "description": "⏳ Modern JavaScript date utility library ⌛️",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 36422,
+      "forks": 1924,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "twbs/bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "MDX",
+      "stars": 173937,
+      "forks": 79164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "jdd",
       "full_name": "gys619/jdd",
       "url": "https://github.com/gys619/jdd",
-      "description": "自用的jd(京东)脚本合集",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "default",
+      "language": "JavaScript",
+      "stars": 1231,
+      "forks": 592,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "nosir/cleave.js",
       "url": "https://github.com/nosir/cleave.js",
       "description": "Format input text content when you are typing...",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17927,
+      "forks": 1595,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "dangrossman/daterangepicker",
       "url": "https://github.com/dangrossman/daterangepicker",
       "description": "JavaScript Date Range, Date and Time Picker Component",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11000,
+      "forks": 3285,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "naptha/tesseract.js",
       "url": "https://github.com/naptha/tesseract.js",
       "description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 37779,
+      "forks": 2358,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "ether/etherpad-lite",
       "url": "https://github.com/ether/etherpad-lite",
       "description": "Etherpad: A modern really-real-time collaborative document editor.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18089,
+      "forks": 3005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "SortableJS/Sortable",
       "url": "https://github.com/SortableJS/Sortable",
       "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30988,
+      "forks": 3747,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "d3",
       "full_name": "d3/d3",
       "url": "https://github.com/d3/d3",
-      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+      "language": "Shell",
+      "stars": 112204,
+      "forks": 22835,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "o2oa/o2oa",
       "url": "https://github.com/o2oa/o2oa",
       "description": "开源OA系统 - 码云GVP|Java开源oa|企业OA办公平台|企业OA|协同办公OA|流程平台OA|O2OA|OA，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4511,
+      "forks": 1355,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "WordPress/gutenberg",
       "url": "https://github.com/WordPress/gutenberg",
       "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11532,
+      "forks": 4691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "tulios/kafkajs",
       "url": "https://github.com/tulios/kafkajs",
       "description": "A modern Apache Kafka client for node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3980,
+      "forks": 572,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "lodash/lodash",
       "url": "https://github.com/lodash/lodash",
       "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 61594,
+      "forks": 7117,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-11/2021-11-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:26Z"
     }
   ]
 }

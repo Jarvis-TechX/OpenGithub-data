@@ -32,14 +32,16 @@
       "full_name": "tailwindcss/tailwindcss",
       "url": "https://github.com/tailwindcss/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "CSS",
-      "stars": 12050,
-      "forks": 541,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -49,13 +51,15 @@
       "url": "https://github.com/daneden/animate.css",
       "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
       "language": "CSS",
-      "stars": 59821,
-      "forks": 12664,
+      "stars": 82602,
+      "forks": 16114,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -65,13 +69,15 @@
       "url": "https://github.com/poowf/otter",
       "description": "A relatively automatic CRUD backend administration panel for Laravel",
       "language": "CSS",
-      "stars": 200,
-      "forks": 14,
+      "stars": 255,
+      "forks": 16,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 5,
@@ -81,13 +87,15 @@
       "url": "https://github.com/MichealWayne/Moo-CSS",
       "description": "模块化面向对象的css写法规范策略。适用于大中小型C端项目样式开发，旨在提高开发和维护效率。",
       "language": "CSS",
-      "stars": 67,
-      "forks": 0,
+      "stars": 77,
+      "forks": 7,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 6,
@@ -97,13 +105,15 @@
       "url": "https://github.com/jgthms/bulma",
       "description": "Modern CSS framework based on Flexbox",
       "language": "CSS",
-      "stars": 35010,
-      "forks": 2805,
+      "stars": 50059,
+      "forks": 3913,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 7,
@@ -191,15 +201,17 @@
       "repo_name": "synthwave-vscode",
       "full_name": "robb0wen/synthwave-vscode",
       "url": "https://github.com/robb0wen/synthwave-vscode",
-      "description": "Synthwave inspired colour theme for VS Code 🌅🕶",
+      "description": "Synthwave inspired colour theme for VS Code 🌅🕶 ",
       "language": "CSS",
-      "stars": 3220,
-      "forks": 618,
+      "stars": 5293,
+      "forks": 1192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 13,
@@ -240,14 +252,16 @@
       "full_name": "mmcgrana/gobyexample",
       "url": "https://github.com/mmcgrana/gobyexample",
       "description": "Go by Example",
-      "language": "CSS",
-      "stars": 3360,
-      "forks": 638,
+      "language": "Go",
+      "stars": 7961,
+      "forks": 1380,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 16,
@@ -272,14 +286,16 @@
       "full_name": "microsoft/vscode-docs",
       "url": "https://github.com/microsoft/vscode-docs",
       "description": "Public documentation for Visual Studio Code",
-      "language": "CSS",
-      "stars": 2208,
-      "forks": 1822,
+      "language": "Markdown",
+      "stars": 6357,
+      "forks": 5526,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 18,
@@ -384,14 +400,16 @@
       "full_name": "BlackrockDigital/startbootstrap-creative",
       "url": "https://github.com/BlackrockDigital/startbootstrap-creative",
       "description": "A one page HTML theme for creatives by Start Bootstrap",
-      "language": "CSS",
-      "stars": 1513,
-      "forks": 2467,
+      "language": "Pug",
+      "stars": 2067,
+      "forks": 3085,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 25,

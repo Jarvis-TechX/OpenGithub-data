@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "PCSX2/pcsx2",
       "url": "https://github.com/PCSX2/pcsx2",
       "description": "PCSX2 - The Playstation 2 Emulator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14267,
+      "forks": 1862,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "godotengine/godot",
       "url": "https://github.com/godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 105765,
+      "forks": 24121,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "Xaymar/obs-StreamFX",
       "url": "https://github.com/Xaymar/obs-StreamFX",
       "description": "StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4122,
+      "forks": 3211,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "Voine/ChatWaifu_Mobile",
       "url": "https://github.com/Voine/ChatWaifu_Mobile",
       "description": "移动版二次元 AI 老婆聊天器",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1384,
+      "forks": 148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "qbittorrent/qBittorrent",
       "url": "https://github.com/qbittorrent/qBittorrent",
       "description": "qBittorrent BitTorrent client",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35148,
+      "forks": 4544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "DamRsn/NeuralNote",
       "url": "https://github.com/DamRsn/NeuralNote",
       "description": "Audio Plugin for Audio to MIDI transcription using deep learning.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2379,
+      "forks": 155,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 193461,
+      "forks": 75203,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "arvidn/libtorrent",
       "url": "https://github.com/arvidn/libtorrent",
       "description": "an efficient feature complete C++ bittorrent implementation",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5823,
+      "forks": 1059,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "azerothcore/azerothcore-wotlk",
       "url": "https://github.com/azerothcore/azerothcore-wotlk",
       "description": "Complete Open Source and Modular solution for MMO",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7941,
+      "forks": 3170,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "tesseract-ocr/tesseract",
       "url": "https://github.com/tesseract-ocr/tesseract",
       "description": "Tesseract Open Source OCR Engine (main repository)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 72041,
+      "forks": 10469,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 13,
@@ -209,13 +233,15 @@
       "url": "https://github.com/Korepi/Korepi",
       "description": "Korek Api",
       "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "stars": 586,
+      "forks": 127,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "SFML/SFML",
       "url": "https://github.com/SFML/SFML",
       "description": "Simple and Fast Multimedia Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11599,
+      "forks": 1898,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "R3nzTheCodeGOD/R3nzSkin",
       "url": "https://github.com/R3nzTheCodeGOD/R3nzSkin",
       "description": "Skin changer for League of Legends (LOL)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4919,
+      "forks": 831,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "Xyrem/HyperDeceit",
       "url": "https://github.com/Xyrem/HyperDeceit",
       "description": "HyperDeceit is the ultimate all-in-one library that emulates Hyper-V for Windows, giving you the ability to intercept and manipulate operating system tasks with ease.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 377,
+      "forks": 67,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "gpt4all",
       "full_name": "nomic-ai/gpt4all",
       "url": "https://github.com/nomic-ai/gpt4all",
-      "description": "gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "stars": 77052,
+      "forks": 8316,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 18,
@@ -304,14 +338,16 @@
       "full_name": "strato-emu/strato",
       "url": "https://github.com/strato-emu/strato",
       "description": "Run Nintendo Switch homebrew & games on your Android device!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2340,
+      "forks": 286,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "cmu-db/bustub",
       "url": "https://github.com/cmu-db/bustub",
       "description": "The BusTub Relational Database Management System (Educational)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4820,
+      "forks": 1993,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "prusa3d/PrusaSlicer",
       "url": "https://github.com/prusa3d/PrusaSlicer",
       "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 8794,
+      "forks": 2158,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "ndeadly/MissionControl",
       "url": "https://github.com/ndeadly/MissionControl",
       "description": "Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3148,
+      "forks": 149,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 23,
@@ -367,15 +409,17 @@
       "repo_name": "The-C-20-Masterclass-Source-Code",
       "full_name": "rutura/The-C-20-Masterclass-Source-Code",
       "url": "https://github.com/rutura/The-C-20-Masterclass-Source-Code",
-      "description": "Source code for the C++ 20 Masterclass on udemy",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Source code for the C++ 20 Masterclass on udemy ",
+      "language": "C++",
+      "stars": 2118,
+      "forks": 1088,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "SerenityOS/serenity",
       "url": "https://github.com/SerenityOS/serenity",
       "description": "The Serenity Operating System 🐞",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 32839,
+      "forks": 3294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     }
   ]
 }

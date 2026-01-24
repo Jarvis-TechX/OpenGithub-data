@@ -31,15 +31,17 @@
       "repo_name": "electron",
       "full_name": "electron/electron",
       "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 119872,
+      "forks": 16947,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 3,
@@ -48,14 +50,16 @@
       "full_name": "NVIDIA/FasterTransformer",
       "url": "https://github.com/NVIDIA/FasterTransformer",
       "description": "Transformer related optimization, including BERT, GPT",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6387,
+      "forks": 928,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 4,
@@ -63,15 +67,17 @@
       "repo_name": "ClickHouse",
       "full_name": "ClickHouse/ClickHouse",
       "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a free analytics DBMS for big data",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": 45402,
+      "forks": 8004,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 5,
@@ -80,14 +86,16 @@
       "full_name": "azerothcore/azerothcore-wotlk",
       "url": "https://github.com/azerothcore/azerothcore-wotlk",
       "description": "Complete Open Source and Modular solution for MMO",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7941,
+      "forks": 3170,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 6,
@@ -96,14 +104,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70908,
+      "forks": 11486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 7,
@@ -112,14 +122,16 @@
       "full_name": "skyline-emu/skyline",
       "url": "https://github.com/skyline-emu/skyline",
       "description": "Run Nintendo Switch homebrew & games on your Android device!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 27,
+      "forks": 4,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 8,
@@ -128,14 +140,16 @@
       "full_name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 193461,
+      "forks": 75203,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 9,
@@ -151,7 +165,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 10,
@@ -160,14 +176,16 @@
       "full_name": "ApolloAuto/apollo",
       "url": "https://github.com/ApolloAuto/apollo",
       "description": "An open autonomous driving platform",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 26388,
+      "forks": 9957,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 11,
@@ -175,15 +193,17 @@
       "repo_name": "cocos-engine",
       "full_name": "cocos/cocos-engine",
       "url": "https://github.com/cocos/cocos-engine",
-      "description": "Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited from the legacy Cocos2d-x with a redesigned modern architecture. To run this engine, please download Cocos Creator.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+      "language": "C++",
+      "stars": 9365,
+      "forks": 2084,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 12,
@@ -192,14 +212,16 @@
       "full_name": "chenshuo/muduo",
       "url": "https://github.com/chenshuo/muduo",
       "description": "Event-driven network library for multi-threaded Linux server in C++11",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 15910,
+      "forks": 5299,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 13,
@@ -215,7 +237,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 14,
@@ -224,14 +248,16 @@
       "full_name": "xbmc/xbmc",
       "url": "https://github.com/xbmc/xbmc",
       "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 20340,
+      "forks": 6479,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 15,
@@ -240,14 +266,16 @@
       "full_name": "Light-City/CPlusPlusThings",
       "url": "https://github.com/Light-City/CPlusPlusThings",
       "description": "C++那些事",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 42806,
+      "forks": 8834,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 16,
@@ -255,15 +283,17 @@
       "repo_name": "workflow",
       "full_name": "sogou/workflow",
       "url": "https://github.com/sogou/workflow",
-      "description": "C++ Parallel Computing and Asynchronous Networking Engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "C++ Parallel Computing and Asynchronous Networking Framework",
+      "language": "C++",
+      "stars": 14286,
+      "forks": 2568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 17,
@@ -271,15 +301,17 @@
       "repo_name": "rpcs3",
       "full_name": "RPCS3/rpcs3",
       "url": "https://github.com/RPCS3/rpcs3",
-      "description": "PS3 emulator/debugger",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "stars": 18051,
+      "forks": 2187,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 18,
@@ -288,14 +320,16 @@
       "full_name": "openai/triton",
       "url": "https://github.com/openai/triton",
       "description": "Development repository for the Triton language and compiler",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "MLIR",
+      "stars": 18225,
+      "forks": 2521,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 19,
@@ -304,14 +338,16 @@
       "full_name": "PaddlePaddle/Paddle",
       "url": "https://github.com/PaddlePaddle/Paddle",
       "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 23585,
+      "forks": 5922,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "BlueMatthew/WechatExporter",
       "url": "https://github.com/BlueMatthew/WechatExporter",
       "description": "Wechat Chat History Exporter 微信聊天记录导出备份程序",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7518,
+      "forks": 797,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "MaaAssistantArknights/MaaAssistantArknights",
       "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 19281,
+      "forks": 2452,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "scottbez1/smartknob",
       "url": "https://github.com/scottbez1/smartknob",
       "description": "Haptic input knob with software-defined endstops and virtual detents",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 21321,
+      "forks": 1226,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "monero-project/monero",
       "url": "https://github.com/monero-project/monero",
       "description": "Monero: the secure, private, untraceable cryptocurrency",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10256,
+      "forks": 3362,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "topjohnwu/zygisk-module-sample",
       "url": "https://github.com/topjohnwu/zygisk-module-sample",
       "description": "A sample project for building Zygisk modules",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 955,
+      "forks": 313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 25,
@@ -400,14 +446,16 @@
       "full_name": "stevenlovegrove/Pangolin",
       "url": "https://github.com/stevenlovegrove/Pangolin",
       "description": "Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2676,
+      "forks": 896,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     }
   ]
 }

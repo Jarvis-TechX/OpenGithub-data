@@ -16,14 +16,16 @@
       "full_name": "Pagedraw/pagedraw",
       "url": "https://github.com/Pagedraw/pagedraw",
       "description": "a UI builder for React web apps",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3554,
+      "forks": 462,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-21.md"
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "assaf/vanity.js",
       "url": "https://github.com/assaf/vanity.js",
       "description": "NO LONGER MAINTAINED",
-      "language": "coffeescript",
-      "stars": 0,
+      "language": "CoffeeScript",
+      "stars": 8,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-21.md"
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "philc/vimium",
       "url": "https://github.com/philc/vimium",
       "description": "The hacker's browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 25911,
+      "forks": 2552,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-21.md"
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     }
   ]
 }

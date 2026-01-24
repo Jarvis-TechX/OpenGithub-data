@@ -16,14 +16,16 @@
       "full_name": "nicolaskruchten/pivottable",
       "url": "https://github.com/nicolaskruchten/pivottable",
       "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4449,
+      "forks": 1087,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-02.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "yakyak/yakyak",
       "url": "https://github.com/yakyak/yakyak",
       "description": "Desktop chat client for Google Hangouts",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3783,
+      "forks": 313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-02.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

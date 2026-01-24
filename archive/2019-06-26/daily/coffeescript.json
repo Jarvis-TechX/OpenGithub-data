@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "fragaria/angular-daterangepicker",
       "url": "https://github.com/fragaria/angular-daterangepicker",
       "description": "Angular.js wrapper for dangrossman/bootstrap-daterangepicker",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 518,
+      "forks": 364,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "4chan-x",
       "full_name": "ccd0/4chan-x",
       "url": "https://github.com/ccd0/4chan-x",
-      "description": "Adds various features to 4chan.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Adds various features to anonymous imageboards.",
+      "language": "CoffeeScript",
+      "stars": 1089,
+      "forks": 151,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "CoffeeScriptRedux",
       "full_name": "michaelficarra/CoffeeScriptRedux",
       "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
-      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "CoffeeScript",
+      "stars": 1836,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

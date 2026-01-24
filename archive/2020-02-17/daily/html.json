@@ -15,15 +15,17 @@
       "repo_name": "nndl.github.io",
       "full_name": "nndl/nndl.github.io",
       "url": "https://github.com/nndl/nndl.github.io",
-      "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+      "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning ",
       "language": "HTML",
-      "stars": 10598,
-      "forks": 2377,
+      "stars": 18702,
+      "forks": 3677,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -63,15 +65,17 @@
       "repo_name": "django-DefectDojo",
       "full_name": "DefectDojo/django-DefectDojo",
       "url": "https://github.com/DefectDojo/django-DefectDojo",
-      "description": "DefectDojo is an open-source application vulnerability correlation and security orchestration tool.",
+      "description": "Open-Source Unified Vulnerability Management, DevSecOps & ASPM",
       "language": "HTML",
-      "stars": 1103,
-      "forks": 495,
+      "stars": 4457,
+      "forks": 1809,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -81,13 +85,15 @@
       "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
       "description": "[Book] 2019 edition of our front-end development handbook",
       "language": "HTML",
-      "stars": 3185,
-      "forks": 331,
+      "stars": 4090,
+      "forks": 471,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -129,13 +135,15 @@
       "url": "https://github.com/fengdu78/deeplearning_ai_books",
       "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
       "language": "HTML",
-      "stars": 9924,
-      "forks": 3900,
+      "stars": 20170,
+      "forks": 6105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -145,13 +153,15 @@
       "url": "https://github.com/jeromeetienne/AR.js",
       "description": "Efficient Augmented Reality for the Web - 60fps on mobile!",
       "language": "HTML",
-      "stars": 14665,
-      "forks": 2039,
+      "stars": 15826,
+      "forks": 2222,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 11,
@@ -193,13 +203,15 @@
       "url": "https://github.com/zth/reasonml-q-a",
       "description": "ReasonML Q & A - Questions and answers for everything ReasonML.",
       "language": "HTML",
-      "stars": 29,
+      "stars": 44,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -256,14 +268,16 @@
       "full_name": "alex-shpak/hugo-book",
       "url": "https://github.com/alex-shpak/hugo-book",
       "description": "Hugo documentation theme as simple as plain book",
-      "language": "HTML",
-      "stars": 407,
-      "forks": 191,
+      "language": "CSS",
+      "stars": 3926,
+      "forks": 1304,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 20,
@@ -288,14 +302,16 @@
       "full_name": "h5bp/Front-end-Developer-Interview-Questions",
       "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
       "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
-      "language": "HTML",
-      "stars": 43615,
-      "forks": 8781,
+      "language": "Nunjucks",
+      "stars": 60796,
+      "forks": 11095,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,
@@ -319,15 +335,17 @@
       "repo_name": "portainer",
       "full_name": "portainer/portainer",
       "url": "https://github.com/portainer/portainer",
-      "description": "Making Docker management easy.",
-      "language": "HTML",
-      "stars": 13903,
-      "forks": 1312,
+      "description": "Making Docker and Kubernetes management easy.",
+      "language": "TypeScript",
+      "stars": 36294,
+      "forks": 2759,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 24,
@@ -353,13 +371,15 @@
       "url": "https://github.com/vernesong/OpenClash",
       "description": "A Clash Client For OpenWrt",
       "language": "HTML",
-      "stars": 525,
-      "forks": 125,
+      "stars": 23948,
+      "forks": 3725,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

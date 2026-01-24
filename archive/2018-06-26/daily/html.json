@@ -113,13 +113,15 @@
       "url": "https://github.com/facebookresearch/fastText",
       "description": "Library for fast text representation and classification.",
       "language": "HTML",
-      "stars": 14608,
-      "forks": 2604,
+      "stars": 26471,
+      "forks": 4818,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 8,
@@ -129,13 +131,15 @@
       "url": "https://github.com/leizongmin/js-xss",
       "description": "Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist",
       "language": "HTML",
-      "stars": 2167,
-      "forks": 297,
+      "stars": 5307,
+      "forks": 629,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 9,
@@ -160,14 +164,16 @@
       "full_name": "kennethreitz/requests-html",
       "url": "https://github.com/kennethreitz/requests-html",
       "description": "Pythonic HTML Parsing for Humans™",
-      "language": "HTML",
-      "stars": 7953,
-      "forks": 414,
+      "language": "Python",
+      "stars": 322,
+      "forks": 42,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 11,
@@ -175,15 +181,17 @@
       "repo_name": "portainer",
       "full_name": "portainer/portainer",
       "url": "https://github.com/portainer/portainer",
-      "description": "Simple management UI for Docker",
-      "language": "HTML",
-      "stars": 8364,
-      "forks": 816,
+      "description": "Making Docker and Kubernetes management easy.",
+      "language": "TypeScript",
+      "stars": 36294,
+      "forks": 2759,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 12,
@@ -225,13 +233,15 @@
       "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
       "description": "吴恩达老师的机器学习课程个人笔记",
       "language": "HTML",
-      "stars": 4050,
-      "forks": 1371,
+      "stars": 36156,
+      "forks": 11127,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 15,
@@ -239,15 +249,17 @@
       "repo_name": "awesome-mac",
       "full_name": "jaywcjlove/awesome-mac",
       "url": "https://github.com/jaywcjlove/awesome-mac",
-      "description": " This repo is a collection of awesome Mac applications and tools for developers and designers.",
-      "language": "HTML",
-      "stars": 19308,
-      "forks": 2339,
+      "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+      "language": "JavaScript",
+      "stars": 98027,
+      "forks": 7334,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 16,
@@ -263,7 +275,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 17,
@@ -287,15 +301,17 @@
       "repo_name": "owasp-mstg",
       "full_name": "OWASP/owasp-mstg",
       "url": "https://github.com/OWASP/owasp-mstg",
-      "description": "The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.",
-      "language": "HTML",
-      "stars": 2797,
-      "forks": 464,
+      "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
+      "language": "JavaScript",
+      "stars": 12672,
+      "forks": 2646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 19,
@@ -303,15 +319,17 @@
       "repo_name": "home-assistant-config",
       "full_name": "frenck/home-assistant-config",
       "url": "https://github.com/frenck/home-assistant-config",
-      "description": "🏠 My Home Assistant config & docs (Hass.io based). Be sure to 🌟 this repository for updates!",
+      "description": ":house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!",
       "language": "HTML",
-      "stars": 23,
-      "forks": 0,
+      "stars": 1967,
+      "forks": 179,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 20,
@@ -383,15 +401,17 @@
       "repo_name": "Winds",
       "full_name": "GetStream/Winds",
       "url": "https://github.com/GetStream/Winds",
-      "description": "A Beautiful Open Source RSS & Podcast App",
-      "language": "HTML",
-      "stars": 5583,
-      "forks": 326,
+      "description": "A Beautiful Open Source RSS & Podcast App Powered by Getstream.io",
+      "language": "JavaScript",
+      "stars": 9347,
+      "forks": 637,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 25,
@@ -401,13 +421,15 @@
       "url": "https://github.com/NVIDIA/DIGITS",
       "description": "Deep Learning GPU Training System",
       "language": "HTML",
-      "stars": 3215,
-      "forks": 1177,
+      "stars": 4185,
+      "forks": 1372,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     }
   ]
 }

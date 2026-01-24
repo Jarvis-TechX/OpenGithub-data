@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "philc/vimium",
       "url": "https://github.com/philc/vimium",
       "description": "The hacker's browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 25911,
+      "forks": 2552,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "taigaio/taiga-front",
       "url": "https://github.com/taigaio/taiga-front",
       "description": "Project management web application with scrum in mind! Built on top of Django and AngularJS (Front)",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 351,
+      "forks": 185,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "Leonidas-from-XIV/node-xml2js",
       "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
       "description": "XML to JavaScript object converter.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4973,
+      "forks": 609,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "FierceMarkets/grover",
       "url": "https://github.com/FierceMarkets/grover",
       "description": "Our very own hubot.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3,
+      "forks": 3,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

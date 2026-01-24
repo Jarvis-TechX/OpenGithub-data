@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "Anarios/return-youtube-dislike",
       "url": "https://github.com/Anarios/return-youtube-dislike",
       "description": "Chrome extension to return youtube dislikes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13449,
+      "forks": 605,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "marktext/marktext",
       "url": "https://github.com/marktext/marktext",
       "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 53410,
+      "forks": 3956,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "jojoldu/junior-recruit-scheduler",
       "url": "https://github.com/jojoldu/junior-recruit-scheduler",
       "description": "주니어 개발자 채용 정보",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11374,
+      "forks": 1633,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "airbnb/javascript",
       "url": "https://github.com/airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 148051,
+      "forks": 26770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "url": "https://github.com/Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14650,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "TechXueXi/techxuexi-js",
       "url": "https://github.com/TechXueXi/techxuexi-js",
       "description": "油猴等插件的 学习强国 js 代码 45分/天",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3730,
+      "forks": 2166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "louislam/uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 81832,
+      "forks": 7306,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "thunlp/WantWords",
       "url": "https://github.com/thunlp/WantWords",
       "description": "An open-source online reverse dictionary.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7110,
+      "forks": 621,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
       "description": "A framework for building native applications using React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 125168,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "gchq/CyberChef",
       "url": "https://github.com/gchq/CyberChef",
       "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 33817,
+      "forks": 3829,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "RimoChan/match-you",
       "url": "https://github.com/RimoChan/match-you",
       "description": "【您配吗】配你吗",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1810,
+      "forks": 85,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "Bogdanp/awesome-advent-of-code",
       "url": "https://github.com/Bogdanp/awesome-advent-of-code",
       "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Markdown",
+      "stars": 3210,
+      "forks": 964,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "OAI/OpenAPI-Specification",
       "url": "https://github.com/OAI/OpenAPI-Specification",
       "description": "The OpenAPI Specification Repository",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Markdown",
+      "stars": 30839,
+      "forks": 9166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "gatsby",
       "full_name": "gatsbyjs/gatsby",
       "url": "https://github.com/gatsbyjs/gatsby",
-      "description": "Build blazing fast, modern apps and websites with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The best React-based framework with performance, scalability and security built in.",
+      "language": "JavaScript",
+      "stars": 55973,
+      "forks": 10251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "Th3Wall/Fakeflix",
       "url": "https://github.com/Th3Wall/Fakeflix",
       "description": "Not the usual clone that you can find on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4972,
+      "forks": 687,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "timqian/chinese-independent-blogs",
       "url": "https://github.com/timqian/chinese-independent-blogs",
       "description": "中文独立博客列表",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 22644,
+      "forks": 2621,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "JavisPeng/taojinbi",
       "url": "https://github.com/JavisPeng/taojinbi",
       "description": "淘宝淘金币自动执行脚本，包含蚂蚁森林收取能量，芭芭农场全任务，解放你的双手",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1488,
+      "forks": 523,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "SortableJS/Sortable",
       "url": "https://github.com/SortableJS/Sortable",
       "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30988,
+      "forks": 3747,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "lx-music-desktop",
       "full_name": "lyswhut/lx-music-desktop",
       "url": "https://github.com/lyswhut/lx-music-desktop",
-      "description": "一个基于 electron 的音乐软件",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "一个基于 Electron 的音乐软件",
+      "language": "TypeScript",
+      "stars": 48434,
+      "forks": 6615,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "fengyuanchen/cropperjs",
       "url": "https://github.com/fengyuanchen/cropperjs",
       "description": "JavaScript image cropper.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 13775,
+      "forks": 2454,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "hamibot-auto_xuexiqiangguo",
       "full_name": "dundunnp/hamibot-auto_xuexiqiangguo",
       "url": "https://github.com/dundunnp/hamibot-auto_xuexiqiangguo",
-      "description": "每日拿满61分！免root，四人赛双人对战秒答，基于Hamibot的安卓端学习强国自动化脚本",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "学习强国 每日拿满61分！免root 四人赛双人对战秒答 自动化脚本",
+      "language": "JavaScript",
+      "stars": 2537,
+      "forks": 899,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "mozilla/pdf.js",
       "url": "https://github.com/mozilla/pdf.js",
       "description": "PDF Reader in JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 52711,
+      "forks": 10571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     }
   ]
 }

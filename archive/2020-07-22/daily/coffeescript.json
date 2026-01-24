@@ -16,14 +16,16 @@
       "full_name": "Pagedraw/pagedraw",
       "url": "https://github.com/Pagedraw/pagedraw",
       "description": "a UI builder for React web apps",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3554,
+      "forks": 462,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-22.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 217107,
+      "forks": 49988,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
       "url": "https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
       "description": "This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1257,
+      "forks": 305,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "swisskyrepo/PayloadsAllTheThings",
       "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
       "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 74605,
+      "forks": 16531,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "BadagalaAdarsh/Super_Mario",
       "url": "https://github.com/BadagalaAdarsh/Super_Mario",
       "description": "* [https://github.com/Mashiro2000/HeyTapTask](Mashiro2000/HeyTapTask) 适配青龙面板/云函数/本地运行的欢太商城脚本",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 239,
+      "forks": 53,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "corpnewt/gibMacOS",
       "url": "https://github.com/corpnewt/gibMacOS",
       "description": "Py2/py3 script that can download macOS components direct from Apple",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6814,
+      "forks": 864,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "ctf-wiki/ctf-wiki",
       "url": "https://github.com/ctf-wiki/ctf-wiki",
       "description": "Come and join us, we need you!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 9163,
+      "forks": 1428,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "ReFirmLabs/binwalk",
       "url": "https://github.com/ReFirmLabs/binwalk",
       "description": "Firmware Analysis Tool",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 13513,
+      "forks": 1757,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "TencentARC/GFPGAN",
       "url": "https://github.com/TencentARC/GFPGAN",
       "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 37354,
+      "forks": 6269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "Awesome-Linux-Software",
       "full_name": "luong-komorebi/Awesome-Linux-Software",
       "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
-      "description": "A list of awesome applications, software, tools and other materials for Linux distros.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🐧 A list of awesome Linux softwares ",
+      "language": "HTML",
+      "stars": 24777,
+      "forks": 2161,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "hummingbot",
       "full_name": "CoinAlpha/hummingbot",
       "url": "https://github.com/CoinAlpha/hummingbot",
-      "description": "Hummingbot: a client for crypto market making",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain",
+      "language": "Python",
+      "stars": 202,
+      "forks": 93,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "Ultimaker/Cura",
       "url": "https://github.com/Ultimaker/Cura",
       "description": "3D printer / slicing GUI built on top of the Uranium framework",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6864,
+      "forks": 2158,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "networkx/networkx",
       "url": "https://github.com/networkx/networkx",
       "description": "Network Analysis in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 16546,
+      "forks": 3455,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "deepfakes/faceswap",
       "url": "https://github.com/deepfakes/faceswap",
       "description": "Deepfakes Software For All",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 54917,
+      "forks": 13433,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "TorchSSL/TorchSSL",
       "url": "https://github.com/TorchSSL/TorchSSL",
       "description": "A PyTorch-based library for semi-supervised learning (NeurIPS'21)",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1366,
+      "forks": 190,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "MalwareDatabase",
       "full_name": "Endermanch/MalwareDatabase",
       "url": "https://github.com/Endermanch/MalwareDatabase",
-      "description": "This repository is one of a few malware collections on the GitHub.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "One of a few malware collections on the GitHub.",
+      "language": "Python",
+      "stars": 2732,
+      "forks": 581,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "zhoubin-me/lushi_script",
       "url": "https://github.com/zhoubin-me/lushi_script",
       "description": "This script is to save your time from Mercenaries mode of Hearthstone",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 210,
+      "forks": 79,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "core",
       "full_name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 84357,
+      "forks": 36583,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "ElevenClock",
       "full_name": "martinet101/ElevenClock",
       "url": "https://github.com/martinet101/ElevenClock",
-      "description": "ElevenClock: A secondary clock for secondary taskbars on Windows 11",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "ElevenClock: Customize Windows 11 taskbar clock",
+      "language": "Python",
+      "stars": 2542,
+      "forks": 182,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "Z4nzu/hackingtool",
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 54559,
+      "forks": 5959,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "owid/covid-19-data",
       "url": "https://github.com/owid/covid-19-data",
       "description": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5662,
+      "forks": 3617,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "microsoft/restler-fuzzer",
       "url": "https://github.com/microsoft/restler-fuzzer",
       "description": "RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2861,
+      "forks": 323,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "MrH0wl/Cloudmare",
       "url": "https://github.com/MrH0wl/Cloudmare",
       "description": "Cloudflare, Sucuri, Incapsula real IP tracker.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1762,
+      "forks": 235,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-10/2021-10-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:26Z"
     }
   ]
 }

@@ -16,14 +16,16 @@
       "full_name": "vmware-tanzu/kubeapps",
       "url": "https://github.com/vmware-tanzu/kubeapps",
       "description": "A web-based UI for deploying and managing applications in Kubernetes clusters",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 5135,
+      "forks": 728,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "ginuerzh/gost",
       "url": "https://github.com/ginuerzh/gost",
       "description": "GO Simple Tunnel - a simple tunnel written in golang",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 17513,
+      "forks": 2631,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "iawia002/lux",
       "url": "https://github.com/iawia002/lux",
       "description": "👾 Fast and simple video download library and CLI tool written in Go",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 30827,
+      "forks": 3233,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "AdguardTeam/AdGuardHome",
       "url": "https://github.com/AdguardTeam/AdGuardHome",
       "description": "Network-wide ads & trackers blocking DNS server",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 32221,
+      "forks": 2221,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "alphadose/haxmap",
       "url": "https://github.com/alphadose/haxmap",
       "description": "Fastest and most memory efficient golang concurrent hashmap",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 1024,
+      "forks": 52,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "phoneinfoga",
       "full_name": "sundowndev/phoneinfoga",
       "url": "https://github.com/sundowndev/phoneinfoga",
-      "description": "Information gathering & OSINT framework for phone numbers",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "stars": 15688,
+      "forks": 4732,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "trustwallet/assets",
       "url": "https://github.com/trustwallet/assets",
       "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 5213,
+      "forks": 26411,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "v2ray/v2ray-core",
       "url": "https://github.com/v2ray/v2ray-core",
       "description": "A platform for building proxies to bypass network restrictions.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 46882,
+      "forks": 8901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "hertz",
       "full_name": "cloudwego/hertz",
       "url": "https://github.com/cloudwego/hertz",
-      "description": "A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Go HTTP framework with high-performance and strong-extensibility for building micro-services.",
+      "language": "Go",
+      "stars": 7043,
+      "forks": 618,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "zyedidia/micro",
       "url": "https://github.com/zyedidia/micro",
       "description": "A modern and intuitive terminal-based text editor",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 27772,
+      "forks": 1275,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "cilium/cilium",
       "url": "https://github.com/cilium/cilium",
       "description": "eBPF-based Networking, Security, and Observability",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 23516,
+      "forks": 3566,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "techschool/simplebank",
       "url": "https://github.com/techschool/simplebank",
       "description": "Backend master class: build a simple bank service in Go",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 6397,
+      "forks": 1090,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "astaxie/build-web-application-with-golang",
       "url": "https://github.com/astaxie/build-web-application-with-golang",
       "description": "A golang ebook intro how to build a web with golang",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 44171,
+      "forks": 10555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "lightningnetwork/lnd",
       "url": "https://github.com/lightningnetwork/lnd",
       "description": "Lightning Network Daemon ⚡️",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 8099,
+      "forks": 2230,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "steampipe",
       "full_name": "turbot/steampipe",
       "url": "https://github.com/turbot/steampipe",
-      "description": "Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.",
+      "language": "Go",
+      "stars": 7656,
+      "forks": 325,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "restic/restic",
       "url": "https://github.com/restic/restic",
       "description": "Fast, secure, efficient backup program",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 31870,
+      "forks": 1699,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "syncthing/syncthing",
       "url": "https://github.com/syncthing/syncthing",
       "description": "Open Source Continuous File Synchronization",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 79304,
+      "forks": 4899,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "evrone/go-clean-template",
       "url": "https://github.com/evrone/go-clean-template",
       "description": "Clean Architecture template for Golang services",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 7295,
+      "forks": 633,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "v2fly/v2ray-core",
       "url": "https://github.com/v2fly/v2ray-core",
       "description": "A platform for building proxies to bypass network restrictions.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 33060,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "derailed/popeye",
       "url": "https://github.com/derailed/popeye",
       "description": "👀 A Kubernetes cluster resource sanitizer",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 6222,
+      "forks": 340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "SagerNet/sing-box",
       "url": "https://github.com/SagerNet/sing-box",
       "description": "The universal proxy platform",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 29929,
+      "forks": 3532,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "sosedoff/pgweb",
       "url": "https://github.com/sosedoff/pgweb",
       "description": "Cross-platform client for PostgreSQL databases",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 9227,
+      "forks": 817,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     }
   ]
 }

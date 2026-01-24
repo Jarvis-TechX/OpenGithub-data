@@ -16,14 +16,16 @@
       "full_name": "pbellon/tractatus-tree",
       "url": "https://github.com/pbellon/tractatus-tree",
       "description": "Visualization of the Wittgenstein's tractatus logico-philosophicus",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 64,
+      "forks": 12,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-27.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

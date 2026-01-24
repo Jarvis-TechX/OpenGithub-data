@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "binance-trading-bot",
       "full_name": "chrisleekr/binance-trading-bot",
       "url": "https://github.com/chrisleekr/binance-trading-bot",
-      "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis",
+      "language": "JavaScript",
+      "stars": 5455,
+      "forks": 1192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "winbox",
       "full_name": "nextapps-de/winbox",
       "url": "https://github.com/nextapps-de/winbox",
-      "description": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "WinBox is a modern HTML5 window manager for the Web.",
+      "language": "JavaScript",
+      "stars": 6387,
+      "forks": 210,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "artf/grapesjs",
       "url": "https://github.com/artf/grapesjs",
       "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 25418,
+      "forks": 4535,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "clean-code-javascript",
       "full_name": "ryanmcdermott/clean-code-javascript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-      "description": "🛁 Clean Code concepts adapted for JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Clean Code concepts adapted for JavaScript",
+      "language": "JavaScript",
+      "stars": 94283,
+      "forks": 12502,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "babel/babel",
       "url": "https://github.com/babel/babel",
       "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 43864,
+      "forks": 5791,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "sudheerj/javascript-interview-questions",
       "url": "https://github.com/sudheerj/javascript-interview-questions",
       "description": "List of 1000 JavaScript Interview Questions",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 26972,
+      "forks": 7566,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "jhu-ep-coursera/fullstack-course4",
       "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
       "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10949,
+      "forks": 11761,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "vercel/pkg",
       "url": "https://github.com/vercel/pkg",
       "description": "Package your Node.js project into an executable",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 24429,
+      "forks": 1062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "AI-Expert-Roadmap",
       "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
       "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
-      "description": "Roadmap to becoming an Artificial Intelligence Expert in 2021",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+      "language": "JavaScript",
+      "stars": 30690,
+      "forks": 2564,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "snowpackjs/snowpack",
       "url": "https://github.com/snowpackjs/snowpack",
       "description": "ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19391,
+      "forks": 912,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "vivek9patel.github.io",
       "full_name": "vivek9patel/vivek9patel.github.io",
       "url": "https://github.com/vivek9patel/vivek9patel.github.io",
-      "description": "Personal portfolio website of theme Ubuntu 20.04, made using React.js & tailwind CSS",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS",
+      "language": "JavaScript",
+      "stars": 4271,
+      "forks": 679,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "OpenCTI-Platform/opencti",
       "url": "https://github.com/OpenCTI-Platform/opencti",
       "description": "Open Cyber Threat Intelligence Platform",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 8124,
+      "forks": 1200,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "prettier/prettier",
       "url": "https://github.com/prettier/prettier",
       "description": "Prettier is an opinionated code formatter.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 51468,
+      "forks": 4641,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "billbarsch/myzap",
       "url": "https://github.com/billbarsch/myzap",
       "description": "Free Open Source Whatsapp Api",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 903,
+      "forks": 344,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "digitalocean/nginxconfig.io",
       "url": "https://github.com/digitalocean/nginxconfig.io",
       "description": "⚙️ NGINX config generator on steroids 💉",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 28314,
+      "forks": 2073,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "langren1353/GM_script",
       "url": "https://github.com/langren1353/GM_script",
       "description": "我就是来分享脚本玩玩的",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6041,
+      "forks": 226,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "briancodex/react-website-v1",
       "url": "https://github.com/briancodex/react-website-v1",
       "description": "* [https://github.com/monk-coder/dust](monk-coder/dust) 繁华 不过一掬细沙",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 762,
+      "forks": 1519,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     }
   ]
 }

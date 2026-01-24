@@ -15,15 +15,17 @@
       "repo_name": "BambuStudio",
       "full_name": "bambulab/BambuStudio",
       "url": "https://github.com/bambulab/BambuStudio",
-      "description": "PC Software for BambuLab's 3D printers",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "PC Software for BambuLab and other 3D printers",
+      "language": "C++",
+      "stars": 3696,
+      "forks": 571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "godotengine/godot",
       "url": "https://github.com/godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 105765,
+      "forks": 24121,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "TinyWebServer",
       "full_name": "qinguoyi/TinyWebServer",
       "url": "https://github.com/qinguoyi/TinyWebServer",
-      "description": "🔥 Linux下C++轻量级Web服务器",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":fire: Linux下C++轻量级WebServer服务器",
+      "language": "C++",
+      "stars": 19142,
+      "forks": 4212,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87749,
+      "forks": 38772,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "transmission/transmission",
       "url": "https://github.com/transmission/transmission",
       "description": "Official Transmission BitTorrent client repository",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13946,
+      "forks": 1319,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "hackerhouse-opensource/iscsicpl_bypassUAC",
       "url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
       "description": "UAC bypass for x64 Windows 7 - 11",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 827,
+      "forks": 161,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "WLED",
       "full_name": "Aircoookie/WLED",
       "url": "https://github.com/Aircoookie/WLED",
-      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+      "language": "C++",
+      "stars": 17386,
+      "forks": 3976,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "SFML/SFML",
       "url": "https://github.com/SFML/SFML",
       "description": "Simple and Fast Multimedia Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11599,
+      "forks": 1898,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "prusa3d/PrusaSlicer",
       "url": "https://github.com/prusa3d/PrusaSlicer",
       "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 8794,
+      "forks": 2158,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "diasurgical/devilutionX",
       "url": "https://github.com/diasurgical/devilutionX",
       "description": "Diablo build for modern operating systems",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9280,
+      "forks": 945,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "Waybar",
       "full_name": "Alexays/Waybar",
       "url": "https://github.com/Alexays/Waybar",
-      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+      "language": "C++",
+      "stars": 10473,
+      "forks": 969,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "aristocratos/btop",
       "url": "https://github.com/aristocratos/btop",
       "description": "A monitor of resources",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29872,
+      "forks": 901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "OpenRCT2/OpenRCT2",
       "url": "https://github.com/OpenRCT2/OpenRCT2",
       "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 15095,
+      "forks": 1716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "loveBabbar/CodeHelp-DSA-Busted-Series",
       "url": "https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series",
       "description": "This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3694,
+      "forks": 2456,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "ssloy/tinyrenderer",
       "url": "https://github.com/ssloy/tinyrenderer",
       "description": "A brief computer graphics / rendering course",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 23146,
+      "forks": 2212,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "chriskohlhoff/asio",
       "url": "https://github.com/chriskohlhoff/asio",
       "description": "Asio C++ Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5719,
+      "forks": 1341,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "Z3Prover/z3",
       "url": "https://github.com/Z3Prover/z3",
       "description": "The Z3 Theorem Prover",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11846,
+      "forks": 1603,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "PolyMC/PolyMC",
       "url": "https://github.com/PolyMC/PolyMC",
       "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1964,
+      "forks": 284,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "aria2/aria2",
       "url": "https://github.com/aria2/aria2",
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 39802,
+      "forks": 3809,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "skyline-emu/skyline",
       "url": "https://github.com/skyline-emu/skyline",
       "description": "Run Nintendo Switch homebrew & games on your Android device!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 27,
+      "forks": 4,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 96859,
+      "forks": 26601,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md"
+      "source_path": "/tmp/trending_archive/2022/2022-07/2022-07-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     }
   ]
 }

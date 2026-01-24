@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "NarrativeScience/Log.io",
       "url": "https://github.com/NarrativeScience/Log.io",
       "description": "Real-time log monitoring in your browser",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4851,
+      "forks": 694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "codecombat/codecombat",
       "url": "https://github.com/codecombat/codecombat",
       "description": "Game for learning how to code.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8407,
+      "forks": 4168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "badges",
       "full_name": "boennemann/badges",
       "url": "https://github.com/boennemann/badges",
-      "description": "Readme Badges  Gotta catch 'em all",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":flower_playing_cards: Readme Badges – Gotta catch 'em all",
+      "language": "CoffeeScript",
+      "stars": 1216,
+      "forks": 735,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

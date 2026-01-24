@@ -16,14 +16,16 @@
       "full_name": "sorich87/bootstrap-tour",
       "url": "https://github.com/sorich87/bootstrap-tour",
       "description": "Quick and easy product tours with Twitter Bootstrap Popovers",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4429,
+      "forks": 927,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-18.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "JunoLab/atom-julia-client",
       "url": "https://github.com/JunoLab/atom-julia-client",
       "description": "Juno a good IDE?",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 271,
+      "forks": 72,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-18.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

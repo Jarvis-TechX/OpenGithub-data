@@ -47,15 +47,17 @@
       "repo_name": "promises",
       "full_name": "google/promises",
       "url": "https://github.com/google/promises",
-      "description": "Promises is a modern framework that provides a synchronization construct for Objective-C and Swift.",
-      "language": "objective-c",
-      "stars": 403,
-      "forks": 10,
+      "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
+      "language": "Objective-C",
+      "stars": 3836,
+      "forks": 305,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 4,
@@ -95,15 +97,17 @@
       "repo_name": "YWChooseAddressView",
       "full_name": "90candy/YWChooseAddressView",
       "url": "https://github.com/90candy/YWChooseAddressView",
-      "description": "高仿淘宝添加新地址UI、高仿京东地区选择器",
-      "language": "objective-c",
-      "stars": 67,
-      "forks": 1,
+      "description": "高仿京东地区选择器、高仿淘宝新增地址UI",
+      "language": "Objective-C",
+      "stars": 187,
+      "forks": 17,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 7,
@@ -151,7 +155,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 10,
@@ -176,14 +182,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "objective-c",
-      "stars": 12433,
-      "forks": 1571,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 12,
@@ -224,14 +232,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "objective-c",
-      "stars": 10880,
-      "forks": 1832,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 15,
@@ -271,15 +281,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "Expo iOS/Android Client",
-      "language": "objective-c",
-      "stars": 2505,
-      "forks": 192,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 18,
@@ -352,14 +364,16 @@
       "full_name": "rs/SDWebImage",
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
-      "language": "objective-c",
-      "stars": 19299,
-      "forks": 5044,
+      "language": "Objective-C",
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 23,
@@ -375,7 +389,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 24,
@@ -384,14 +400,16 @@
       "full_name": "BradLarson/GPUImage",
       "url": "https://github.com/BradLarson/GPUImage",
       "description": "An open source iOS framework for GPU-based image and video processing",
-      "language": "objective-c",
-      "stars": 16930,
-      "forks": 4151,
+      "language": "Objective-C",
+      "stars": 20343,
+      "forks": 4589,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 25,

@@ -33,13 +33,15 @@
       "url": "https://github.com/klpn/static-dust",
       "description": "My personal blog.",
       "language": "Markdown",
-      "stars": 0,
-      "forks": 0,
+      "stars": 2,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-21.md"
+      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 4,
@@ -55,7 +57,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-21.md"
+      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:57Z"
     }
   ]
 }

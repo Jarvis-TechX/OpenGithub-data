@@ -17,13 +17,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 5112,
-      "forks": 287,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 2,
@@ -87,7 +89,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 6,
@@ -160,14 +164,16 @@
       "full_name": "react-native-community/react-native-webview",
       "url": "https://github.com/react-native-community/react-native-webview",
       "description": "React Native Cross-Platform WebView",
-      "language": "Objective-C",
-      "stars": 949,
-      "forks": 306,
+      "language": "TypeScript",
+      "stars": 7078,
+      "forks": 3148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 11,
@@ -191,15 +197,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 5904,
-      "forks": 627,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 13,
@@ -208,14 +216,16 @@
       "full_name": "OpenEmu/OpenEmu",
       "url": "https://github.com/OpenEmu/OpenEmu",
       "description": "🕹 Retro video game emulation for macOS",
-      "language": "Objective-C",
-      "stars": 9915,
-      "forks": 988,
+      "language": "Swift",
+      "stars": 17319,
+      "forks": 1331,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 14,
@@ -257,13 +267,15 @@
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
-      "stars": 7852,
-      "forks": 1360,
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 17,
@@ -272,14 +284,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "Objective-C",
-      "stars": 12961,
-      "forks": 2048,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 18,
@@ -288,14 +302,16 @@
       "full_name": "react-native-community/react-native-maps",
       "url": "https://github.com/react-native-community/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "Objective-C",
-      "stars": 9278,
-      "forks": 2887,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 19,
@@ -337,13 +353,15 @@
       "url": "https://github.com/realm/realm-cocoa",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
-      "stars": 13109,
-      "forks": 1690,
+      "stars": 16587,
+      "forks": 2213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 22,

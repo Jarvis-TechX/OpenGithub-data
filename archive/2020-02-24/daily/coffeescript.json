@@ -16,14 +16,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "intro-curriculum-3006",
       "full_name": "progedu/intro-curriculum-3006",
       "url": "https://github.com/progedu/intro-curriculum-3006",
-      "description": "36 (ISC License)",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "入門コースの3章6節の練習 (ISC License)",
+      "language": "CoffeeScript",
+      "stars": 1,
+      "forks": 1875,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "intro-curriculum-3008",
       "full_name": "progedu/intro-curriculum-3008",
       "url": "https://github.com/progedu/intro-curriculum-3008",
-      "description": "38 (ISC License)",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "入門コースの3章8節の練習 (ISC License)",
+      "language": "CoffeeScript",
+      "stars": 1,
+      "forks": 1448,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

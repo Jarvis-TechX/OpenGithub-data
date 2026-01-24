@@ -15,15 +15,17 @@
       "repo_name": "N1",
       "full_name": "nylas/N1",
       "url": "https://github.com/nylas/N1",
-      "description": "An extensible mail client built on the modern web.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!",
+      "language": "JavaScript",
+      "stars": 24808,
+      "forks": 1365,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "atom",
       "full_name": "atom/atom",
       "url": "https://github.com/atom/atom",
-      "description": "The hackable text editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":atom: The hackable text editor",
+      "language": "JavaScript",
+      "stars": 60998,
+      "forks": 17302,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "Rocket.Chat",
       "full_name": "RocketChat/Rocket.Chat",
       "url": "https://github.com/RocketChat/Rocket.Chat",
-      "description": "Have your own Slack like online chat, built with Meteor.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Secure CommsOS™ for mission-critical operations",
+      "language": "TypeScript",
+      "stars": 44394,
+      "forks": 13003,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "autoprefixer",
       "full_name": "postcss/autoprefixer",
       "url": "https://github.com/postcss/autoprefixer",
-      "description": "Parse CSS and add vendor prefixes to rules by Can I Use",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": " Parse CSS and add vendor prefixes to rules by Can I Use",
+      "language": "JavaScript",
+      "stars": 22639,
+      "forks": 1277,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "github/hubot",
       "url": "https://github.com/github/hubot",
       "description": "A customizable life embetterment robot.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 16770,
+      "forks": 3742,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "sorich87/bootstrap-tour",
       "url": "https://github.com/sorich87/bootstrap-tour",
       "description": "Quick and easy product tours with Twitter Bootstrap Popovers",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4429,
+      "forks": 927,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "philc/vimium",
       "url": "https://github.com/philc/vimium",
       "description": "The hacker's browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 25911,
+      "forks": 2552,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "nodecache",
       "full_name": "tcs-de/nodecache",
       "url": "https://github.com/tcs-de/nodecache",
-      "description": "a node internal caching module",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "a node internal (in-memory) caching module",
+      "language": "CoffeeScript",
+      "stars": 2370,
+      "forks": 144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "atom/language-python",
       "url": "https://github.com/atom/language-python",
       "description": "Python package for Atom",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 191,
+      "forks": 145,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "TabDigital/atom-mocha-test-runner",
       "url": "https://github.com/TabDigital/atom-mocha-test-runner",
       "description": "Mocha test runner for Atom Editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 38,
+      "forks": 15,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "github/hubot-scripts",
       "url": "https://github.com/github/hubot-scripts",
       "description": "DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3614,
+      "forks": 1827,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "atom-simplified-chinese-menu",
       "full_name": "chinakids/atom-simplified-chinese-menu",
       "url": "https://github.com/chinakids/atom-simplified-chinese-menu",
-      "description": "Atom ,",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化",
+      "language": "CoffeeScript",
+      "stars": 1334,
+      "forks": 137,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "rivescript-js",
       "full_name": "aichaos/rivescript-js",
       "url": "https://github.com/aichaos/rivescript-js",
-      "description": "A RiveScript interpreter for JavaScript. RiveScript is a scripting language for chatterbots.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": " A RiveScript interpreter for JavaScript. RiveScript is a scripting language for chatterbots.",
+      "language": "JavaScript",
+      "stars": 382,
+      "forks": 146,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "atom/language-c",
       "url": "https://github.com/atom/language-c",
       "description": "C support in Atom",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 121,
+      "forks": 148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "settings-view",
       "full_name": "atom/settings-view",
       "url": "https://github.com/atom/settings-view",
-      "description": "Edit Atom settings",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🔧 Edit Atom settings",
+      "language": "CoffeeScript",
+      "stars": 275,
+      "forks": 276,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "bramski/angular-indexedDB",
       "url": "https://github.com/bramski/angular-indexedDB",
       "description": "An angularjs serviceprovider to utilize indexedDB with angular",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 165,
+      "forks": 48,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "passy/angular-masonry",
       "url": "https://github.com/passy/angular-masonry",
       "description": "An AngularJS directive for Masonry.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 1108,
+      "forks": 211,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "atom/find-and-replace",
       "url": "https://github.com/atom/find-and-replace",
       "description": "Find and replace in a single buffer and in the project",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 244,
+      "forks": 193,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 23,
@@ -375,7 +419,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "sharelatex-docker-image",
       "full_name": "sharelatex/sharelatex-docker-image",
       "url": "https://github.com/sharelatex/sharelatex-docker-image",
-      "description": "A Dockerfile for building the official ShareLaTeX Community Edition docker image",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A Dockerfile for building the official Overleaf Community Edition docker image",
+      "language": "CoffeeScript",
+      "stars": 188,
+      "forks": 63,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:41Z"
     },
     {
       "rank": 25,
@@ -407,7 +455,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md"
+      "source_path": "/tmp/trending_archive/2016/2016-01/2016-01-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:41Z"
     }
   ]
 }

@@ -16,14 +16,16 @@
       "full_name": "blackmatrix7/ios_rule_script",
       "url": "https://github.com/blackmatrix7/ios_rule_script",
       "description": "分流规则、重写写规则及脚本。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 24462,
+      "forks": 3853,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "ToolJet",
       "full_name": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
-      "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 37326,
+      "forks": 4935,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "bchiang7/v4",
       "url": "https://github.com/bchiang7/v4",
       "description": "Fourth iteration of my personal website built with Gatsby",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8161,
+      "forks": 4220,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "modood/Administrative-divisions-of-China",
       "url": "https://github.com/modood/Administrative-divisions-of-China",
       "description": "中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20491,
+      "forks": 7231,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "vaxilu/x-ui",
       "url": "https://github.com/vaxilu/x-ui",
       "description": "支持多协议多用户的 xray 面板",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18684,
+      "forks": 7268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "oldboyxx/jira_clone",
       "url": "https://github.com/oldboyxx/jira_clone",
       "description": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11048,
+      "forks": 2144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 110509,
+      "forks": 36242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "url": "https://github.com/Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14650,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "adrianhajdin/project_mern_memories",
       "url": "https://github.com/adrianhajdin/project_mern_memories",
       "description": "This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called \"Memories\" and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5120,
+      "forks": 1884,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "NodeBB/NodeBB",
       "url": "https://github.com/NodeBB/NodeBB",
       "description": "Node.js based forum software built for the modern web",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 14922,
+      "forks": 2938,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "adrianhajdin/project_syncfusion_dashboard",
       "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
       "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3139,
+      "forks": 1084,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "RSSHub",
       "full_name": "DIYgod/RSSHub",
       "url": "https://github.com/DIYgod/RSSHub",
-      "description": "🍰 Everything is RSSible",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🧡 Everything is RSSible",
+      "language": "TypeScript",
+      "stars": 41336,
+      "forks": 9074,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "GDevelop",
       "full_name": "4ian/GDevelop",
       "url": "https://github.com/4ian/GDevelop",
-      "description": "🎮 Open-source, cross-platform game engine designed to be used by everyone.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+      "language": "JavaScript",
+      "stars": 19643,
+      "forks": 1232,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "ccxt",
       "full_name": "ccxt/ccxt",
       "url": "https://github.com/ccxt/ccxt",
-      "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go ",
+      "language": "Python",
+      "stars": 40658,
+      "forks": 8481,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "brave-browser",
       "full_name": "brave/brave-browser",
       "url": "https://github.com/brave/brave-browser",
-      "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 21196,
+      "forks": 2949,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "soyHenry/Prep-Course",
       "url": "https://github.com/soyHenry/Prep-Course",
       "description": "* [https://github.com/dillonzq/LoveIt](dillonzq/LoveIt) ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 528,
+      "forks": 20319,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "zhaoolee/ChineseBQB",
       "url": "https://github.com/zhaoolee/ChineseBQB",
       "description": "🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 15248,
+      "forks": 1329,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "raganork-md",
       "full_name": "souravkl11/raganork-md",
       "url": "https://github.com/souravkl11/raganork-md",
-      "description": "Simple multi device whatsapp bot",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A light-weight multi-functional WhatsApp bot framework.",
+      "language": "JavaScript",
+      "stars": 747,
+      "forks": 1538,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     }
   ]
 }

@@ -15,15 +15,17 @@
       "repo_name": "system-design-primer",
       "full_name": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python",
+      "stars": 333105,
+      "forks": 54165,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "gto76/python-cheatsheet",
       "url": "https://github.com/gto76/python-cheatsheet",
       "description": "Comprehensive Python Cheatsheet",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 38162,
+      "forks": 6696,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "svox2",
       "full_name": "sxyu/svox2",
       "url": "https://github.com/sxyu/svox2",
-      "description": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Plenoxels: Radiance Fields without Neural Networks",
+      "language": "Python",
+      "stars": 2886,
+      "forks": 358,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "teslamotors/light-show",
       "url": "https://github.com/teslamotors/light-show",
       "description": "Tesla Light Show",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3800,
+      "forks": 485,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "pydantic",
       "full_name": "samuelcolvin/pydantic",
       "url": "https://github.com/samuelcolvin/pydantic",
-      "description": "Data parsing and validation using Python type hints",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Data validation using Python type hints",
+      "language": "Python",
+      "stars": 26546,
+      "forks": 2404,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "PaddleNLP",
       "full_name": "PaddlePaddle/PaddleNLP",
       "url": "https://github.com/PaddlePaddle/PaddleNLP",
-      "description": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Easy-to-use and powerful LLM and SLM library with awesome model zoo.",
+      "language": "Python",
+      "stars": 12904,
+      "forks": 3069,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "jackfrued/Python-100-Days",
       "url": "https://github.com/jackfrued/Python-100-Days",
       "description": "Python - 100天从新手到大师",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 177930,
+      "forks": 55296,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "mpcabete/bombcrypto-bot",
       "url": "https://github.com/mpcabete/bombcrypto-bot",
       "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 813,
+      "forks": 515,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "RangiLyu/nanodet",
       "url": "https://github.com/RangiLyu/nanodet",
       "description": "NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6155,
+      "forks": 1091,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "interview_internal_reference",
       "full_name": "0voice/interview_internal_reference",
       "url": "https://github.com/0voice/interview_internal_reference",
-      "description": "2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+      "language": "Python",
+      "stars": 37149,
+      "forks": 9429,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 14,
@@ -231,7 +257,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "iperov/DeepFaceLab",
       "url": "https://github.com/iperov/DeepFaceLab",
       "description": "DeepFaceLab is the leading software for creating deepfakes.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 18975,
+      "forks": 823,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "commodities-dashboard",
       "full_name": "brad-darksbian/commodities-dashboard",
       "url": "https://github.com/brad-darksbian/commodities-dashboard",
-      "description": "A simply dashboard to view commodities position data based on CFTC reports",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A simple dashboard to view commodities position data based on CFTC reports",
+      "language": "Python",
+      "stars": 90,
+      "forks": 32,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "yunjey/pytorch-tutorial",
       "url": "https://github.com/yunjey/pytorch-tutorial",
       "description": "PyTorch Tutorial for Deep Learning Researchers",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 32119,
+      "forks": 8280,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "ha0y/xiaomi_miot_raw",
       "url": "https://github.com/ha0y/xiaomi_miot_raw",
       "description": "All-in-one & Easy-to-use. Integrate all your Xiaomi Smart Home - with a single integration and NO YAML files - into Home Assistant.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2197,
+      "forks": 231,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "sherlock",
       "full_name": "sherlock-project/sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
-      "description": "🔎 Hunt down social media accounts by username across social networks",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 72111,
+      "forks": 8542,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "standupmaths/xmastree2021",
       "url": "https://github.com/standupmaths/xmastree2021",
       "description": "Code and coordinates for Matt's 2021 xmas tree",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 135,
+      "forks": 57,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "neuralchen/SimSwap",
       "url": "https://github.com/neuralchen/SimSwap",
       "description": "An arbitrary face-swapping framework on images and videos with one single trained model!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5114,
+      "forks": 1014,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "mwmbl",
       "full_name": "mwmbl/mwmbl",
       "url": "https://github.com/mwmbl/mwmbl",
-      "description": "An open source, non-profit search engine implemented in python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "An open source, non-profit web search engine",
+      "language": "Python",
+      "stars": 1752,
+      "forks": 81,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "apprenticeharper/DeDRM_tools",
       "url": "https://github.com/apprenticeharper/DeDRM_tools",
       "description": "DeDRM tools for ebooks",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 15077,
+      "forks": 1599,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "content",
       "full_name": "demisto/content",
       "url": "https://github.com/demisto/content",
-      "description": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated! ",
+      "language": "Python",
+      "stars": 1245,
+      "forks": 1893,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-12/2021-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:27Z"
     }
   ]
 }

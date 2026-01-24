@@ -111,15 +111,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "Expo iOS/Android Client",
-      "language": "objective-c",
-      "stars": 3105,
-      "forks": 227,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:56Z"
     },
     {
       "rank": 8,
@@ -128,14 +130,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "objective-c",
-      "stars": 13297,
-      "forks": 1719,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:56Z"
     },
     {
       "rank": 9,
@@ -207,15 +211,17 @@
       "repo_name": "flutter-desktop-embedding",
       "full_name": "google/flutter-desktop-embedding",
       "url": "https://github.com/google/flutter-desktop-embedding",
-      "description": "Desktop implementations of the Flutter embedding API",
-      "language": "objective-c",
-      "stars": 386,
-      "forks": 22,
+      "description": "Experimental plugins for Flutter for Desktop",
+      "language": "C++",
+      "stars": 7077,
+      "forks": 607,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:56Z"
     },
     {
       "rank": 14,
@@ -240,14 +246,16 @@
       "full_name": "wigl/iSimulator",
       "url": "https://github.com/wigl/iSimulator",
       "description": "iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.",
-      "language": "objective-c",
-      "stars": 26,
-      "forks": 0,
+      "language": "Swift",
+      "stars": 1172,
+      "forks": 56,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:56Z"
     },
     {
       "rank": 17,
@@ -368,14 +376,16 @@
       "full_name": "AFNetworking/AFNetworking",
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
-      "language": "objective-c",
-      "stars": 30922,
-      "forks": 9561,
+      "language": "Objective-C",
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:56Z"
     },
     {
       "rank": 25,
@@ -384,14 +394,16 @@
       "full_name": "rs/SDWebImage",
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
-      "language": "objective-c",
-      "stars": 19704,
-      "forks": 5123,
+      "language": "Objective-C",
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:56Z"
     }
   ]
 }

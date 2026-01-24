@@ -16,14 +16,16 @@
       "full_name": "wseagar/eight-dollars",
       "url": "https://github.com/wseagar/eight-dollars",
       "description": "A browser extension that shows twitter blue vs real verified users",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1192,
+      "forks": 63,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "User9684/stupid-discord-badge",
       "url": "https://github.com/User9684/stupid-discord-badge",
       "description": "Port this repo into https://replit.com and read the readme file for instructions on how to SHIT on discord",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 112,
+      "forks": 350,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "SudhanPlayz/Discord-MusicBot",
       "url": "https://github.com/SudhanPlayz/Discord-MusicBot",
       "description": "An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 3184,
+      "forks": 3009,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "adrianhajdin/portfolio_website",
       "url": "https://github.com/adrianhajdin/portfolio_website",
       "description": "Tutorial created by Enyel Sequeira, taught by JavaScript Mastery",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3497,
+      "forks": 729,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "mifi/lossless-cut",
       "url": "https://github.com/mifi/lossless-cut",
       "description": "The swiss army knife of lossless video/audio editing",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 37468,
+      "forks": 1824,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "discord-active-developer-badge",
       "full_name": "hackermondev/discord-active-developer-badge",
       "url": "https://github.com/hackermondev/discord-active-developer-badge",
-      "description": "Simple script you can use to get the new Discord \"Active Developer\" badge",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Simple script you can use to get the new Discord \"Active Developer\" badge ",
+      "language": "JavaScript",
+      "stars": 654,
+      "forks": 138,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "pedroslopez/whatsapp-web.js",
       "url": "https://github.com/pedroslopez/whatsapp-web.js",
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20631,
+      "forks": 4780,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "mwittrien/BetterDiscordAddons",
       "url": "https://github.com/mwittrien/BetterDiscordAddons",
       "description": "A series of plugins and themes for BetterDiscord.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2274,
+      "forks": 3740,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "hexo-theme-fluid",
       "full_name": "fluid-dev/hexo-theme-fluid",
       "url": "https://github.com/fluid-dev/hexo-theme-fluid",
-      "description": "🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
+      "language": "JavaScript",
+      "stars": 8067,
+      "forks": 1153,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "MusicBot",
       "full_name": "umutxyp/MusicBot",
       "url": "https://github.com/umutxyp/MusicBot",
-      "description": "An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Advanced Discord v14.22 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.",
+      "language": "JavaScript",
+      "stars": 1166,
+      "forks": 1161,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "LinkFree",
       "full_name": "EddieHubCommunity/LinkFree",
       "url": "https://github.com/EddieHubCommunity/LinkFree",
-      "description": "Open source alternative to LinkTree",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
+      "language": "JavaScript",
+      "stars": 5740,
+      "forks": 4057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
       "url": "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui",
       "description": "Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13497,
+      "forks": 709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "adrianhajdin/project_syncfusion_dashboard",
       "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
       "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3139,
+      "forks": 1084,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "adrianhajdin/project_youtube_clone",
       "url": "https://github.com/adrianhajdin/project_youtube_clone",
       "description": "Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1459,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "url": "https://github.com/Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14650,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "nextcloud/recognize",
       "url": "https://github.com/nextcloud/recognize",
       "description": "👁 👂 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "PHP",
+      "stars": 668,
+      "forks": 55,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "heroaku/TVboxo",
       "url": "https://github.com/heroaku/TVboxo",
       "description": "自用资源",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 667,
+      "forks": 386,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "ccxt",
       "full_name": "ccxt/ccxt",
       "url": "https://github.com/ccxt/ccxt",
-      "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go ",
+      "language": "Python",
+      "stars": 40658,
+      "forks": 8481,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     }
   ]
 }

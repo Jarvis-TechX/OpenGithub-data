@@ -15,15 +15,17 @@
       "repo_name": "ChatGPT-Telegram-Workers",
       "full_name": "TBXark/ChatGPT-Telegram-Workers",
       "url": "https://github.com/TBXark/ChatGPT-Telegram-Workers",
-      "description": "Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).",
+      "language": "TypeScript",
+      "stars": 3797,
+      "forks": 895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
       "description": "A framework for building native applications using React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 125168,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 115347,
+      "forks": 34470,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "hiring-without-whiteboards",
       "full_name": "poteto/hiring-without-whiteboards",
       "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "description": "⭐️ Companies that don't have a broken hiring process",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⭐️  Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "stars": 50361,
+      "forks": 3880,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "postcat",
       "full_name": "Postcatlab/postcat",
       "url": "https://github.com/Postcatlab/postcat",
-      "description": "Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.",
+      "language": "JavaScript",
+      "stars": 5576,
+      "forks": 804,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "Auto-Photoshop-StableDiffusion-Plugin",
       "full_name": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
       "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
-      "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.",
+      "language": "TypeScript",
+      "stars": 7214,
+      "forks": 529,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "SortableJS/Vue.Draggable",
       "url": "https://github.com/SortableJS/Vue.Draggable",
       "description": "Vue drag-and-drop component based on Sortable.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20634,
+      "forks": 2877,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "nodejs.org",
       "full_name": "nodejs/nodejs.org",
       "url": "https://github.com/nodejs/nodejs.org",
-      "description": "The Node.js website.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Node.js® Website",
+      "language": "TypeScript",
+      "stars": 6782,
+      "forks": 6473,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 11,
@@ -192,14 +212,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 13,
@@ -207,15 +229,17 @@
       "repo_name": "atom",
       "full_name": "atom/atom",
       "url": "https://github.com/atom/atom",
-      "description": "The hackable text editor",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":atom: The hackable text editor",
+      "language": "JavaScript",
+      "stars": 60998,
+      "forks": 17302,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 14,
@@ -224,14 +248,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 15,
@@ -239,15 +265,17 @@
       "repo_name": "nodebestpractices",
       "full_name": "goldbergyoni/nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (March 2023)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":white_check_mark:  The Node.js best practices list (July 2024)",
+      "language": "Dockerfile",
+      "stars": 104955,
+      "forks": 10681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 16,
@@ -256,14 +284,16 @@
       "full_name": "OAI/OpenAPI-Specification",
       "url": "https://github.com/OAI/OpenAPI-Specification",
       "description": "The OpenAPI Specification Repository",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Markdown",
+      "stars": 30839,
+      "forks": 9166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 17,
@@ -272,14 +302,16 @@
       "full_name": "hnmr293/posex",
       "url": "https://github.com/hnmr293/posex",
       "description": "Posex - Estimated Image Generator for Pose2Image",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 594,
+      "forks": 75,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 18,
@@ -295,7 +327,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 19,
@@ -303,15 +337,17 @@
       "repo_name": "material-ui",
       "full_name": "mui/material-ui",
       "url": "https://github.com/mui/material-ui",
-      "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "language": "JavaScript",
+      "stars": 97682,
+      "forks": 32793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "jbaysolutions/vue-grid-layout",
       "url": "https://github.com/jbaysolutions/vue-grid-layout",
       "description": "A draggable and resizable grid layout, for Vue.js.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7411,
+      "forks": 1543,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "SortableJS/Sortable",
       "url": "https://github.com/SortableJS/Sortable",
       "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30988,
+      "forks": 3747,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 22,
@@ -351,15 +391,17 @@
       "repo_name": "netron",
       "full_name": "lutzroeder/netron",
       "url": "https://github.com/lutzroeder/netron",
-      "description": "Visualizer for neural network, deep learning, and machine learning models",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Visualizer for neural network, deep learning and machine learning models",
+      "language": "JavaScript",
+      "stars": 32249,
+      "forks": 3061,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 23,
@@ -375,7 +417,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "axios/axios",
       "url": "https://github.com/axios/axios",
       "description": "Promise based HTTP client for the browser and node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 108520,
+      "forks": 11497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 25,
@@ -400,14 +446,16 @@
       "full_name": "react-grid-layout/react-grid-layout",
       "url": "https://github.com/react-grid-layout/react-grid-layout",
       "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 21984,
+      "forks": 2699,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-03/2023-03-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     }
   ]
 }

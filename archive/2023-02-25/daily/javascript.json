@@ -15,15 +15,17 @@
       "repo_name": "hiring-without-whiteboards",
       "full_name": "poteto/hiring-without-whiteboards",
       "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "description": "⭐️ Companies that don't have a broken hiring process",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⭐️  Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "stars": 50361,
+      "forks": 3880,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "memochou1993/gpt-ai-assistant",
       "url": "https://github.com/memochou1993/gpt-ai-assistant",
       "description": "OpenAI + LINE + Vercel = GPT AI Assistant",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7748,
+      "forks": 9828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "mermaid-js/mermaid",
       "url": "https://github.com/mermaid-js/mermaid",
       "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 85533,
+      "forks": 8533,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "js-challenges",
       "full_name": "Sunny-117/js-challenges",
       "url": "https://github.com/Sunny-117/js-challenges",
-      "description": "✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平",
+      "language": "JavaScript",
+      "stars": 2300,
+      "forks": 262,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "louislam/uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 81832,
+      "forks": 7306,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "bob-plugin-openai-translator",
       "full_name": "yetone/bob-plugin-openai-translator",
       "url": "https://github.com/yetone/bob-plugin-openai-translator",
-      "description": "基于 OpenAI API (GPT-3) 的 Bob 翻译插件，让我们一起迎接不需要巴别塔的新时代！",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0",
+      "language": "TypeScript",
+      "stars": 5657,
+      "forks": 264,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "Reamd7/notion-zh_CN",
       "url": "https://github.com/Reamd7/notion-zh_CN",
       "description": "notion 中文化",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7171,
+      "forks": 1020,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "react",
       "full_name": "facebook/react",
       "url": "https://github.com/facebook/react",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 242462,
+      "forks": 50449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "ed-roh/fullstack-admin",
       "url": "https://github.com/ed-roh/fullstack-admin",
       "description": "* [https://github.com/oblador/react-native-vector-icons](oblador/react-native-vector-icons) Customizable Icons for React Native with support for image source and full styling.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 537,
+      "forks": 440,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 13,
@@ -209,13 +233,15 @@
       "url": "https://github.com/Clooos/Home-Assistant-Mobile-First",
       "description": "A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 1357,
+      "forks": 70,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "ed-roh/mern-social-media",
       "url": "https://github.com/ed-roh/mern-social-media",
       "description": "Complete React MERN Full Stack Social Media App",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1103,
+      "forks": 894,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 110509,
+      "forks": 36242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "onlyoffice.github.io",
       "full_name": "ONLYOFFICE/onlyoffice.github.io",
       "url": "https://github.com/ONLYOFFICE/onlyoffice.github.io",
-      "description": "* [https://github.com/codrops/OnScrollTypographyAnimations](codrops/OnScrollTypographyAnimations) Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "ONLYOFFICE plugins. Code, resources, and styling for the Plugin Marketplace and Plugins Manager.",
+      "language": "JavaScript",
+      "stars": 205,
+      "forks": 466,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "typicode/json-server",
       "url": "https://github.com/typicode/json-server",
       "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 75593,
+      "forks": 7271,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "fireship-io/sorting-algorithms",
       "url": "https://github.com/fireship-io/sorting-algorithms",
       "description": "A collection of sorting algorithms implemented in JS",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 274,
+      "forks": 45,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "MobSF/Mobile-Security-Framework-MobSF",
       "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
       "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20252,
+      "forks": 3571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "denysdovhan/wtfjs",
       "url": "https://github.com/denysdovhan/wtfjs",
       "description": "🤪 A list of funny and tricky JavaScript examples",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 37609,
+      "forks": 2670,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "clean-code-javascript",
       "full_name": "ryanmcdermott/clean-code-javascript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-      "description": "🛁 Clean Code concepts adapted for JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Clean Code concepts adapted for JavaScript",
+      "language": "JavaScript",
+      "stars": 94283,
+      "forks": 12502,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "invertase/react-native-firebase",
       "url": "https://github.com/invertase/react-native-firebase",
       "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 12206,
+      "forks": 2312,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-02/2023-02-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:37Z"
     }
   ]
 }

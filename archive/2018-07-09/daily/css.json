@@ -49,13 +49,15 @@
       "url": "https://github.com/jgthms/bulma",
       "description": "Modern CSS framework based on Flexbox",
       "language": "CSS",
-      "stars": 28184,
-      "forks": 2215,
+      "stars": 50059,
+      "forks": 3913,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 5,
@@ -81,13 +83,15 @@
       "url": "https://github.com/necolas/normalize.css",
       "description": "A modern alternative to CSS resets",
       "language": "CSS",
-      "stars": 31639,
-      "forks": 6425,
+      "stars": 53786,
+      "forks": 10489,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 7,
@@ -160,14 +164,16 @@
       "full_name": "oldj/SwitchHosts",
       "url": "https://github.com/oldj/SwitchHosts",
       "description": "Switch hosts quickly!",
-      "language": "CSS",
-      "stars": 4903,
-      "forks": 742,
+      "language": "TypeScript",
+      "stars": 26186,
+      "forks": 2617,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 12,
@@ -176,14 +182,16 @@
       "full_name": "framework7io/framework7",
       "url": "https://github.com/framework7io/framework7",
       "description": "Full featured HTML framework for building iOS & Android apps",
-      "language": "CSS",
-      "stars": 12628,
-      "forks": 2716,
+      "language": "JavaScript",
+      "stars": 18587,
+      "forks": 3219,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 13,
@@ -192,14 +200,16 @@
       "full_name": "sahat/hackathon-starter",
       "url": "https://github.com/sahat/hackathon-starter",
       "description": "A boilerplate for Node.js web applications",
-      "language": "CSS",
-      "stars": 24002,
-      "forks": 4515,
+      "language": "JavaScript",
+      "stars": 35185,
+      "forks": 8193,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 14,
@@ -223,15 +233,17 @@
       "repo_name": "my-mac-os",
       "full_name": "nikitavoloboev/my-mac-os",
       "url": "https://github.com/nikitavoloboev/my-mac-os",
-      "description": "List of applications and tools that make my macOS experience even more amazing",
-      "language": "CSS",
-      "stars": 10449,
-      "forks": 410,
+      "description": "Everything you need to move your project faster",
+      "language": "Rust",
+      "stars": 21174,
+      "forks": 842,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 16,
@@ -256,14 +268,16 @@
       "full_name": "uikit/uikit",
       "url": "https://github.com/uikit/uikit",
       "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
-      "language": "CSS",
-      "stars": 12739,
-      "forks": 1961,
+      "language": "HTML",
+      "stars": 18539,
+      "forks": 2313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 18,
@@ -279,7 +293,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 19,
@@ -288,14 +304,16 @@
       "full_name": "tailwindcss/tailwindcss",
       "url": "https://github.com/tailwindcss/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "CSS",
-      "stars": 5595,
-      "forks": 282,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 20,
@@ -303,15 +321,17 @@
       "repo_name": "GitHub-Dark",
       "full_name": "StylishThemes/GitHub-Dark",
       "url": "https://github.com/StylishThemes/GitHub-Dark",
-      "description": "Dark GitHub style",
+      "description": ":octocat: Dark GitHub style",
       "language": "CSS",
-      "stars": 2915,
-      "forks": 235,
+      "stars": 9923,
+      "forks": 646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 21,
@@ -335,15 +355,17 @@
       "repo_name": "jekyll-TeXt-theme",
       "full_name": "kitian616/jekyll-TeXt-theme",
       "url": "https://github.com/kitian616/jekyll-TeXt-theme",
-      "description": "💎 A customizable Jekyll theme for blog or site.",
-      "language": "CSS",
-      "stars": 240,
-      "forks": 266,
+      "description": "💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.",
+      "language": "SCSS",
+      "stars": 3330,
+      "forks": 2688,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 23,

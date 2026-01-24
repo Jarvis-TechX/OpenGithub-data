@@ -16,14 +16,16 @@
       "full_name": "pmndrs/racing-game",
       "url": "https://github.com/pmndrs/racing-game",
       "description": "🏎 Open source racing game developed by everyone willing",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2192,
+      "forks": 190,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "twbs/bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "MDX",
+      "stars": 173937,
+      "forks": 79164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "Advanced-Frontend/Daily-Interview-Question",
       "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
       "description": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27509,
+      "forks": 3270,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "plotly/plotly.js",
       "url": "https://github.com/plotly/plotly.js",
       "description": "Open-source JavaScript charting library behind Plotly and Dash",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18055,
+      "forks": 1970,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "rahuldkjain/github-profile-readme-generator",
       "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
       "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 23946,
+      "forks": 8223,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "GoogleChrome/lighthouse",
       "url": "https://github.com/GoogleChrome/lighthouse",
       "description": "Automated auditing, performance metrics, and best practices for the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 29752,
+      "forks": 9637,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "venom",
       "full_name": "orkestral/venom",
       "url": "https://github.com/orkestral/venom",
-      "description": "Venom is the most complete javascript library for Whatsapp, 100% Open Source.",
+      "description": "🚀 Venom by VYNECT™ — Now part of ERA CONNECT™  Venom is now part of the ERA CONNECT™ ecosystem by VYNECT™, offering a freemium solution for ethical WhatsApp automation.  Automate chats, simulate interactions, and send or receive media — with free usage limits and the option to upgrade to ERA CONNECT PRO for advanced features and stability.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 6559,
+      "forks": 1351,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "namndwebdev/tang-crush",
       "url": "https://github.com/namndwebdev/tang-crush",
       "description": "source code tỏ tình crush",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195,
+      "forks": 3554,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "docmirror/dev-sidecar",
       "url": "https://github.com/docmirror/dev-sidecar",
       "description": "开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20802,
+      "forks": 2560,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "react-native",
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
-      "description": "A framework for building native apps with React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": 125168,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 14,
@@ -231,7 +257,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "Leaflet",
       "full_name": "Leaflet/Leaflet",
       "url": "https://github.com/Leaflet/Leaflet",
-      "description": "🍃 JavaScript library for mobile-friendly interactive maps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+      "language": "JavaScript",
+      "stars": 44371,
+      "forks": 6071,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "airbnb/javascript",
       "url": "https://github.com/airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 148051,
+      "forks": 26770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "handsontable",
       "full_name": "handsontable/handsontable",
       "url": "https://github.com/handsontable/handsontable",
-      "description": "JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡",
+      "language": "JavaScript",
+      "stars": 21754,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "x-render",
       "full_name": "alibaba/x-render",
       "url": "https://github.com/alibaba/x-render",
-      "description": "🚴‍♀️ 阿里飞猪 - 很易用的中后台「表单 / 表格 / 图表」解决方案",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚴‍♀️ Very easy to use process form table chart solution.",
+      "language": "TypeScript",
+      "stars": 7817,
+      "forks": 1084,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "openreplay",
       "full_name": "openreplay/openreplay",
       "url": "https://github.com/openreplay/openreplay",
-      "description": "📺 OpenReplay is developer-friendly, open-source session replay.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.",
+      "language": "TypeScript",
+      "stars": 11682,
+      "forks": 683,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "lerna",
       "full_name": "lerna/lerna",
       "url": "https://github.com/lerna/lerna",
-      "description": "🐉 A tool for managing JavaScript projects with multiple packages.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.",
+      "language": "TypeScript",
+      "stars": 36066,
+      "forks": 2276,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "chilllab/react-nice-avatar",
       "url": "https://github.com/chilllab/react-nice-avatar",
       "description": "react library for generating avatar",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1205,
+      "forks": 111,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "ccxt",
       "full_name": "ccxt/ccxt",
       "url": "https://github.com/ccxt/ccxt",
-      "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go ",
+      "language": "Python",
+      "stars": 40658,
+      "forks": 8481,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-05.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     }
   ]
 }

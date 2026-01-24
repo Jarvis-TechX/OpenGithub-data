@@ -15,15 +15,17 @@
       "repo_name": "lessgo",
       "full_name": "lessgo/lessgo",
       "url": "https://github.com/lessgo/lessgo",
-      "description": "A simple, stable, efficient and flexible web framework.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Lessgo 是一款简单、稳定、高效、灵活的 golang web 开发框架，支持动态路由、自动化API测试文档、热编译、热更新等，实现前后端分离、系统与业务分离，完美兼容MVC与MVVC等多种开发模式，非常利于企业级应用与API接口的开发。[A simple, stable, efficient and flexible web framework.]",
+      "language": "Go",
+      "stars": 36,
+      "forks": 16,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md"
+      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:43Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "tdewolff/minify",
       "url": "https://github.com/tdewolff/minify",
       "description": "Go minifiers for web formats",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 4051,
+      "forks": 231,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md"
+      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:43Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "FiloSottile/vendorcheck",
       "url": "https://github.com/FiloSottile/vendorcheck",
       "description": "Check that all your Go dependencies are properly vendored",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 177,
+      "forks": 5,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md"
+      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:43Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "cfssl",
       "full_name": "cloudflare/cfssl",
       "url": "https://github.com/cloudflare/cfssl",
-      "description": "CFSSL: CloudFlare's PKI and TLS toolkit",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "CFSSL: Cloudflare's PKI and TLS toolkit",
+      "language": "Go",
+      "stars": 9343,
+      "forks": 1144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md"
+      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:43Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md"
+      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:43Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "goss",
       "full_name": "aelsabbahy/goss",
       "url": "https://github.com/aelsabbahy/goss",
-      "description": "Quick and Easy server validation",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Quick and Easy server testing/validation",
+      "language": "Go",
+      "stars": 5859,
+      "forks": 490,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md"
+      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:43Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "armhold/gocarina",
       "url": "https://github.com/armhold/gocarina",
       "description": "simple Optical Character Recognition in Go",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 125,
+      "forks": 6,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md"
+      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:43Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "log",
       "full_name": "go-playground/log",
       "url": "https://github.com/go-playground/log",
-      "description": "Simple, configurable and scalable Structured Logging for Go.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": ":green_book: Simple, configurable and scalable Structured Logging for Go.",
+      "language": "Go",
+      "stars": 295,
+      "forks": 19,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md"
+      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:43Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "influxdata/influxdb",
       "url": "https://github.com/influxdata/influxdb",
       "description": "Scalable datastore for metrics, events, and real-time analytics",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 31135,
+      "forks": 3689,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md"
+      "source_path": "/tmp/trending_archive/2016/2016-04/2016-04-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:43Z"
     }
   ]
 }

@@ -17,13 +17,15 @@
       "url": "https://github.com/ry/deno",
       "description": "A secure TypeScript runtime on V8",
       "language": "TypeScript",
-      "stars": 9089,
-      "forks": 351,
+      "stars": 446,
+      "forks": 32,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 2,
@@ -65,13 +67,15 @@
       "url": "https://github.com/piotrwitek/react-redux-typescript-guide",
       "description": "The complete guide to static typing in \"React & Redux\" apps using TypeScript",
       "language": "TypeScript",
-      "stars": 2092,
-      "forks": 120,
+      "stars": 13334,
+      "forks": 1085,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 5,
@@ -79,15 +83,17 @@
       "repo_name": "ant-design",
       "full_name": "ant-design/ant-design",
       "url": "https://github.com/ant-design/ant-design",
-      "description": "🐜 A UI Design Language",
+      "description": "An enterprise-class UI design language and React UI library",
       "language": "TypeScript",
-      "stars": 29123,
-      "forks": 8846,
+      "stars": 97344,
+      "forks": 54426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 6,
@@ -97,13 +103,15 @@
       "url": "https://github.com/Microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
-      "stars": 34743,
-      "forks": 5036,
+      "stars": 107533,
+      "forks": 13213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 7,
@@ -111,15 +119,17 @@
       "repo_name": "pnpm",
       "full_name": "pnpm/pnpm",
       "url": "https://github.com/pnpm/pnpm",
-      "description": "📦🚀 Fast, disk space efficient package manager",
+      "description": "Fast, disk space efficient package manager",
       "language": "TypeScript",
-      "stars": 3672,
-      "forks": 97,
+      "stars": 33783,
+      "forks": 1294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 8,
@@ -145,13 +155,15 @@
       "url": "https://github.com/alangpierce/sucrase",
       "description": "Super-fast alternative to Babel for when you can target modern JS runtimes",
       "language": "TypeScript",
-      "stars": 554,
-      "forks": 13,
+      "stars": 5842,
+      "forks": 152,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 10,
@@ -159,15 +171,17 @@
       "repo_name": "angular",
       "full_name": "angular/angular",
       "url": "https://github.com/angular/angular",
-      "description": "One framework. Mobile & desktop.",
+      "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
-      "stars": 36822,
-      "forks": 8911,
+      "stars": 99737,
+      "forks": 27024,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 11,
@@ -177,13 +191,15 @@
       "url": "https://github.com/ReactiveX/rxjs",
       "description": "A reactive programming library for JavaScript",
       "language": "TypeScript",
-      "stars": 12880,
-      "forks": 1262,
+      "stars": 31607,
+      "forks": 3002,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 12,
@@ -209,13 +225,15 @@
       "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
       "description": "The repository for high quality TypeScript type definitions.",
       "language": "TypeScript",
-      "stars": 15817,
-      "forks": 13191,
+      "stars": 50847,
+      "forks": 30553,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 14,
@@ -223,15 +241,17 @@
       "repo_name": "node-typescript-support",
       "full_name": "AviVahl/node-typescript-support",
       "url": "https://github.com/AviVahl/node-typescript-support",
-      "description": "TypeScript support for Node.js",
+      "description": "TypeScript Tools for Node.js",
       "language": "TypeScript",
-      "stars": 78,
-      "forks": 0,
+      "stars": 169,
+      "forks": 5,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 15,
@@ -255,15 +275,17 @@
       "repo_name": "typeorm",
       "full_name": "typeorm/typeorm",
       "url": "https://github.com/typeorm/typeorm",
-      "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+      "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
       "language": "TypeScript",
-      "stars": 6581,
-      "forks": 698,
+      "stars": 36263,
+      "forks": 6480,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 17,
@@ -271,15 +293,17 @@
       "repo_name": "ngx-admin",
       "full_name": "akveo/ngx-admin",
       "url": "https://github.com/akveo/ngx-admin",
-      "description": "Admin dashboard template based on Angular 6+, Bootstrap 4 (previously known as ng2-admin)",
+      "description": "Customizable admin dashboard template based on Angular 10+",
       "language": "TypeScript",
-      "stars": 11744,
-      "forks": 3970,
+      "stars": 25925,
+      "forks": 7967,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 18,
@@ -287,15 +311,17 @@
       "repo_name": "formik",
       "full_name": "jaredpalmer/formik",
       "url": "https://github.com/jaredpalmer/formik",
-      "description": "Build forms in React, without the tears 😭",
+      "description": "Build forms in React, without the tears 😭 ",
       "language": "TypeScript",
-      "stars": 6925,
-      "forks": 308,
+      "stars": 34376,
+      "forks": 2794,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 19,
@@ -303,15 +329,17 @@
       "repo_name": "nest",
       "full_name": "nestjs/nest",
       "url": "https://github.com/nestjs/nest",
-      "description": "A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) heavily inspired by Angular 😻🚀",
+      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
       "language": "TypeScript",
-      "stars": 6292,
-      "forks": 387,
+      "stars": 74315,
+      "forks": 8175,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 20,
@@ -353,13 +381,15 @@
       "url": "https://github.com/wasdk/WebAssemblyStudio",
       "description": "Learn, Teach, Work and Play in the WebAssembly Studio",
       "language": "TypeScript",
-      "stars": 1564,
-      "forks": 105,
+      "stars": 2943,
+      "forks": 279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 23,
@@ -367,15 +397,17 @@
       "repo_name": "desktop",
       "full_name": "desktop/desktop",
       "url": "https://github.com/desktop/desktop",
-      "description": "Simple collaboration from your desktop",
+      "description": "Focus on what matters instead of fighting with Git.",
       "language": "TypeScript",
-      "stars": 5224,
-      "forks": 2010,
+      "stars": 21139,
+      "forks": 10106,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 24,
@@ -399,15 +431,17 @@
       "repo_name": "apollo-server",
       "full_name": "apollographql/apollo-server",
       "url": "https://github.com/apollographql/apollo-server",
-      "description": "🌍 GraphQL server for Express, Connect, Hapi, Koa and more",
+      "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.",
       "language": "TypeScript",
-      "stars": 4049,
-      "forks": 409,
+      "stars": 13944,
+      "forks": 2016,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     }
   ]
 }

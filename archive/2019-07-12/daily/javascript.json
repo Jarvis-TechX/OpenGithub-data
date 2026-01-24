@@ -15,15 +15,17 @@
       "repo_name": "Daily-Interview-Question",
       "full_name": "Advanced-Frontend/Daily-Interview-Question",
       "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
-      "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+      "language": "JavaScript",
+      "stars": 27509,
+      "forks": 3270,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "apple/swift-evolution",
       "url": "https://github.com/apple/swift-evolution",
       "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Markdown",
+      "stars": 15784,
+      "forks": 2463,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "vCards",
       "full_name": "metowolf/vCards",
       "url": "https://github.com/metowolf/vCards",
-      "description": "📡️ vCards 中国黄页 - 优化 iOS 来电、信息界面体验",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验",
+      "language": "JavaScript",
+      "stars": 6125,
+      "forks": 308,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "google/site-kit-wp",
       "url": "https://github.com/google/site-kit-wp",
       "description": "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1344,
+      "forks": 328,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "nondanee/UnblockNeteaseMusic",
       "url": "https://github.com/nondanee/UnblockNeteaseMusic",
       "description": "Revive unavailable songs for Netease Cloud Music",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17474,
+      "forks": 2482,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "facebook/docusaurus",
       "url": "https://github.com/facebook/docusaurus",
       "description": "Easy to maintain open source documentation websites.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 63505,
+      "forks": 9676,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "js-xlsx",
       "full_name": "SheetJS/js-xlsx",
       "url": "https://github.com/SheetJS/js-xlsx",
-      "description": "📗 SheetJS Community Edition -- Spreadsheet Toolkit",
+      "description": "📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 36146,
+      "forks": 7984,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "lodash/lodash",
       "url": "https://github.com/lodash/lodash",
       "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 61594,
+      "forks": 7117,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "material-components/material-components-web",
       "url": "https://github.com/material-components/material-components-web",
       "description": "Modular and customizable Material Design UI components for the web",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 17106,
+      "forks": 2140,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "find-a-mentor",
       "full_name": "Coding-Coach/find-a-mentor",
       "url": "https://github.com/Coding-Coach/find-a-mentor",
-      "description": "Coding Coach alpha website",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Coding Coach mentors website",
+      "language": "TypeScript",
+      "stars": 753,
+      "forks": 427,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "cypress-io/cypress-example-recipes",
       "url": "https://github.com/cypress-io/cypress-example-recipes",
       "description": "Various recipes for testing common scenarios with Cypress",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3485,
+      "forks": 1343,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "mapbox/mapbox-gl-js",
       "url": "https://github.com/mapbox/mapbox-gl-js",
       "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 12104,
+      "forks": 2318,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "appium",
       "full_name": "appium/appium",
       "url": "https://github.com/appium/appium",
-      "description": "📱 Automation for iOS, Android, and Windows Apps.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
+      "language": "JavaScript",
+      "stars": 21092,
+      "forks": 6276,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "wix/Detox",
       "url": "https://github.com/wix/Detox",
       "description": "Gray box end-to-end testing and automation framework for mobile apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11782,
+      "forks": 1919,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "d3",
       "full_name": "d3/d3",
       "url": "https://github.com/d3/d3",
-      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+      "language": "Shell",
+      "stars": 112204,
+      "forks": 22835,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "airbnb/enzyme",
       "url": "https://github.com/airbnb/enzyme",
       "description": "JavaScript Testing utilities for React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19893,
+      "forks": 1988,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "react",
       "full_name": "facebook/react",
       "url": "https://github.com/facebook/react",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 242462,
+      "forks": 50449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "exceljs/exceljs",
       "url": "https://github.com/exceljs/exceljs",
       "description": "Excel Workbook Manager",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 15079,
+      "forks": 1945,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "generator-jhipster",
       "full_name": "jhipster/generator-jhipster",
       "url": "https://github.com/jhipster/generator-jhipster",
-      "description": "Open Source application generator for creating Spring Boot + Angular/React projects in seconds!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+      "language": "TypeScript",
+      "stars": 22323,
+      "forks": 4139,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "awx",
       "full_name": "ansible/awx",
       "url": "https://github.com/ansible/awx",
-      "description": "AWX Project",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
+      "language": "Python",
+      "stars": 15196,
+      "forks": 3603,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "aws-samples/aws-serverless-workshops",
       "url": "https://github.com/aws-samples/aws-serverless-workshops",
       "description": "Code and walkthrough labs to set up serverless applications for Wild Rydes workshops",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4263,
+      "forks": 2638,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 25,
@@ -399,15 +447,17 @@
       "repo_name": "aws-serverless-airline-booking",
       "full_name": "aws-samples/aws-serverless-airline-booking",
       "url": "https://github.com/aws-samples/aws-serverless-airline-booking",
-      "description": "Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking, Flight Preferences and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of July.",
+      "description": "Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 2311,
+      "forks": 1338,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

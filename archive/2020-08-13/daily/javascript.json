@@ -15,15 +15,17 @@
       "repo_name": "clean-code-javascript",
       "full_name": "ryanmcdermott/clean-code-javascript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-      "description": "🛁 Clean Code concepts adapted for JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Clean Code concepts adapted for JavaScript",
+      "language": "JavaScript",
+      "stars": 94283,
+      "forks": 12502,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "react",
       "full_name": "facebook/react",
       "url": "https://github.com/facebook/react",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 242462,
+      "forks": 50449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "mozilla/pdf.js",
       "url": "https://github.com/mozilla/pdf.js",
       "description": "PDF Reader in JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 52711,
+      "forks": 10571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "chartjs/Chart.js",
       "url": "https://github.com/chartjs/Chart.js",
       "description": "Simple HTML5 Charts using the <canvas> tag",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 67045,
+      "forks": 11990,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "da2k/curso-javascript-ninja",
       "url": "https://github.com/da2k/curso-javascript-ninja",
       "description": "Curso Javascript Ninja",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2375,
+      "forks": 2913,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "tailwindcss.com",
       "full_name": "tailwindlabs/tailwindcss.com",
       "url": "https://github.com/tailwindlabs/tailwindcss.com",
-      "description": "* [https://github.com/sampotts/plyr](sampotts/plyr) A simple HTML5, YouTube and Vimeo player",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Tailwind CSS documentation website.",
+      "language": "MDX",
+      "stars": 75,
+      "forks": 30,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "gatsby",
       "full_name": "gatsbyjs/gatsby",
       "url": "https://github.com/gatsbyjs/gatsby",
-      "description": "Build blazing fast, modern apps and websites with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The best React-based framework with performance, scalability and security built in.",
+      "language": "JavaScript",
+      "stars": 55973,
+      "forks": 10251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "webpack/webpack",
       "url": "https://github.com/webpack/webpack",
       "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 65921,
+      "forks": 9222,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "frontend-collective/react-sortable-tree",
       "url": "https://github.com/frontend-collective/react-sortable-tree",
       "description": "Drag-and-drop sortable component for nested data and hierarchies",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4976,
+      "forks": 920,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "ashutosh1919/masterPortfolio",
       "url": "https://github.com/ashutosh1919/masterPortfolio",
       "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4112,
+      "forks": 1702,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "kkthxbye-code/csgo_bugs",
       "url": "https://github.com/kkthxbye-code/csgo_bugs",
       "description": "Random CSGO stuff",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 213,
+      "forks": 269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "in-quiz-questions",
       "full_name": "Ebazhanov/in-quiz-questions",
       "url": "https://github.com/Ebazhanov/in-quiz-questions",
-      "description": "Skill Linkedin quiz (Assessment) answers and questions (aws-lambda, rest-api, javascript, react, git, html, jquery, maven, mongodb, xml, java, css, python ...) ответы на квиз",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers ",
+      "language": "Python",
+      "stars": 28655,
+      "forks": 13101,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "artf/grapesjs",
       "url": "https://github.com/artf/grapesjs",
       "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 25418,
+      "forks": 4535,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "mermaid",
       "full_name": "mermaid-js/mermaid",
       "url": "https://github.com/mermaid-js/mermaid",
-      "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+      "language": "TypeScript",
+      "stars": 85533,
+      "forks": 8533,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "facebook/create-react-app",
       "url": "https://github.com/facebook/create-react-app",
       "description": "Set up a modern web app by running one command.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 103973,
+      "forks": 27144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "website",
       "full_name": "CodingTrain/website",
       "url": "https://github.com/CodingTrain/website",
-      "description": "The train engine powering the Coding Train website",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Archive of the Coding Train website (first version)",
+      "language": "JavaScript",
+      "stars": 5747,
+      "forks": 5527,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "knex",
       "full_name": "knex/knex",
       "url": "https://github.com/knex/knex",
-      "description": "A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.",
+      "language": "JavaScript",
+      "stars": 20185,
+      "forks": 2184,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "vue",
       "full_name": "vuejs/vue",
       "url": "https://github.com/vuejs/vue",
-      "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+      "language": "TypeScript",
+      "stars": 209879,
+      "forks": 33904,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "FE-Interview",
       "full_name": "lgwebdream/FE-Interview",
       "url": "https://github.com/lgwebdream/FE-Interview",
-      "description": "前端面试必备题库，1000+面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器",
+      "language": "JavaScript",
+      "stars": 7174,
+      "forks": 894,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     }
   ]
 }

@@ -15,15 +15,17 @@
       "repo_name": "jina",
       "full_name": "jina-ai/jina",
       "url": "https://github.com/jina-ai/jina",
-      "description": "An easier way to build neural search on the cloud",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "☁️ Build multimodal AI applications with cloud-native stack",
+      "language": "Python",
+      "stars": 21828,
+      "forks": 2238,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "SuMaiKaDe/bot",
       "url": "https://github.com/SuMaiKaDe/bot",
       "description": "* [https://github.com/whittlem/pycryptobot](whittlem/pycryptobot) Python Crypto Bot",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 383,
+      "forks": 163,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "ytdl-org/youtube-dl",
       "url": "https://github.com/ytdl-org/youtube-dl",
       "description": "Command-line program to download videos from YouTube.com and other video sites",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 139543,
+      "forks": 10588,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "jackfrued/Python-100-Days",
       "url": "https://github.com/jackfrued/Python-100-Days",
       "description": "Python - 100天从新手到大师",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 177930,
+      "forks": 55296,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "StevenBlack/hosts",
       "url": "https://github.com/StevenBlack/hosts",
       "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 29692,
+      "forks": 2383,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "udacity/nd064_course_1",
       "url": "https://github.com/udacity/nd064_course_1",
       "description": "* [https://github.com/GamestonkTerminal/GamestonkTerminal](GamestonkTerminal/GamestonkTerminal) The next best thing after Bloomberg Terminal",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 248,
+      "forks": 1533,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "tstewart161/Reddit_Sentiment_Trader",
       "url": "https://github.com/tstewart161/Reddit_Sentiment_Trader",
       "description": "* [https://github.com/Asabeneh/30-Days-Of-Python](Asabeneh/30-Days-Of-Python) 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 463,
+      "forks": 80,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "STMSolutions/boobsnail",
       "url": "https://github.com/STMSolutions/boobsnail",
       "description": "BoobSnail allows generating Excel 4.0 XLM macro. Its purpose is to support the RedTeam and BlueTeam in XLM macro generation.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 258,
+      "forks": 52,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "Ultimaker/Cura",
       "url": "https://github.com/Ultimaker/Cura",
       "description": "3D printer / slicing GUI built on top of the Uranium framework",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6864,
+      "forks": 2158,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "tinygrad",
       "full_name": "geohot/tinygrad",
       "url": "https://github.com/geohot/tinygrad",
-      "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️ ",
+      "language": "Python",
+      "stars": 31203,
+      "forks": 3842,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "Gallopsled/pwntools",
       "url": "https://github.com/Gallopsled/pwntools",
       "description": "CTF framework and exploit development library",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 13197,
+      "forks": 1809,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "CorentinJ/Real-Time-Voice-Cloning",
       "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
       "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 59258,
+      "forks": 9412,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "CyberPunkMetalHead/Binance-volatility-trading-bot",
       "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
       "description": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3490,
+      "forks": 769,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "sphinx",
       "full_name": "sphinx-doc/sphinx",
       "url": "https://github.com/sphinx-doc/sphinx",
-      "description": "Main repository for the Sphinx documentation builder",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Sphinx documentation generator",
+      "language": "Python",
+      "stars": 7627,
+      "forks": 2369,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "oppia/oppia",
       "url": "https://github.com/oppia/oppia",
       "description": "A free, online learning platform to make quality education accessible for all.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6448,
+      "forks": 5227,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "NVlabs/stylegan2",
       "url": "https://github.com/NVlabs/stylegan2",
       "description": "StyleGAN2 - Official TensorFlow Implementation",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 11186,
+      "forks": 2523,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "LibreTranslate",
       "full_name": "LibreTranslate/LibreTranslate",
       "url": "https://github.com/LibreTranslate/LibreTranslate",
-      "description": "Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "language": "Python",
+      "stars": 13598,
+      "forks": 1410,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "bitcoin/bips",
       "url": "https://github.com/bitcoin/bips",
       "description": "Bitcoin Improvement Proposals",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Wikitext",
+      "stars": 10513,
+      "forks": 5875,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "devops-essentials",
       "full_name": "codeaprendiz/devops-essentials",
       "url": "https://github.com/codeaprendiz/devops-essentials",
-      "description": "DevOps Essentials | terraform | kubernetes | linux | nginx | monitoring | docker | docker-compose",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every task has an associated objective that encompasses an underlying concept. Concepts including CloudProviders, Containers, ContainersOrchestration, Databases, InfrastructureAsCode, Interview, VersionControl etc in progress",
+      "language": "HCL",
+      "stars": 1573,
+      "forks": 254,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "alfonsrv/impf-botpy",
       "url": "https://github.com/alfonsrv/impf-botpy",
       "description": "Impf Bot.py 🐍⚡ – Automatisierung für den Corona ImpfterminService Bot",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 242,
+      "forks": 46,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     }
   ]
 }

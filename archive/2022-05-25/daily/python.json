@@ -16,14 +16,16 @@
       "full_name": "WeChat-Big-Data-Challenge-2022/challenge",
       "url": "https://github.com/WeChat-Big-Data-Challenge-2022/challenge",
       "description": "微信大赛baseline",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 241,
+      "forks": 60,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 393099,
+      "forks": 42072,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "ivy",
       "full_name": "unifyai/ivy",
       "url": "https://github.com/unifyai/ivy",
-      "description": "The Unified Machine Learning Framework",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Convert Machine Learning Code Between Frameworks",
+      "language": "Python",
+      "stars": 14222,
+      "forks": 5561,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 5,
@@ -81,13 +89,15 @@
       "url": "https://github.com/ml-tooling/best-of-ml-python",
       "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
       "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "stars": 23088,
+      "forks": 3075,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "apachecn/ailearning",
       "url": "https://github.com/apachecn/ailearning",
       "description": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 41981,
+      "forks": 11613,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "pythonstock/stock",
       "url": "https://github.com/pythonstock/stock",
       "description": "stock，股票系统。使用python进行开发。",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 7585,
+      "forks": 2352,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "Rongjiehuang/FastDiff",
       "url": "https://github.com/Rongjiehuang/FastDiff",
       "description": "PyTorch Implementation of FastDiff (IJCAI'22)",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 415,
+      "forks": 60,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "rembg",
       "full_name": "danielgatis/rembg",
       "url": "https://github.com/danielgatis/rembg",
-      "description": "Rembg is a tool to remove images background.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Rembg is a tool to remove images background",
+      "language": "Python",
+      "stars": 21623,
+      "forks": 2215,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 10,
@@ -176,14 +194,16 @@
       "full_name": "petercorke/robotics-toolbox-python",
       "url": "https://github.com/petercorke/robotics-toolbox-python",
       "description": "Robotics Toolbox for Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2929,
+      "forks": 551,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 12,
@@ -192,14 +212,16 @@
       "full_name": "optuna/optuna",
       "url": "https://github.com/optuna/optuna",
       "description": "A hyperparameter optimization framework",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 13420,
+      "forks": 1233,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 13,
@@ -208,14 +230,16 @@
       "full_name": "Python-World/python-mini-projects",
       "url": "https://github.com/Python-World/python-mini-projects",
       "description": "A collection of simple python mini projects to enhance your python skills",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 17672,
+      "forks": 5852,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 14,
@@ -224,14 +248,16 @@
       "full_name": "python/typeshed",
       "url": "https://github.com/python/typeshed",
       "description": "Collection of library stubs for Python, with static types",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4988,
+      "forks": 1955,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 15,
@@ -239,15 +265,17 @@
       "repo_name": "MalwareDatabase",
       "full_name": "Endermanch/MalwareDatabase",
       "url": "https://github.com/Endermanch/MalwareDatabase",
-      "description": "This repository is one of a few malware collections on the GitHub.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "One of a few malware collections on the GitHub.",
+      "language": "Python",
+      "stars": 2732,
+      "forks": 581,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 16,
@@ -256,14 +284,16 @@
       "full_name": "MIC-DKFZ/nnUNet",
       "url": "https://github.com/MIC-DKFZ/nnUNet",
       "description": "* [https://github.com/scipy/scipy](scipy/scipy) SciPy library main repository",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 7944,
+      "forks": 2286,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 17,
@@ -272,14 +302,16 @@
       "full_name": "pre-commit/pre-commit-hooks",
       "url": "https://github.com/pre-commit/pre-commit-hooks",
       "description": "Some out-of-the-box hooks for pre-commit",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6318,
+      "forks": 775,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 18,
@@ -288,14 +320,16 @@
       "full_name": "3b1b/manim",
       "url": "https://github.com/3b1b/manim",
       "description": "Animation engine for explanatory math videos",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 83890,
+      "forks": 7077,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 19,
@@ -303,15 +337,17 @@
       "repo_name": "core",
       "full_name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 84357,
+      "forks": 36583,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 20,
@@ -327,7 +363,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 21,
@@ -335,15 +373,17 @@
       "repo_name": "pytorch-lightning",
       "full_name": "PyTorchLightning/pytorch-lightning",
       "url": "https://github.com/PyTorchLightning/pytorch-lightning",
-      "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+      "language": "Python",
+      "stars": 30772,
+      "forks": 3655,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 22,
@@ -359,7 +399,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:31Z"
     }
   ]
 }

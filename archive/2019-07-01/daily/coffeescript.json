@@ -16,14 +16,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-01.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-01.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "alexkirsz/dispatch-proxy",
       "url": "https://github.com/alexkirsz/dispatch-proxy",
       "description": "Combine internet connections, increase your download speed",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3487,
+      "forks": 244,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-01.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

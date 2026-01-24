@@ -16,14 +16,16 @@
       "full_name": "codecombat/codecombat",
       "url": "https://github.com/codecombat/codecombat",
       "description": "Game for learning how to code.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8407,
+      "forks": 4168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "hubot-study",
       "full_name": "progedu/hubot-study",
       "url": "https://github.com/progedu/hubot-study",
-      "description": "36 yo hubot  (ISC License)",
-      "language": "coffeescript",
+      "description": "入門コースの3章6節の yo hubot 済リポジトリ (ISC License)",
+      "language": "CoffeeScript",
       "stars": 0,
-      "forks": 0,
+      "forks": 34,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "intro-curriculum-3006",
       "full_name": "progedu/intro-curriculum-3006",
       "url": "https://github.com/progedu/intro-curriculum-3006",
-      "description": "36 (ISC License)",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "入門コースの3章6節の練習 (ISC License)",
+      "language": "CoffeeScript",
+      "stars": 1,
+      "forks": 1875,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     }
   ]
 }

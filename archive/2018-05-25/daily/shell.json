@@ -95,15 +95,17 @@
       "repo_name": "rust_wasm_template",
       "full_name": "rustwasm/rust_wasm_template",
       "url": "https://github.com/rustwasm/rust_wasm_template",
-      "description": "A template for jump-starting Rust and WebAssembly projects!",
+      "description": "Deprecated in favor of rustwasm/wasm-pack-template or rustwasm/rust-webpack-template",
       "language": "Shell",
-      "stars": 75,
-      "forks": 0,
+      "stars": 102,
+      "forks": 5,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 7,
@@ -111,15 +113,17 @@
       "repo_name": "SpringCloudLearning",
       "full_name": "forezp/SpringCloudLearning",
       "url": "https://github.com/forezp/SpringCloudLearning",
-      "description": "project for spring cloud learning",
-      "language": "Shell",
-      "stars": 2467,
-      "forks": 1665,
+      "description": "《史上最简单的Spring Cloud教程源码》",
+      "language": "Java",
+      "stars": 17987,
+      "forks": 8010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 8,
@@ -209,13 +213,15 @@
       "url": "https://github.com/source-foundry/Hack",
       "description": "A typeface designed for source code",
       "language": "Shell",
-      "stars": 11116,
-      "forks": 382,
+      "stars": 17112,
+      "forks": 656,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/05/2018-05-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 14,

@@ -16,14 +16,16 @@
       "full_name": "axstin/rbxfpsunlocker",
       "url": "https://github.com/axstin/rbxfpsunlocker",
       "description": "FPS Unlocker for Roblox",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2116,
+      "forks": 862,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "topjohnwu/Magisk",
       "url": "https://github.com/topjohnwu/Magisk",
       "description": "The Magic Mask for Android",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 58303,
+      "forks": 16496,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "wondertrader/wondertrader",
       "url": "https://github.com/wondertrader/wondertrader",
       "description": "WonderTrader——量化研发交易一站式框架",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5803,
+      "forks": 1112,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70908,
+      "forks": 11486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87749,
+      "forks": 38772,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "NVIDIA/FasterTransformer",
       "url": "https://github.com/NVIDIA/FasterTransformer",
       "description": "Transformer related optimization, including BERT, GPT",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6387,
+      "forks": 928,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "WLED",
       "full_name": "Aircoookie/WLED",
       "url": "https://github.com/Aircoookie/WLED",
-      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+      "language": "C++",
+      "stars": 17386,
+      "forks": 3976,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "apache/brpc",
       "url": "https://github.com/apache/brpc",
       "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17451,
+      "forks": 4092,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "ChatGLM-MNN",
       "full_name": "wangzhaode/ChatGLM-MNN",
       "url": "https://github.com/wangzhaode/ChatGLM-MNN",
-      "description": "Pure C++, Easy Deploy ChatGLM-6B.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "llm deploy project based mnn. This project has merged into MNN.",
+      "language": "C++",
+      "stars": 1615,
+      "forks": 175,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "drogonframework/drogon",
       "url": "https://github.com/drogonframework/drogon",
       "description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13426,
+      "forks": 1293,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "ApolloAuto/apollo",
       "url": "https://github.com/ApolloAuto/apollo",
       "description": "An open autonomous driving platform",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 26388,
+      "forks": 9957,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "Oneflow-Inc/oneflow",
       "url": "https://github.com/Oneflow-Inc/oneflow",
       "description": "OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9388,
+      "forks": 1013,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "diasurgical/devilutionX",
       "url": "https://github.com/diasurgical/devilutionX",
       "description": "Diablo build for modern operating systems",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9280,
+      "forks": 945,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "tdlib/td",
       "url": "https://github.com/tdlib/td",
       "description": "Cross-platform library for building Telegram clients",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 8424,
+      "forks": 1897,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "PaddlePaddle/Paddle",
       "url": "https://github.com/PaddlePaddle/Paddle",
       "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 23585,
+      "forks": 5922,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "me-no-dev/ESPAsyncWebServer",
       "url": "https://github.com/me-no-dev/ESPAsyncWebServer",
       "description": "Async Web Server for ESP8266 and ESP32",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4006,
+      "forks": 1357,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "cmu-db/bustub",
       "url": "https://github.com/cmu-db/bustub",
       "description": "The BusTub Relational Database Management System (Educational)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4820,
+      "forks": 1993,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "trustwallet/wallet-core",
       "url": "https://github.com/trustwallet/wallet-core",
       "description": "Cross-platform, cross-blockchain wallet library.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3432,
+      "forks": 1901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "esphome/esphome",
       "url": "https://github.com/esphome/esphome",
       "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10440,
+      "forks": 4985,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "openai/triton",
       "url": "https://github.com/openai/triton",
       "description": "Development repository for the Triton language and compiler",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "MLIR",
+      "stars": 18225,
+      "forks": 2521,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "qbittorrent/qBittorrent",
       "url": "https://github.com/qbittorrent/qBittorrent",
       "description": "qBittorrent BitTorrent client",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35148,
+      "forks": 4544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "pixie-io/pixie",
       "url": "https://github.com/pixie-io/pixie",
       "description": "Instant Kubernetes-Native Application Observability",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6336,
+      "forks": 488,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "godotengine/godot",
       "url": "https://github.com/godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 105765,
+      "forks": 24121,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md"
+      "source_path": "/tmp/trending_archive/2023/2023-04/2023-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     }
   ]
 }

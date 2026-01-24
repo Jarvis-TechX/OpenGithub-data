@@ -16,14 +16,16 @@
       "full_name": "Leonidas-from-XIV/node-xml2js",
       "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
       "description": "XML to JavaScript object converter.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4973,
+      "forks": 609,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "chinese-copywriting-guidelines",
       "full_name": "sparanoid/chinese-copywriting-guidelines",
       "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
-      "description": "Chinese copywriting guidelines for better written communication",
+      "description": "Chinese copywriting guidelines for better written communication／中文文案排版指北",
       "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 15173,
+      "forks": 1834,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     }
   ]
 }

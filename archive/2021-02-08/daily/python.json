@@ -15,15 +15,17 @@
       "repo_name": "YYeTsBot",
       "full_name": "tgbot-collection/YYeTsBot",
       "url": "https://github.com/tgbot-collection/YYeTsBot",
-      "description": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享",
+      "language": "Python",
+      "stars": 15906,
+      "forks": 1868,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "freqtrade/freqtrade",
       "url": "https://github.com/freqtrade/freqtrade",
       "description": "Free, open source crypto trading bot",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 46237,
+      "forks": 9631,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "archivy",
       "full_name": "archivy/archivy",
       "url": "https://github.com/archivy/archivy",
-      "description": "Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.",
+      "language": "Python",
+      "stars": 3254,
+      "forks": 118,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "owid/covid-19-data",
       "url": "https://github.com/owid/covid-19-data",
       "description": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5662,
+      "forks": 3617,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "kangvcar/InfoSpider",
       "url": "https://github.com/kangvcar/InfoSpider",
       "description": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 8171,
+      "forks": 1491,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "Informer2020",
       "full_name": "zhouhaoyi/Informer2020",
       "url": "https://github.com/zhouhaoyi/Informer2020",
-      "description": "The GitHub repository for the paper \"Informer\" accepted by AAAI 2021 (Best paper award).",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "The GitHub repository for the paper \"Informer\" accepted by AAAI 2021.",
+      "language": "Python",
+      "stars": 6404,
+      "forks": 1286,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "lazyprogrammer/machine_learning_examples",
       "url": "https://github.com/lazyprogrammer/machine_learning_examples",
       "description": "A collection of machine learning examples and tutorials.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 8811,
+      "forks": 6458,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "python-telegram-bot/python-telegram-bot",
       "url": "https://github.com/python-telegram-bot/python-telegram-bot",
       "description": "We have made you a wrapper you can't refuse",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 28688,
+      "forks": 5969,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "carlospolop/hacktricks",
       "url": "https://github.com/carlospolop/hacktricks",
       "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10810,
+      "forks": 2993,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "hackingthemarkets/binance-tutorials",
       "url": "https://github.com/hackingthemarkets/binance-tutorials",
       "description": "Real-Time Candlestick Charts and Crypto Trading Bot using Binance API and Websockets",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 983,
+      "forks": 489,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "ytdl-org/youtube-dl",
       "url": "https://github.com/ytdl-org/youtube-dl",
       "description": "Command-line program to download videos from YouTube.com and other video sites",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 139543,
+      "forks": 10588,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 14,
@@ -225,13 +251,15 @@
       "url": "https://github.com/edeng23/binance-trade-bot",
       "description": "Automated cryptocurrency trading bot",
       "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "stars": 13,
+      "forks": 8,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "Summer2021-Internships",
       "full_name": "pittcsc/Summer2021-Internships",
       "url": "https://github.com/pittcsc/Summer2021-Internships",
-      "description": "Collection of Summer 2021 tech internships!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Collection of Summer 2026 tech internships!",
+      "language": "Python",
+      "stars": 43186,
+      "forks": 3160,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "iperov/DeepFaceLab",
       "url": "https://github.com/iperov/DeepFaceLab",
       "description": "DeepFaceLab is the leading software for creating deepfakes.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 18975,
+      "forks": 823,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "ddia",
       "full_name": "Vonng/ddia",
       "url": "https://github.com/Vonng/ddia",
-      "description": "《Designing Data-Intensive Application》DDIA中文翻译",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译",
+      "language": "Python",
+      "stars": 22519,
+      "forks": 4481,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "Rapptz/discord.py",
       "url": "https://github.com/Rapptz/discord.py",
       "description": "An API wrapper for Discord written in Python.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 15892,
+      "forks": 3922,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "RyanElliott10/wsbtickerbot",
       "url": "https://github.com/RyanElliott10/wsbtickerbot",
       "description": "Reddit Bot for to scrape for the most mentioned tickers on the r/wallstreetbets subreddit.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 134,
+      "forks": 64,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "yunjey/pytorch-tutorial",
       "url": "https://github.com/yunjey/pytorch-tutorial",
       "description": "PyTorch Tutorial for Deep Learning Researchers",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 32119,
+      "forks": 8280,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
       "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
       "description": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3267,
+      "forks": 574,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "liquidctl/liquidctl",
       "url": "https://github.com/liquidctl/liquidctl",
       "description": "Cross-platform CLI and Python drivers for AIO liquid coolers and other devices",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2523,
+      "forks": 257,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "emscripten-core/emsdk",
       "url": "https://github.com/emscripten-core/emsdk",
       "description": "Emscripten SDK",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3495,
+      "forks": 786,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-02/2021-02-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     }
   ]
 }

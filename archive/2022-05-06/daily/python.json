@@ -16,14 +16,16 @@
       "full_name": "facebookresearch/metaseq",
       "url": "https://github.com/facebookresearch/metaseq",
       "description": "Repo for external large-scale work",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6542,
+      "forks": 723,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "Digital-Forensics-Guide",
       "full_name": "mikeroyal/Digital-Forensics-Guide",
       "url": "https://github.com/mikeroyal/Digital-Forensics-Guide",
-      "description": "Digital Forensics Guide",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Digital Forensics Guide. Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, Network Forensics, and Database Forensics.",
+      "language": "Python",
+      "stars": 2386,
+      "forks": 267,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "apple/ml-cvnets",
       "url": "https://github.com/apple/ml-cvnets",
       "description": "CVNets: A library for training computer vision networks",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1960,
+      "forks": 250,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 12047,
+      "forks": 1178,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "SecureAuthCorp/impacket",
       "url": "https://github.com/SecureAuthCorp/impacket",
       "description": "Impacket is a collection of Python classes for working with network protocols.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 15352,
+      "forks": 3851,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "core",
       "full_name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 84357,
+      "forks": 36583,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "pyodide/pyodide",
       "url": "https://github.com/pyodide/pyodide",
       "description": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 14147,
+      "forks": 989,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "programthink/zhao",
       "url": "https://github.com/programthink/zhao",
       "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 13916,
+      "forks": 2754,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "dalle-flow",
       "full_name": "jina-ai/dalle-flow",
       "url": "https://github.com/jina-ai/dalle-flow",
-      "description": "A Human-in-the-Loop workflow for creating HD images from text",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🌊 A Human-in-the-Loop workflow for creating HD images from text",
+      "language": "Python",
+      "stars": 2834,
+      "forks": 212,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "TomSchimansky/CustomTkinter",
       "url": "https://github.com/TomSchimansky/CustomTkinter",
       "description": "A modern and customizable python UI-library based on Tkinter",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 13096,
+      "forks": 1153,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "almandin/fuxploider",
       "url": "https://github.com/almandin/fuxploider",
       "description": "File upload vulnerability scanner and exploitation tool.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3293,
+      "forks": 517,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "aws-samples/aws-cdk-examples",
       "url": "https://github.com/aws-samples/aws-cdk-examples",
       "description": "Example projects using the AWS CDK",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5546,
+      "forks": 2411,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "GoogleCloudPlatform/python-docs-samples",
       "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
       "description": "Code samples used on cloud.google.com",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 7956,
+      "forks": 6671,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "great-expectations/great_expectations",
       "url": "https://github.com/great-expectations/great_expectations",
       "description": "Always know what to expect from your data.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 11095,
+      "forks": 1670,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "wagtail/wagtail",
       "url": "https://github.com/wagtail/wagtail",
       "description": "A Django content management system focused on flexibility and user experience",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 20076,
+      "forks": 4388,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "KARMA-DDoS",
       "full_name": "HyukIsBack/KARMA-DDoS",
       "url": "https://github.com/HyukIsBack/KARMA-DDoS",
-      "description": "Layer 7 DDoS Panel with Cloudflare Bypass ( UAM, CAPTCHA, BFM, etc.. )",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "DDoS Script (DDoS Panel) with Multiple Bypass ( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )",
+      "language": "Python",
+      "stars": 853,
+      "forks": 321,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "alphafold",
       "full_name": "deepmind/alphafold",
       "url": "https://github.com/deepmind/alphafold",
-      "description": "Open source code for AlphaFold.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Open source code for AlphaFold 2.",
+      "language": "Python",
+      "stars": 14223,
+      "forks": 2545,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "dpgaspar/Flask-AppBuilder",
       "url": "https://github.com/dpgaspar/Flask-AppBuilder",
       "description": "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4939,
+      "forks": 1438,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "apache/airflow",
       "url": "https://github.com/apache/airflow",
       "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 43982,
+      "forks": 16338,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "postgresml",
       "full_name": "postgresml/postgresml",
       "url": "https://github.com/postgresml/postgresml",
-      "description": "PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Postgres with GPUs for ML/AI apps.",
+      "language": "Rust",
+      "stars": 6677,
+      "forks": 355,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "pydantic",
       "full_name": "samuelcolvin/pydantic",
       "url": "https://github.com/samuelcolvin/pydantic",
-      "description": "Data parsing and validation using Python type hints",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Data validation using Python type hints",
+      "language": "Python",
+      "stars": 26546,
+      "forks": 2404,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     }
   ]
 }

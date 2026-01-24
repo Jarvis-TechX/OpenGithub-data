@@ -15,15 +15,17 @@
       "repo_name": "HelloGitHub",
       "full_name": "521xueweihan/HelloGitHub",
       "url": "https://github.com/521xueweihan/HelloGitHub",
-      "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "language": "Python",
+      "stars": 140937,
+      "forks": 11061,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "stylegan-human/StyleGAN-Human",
       "url": "https://github.com/stylegan-human/StyleGAN-Human",
       "description": "StyleGAN-Human: A Data-Centric Odyssey of Human Generation",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1191,
+      "forks": 152,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "Z4nzu/hackingtool",
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 54559,
+      "forks": 5959,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "core",
       "full_name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 84357,
+      "forks": 36583,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "DeepDPM",
       "full_name": "BGU-CS-VIL/DeepDPM",
       "url": "https://github.com/BGU-CS-VIL/DeepDPM",
-      "description": "\"DeepDPM: Deep Clustering With An Unknown Number of Clusters\" [CVPR 2022]",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "\"DeepDPM: Deep Clustering With An Unknown Number of Clusters\" [Ronen, Finder, and Freifeld, CVPR 2022]",
+      "language": "Python",
+      "stars": 818,
+      "forks": 86,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "abdallahdib/NextFace",
       "url": "https://github.com/abdallahdib/NextFace",
       "description": "A high-fidelity 3D face reconstruction library from monocular RGB image(s)",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 803,
+      "forks": 102,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "openpilot",
       "full_name": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
-      "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 59792,
+      "forks": 10582,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "ethereum/web3.py",
       "url": "https://github.com/ethereum/web3.py",
       "description": "A python interface for interacting with the Ethereum blockchain and ecosystem.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5472,
+      "forks": 1849,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "bregman-arie/devops-exercises",
       "url": "https://github.com/bregman-arie/devops-exercises",
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 80749,
+      "forks": 18446,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "Movie_Data_Capture",
       "full_name": "yoshiko2/Movie_Data_Capture",
       "url": "https://github.com/yoshiko2/Movie_Data_Capture",
-      "description": "本地电影刮削与整理一体化解决方案",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Local Movies Organizer",
+      "language": "Python",
+      "stars": 7373,
+      "forks": 1403,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "TikTokMassBotting",
       "full_name": "Wizz1337/TikTokMassBotting",
       "url": "https://github.com/Wizz1337/TikTokMassBotting",
-      "description": "TikTok Mass View & Share Boting ~ Unpatched",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "TikTok Mass View & Share Boting ~ Patched",
+      "language": "Python",
+      "stars": 585,
+      "forks": 263,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 12,
@@ -193,13 +215,15 @@
       "url": "https://github.com/F-Society-Freaks/TikTok-Shares-Botter",
       "description": "Adds TikTok Shares for you.",
       "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "stars": 136,
+      "forks": 145,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "TikTok-Bot",
       "full_name": "simonfarah/TikTok-Bot",
       "url": "https://github.com/simonfarah/TikTok-Bot",
-      "description": "A bot that generates followers, likes, views, shares and comment likes",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🦾 A bot that generates followers, likes, views, shares and comment likes",
+      "language": "Python",
+      "stars": 777,
+      "forks": 244,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "deepfakes/faceswap",
       "url": "https://github.com/deepfakes/faceswap",
       "description": "Deepfakes Software For All",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 54917,
+      "forks": 13433,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "mitmproxy/mitmproxy",
       "url": "https://github.com/mitmproxy/mitmproxy",
       "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 42028,
+      "forks": 4423,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "openai/DALL-E",
       "url": "https://github.com/openai/DALL-E",
       "description": "PyTorch package for the discrete VAE used for DALL·E.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 10875,
+      "forks": 1896,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "metaflow",
       "full_name": "Netflix/metaflow",
       "url": "https://github.com/Netflix/metaflow",
-      "description": "🚀 Build and manage real-life data science projects with ease!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Build, Manage and Deploy AI/ML Systems",
+      "language": "Python",
+      "stars": 9728,
+      "forks": 944,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "hakivvi/CVE-2022-29464",
       "url": "https://github.com/hakivvi/CVE-2022-29464",
       "description": "WSO2 RCE (CVE-2022-29464) exploit and writeup.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 376,
+      "forks": 88,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "changedetection.io",
       "full_name": "dgtlmoon/changedetection.io",
       "url": "https://github.com/dgtlmoon/changedetection.io",
-      "description": "changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "language": "Python",
+      "stars": 29953,
+      "forks": 1665,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 23,
@@ -375,7 +419,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "pandas-dev/pandas",
       "url": "https://github.com/pandas-dev/pandas",
       "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 47674,
+      "forks": 19556,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     }
   ]
 }

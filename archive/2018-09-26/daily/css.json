@@ -16,14 +16,16 @@
       "full_name": "twbs/bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "CSS",
-      "stars": 127628,
-      "forks": 62284,
+      "language": "MDX",
+      "stars": 173937,
+      "forks": 79164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "vapid/vapid",
       "url": "https://github.com/vapid/vapid",
       "description": "Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.",
-      "language": "CSS",
-      "stars": 909,
-      "forks": 25,
+      "language": "SCSS",
+      "stars": 1506,
+      "forks": 68,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 3,
@@ -49,13 +53,15 @@
       "url": "https://github.com/daneden/animate.css",
       "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
       "language": "CSS",
-      "stars": 54380,
-      "forks": 11636,
+      "stars": 82602,
+      "forks": 16114,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 4,
@@ -65,13 +71,15 @@
       "url": "https://github.com/jgthms/bulma",
       "description": "Modern CSS framework based on Flexbox",
       "language": "CSS",
-      "stars": 30031,
-      "forks": 2364,
+      "stars": 50059,
+      "forks": 3913,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 5,
@@ -95,15 +103,17 @@
       "repo_name": "gitmoji",
       "full_name": "carloscuesta/gitmoji",
       "url": "https://github.com/carloscuesta/gitmoji",
-      "description": "An emoji guide for your commit messages. 😜",
-      "language": "CSS",
-      "stars": 3832,
-      "forks": 208,
+      "description": "An emoji guide for your commit messages. 😜 ",
+      "language": "TypeScript",
+      "stars": 16652,
+      "forks": 825,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 7,
@@ -112,14 +122,16 @@
       "full_name": "framework7io/framework7",
       "url": "https://github.com/framework7io/framework7",
       "description": "Full featured HTML framework for building iOS & Android apps",
-      "language": "CSS",
-      "stars": 13096,
-      "forks": 2800,
+      "language": "JavaScript",
+      "stars": 18587,
+      "forks": 3219,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 8,
@@ -159,15 +171,17 @@
       "repo_name": "jekyll-TeXt-theme",
       "full_name": "kitian616/jekyll-TeXt-theme",
       "url": "https://github.com/kitian616/jekyll-TeXt-theme",
-      "description": "💎 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.",
-      "language": "CSS",
-      "stars": 341,
-      "forks": 373,
+      "description": "💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.",
+      "language": "SCSS",
+      "stars": 3330,
+      "forks": 2688,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 11,
@@ -192,14 +206,16 @@
       "full_name": "tailwindcss/tailwindcss",
       "url": "https://github.com/tailwindcss/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "CSS",
-      "stars": 6545,
-      "forks": 329,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 13,
@@ -239,15 +255,17 @@
       "repo_name": "my-mac-os",
       "full_name": "nikitavoloboev/my-mac-os",
       "url": "https://github.com/nikitavoloboev/my-mac-os",
-      "description": "List of applications and tools that make my macOS experience even more amazing",
-      "language": "CSS",
-      "stars": 10893,
-      "forks": 448,
+      "description": "Everything you need to move your project faster",
+      "language": "Rust",
+      "stars": 21174,
+      "forks": 842,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 16,
@@ -319,15 +337,17 @@
       "repo_name": "GitHub-Dark",
       "full_name": "StylishThemes/GitHub-Dark",
       "url": "https://github.com/StylishThemes/GitHub-Dark",
-      "description": "Dark GitHub style",
+      "description": ":octocat: Dark GitHub style",
       "language": "CSS",
-      "stars": 3196,
-      "forks": 247,
+      "stars": 9923,
+      "forks": 646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 21,
@@ -401,13 +421,15 @@
       "url": "https://github.com/yui540/Cowardly-Witch",
       "description": "『臆病な魔女は、Webサイトに魔法をかけた。』",
       "language": "CSS",
-      "stars": 93,
-      "forks": 0,
+      "stars": 998,
+      "forks": 68,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     }
   ]
 }

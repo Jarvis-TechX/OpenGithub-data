@@ -47,15 +47,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 6179,
-      "forks": 673,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 4,
@@ -65,13 +67,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 3193,
-      "forks": 592,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 5,
@@ -79,15 +83,17 @@
       "repo_name": "WeChatExtension-ForMac",
       "full_name": "MustangYM/WeChatExtension-ForMac",
       "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
-      "description": "Mac版微信的功能拓展",
+      "description": "A plugin for Mac WeChat",
       "language": "Objective-C",
-      "stars": 588,
-      "forks": 93,
+      "stars": 22703,
+      "forks": 3593,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 6,
@@ -161,13 +167,15 @@
       "url": "https://github.com/robbiehanson/CocoaAsyncSocket",
       "description": "Asynchronous socket networking library for Mac and iOS",
       "language": "Objective-C",
-      "stars": 10978,
-      "forks": 2700,
+      "stars": 12467,
+      "forks": 3019,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 11,
@@ -183,7 +191,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 12,
@@ -193,13 +203,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 5294,
-      "forks": 292,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 13,
@@ -239,15 +251,17 @@
       "repo_name": "MobileIMSDK",
       "full_name": "JackJiang2011/MobileIMSDK",
       "url": "https://github.com/JackJiang2011/MobileIMSDK",
-      "description": "一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。",
+      "description": "原创全平台IM通信层框架，轻量级、高度提炼，历经10年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp、鸿蒙Next，服务端基于Netty。",
       "language": "Objective-C",
-      "stars": 2190,
-      "forks": 619,
+      "stars": 5964,
+      "forks": 1364,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 16,
@@ -256,14 +270,16 @@
       "full_name": "react-native-community/react-native-device-info",
       "url": "https://github.com/react-native-community/react-native-device-info",
       "description": "Device Information for React Native iOS and Android",
-      "language": "Objective-C",
-      "stars": 3843,
-      "forks": 843,
+      "language": "TypeScript",
+      "stars": 6658,
+      "forks": 1472,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 17,
@@ -289,13 +305,15 @@
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
-      "stars": 7949,
-      "forks": 1383,
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 19,
@@ -304,14 +322,16 @@
       "full_name": "microsoft/react-native-code-push",
       "url": "https://github.com/microsoft/react-native-code-push",
       "description": "React Native module for CodePush",
-      "language": "Objective-C",
-      "stars": 5833,
-      "forks": 792,
+      "language": "C",
+      "stars": 9148,
+      "forks": 1585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 20,
@@ -351,15 +371,17 @@
       "repo_name": "SJVideoPlayer",
       "full_name": "changsanjiang/SJVideoPlayer",
       "url": "https://github.com/changsanjiang/SJVideoPlayer",
-      "description": "Video Player. Support cocoapods & Generate GIF & Export & Localization & Play in View(UIView || TableHeader || TableCell || CollectionCell) & Keyboard Orientation & StatusBar(Style&Hide).",
+      "description": "iOS VideoPlayer MediaPlayer video player media player 短视频播放器 可接入 ijkplayer aliplayer alivodplayer plplayer",
       "language": "Objective-C",
-      "stars": 922,
-      "forks": 153,
+      "stars": 2506,
+      "forks": 492,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 23,
@@ -367,15 +389,17 @@
       "repo_name": "Mango",
       "full_name": "YPLiang19/Mango",
       "url": "https://github.com/YPLiang19/Mango",
-      "description": "MangoFix is a DSL which syntax is very similar to Objective-C，MangoFix is also an iOS App hotfix SDK. You can use MangoFix method replace any Objective-C method.",
+      "description": "MangoFix is a DSL which syntax is very similar to Objective-C，MangoFix is also an iOS  App hotfix SDK. You can use MangoFix method replace any Objective-C or Swift method.",
       "language": "Objective-C",
-      "stars": 525,
-      "forks": 50,
+      "stars": 1198,
+      "forks": 218,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 24,

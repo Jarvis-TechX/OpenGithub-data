@@ -16,14 +16,16 @@
       "full_name": "airbnb/javascript",
       "url": "https://github.com/airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 148051,
+      "forks": 26770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "kit",
       "full_name": "sveltejs/kit",
       "url": "https://github.com/sveltejs/kit",
-      "description": "The fastest way to build Svelte apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "web development, streamlined",
+      "language": "JavaScript",
+      "stars": 20207,
+      "forks": 2194,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "philc/vimium",
       "url": "https://github.com/philc/vimium",
       "description": "The hacker's browser.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 25911,
+      "forks": 2552,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Solidity",
+      "stars": 26936,
+      "forks": 12415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "john-smilga/node-express-course",
       "url": "https://github.com/john-smilga/node-express-course",
       "description": "* [https://github.com/yoimiya-kokomi/miao-plugin](yoimiya-kokomi/miao-plugin) Miao-Plugin for Yunzai-Bot",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3843,
+      "forks": 4075,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "brookhong/Surfingkeys",
       "url": "https://github.com/brookhong/Surfingkeys",
       "description": "Map your keys for web surfing, expand your browser with javascript and keyboard.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5977,
+      "forks": 534,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "rahuldkjain/github-profile-readme-generator",
       "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
       "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 23946,
+      "forks": 8223,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "LinkFree",
       "full_name": "EddieHubCommunity/LinkFree",
       "url": "https://github.com/EddieHubCommunity/LinkFree",
-      "description": "Open source alternative to LinkTree",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
+      "language": "JavaScript",
+      "stars": 5740,
+      "forks": 4057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "judygab/web-dev-projects",
       "url": "https://github.com/judygab/web-dev-projects",
       "description": "Projects repo for tutorials for my YouTube Channel",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2152,
+      "forks": 2651,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "MusicBot",
       "full_name": "umutxyp/MusicBot",
       "url": "https://github.com/umutxyp/MusicBot",
-      "description": "An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Advanced Discord v14.22 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.",
+      "language": "JavaScript",
+      "stars": 1166,
+      "forks": 1161,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "dillonzq/LoveIt",
       "url": "https://github.com/dillonzq/LoveIt",
       "description": "❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3786,
+      "forks": 1166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "AR-js-org/AR.js",
       "url": "https://github.com/AR-js-org/AR.js",
       "description": "Image tracking, Location Based AR, Marker tracking. All on the Web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5892,
+      "forks": 1001,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "ender-zhao/Clash-for-Windows_Chinese",
       "url": "https://github.com/ender-zhao/Clash-for-Windows_Chinese",
       "description": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27550,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "lyswhut/lx-music-mobile",
       "url": "https://github.com/lyswhut/lx-music-mobile",
       "description": "一个基于 React native 开发的音乐软件",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 15311,
+      "forks": 1745,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "hagopj13/node-express-boilerplate",
       "url": "https://github.com/hagopj13/node-express-boilerplate",
       "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7581,
+      "forks": 2235,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 23,
@@ -375,7 +419,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "crwn-clothing-v2",
       "full_name": "ZhangMYihua/crwn-clothing-v2",
       "url": "https://github.com/ZhangMYihua/crwn-clothing-v2",
-      "description": "Version 2 of Crwn-Clothing!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Version 2 of Crwn-Clothing! ",
+      "language": "JavaScript",
+      "stars": 513,
+      "forks": 5659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     }
   ]
 }

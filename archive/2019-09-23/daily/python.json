@@ -16,14 +16,16 @@
       "full_name": "microsoft/c9-python-getting-started",
       "url": "https://github.com/microsoft/c9-python-getting-started",
       "description": "Sample code for Channel 9 Python for Beginners course",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 7964,
+      "forks": 2283,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "kivy/kivy",
       "url": "https://github.com/kivy/kivy",
       "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 18828,
+      "forks": 3161,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "freewym/espresso",
       "url": "https://github.com/freewym/espresso",
       "description": "Espresso: A Fast End-to-End Neural Speech Recognition Toolkit",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 942,
+      "forks": 116,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "openai/multi-agent-emergence-environments",
       "url": "https://github.com/openai/multi-agent-emergence-environments",
       "description": "Environment generation code for the paper \"Emergent Tool Use From Multi-Agent Autocurricula\"",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1773,
+      "forks": 317,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "scikit-learn/scikit-learn",
       "url": "https://github.com/scikit-learn/scikit-learn",
       "description": "scikit-learn: machine learning in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 64749,
+      "forks": 26623,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "ytdl-org/youtube-dl",
       "url": "https://github.com/ytdl-org/youtube-dl",
       "description": "Command-line program to download videos from YouTube.com and other video sites",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 139543,
+      "forks": 10588,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "CoreyMSchafer/code_snippets",
       "url": "https://github.com/CoreyMSchafer/code_snippets",
       "description": "* [https://github.com/evilsocket/pwnagotchi](evilsocket/pwnagotchi) (⌐■_■) - Deep Reinforcement Learning vs WiFI",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 10548,
+      "forks": 17374,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "quantopian/zipline",
       "url": "https://github.com/quantopian/zipline",
       "description": "Zipline, a Pythonic Algorithmic Trading Library",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 19357,
+      "forks": 4937,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "chriskiehl/Gooey",
       "url": "https://github.com/chriskiehl/Gooey",
       "description": "Turn (almost) any Python command line program into a full GUI application with one line",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 22038,
+      "forks": 1048,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "ct-Open-Source/tuya-convert",
       "url": "https://github.com/ct-Open-Source/tuya-convert",
       "description": "A collection of scripts to flash Tuya IoT devices to alternative firmwares",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5000,
+      "forks": 519,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "shadowsocks/shadowsocks",
       "url": "https://github.com/shadowsocks/shadowsocks",
       "description": "* [https://github.com/jupyter/jupyter](jupyter/jupyter) Jupyter metapackage for installation, docs and chat",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 33635,
+      "forks": 18320,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "home-assistant",
       "full_name": "home-assistant/home-assistant",
       "url": "https://github.com/home-assistant/home-assistant",
-      "description": "🏡 Open source home automation that puts local control and privacy first",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 84356,
+      "forks": 36586,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "docker-pi-hole",
       "full_name": "pi-hole/docker-pi-hole",
       "url": "https://github.com/pi-hole/docker-pi-hole",
-      "description": "Pi-hole in a docker container",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "The official Pi-hole Docker image from pi-hole.net",
+      "language": "Shell",
+      "stars": 10635,
+      "forks": 1225,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "pytorch/examples",
       "url": "https://github.com/pytorch/examples",
       "description": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 23698,
+      "forks": 9786,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "Kaggle/kaggle-api",
       "url": "https://github.com/Kaggle/kaggle-api",
       "description": "Official Kaggle API",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 7105,
+      "forks": 1300,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "multi-v2ray",
       "full_name": "Jrohy/multi-v2ray",
       "url": "https://github.com/Jrohy/multi-v2ray",
-      "description": "v2ray easy delpoy & manage tool， support multiple user & protocol manage",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "v2ray/xray多用户管理部署程序",
+      "language": "Python",
+      "stars": 7014,
+      "forks": 2393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "threat9/routersploit",
       "url": "https://github.com/threat9/routersploit",
       "description": "Exploitation Framework for Embedded Devices",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 12928,
+      "forks": 2380,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 19,
@@ -305,13 +341,15 @@
       "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
       "description": "100 Days of ML Coding",
       "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "stars": 49485,
+      "forks": 11287,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "mininet/mininet",
       "url": "https://github.com/mininet/mininet",
       "description": "Emulator for rapid prototyping of Software Defined Networks",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5755,
+      "forks": 1795,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "lutris",
       "full_name": "lutris/lutris",
       "url": "https://github.com/lutris/lutris",
-      "description": "Lutris client - Open Source gaming platform for GNU/Linux",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Lutris desktop client",
+      "language": "Python",
+      "stars": 9533,
+      "forks": 799,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "shenweichen/DeepCTR-Torch",
       "url": "https://github.com/shenweichen/DeepCTR-Torch",
       "description": "【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3360,
+      "forks": 729,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 23,
@@ -375,7 +419,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:09Z"
     }
   ]
 }

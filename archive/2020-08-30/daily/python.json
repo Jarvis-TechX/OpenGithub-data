@@ -16,14 +16,16 @@
       "full_name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 217107,
+      "forks": 49988,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "jerry-git/learn-python3",
       "url": "https://github.com/jerry-git/learn-python3",
       "description": "Jupyter notebooks for teaching/learning Python 3",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 6749,
+      "forks": 1838,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "trekhleb/learn-python",
       "url": "https://github.com/trekhleb/learn-python",
       "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 17656,
+      "forks": 2897,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "kangvcar/InfoSpider",
       "url": "https://github.com/kangvcar/InfoSpider",
       "description": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 8171,
+      "forks": 1491,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "google/objax",
       "url": "https://github.com/google/objax",
       "description": "* [https://github.com/Rapptz/discord.py](Rapptz/discord.py) An API wrapper for Discord written in Python.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 775,
+      "forks": 73,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "d2l-en",
       "full_name": "d2l-ai/d2l-en",
       "url": "https://github.com/d2l-ai/d2l-en",
-      "description": "Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
+      "language": "Python",
+      "stars": 28010,
+      "forks": 4940,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "CorentinJ/Real-Time-Voice-Cloning",
       "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
       "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 59258,
+      "forks": 9412,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "XX-net/XX-Net",
       "url": "https://github.com/XX-net/XX-Net",
       "description": "A proxy tool to bypass GFW.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 33418,
+      "forks": 7607,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "google-research/tensorflow-coder",
       "url": "https://github.com/google-research/tensorflow-coder",
       "description": "* [https://github.com/deepfakes/faceswap](deepfakes/faceswap) Deepfakes Software For All",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 279,
+      "forks": 33,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "corpnewt/gibMacOS",
       "url": "https://github.com/corpnewt/gibMacOS",
       "description": "Py2/py3 script that can download macOS components direct from Apple",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6814,
+      "forks": 864,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "public-apis",
       "full_name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs for use in software and web development.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 393099,
+      "forks": 42072,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "Instagram",
       "full_name": "Pure-L0G1C/Instagram",
       "url": "https://github.com/Pure-L0G1C/Instagram",
-      "description": "Bruteforce attack for Instagram",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Bruteforce attack for Instagram. ",
+      "language": "Python",
+      "stars": 4823,
+      "forks": 1867,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "ReFirmLabs/binwalk",
       "url": "https://github.com/ReFirmLabs/binwalk",
       "description": "Firmware Analysis Tool",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 13513,
+      "forks": 1757,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "geekcomputers/Python",
       "url": "https://github.com/geekcomputers/Python",
       "description": "My Python Examples",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 34654,
+      "forks": 12891,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "j-marple-dev/model_compression",
       "url": "https://github.com/j-marple-dev/model_compression",
       "description": "PyTorch Model Compression",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 234,
+      "forks": 25,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "core",
       "full_name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 84357,
+      "forks": 36583,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "xyou365/AutoRclone",
       "url": "https://github.com/xyou365/AutoRclone",
       "description": "AutoRclone: rclone copy/move/sync (automatically) with thousands of service accounts",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1383,
+      "forks": 504,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "GoogleCloudPlatform/python-docs-samples",
       "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
       "description": "Code samples used on cloud.google.com",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 7956,
+      "forks": 6671,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "eternnoir/pyTelegramBotAPI",
       "url": "https://github.com/eternnoir/pyTelegramBotAPI",
       "description": "Python Telegram bot api.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 8663,
+      "forks": 2139,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "prefect",
       "full_name": "PrefectHQ/prefect",
       "url": "https://github.com/PrefectHQ/prefect",
-      "description": "The easiest way to automate your data",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars": 21411,
+      "forks": 2085,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "Veil-Framework/Veil",
       "url": "https://github.com/Veil-Framework/Veil",
       "description": "Veil 3.1.X (Check version info in Veil at runtime)",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4191,
+      "forks": 910,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     }
   ]
 }

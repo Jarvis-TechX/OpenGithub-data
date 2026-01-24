@@ -15,15 +15,17 @@
       "repo_name": "code-server",
       "full_name": "codercom/code-server",
       "url": "https://github.com/codercom/code-server",
-      "description": "Run VS Code on a remote server.",
+      "description": "VS Code in the browser",
       "language": "TypeScript",
-      "stars": 8314,
-      "forks": 347,
+      "stars": 75928,
+      "forks": 6469,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 2,
@@ -33,13 +35,15 @@
       "url": "https://github.com/sindresorhus/type-fest",
       "description": "A collection of essential TypeScript types",
       "language": "TypeScript",
-      "stars": 555,
-      "forks": 12,
+      "stars": 16785,
+      "forks": 664,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 3,
@@ -63,15 +67,17 @@
       "repo_name": "ant-design",
       "full_name": "ant-design/ant-design",
       "url": "https://github.com/ant-design/ant-design",
-      "description": "🌈 A UI Design Language",
+      "description": "An enterprise-class UI design language and React UI library",
       "language": "TypeScript",
-      "stars": 43675,
-      "forks": 15160,
+      "stars": 97344,
+      "forks": 54426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 5,
@@ -97,13 +103,15 @@
       "url": "https://github.com/Microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "TypeScript",
-      "stars": 46339,
-      "forks": 6478,
+      "stars": 107533,
+      "forks": 13213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 7,
@@ -111,15 +119,17 @@
       "repo_name": "deno",
       "full_name": "denoland/deno",
       "url": "https://github.com/denoland/deno",
-      "description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio",
-      "language": "TypeScript",
-      "stars": 31930,
-      "forks": 1528,
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": 105936,
+      "forks": 5868,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 8,
@@ -127,15 +137,17 @@
       "repo_name": "angular",
       "full_name": "angular/angular",
       "url": "https://github.com/angular/angular",
-      "description": "One framework. Mobile & desktop.",
+      "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
-      "stars": 46115,
-      "forks": 12095,
+      "stars": 99737,
+      "forks": 27024,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 9,
@@ -161,13 +173,15 @@
       "url": "https://github.com/blend/promise-utils",
       "description": "Lodash-like, dependency-free utilities for native ES6 promises.",
       "language": "TypeScript",
-      "stars": 88,
-      "forks": 0,
+      "stars": 281,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 11,
@@ -191,15 +205,17 @@
       "repo_name": "formik",
       "full_name": "jaredpalmer/formik",
       "url": "https://github.com/jaredpalmer/formik",
-      "description": "Build forms in React, without the tears 😭",
+      "description": "Build forms in React, without the tears 😭 ",
       "language": "TypeScript",
-      "stars": 13766,
-      "forks": 819,
+      "stars": 34376,
+      "forks": 2794,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 13,
@@ -207,15 +223,17 @@
       "repo_name": "docz",
       "full_name": "pedronauck/docz",
       "url": "https://github.com/pedronauck/docz",
-      "description": "✍🏻It has never been so easy to document your things!",
+      "description": "✍ It has never been so easy to document your things!",
       "language": "TypeScript",
-      "stars": 13709,
-      "forks": 448,
+      "stars": 23661,
+      "forks": 1427,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 14,
@@ -225,13 +243,15 @@
       "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
       "description": "The repository for high quality TypeScript type definitions.",
       "language": "TypeScript",
-      "stars": 20975,
-      "forks": 16809,
+      "stars": 50847,
+      "forks": 30553,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 15,
@@ -255,15 +275,17 @@
       "repo_name": "notable",
       "full_name": "notable/notable",
       "url": "https://github.com/notable/notable",
-      "description": "The markdown-based note-taking app that doesn't suck.",
+      "description": "The Markdown-based note-taking app that doesn't suck.",
       "language": "TypeScript",
-      "stars": 9065,
-      "forks": 351,
+      "stars": 23417,
+      "forks": 1184,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 17,
@@ -271,15 +293,17 @@
       "repo_name": "grafana",
       "full_name": "grafana/grafana",
       "url": "https://github.com/grafana/grafana",
-      "description": "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
       "language": "TypeScript",
-      "stars": 27387,
-      "forks": 5047,
+      "stars": 71850,
+      "forks": 13388,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 18,
@@ -287,15 +311,17 @@
       "repo_name": "nest",
       "full_name": "nestjs/nest",
       "url": "https://github.com/nestjs/nest",
-      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
       "language": "TypeScript",
-      "stars": 13400,
-      "forks": 877,
+      "stars": 74315,
+      "forks": 8175,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 19,
@@ -321,13 +347,15 @@
       "url": "https://github.com/streamich/react-use",
       "description": "React Hooks — 👍",
       "language": "TypeScript",
-      "stars": 2637,
-      "forks": 102,
+      "stars": 43903,
+      "forks": 3279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 21,
@@ -335,15 +363,17 @@
       "repo_name": "typeorm",
       "full_name": "typeorm/typeorm",
       "url": "https://github.com/typeorm/typeorm",
-      "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+      "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
       "language": "TypeScript",
-      "stars": 11689,
-      "forks": 1383,
+      "stars": 36263,
+      "forks": 6480,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 22,
@@ -369,13 +399,15 @@
       "url": "https://github.com/ReactiveX/rxjs",
       "description": "A reactive programming library for JavaScript",
       "language": "TypeScript",
-      "stars": 17452,
-      "forks": 1774,
+      "stars": 31607,
+      "forks": 3002,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 24,
@@ -401,13 +433,15 @@
       "url": "https://github.com/alangpierce/sucrase",
       "description": "Super-fast alternative to Babel for when you can target modern JS runtimes",
       "language": "TypeScript",
-      "stars": 1420,
-      "forks": 29,
+      "stars": 5842,
+      "forks": 152,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md"
+      "source_path": "/tmp/github-trending-backup/2019/03/2019-03-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     }
   ]
 }

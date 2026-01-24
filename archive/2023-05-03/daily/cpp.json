@@ -32,14 +32,16 @@
       "full_name": "MaaAssistantArknights/MaaAssistantArknights",
       "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 19281,
+      "forks": 2452,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 3,
@@ -48,14 +50,16 @@
       "full_name": "google/libphonenumber",
       "url": "https://github.com/google/libphonenumber",
       "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17791,
+      "forks": 2139,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 4,
@@ -63,15 +67,17 @@
       "repo_name": "xgboost",
       "full_name": "dmlc/xgboost",
       "url": "https://github.com/dmlc/xgboost",
-      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "stars": 27897,
+      "forks": 8832,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 5,
@@ -80,14 +86,16 @@
       "full_name": "tjfenwick/DIY-Sim-Racing-Active-Pedal",
       "url": "https://github.com/tjfenwick/DIY-Sim-Racing-Active-Pedal",
       "description": "This is my Sim Racing DIY Active Pedal prototype, an affordable alternative to the official Simucube pedals that cost over $2,000 per pedal.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 345,
+      "forks": 93,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 6,
@@ -96,14 +104,16 @@
       "full_name": "facebookresearch/faiss",
       "url": "https://github.com/facebookresearch/faiss",
       "description": "A library for efficient similarity search and clustering of dense vectors.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38860,
+      "forks": 4197,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 7,
@@ -112,14 +122,16 @@
       "full_name": "spotify/annoy",
       "url": "https://github.com/spotify/annoy",
       "description": "Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14135,
+      "forks": 1219,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 8,
@@ -128,14 +140,16 @@
       "full_name": "lsecqt/OffensiveCpp",
       "url": "https://github.com/lsecqt/OffensiveCpp",
       "description": "This repo contains C/C++ snippets that can be handy in specific offensive scenarios.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 750,
+      "forks": 96,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 9,
@@ -151,7 +165,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 10,
@@ -160,14 +176,16 @@
       "full_name": "bdring/FluidNC",
       "url": "https://github.com/bdring/FluidNC",
       "description": "The next generation of motion control firmware",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2229,
+      "forks": 549,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 11,
@@ -176,14 +194,16 @@
       "full_name": "hsutter/cppfront",
       "url": "https://github.com/hsutter/cppfront",
       "description": "A personal experimental C++ Syntax 2 -> Syntax 1 compiler",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5884,
+      "forks": 265,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 12,
@@ -192,14 +212,16 @@
       "full_name": "google/sentencepiece",
       "url": "https://github.com/google/sentencepiece",
       "description": "Unsupervised text tokenizer for Neural Network-based text generation.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11599,
+      "forks": 1318,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 13,
@@ -208,14 +230,16 @@
       "full_name": "zeek/zeek",
       "url": "https://github.com/zeek/zeek",
       "description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7425,
+      "forks": 1319,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 14,
@@ -231,7 +255,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 15,
@@ -240,14 +266,16 @@
       "full_name": "hoffstadt/DearPyGui",
       "url": "https://github.com/hoffstadt/DearPyGui",
       "description": "Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 15132,
+      "forks": 768,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 16,
@@ -256,14 +284,16 @@
       "full_name": "Huntereb/Awoo-Installer",
       "url": "https://github.com/Huntereb/Awoo-Installer",
       "description": "A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1794,
+      "forks": 143,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 17,
@@ -279,7 +309,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 18,
@@ -288,14 +320,16 @@
       "full_name": "catchorg/Catch2",
       "url": "https://github.com/catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 20152,
+      "forks": 3189,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 19,
@@ -303,15 +337,17 @@
       "repo_name": "Inworld-Skyrim-Mod",
       "full_name": "BlocTheWorker/Inworld-Skyrim-Mod",
       "url": "https://github.com/BlocTheWorker/Inworld-Skyrim-Mod",
-      "description": "Source Code of Skyrim's ChatGPT Inworld AI Mod. Contains C++, Papyrus and Typescript code",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Source Code of Skyrim's Inworld AI Mod. Contains C++, Papyrus and Typescript code",
+      "language": "TypeScript",
+      "stars": 184,
+      "forks": 14,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "apple/foundationdb",
       "url": "https://github.com/apple/foundationdb",
       "description": "FoundationDB - the open source, distributed, transactional key-value store",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16101,
+      "forks": 1466,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "ndeadly/MissionControl",
       "url": "https://github.com/ndeadly/MissionControl",
       "description": "Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3148,
+      "forks": 149,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "scottbez1/smartknob",
       "url": "https://github.com/scottbez1/smartknob",
       "description": "Haptic input knob with software-defined endstops and virtual detents",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 21321,
+      "forks": 1226,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "CVCUDA/CV-CUDA",
       "url": "https://github.com/CVCUDA/CV-CUDA",
       "description": "CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2647,
+      "forks": 248,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "google/glog",
       "url": "https://github.com/google/glog",
       "description": "C++ implementation of the Google logging module",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7359,
+      "forks": 2105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     }
   ]
 }

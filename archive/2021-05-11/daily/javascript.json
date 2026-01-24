@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "playground-macos",
       "full_name": "Renovamen/playground-macos",
       "url": "https://github.com/Renovamen/playground-macos",
-      "description": "My portfolio website simulating macOS's GUI, developed with React and tailwindcss.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "My portfolio website simulating macOS's GUI, developed with React and UnoCSS.",
+      "language": "TypeScript",
+      "stars": 3442,
+      "forks": 371,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "google/zx",
       "url": "https://github.com/google/zx",
       "description": "A tool for writing better scripts",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 45080,
+      "forks": 1192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "30-seconds-of-code",
       "full_name": "30-seconds/30-seconds-of-code",
       "url": "https://github.com/30-seconds/30-seconds-of-code",
-      "description": "Short JavaScript code snippets for all your development needs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Coding articles to level up your development skills",
+      "language": "JavaScript",
+      "stars": 126464,
+      "forks": 12416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "openlayers/openlayers",
       "url": "https://github.com/openlayers/openlayers",
       "description": "OpenLayers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 12284,
+      "forks": 3148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "MrRio/jsPDF",
       "url": "https://github.com/MrRio/jsPDF",
       "description": "Client-side JavaScript PDF generation for everyone.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 31055,
+      "forks": 4803,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "Sortable",
       "full_name": "SortableJS/Sortable",
       "url": "https://github.com/SortableJS/Sortable",
-      "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
+      "language": "JavaScript",
+      "stars": 30988,
+      "forks": 3747,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "handshake-org/hs-airdrop",
       "url": "https://github.com/handshake-org/hs-airdrop",
       "description": "Decentralized airdrop to open source developers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1412,
+      "forks": 174,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "ascoders/weekly",
       "url": "https://github.com/ascoders/weekly",
       "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30810,
+      "forks": 3279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 13,
@@ -224,14 +248,16 @@
       "full_name": "eligrey/FileSaver.js",
       "url": "https://github.com/eligrey/FileSaver.js",
       "description": "An HTML5 saveAs() FileSaver implementation",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 22026,
+      "forks": 4355,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 15,
@@ -239,15 +265,17 @@
       "repo_name": "jd_shell",
       "full_name": "lan-tianxiang/jd_shell",
       "url": "https://github.com/lan-tianxiang/jd_shell",
-      "description": "京豆 京东 lxk0301 jd-base loon docker 羊毛 脚本",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Node网页开发工具",
+      "language": "JavaScript",
+      "stars": 943,
+      "forks": 321,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 16,
@@ -255,15 +283,17 @@
       "repo_name": "vue-cli",
       "full_name": "vuejs/vue-cli",
       "url": "https://github.com/vuejs/vue-cli",
-      "description": "🛠️ Standard Tooling for Vue.js Development",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🛠️ webpack-based tooling for Vue.js Development",
+      "language": "JavaScript",
+      "stars": 29660,
+      "forks": 6287,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 17,
@@ -272,14 +302,16 @@
       "full_name": "dropzone/dropzone",
       "url": "https://github.com/dropzone/dropzone",
       "description": "Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18392,
+      "forks": 3279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 18,
@@ -288,14 +320,16 @@
       "full_name": "youzan/vant-weapp",
       "url": "https://github.com/youzan/vant-weapp",
       "description": "轻量、可靠的小程序 UI 组件库",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18324,
+      "forks": 3492,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 19,
@@ -303,15 +337,17 @@
       "repo_name": "appium",
       "full_name": "appium/appium",
       "url": "https://github.com/appium/appium",
-      "description": "📱 Automation for iOS, Android, and Windows Apps.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
+      "language": "JavaScript",
+      "stars": 21092,
+      "forks": 6276,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 20,
@@ -319,15 +355,17 @@
       "repo_name": "node-elm",
       "full_name": "bailicangdu/node-elm",
       "url": "https://github.com/bailicangdu/node-elm",
-      "description": "基于 node.js + Mongodb 构建的后台系统",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统",
+      "language": "JavaScript",
+      "stars": 12379,
+      "forks": 3727,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 21,
@@ -335,15 +373,17 @@
       "repo_name": "gatsby",
       "full_name": "gatsbyjs/gatsby",
       "url": "https://github.com/gatsbyjs/gatsby",
-      "description": "Build blazing fast, modern apps and websites with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The best React-based framework with performance, scalability and security built in.",
+      "language": "JavaScript",
+      "stars": 55973,
+      "forks": 10251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Solidity",
+      "stars": 26936,
+      "forks": 12415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "wubaiqing/zaobao",
       "url": "https://github.com/wubaiqing/zaobao",
       "description": "每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2251,
+      "forks": 162,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "trungdq88/real-time-twitter-banner",
       "url": "https://github.com/trungdq88/real-time-twitter-banner",
       "description": "Fun little experiment with Twitter API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 108,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     }
   ]
 }

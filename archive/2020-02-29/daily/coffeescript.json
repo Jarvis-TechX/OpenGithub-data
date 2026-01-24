@@ -16,14 +16,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-29.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-29.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "github/hubot-scripts",
       "url": "https://github.com/github/hubot-scripts",
       "description": "DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3614,
+      "forks": 1827,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-29.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "codecombat/codecombat",
       "url": "https://github.com/codecombat/codecombat",
       "description": "Game for learning how to code.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8407,
+      "forks": 4168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-29.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

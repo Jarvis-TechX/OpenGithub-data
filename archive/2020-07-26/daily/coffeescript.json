@@ -16,14 +16,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-26.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "balena-raspberrypi",
       "full_name": "balena-os/balena-raspberrypi",
       "url": "https://github.com/balena-os/balena-raspberrypi",
-      "description": "Resin support for RaspberryPI boards",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Balena support for RaspberryPI boards",
+      "language": "BitBake",
+      "stars": 206,
+      "forks": 88,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-26.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

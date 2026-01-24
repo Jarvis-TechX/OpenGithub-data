@@ -16,14 +16,16 @@
       "full_name": "google/cdc-file-transfer",
       "url": "https://github.com/google/cdc-file-transfer",
       "description": "Tools for synching and streaming files from Windows to Linux",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3398,
+      "forks": 118,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "Snapchat/KeyDB",
       "url": "https://github.com/Snapchat/KeyDB",
       "description": "A Multithreaded Fork of Redis",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12415,
+      "forks": 647,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "google/skia",
       "url": "https://github.com/google/skia",
       "description": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10427,
+      "forks": 1672,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "sebastianstarke/AI4Animation",
       "url": "https://github.com/sebastianstarke/AI4Animation",
       "description": "Bringing Characters to Life with Computer Brains in Unity",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 8437,
+      "forks": 1113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "codon",
       "full_name": "exaloop/codon",
       "url": "https://github.com/exaloop/codon",
-      "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support",
+      "language": "Python",
+      "stars": 16566,
+      "forks": 589,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "gabime/spdlog",
       "url": "https://github.com/gabime/spdlog",
       "description": "Fast C++ logging library.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 28170,
+      "forks": 5027,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 193461,
+      "forks": 75203,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "NVlabs/tiny-cuda-nn",
       "url": "https://github.com/NVlabs/tiny-cuda-nn",
       "description": "Lightning fast C++/CUDA neural network framework",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4395,
+      "forks": 540,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "Hyprland",
       "full_name": "hyprwm/Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
-      "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 33448,
+      "forks": 1529,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "tstack/lnav",
       "url": "https://github.com/tstack/lnav",
       "description": "Log file navigator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9541,
+      "forks": 371,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "CleverRaven/Cataclysm-DDA",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
       "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11983,
+      "forks": 4415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "facebookresearch/faiss",
       "url": "https://github.com/facebookresearch/faiss",
       "description": "A library for efficient similarity search and clustering of dense vectors.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38860,
+      "forks": 4197,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "open-telemetry/opentelemetry-cpp",
       "url": "https://github.com/open-telemetry/opentelemetry-cpp",
       "description": "The OpenTelemetry C++ Client",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1191,
+      "forks": 521,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "google/re2",
       "url": "https://github.com/google/re2",
       "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9564,
+      "forks": 1203,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "Z3Prover/z3",
       "url": "https://github.com/Z3Prover/z3",
       "description": "The Z3 Theorem Prover",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11846,
+      "forks": 1603,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "WerWolv/ImHex",
       "url": "https://github.com/WerWolv/ImHex",
       "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 52384,
+      "forks": 2328,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 85865,
+      "forks": 56499,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "mavlink/qgroundcontrol",
       "url": "https://github.com/mavlink/qgroundcontrol",
       "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4270,
+      "forks": 4585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "skypjack/entt",
       "url": "https://github.com/skypjack/entt",
       "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12189,
+      "forks": 1043,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "OSGeo/gdal",
       "url": "https://github.com/OSGeo/gdal",
       "description": "GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5729,
+      "forks": 2831,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "google/googletest",
       "url": "https://github.com/google/googletest",
       "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38123,
+      "forks": 10678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "CLIUtils/CLI11",
       "url": "https://github.com/CLIUtils/CLI11",
       "description": "CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4097,
+      "forks": 426,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md"
+      "source_path": "/tmp/trending_archive/2023/2023-01/2023-01-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     }
   ]
 }

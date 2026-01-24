@@ -16,14 +16,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "ggilder/euler-coffee",
       "url": "https://github.com/ggilder/euler-coffee",
       "description": "Solving Project Euler problems while learning CoffeeScript",
-      "language": "coffeescript",
-      "stars": 0,
+      "language": "CoffeeScript",
+      "stars": 1,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "CoffeeScriptRedux",
       "full_name": "michaelficarra/CoffeeScriptRedux",
       "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
-      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "CoffeeScript",
+      "stars": 1836,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-07.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:08Z"
     }
   ]
 }

@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "intro-curriculum-3008",
       "full_name": "progedu/intro-curriculum-3008",
       "url": "https://github.com/progedu/intro-curriculum-3008",
-      "description": "38 (ISC License)",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "入門コースの3章8節の練習 (ISC License)",
+      "language": "CoffeeScript",
+      "stars": 1,
+      "forks": 1448,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "philc/vimium",
       "url": "https://github.com/philc/vimium",
       "description": "The hacker's browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 25911,
+      "forks": 2552,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "rubykube/peatio-trading-ui",
       "url": "https://github.com/rubykube/peatio-trading-ui",
       "description": "Peatio trading UI extracted as separate Rails 5 application.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 43,
+      "forks": 85,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     }
   ]
 }

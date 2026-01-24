@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "badges",
       "full_name": "boennemann/badges",
       "url": "https://github.com/boennemann/badges",
-      "description": "Readme Badges  Gotta catch 'em all",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":flower_playing_cards: Readme Badges – Gotta catch 'em all",
+      "language": "CoffeeScript",
+      "stars": 1216,
+      "forks": 735,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "vtex/angular-locale",
       "url": "https://github.com/vtex/angular-locale",
       "description": "* [vtex/ng-currency-mask](https://github.com/vtex/ng-currency-mask):",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 2,
+      "forks": 2,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

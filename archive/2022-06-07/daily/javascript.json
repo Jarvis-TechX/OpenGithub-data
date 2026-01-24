@@ -15,15 +15,17 @@
       "repo_name": "30-seconds-of-code",
       "full_name": "30-seconds/30-seconds-of-code",
       "url": "https://github.com/30-seconds/30-seconds-of-code",
-      "description": "Short JavaScript code snippets for all your development needs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Coding articles to level up your development skills",
+      "language": "JavaScript",
+      "stars": 126464,
+      "forks": 12416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "sudheerj/reactjs-interview-questions",
       "url": "https://github.com/sudheerj/reactjs-interview-questions",
       "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 44127,
+      "forks": 10264,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "netlify/netlify-cms",
       "url": "https://github.com/netlify/netlify-cms",
       "description": "A Git-based CMS for Static Site Generators",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18852,
+      "forks": 3107,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "dalle-playground",
       "full_name": "saharmor/dalle-playground",
       "url": "https://github.com/saharmor/dalle-playground",
-      "description": "A playground to generate images from any text prompt based on OpenAI's DALL-E https://openai.com/blog/dall-e/",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)",
+      "language": "JavaScript",
+      "stars": 2749,
+      "forks": 588,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "advplyr/audiobookshelf",
       "url": "https://github.com/advplyr/audiobookshelf",
       "description": "Self-hosted audiobook and podcast server",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11446,
+      "forks": 829,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "ender-zhao/Clash-for-Windows_Chinese",
       "url": "https://github.com/ender-zhao/Clash-for-Windows_Chinese",
       "description": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27550,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "brave-browser",
       "full_name": "brave/brave-browser",
       "url": "https://github.com/brave/brave-browser",
-      "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 21196,
+      "forks": 2949,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "gatsby",
       "full_name": "gatsbyjs/gatsby",
       "url": "https://github.com/gatsbyjs/gatsby",
-      "description": "Build blazing fast, modern apps and websites with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The best React-based framework with performance, scalability and security built in.",
+      "language": "JavaScript",
+      "stars": 55973,
+      "forks": 10251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "sudheerj/javascript-interview-questions",
       "url": "https://github.com/sudheerj/javascript-interview-questions",
       "description": "List of 1000 JavaScript Interview Questions",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 26972,
+      "forks": 7566,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "adrianhajdin/ecommerce_sanity_stripe",
       "url": "https://github.com/adrianhajdin/ecommerce_sanity_stripe",
       "description": "Modern Full Stack ECommerce Application with Stripe",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2305,
+      "forks": 704,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "facebookexperimental/Recoil",
       "url": "https://github.com/facebookexperimental/Recoil",
       "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19544,
+      "forks": 1220,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Solidity",
+      "stars": 26936,
+      "forks": 12415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 18,
@@ -289,13 +323,15 @@
       "url": "https://github.com/HowProgrammingWorks/Index",
       "description": "Metarhia educational program index 📖",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 3543,
+      "forks": 432,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "chiru-labs/ERC721A",
       "url": "https://github.com/chiru-labs/ERC721A",
       "description": "https://ERC721A.org",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2549,
+      "forks": 826,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "PrismarineJS/mineflayer",
       "url": "https://github.com/PrismarineJS/mineflayer",
       "description": "Create Minecraft bots with a powerful, stable, and high level JavaScript API.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6524,
+      "forks": 1170,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "HashLips/hashlips_art_engine",
       "url": "https://github.com/HashLips/hashlips_art_engine",
       "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7246,
+      "forks": 4269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "eslint/eslint",
       "url": "https://github.com/eslint/eslint",
       "description": "Find and fix problems in your JavaScript code.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 26813,
+      "forks": 4889,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "atlassian/react-beautiful-dnd",
       "url": "https://github.com/atlassian/react-beautiful-dnd",
       "description": "Beautiful and accessible drag and drop for lists with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 34046,
+      "forks": 2738,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 24,
@@ -385,13 +431,15 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 269698,
+      "forks": 12308,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "briancodex/react-website-v1",
       "url": "https://github.com/briancodex/react-website-v1",
       "description": "",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 762,
+      "forks": 1519,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-06/2022-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:31Z"
     }
   ]
 }

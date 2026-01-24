@@ -16,14 +16,16 @@
       "full_name": "codecombat/codecombat",
       "url": "https://github.com/codecombat/codecombat",
       "description": "Game for learning how to code.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8407,
+      "forks": 4168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md"
+      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "philc/vimium",
       "url": "https://github.com/philc/vimium",
       "description": "The hacker's browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 25911,
+      "forks": 2552,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md"
+      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "pubnub/pubnub-tessel",
       "url": "https://github.com/pubnub/pubnub-tessel",
       "description": "Getting Started Guide and Example Programs for Tessel.io / PubNub integration",
-      "language": "coffeescript",
-      "stars": 0,
+      "language": "CoffeeScript",
+      "stars": 10,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md"
+      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "Pagedraw/pagedraw",
       "url": "https://github.com/Pagedraw/pagedraw",
       "description": "a UI builder for React web apps",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3554,
+      "forks": 462,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md"
+      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md"
+      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md"
+      "source_path": "/tmp/trending_archive/2019/2019-08/2019-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     }
   ]
 }

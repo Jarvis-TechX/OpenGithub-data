@@ -17,13 +17,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 4868,
-      "forks": 275,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 2,
@@ -111,15 +113,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 5865,
-      "forks": 612,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 8,
@@ -177,13 +181,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 32070,
-      "forks": 9745,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 12,
@@ -240,14 +246,16 @@
       "full_name": "react-native-community/react-native-webview",
       "url": "https://github.com/react-native-community/react-native-webview",
       "description": "React Native Cross-Platform WebView",
-      "language": "Objective-C",
-      "stars": 923,
-      "forks": 297,
+      "language": "TypeScript",
+      "stars": 7078,
+      "forks": 3148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 16,
@@ -273,13 +281,15 @@
       "url": "https://github.com/ivpusic/react-native-image-crop-picker",
       "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
       "language": "Objective-C",
-      "stars": 3192,
-      "forks": 703,
+      "stars": 6331,
+      "forks": 1608,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 18,
@@ -320,14 +330,16 @@
       "full_name": "react-native-community/react-native-device-info",
       "url": "https://github.com/react-native-community/react-native-device-info",
       "description": "Device Information for React Native iOS and Android",
-      "language": "Objective-C",
-      "stars": 3732,
-      "forks": 813,
+      "language": "TypeScript",
+      "stars": 6658,
+      "forks": 1472,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 21,
@@ -353,13 +365,15 @@
       "url": "https://github.com/Cenmrev/V2RayX",
       "description": "GUI for v2ray-core on macOS",
       "language": "Objective-C",
-      "stars": 2236,
-      "forks": 349,
+      "stars": 7672,
+      "forks": 1126,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 23,
@@ -369,13 +383,15 @@
       "url": "https://github.com/lvpengwei/LVThemeKit",
       "description": "App 多区域皮肤 UIKit Category",
       "language": "Objective-C",
-      "stars": 38,
-      "forks": 0,
+      "stars": 77,
+      "forks": 3,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 24,

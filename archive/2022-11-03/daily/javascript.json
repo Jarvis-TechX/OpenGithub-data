@@ -16,14 +16,16 @@
       "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
       "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
       "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30690,
+      "forks": 2564,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "hiring-without-whiteboards",
       "full_name": "poteto/hiring-without-whiteboards",
       "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "description": "⭐️ Companies that don't have a broken hiring process",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⭐️  Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "stars": 50361,
+      "forks": 3880,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "quasarframework/quasar",
       "url": "https://github.com/quasarframework/quasar",
       "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27045,
+      "forks": 3681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "url": "https://github.com/Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14650,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "d3",
       "full_name": "d3/d3",
       "url": "https://github.com/d3/d3",
-      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+      "language": "Shell",
+      "stars": 112204,
+      "forks": 22835,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "yyx990803/vite-vs-next-turbo-hmr",
       "url": "https://github.com/yyx990803/vite-vs-next-turbo-hmr",
       "description": "Benchmarking Vite vs. Next + turbopack HMR performance",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 932,
+      "forks": 37,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "lodash/lodash",
       "url": "https://github.com/lodash/lodash",
       "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 61594,
+      "forks": 7117,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 10,
@@ -176,14 +194,16 @@
       "full_name": "Anarios/return-youtube-dislike",
       "url": "https://github.com/Anarios/return-youtube-dislike",
       "description": "Chrome extension to return youtube dislikes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13449,
+      "forks": 605,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 12,
@@ -191,15 +211,17 @@
       "repo_name": "material-ui",
       "full_name": "mui/material-ui",
       "url": "https://github.com/mui/material-ui",
-      "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "language": "JavaScript",
+      "stars": 97682,
+      "forks": 32793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 13,
@@ -207,15 +229,17 @@
       "repo_name": "LinkFree",
       "full_name": "EddieHubCommunity/LinkFree",
       "url": "https://github.com/EddieHubCommunity/LinkFree",
-      "description": "Open source alternative to LinkTree",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
+      "language": "JavaScript",
+      "stars": 5740,
+      "forks": 4057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 14,
@@ -223,15 +247,17 @@
       "repo_name": "snapdrop",
       "full_name": "RobinLinus/snapdrop",
       "url": "https://github.com/RobinLinus/snapdrop",
-      "description": "A Progressive Web App for local file sharing",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A Progressive Web App for local file sharing ",
+      "language": "JavaScript",
+      "stars": 19669,
+      "forks": 1891,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 15,
@@ -239,15 +265,17 @@
       "repo_name": "landscape",
       "full_name": "cncf/landscape",
       "url": "https://github.com/cncf/landscape",
-      "description": "🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.",
+      "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 9801,
+      "forks": 2117,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 16,
@@ -256,14 +284,16 @@
       "full_name": "Koenkk/zigbee-herdsman-converters",
       "url": "https://github.com/Koenkk/zigbee-herdsman-converters",
       "description": "Collection of device converters to be used with zigbee-herdsman",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 1143,
+      "forks": 4009,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 17,
@@ -279,7 +309,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 18,
@@ -287,15 +319,17 @@
       "repo_name": "kit",
       "full_name": "sveltejs/kit",
       "url": "https://github.com/sveltejs/kit",
-      "description": "The fastest way to build Svelte apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "web development, streamlined",
+      "language": "JavaScript",
+      "stars": 20207,
+      "forks": 2194,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 19,
@@ -304,14 +338,16 @@
       "full_name": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 110509,
+      "forks": 36242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "TechXueXi/techxuexi-js",
       "url": "https://github.com/TechXueXi/techxuexi-js",
       "description": "油猴等插件的 学习强国 js 代码 45分/天",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3730,
+      "forks": 2166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "midudev/preguntas-entrevista-react",
       "url": "https://github.com/midudev/preguntas-entrevista-react",
       "description": "Preguntas típicas sobre React para entrevistas de trabajo ⚛️",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7653,
+      "forks": 741,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 22,
@@ -359,7 +399,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "winstonjs/winston",
       "url": "https://github.com/winstonjs/winston",
       "description": "A logger for just about everything.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 24319,
+      "forks": 1848,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "vaxilu/x-ui",
       "url": "https://github.com/vaxilu/x-ui",
       "description": "支持多协议多用户的 xray 面板",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18684,
+      "forks": 7268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-11/2022-11-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     }
   ]
 }

@@ -15,15 +15,17 @@
       "repo_name": "workerd",
       "full_name": "cloudflare/workerd",
       "url": "https://github.com/cloudflare/workerd",
-      "description": "* [Taiga74164/Akebi-GC](https://github.com/Taiga74164/Akebi-GC): Genshin cheat for OS/CN 3.0",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "stars": 7445,
+      "forks": 516,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 96859,
+      "forks": 26601,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "MaaAssistantArknights",
       "full_name": "MaaAssistantArknights/MaaAssistantArknights",
       "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-      "description": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+      "language": "C++",
+      "stars": 19281,
+      "forks": 2452,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "google/googletest",
       "url": "https://github.com/google/googletest",
       "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38123,
+      "forks": 10678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "fmtlib/fmt",
       "url": "https://github.com/fmtlib/fmt",
       "description": "A modern formatting library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 23187,
+      "forks": 2813,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "ange-yaghi/engine-sim",
       "url": "https://github.com/ange-yaghi/engine-sim",
       "description": "Combustion engine simulator that generates realistic audio.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9242,
+      "forks": 863,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "carla-simulator/carla",
       "url": "https://github.com/carla-simulator/carla",
       "description": "Open-source simulator for autonomous driving research.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13519,
+      "forks": 4415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 193461,
+      "forks": 75203,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "facebook/folly",
       "url": "https://github.com/facebook/folly",
       "description": "An open-source C++ library developed and used at Facebook.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 30234,
+      "forks": 5841,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "onnx/onnx",
       "url": "https://github.com/onnx/onnx",
       "description": "Open standard for machine learning interoperability",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 20208,
+      "forks": 3855,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "cdcseacave/openMVS",
       "url": "https://github.com/cdcseacave/openMVS",
       "description": "open Multi-View Stereo reconstruction library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3871,
+      "forks": 955,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "OSGeo/gdal",
       "url": "https://github.com/OSGeo/gdal",
       "description": "GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5729,
+      "forks": 2831,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "google/flatbuffers",
       "url": "https://github.com/google/flatbuffers",
       "description": "FlatBuffers: Memory Efficient Serialization Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 25449,
+      "forks": 3486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "tesseract-ocr/tesseract",
       "url": "https://github.com/tesseract-ocr/tesseract",
       "description": "Tesseract Open Source OCR Engine (main repository)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 72041,
+      "forks": 10469,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "TheCherno/Hazel",
       "url": "https://github.com/TheCherno/Hazel",
       "description": "Hazel Engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12826,
+      "forks": 1555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 18,
@@ -295,7 +329,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "WasmEdge/WasmEdge",
       "url": "https://github.com/WasmEdge/WasmEdge",
       "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10367,
+      "forks": 959,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "ClickHouse",
       "full_name": "ClickHouse/ClickHouse",
       "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a free analytics DBMS for big data",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "stars": 45402,
+      "forks": 8004,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "velox",
       "full_name": "facebookincubator/velox",
       "url": "https://github.com/facebookincubator/velox",
-      "description": "A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A composable and fully extensible C++ execution engine library for data management systems.",
+      "language": "C++",
+      "stars": 4027,
+      "forks": 1440,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "CMU-Perceptual-Computing-Lab/openpose",
       "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
       "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33705,
+      "forks": 8049,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "google/tensorstore",
       "url": "https://github.com/google/tensorstore",
       "description": "Library for reading and writing large multi-dimensional arrays.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1477,
+      "forks": 139,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "envoyproxy/envoy",
       "url": "https://github.com/envoyproxy/envoy",
       "description": "Cloud-native high-performance edge/middle/service proxy",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 27387,
+      "forks": 5220,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md"
+      "source_path": "/tmp/trending_archive/2022/2022-09/2022-09-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     }
   ]
 }

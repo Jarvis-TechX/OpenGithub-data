@@ -16,14 +16,16 @@
       "full_name": "alievk/avatarify",
       "url": "https://github.com/alievk/avatarify",
       "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 16550,
+      "forks": 4320,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "Bug-Bounty-Toolz",
       "full_name": "m4ll0k/Bug-Bounty-Toolz",
       "url": "https://github.com/m4ll0k/Bug-Bounty-Toolz",
-      "description": "BBT - Bug Bounty Tools",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "BBT - Bug Bounty Tools (examples💡)",
+      "language": "Python",
+      "stars": 1873,
+      "forks": 474,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "donnemartin/data-science-ipython-notebooks",
       "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
       "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 28822,
+      "forks": 8048,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "iduta/pyconv",
       "url": "https://github.com/iduta/pyconv",
       "description": "Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition (https://arxiv.org/pdf/2006.11538.pdf)",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 331,
+      "forks": 53,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "rasa",
       "full_name": "RasaHQ/rasa",
       "url": "https://github.com/RasaHQ/rasa",
-      "description": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+      "language": "Python",
+      "stars": 20992,
+      "forks": 4912,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "Deep-MI/FastSurfer",
       "url": "https://github.com/Deep-MI/FastSurfer",
       "description": "PyTorch implementation of FastSurferCNN",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 574,
+      "forks": 144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "willmcgugan/rich",
       "url": "https://github.com/willmcgugan/rich",
       "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 55222,
+      "forks": 2005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "d2l-en",
       "full_name": "d2l-ai/d2l-en",
       "url": "https://github.com/d2l-ai/d2l-en",
-      "description": "Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
+      "language": "Python",
+      "stars": 28010,
+      "forks": 4940,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "Gallopsled/pwntools",
       "url": "https://github.com/Gallopsled/pwntools",
       "description": "CTF framework and exploit development library",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 13197,
+      "forks": 1809,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "quantopian/zipline",
       "url": "https://github.com/quantopian/zipline",
       "description": "Zipline, a Pythonic Algorithmic Trading Library",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 19357,
+      "forks": 4937,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "YandexStation",
       "full_name": "AlexxIT/YandexStation",
       "url": "https://github.com/AlexxIT/YandexStation",
-      "description": "Управление Яндекс.Станцией и другими колонками с Алисой из Home Assistant",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Управление Яндекс.Станцией и другими устройствами умного дома с Алисой из Home Assistant",
+      "language": "Python",
+      "stars": 1750,
+      "forks": 154,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "devanshbatham/Awesome-Bugbounty-Writeups",
       "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
       "description": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5502,
+      "forks": 1123,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "deezer/spleeter",
       "url": "https://github.com/deezer/spleeter",
       "description": "Deezer source separation library including pretrained models.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 27989,
+      "forks": 3065,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "vsitzmann/siren",
       "url": "https://github.com/vsitzmann/siren",
       "description": "Official implementation of \"Implicit Neural Representations with Periodic Activation Functions\"",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1936,
+      "forks": 268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "DeepCTR",
       "full_name": "shenweichen/DeepCTR",
       "url": "https://github.com/shenweichen/DeepCTR",
-      "description": "Easy-to-use,Modular and Extendible package of deep-learning based CTR models.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Easy-to-use,Modular and Extendible package of deep-learning based CTR models .",
+      "language": "Python",
+      "stars": 7983,
+      "forks": 2237,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "prefect",
       "full_name": "PrefectHQ/prefect",
       "url": "https://github.com/PrefectHQ/prefect",
-      "description": "A modern data workflow platform",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars": 21411,
+      "forks": 2085,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "VPanjeta/ModiScript",
       "url": "https://github.com/VPanjeta/ModiScript",
       "description": "Acche din aa gaye",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1040,
+      "forks": 110,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "libratbag/piper",
       "url": "https://github.com/libratbag/piper",
       "description": "GTK application to configure gaming devices",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5581,
+      "forks": 204,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "Ultimaker/Cura",
       "url": "https://github.com/Ultimaker/Cura",
       "description": "3D printer / slicing GUI built on top of the Uranium framework",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6864,
+      "forks": 2158,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "erpnext",
       "full_name": "frappe/erpnext",
       "url": "https://github.com/frappe/erpnext",
-      "description": "Open Source Alternative to SAP",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "language": "Python",
+      "stars": 31231,
+      "forks": 10238,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 23,
@@ -375,7 +419,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "wrenfairbank/telegram_gcloner",
       "url": "https://github.com/wrenfairbank/telegram_gcloner",
       "description": "* [https://github.com/wistbean/learn_python3_spider](wistbean/learn_python3_spider) python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 176,
+      "forks": 400,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

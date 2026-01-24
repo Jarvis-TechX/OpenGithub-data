@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "morrisjs/morris.js",
       "url": "https://github.com/morrisjs/morris.js",
       "description": "Pretty time-series line graphs",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 6893,
+      "forks": 1206,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "chinese-copywriting-guidelines",
       "full_name": "sparanoid/chinese-copywriting-guidelines",
       "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
-      "description": "Chinese copywriting guidelines for better written communication",
+      "description": "Chinese copywriting guidelines for better written communication／中文文案排版指北",
       "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 15173,
+      "forks": 1834,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "taigaio/taiga-front",
       "url": "https://github.com/taigaio/taiga-front",
       "description": "Project management web application with scrum in mind! Built on top of Django and AngularJS (Front)",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 351,
+      "forks": 185,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "danielgtaylor/aglio",
       "url": "https://github.com/danielgtaylor/aglio",
       "description": "An API Blueprint renderer with theme support that outputs static HTML",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4757,
+      "forks": 478,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "atlassian/jasmine-http-server-spy",
       "url": "https://github.com/atlassian/jasmine-http-server-spy",
       "description": "Creates jasmine spy objects backed by a http server.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 1,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "mulesoft/osprey-cli",
       "url": "https://github.com/mulesoft/osprey-cli",
       "description": "The Command Line Interface (CLI) scaffolding tool to generate Osprey-based applications, ideally from a pre-defined RAML API spec, with just a single command.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 18,
+      "forks": 8,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

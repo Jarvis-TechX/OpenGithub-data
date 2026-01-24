@@ -16,14 +16,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-22.md"
+      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     }
   ]
 }

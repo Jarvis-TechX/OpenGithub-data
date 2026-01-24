@@ -32,14 +32,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "objective-c",
-      "stars": 10545,
-      "forks": 1214,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 4,
@@ -96,14 +98,16 @@
       "full_name": "airbnb/react-native-maps",
       "url": "https://github.com/airbnb/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "objective-c",
-      "stars": 5365,
-      "forks": 1361,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 8,
@@ -128,14 +132,16 @@
       "full_name": "Instagram/IGListKit",
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
-      "language": "objective-c",
-      "stars": 6703,
-      "forks": 626,
+      "language": "Objective-C",
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 10,
@@ -144,14 +150,16 @@
       "full_name": "rs/SDWebImage",
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
-      "language": "objective-c",
-      "stars": 18540,
-      "forks": 4940,
+      "language": "Objective-C",
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 11,
@@ -160,14 +168,16 @@
       "full_name": "2877025939/block",
       "url": "https://github.com/2877025939/block",
       "description": "block的使用和解决循环引用，列举了常见的block使用策略。",
-      "language": "objective-c",
-      "stars": 34,
-      "forks": 0,
+      "language": "Objective-C",
+      "stars": 48,
+      "forks": 25,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 12,
@@ -223,15 +233,17 @@
       "repo_name": "AFNetworking",
       "full_name": "AFNetworking/AFNetworking",
       "url": "https://github.com/AFNetworking/AFNetworking",
-      "description": "A delightful networking framework for iOS, OS X, watchOS, and tvOS.",
-      "language": "objective-c",
-      "stars": 29985,
-      "forks": 9360,
+      "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+      "language": "Objective-C",
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 16,
@@ -383,15 +395,17 @@
       "repo_name": "GCD",
       "full_name": "2877025939/GCD",
       "url": "https://github.com/2877025939/GCD",
-      "description": "这里详细介绍了iOS多线程 NSThread，GCD，NSOperation的使用。看我就够了！",
-      "language": "objective-c",
-      "stars": 57,
-      "forks": 2,
+      "description": "使用CollectionView实现的轮播图，丝滑的流畅，支持网络图片和本地图片轮播，混合也是支持的！",
+      "language": "Objective-C",
+      "stars": 117,
+      "forks": 38,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     }
   ]
 }

@@ -112,14 +112,16 @@
       "full_name": "fastred/IBAnalyzer",
       "url": "https://github.com/fastred/IBAnalyzer",
       "description": "Find common xib and storyboard-related problems without running your app or writing unit tests.",
-      "language": "swift",
-      "stars": 195,
-      "forks": 2,
+      "language": "Swift",
+      "stars": 946,
+      "forks": 26,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/02/2017-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2017/02/2017-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 8,
@@ -176,14 +178,16 @@
       "full_name": "UrbanCompass/Snail",
       "url": "https://github.com/UrbanCompass/Snail",
       "description": "An observables framework for Swift",
-      "language": "swift",
-      "stars": 29,
-      "forks": 0,
+      "language": "Swift",
+      "stars": 180,
+      "forks": 14,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/02/2017-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2017/02/2017-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 12,

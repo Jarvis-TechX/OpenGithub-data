@@ -15,15 +15,17 @@
       "repo_name": "tech-interview-handbook",
       "full_name": "yangshun/tech-interview-handbook",
       "url": "https://github.com/yangshun/tech-interview-handbook",
-      "description": "💯 Materials to help you rock your next coding interview",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Curated coding interview preparation materials for busy software engineers",
+      "language": "TypeScript",
+      "stars": 136953,
+      "forks": 16377,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "appwrite",
       "full_name": "appwrite/appwrite",
       "url": "https://github.com/appwrite/appwrite",
-      "description": "End to end backend server for frontend and mobile developers. 👩‍💻👨‍💻",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+      "language": "TypeScript",
+      "stars": 54522,
+      "forks": 4958,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "agalwood/Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 50602,
+      "forks": 4806,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "Home-AssistantConfig",
       "full_name": "CCOSTAN/Home-AssistantConfig",
       "url": "https://github.com/CCOSTAN/Home-AssistantConfig",
-      "description": "🏠 Home Assistant configuration & Documentation for my Smart House. Write ups, videos, part lists and links throughout. Be sure to ⭐️ it. Updated FREQUENTLY!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!",
+      "language": "Shell",
+      "stars": 5154,
+      "forks": 503,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "OpenCTI-Platform/opencti",
       "url": "https://github.com/OpenCTI-Platform/opencti",
       "description": "Open Cyber Threat Intelligence Platform",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 8124,
+      "forks": 1200,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "btholt/complete-intro-to-react-v5",
       "url": "https://github.com/btholt/complete-intro-to-react-v5",
       "description": "The Complete Intro to React, the fifth version",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3599,
+      "forks": 1110,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "freeCodeCamp",
       "full_name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 436225,
+      "forks": 43169,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "github/opensource.guide",
       "url": "https://github.com/github/opensource.guide",
       "description": "📚 Community guides for open source creators",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 15175,
+      "forks": 15247,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "chakra-ui",
       "full_name": "chakra-ui/chakra-ui",
       "url": "https://github.com/chakra-ui/chakra-ui",
-      "description": "⚡️Simple, Modular & Accessible UI Components for your React Applications",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+      "language": "TypeScript",
+      "stars": 40183,
+      "forks": 3559,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "jhu-ep-coursera/fullstack-course4",
       "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
       "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10949,
+      "forks": 11761,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "oliver-moran/jimp",
       "url": "https://github.com/oliver-moran/jimp",
       "description": "An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14584,
+      "forks": 777,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "LeCoupa/awesome-cheatsheets",
       "url": "https://github.com/LeCoupa/awesome-cheatsheets",
       "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 45213,
+      "forks": 6652,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "LLK/scratch-gui",
       "url": "https://github.com/LLK/scratch-gui",
       "description": "Graphical User Interface for creating and running Scratch 3.0 projects.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4743,
+      "forks": 4029,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "Nozbe/WatermelonDB",
       "url": "https://github.com/Nozbe/WatermelonDB",
       "description": "🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11496,
+      "forks": 641,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "chinese-poetry",
       "full_name": "chinese-poetry/chinese-poetry",
       "url": "https://github.com/chinese-poetry/chinese-poetry",
-      "description": "最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
+      "language": "JavaScript",
+      "stars": 50871,
+      "forks": 10285,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "bannedbook/fanqiang",
       "url": "https://github.com/bannedbook/fanqiang",
       "description": "翻墙-科学上网",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Kotlin",
+      "stars": 41973,
+      "forks": 7557,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "balena-io/etcher",
       "url": "https://github.com/balena-io/etcher",
       "description": "Flash OS images to SD cards & USB drives, safely and easily.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 33000,
+      "forks": 2322,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "academicpages.github.io",
       "full_name": "academicpages/academicpages.github.io",
       "url": "https://github.com/academicpages/academicpages.github.io",
-      "description": "Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
+      "language": "SCSS",
+      "stars": 16311,
+      "forks": 5248,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "facebook/jest",
       "url": "https://github.com/facebook/jest",
       "description": "Delightful JavaScript Testing.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 45271,
+      "forks": 6626,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "bitpay/bitcore",
       "url": "https://github.com/bitpay/bitcore",
       "description": "A full stack for bitcoin and blockchain-based applications",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4981,
+      "forks": 2155,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 25,
@@ -399,15 +447,17 @@
       "repo_name": "three.js",
       "full_name": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
-      "description": "JavaScript 3D library.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "JavaScript 3D Library.",
+      "language": "JavaScript",
+      "stars": 110509,
+      "forks": 36242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     }
   ]
 }

@@ -16,14 +16,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "StarInitial/xpcheck",
       "url": "https://github.com/StarInitial/xpcheck",
       "description": "* [https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker](HaveIBeenPwned/PwnedPasswordsCloudflareWorker)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Ink",
+      "stars": 361,
+      "forks": 30,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "jklepatch/eattheblocks",
       "url": "https://github.com/jklepatch/eattheblocks",
       "description": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4002,
+      "forks": 3139,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "kit",
       "full_name": "sveltejs/kit",
       "url": "https://github.com/sveltejs/kit",
-      "description": "The fastest way to build Svelte apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "web development, streamlined",
+      "language": "JavaScript",
+      "stars": 20207,
+      "forks": 2194,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "brave-browser",
       "full_name": "brave/brave-browser",
       "url": "https://github.com/brave/brave-browser",
-      "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 21196,
+      "forks": 2949,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "openspug/spug",
       "url": "https://github.com/openspug/spug",
       "description": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10947,
+      "forks": 2192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "github-readme-stats",
       "full_name": "anuraghazra/github-readme-stats",
       "url": "https://github.com/anuraghazra/github-readme-stats",
-      "description": "⚡ Dynamically generated stats for your github readmes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":zap: Dynamically generated stats for your github readmes",
+      "language": "JavaScript",
+      "stars": 78054,
+      "forks": 29681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "laxyapahuja/bunken",
       "url": "https://github.com/laxyapahuja/bunken",
       "description": "A chrome extension to download ebooks directly from Goodreads.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 824,
+      "forks": 58,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "bchiang7/v4",
       "url": "https://github.com/bchiang7/v4",
       "description": "Fourth iteration of my personal website built with Gatsby",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8161,
+      "forks": 4220,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "gorhill/uBlock",
       "url": "https://github.com/gorhill/uBlock",
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 61086,
+      "forks": 3915,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "typescript-cheatsheets/react",
       "url": "https://github.com/typescript-cheatsheets/react",
       "description": "Cheatsheets for experienced React developers getting started with TypeScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 46905,
+      "forks": 4274,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "boring-avatars",
       "full_name": "boringdesigners/boring-avatars",
       "url": "https://github.com/boringdesigners/boring-avatars",
-      "description": "Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.",
+      "language": "TypeScript",
+      "stars": 6116,
+      "forks": 207,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "google/zx",
       "url": "https://github.com/google/zx",
       "description": "A tool for writing better scripts",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 45080,
+      "forks": 1192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "tmall-miao",
       "full_name": "MonsterNone/tmall-miao",
       "url": "https://github.com/MonsterNone/tmall-miao",
-      "description": "天猫618/双十一喵币/年货节芭芭农场任务一键完成（绕过淘宝检测，新版淘宝也能用）",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "喵币助手：618天猫（淘宝）、京东任务一键完成。HarmonyOS Next（鸿蒙5）版本开发中。",
+      "language": "Python",
+      "stars": 4026,
+      "forks": 498,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "nkpznkpz/frontrun-pancake",
       "url": "https://github.com/nkpznkpz/frontrun-pancake",
       "description": "* [https://github.com/github/opensource.guide](github/opensource.guide) 📚 Community guides for open source creators",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 63,
+      "forks": 76,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "rahuldkjain/github-profile-readme-generator",
       "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
       "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 23946,
+      "forks": 8223,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "cowin-automation-extn",
       "full_name": "sushrut111/cowin-automation-extn",
       "url": "https://github.com/sushrut111/cowin-automation-extn",
-      "description": "Source code for chrome extension Cowin Automation. Auto fills the fields on cowin vaccine slot booking portal to speed up the process and quickly book a slot.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Source code for chrome extension Cowin Booking. Auto fills the fields on cowin vaccine slot booking portal to speed up the process and quickly book a slot.",
+      "language": "JavaScript",
+      "stars": 48,
+      "forks": 31,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     }
   ]
 }

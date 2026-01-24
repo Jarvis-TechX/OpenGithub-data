@@ -31,15 +31,17 @@
       "repo_name": "vue-element-admin",
       "full_name": "PanJiaChen/vue-element-admin",
       "url": "https://github.com/PanJiaChen/vue-element-admin",
-      "description": "🎉 A magical vue admin http://panjiachen.github.io/vue-element-admin",
+      "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
-      "stars": 18475,
-      "forks": 5594,
+      "stars": 90289,
+      "forks": 30648,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 3,
@@ -65,13 +67,15 @@
       "url": "https://github.com/ElemeFE/element",
       "description": "A Vue.js 2.0 UI Toolkit for Web",
       "language": "Vue",
-      "stars": 30268,
-      "forks": 5848,
+      "stars": 54232,
+      "forks": 14568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 5,
@@ -95,15 +99,17 @@
       "repo_name": "vant",
       "full_name": "youzan/vant",
       "url": "https://github.com/youzan/vant",
-      "description": "Lightweight Mobile UI Components built on Vue",
-      "language": "Vue",
-      "stars": 5678,
-      "forks": 899,
+      "description": "A lightweight, customizable Vue UI library for mobile web apps.",
+      "language": "TypeScript",
+      "stars": 24217,
+      "forks": 9480,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 7,
@@ -113,13 +119,15 @@
       "url": "https://github.com/iview/iview-admin",
       "description": "Vue 2.0 admin management system template based on iView",
       "language": "Vue",
-      "stars": 8312,
-      "forks": 2292,
+      "stars": 16451,
+      "forks": 4793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 8,
@@ -129,13 +137,15 @@
       "url": "https://github.com/iview/iview",
       "description": "A high quality UI Toolkit built on Vue.js 2.0",
       "language": "Vue",
-      "stars": 17014,
-      "forks": 2812,
+      "stars": 23873,
+      "forks": 4093,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 9,
@@ -159,15 +169,17 @@
       "repo_name": "smarthome-tutorial",
       "full_name": "zircleUI/smarthome-tutorial",
       "url": "https://github.com/zircleUI/smarthome-tutorial",
-      "description": "Tutorial: smarthome dashboard repo.",
+      "description": "🎓 Tutorial: smart-home dashboard UI concept.",
       "language": "Vue",
-      "stars": 26,
-      "forks": 0,
+      "stars": 211,
+      "forks": 18,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 11,
@@ -177,13 +189,15 @@
       "url": "https://github.com/airyland/vux",
       "description": "Mobile UI Components based on Vue & WeUI",
       "language": "Vue",
-      "stars": 13848,
-      "forks": 3069,
+      "stars": 17535,
+      "forks": 3680,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 12,
@@ -192,14 +206,16 @@
       "full_name": "d2-projects/d2-admin",
       "url": "https://github.com/d2-projects/d2-admin",
       "description": "An elegant dashboard",
-      "language": "Vue",
-      "stars": 2447,
-      "forks": 363,
+      "language": "JavaScript",
+      "stars": 12666,
+      "forks": 2448,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 13,
@@ -305,13 +321,15 @@
       "url": "https://github.com/buefy/buefy",
       "description": "Lightweight UI components for Vue.js based on Bulma",
       "language": "Vue",
-      "stars": 3520,
-      "forks": 328,
+      "stars": 9555,
+      "forks": 1107,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 20,
@@ -319,15 +337,17 @@
       "repo_name": "vue-js-modal",
       "full_name": "euvl/vue-js-modal",
       "url": "https://github.com/euvl/vue-js-modal",
-      "description": "🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.",
+      "description": "Easy to use, highly customizable Vue.js modal library.",
       "language": "Vue",
-      "stars": 1653,
-      "forks": 213,
+      "stars": 4340,
+      "forks": 590,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 21,
@@ -385,13 +405,15 @@
       "url": "https://github.com/museui/muse-ui",
       "description": "Material Design UI library for Vuejs 2.0",
       "language": "Vue",
-      "stars": 6467,
-      "forks": 787,
+      "stars": 8170,
+      "forks": 891,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 25,
@@ -399,15 +421,17 @@
       "repo_name": "best-resume-ever",
       "full_name": "salomonelli/best-resume-ever",
       "url": "https://github.com/salomonelli/best-resume-ever",
-      "description": "👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.",
+      "description": ":necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.",
       "language": "Vue",
-      "stars": 10601,
-      "forks": 1244,
+      "stars": 16469,
+      "forks": 2290,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     }
   ]
 }

@@ -63,15 +63,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 6140,
-      "forks": 664,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 5,
@@ -103,7 +105,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 7,
@@ -305,13 +309,15 @@
       "url": "https://github.com/robbiehanson/CocoaAsyncSocket",
       "description": "Asynchronous socket networking library for Mac and iOS",
       "language": "Objective-C",
-      "stars": 10959,
-      "forks": 2701,
+      "stars": 12467,
+      "forks": 3019,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 20,
@@ -337,13 +343,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 32156,
-      "forks": 9753,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 22,
@@ -353,13 +361,15 @@
       "url": "https://github.com/BradLarson/GPUImage",
       "description": "An open source iOS framework for GPU-based image and video processing",
       "language": "Objective-C",
-      "stars": 18550,
-      "forks": 4422,
+      "stars": 20343,
+      "forks": 4589,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 23,
@@ -401,13 +411,15 @@
       "url": "https://github.com/realm/realm-cocoa",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
-      "stars": 13182,
-      "forks": 1693,
+      "stars": 16587,
+      "forks": 2213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     }
   ]
 }

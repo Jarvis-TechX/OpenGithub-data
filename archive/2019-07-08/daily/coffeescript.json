@@ -16,14 +16,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "chinese-copywriting-guidelines",
       "full_name": "sparanoid/chinese-copywriting-guidelines",
       "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
-      "description": "Chinese copywriting guidelines for better written communication",
+      "description": "Chinese copywriting guidelines for better written communication／中文文案排版指北",
       "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 15173,
+      "forks": 1834,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "rubykube/peatio-trading-ui",
       "url": "https://github.com/rubykube/peatio-trading-ui",
       "description": "Peatio trading UI extracted as separate Rails 5 application.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 43,
+      "forks": 85,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "atlassian/jasmine-http-server-spy",
       "url": "https://github.com/atlassian/jasmine-http-server-spy",
       "description": "Creates jasmine spy objects backed by a http server.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 1,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

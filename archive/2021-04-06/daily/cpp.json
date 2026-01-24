@@ -16,14 +16,16 @@
       "full_name": "davepl/Primes",
       "url": "https://github.com/davepl/Primes",
       "description": "Prime Number Projects in C#/C++/Python",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C",
+      "stars": 118,
+      "forks": 17,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87749,
+      "forks": 38772,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "acidanthera/AppleALC",
       "url": "https://github.com/acidanthera/AppleALC",
       "description": "Native macOS HD audio for not officially supported codecs",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3540,
+      "forks": 1044,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "scop_vulkan",
       "full_name": "cledant/scop_vulkan",
       "url": "https://github.com/cledant/scop_vulkan",
-      "description": "A 3D model viewer written in C++20 and Vulkan",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A 3D model viewer written C++20 and Vulkan",
+      "language": "C++",
+      "stars": 146,
+      "forks": 8,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "acidanthera/Lilu",
       "url": "https://github.com/acidanthera/Lilu",
       "description": "Arbitrary kext and process patching on macOS",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C",
+      "stars": 3789,
+      "forks": 425,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "emscripten-core/emscripten",
       "url": "https://github.com/emscripten-core/emscripten",
       "description": "Emscripten: An LLVM-to-WebAssembly Compiler",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 27143,
+      "forks": 3478,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "assimp",
       "full_name": "assimp/assimp",
       "url": "https://github.com/assimp/assimp",
-      "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. ",
+      "language": "C++",
+      "stars": 12678,
+      "forks": 3138,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "telegramdesktop/tdesktop",
       "url": "https://github.com/telegramdesktop/tdesktop",
       "description": "Telegram Desktop messaging app",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29618,
+      "forks": 6204,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "acidanthera/WhateverGreen",
       "url": "https://github.com/acidanthera/WhateverGreen",
       "description": "Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3348,
+      "forks": 641,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "esphome/esphome",
       "url": "https://github.com/esphome/esphome",
       "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10440,
+      "forks": 4985,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "fprime",
       "full_name": "nasa/fprime",
       "url": "https://github.com/nasa/fprime",
-      "description": "F' - A flight software and embedded systems framework",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "F´ - A flight software and embedded systems framework",
+      "language": "C++",
+      "stars": 10710,
+      "forks": 1467,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "johnBuffer/AntSimulator",
       "url": "https://github.com/johnBuffer/AntSimulator",
       "description": "Simple Ants simulator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2352,
+      "forks": 301,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "xray-16",
       "full_name": "OpenXRay/xray-16",
       "url": "https://github.com/OpenXRay/xray-16",
-      "description": "Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)",
+      "language": "C++",
+      "stars": 3401,
+      "forks": 500,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "esp8266/Arduino",
       "url": "https://github.com/esp8266/Arduino",
       "description": "ESP8266 core for Arduino",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16551,
+      "forks": 13242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "duckstation",
       "full_name": "stenzek/duckstation",
       "url": "https://github.com/stenzek/duckstation",
-      "description": "Fast PlayStation 1 emulator for PC and Android",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+      "language": "C++",
+      "stars": 9593,
+      "forks": 869,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "google/mediapipe",
       "url": "https://github.com/google/mediapipe",
       "description": "Cross-platform, customizable ML solutions for live and streaming media.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33445,
+      "forks": 5765,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70908,
+      "forks": 11486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "xmrig",
       "full_name": "xmrig/xmrig",
       "url": "https://github.com/xmrig/xmrig",
-      "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "language": "C",
+      "stars": 9772,
+      "forks": 3789,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "valhalla/valhalla",
       "url": "https://github.com/valhalla/valhalla",
       "description": "Open Source Routing Engine for OpenStreetMap",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5324,
+      "forks": 815,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "OpenMQTTGateway",
       "full_name": "1technophile/OpenMQTTGateway",
       "url": "https://github.com/1technophile/OpenMQTTGateway",
-      "description": "MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility & LoRa.",
+      "language": "C++",
+      "stars": 3946,
+      "forks": 852,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "chriskohlhoff/asio",
       "url": "https://github.com/chriskohlhoff/asio",
       "description": "Asio C++ Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5719,
+      "forks": 1341,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 25,
@@ -399,15 +447,17 @@
       "repo_name": "realm-dart",
       "full_name": "realm/realm-dart",
       "url": "https://github.com/realm/realm-dart",
-      "description": "Realm is a mobile database: a replacement for SQLite & ORMs.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Realm is a mobile database: a replacement for SQLite & ORMs. ",
+      "language": "Dart",
+      "stars": 791,
+      "forks": 114,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md"
+      "source_path": "/tmp/trending_archive/2021/2021-04/2021-04-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     }
   ]
 }

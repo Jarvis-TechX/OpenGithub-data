@@ -15,15 +15,17 @@
       "repo_name": "marp",
       "full_name": "yhatt/marp",
       "url": "https://github.com/yhatt/marp",
-      "description": "[Deprecated] Markdown presentation writer, powered by Electron.",
+      "description": "The site of classic Markdown presentation writer app",
       "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 7872,
+      "forks": 392,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-30.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-30.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "nicolaskruchten/pivottable",
       "url": "https://github.com/nicolaskruchten/pivottable",
       "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4449,
+      "forks": 1087,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-30.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     }
   ]
 }

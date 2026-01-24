@@ -16,14 +16,16 @@
       "full_name": "gto76/python-cheatsheet",
       "url": "https://github.com/gto76/python-cheatsheet",
       "description": "Comprehensive Python Cheatsheet",
-      "language": "CSS",
-      "stars": 381,
-      "forks": 78,
+      "language": "Python",
+      "stars": 38162,
+      "forks": 6696,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 2,
@@ -48,14 +50,16 @@
       "full_name": "twbs/bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "CSS",
-      "stars": 129672,
-      "forks": 63697,
+      "language": "MDX",
+      "stars": 173937,
+      "forks": 79164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 4,
@@ -64,14 +68,16 @@
       "full_name": "fuzzymannerz/Kitchen-Inventory",
       "url": "https://github.com/fuzzymannerz/Kitchen-Inventory",
       "description": "A stock system for food and such.",
-      "language": "CSS",
-      "stars": 27,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 53,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 5,
@@ -111,15 +117,17 @@
       "repo_name": "nerd-fonts",
       "full_name": "ryanoasis/nerd-fonts",
       "url": "https://github.com/ryanoasis/nerd-fonts",
-      "description": "🔡 Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack",
+      "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
-      "stars": 11675,
-      "forks": 690,
+      "stars": 61370,
+      "forks": 3868,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 8,
@@ -128,14 +136,16 @@
       "full_name": "tailwindcss/tailwindcss",
       "url": "https://github.com/tailwindcss/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "CSS",
-      "stars": 8260,
-      "forks": 390,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 9,
@@ -177,13 +187,15 @@
       "url": "https://github.com/necolas/normalize.css",
       "description": "A modern alternative to CSS resets",
       "language": "CSS",
-      "stars": 33476,
-      "forks": 6797,
+      "stars": 53786,
+      "forks": 10489,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 12,
@@ -224,14 +236,16 @@
       "full_name": "theme-next/hexo-theme-next",
       "url": "https://github.com/theme-next/hexo-theme-next",
       "description": "Elegant and powerful theme for Hexo.",
-      "language": "CSS",
-      "stars": 1955,
-      "forks": 606,
+      "language": "Stylus",
+      "stars": 8383,
+      "forks": 2033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 15,
@@ -272,14 +286,16 @@
       "full_name": "uikit/uikit",
       "url": "https://github.com/uikit/uikit",
       "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
-      "language": "CSS",
-      "stars": 13657,
-      "forks": 2033,
+      "language": "HTML",
+      "stars": 18539,
+      "forks": 2313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 18,
@@ -303,15 +319,17 @@
       "repo_name": "my-mac-os",
       "full_name": "nikitavoloboev/my-mac-os",
       "url": "https://github.com/nikitavoloboev/my-mac-os",
-      "description": "List of applications and tools that make my macOS experience even more amazing",
-      "language": "CSS",
-      "stars": 14003,
-      "forks": 572,
+      "description": "Everything you need to move your project faster",
+      "language": "Rust",
+      "stars": 21174,
+      "forks": 842,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 20,
@@ -320,14 +338,16 @@
       "full_name": "framework7io/framework7",
       "url": "https://github.com/framework7io/framework7",
       "description": "Full featured HTML framework for building iOS & Android apps",
-      "language": "CSS",
-      "stars": 13587,
-      "forks": 2875,
+      "language": "JavaScript",
+      "stars": 18587,
+      "forks": 3219,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 21,
@@ -335,15 +355,17 @@
       "repo_name": "GitHub-Dark",
       "full_name": "StylishThemes/GitHub-Dark",
       "url": "https://github.com/StylishThemes/GitHub-Dark",
-      "description": "Dark GitHub style",
+      "description": ":octocat: Dark GitHub style",
       "language": "CSS",
-      "stars": 3774,
-      "forks": 285,
+      "stars": 9923,
+      "forks": 646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 22,
@@ -400,14 +422,16 @@
       "full_name": "BlackrockDigital/startbootstrap-creative",
       "url": "https://github.com/BlackrockDigital/startbootstrap-creative",
       "description": "A one page HTML theme for creatives by Start Bootstrap",
-      "language": "CSS",
-      "stars": 1374,
-      "forks": 2175,
+      "language": "Pug",
+      "stars": 2067,
+      "forks": 3085,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     }
   ]
 }

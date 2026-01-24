@@ -16,14 +16,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "photonstorm/phaser",
       "url": "https://github.com/photonstorm/phaser",
       "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 38906,
+      "forks": 7132,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 110509,
+      "forks": 36242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "john-smilga/node-express-course",
       "url": "https://github.com/john-smilga/node-express-course",
       "description": "* [https://github.com/gorhill/uBlock](gorhill/uBlock) uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3843,
+      "forks": 4075,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "TheAlgorithms/JavaScript",
       "url": "https://github.com/TheAlgorithms/JavaScript",
       "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 34030,
+      "forks": 5830,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 9,
@@ -159,15 +175,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 11,
@@ -176,14 +194,16 @@
       "full_name": "adrianhajdin/project_music_player",
       "url": "https://github.com/adrianhajdin/project_music_player",
       "description": "Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more, this is the best music application you can currently find on YouTube.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1073,
+      "forks": 304,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 12,
@@ -199,7 +219,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 13,
@@ -207,15 +229,17 @@
       "repo_name": "ToolJet",
       "full_name": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
-      "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 37326,
+      "forks": 4935,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 14,
@@ -224,14 +248,16 @@
       "full_name": "FastForwardTeam/FastForward",
       "url": "https://github.com/FastForwardTeam/FastForward",
       "description": "Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3741,
+      "forks": 288,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 15,
@@ -240,14 +266,16 @@
       "full_name": "twbs/bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "MDX",
+      "stars": 173937,
+      "forks": 79164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 16,
@@ -256,14 +284,16 @@
       "full_name": "adrianhajdin/project_professional_portfolio",
       "url": "https://github.com/adrianhajdin/project_professional_portfolio",
       "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, SCSS, Framer Motion, Sanity",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2096,
+      "forks": 504,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 17,
@@ -272,14 +302,16 @@
       "full_name": "gniziemazity/Self-driving-car",
       "url": "https://github.com/gniziemazity/Self-driving-car",
       "description": "* [https://github.com/sveltejs/kit](sveltejs/kit) The fastest way to build Svelte apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 743,
+      "forks": 350,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 18,
@@ -287,15 +319,17 @@
       "repo_name": "lx-music-desktop",
       "full_name": "lyswhut/lx-music-desktop",
       "url": "https://github.com/lyswhut/lx-music-desktop",
-      "description": "一个基于 electron 的音乐软件",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "一个基于 Electron 的音乐软件",
+      "language": "TypeScript",
+      "stars": 48434,
+      "forks": 6615,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 19,
@@ -311,7 +345,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 21,
@@ -335,15 +373,17 @@
       "repo_name": "fast-vue3",
       "full_name": "tobe-fe-dalao/fast-vue3",
       "url": "https://github.com/tobe-fe-dalao/fast-vue3",
-      "description": "Vue3+Vite+Ts+Pinia+...一个快速开发vue3的模板框架",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Vue3+Vite+Ts+Pinia+....一个快速开发vue3的模板框架，快速搭建前台应用",
+      "language": "TypeScript",
+      "stars": 1921,
+      "forks": 468,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "facebook/create-react-app",
       "url": "https://github.com/facebook/create-react-app",
       "description": "Set up a modern web app by running one command.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 103973,
+      "forks": 27144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "vaxilu/x-ui",
       "url": "https://github.com/vaxilu/x-ui",
       "description": "支持多协议多用户的 xray 面板",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18684,
+      "forks": 7268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     }
   ]
 }

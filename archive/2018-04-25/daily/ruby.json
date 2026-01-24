@@ -16,14 +16,16 @@
       "full_name": "jondot/awesome-react-native",
       "url": "https://github.com/jondot/awesome-react-native",
       "description": "Awesome React Native components, news, tools, and learning material!",
-      "language": "ruby",
-      "stars": 18667,
-      "forks": 2296,
+      "language": "JavaScript",
+      "stars": 35586,
+      "forks": 4032,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 2,
@@ -55,7 +57,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 4,
@@ -80,14 +84,16 @@
       "full_name": "rails/rails",
       "url": "https://github.com/rails/rails",
       "description": "Ruby on Rails",
-      "language": "ruby",
-      "stars": 39422,
-      "forks": 15943,
+      "language": "Ruby",
+      "stars": 58123,
+      "forks": 22176,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 6,
@@ -95,15 +101,17 @@
       "repo_name": "brew",
       "full_name": "Homebrew/brew",
       "url": "https://github.com/Homebrew/brew",
-      "description": "🍺 The missing package manager for macOS",
-      "language": "ruby",
-      "stars": 11964,
-      "forks": 2798,
+      "description": "🍺 The missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": 46307,
+      "forks": 10896,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 7,
@@ -128,14 +136,16 @@
       "full_name": "fastlane/fastlane",
       "url": "https://github.com/fastlane/fastlane",
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-      "language": "ruby",
-      "stars": 21531,
-      "forks": 3284,
+      "language": "Ruby",
+      "stars": 40926,
+      "forks": 5971,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 9,
@@ -144,14 +154,16 @@
       "full_name": "discourse/discourse",
       "url": "https://github.com/discourse/discourse",
       "description": "A platform for community discussion. Free, open, simple.",
-      "language": "ruby",
-      "stars": 24835,
-      "forks": 6029,
+      "language": "Ruby",
+      "stars": 46108,
+      "forks": 8792,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 10,
@@ -159,15 +171,17 @@
       "repo_name": "jekyll",
       "full_name": "jekyll/jekyll",
       "url": "https://github.com/jekyll/jekyll",
-      "description": "🌐 Jekyll is a blog-aware, static site generator in Ruby",
-      "language": "ruby",
-      "stars": 34055,
-      "forks": 7510,
+      "description": ":globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby",
+      "language": "Ruby",
+      "stars": 51382,
+      "forks": 10289,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 11,
@@ -176,14 +190,16 @@
       "full_name": "tootsuite/mastodon",
       "url": "https://github.com/tootsuite/mastodon",
       "description": "Your self-hosted, globally interconnected microblogging community",
-      "language": "ruby",
-      "stars": 13145,
-      "forks": 2403,
+      "language": "Ruby",
+      "stars": 49539,
+      "forks": 7393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 12,
@@ -191,15 +207,17 @@
       "repo_name": "homebrew-core",
       "full_name": "Homebrew/homebrew-core",
       "url": "https://github.com/Homebrew/homebrew-core",
-      "description": "🍻 Default formulae for the missing package manager for macOS",
-      "language": "ruby",
-      "stars": 3518,
-      "forks": 4262,
+      "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+      "language": "Ruby",
+      "stars": 14970,
+      "forks": 13313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 13,
@@ -208,14 +226,16 @@
       "full_name": "palkan/action_policy",
       "url": "https://github.com/palkan/action_policy",
       "description": "Authorization framework for Ruby/Rails applications",
-      "language": "ruby",
-      "stars": 178,
-      "forks": 1,
+      "language": "Ruby",
+      "stars": 1516,
+      "forks": 91,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 14,
@@ -224,14 +244,16 @@
       "full_name": "ruby/ruby",
       "url": "https://github.com/ruby/ruby",
       "description": "The Ruby Programming Language",
-      "language": "ruby",
-      "stars": 14261,
-      "forks": 3869,
+      "language": "Ruby",
+      "stars": 23283,
+      "forks": 5556,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 15,
@@ -240,14 +262,16 @@
       "full_name": "caskroom/homebrew-cask",
       "url": "https://github.com/caskroom/homebrew-cask",
       "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
-      "language": "ruby",
-      "stars": 12807,
-      "forks": 6074,
+      "language": "Ruby",
+      "stars": 21768,
+      "forks": 11291,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 16,
@@ -368,14 +392,16 @@
       "full_name": "stympy/faker",
       "url": "https://github.com/stympy/faker",
       "description": "A library for generating fake data such as names, addresses, and phone numbers.",
-      "language": "ruby",
-      "stars": 6417,
-      "forks": 1557,
+      "language": "Ruby",
+      "stars": 11590,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     },
     {
       "rank": 25,
@@ -383,15 +409,17 @@
       "repo_name": "gitlabhq",
       "full_name": "gitlabhq/gitlabhq",
       "url": "https://github.com/gitlabhq/gitlabhq",
-      "description": "GitLab CE | Please open new issues in our issue tracker on GitLab.com",
-      "language": "ruby",
-      "stars": 20641,
-      "forks": 5395,
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+      "language": "Ruby",
+      "stars": 24237,
+      "forks": 5777,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/04/2018-04-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:57Z"
     }
   ]
 }

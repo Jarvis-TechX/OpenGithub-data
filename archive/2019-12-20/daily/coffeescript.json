@@ -16,14 +16,16 @@
       "full_name": "nicolaskruchten/pivottable",
       "url": "https://github.com/nicolaskruchten/pivottable",
       "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4449,
+      "forks": 1087,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-20.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "CoffeeScriptRedux",
       "full_name": "michaelficarra/CoffeeScriptRedux",
       "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
-      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "CoffeeScript",
+      "stars": 1836,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-20.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "github/hubot-scripts",
       "url": "https://github.com/github/hubot-scripts",
       "description": "DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3614,
+      "forks": 1827,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-20.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     }
   ]
 }

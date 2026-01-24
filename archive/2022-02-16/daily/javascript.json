@@ -16,14 +16,16 @@
       "full_name": "FortAwesome/Font-Awesome",
       "url": "https://github.com/FortAwesome/Font-Awesome",
       "description": "The iconic SVG, font, and CSS toolkit",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 76268,
+      "forks": 12251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
       "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
       "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30690,
+      "forks": 2564,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "OAI/OpenAPI-Specification",
       "url": "https://github.com/OAI/OpenAPI-Specification",
       "description": "The OpenAPI Specification Repository",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Markdown",
+      "stars": 30839,
+      "forks": 9166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "mermaid",
       "full_name": "mermaid-js/mermaid",
       "url": "https://github.com/mermaid-js/mermaid",
-      "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+      "language": "TypeScript",
+      "stars": 85533,
+      "forks": 8533,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "koodo-reader",
       "full_name": "troyeguo/koodo-reader",
       "url": "https://github.com/troyeguo/koodo-reader",
-      "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web",
+      "language": "JavaScript",
+      "stars": 25823,
+      "forks": 1921,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "lgwebdream/FE-Interview",
       "url": "https://github.com/lgwebdream/FE-Interview",
       "description": "🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7174,
+      "forks": 894,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "jonasschmedtmann/complete-javascript-course",
       "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
       "description": "Starter files, final projects, and FAQ for my Complete JavaScript course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17051,
+      "forks": 17528,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "6dylan6/jdpro",
       "url": "https://github.com/6dylan6/jdpro",
       "description": "京东签到，集合库，内部助力，青龙面板支持，青龙脚本",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4194,
+      "forks": 574,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "uni-app",
       "full_name": "dcloudio/uni-app",
       "url": "https://github.com/dcloudio/uni-app",
-      "description": "uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A cross-platform framework using Vue.js",
+      "language": "JavaScript",
+      "stars": 41392,
+      "forks": 3717,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "soyHenry/Prep-Course",
       "url": "https://github.com/soyHenry/Prep-Course",
       "description": "* [https://github.com/Aaron-lv/sync](Aaron-lv/sync)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 528,
+      "forks": 20319,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "module-federation/module-federation-examples",
       "url": "https://github.com/module-federation/module-federation-examples",
       "description": "Implementation examples of module federation , by the creators of module federation",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6083,
+      "forks": 1836,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "bingdundun",
       "full_name": "noxue/bingdundun",
       "url": "https://github.com/noxue/bingdundun",
-      "description": "冰墩墩3d源码",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "冰墩墩3d源码 ",
+      "language": "JavaScript",
+      "stars": 37,
+      "forks": 16,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "ascoders/weekly",
       "url": "https://github.com/ascoders/weekly",
       "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30810,
+      "forks": 3279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "bpampuch/pdfmake",
       "url": "https://github.com/bpampuch/pdfmake",
       "description": "Client/server side PDF printing in pure JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 12213,
+      "forks": 2074,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "UI-Lovelace-Minimalist/UI",
       "url": "https://github.com/UI-Lovelace-Minimalist/UI",
       "description": "UI-Lovelace-Minimalist is a \"theme\" for HomeAssistant",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1977,
+      "forks": 438,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "willmcpo/body-scroll-lock",
       "url": "https://github.com/willmcpo/body-scroll-lock",
       "description": "Body scroll locking that just works with everything 😏",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4108,
+      "forks": 328,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "quasarframework/quasar",
       "url": "https://github.com/quasarframework/quasar",
       "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27045,
+      "forks": 3681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "microsoft/monaco-editor",
       "url": "https://github.com/microsoft/monaco-editor",
       "description": "A browser based code editor",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 45389,
+      "forks": 3966,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "SortableJS/Vue.Draggable",
       "url": "https://github.com/SortableJS/Vue.Draggable",
       "description": "Vue drag-and-drop component based on Sortable.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20634,
+      "forks": 2877,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "ruanyf/es6tutorial",
       "url": "https://github.com/ruanyf/es6tutorial",
       "description": "《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 21464,
+      "forks": 8926,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     }
   ]
 }

@@ -31,15 +31,17 @@
       "repo_name": "PotatofieldImageToolkit",
       "full_name": "CNOliverZhang/PotatofieldImageToolkit",
       "url": "https://github.com/CNOliverZhang/PotatofieldImageToolkit",
-      "description": "一个为摄影师设计的图像工具箱",
+      "description": "一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。",
       "language": "Vue",
-      "stars": 97,
-      "forks": 7,
+      "stars": 990,
+      "forks": 124,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -47,15 +49,17 @@
       "repo_name": "vue2-element-touzi-admin",
       "full_name": "wdlhao/vue2-element-touzi-admin",
       "url": "https://github.com/wdlhao/vue2-element-touzi-admin",
-      "description": "基于vue2.0 +vuex+ element-ui后台管理系统",
+      "description": " 基于vue2.0 +vuex+ element-ui后台管理系统 ",
       "language": "Vue",
-      "stars": 2526,
-      "forks": 1077,
+      "stars": 4235,
+      "forks": 1501,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -63,15 +67,17 @@
       "repo_name": "laravue",
       "full_name": "tuandm/laravue",
       "url": "https://github.com/tuandm/laravue",
-      "description": "A magical administrative interface for Laravel built by VueJS and Element UI https://laravue.dev",
+      "description": "Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev",
       "language": "Vue",
-      "stars": 1196,
-      "forks": 344,
+      "stars": 2214,
+      "forks": 642,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -81,13 +87,15 @@
       "url": "https://github.com/coderwhy/HYMall",
       "description": "A vue.js mall application.",
       "language": "Vue",
-      "stars": 664,
-      "forks": 120,
+      "stars": 2037,
+      "forks": 395,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -97,13 +105,15 @@
       "url": "https://github.com/ghosh/uiGradients",
       "description": "🔴 Beautiful colour gradients for design and code",
       "language": "Vue",
-      "stars": 4752,
-      "forks": 1021,
+      "stars": 5983,
+      "forks": 1409,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -113,13 +123,15 @@
       "url": "https://github.com/m0ngr31/DailyNotes",
       "description": "App for taking notes and tracking tasks on a daily basis",
       "language": "Vue",
-      "stars": 24,
-      "forks": 0,
+      "stars": 709,
+      "forks": 47,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 8,
@@ -159,15 +171,17 @@
       "repo_name": "postwoman",
       "full_name": "liyasthomas/postwoman",
       "url": "https://github.com/liyasthomas/postwoman",
-      "description": "👽 A free, fast & beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥",
-      "language": "Vue",
-      "stars": 16605,
-      "forks": 945,
+      "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+      "language": "TypeScript",
+      "stars": 77630,
+      "forks": 5536,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 11,
@@ -175,15 +189,17 @@
       "repo_name": "vue2-elm",
       "full_name": "bailicangdu/vue2-elm",
       "url": "https://github.com/bailicangdu/vue2-elm",
-      "description": "基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用",
+      "description": "Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用",
       "language": "Vue",
-      "stars": 32005,
-      "forks": 10658,
+      "stars": 41184,
+      "forks": 12357,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 12,
@@ -225,13 +241,15 @@
       "url": "https://github.com/iview/iview",
       "description": "A high quality UI Toolkit built on Vue.js 2.0",
       "language": "Vue",
-      "stars": 23028,
-      "forks": 4129,
+      "stars": 23873,
+      "forks": 4093,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -273,13 +291,15 @@
       "url": "https://github.com/buefy/buefy",
       "description": "Lightweight UI components for Vue.js based on Bulma",
       "language": "Vue",
-      "stars": 7021,
-      "forks": 731,
+      "stars": 9555,
+      "forks": 1107,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 20,
@@ -289,13 +309,15 @@
       "url": "https://github.com/DaMaiGit/artifact",
       "description": "口红分析器",
       "language": "Vue",
-      "stars": 13,
-      "forks": 0,
+      "stars": 41,
+      "forks": 5,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,
@@ -305,13 +327,15 @@
       "url": "https://github.com/caijinyc/vue-music-webapp",
       "description": "A Music WebApp based on the Vue.",
       "language": "Vue",
-      "stars": 1958,
-      "forks": 482,
+      "stars": 2309,
+      "forks": 528,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,
@@ -319,15 +343,17 @@
       "repo_name": "White-Jotter",
       "full_name": "Antabot/White-Jotter",
       "url": "https://github.com/Antabot/White-Jotter",
-      "description": "白卷是一款使用 Vue+Spring Boot 开发的前后端分离入门项目，附带全套开发教程。",
-      "language": "Vue",
-      "stars": 462,
-      "forks": 219,
+      "description": "白卷是一款使用 Vue+Spring Boot 开发的前后端分离项目，附带全套开发教程。（A simple CMS developed by Spring Boot and Vue.js with development tutorials）",
+      "language": "Java",
+      "stars": 2538,
+      "forks": 856,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 23,
@@ -337,13 +363,15 @@
       "url": "https://github.com/sdras/intro-to-vue",
       "description": "Workshop Materials for my Introduction to Vue.js Workshop",
       "language": "Vue",
-      "stars": 1970,
-      "forks": 358,
+      "stars": 2783,
+      "forks": 579,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 24,
@@ -367,15 +395,17 @@
       "repo_name": "cssgridgenerator",
       "full_name": "sdras/cssgridgenerator",
       "url": "https://github.com/sdras/cssgridgenerator",
-      "description": "🧮Generate basic CSS Grid code to make dynamic layouts!",
+      "description": "🧮 Generate basic CSS Grid code to make dynamic layouts!",
       "language": "Vue",
-      "stars": 2754,
-      "forks": 210,
+      "stars": 5342,
+      "forks": 575,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

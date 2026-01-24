@@ -16,14 +16,16 @@
       "full_name": "jamis/csmazes",
       "url": "https://github.com/jamis/csmazes",
       "description": "Maze algorithms implemented in CoffeeScript, with an eye toward demonstrating how the algorithms work by animating them.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 395,
+      "forks": 43,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-07.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "hubot-todo",
       "full_name": "progedu/hubot-todo",
       "url": "https://github.com/progedu/hubot-todo",
-      "description": "38 yo hubot  (ISC License)",
-      "language": "coffeescript",
+      "description": "入門コースの3章8節の yo hubot 済リポジトリ (ISC License)",
+      "language": "CoffeeScript",
       "stars": 0,
-      "forks": 0,
+      "forks": 15,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-07.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     }
   ]
 }

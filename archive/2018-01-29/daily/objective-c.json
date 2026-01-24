@@ -15,15 +15,17 @@
       "repo_name": "promises",
       "full_name": "google/promises",
       "url": "https://github.com/google/promises",
-      "description": "Promises is a modern framework that provides a synchronization construct for Objective-C and Swift.",
-      "language": "objective-c",
-      "stars": 342,
-      "forks": 8,
+      "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
+      "language": "Objective-C",
+      "stars": 3836,
+      "forks": 305,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 2,
@@ -63,15 +65,17 @@
       "repo_name": "YWChooseAddressView",
       "full_name": "90candy/YWChooseAddressView",
       "url": "https://github.com/90candy/YWChooseAddressView",
-      "description": "高仿淘宝添加新地址UI、高仿京东地区选择器",
-      "language": "objective-c",
-      "stars": 34,
-      "forks": 0,
+      "description": "高仿京东地区选择器、高仿淘宝新增地址UI",
+      "language": "Objective-C",
+      "stars": 187,
+      "forks": 17,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 5,
@@ -119,7 +123,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 8,
@@ -175,15 +181,17 @@
       "repo_name": "Halfrost-Field",
       "full_name": "halfrost/Halfrost-Field",
       "url": "https://github.com/halfrost/Halfrost-Field",
-      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
-      "language": "objective-c",
-      "stars": 1439,
-      "forks": 260,
+      "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Go",
+      "stars": 13290,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 12,
@@ -192,14 +200,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "objective-c",
-      "stars": 12418,
-      "forks": 1568,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 13,
@@ -240,14 +250,16 @@
       "full_name": "google-ar/WebARonARKit",
       "url": "https://github.com/google-ar/WebARonARKit",
       "description": "An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.",
-      "language": "objective-c",
-      "stars": 368,
-      "forks": 52,
+      "language": "Objective-C",
+      "stars": 775,
+      "forks": 103,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md"
+      "source_path": "/tmp/github-trending-backup/2018/01/2018-01-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:55Z"
     },
     {
       "rank": 16,

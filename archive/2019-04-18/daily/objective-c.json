@@ -87,7 +87,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 6,
@@ -97,13 +99,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 5124,
-      "forks": 287,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 7,
@@ -113,13 +117,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 2992,
-      "forks": 552,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 8,
@@ -160,14 +166,16 @@
       "full_name": "react-native-community/react-native-maps",
       "url": "https://github.com/react-native-community/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "Objective-C",
-      "stars": 9286,
-      "forks": 2891,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 11,
@@ -207,15 +215,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 5912,
-      "forks": 629,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 14,
@@ -239,15 +249,17 @@
       "repo_name": "MobileIMSDK",
       "full_name": "JackJiang2011/MobileIMSDK",
       "url": "https://github.com/JackJiang2011/MobileIMSDK",
-      "description": "一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。",
+      "description": "原创全平台IM通信层框架，轻量级、高度提炼，历经10年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp、鸿蒙Next，服务端基于Netty。",
       "language": "Objective-C",
-      "stars": 1834,
-      "forks": 562,
+      "stars": 5964,
+      "forks": 1364,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 16,
@@ -353,13 +365,15 @@
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
-      "stars": 7858,
-      "forks": 1362,
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 23,

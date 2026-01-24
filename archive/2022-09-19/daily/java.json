@@ -15,15 +15,17 @@
       "repo_name": "yanglegeyang",
       "full_name": "Selina1981/yanglegeyang",
       "url": "https://github.com/Selina1981/yanglegeyang",
-      "description": "羊了个羊通关助手（java稳定版）全网唯一，禁止盗版！羊了个羊助手，羊了个羊一键闯关。",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "羊了个羊通关助手（java稳定版）全网唯一，禁止盗版！羊了个羊助手，羊了个羊一键闯关。（已失效，仅供参考交流）",
+      "language": "Java",
+      "stars": 107,
+      "forks": 55,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "spring-boot",
       "full_name": "spring-projects/spring-boot",
       "url": "https://github.com/spring-projects/spring-boot",
-      "description": "Spring Boot",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+      "language": "Java",
+      "stars": 79744,
+      "forks": 41824,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "runelite/runelite",
       "url": "https://github.com/runelite/runelite",
       "description": "Open source Old School RuneScape client",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 5264,
+      "forks": 5632,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "SmartTubeNext",
       "full_name": "yuliskov/SmartTubeNext",
       "url": "https://github.com/yuliskov/SmartTubeNext",
-      "description": "Ad free app for watching tube videos on Android TV boxes",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars": 27729,
+      "forks": 1486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "nextcloud/android",
       "url": "https://github.com/nextcloud/android",
       "description": "📱 Nextcloud Android app",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Kotlin",
+      "stars": 5093,
+      "forks": 1913,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "qierkang/yang-server",
       "url": "https://github.com/qierkang/yang-server",
       "description": "羊了个羊游戏源代码\\代码\\完全开源 H5在线体验（兼容微信打开）：http://qekang.com/yang 前端源码：https://github.com/qierkang/yang-game",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 65,
+      "forks": 48,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "keycloak/keycloak",
       "url": "https://github.com/keycloak/keycloak",
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 32404,
+      "forks": 7991,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "TeamNewPipe/NewPipe",
       "url": "https://github.com/TeamNewPipe/NewPipe",
       "description": "A libre lightweight streaming front-end for Android.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 36407,
+      "forks": 3390,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "javastacks/spring-boot-best-practice",
       "url": "https://github.com/javastacks/spring-boot-best-practice",
       "description": "Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 5001,
+      "forks": 1354,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "revanced-integrations",
       "full_name": "revanced/revanced-integrations",
       "url": "https://github.com/revanced/revanced-integrations",
-      "description": "🔩 Integrations containing helper classes for ReVanced. Originally maintained by Vanced.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher",
+      "language": "Java",
+      "stars": 751,
+      "forks": 246,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "DSA-Bootcamp-Java",
       "full_name": "kunal-kushwaha/DSA-Bootcamp-Java",
       "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
-      "description": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+      "language": "Java",
+      "stars": 21687,
+      "forks": 12999,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "jindrapetrik/jpexs-decompiler",
       "url": "https://github.com/jindrapetrik/jpexs-decompiler",
       "description": "JPEXS Free Flash Decompiler",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 5329,
+      "forks": 742,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "Grasscutters/Grasscutter",
       "url": "https://github.com/Grasscutters/Grasscutter",
       "description": "A server software reimplementation for a certain anime game.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 16746,
+      "forks": 4397,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "devopshydclub/vprofile-project",
       "url": "https://github.com/devopshydclub/vprofile-project",
       "description": "* [https://github.com/TGX-Android/Telegram-X](TGX-Android/Telegram-X) The main repository of Telegram X — official alternative Telegram client for Android.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2633,
+      "forks": 9225,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "LSPosed/CorePatch",
       "url": "https://github.com/LSPosed/CorePatch",
       "description": "Disable signature verification For Android",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2824,
+      "forks": 222,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "Fox2Code/FoxMagiskModuleManager",
       "url": "https://github.com/Fox2Code/FoxMagiskModuleManager",
       "description": "A module manager for Magisk because the official app dropped support for it",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2207,
+      "forks": 138,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "hyperledger/besu",
       "url": "https://github.com/hyperledger/besu",
       "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 1750,
+      "forks": 1002,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "tonikelope/megabasterd",
       "url": "https://github.com/tonikelope/megabasterd",
       "description": "Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 5321,
+      "forks": 623,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "chenyuwangjs/A-tutorial-compiler-written-in-Java",
       "url": "https://github.com/chenyuwangjs/A-tutorial-compiler-written-in-Java",
       "description": "For Jack language. Most of codes were commented with their usage, which can be useful for beginner to realize the running principle of a compiler for object-oriented programming language.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 824,
+      "forks": 145,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "pxb1988/dex2jar",
       "url": "https://github.com/pxb1988/dex2jar",
       "description": "Tools to work with android .dex and java .class files",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 13045,
+      "forks": 2189,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "cabaletta/baritone",
       "url": "https://github.com/cabaletta/baritone",
       "description": "google maps for block game",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 8583,
+      "forks": 1756,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "iluwatar/java-design-patterns",
       "url": "https://github.com/iluwatar/java-design-patterns",
       "description": "Design patterns implemented in Java",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 93649,
+      "forks": 27375,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     }
   ]
 }

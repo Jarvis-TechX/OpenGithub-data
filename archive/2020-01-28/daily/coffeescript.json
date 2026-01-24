@@ -16,14 +16,16 @@
       "full_name": "github/hubot-scripts",
       "url": "https://github.com/github/hubot-scripts",
       "description": "DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3614,
+      "forks": 1827,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "chinese-copywriting-guidelines",
       "full_name": "sparanoid/chinese-copywriting-guidelines",
       "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
-      "description": "Chinese copywriting guidelines for better written communication",
+      "description": "Chinese copywriting guidelines for better written communication／中文文案排版指北",
       "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 15173,
+      "forks": 1834,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     }
   ]
 }

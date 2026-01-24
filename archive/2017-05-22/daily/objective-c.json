@@ -32,14 +32,16 @@
       "full_name": "louisdh/pointerkit",
       "url": "https://github.com/louisdh/pointerkit",
       "description": "A proof of concept framework to use a pointing device on iOS",
-      "language": "objective-c",
-      "stars": 47,
-      "forks": 0,
+      "language": "Objective-C",
+      "stars": 170,
+      "forks": 18,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md"
+      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:49Z"
     },
     {
       "rank": 3,
@@ -80,14 +82,16 @@
       "full_name": "Instagram/IGListKit",
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
-      "language": "objective-c",
-      "stars": 5451,
-      "forks": 441,
+      "language": "Objective-C",
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md"
+      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:49Z"
     },
     {
       "rank": 6,
@@ -112,14 +116,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "objective-c",
-      "stars": 8492,
-      "forks": 878,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md"
+      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:49Z"
     },
     {
       "rank": 8,
@@ -175,15 +181,17 @@
       "repo_name": "hammerspoon",
       "full_name": "Hammerspoon/hammerspoon",
       "url": "https://github.com/Hammerspoon/hammerspoon",
-      "description": "Staggeringly powerful OS X desktop automation with Lua",
-      "language": "objective-c",
-      "stars": 2793,
-      "forks": 175,
+      "description": "Staggeringly powerful macOS desktop automation with Lua",
+      "language": "Objective-C",
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md"
+      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:49Z"
     },
     {
       "rank": 12,
@@ -303,15 +311,17 @@
       "repo_name": "react-native-wechat",
       "full_name": "weflex/react-native-wechat",
       "url": "https://github.com/weflex/react-native-wechat",
-      "description": "React-Native(iOS/Android) functionalities include WeChat Login, Share, Favorite and Payment {QQ: 336021910}",
-      "language": "objective-c",
-      "stars": 930,
-      "forks": 203,
+      "description": "🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)",
+      "language": "Objective-C",
+      "stars": 2916,
+      "forks": 710,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md"
+      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:49Z"
     },
     {
       "rank": 20,
@@ -367,15 +377,17 @@
       "repo_name": "AFNetworking",
       "full_name": "AFNetworking/AFNetworking",
       "url": "https://github.com/AFNetworking/AFNetworking",
-      "description": "A delightful networking framework for iOS, OS X, watchOS, and tvOS.",
-      "language": "objective-c",
-      "stars": 29176,
-      "forks": 9204,
+      "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+      "language": "Objective-C",
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md"
+      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:49Z"
     },
     {
       "rank": 24,
@@ -384,14 +396,16 @@
       "full_name": "rs/SDWebImage",
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
-      "language": "objective-c",
-      "stars": 17719,
-      "forks": 4833,
+      "language": "Objective-C",
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md"
+      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:49Z"
     },
     {
       "rank": 25,
@@ -400,14 +414,16 @@
       "full_name": "BradLarson/GPUImage",
       "url": "https://github.com/BradLarson/GPUImage",
       "description": "An open source iOS framework for GPU-based image and video processing",
-      "language": "objective-c",
-      "stars": 15664,
-      "forks": 3875,
+      "language": "Objective-C",
+      "stars": 20343,
+      "forks": 4589,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md"
+      "source_path": "/tmp/github-trending-backup/2017/05/2017-05-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:49Z"
     }
   ]
 }

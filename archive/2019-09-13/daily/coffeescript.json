@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "morrisjs/morris.js",
       "url": "https://github.com/morrisjs/morris.js",
       "description": "Pretty time-series line graphs",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 6893,
+      "forks": 1206,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "2ndStack/2ndSortCoffee",
       "url": "https://github.com/2ndStack/2ndSortCoffee",
       "description": "Bubble Sort Example In CoffeeScript",
-      "language": "coffeescript",
+      "language": "CoffeeScript",
       "stars": 0,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "codecombat/codecombat",
       "url": "https://github.com/codecombat/codecombat",
       "description": "Game for learning how to code.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8407,
+      "forks": 4168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md"
+      "source_path": "/tmp/trending_archive/2019/2019-09/2019-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     }
   ]
 }

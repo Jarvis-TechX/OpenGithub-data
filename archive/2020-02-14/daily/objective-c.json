@@ -32,14 +32,16 @@
       "full_name": "react-native-community/react-native-maps",
       "url": "https://github.com/react-native-community/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "Objective-C",
-      "stars": 10641,
-      "forks": 3539,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -65,13 +67,15 @@
       "url": "https://github.com/Cenmrev/V2RayX",
       "description": "GUI for v2ray-core on macOS",
       "language": "Objective-C",
-      "stars": 4931,
-      "forks": 736,
+      "stars": 7672,
+      "forks": 1126,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -87,7 +91,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -95,15 +101,17 @@
       "repo_name": "WeChatTweak-macOS",
       "full_name": "Sunnyyoung/WeChatTweak-macOS",
       "url": "https://github.com/Sunnyyoung/WeChatTweak-macOS",
-      "description": "A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开",
-      "language": "Objective-C",
-      "stars": 4542,
-      "forks": 604,
+      "description": "A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨",
+      "language": "Swift",
+      "stars": 13301,
+      "forks": 1567,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -112,14 +120,16 @@
       "full_name": "react-native-webrtc/react-native-webrtc",
       "url": "https://github.com/react-native-webrtc/react-native-webrtc",
       "description": "The WebRTC module for React Native",
-      "language": "Objective-C",
-      "stars": 2442,
-      "forks": 598,
+      "language": "Java",
+      "stars": 4928,
+      "forks": 1315,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 8,
@@ -127,15 +137,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "language": "Objective-C",
-      "stars": 8780,
-      "forks": 1262,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -177,13 +189,15 @@
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
       "language": "Objective-C",
-      "stars": 10878,
-      "forks": 1243,
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 12,
@@ -192,14 +206,16 @@
       "full_name": "microsoft/react-native-code-push",
       "url": "https://github.com/microsoft/react-native-code-push",
       "description": "React Native module for CodePush",
-      "language": "Objective-C",
-      "stars": 6565,
-      "forks": 975,
+      "language": "C",
+      "stars": 9148,
+      "forks": 1585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -208,14 +224,16 @@
       "full_name": "wix/react-native-notifications",
       "url": "https://github.com/wix/react-native-notifications",
       "description": "React Native Notifications",
-      "language": "Objective-C",
-      "stars": 1957,
-      "forks": 469,
+      "language": "Java",
+      "stars": 3335,
+      "forks": 764,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -257,13 +275,15 @@
       "url": "https://github.com/CodeTips/BaiduNetdiskPlugin-macOS",
       "description": "For macOS.百度网盘 破解SVIP、下载速度限制~",
       "language": "Objective-C",
-      "stars": 7804,
-      "forks": 1622,
+      "stars": 8832,
+      "forks": 1771,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -273,13 +293,15 @@
       "url": "https://github.com/sequelpro/sequelpro",
       "description": "MySQL/MariaDB database management for macOS",
       "language": "Objective-C",
-      "stars": 7399,
-      "forks": 673,
+      "stars": 9205,
+      "forks": 840,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 18,
@@ -304,14 +326,16 @@
       "full_name": "blinksh/blink",
       "url": "https://github.com/blinksh/blink",
       "description": "Blink Mobile Shell for iOS (Mosh based)",
-      "language": "Objective-C",
-      "stars": 3302,
-      "forks": 366,
+      "language": "Swift",
+      "stars": 6533,
+      "forks": 638,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 20,
@@ -321,13 +345,15 @@
       "url": "https://github.com/robbiehanson/CocoaAsyncSocket",
       "description": "Asynchronous socket networking library for Mac and iOS",
       "language": "Objective-C",
-      "stars": 11394,
-      "forks": 2786,
+      "stars": 12467,
+      "forks": 3019,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,

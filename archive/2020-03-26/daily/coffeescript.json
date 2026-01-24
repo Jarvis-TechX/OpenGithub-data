@@ -16,14 +16,16 @@
       "full_name": "taigaio/taiga-front",
       "url": "https://github.com/taigaio/taiga-front",
       "description": "Agile project management platform. Built on top of Django and AngularJS",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 351,
+      "forks": 185,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-26.md"
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-26.md"
+      "source_path": "/tmp/trending_archive/2020/2020-03/2020-03-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     }
   ]
 }

@@ -16,14 +16,16 @@
       "full_name": "nicolaskruchten/pivottable",
       "url": "https://github.com/nicolaskruchten/pivottable",
       "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4449,
+      "forks": 1087,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-03.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-03.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "Leonidas-from-XIV/node-xml2js",
       "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
       "description": "XML to JavaScript object converter.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4973,
+      "forks": 609,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-03.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "jarav/webgl",
       "url": "https://github.com/jarav/webgl",
       "description": "",
-      "language": "coffeescript",
-      "stars": 0,
+      "language": "CoffeeScript",
+      "stars": 1,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-03.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     }
   ]
 }

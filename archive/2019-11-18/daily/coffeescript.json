@@ -15,15 +15,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "meltingice/psd.js",
       "url": "https://github.com/meltingice/psd.js",
       "description": "A Photoshop PSD file parser for NodeJS and browsers",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 2845,
+      "forks": 399,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "rubykube/peatio-trading-ui",
       "url": "https://github.com/rubykube/peatio-trading-ui",
       "description": "Peatio trading UI extracted as separate Rails 5 application.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 43,
+      "forks": 85,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     }
   ]
 }

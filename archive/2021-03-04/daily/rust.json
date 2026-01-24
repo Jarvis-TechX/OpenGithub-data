@@ -15,15 +15,17 @@
       "repo_name": "deno",
       "full_name": "denoland/deno",
       "url": "https://github.com/denoland/deno",
-      "description": "A secure JavaScript and TypeScript runtime",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "stars": 105936,
+      "forks": 5868,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "timberio/vector",
       "url": "https://github.com/timberio/vector",
       "description": "A high-performance observability data pipeline.",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 21168,
+      "forks": 1982,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "nushell/nushell",
       "url": "https://github.com/nushell/nushell",
       "description": "A new type of shell",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 37969,
+      "forks": 2021,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "Rust",
       "full_name": "TheAlgorithms/Rust",
       "url": "https://github.com/TheAlgorithms/Rust",
-      "description": "All Algorithms implemented in Rust",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "description": " All Algorithms implemented in Rust ",
+      "language": "Rust",
+      "stars": 25355,
+      "forks": 2517,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "bottlerocket-os/bottlerocket",
       "url": "https://github.com/bottlerocket-os/bottlerocket",
       "description": "An operating system designed for hosting containers",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 9517,
+      "forks": 566,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "BurntSushi/ripgrep",
       "url": "https://github.com/BurntSushi/ripgrep",
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 59187,
+      "forks": 2375,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "tikv/tikv",
       "url": "https://github.com/tikv/tikv",
       "description": "Distributed transactional key-value database, originally created to complement TiDB",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 16483,
+      "forks": 2241,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "bevyengine/bevy",
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 44274,
+      "forks": 4346,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "firecracker-microvm/firecracker",
       "url": "https://github.com/firecracker-microvm/firecracker",
       "description": "Secure and fast microVMs for serverless computing.",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 32005,
+      "forks": 2218,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "seed-rs/seed",
       "url": "https://github.com/seed-rs/seed",
       "description": "A Rust framework for creating web apps",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 3837,
+      "forks": 158,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "rusoto/rusoto",
       "url": "https://github.com/rusoto/rusoto",
       "description": "AWS SDK for Rust",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 2732,
+      "forks": 441,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "rust-bio/rust-bio",
       "url": "https://github.com/rust-bio/rust-bio",
       "description": "This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration.",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 1770,
+      "forks": 217,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "hecrj/iced",
       "url": "https://github.com/hecrj/iced",
       "description": "A cross-platform GUI library for Rust, inspired by Elm",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 29206,
+      "forks": 1470,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 109646,
+      "forks": 14375,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "clap-rs/clap",
       "url": "https://github.com/clap-rs/clap",
       "description": "A full featured, fast Command Line Argument Parser for Rust",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 15987,
+      "forks": 1142,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "sharkdp/bat",
       "url": "https://github.com/sharkdp/bat",
       "description": "A cat(1) clone with wings.",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 56779,
+      "forks": 1440,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "smartcore",
       "full_name": "smartcorelib/smartcore",
       "url": "https://github.com/smartcorelib/smartcore",
-      "description": "SmartCore is a comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning.",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "description": "A comprehensive library for machine learning and numerical computing. Apply Machine Learning with Rust leveraging first principles. ",
+      "language": "Rust",
+      "stars": 882,
+      "forks": 90,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "MeiliSearch",
       "full_name": "meilisearch/MeiliSearch",
       "url": "https://github.com/meilisearch/MeiliSearch",
-      "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+      "language": "Rust",
+      "stars": 55533,
+      "forks": 2347,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "amethyst/legion",
       "url": "https://github.com/amethyst/legion",
       "description": "High performance Rust ECS library",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 1700,
+      "forks": 142,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 22,
@@ -353,13 +395,15 @@
       "url": "https://github.com/996icu/996.ICU",
       "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
       "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "stars": 275263,
+      "forks": 20984,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "rustwasm/wasm-bindgen",
       "url": "https://github.com/rustwasm/wasm-bindgen",
       "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 8805,
+      "forks": 1182,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "wasmtime",
       "full_name": "bytecodealliance/wasmtime",
       "url": "https://github.com/bytecodealliance/wasmtime",
-      "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "stars": 17491,
+      "forks": 1598,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "awslabs/aws-lambda-rust-runtime",
       "url": "https://github.com/awslabs/aws-lambda-rust-runtime",
       "description": "A Rust runtime for AWS Lambda",
-      "language": "rust",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 3575,
+      "forks": 378,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:20Z"
     }
   ]
 }

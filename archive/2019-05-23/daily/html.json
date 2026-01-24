@@ -16,14 +16,16 @@
       "full_name": "jaywcjlove/linux-command",
       "url": "https://github.com/jaywcjlove/linux-command",
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
-      "language": "HTML",
-      "stars": 7619,
-      "forks": 1737,
+      "language": "Markdown",
+      "stars": 35395,
+      "forks": 6575,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "flutter-in-action",
       "full_name": "flutterchina/flutter-in-action",
       "url": "https://github.com/flutterchina/flutter-in-action",
-      "description": "《Flutter实战》电子书",
-      "language": "HTML",
-      "stars": 3590,
-      "forks": 542,
+      "description": "《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。",
+      "language": "JavaScript",
+      "stars": 8639,
+      "forks": 1678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 3,
@@ -95,15 +99,17 @@
       "repo_name": "AdminLTE",
       "full_name": "ColorlibHQ/AdminLTE",
       "url": "https://github.com/ColorlibHQ/AdminLTE",
-      "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x",
-      "language": "HTML",
-      "stars": 28478,
-      "forks": 11285,
+      "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+      "language": "CSS",
+      "stars": 45268,
+      "forks": 18262,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 7,
@@ -129,13 +135,15 @@
       "url": "https://github.com/facebookresearch/fastText",
       "description": "Library for fast text representation and classification.",
       "language": "HTML",
-      "stars": 18353,
-      "forks": 3467,
+      "stars": 26471,
+      "forks": 4818,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 9,
@@ -144,14 +152,16 @@
       "full_name": "awslabs/aws-well-architected-labs",
       "url": "https://github.com/awslabs/aws-well-architected-labs",
       "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices.",
-      "language": "HTML",
-      "stars": 272,
-      "forks": 102,
+      "language": "Python",
+      "stars": 2098,
+      "forks": 1057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 10,
@@ -193,13 +203,15 @@
       "url": "https://github.com/yyq123/learn-vim",
       "description": "无废话极简版Vim学习笔记！文章按主题分拆为多个章节，并尽量控制每节的信息量；通过文字色彩和字体，将命令、快捷键突出显示；在每节结尾，提供一个命令列表，以便回顾文中介绍的重要命令。如果这些文章能对喜欢Vim的朋友有所益处，我将不胜荣幸。",
       "language": "HTML",
-      "stars": 29,
-      "forks": 0,
+      "stars": 189,
+      "forks": 29,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 13,
@@ -209,13 +221,15 @@
       "url": "https://github.com/phil-opp/blog_os",
       "description": "Writing an OS in Rust",
       "language": "HTML",
-      "stars": 2952,
-      "forks": 262,
+      "stars": 17237,
+      "forks": 1188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 14,
@@ -223,15 +237,17 @@
       "repo_name": "portainer",
       "full_name": "portainer/portainer",
       "url": "https://github.com/portainer/portainer",
-      "description": "Simple management UI for Docker",
-      "language": "HTML",
-      "stars": 11682,
-      "forks": 1105,
+      "description": "Making Docker and Kubernetes management easy.",
+      "language": "TypeScript",
+      "stars": 36294,
+      "forks": 2759,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 15,
@@ -255,15 +271,17 @@
       "repo_name": "scikit-learn-doc-zh",
       "full_name": "apachecn/scikit-learn-doc-zh",
       "url": "https://github.com/apachecn/scikit-learn-doc-zh",
-      "description": "📖 [译] scikit-learn（sklearn） 中文文档",
-      "language": "HTML",
-      "stars": 2018,
-      "forks": 682,
+      "description": ":book: [译] scikit-learn（sklearn） 中文文档",
+      "language": "CSS",
+      "stars": 5231,
+      "forks": 1470,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 17,
@@ -367,15 +385,17 @@
       "repo_name": "intro.js",
       "full_name": "usablica/intro.js",
       "url": "https://github.com/usablica/intro.js",
-      "description": "A better way for new feature introduction and step-by-step users guide for your website and project.",
-      "language": "HTML",
-      "stars": 17976,
-      "forks": 2293,
+      "description": "Lightweight, user-friendly onboarding tour library",
+      "language": "TypeScript",
+      "stars": 23882,
+      "forks": 2574,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     }
   ]
 }

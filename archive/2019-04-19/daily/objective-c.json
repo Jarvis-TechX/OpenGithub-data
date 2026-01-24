@@ -96,14 +96,16 @@
       "full_name": "react-native-community/react-native-webview",
       "url": "https://github.com/react-native-community/react-native-webview",
       "description": "React Native Cross-Platform WebView",
-      "language": "Objective-C",
-      "stars": 966,
-      "forks": 305,
+      "language": "TypeScript",
+      "stars": 7078,
+      "forks": 3148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 7,
@@ -135,7 +137,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 9,
@@ -145,13 +149,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 3000,
-      "forks": 553,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 10,
@@ -161,13 +167,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 32092,
-      "forks": 9751,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 11,
@@ -240,14 +248,16 @@
       "full_name": "react-native-community/react-native-maps",
       "url": "https://github.com/react-native-community/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "Objective-C",
-      "stars": 9293,
-      "forks": 2894,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 16,
@@ -273,13 +283,15 @@
       "url": "https://github.com/lvpengwei/LVThemeKit",
       "description": "App 多区域皮肤 UIKit Category",
       "language": "Objective-C",
-      "stars": 50,
-      "forks": 0,
+      "stars": 77,
+      "forks": 3,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 18,
@@ -303,15 +315,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 5920,
-      "forks": 630,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 20,
@@ -337,13 +351,15 @@
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
-      "stars": 7863,
-      "forks": 1364,
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 22,
@@ -385,13 +401,15 @@
       "url": "https://github.com/realm/realm-cocoa",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
-      "stars": 13114,
-      "forks": 1690,
+      "stars": 16587,
+      "forks": 2213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-19.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 25,

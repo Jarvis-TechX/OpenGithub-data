@@ -16,14 +16,16 @@
       "full_name": "Pagedraw/pagedraw",
       "url": "https://github.com/Pagedraw/pagedraw",
       "description": "a UI builder for React web apps",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3554,
+      "forks": 462,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-23.md"
+      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-23.md"
+      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-23.md"
+      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     }
   ]
 }

@@ -15,15 +15,17 @@
       "repo_name": "vnpy",
       "full_name": "vnpy/vnpy",
       "url": "https://github.com/vnpy/vnpy",
-      "description": "Python",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "基于Python的开源量化交易平台开发框架",
+      "language": "Python",
+      "stars": 35776,
+      "forks": 10743,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "CnC_Remastered_Collection",
       "full_name": "electronicarts/CnC_Remastered_Collection",
       "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
-      "description": "* [coronalabs/corona](https://github.com/coronalabs/corona): Solar2D Game Engine main repository (ex Corona SDK)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Command & Conquer: Remastered Collection",
+      "language": "C++",
+      "stars": 21286,
+      "forks": 5439,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "simdjson",
       "full_name": "simdjson/simdjson",
       "url": "https://github.com/simdjson/simdjson",
-      "description": "Parsing gigabytes of JSON per second",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": 23144,
+      "forks": 1209,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "microsoft/terminal",
       "url": "https://github.com/microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 101477,
+      "forks": 9032,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "Marlin",
       "full_name": "MarlinFirmware/Marlin",
       "url": "https://github.com/MarlinFirmware/Marlin",
-      "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": 17256,
+      "forks": 19647,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "NeoAxisEngine",
       "full_name": "NeoAxis/NeoAxisEngine",
       "url": "https://github.com/NeoAxis/NeoAxisEngine",
-      "description": "Versatile 3D and 2D project development environment.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A versatile game engine designed for creating video games and real-time apps.",
+      "language": "C#",
+      "stars": 240,
+      "forks": 59,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "abseil/abseil-cpp",
       "url": "https://github.com/abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16962,
+      "forks": 2954,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "acidanthera/AppleALC",
       "url": "https://github.com/acidanthera/AppleALC",
       "description": "Native macOS HD audio for not officially supported codecs",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3540,
+      "forks": 1044,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "spaceraccoon/CVE-2020-10665",
       "url": "https://github.com/spaceraccoon/CVE-2020-10665",
       "description": "POC for CVE-2020-10665 Docker Desktop Local Privilege Escalation",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 54,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "PowerToys",
       "full_name": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
-      "description": "Windows system utilities to maximize productivity",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+      "language": "C#",
+      "stars": 128284,
+      "forks": 7622,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 193461,
+      "forks": 75203,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "LMMS/lmms",
       "url": "https://github.com/LMMS/lmms",
       "description": "Cross-platform music production software",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9523,
+      "forks": 1138,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "tdlib/td",
       "url": "https://github.com/tdlib/td",
       "description": "Cross-platform library for building Telegram clients",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 8424,
+      "forks": 1897,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "apple/swift",
       "url": "https://github.com/apple/swift",
       "description": "The Swift Programming Language",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 69599,
+      "forks": 10646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "cameron314/concurrentqueue",
       "url": "https://github.com/cameron314/concurrentqueue",
       "description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12004,
+      "forks": 1874,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "TianZerL/Anime4KCPP",
       "url": "https://github.com/TianZerL/Anime4KCPP",
       "description": "A high performance anime upscaler",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1966,
+      "forks": 147,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "constexpr-to-string",
       "full_name": "tcsullivan/constexpr-to-string",
       "url": "https://github.com/tcsullivan/constexpr-to-string",
-      "description": "C++17 code to convert integers to strings at compile-time",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "C++14 code to convert integers to strings at compile-time",
+      "language": "C++",
+      "stars": 121,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "arvidn/libtorrent",
       "url": "https://github.com/arvidn/libtorrent",
       "description": "an efficient feature complete C++ bittorrent implementation",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5823,
+      "forks": 1059,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "SFML/SFML",
       "url": "https://github.com/SFML/SFML",
       "description": "Simple and Fast Multimedia Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11599,
+      "forks": 1898,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "ppsspp",
       "full_name": "hrydgard/ppsspp",
       "url": "https://github.com/hrydgard/ppsspp",
-      "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
+      "language": "C++",
+      "stars": 13239,
+      "forks": 2404,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "openpilot",
       "full_name": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
-      "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 59792,
+      "forks": 10582,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

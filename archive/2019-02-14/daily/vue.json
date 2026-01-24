@@ -15,15 +15,17 @@
       "repo_name": "vue-element-admin",
       "full_name": "PanJiaChen/vue-element-admin",
       "url": "https://github.com/PanJiaChen/vue-element-admin",
-      "description": "🎉 A magical vue admin http://panjiachen.github.io/vue-element-admin",
+      "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
-      "stars": 27193,
-      "forks": 8438,
+      "stars": 90289,
+      "forks": 30648,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 2,
@@ -33,13 +35,15 @@
       "url": "https://github.com/ElemeFE/element",
       "description": "A Vue.js 2.0 UI Toolkit for Web",
       "language": "Vue",
-      "stars": 34988,
-      "forks": 6948,
+      "stars": 54232,
+      "forks": 14568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 3,
@@ -65,13 +69,15 @@
       "url": "https://github.com/segmentio/analytics-vue",
       "description": "The hassle-free way to integrate analytics into your Vue application.",
       "language": "Vue",
-      "stars": 42,
-      "forks": 0,
+      "stars": 103,
+      "forks": 9,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 5,
@@ -81,13 +87,15 @@
       "url": "https://github.com/iview/iview",
       "description": "A high quality UI Toolkit built on Vue.js 2.0",
       "language": "Vue",
-      "stars": 19752,
-      "forks": 3409,
+      "stars": 23873,
+      "forks": 4093,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 6,
@@ -97,13 +105,15 @@
       "url": "https://github.com/macrozheng/mall-admin-web",
       "description": "mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。",
       "language": "Vue",
-      "stars": 854,
-      "forks": 546,
+      "stars": 12435,
+      "forks": 7442,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 7,
@@ -113,13 +123,15 @@
       "url": "https://github.com/iview/iview-admin",
       "description": "Vue 2.0 admin management system template based on iView",
       "language": "Vue",
-      "stars": 10744,
-      "forks": 3120,
+      "stars": 16451,
+      "forks": 4793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 8,
@@ -127,15 +139,17 @@
       "repo_name": "uni-app",
       "full_name": "dcloudio/uni-app",
       "url": "https://github.com/dcloudio/uni-app",
-      "description": "使用 Vue.js 开发跨平台应用的前端框架",
-      "language": "Vue",
-      "stars": 2241,
-      "forks": 274,
+      "description": "A cross-platform framework using Vue.js",
+      "language": "JavaScript",
+      "stars": 41392,
+      "forks": 3717,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 9,
@@ -255,15 +269,17 @@
       "repo_name": "best-resume-ever",
       "full_name": "salomonelli/best-resume-ever",
       "url": "https://github.com/salomonelli/best-resume-ever",
-      "description": "👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.",
+      "description": ":necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.",
       "language": "Vue",
-      "stars": 11512,
-      "forks": 1450,
+      "stars": 16469,
+      "forks": 2290,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 17,
@@ -319,15 +335,17 @@
       "repo_name": "weex-ui",
       "full_name": "alibaba/weex-ui",
       "url": "https://github.com/alibaba/weex-ui",
-      "description": "🏄 A rich interaction, lightweight, high performance UI library based on Weex.",
+      "description": "🏄  A rich interaction, lightweight, high performance UI library based on Weex.",
       "language": "Vue",
-      "stars": 4089,
-      "forks": 715,
+      "stars": 4743,
+      "forks": 896,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 21,
@@ -369,13 +387,15 @@
       "url": "https://github.com/buefy/buefy",
       "description": "Lightweight UI components for Vue.js based on Bulma",
       "language": "Vue",
-      "stars": 4579,
-      "forks": 451,
+      "stars": 9555,
+      "forks": 1107,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 24,
@@ -385,13 +405,15 @@
       "url": "https://github.com/writingink/wink",
       "description": "A Laravel-based publishing platform",
       "language": "Vue",
-      "stars": 1311,
-      "forks": 121,
+      "stars": 2928,
+      "forks": 399,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 25,
@@ -399,15 +421,17 @@
       "repo_name": "Yearning",
       "full_name": "cookieY/Yearning",
       "url": "https://github.com/cookieY/Yearning",
-      "description": "Mysql web端sql审核平台",
-      "language": "Vue",
-      "stars": 1758,
-      "forks": 673,
+      "description": "🐳 A most popular sql audit platform for mysql ",
+      "language": "Go",
+      "stars": 8907,
+      "forks": 2037,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/02/2019-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     }
   ]
 }

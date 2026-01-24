@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "sherlock",
       "full_name": "sherlock-project/sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
-      "description": "🔎 Find usernames across social networks",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 72111,
+      "forks": 8542,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "insightface",
       "full_name": "deepinsight/insightface",
       "url": "https://github.com/deepinsight/insightface",
-      "description": "Face Analysis Project on MXNet",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "State-of-the-art 2D and 3D Face Analysis Project",
+      "language": "Python",
+      "stars": 27657,
+      "forks": 5908,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "deepfakes/faceswap",
       "url": "https://github.com/deepfakes/faceswap",
       "description": "Deepfakes Software For All",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 54917,
+      "forks": 13433,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "DeepFaceLab",
       "full_name": "iperov/DeepFaceLab",
       "url": "https://github.com/iperov/DeepFaceLab",
-      "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "DeepFaceLab is the leading software for creating deepfakes.",
+      "language": "Python",
+      "stars": 18975,
+      "forks": 823,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "Awesome-WAF",
       "full_name": "0xInfection/Awesome-WAF",
       "url": "https://github.com/0xInfection/Awesome-WAF",
-      "description": "🔥 Everything awesome about web-application firewalls (WAF).",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
+      "language": "Python",
+      "stars": 7301,
+      "forks": 1161,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "aws-cloudformation-templates",
       "full_name": "awslabs/aws-cloudformation-templates",
       "url": "https://github.com/awslabs/aws-cloudformation-templates",
-      "description": "A collection of useful CloudFormation templates",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A collection of useful CloudFormation templates ",
+      "language": "Python",
+      "stars": 5094,
+      "forks": 4582,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "pipenv",
       "full_name": "pypa/pipenv",
       "url": "https://github.com/pypa/pipenv",
-      "description": "Python Development Workflow for Humans.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": " Python Development Workflow for Humans.",
+      "language": "Python",
+      "stars": 25106,
+      "forks": 1874,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "pytorch_geometric",
       "full_name": "rusty1s/pytorch_geometric",
       "url": "https://github.com/rusty1s/pytorch_geometric",
-      "description": "Geometric Deep Learning Extension Library for PyTorch",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Graph Neural Network Library for PyTorch",
+      "language": "Python",
+      "stars": 23413,
+      "forks": 3943,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "hue",
       "full_name": "cloudera/hue",
       "url": "https://github.com/cloudera/hue",
-      "description": "Hue is an open source SQL Cloud Assistant for developing and accessing SQL/Data Apps.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Open source SQL Query Assistant service for Databases/Warehouses",
+      "language": "JavaScript",
+      "stars": 1462,
+      "forks": 406,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "jupyterhub/jupyterhub",
       "url": "https://github.com/jupyterhub/jupyterhub",
       "description": "Multi-user server for Jupyter notebooks",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 8224,
+      "forks": 2100,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "OWASP/CheatSheetSeries",
       "url": "https://github.com/OWASP/CheatSheetSeries",
       "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 31197,
+      "forks": 4348,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "anomaly-detection-resources",
       "full_name": "yzhao062/anomaly-detection-resources",
       "url": "https://github.com/yzhao062/anomaly-detection-resources",
-      "description": "Anomaly detection related books, papers, videos, and toolboxes",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!",
+      "language": "Python",
+      "stars": 9135,
+      "forks": 1803,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "swisskyrepo/PayloadsAllTheThings",
       "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
       "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 74605,
+      "forks": 16531,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "Ridter/redis-rce",
       "url": "https://github.com/Ridter/redis-rce",
       "description": "Redis 4.x/5.x RCE",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 977,
+      "forks": 222,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "xingag/app_spider",
       "url": "https://github.com/xingag/app_spider",
       "description": "a spider on the apps",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 720,
+      "forks": 497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "cloudtools/troposphere",
       "url": "https://github.com/cloudtools/troposphere",
       "description": "troposphere - Python library to create AWS CloudFormation descriptions",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4954,
+      "forks": 1424,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "boto3",
       "full_name": "boto/boto3",
       "url": "https://github.com/boto/boto3",
-      "description": "AWS SDK for Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Boto3, an AWS SDK for Python",
+      "language": "Python",
+      "stars": 9665,
+      "forks": 1948,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "google-research",
       "full_name": "google-research/google-research",
       "url": "https://github.com/google-research/google-research",
-      "description": "Google AI Research",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Google Research",
+      "language": "Jupyter Notebook",
+      "stars": 37132,
+      "forks": 8300,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "azure-sdk-for-python",
       "full_name": "Azure/azure-sdk-for-python",
       "url": "https://github.com/Azure/azure-sdk-for-python",
-      "description": "Microsoft Azure SDK for Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. ",
+      "language": "Python",
+      "stars": 5458,
+      "forks": 3221,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "RaRe-Technologies/gensim",
       "url": "https://github.com/RaRe-Technologies/gensim",
       "description": "Topic Modelling for Humans",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 16331,
+      "forks": 4414,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-07/2019-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

@@ -15,15 +15,17 @@
       "repo_name": "Pilot",
       "full_name": "BoomingTech/Pilot",
       "url": "https://github.com/BoomingTech/Pilot",
-      "description": "Pilot – mini game engine for games104",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Piccolo (formerly Pilot) – mini game engine for games104",
+      "language": "C++",
+      "stars": 6525,
+      "forks": 1972,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "Atmosphere-NX/Atmosphere",
       "url": "https://github.com/Atmosphere-NX/Atmosphere",
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17776,
+      "forks": 1375,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 85865,
+      "forks": 56499,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "LucidVR/lucidgloves",
       "url": "https://github.com/LucidVR/lucidgloves",
       "description": "Arduino/ESP32 based DIY VR Haptic gloves. Compatible with SteamVR via OpenGloves.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2275,
+      "forks": 278,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "ndeadly/MissionControl",
       "url": "https://github.com/ndeadly/MissionControl",
       "description": "Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3148,
+      "forks": 149,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 96859,
+      "forks": 26601,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "Chatterino/chatterino2",
       "url": "https://github.com/Chatterino/chatterino2",
       "description": "Chat client for https://twitch.tv",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2392,
+      "forks": 545,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "gabime/spdlog",
       "url": "https://github.com/gabime/spdlog",
       "description": "Fast C++ logging library.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 28170,
+      "forks": 5027,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "fish-shell/fish-shell",
       "url": "https://github.com/fish-shell/fish-shell",
       "description": "The user-friendly command line shell.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 32152,
+      "forks": 2202,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "sultim-t/prboom-plus-rt",
       "url": "https://github.com/sultim-t/prboom-plus-rt",
       "description": "* [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK): The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 839,
+      "forks": 49,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "nlohmann/json",
       "url": "https://github.com/nlohmann/json",
       "description": "JSON for Modern C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 48642,
+      "forks": 7301,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "FileCentipede",
       "full_name": "filecxx/FileCentipede",
       "url": "https://github.com/filecxx/FileCentipede",
-      "description": "Cross-platform internet download manager for HTTP(S), FTP(S), magnet-link, BitTorrent, ed2k, and online videos",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.",
+      "language": "C++",
+      "stars": 10761,
+      "forks": 672,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "google/or-tools",
       "url": "https://github.com/google/or-tools",
       "description": "Google's Operations Research tools:",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13016,
+      "forks": 2349,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "ArduPilot/ardupilot",
       "url": "https://github.com/ArduPilot/ardupilot",
       "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14399,
+      "forks": 20121,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "isl-org/Open3D",
       "url": "https://github.com/isl-org/Open3D",
       "description": "Open3D: A Modern Library for 3D Data Processing",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13256,
+      "forks": 2520,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "ALS-Community",
       "full_name": "dyanikoglu/ALS-Community",
       "url": "https://github.com/dyanikoglu/ALS-Community",
-      "description": "Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 5.0 with additional features & bug fixes",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 5.4 with additional features & bug fixes",
+      "language": "C++",
+      "stars": 2567,
+      "forks": 623,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "emilybache/GildedRose-Refactoring-Kata",
       "url": "https://github.com/emilybache/GildedRose-Refactoring-Kata",
       "description": "Starting code for the GildedRose Refactoring Kata in many programming languages.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "XSLT",
+      "stars": 4159,
+      "forks": 5897,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "wxWidgets/wxWidgets",
       "url": "https://github.com/wxWidgets/wxWidgets",
       "description": "Cross-Platform C++ GUI Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6991,
+      "forks": 1884,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "apple/swift",
       "url": "https://github.com/apple/swift",
       "description": "The Swift Programming Language",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 69599,
+      "forks": 10646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "CMU-Perceptual-Computing-Lab/openpose",
       "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
       "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33705,
+      "forks": 8049,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "Neargye/magic_enum",
       "url": "https://github.com/Neargye/magic_enum",
       "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 5915,
+      "forks": 531,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     }
   ]
 }

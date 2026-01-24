@@ -16,14 +16,16 @@
       "full_name": "neo4j/neo4j",
       "url": "https://github.com/neo4j/neo4j",
       "description": "Graphs for Everyone",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 15767,
+      "forks": 2552,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "testcontainers/testcontainers-java",
       "url": "https://github.com/testcontainers/testcontainers-java",
       "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 8566,
+      "forks": 1792,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "strimzi/strimzi-kafka-operator",
       "url": "https://github.com/strimzi/strimzi-kafka-operator",
       "description": "Apache Kafka® running on Kubernetes",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 5669,
+      "forks": 1439,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "apache/nifi",
       "url": "https://github.com/apache/nifi",
       "description": "Apache NiFi",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 5928,
+      "forks": 2926,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "airbyte",
       "full_name": "airbytehq/airbyte",
       "url": "https://github.com/airbytehq/airbyte",
-      "description": "Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.",
+      "language": "Python",
+      "stars": 20538,
+      "forks": 5016,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "karatelabs/karate",
       "url": "https://github.com/karatelabs/karate",
       "description": "Test Automation Made Simple",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 8764,
+      "forks": 2006,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "tutorials",
       "full_name": "eugenp/tutorials",
       "url": "https://github.com/eugenp/tutorials",
-      "description": "Just Announced - \"Learn Spring Security OAuth\":",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Getting Started with Spring Boot 3: ",
+      "language": "Java",
+      "stars": 37337,
+      "forks": 53894,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "libgdx/libgdx",
       "url": "https://github.com/libgdx/libgdx",
       "description": "Desktop/Android/HTML5/iOS Java game development framework",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 24727,
+      "forks": 6534,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "azure-sdk-for-java",
       "full_name": "Azure/azure-sdk-for-java",
       "url": "https://github.com/Azure/azure-sdk-for-java",
-      "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. ",
+      "language": "Java",
+      "stars": 2552,
+      "forks": 2153,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "OpenRefine/OpenRefine",
       "url": "https://github.com/OpenRefine/OpenRefine",
       "description": "OpenRefine is a free, open source power tool for working with messy data and improving it",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 11703,
+      "forks": 2121,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "rabbitmq/rabbitmq-tutorials",
       "url": "https://github.com/rabbitmq/rabbitmq-tutorials",
       "description": "Tutorials for using RabbitMQ in various ways",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 6853,
+      "forks": 3576,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "dbeaver/dbeaver",
       "url": "https://github.com/dbeaver/dbeaver",
       "description": "Free universal database tool and SQL client",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 48365,
+      "forks": 4007,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "thombergs/code-examples",
       "url": "https://github.com/thombergs/code-examples",
       "description": "A collection of code examples from blog posts etc.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2697,
+      "forks": 2610,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "apache/jmeter",
       "url": "https://github.com/apache/jmeter",
       "description": "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 9189,
+      "forks": 2252,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "apache/commons-lang",
       "url": "https://github.com/apache/commons-lang",
       "description": "Apache Commons Lang",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2918,
+      "forks": 1867,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "SeleniumHQ/selenium",
       "url": "https://github.com/SeleniumHQ/selenium",
       "description": "A browser automation framework and ecosystem.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 33929,
+      "forks": 8639,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "ali-bouali/spring-boot-3-jwt-security",
       "url": "https://github.com/ali-bouali/spring-boot-3-jwt-security",
       "description": "Sample project on how to implement JWT security based using Spring boot 3 and Spring security 6",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2026,
+      "forks": 933,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "antlr/antlr4",
       "url": "https://github.com/antlr/antlr4",
       "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 18665,
+      "forks": 3428,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "micrometer",
       "full_name": "micrometer-metrics/micrometer",
       "url": "https://github.com/micrometer-metrics/micrometer",
-      "description": "An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "An application observability facade for the most popular observability tools. Think SLF4J, but for observability.",
+      "language": "Java",
+      "stars": 4792,
+      "forks": 1070,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "trinodb/trino",
       "url": "https://github.com/trinodb/trino",
       "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 12455,
+      "forks": 3449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "prestodb/presto",
       "url": "https://github.com/prestodb/presto",
       "description": "The official home of the Presto distributed SQL query engine for big data",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 16631,
+      "forks": 5514,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "SmartTubeNext",
       "full_name": "yuliskov/SmartTubeNext",
       "url": "https://github.com/yuliskov/SmartTubeNext",
-      "description": "Ad free app for watching tube videos on Android TV boxes",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars": 27729,
+      "forks": 1486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     }
   ]
 }

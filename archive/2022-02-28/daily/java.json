@@ -15,15 +15,17 @@
       "repo_name": "leetcode",
       "full_name": "doocs/leetcode",
       "url": "https://github.com/doocs/leetcode",
-      "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+      "language": "Java",
+      "stars": 35508,
+      "forks": 9261,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "termux/termux-app",
       "url": "https://github.com/termux/termux-app",
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 49147,
+      "forks": 5885,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "NationalSecurityAgency/ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 63749,
+      "forks": 7082,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "Naccl/NBlog",
       "url": "https://github.com/Naccl/NBlog",
       "description": "🍓 Spring Boot + Vue 前后端分离博客系统 https://naccl.top",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2678,
+      "forks": 595,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "PojavLauncher",
       "full_name": "PojavLauncherTeam/PojavLauncher",
       "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
-      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
+      "language": "Java",
+      "stars": 8646,
+      "forks": 1807,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "languagetool-org/languagetool",
       "url": "https://github.com/languagetool-org/languagetool",
       "description": "Style and Grammar Checker for 25+ Languages",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 14004,
+      "forks": 1477,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "kdn251/interviews",
       "url": "https://github.com/kdn251/interviews",
       "description": "Everything you need to know to get the job.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 64809,
+      "forks": 12933,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "LSPosed/LSPosed",
       "url": "https://github.com/LSPosed/LSPosed",
       "description": "LSPosed Framework",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 22619,
+      "forks": 3454,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "Paper",
       "full_name": "PaperMC/Paper",
       "url": "https://github.com/PaperMC/Paper",
-      "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+      "language": "Java",
+      "stars": 11863,
+      "forks": 3227,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "pxb1988/dex2jar",
       "url": "https://github.com/pxb1988/dex2jar",
       "description": "Tools to work with android .dex and java .class files",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 13045,
+      "forks": 2189,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "fastjson",
       "full_name": "alibaba/fastjson",
       "url": "https://github.com/alibaba/fastjson",
-      "description": "A fast JSON parser/generator for Java.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.",
+      "language": "Java",
+      "stars": 25727,
+      "forks": 6457,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "karma9874/AndroRAT",
       "url": "https://github.com/karma9874/AndroRAT",
       "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 4529,
+      "forks": 1474,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "iluwatar/java-design-patterns",
       "url": "https://github.com/iluwatar/java-design-patterns",
       "description": "Design patterns implemented in Java",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 93649,
+      "forks": 27375,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "TeamAmaze/AmazeFileManager",
       "url": "https://github.com/TeamAmaze/AmazeFileManager",
       "description": "Material design file manager for Android",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Kotlin",
+      "stars": 5966,
+      "forks": 1651,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "DuGuQiuBai/Java",
       "url": "https://github.com/DuGuQiuBai/Java",
       "description": "27天成为Java大神",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 14042,
+      "forks": 5181,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "signalapp/Signal-Android",
       "url": "https://github.com/signalapp/Signal-Android",
       "description": "A private messenger for Android.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Kotlin",
+      "stars": 28193,
+      "forks": 6644,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "reactor/reactor-netty",
       "url": "https://github.com/reactor/reactor-netty",
       "description": "TCP/HTTP/UDP/QUIC client/server with Reactor over Netty",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2744,
+      "forks": 691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "antlr/antlr4",
       "url": "https://github.com/antlr/antlr4",
       "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 18665,
+      "forks": 3428,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "DrKLO/Telegram",
       "url": "https://github.com/DrKLO/Telegram",
       "description": "Telegram for Android source",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 28364,
+      "forks": 9218,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "ReactiveX/RxJava",
       "url": "https://github.com/ReactiveX/RxJava",
       "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 48518,
+      "forks": 7607,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "java-interview-questions",
       "full_name": "learning-zone/java-interview-questions",
       "url": "https://github.com/learning-zone/java-interview-questions",
-      "description": "1000+ Java Interview Questions",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Java Basics ( Java-8 )",
+      "language": "Java",
+      "stars": 1847,
+      "forks": 854,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     }
   ]
 }

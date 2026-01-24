@@ -16,14 +16,16 @@
       "full_name": "dogecoin/dogecoin",
       "url": "https://github.com/dogecoin/dogecoin",
       "description": "very currency",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 15134,
+      "forks": 3068,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "CPlusPlusThings",
       "full_name": "Light-City/CPlusPlusThings",
       "url": "https://github.com/Light-City/CPlusPlusThings",
-      "description": "C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "C++那些事",
+      "language": "C++",
+      "stars": 42806,
+      "forks": 8834,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "srs",
       "full_name": "ossrs/srs",
       "url": "https://github.com/ossrs/srs",
-      "description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
+      "language": "C++",
+      "stars": 28422,
+      "forks": 5640,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "TheAlgorithms/C-Plus-Plus",
       "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
       "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33733,
+      "forks": 7702,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87749,
+      "forks": 38772,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "interview",
       "full_name": "huihut/interview",
       "url": "https://github.com/huihut/interview",
-      "description": "C/C++ This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",
+      "language": "C++",
+      "stars": 37438,
+      "forks": 8132,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70908,
+      "forks": 11486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "tevador/RandomX",
       "url": "https://github.com/tevador/RandomX",
       "description": "Proof of work algorithm based on random code execution",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 1573,
+      "forks": 338,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "lightvector/KataGo",
       "url": "https://github.com/lightvector/KataGo",
       "description": "GTP engine and self-play learning in Go",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4379,
+      "forks": 662,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "Marlin",
       "full_name": "MarlinFirmware/Marlin",
       "url": "https://github.com/MarlinFirmware/Marlin",
-      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": 17256,
+      "forks": 19647,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "xmrig",
       "full_name": "xmrig/xmrig",
       "url": "https://github.com/xmrig/xmrig",
-      "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "language": "C",
+      "stars": 9772,
+      "forks": 3789,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "vnpy",
       "full_name": "vnpy/vnpy",
       "url": "https://github.com/vnpy/vnpy",
-      "description": "Python",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "基于Python的开源量化交易平台开发框架",
+      "language": "Python",
+      "stars": 35776,
+      "forks": 10743,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "workflow",
       "full_name": "sogou/workflow",
       "url": "https://github.com/sogou/workflow",
-      "description": "C++ Parallel Computing and Asynchronous Networking Engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "C++ Parallel Computing and Asynchronous Networking Framework",
+      "language": "C++",
+      "stars": 14286,
+      "forks": 2568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "mamedev/mame",
       "url": "https://github.com/mamedev/mame",
       "description": "MAME",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9846,
+      "forks": 2286,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "diasurgical/devilutionX",
       "url": "https://github.com/diasurgical/devilutionX",
       "description": "Diablo build for modern operating systems",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9280,
+      "forks": 945,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "CleverRaven/Cataclysm-DDA",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
       "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11983,
+      "forks": 4415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "barry-ran/QtScrcpy",
       "url": "https://github.com/barry-ran/QtScrcpy",
       "description": "Android real-time display control software",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 27786,
+      "forks": 3411,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "aseprite/aseprite",
       "url": "https://github.com/aseprite/aseprite",
       "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35399,
+      "forks": 7719,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "modern-cpp-tutorial",
       "full_name": "changkun/modern-cpp-tutorial",
       "url": "https://github.com/changkun/modern-cpp-tutorial",
-      "description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
+      "language": "C++",
+      "stars": 25298,
+      "forks": 3091,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "Qv2ray",
       "full_name": "Qv2ray/Qv2ray",
       "url": "https://github.com/Qv2ray/Qv2ray",
-      "description": "Linux / Windows / macOS  V2Ray  |  VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 |  C++ / Qt  |",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:",
+      "language": "C++",
+      "stars": 17004,
+      "forks": 3233,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "esp8266/Arduino",
       "url": "https://github.com/esp8266/Arduino",
       "description": "ESP8266 core for Arduino",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16551,
+      "forks": 13242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 23,
@@ -375,7 +419,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md"
+      "source_path": "/tmp/trending_archive/2021/2021-05/2021-05-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     }
   ]
 }

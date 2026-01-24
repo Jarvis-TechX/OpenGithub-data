@@ -16,14 +16,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "jashkenas/coffeescript",
       "url": "https://github.com/jashkenas/coffeescript",
       "description": "Unfancy JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 16595,
+      "forks": 1983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "cakecatz/garage",
       "url": "https://github.com/cakecatz/garage",
       "description": "Manage VirtualMachine from browser",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15,
+      "forks": 164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     }
   ]
 }

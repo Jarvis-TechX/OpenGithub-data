@@ -16,14 +16,16 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "url": "https://github.com/Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14650,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Solidity",
+      "stars": 26936,
+      "forks": 12415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "wechat-public-account-push",
       "full_name": "wangxinleo/wechat-public-account-push",
       "url": "https://github.com/wangxinleo/wechat-public-account-push",
-      "description": "微信公众号推送-给女朋友的浪漫",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "✨微信公众号推送-给女朋友的浪漫",
+      "language": "JavaScript",
+      "stars": 1833,
+      "forks": 5274,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "HashLips/hashlips_art_engine",
       "url": "https://github.com/HashLips/hashlips_art_engine",
       "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7246,
+      "forks": 4269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 8,
@@ -129,13 +143,15 @@
       "url": "https://github.com/george-jiang-wow/yanglegeyang",
       "description": "羊了个羊在线版",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 265,
+      "forks": 273,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "zadam/trilium",
       "url": "https://github.com/zadam/trilium",
       "description": "Build your personal knowledge base with Trilium Notes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 34282,
+      "forks": 2269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "jonasschmedtmann/complete-javascript-course",
       "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
       "description": "Starter files, final projects, and FAQ for my Complete JavaScript course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17051,
+      "forks": 17528,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "wu-component/web-component-plus",
       "url": "https://github.com/wu-component/web-component-plus",
       "description": "采用WebComponent方式重写ElementUI, 仓库中包含核心包以及UI组件库,包括底层逻辑npm包以及UI实现",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 221,
+      "forks": 37,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "SudhanPlayz/Discord-MusicBot",
       "url": "https://github.com/SudhanPlayz/Discord-MusicBot",
       "description": "An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 3184,
+      "forks": 3009,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "blackmatrix7/ios_rule_script",
       "url": "https://github.com/blackmatrix7/ios_rule_script",
       "description": "分流规则、重写写规则及脚本。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 24462,
+      "forks": 3853,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "fent/node-ytdl-core",
       "url": "https://github.com/fent/node-ytdl-core",
       "description": "YouTube video downloader in javascript.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4725,
+      "forks": 860,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "ender-zhao/Clash-for-Windows_Chinese",
       "url": "https://github.com/ender-zhao/Clash-for-Windows_Chinese",
       "description": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27550,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "jonasschmedtmann/complete-node-bootcamp",
       "url": "https://github.com/jonasschmedtmann/complete-node-bootcamp",
       "description": "Starter files, final projects and FAQ for my Complete Node.js Bootcamp",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3481,
+      "forks": 3865,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "webtorrent/webtorrent",
       "url": "https://github.com/webtorrent/webtorrent",
       "description": "⚡️ Streaming torrent client for the web",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30710,
+      "forks": 2783,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "metamask-extension",
       "full_name": "MetaMask/metamask-extension",
       "url": "https://github.com/MetaMask/metamask-extension",
-      "description": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+      "language": "TypeScript",
+      "stars": 13059,
+      "forks": 5513,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "koodo-reader",
       "full_name": "troyeguo/koodo-reader",
       "url": "https://github.com/troyeguo/koodo-reader",
-      "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web",
+      "language": "JavaScript",
+      "stars": 25823,
+      "forks": 1921,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "ccxt",
       "full_name": "ccxt/ccxt",
       "url": "https://github.com/ccxt/ccxt",
-      "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go ",
+      "language": "Python",
+      "stars": 40658,
+      "forks": 8481,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "jhu-ep-coursera/fullstack-course4",
       "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
       "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10949,
+      "forks": 11761,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 25,
@@ -399,15 +447,17 @@
       "repo_name": "hexo-theme-fluid",
       "full_name": "fluid-dev/hexo-theme-fluid",
       "url": "https://github.com/fluid-dev/hexo-theme-fluid",
-      "description": "🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
+      "language": "JavaScript",
+      "stars": 8067,
+      "forks": 1153,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     }
   ]
 }

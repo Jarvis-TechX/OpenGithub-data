@@ -16,14 +16,16 @@
       "full_name": "LimpidTech/GaugesJS",
       "url": "https://github.com/LimpidTech/GaugesJS",
       "description": "Exposing the gauges API to NodeJS - one endpoint at a time. Maybe two.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 2,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-05.md"
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "basecamp/local_time",
       "url": "https://github.com/basecamp/local_time",
       "description": "Rails engine for cache-friendly, client-side local time",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1990,
+      "forks": 123,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-05.md"
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     }
   ]
 }

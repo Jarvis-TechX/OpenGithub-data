@@ -15,15 +15,17 @@
       "repo_name": "yt-dlp",
       "full_name": "yt-dlp/yt-dlp",
       "url": "https://github.com/yt-dlp/yt-dlp",
-      "description": "A youtube-dl fork with additional features and fixes",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "stars": 143756,
+      "forks": 11638,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 217107,
+      "forks": 49988,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "DIGITALCRIMINAL/OnlyFans",
       "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
       "description": "Scrape all the media from an OnlyFans account - Updated regularly",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4208,
+      "forks": 620,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "CorentinJ/Real-Time-Voice-Cloning",
       "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
       "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 59258,
+      "forks": 9412,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "Realtime-Voice-Clone-Chinese",
       "full_name": "babysor/Realtime-Voice-Clone-Chinese",
       "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
-      "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+      "language": "Python",
+      "stars": 36860,
+      "forks": 5260,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "RustPython/RustPython",
       "url": "https://github.com/RustPython/RustPython",
       "description": "A Python Interpreter written in Rust",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 21716,
+      "forks": 1399,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "tiangolo/fastapi",
       "url": "https://github.com/tiangolo/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 94390,
+      "forks": 8574,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "30-Days-Of-Python",
       "full_name": "Asabeneh/30-Days-Of-Python",
       "url": "https://github.com/Asabeneh/30-Days-Of-Python",
-      "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "Python",
+      "stars": 56321,
+      "forks": 10785,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "zhzyker/vulmap",
       "url": "https://github.com/zhzyker/vulmap",
       "description": "Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3507,
+      "forks": 572,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "Kuzyashin/FastAPI_Tortoise_template",
       "url": "https://github.com/Kuzyashin/FastAPI_Tortoise_template",
       "description": "FastAPI - Tortoise ORM - Celery - Docker template",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 258,
+      "forks": 43,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "manim",
       "full_name": "ManimCommunity/manim",
       "url": "https://github.com/ManimCommunity/manim",
-      "description": "A community-maintained Python framework for creating mathematical animations.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A community-maintained Python framework for creating mathematical animations. ",
+      "language": "Python",
+      "stars": 36377,
+      "forks": 2614,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "knosmos/cmdpxl",
       "url": "https://github.com/knosmos/cmdpxl",
       "description": "totally practical command-line image editor",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 545,
+      "forks": 18,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "TideSec/TideFinger",
       "url": "https://github.com/TideSec/TideFinger",
       "description": "TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2060,
+      "forks": 350,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "conanhujinming/comments-for-awesome-courses",
       "url": "https://github.com/conanhujinming/comments-for-awesome-courses",
       "description": "名校公开课程评价网",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3232,
+      "forks": 290,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "accelerate",
       "full_name": "huggingface/accelerate",
       "url": "https://github.com/huggingface/accelerate",
-      "description": "🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support",
+      "language": "Python",
+      "stars": 9459,
+      "forks": 1269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "presslabs/gitfs",
       "url": "https://github.com/presslabs/gitfs",
       "description": "Version controlled file system",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2562,
+      "forks": 160,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "sinwindie/OSINT",
       "url": "https://github.com/sinwindie/OSINT",
       "description": "Collections of tools and methods created to aid in OSINT collection",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3352,
+      "forks": 462,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "zhzyker/exphub",
       "url": "https://github.com/zhzyker/exphub",
       "description": "Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4270,
+      "forks": 1102,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "scikit-image/scikit-image",
       "url": "https://github.com/scikit-image/scikit-image",
       "description": "Image processing in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6431,
+      "forks": 2352,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "dbisu/pico-ducky",
       "url": "https://github.com/dbisu/pico-ducky",
       "description": "Create a USB Rubber Ducky like device using a Raspberry PI Pico",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3080,
+      "forks": 517,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "keras-team/keras",
       "url": "https://github.com/keras-team/keras",
       "description": "Deep Learning for humans",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 63739,
+      "forks": 19678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-08/2021-08-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     }
   ]
 }

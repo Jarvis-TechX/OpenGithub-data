@@ -16,14 +16,16 @@
       "full_name": "FortAwesome/Font-Awesome",
       "url": "https://github.com/FortAwesome/Font-Awesome",
       "description": "The iconic SVG, font, and CSS toolkit",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 76268,
+      "forks": 12251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "medusa",
       "full_name": "medusajs/medusa",
       "url": "https://github.com/medusajs/medusa",
-      "description": "The open-source Shopify alternative ⚡️",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The world's most flexible commerce platform.",
+      "language": "TypeScript",
+      "stars": 31823,
+      "forks": 4003,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
       "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
       "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30690,
+      "forks": 2564,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "6dylan6/jdpro",
       "url": "https://github.com/6dylan6/jdpro",
       "description": "京东签到，集合库，内部助力，青龙面板支持，青龙脚本",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4194,
+      "forks": 574,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "zadam/trilium",
       "url": "https://github.com/zadam/trilium",
       "description": "Build your personal knowledge base with Trilium Notes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 34282,
+      "forks": 2269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "jitsi/jitsi-meet",
       "url": "https://github.com/jitsi/jitsi-meet",
       "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 28423,
+      "forks": 7704,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "ToolJet",
       "full_name": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
-      "description": "Open-source low-code framework for building React-based web applications and internal tools 🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 37326,
+      "forks": 4935,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "nodebestpractices",
       "full_name": "goldbergyoni/nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (January 2022)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":white_check_mark:  The Node.js best practices list (July 2024)",
+      "language": "Dockerfile",
+      "stars": 104955,
+      "forks": 10681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "Absinthe",
       "full_name": "gys619/Absinthe",
       "url": "https://github.com/gys619/Absinthe",
-      "description": "* [https://github.com/laravel/breeze-next](laravel/breeze-next) An application / authentication starter kit frontend in Next.js for Laravel Breeze.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "default",
+      "language": "JavaScript",
+      "stars": 1231,
+      "forks": 592,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "axios/axios",
       "url": "https://github.com/axios/axios",
       "description": "Promise based HTTP client for the browser and node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 108520,
+      "forks": 11497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "MockingBird",
       "full_name": "babysor/MockingBird",
       "url": "https://github.com/babysor/MockingBird",
-      "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+      "language": "Python",
+      "stars": 36860,
+      "forks": 5260,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "3d",
       "full_name": "dragonir/3d",
       "url": "https://github.com/dragonir/3d",
-      "description": "3d",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇",
+      "language": "JavaScript",
+      "stars": 2811,
+      "forks": 994,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "video.js",
       "full_name": "videojs/video.js",
       "url": "https://github.com/videojs/video.js",
-      "description": "Video.js - open source HTML5 & Flash video player",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Video.js - open source HTML5 video player",
+      "language": "JavaScript",
+      "stars": 39447,
+      "forks": 7519,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "atom",
       "full_name": "atom/atom",
       "url": "https://github.com/atom/atom",
-      "description": "The hackable text editor",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":atom: The hackable text editor",
+      "language": "JavaScript",
+      "stars": 60998,
+      "forks": 17302,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "jd_yun",
       "full_name": "lukesyy/jd_yun",
       "url": "https://github.com/lukesyy/jd_yun",
-      "description": "京东合集-----腾讯云函数",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "JD-----云函数&青龙",
+      "language": "JavaScript",
+      "stars": 646,
+      "forks": 276,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "Kindelia/Kind",
       "url": "https://github.com/Kindelia/Kind",
       "description": "A modern proof language",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Haskell",
+      "stars": 3716,
+      "forks": 148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "ruanyf/es6tutorial",
       "url": "https://github.com/ruanyf/es6tutorial",
       "description": "《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 21464,
+      "forks": 8926,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "soheilpro/mailwind",
       "url": "https://github.com/soheilpro/mailwind",
       "description": "Use Tailwind CSS to design HTML emails.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3210,
+      "forks": 72,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     }
   ]
 }

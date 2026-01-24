@@ -17,13 +17,15 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars": 32685,
-      "forks": 0,
+      "stars": 117483,
+      "forks": 12007,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "training-kit",
       "full_name": "github/training-kit",
       "url": "https://github.com/github/training-kit",
-      "description": "Open source cheat sheets for Git and GitHub",
+      "description": "Open source courseware for Git and GitHub",
       "language": "HTML",
-      "stars": 2502,
-      "forks": 0,
+      "stars": 4817,
+      "forks": 4448,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "olivierlacan/keep-a-changelog",
       "url": "https://github.com/olivierlacan/keep-a-changelog",
       "description": "If you build software, keep a changelog.",
-      "language": "HTML",
-      "stars": 3917,
-      "forks": 0,
+      "language": "Haml",
+      "stars": 6478,
+      "forks": 3584,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -65,13 +71,15 @@
       "url": "https://github.com/jwasham/computer-science-flash-cards",
       "description": "Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.",
       "language": "HTML",
-      "stars": 3040,
-      "forks": 0,
+      "stars": 8924,
+      "forks": 2085,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "indigo",
       "full_name": "sergiokopplin/indigo",
       "url": "https://github.com/sergiokopplin/indigo",
-      "description": "🍜 Minimalist Jekyll Template",
+      "description": "Minimalist Jekyll Template, dark and light themes",
       "language": "HTML",
-      "stars": 1756,
-      "forks": 0,
+      "stars": 2724,
+      "forks": 2330,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "nndl.github.io",
       "full_name": "nndl/nndl.github.io",
       "url": "https://github.com/nndl/nndl.github.io",
-      "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+      "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning ",
       "language": "HTML",
-      "stars": 10848,
-      "forks": 0,
+      "stars": 18702,
+      "forks": 3677,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -113,13 +125,15 @@
       "url": "https://github.com/dixonandmoe/rellax",
       "description": "Lightweight, vanilla javascript parallax library",
       "language": "HTML",
-      "stars": 4890,
-      "forks": 0,
+      "stars": 7160,
+      "forks": 850,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 8,
@@ -129,13 +143,15 @@
       "url": "https://github.com/holtzy/D3-graph-gallery",
       "description": "A collection of simple graphics made with D3.js",
       "language": "HTML",
-      "stars": 233,
-      "forks": 0,
+      "stars": 839,
+      "forks": 240,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "flag-icon-css",
       "full_name": "lipis/flag-icon-css",
       "url": "https://github.com/lipis/flag-icon-css",
-      "description": "🎏 A collection of all country flags in SVG — plus the CSS for easier integration",
+      "description": ":flags: A curated collection of all country flags in SVG — plus the CSS for easier integration",
       "language": "HTML",
-      "stars": 6513,
-      "forks": 0,
+      "stars": 11885,
+      "forks": 1938,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -161,13 +179,15 @@
       "url": "https://github.com/vernesong/OpenClash",
       "description": "A Clash Client For OpenWrt",
       "language": "HTML",
-      "stars": 592,
-      "forks": 0,
+      "stars": 23948,
+      "forks": 3725,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "DmitriiDenisov/mlcourse_dubai",
       "url": "https://github.com/DmitriiDenisov/mlcourse_dubai",
       "description": "Repository for ML course in Dubai",
-      "language": "HTML",
-      "stars": 4,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 36,
+      "forks": 81,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "hexo-theme-matery",
       "full_name": "blinkfox/hexo-theme-matery",
       "url": "https://github.com/blinkfox/hexo-theme-matery",
-      "description": "A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。",
-      "language": "HTML",
-      "stars": 1644,
-      "forks": 0,
+      "description": "A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com",
+      "language": "JavaScript",
+      "stars": 5367,
+      "forks": 1238,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -209,13 +233,15 @@
       "url": "https://github.com/tc39/ecma262",
       "description": "Status, process, and documents for ECMA-262",
       "language": "HTML",
-      "stars": 9862,
-      "forks": 0,
+      "stars": 15573,
+      "forks": 1388,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -225,13 +251,15 @@
       "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
       "description": "[Book] 2019 edition of our front-end development handbook",
       "language": "HTML",
-      "stars": 3210,
-      "forks": 0,
+      "stars": 4090,
+      "forks": 471,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "beautiful-jekyll",
       "full_name": "daattali/beautiful-jekyll",
       "url": "https://github.com/daattali/beautiful-jekyll",
-      "description": "✨ Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll",
+      "description": "✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com",
       "language": "HTML",
-      "stars": 2385,
-      "forks": 0,
+      "stars": 5760,
+      "forks": 17350,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -257,13 +287,15 @@
       "url": "https://github.com/google/material-design-lite",
       "description": "Material Design Components in HTML/CSS/JS",
       "language": "HTML",
-      "stars": 31556,
-      "forks": 0,
+      "stars": 32229,
+      "forks": 4958,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "w3c/csswg-drafts",
       "url": "https://github.com/w3c/csswg-drafts",
       "description": "CSS Working Group Editor Drafts",
-      "language": "HTML",
-      "stars": 2110,
-      "forks": 0,
+      "language": "Bikeshed",
+      "stars": 4788,
+      "forks": 765,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 18,
@@ -289,13 +323,15 @@
       "url": "https://github.com/SamProf/MatBlazor",
       "description": "Material Design components for Blazor and Razor Components",
       "language": "HTML",
-      "stars": 1196,
-      "forks": 0,
+      "stars": 2867,
+      "forks": 378,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "speedtest",
       "full_name": "librespeed/speedtest",
       "url": "https://github.com/librespeed/speedtest",
-      "description": "Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more",
-      "language": "HTML",
-      "stars": 3275,
-      "forks": 0,
+      "description": "Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more",
+      "language": "PHP",
+      "stars": 14134,
+      "forks": 2428,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "h5bp/Front-end-Developer-Interview-Questions",
       "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
       "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
-      "language": "HTML",
-      "stars": 43733,
-      "forks": 0,
+      "language": "Nunjucks",
+      "stars": 60796,
+      "forks": 11095,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "webKnowledge",
       "full_name": "huyaocode/webKnowledge",
       "url": "https://github.com/huyaocode/webKnowledge",
-      "description": "前端面试知识点总结",
+      "description": "前端知识点总结",
       "language": "HTML",
-      "stars": 877,
-      "forks": 0,
+      "stars": 2171,
+      "forks": 430,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "joemccann/dillinger",
       "url": "https://github.com/joemccann/dillinger",
       "description": "The last Markdown editor, ever.",
-      "language": "HTML",
-      "stars": 6618,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8206,
+      "forks": 1152,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 23,
@@ -369,13 +413,15 @@
       "url": "https://github.com/microsoft/ignite-learning-paths-training-afun",
       "description": "Microsoft Ignite Learning Path, Train the Trainer materials: Azure Fundamentals",
       "language": "HTML",
-      "stars": 84,
-      "forks": 0,
+      "stars": 138,
+      "forks": 90,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 24,
@@ -385,13 +431,15 @@
       "url": "https://github.com/leemunroe/responsive-html-email-template",
       "description": "A free simple responsive HTML email template",
       "language": "HTML",
-      "stars": 8666,
-      "forks": 0,
+      "stars": 13684,
+      "forks": 4367,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 25,
@@ -401,13 +449,15 @@
       "url": "https://github.com/jgthms/css-reference",
       "description": "CSS Reference: a free visual guide to the most popular CSS properties",
       "language": "HTML",
-      "stars": 4017,
-      "forks": 0,
+      "stars": 4917,
+      "forks": 337,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

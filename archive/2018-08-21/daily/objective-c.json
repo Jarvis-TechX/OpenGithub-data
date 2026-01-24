@@ -31,15 +31,17 @@
       "repo_name": "JXCategoryView",
       "full_name": "pujiaxin33/JXCategoryView",
       "url": "https://github.com/pujiaxin33/JXCategoryView",
-      "description": "A powerful and easy to use category view (segmentedcontrol, pagingview, pagerview, pagecontrol, scrollview) (腾讯新闻、网易新闻、今日头条、QQ音乐、京东、爱奇艺等所有主流APP分类切换滚动视图)",
+      "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 572,
-      "forks": 90,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 3,
@@ -129,13 +131,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 31442,
-      "forks": 9643,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 9,
@@ -167,7 +171,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 11,
@@ -209,13 +215,15 @@
       "url": "https://github.com/yorkie/react-native-wechat",
       "description": "🚀 WeChat login, share, favorite and payment for React-Native on iOS and Android platforms (QQ: 336021910)",
       "language": "Objective-C",
-      "stars": 1876,
-      "forks": 379,
+      "stars": 2916,
+      "forks": 710,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 14,
@@ -255,15 +263,17 @@
       "repo_name": "Halfrost-Field",
       "full_name": "halfrost/Halfrost-Field",
       "url": "https://github.com/halfrost/Halfrost-Field",
-      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
-      "language": "Objective-C",
-      "stars": 2802,
-      "forks": 465,
+      "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Go",
+      "stars": 13290,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 17,
@@ -321,13 +331,15 @@
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
       "language": "Objective-C",
-      "stars": 8717,
-      "forks": 878,
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 21,
@@ -336,14 +348,16 @@
       "full_name": "OpenEmu/OpenEmu",
       "url": "https://github.com/OpenEmu/OpenEmu",
       "description": "🕹 Retro video game emulation for macOS",
-      "language": "Objective-C",
-      "stars": 9048,
-      "forks": 939,
+      "language": "Swift",
+      "stars": 17319,
+      "forks": 1331,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-21.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 22,

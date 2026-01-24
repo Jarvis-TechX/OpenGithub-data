@@ -15,15 +15,17 @@
       "repo_name": "WeChatExtension-ForMac",
       "full_name": "MustangYM/WeChatExtension-ForMac",
       "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
-      "description": "Mac版微信的功能拓展",
+      "description": "A plugin for Mac WeChat",
       "language": "Objective-C",
-      "stars": 3869,
-      "forks": 641,
+      "stars": 22703,
+      "forks": 3593,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "react-native-community/react-native-maps",
       "url": "https://github.com/react-native-community/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "Objective-C",
-      "stars": 10584,
-      "forks": 3519,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 3,
@@ -63,15 +67,17 @@
       "repo_name": "firebase-ios-sdk",
       "full_name": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase iOS SDK",
-      "language": "Objective-C",
-      "stars": 1650,
-      "forks": 400,
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": 6508,
+      "forks": 1715,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 5,
@@ -79,15 +85,17 @@
       "repo_name": "TOFileSystemObserver",
       "full_name": "TimOliver/TOFileSystemObserver",
       "url": "https://github.com/TimOliver/TOFileSystemObserver",
-      "description": "A bullet-proof mechanism for detecting any changes made to the contents of a folder in iOS.",
+      "description": "A bullet-proof mechanism for detecting any changes made to the contents of a folder in iOS and macOS.",
       "language": "Objective-C",
-      "stars": 20,
-      "forks": 0,
+      "stars": 40,
+      "forks": 4,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 6,
@@ -113,13 +121,15 @@
       "url": "https://github.com/Sharpie/Swarm",
       "description": "Swarm is a library for creating agent-based models. This is an unofficial clone of the Swarm SVN repository.",
       "language": "Objective-C",
-      "stars": 2,
+      "stars": 1,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 8,
@@ -127,15 +137,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "language": "Objective-C",
-      "stars": 8672,
-      "forks": 1241,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 9,
@@ -161,13 +173,15 @@
       "url": "https://github.com/BradLarson/GPUImage",
       "description": "An open source iOS framework for GPU-based image and video processing",
       "language": "Objective-C",
-      "stars": 19053,
-      "forks": 4498,
+      "stars": 20343,
+      "forks": 4589,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 11,
@@ -225,13 +239,15 @@
       "url": "https://github.com/DanTheMan827/ios-app-signer",
       "description": "This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.",
       "language": "Objective-C",
-      "stars": 2813,
-      "forks": 608,
+      "stars": 6231,
+      "forks": 1144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 15,
@@ -241,13 +257,15 @@
       "url": "https://github.com/github/Archimedes",
       "description": "Geometry functions for Cocoa and Cocoa Touch",
       "language": "Objective-C",
-      "stars": 472,
-      "forks": 44,
+      "stars": 467,
+      "forks": 36,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 16,
@@ -257,13 +275,15 @@
       "url": "https://github.com/github/Rebel",
       "description": "Cocoa framework for improving AppKit",
       "language": "Objective-C",
-      "stars": 1139,
-      "forks": 115,
+      "stars": 1122,
+      "forks": 111,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 17,
@@ -320,14 +340,16 @@
       "full_name": "microsoft/react-native-code-push",
       "url": "https://github.com/microsoft/react-native-code-push",
       "description": "React Native module for CodePush",
-      "language": "Objective-C",
-      "stars": 6552,
-      "forks": 967,
+      "language": "C",
+      "stars": 9148,
+      "forks": 1585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 21,
@@ -399,15 +421,17 @@
       "repo_name": "Halfrost-Field",
       "full_name": "halfrost/Halfrost-Field",
       "url": "https://github.com/halfrost/Halfrost-Field",
-      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
-      "language": "Objective-C",
-      "stars": 5537,
-      "forks": 999,
+      "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Go",
+      "stars": 13290,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     }
   ]
 }

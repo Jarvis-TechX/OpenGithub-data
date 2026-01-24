@@ -16,14 +16,16 @@
       "full_name": "deepfakes/faceswap",
       "url": "https://github.com/deepfakes/faceswap",
       "description": "Deepfakes Software For All",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 54917,
+      "forks": 13433,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "microsoft/nlp",
       "url": "https://github.com/microsoft/nlp",
       "description": "Natural Language Processing Best Practices & Examples",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6442,
+      "forks": 919,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "DeepFaceLab",
       "full_name": "iperov/DeepFaceLab",
       "url": "https://github.com/iperov/DeepFaceLab",
-      "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "DeepFaceLab is the leading software for creating deepfakes.",
+      "language": "Python",
+      "stars": 18975,
+      "forks": 823,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "facebookresearch/craftassist",
       "url": "https://github.com/facebookresearch/craftassist",
       "description": "A virtual assistant bot in Minecraft",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "TeX",
+      "stars": 624,
+      "forks": 76,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "HelloGitHub",
       "full_name": "521xueweihan/HelloGitHub",
       "url": "https://github.com/521xueweihan/HelloGitHub",
-      "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "language": "Python",
+      "stars": 140937,
+      "forks": 11061,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "CoreyMSchafer/code_snippets",
       "url": "https://github.com/CoreyMSchafer/code_snippets",
       "description": "* [https://github.com/pennersr/django-allauth](pennersr/django-allauth) Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 10548,
+      "forks": 17374,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "killgcd/chromego",
       "url": "https://github.com/killgcd/chromego",
       "description": "ChromeGo 翻墙工具包",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rich Text Format",
+      "stars": 2109,
+      "forks": 683,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "pytorch-lightning",
       "full_name": "williamFalcon/pytorch-lightning",
       "url": "https://github.com/williamFalcon/pytorch-lightning",
-      "description": "Rapid research framework for PyTorch. The researcher's version of Keras",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+      "language": "Python",
+      "stars": 30772,
+      "forks": 3655,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "signature_algorithm",
       "full_name": "gadfly0x/signature_algorithm",
       "url": "https://github.com/gadfly0x/signature_algorithm",
-      "description": "各种App、小程序、网站的请求签名算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "各种App、小程序、网站的请求签名或加密算法。 现已有：自如、小红书、蛋壳公寓、luckin coffee(瑞幸咖啡)、bangkokair(曼谷航空)",
+      "language": "Python",
+      "stars": 429,
+      "forks": 68,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "google/tf-quant-finance",
       "url": "https://github.com/google/tf-quant-finance",
       "description": "High-performance TensorFlow library for quantitative finance.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5194,
+      "forks": 666,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "you-get",
       "full_name": "soimort/you-get",
       "url": "https://github.com/soimort/you-get",
-      "description": "⏬ Dumb downloader that scrapes the web",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":arrow_double_down: Dumb downloader that scrapes the web",
+      "language": "Python",
+      "stars": 56704,
+      "forks": 9807,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "aquasecurity/kube-hunter",
       "url": "https://github.com/aquasecurity/kube-hunter",
       "description": "Hunt for security weaknesses in Kubernetes clusters",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4991,
+      "forks": 604,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "testerSunshine/12306",
       "url": "https://github.com/testerSunshine/12306",
       "description": "12306智能刷票，订票",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 34132,
+      "forks": 9710,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "shadowsocksr-backup/shadowsocksr",
       "url": "https://github.com/shadowsocksr-backup/shadowsocksr",
       "description": "Python port of ShadowsocksR",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 6157,
+      "forks": 3082,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "jaakkopasanen/AutoEq",
       "url": "https://github.com/jaakkopasanen/AutoEq",
       "description": "Automatic headphone equalization from frequency responses",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 15312,
+      "forks": 2527,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "Yorko/mlcourse.ai",
       "url": "https://github.com/Yorko/mlcourse.ai",
       "description": "Open Machine Learning Course",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 10424,
+      "forks": 5720,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "backtrader/backtrader",
       "url": "https://github.com/backtrader/backtrader",
       "description": "Python Backtesting library for trading strategies",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 20205,
+      "forks": 4893,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "TensorFlow-Course",
       "full_name": "machinelearningmindset/TensorFlow-Course",
       "url": "https://github.com/machinelearningmindset/TensorFlow-Course",
-      "description": "Simple and ready-to-use tutorials for TensorFlow",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":satellite: Simple and ready-to-use tutorials for TensorFlow ",
+      "language": "Jupyter Notebook",
+      "stars": 16338,
+      "forks": 3169,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "mnielsen/neural-networks-and-deep-learning",
       "url": "https://github.com/mnielsen/neural-networks-and-deep-learning",
       "description": "Code samples for my book \"Neural Networks and Deep Learning\"",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 17382,
+      "forks": 6982,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "wifiphisher/wifiphisher",
       "url": "https://github.com/wifiphisher/wifiphisher",
       "description": "The Rogue Access Point Framework",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 14375,
+      "forks": 2721,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "tensorflow/magenta",
       "url": "https://github.com/tensorflow/magenta",
       "description": "Magenta: Music and Art Generation with Machine Intelligence",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 19775,
+      "forks": 3803,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     }
   ]
 }

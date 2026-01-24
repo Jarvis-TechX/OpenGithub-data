@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "JDHelloWorld/jd_scripts",
       "url": "https://github.com/JDHelloWorld/jd_scripts",
       "description": "* [https://github.com/vercel/next.js](vercel/next.js) The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2261,
+      "forks": 989,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "adrianhajdin/portfolio_website",
       "url": "https://github.com/adrianhajdin/portfolio_website",
       "description": "Tutorial created by Enyel Sequeira, taught by JavaScript Mastery",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3497,
+      "forks": 729,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "ethereumbook",
       "full_name": "ethereumbook/ethereumbook",
       "url": "https://github.com/ethereumbook/ethereumbook",
-      "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+      "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 21407,
+      "forks": 5217,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "carbon-design-system/carbon",
       "url": "https://github.com/carbon-design-system/carbon",
       "description": "A design system built by IBM",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 8734,
+      "forks": 2088,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "Automattic/wp-calypso",
       "url": "https://github.com/Automattic/wp-calypso",
       "description": "The JavaScript and API powered WordPress.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 12619,
+      "forks": 2006,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "chinese-poetry",
       "full_name": "chinese-poetry/chinese-poetry",
       "url": "https://github.com/chinese-poetry/chinese-poetry",
-      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
+      "language": "JavaScript",
+      "stars": 50871,
+      "forks": 10285,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "PrincewillIroka/gmail_clone",
       "url": "https://github.com/PrincewillIroka/gmail_clone",
       "description": "Gmail mobile app clone built with ReactNative",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 149,
+      "forks": 42,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "airbnb/javascript",
       "url": "https://github.com/airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 148051,
+      "forks": 26770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "AzureAD/microsoft-authentication-library-for-js",
       "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
       "description": "Microsoft Authentication Library (MSAL) for JS",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4007,
+      "forks": 2695,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "MichMich/MagicMirror",
       "url": "https://github.com/MichMich/MagicMirror",
       "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 23219,
+      "forks": 4509,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "wechat-miniprogram/miniprogram-demo",
       "url": "https://github.com/wechat-miniprogram/miniprogram-demo",
       "description": "微信小程序组件 / API / 云开发示例",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7109,
+      "forks": 2209,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "microsoft/monaco-editor",
       "url": "https://github.com/microsoft/monaco-editor",
       "description": "A browser based code editor",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 45389,
+      "forks": 3966,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "external-secrets/kubernetes-external-secrets",
       "url": "https://github.com/external-secrets/kubernetes-external-secrets",
       "description": "Integrate external secret management systems with Kubernetes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2590,
+      "forks": 401,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 115347,
+      "forks": 34470,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "mozilla/pdf.js",
       "url": "https://github.com/mozilla/pdf.js",
       "description": "PDF Reader in JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 52711,
+      "forks": 10571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "chartjs/Chart.js",
       "url": "https://github.com/chartjs/Chart.js",
       "description": "Simple HTML5 Charts using the <canvas> tag",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 67045,
+      "forks": 11990,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "freeCodeCamp",
       "full_name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 436225,
+      "forks": 43169,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "elsewhencode/project-guidelines",
       "url": "https://github.com/elsewhencode/project-guidelines",
       "description": "A set of best practices for JavaScript projects",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 29542,
+      "forks": 3185,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     }
   ]
 }

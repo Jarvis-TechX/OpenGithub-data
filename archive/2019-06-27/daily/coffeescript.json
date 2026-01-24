@@ -15,15 +15,17 @@
       "repo_name": "Love-Gift",
       "full_name": "idealclover/Love-Gift",
       "url": "https://github.com/idealclover/Love-Gift",
-      "description": "A love gift for my ex-girlfriend.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "💌 A love gift for my ex-girlfriend.",
+      "language": "CoffeeScript",
+      "stars": 336,
+      "forks": 76,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-27.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

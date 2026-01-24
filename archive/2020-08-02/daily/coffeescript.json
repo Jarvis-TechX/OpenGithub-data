@@ -15,15 +15,17 @@
       "repo_name": "chinese-copywriting-guidelines",
       "full_name": "sparanoid/chinese-copywriting-guidelines",
       "url": "https://github.com/sparanoid/chinese-copywriting-guidelines",
-      "description": "Chinese copywriting guidelines for better written communication",
+      "description": "Chinese copywriting guidelines for better written communication／中文文案排版指北",
       "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 15173,
+      "forks": 1834,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md"
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "CoffeeScriptRedux",
       "full_name": "michaelficarra/CoffeeScriptRedux",
       "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
-      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "CoffeeScript",
+      "stars": 1836,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md"
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "morrisjs/morris.js",
       "url": "https://github.com/morrisjs/morris.js",
       "description": "Pretty time-series line graphs",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 6893,
+      "forks": 1206,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md"
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "Qix-/node-error-ex",
       "url": "https://github.com/Qix-/node-error-ex",
       "description": "Easy error subclassing and stack customization",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 66,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md"
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "hubot-study",
       "full_name": "progedu/hubot-study",
       "url": "https://github.com/progedu/hubot-study",
-      "description": "36 yo hubot  (ISC License)",
-      "language": "coffeescript",
+      "description": "入門コースの3章6節の yo hubot 済リポジトリ (ISC License)",
+      "language": "CoffeeScript",
       "stars": 0,
-      "forks": 0,
+      "forks": 34,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md"
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     }
   ]
 }

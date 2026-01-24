@@ -16,14 +16,16 @@
       "full_name": "OAI/OpenAPI-Specification",
       "url": "https://github.com/OAI/OpenAPI-Specification",
       "description": "The OpenAPI Specification Repository",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Markdown",
+      "stars": 30839,
+      "forks": 9166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "mechaniac/Map-of-Javascript",
       "url": "https://github.com/mechaniac/Map-of-Javascript",
       "description": "Javascript on one sheet. (and one for algorithms)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1721,
+      "forks": 145,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "SortableJS/Vue.Draggable",
       "url": "https://github.com/SortableJS/Vue.Draggable",
       "description": "Vue drag-and-drop component based on Sortable.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20634,
+      "forks": 2877,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "oldboyxx/jira_clone",
       "url": "https://github.com/oldboyxx/jira_clone",
       "description": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11048,
+      "forks": 2144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "msk-javascript-bootcamp",
       "full_name": "MSK-Web-development/msk-javascript-bootcamp",
       "url": "https://github.com/MSK-Web-development/msk-javascript-bootcamp",
-      "description": "6.5 hours of video session covering javascript concepts.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A Bootcamp covering most of the javascript concepts.",
+      "language": "HTML",
+      "stars": 183,
+      "forks": 93,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "JD_tencent_scf",
       "full_name": "zero205/JD_tencent_scf",
       "url": "https://github.com/zero205/JD_tencent_scf",
-      "description": "低调使用，不要fork！防止失联请收藏gitee备份地址：https://gitee.com/zero205/JD_tencent_scf",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "自用脚本，随缘更新",
+      "language": "TypeScript",
+      "stars": 651,
+      "forks": 252,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "flexsearch",
       "full_name": "nextapps-de/flexsearch",
       "url": "https://github.com/nextapps-de/flexsearch",
-      "description": "Next-Generation full text search library for Browser and Node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Next-generation full-text search library for Browser and Node.js",
+      "language": "JavaScript",
+      "stars": 13561,
+      "forks": 520,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "atlassian/react-beautiful-dnd",
       "url": "https://github.com/atlassian/react-beautiful-dnd",
       "description": "Beautiful and accessible drag and drop for lists with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 34046,
+      "forks": 2738,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Solidity",
+      "stars": 26936,
+      "forks": 12415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "react",
       "full_name": "facebook/react",
       "url": "https://github.com/facebook/react",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 242462,
+      "forks": 50449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "Web",
       "full_name": "qianguyihao/Web",
       "url": "https://github.com/qianguyihao/Web",
-      "description": "前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。",
+      "description": "千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 28345,
+      "forks": 6254,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "ChuheGit/1",
       "url": "https://github.com/ChuheGit/1",
       "description": "* [https://github.com/sveltejs/kit](sveltejs/kit) The fastest way to build Svelte apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 709,
+      "forks": 137,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "material-ui",
       "full_name": "mui-org/material-ui",
       "url": "https://github.com/mui-org/material-ui",
-      "description": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "language": "JavaScript",
+      "stars": 97679,
+      "forks": 32793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "facebookexperimental/Recoil",
       "url": "https://github.com/facebookexperimental/Recoil",
       "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19544,
+      "forks": 1220,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "facebook/relay",
       "url": "https://github.com/facebook/relay",
       "description": "Relay is a JavaScript framework for building data-driven React applications.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 18924,
+      "forks": 1876,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "lodash/lodash",
       "url": "https://github.com/lodash/lodash",
       "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 61594,
+      "forks": 7117,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "Sortable",
       "full_name": "SortableJS/Sortable",
       "url": "https://github.com/SortableJS/Sortable",
-      "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
+      "language": "JavaScript",
+      "stars": 30988,
+      "forks": 3747,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     }
   ]
 }

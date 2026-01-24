@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "nicolaskruchten/pivottable",
       "url": "https://github.com/nicolaskruchten/pivottable",
       "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4449,
+      "forks": 1087,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "codecombat/codecombat",
       "url": "https://github.com/codecombat/codecombat",
       "description": "Game for learning how to code.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8407,
+      "forks": 4168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "JunoLab/atom-julia-client",
       "url": "https://github.com/JunoLab/atom-julia-client",
       "description": "Juno a good IDE?",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 271,
+      "forks": 72,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     }
   ]
 }

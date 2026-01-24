@@ -239,15 +239,17 @@
       "repo_name": "swoole-src",
       "full_name": "swoole/swoole-src",
       "url": "https://github.com/swoole/swoole-src",
-      "description": "Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.",
-      "language": "C",
-      "stars": 9036,
-      "forks": 2140,
+      "description": "🚀 Coroutine-based concurrency library for PHP",
+      "language": "C++",
+      "stars": 18839,
+      "forks": 3159,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-01.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 17,
@@ -289,13 +291,15 @@
       "url": "https://github.com/sonots/cumo",
       "description": "Cumo (pronounced like \"koomo\") is CUDA aware numerical library whose interface is highly compatible with Ruby Numo",
       "language": "C",
-      "stars": 31,
-      "forks": 0,
+      "stars": 100,
+      "forks": 8,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-01.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 20,
@@ -351,15 +355,17 @@
       "repo_name": "windows-kernel-exploits",
       "full_name": "SecWiki/windows-kernel-exploits",
       "url": "https://github.com/SecWiki/windows-kernel-exploits",
-      "description": "windows-kernel-exploits Windows平台提权漏洞集合",
+      "description": "windows-kernel-exploits   Windows平台提权漏洞集合",
       "language": "C",
-      "stars": 1530,
-      "forks": 743,
+      "stars": 8574,
+      "forks": 2874,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-01.md"
+      "source_path": "/tmp/github-trending-backup/2018/06/2018-06-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 24,

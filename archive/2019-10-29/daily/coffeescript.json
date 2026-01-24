@@ -16,14 +16,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "danielgtaylor/aglio",
       "url": "https://github.com/danielgtaylor/aglio",
       "description": "An API Blueprint renderer with theme support that outputs static HTML",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4757,
+      "forks": 478,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "Shopify/turbograft",
       "url": "https://github.com/Shopify/turbograft",
       "description": "Hard fork of turbolinks, adding partial page replacement strategies, and utilities.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 214,
+      "forks": 28,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "CoffeeScriptRedux",
       "full_name": "michaelficarra/CoffeeScriptRedux",
       "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
-      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "CoffeeScript",
+      "stars": 1836,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md"
+      "source_path": "/tmp/trending_archive/2019/2019-10/2019-10-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     }
   ]
 }

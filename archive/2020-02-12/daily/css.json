@@ -16,14 +16,16 @@
       "full_name": "uikit/uikit",
       "url": "https://github.com/uikit/uikit",
       "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
-      "language": "CSS",
-      "stars": 15365,
-      "forks": 2173,
+      "language": "HTML",
+      "stars": 18539,
+      "forks": 2313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -79,15 +81,17 @@
       "repo_name": "my-mac-os",
       "full_name": "nikitavoloboev/my-mac-os",
       "url": "https://github.com/nikitavoloboev/my-mac-os",
-      "description": "List of applications and tools that make my macOS experience even more amazing",
-      "language": "CSS",
-      "stars": 15952,
-      "forks": 676,
+      "description": "Everything you need to move your project faster",
+      "language": "Rust",
+      "stars": 21174,
+      "forks": 842,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -96,14 +100,16 @@
       "full_name": "theme-next/hexo-theme-next",
       "url": "https://github.com/theme-next/hexo-theme-next",
       "description": "Elegant and powerful theme for Hexo.",
-      "language": "CSS",
-      "stars": 4932,
-      "forks": 1528,
+      "language": "Stylus",
+      "stars": 8383,
+      "forks": 2033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -129,13 +135,15 @@
       "url": "https://github.com/jonasschmedtmann/advanced-css-course",
       "description": "Starter files, final projects and FAQ for my Advanced CSS course",
       "language": "CSS",
-      "stars": 1778,
-      "forks": 2148,
+      "stars": 4740,
+      "forks": 5268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -144,14 +152,16 @@
       "full_name": "vinceliuice/Mojave-gtk-theme",
       "url": "https://github.com/vinceliuice/Mojave-gtk-theme",
       "description": "Mojave is a macos Mojave like theme for GTK 3, GTK 2 and Gnome-Shell",
-      "language": "CSS",
-      "stars": 755,
-      "forks": 162,
+      "language": "SCSS",
+      "stars": 1569,
+      "forks": 239,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -223,15 +233,17 @@
       "repo_name": "material-design-icons",
       "full_name": "google/material-design-icons",
       "url": "https://github.com/google/material-design-icons",
-      "description": "Material Design icons by Google",
+      "description": "Material Design icons by Google (Material Symbols)",
       "language": "CSS",
-      "stars": 39655,
-      "forks": 8149,
+      "stars": 52787,
+      "forks": 9736,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -271,15 +283,17 @@
       "repo_name": "tailwind-starter-kit",
       "full_name": "creativetimofficial/tailwind-starter-kit",
       "url": "https://github.com/creativetimofficial/tailwind-starter-kit",
-      "description": "Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source",
-      "language": "CSS",
-      "stars": 642,
-      "forks": 68,
+      "description": "David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.",
+      "language": "HTML",
+      "stars": 6069,
+      "forks": 918,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 18,
@@ -305,13 +319,15 @@
       "url": "https://github.com/ryanoasis/nerd-fonts",
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
-      "stars": 19415,
-      "forks": 1313,
+      "stars": 61370,
+      "forks": 3868,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 20,
@@ -319,15 +335,17 @@
       "repo_name": "devportfolio",
       "full_name": "RyanFitzgerald/devportfolio",
       "url": "https://github.com/RyanFitzgerald/devportfolio",
-      "description": "A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass",
-      "language": "CSS",
-      "stars": 2735,
-      "forks": 1297,
+      "description": "A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.",
+      "language": "Astro",
+      "stars": 4766,
+      "forks": 4113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,
@@ -385,13 +403,15 @@
       "url": "https://github.com/LambdaSchool/github-usercard",
       "description": "Create a card based on the data coming back from the Github API.",
       "language": "CSS",
-      "stars": 0,
-      "forks": 1551,
+      "stars": 19,
+      "forks": 3675,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

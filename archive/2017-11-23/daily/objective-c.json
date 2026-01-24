@@ -32,14 +32,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "objective-c",
-      "stars": 11489,
-      "forks": 1392,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 3,
@@ -55,7 +57,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 4,
@@ -71,7 +75,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 5,
@@ -87,7 +93,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 6,
@@ -96,14 +104,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "objective-c",
-      "stars": 10417,
-      "forks": 1762,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 7,
@@ -151,7 +161,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 10,
@@ -159,15 +171,17 @@
       "repo_name": "AAChartKit",
       "full_name": "AAChartModel/AAChartKit",
       "url": "https://github.com/AAChartModel/AAChartKit",
-      "description": "An elegant and friendly chart library for iOS developer. Powerful,support the column chart、bar chart、area chart、areaspline chart、line chart、spline chart、radar chart、polar chart、pie chart、bubble chart、pyramid chart、funnel chart、columnrange chart and other graphics.",
-      "language": "objective-c",
-      "stars": 905,
-      "forks": 127,
+      "description": "📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的现代化声明式数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.",
+      "language": "Objective-C",
+      "stars": 4763,
+      "forks": 750,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 11,
@@ -256,14 +270,16 @@
       "full_name": "WenchaoD/FSCalendar",
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
-      "language": "objective-c",
-      "stars": 5538,
-      "forks": 970,
+      "language": "Objective-C",
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 17,
@@ -272,14 +288,16 @@
       "full_name": "rs/SDWebImage",
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
-      "language": "objective-c",
-      "stars": 18894,
-      "forks": 5002,
+      "language": "Objective-C",
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 18,
@@ -288,14 +306,16 @@
       "full_name": "airbnb/react-native-maps",
       "url": "https://github.com/airbnb/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "objective-c",
-      "stars": 5916,
-      "forks": 1561,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 19,
@@ -303,15 +323,17 @@
       "repo_name": "AFNetworking",
       "full_name": "AFNetworking/AFNetworking",
       "url": "https://github.com/AFNetworking/AFNetworking",
-      "description": "A delightful networking framework for iOS, OS X, watchOS, and tvOS.",
-      "language": "objective-c",
-      "stars": 30287,
-      "forks": 9439,
+      "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+      "language": "Objective-C",
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 20,
@@ -336,14 +358,16 @@
       "full_name": "changsanjiang/SJSlider",
       "url": "https://github.com/changsanjiang/SJSlider",
       "description": "滑块视图",
-      "language": "objective-c",
-      "stars": 56,
-      "forks": 2,
+      "language": "Objective-C",
+      "stars": 95,
+      "forks": 9,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 22,
@@ -400,14 +424,16 @@
       "full_name": "Instagram/IGListKit",
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
-      "language": "objective-c",
-      "stars": 7108,
-      "forks": 696,
+      "language": "Objective-C",
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     }
   ]
 }

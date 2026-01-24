@@ -63,15 +63,17 @@
       "repo_name": "ChineseBQB",
       "full_name": "zhaoolee/ChineseBQB",
       "url": "https://github.com/zhaoolee/ChineseBQB",
-      "description": "🇨🇳Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
-      "language": "CSS",
-      "stars": 6531,
-      "forks": 695,
+      "description": "🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
+      "language": "JavaScript",
+      "stars": 15248,
+      "forks": 1329,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -81,13 +83,15 @@
       "url": "https://github.com/barryclark/jekyll-now",
       "description": "Build a Jekyll blog in minutes, without touching the command line.",
       "language": "CSS",
-      "stars": 6515,
-      "forks": 26874,
+      "stars": 8395,
+      "forks": 35215,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -97,13 +101,15 @@
       "url": "https://github.com/necolas/normalize.css",
       "description": "A modern alternative to CSS resets",
       "language": "CSS",
-      "stars": 37798,
-      "forks": 7963,
+      "stars": 53786,
+      "forks": 10489,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 8,
@@ -127,15 +133,17 @@
       "repo_name": "GitHub-Dark",
       "full_name": "StylishThemes/GitHub-Dark",
       "url": "https://github.com/StylishThemes/GitHub-Dark",
-      "description": "Dark GitHub style",
+      "description": ":octocat: Dark GitHub style",
       "language": "CSS",
-      "stars": 7180,
-      "forks": 504,
+      "stars": 9923,
+      "forks": 646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -215,7 +223,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -223,15 +233,17 @@
       "repo_name": "book",
       "full_name": "cosmicpython/book",
       "url": "https://github.com/cosmicpython/book",
-      "description": "A Book about Pythonic Application Architecture Patterns for Managing Complexity. Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it \"Cosmic Python\" tho.",
-      "language": "CSS",
-      "stars": 624,
-      "forks": 99,
+      "description": "A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it \"Cosmic Python\" tho.",
+      "language": "Python",
+      "stars": 3708,
+      "forks": 555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -239,15 +251,17 @@
       "repo_name": "docker-curriculum",
       "full_name": "prakhar1989/docker-curriculum",
       "url": "https://github.com/prakhar1989/docker-curriculum",
-      "description": "🐬 A comprehensive tutorial on getting started with Docker!",
-      "language": "CSS",
-      "stars": 3346,
-      "forks": 1336,
+      "description": ":dolphin: A comprehensive tutorial on getting started with Docker!",
+      "language": "SCSS",
+      "stars": 6001,
+      "forks": 2218,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 19,
@@ -272,14 +286,16 @@
       "full_name": "tailwindcss/tailwindcss",
       "url": "https://github.com/tailwindcss/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "CSS",
-      "stars": 19853,
-      "forks": 888,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,
@@ -287,15 +303,17 @@
       "repo_name": "minimal-mistakes",
       "full_name": "mmistakes/minimal-mistakes",
       "url": "https://github.com/mmistakes/minimal-mistakes",
-      "description": "📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.",
-      "language": "CSS",
-      "stars": 6177,
-      "forks": 10429,
+      "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.",
+      "language": "HTML",
+      "stars": 13374,
+      "forks": 27356,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,
@@ -319,15 +337,17 @@
       "repo_name": "LoveIt",
       "full_name": "dillonzq/LoveIt",
       "url": "https://github.com/dillonzq/LoveIt",
-      "description": "🚀A clean, elegant but advanced blog theme for Hugo",
-      "language": "CSS",
-      "stars": 123,
-      "forks": 72,
+      "description": "❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题",
+      "language": "JavaScript",
+      "stars": 3786,
+      "forks": 1166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 24,
@@ -336,14 +356,16 @@
       "full_name": "mmistakes/so-simple-theme",
       "url": "https://github.com/mmistakes/so-simple-theme",
       "description": "A simple Jekyll theme for words and pictures.",
-      "language": "CSS",
-      "stars": 1376,
-      "forks": 2142,
+      "language": "SCSS",
+      "stars": 2129,
+      "forks": 2473,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 25,
@@ -353,13 +375,15 @@
       "url": "https://github.com/LambdaSchool/github-usercard",
       "description": "Create a card based on the data coming back from the Github API.",
       "language": "CSS",
-      "stars": 1,
-      "forks": 1703,
+      "stars": 19,
+      "forks": 3675,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

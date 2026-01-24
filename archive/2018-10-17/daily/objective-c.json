@@ -47,15 +47,17 @@
       "repo_name": "DoraemonKit",
       "full_name": "didi/DoraemonKit",
       "url": "https://github.com/didi/DoraemonKit",
-      "description": "A collection of testing tools for iOS App development",
-      "language": "Objective-C",
-      "stars": 267,
-      "forks": 14,
+      "description": "一款面向泛前端产品研发全生命周期的效率平台。",
+      "language": "Java",
+      "stars": 20435,
+      "forks": 3191,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 4,
@@ -81,13 +83,15 @@
       "url": "https://github.com/justMaku/NTKCustomFace",
       "description": "Custom Watch Faces built on top of NanoTimeKit",
       "language": "Objective-C",
-      "stars": 21,
-      "forks": 0,
+      "stars": 54,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 6,
@@ -97,13 +101,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 1693,
-      "forks": 309,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 7,
@@ -161,13 +167,15 @@
       "url": "https://github.com/sequelpro/sequelpro",
       "description": "MySQL/MariaDB database management for macOS",
       "language": "Objective-C",
-      "stars": 5246,
-      "forks": 462,
+      "stars": 9205,
+      "forks": 840,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 11,
@@ -207,15 +215,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 4213,
-      "forks": 337,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 14,
@@ -225,13 +235,15 @@
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
-      "stars": 7159,
-      "forks": 1251,
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 15,
@@ -289,13 +301,15 @@
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
-      "stars": 20602,
-      "forks": 5292,
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 19,
@@ -337,13 +351,15 @@
       "url": "https://github.com/Cenmrev/V2RayX",
       "description": "GUI for v2ray-core on macOS",
       "language": "Objective-C",
-      "stars": 1264,
-      "forks": 225,
+      "stars": 7672,
+      "forks": 1126,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 22,
@@ -369,13 +385,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 31623,
-      "forks": 9668,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 24,
@@ -385,13 +403,15 @@
       "url": "https://github.com/realm/realm-cocoa",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
-      "stars": 12610,
-      "forks": 1619,
+      "stars": 16587,
+      "forks": 2213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     },
     {
       "rank": 25,
@@ -401,13 +421,15 @@
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
       "language": "Objective-C",
-      "stars": 8982,
-      "forks": 913,
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/10/2018-10-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:01Z"
     }
   ]
 }

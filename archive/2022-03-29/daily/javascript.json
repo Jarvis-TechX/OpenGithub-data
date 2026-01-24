@@ -15,15 +15,17 @@
       "repo_name": "tech-interview-handbook",
       "full_name": "yangshun/tech-interview-handbook",
       "url": "https://github.com/yangshun/tech-interview-handbook",
-      "description": "💯 Curated interview preparation materials for busy engineers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Curated coding interview preparation materials for busy software engineers",
+      "language": "TypeScript",
+      "stars": 136953,
+      "forks": 16377,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "HashLips/hashlips_art_engine",
       "url": "https://github.com/HashLips/hashlips_art_engine",
       "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7246,
+      "forks": 4269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "louislam/uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 81832,
+      "forks": 7306,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "spicetify-cli",
       "full_name": "spicetify/spicetify-cli",
       "url": "https://github.com/spicetify/spicetify-cli",
-      "description": "Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
+      "language": "JavaScript",
+      "stars": 21992,
+      "forks": 827,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "Koenkk/zigbee2mqtt",
       "url": "https://github.com/Koenkk/zigbee2mqtt",
       "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 14650,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "sudheerj/reactjs-interview-questions",
       "url": "https://github.com/sudheerj/reactjs-interview-questions",
       "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 44127,
+      "forks": 10264,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Solidity",
+      "stars": 26936,
+      "forks": 12415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "amark/gun",
       "url": "https://github.com/amark/gun",
       "description": "An open source cybersecurity protocol for syncing decentralized graph data.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18855,
+      "forks": 1228,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "code-nav",
       "full_name": "liyupi/code-nav",
       "url": "https://github.com/liyupi/code-nav",
-      "description": "💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "💎 程序员一站式编程学习交流社区，免费的编程学习路线、入门教程、原创项目教程、程序员bug修复手册、保姆级写简历技巧，帮你学好编程、做出项目、拿到满意的 Offer！☁️ 本项目前后端均开源，励志成为最好的全栈云开发项目！",
+      "language": "JavaScript",
+      "stars": 2701,
+      "forks": 555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "binance-trading-bot",
       "full_name": "chrisleekr/binance-trading-bot",
       "url": "https://github.com/chrisleekr/binance-trading-bot",
-      "description": "Automated Binance trading bot - Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis",
+      "language": "JavaScript",
+      "stars": 5455,
+      "forks": 1192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "jonasschmedtmann/complete-javascript-course",
       "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
       "description": "Starter files, final projects, and FAQ for my Complete JavaScript course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17051,
+      "forks": 17528,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "brave-browser",
       "full_name": "brave/brave-browser",
       "url": "https://github.com/brave/brave-browser",
-      "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 21196,
+      "forks": 2949,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "shapez.io",
       "full_name": "tobspr/shapez.io",
       "url": "https://github.com/tobspr/shapez.io",
-      "description": "shapez.io is an open source base building game inspired by factorio! Available on web & steam",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "shapez is an open source base building game on Steam inspired by factorio!",
+      "language": "JavaScript",
+      "stars": 6802,
+      "forks": 1282,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 19,
@@ -305,13 +341,15 @@
       "url": "https://github.com/obsidianmd/obsidian-releases",
       "description": "Community plugins list, theme list, and releases of Obsidian.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 14443,
+      "forks": 4907,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "chiru-labs/ERC721A",
       "url": "https://github.com/chiru-labs/ERC721A",
       "description": "https://ERC721A.org",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2549,
+      "forks": 826,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "react",
       "full_name": "facebook/react",
       "url": "https://github.com/facebook/react",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 242462,
+      "forks": 50449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 23,
@@ -375,7 +419,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "iamcco/markdown-preview.nvim",
       "url": "https://github.com/iamcco/markdown-preview.nvim",
       "description": "markdown preview plugin for (neo)vim",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7651,
+      "forks": 366,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-03/2022-03-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     }
   ]
 }

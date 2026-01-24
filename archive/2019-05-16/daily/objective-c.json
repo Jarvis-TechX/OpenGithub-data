@@ -33,13 +33,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 3186,
-      "forks": 589,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 3,
@@ -79,15 +81,17 @@
       "repo_name": "WeChatExtension-ForMac",
       "full_name": "MustangYM/WeChatExtension-ForMac",
       "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
-      "description": "Mac版微信的功能拓展",
+      "description": "A plugin for Mac WeChat",
       "language": "Objective-C",
-      "stars": 578,
-      "forks": 92,
+      "stars": 22703,
+      "forks": 3593,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 6,
@@ -111,15 +115,17 @@
       "repo_name": "Mango",
       "full_name": "YPLiang19/Mango",
       "url": "https://github.com/YPLiang19/Mango",
-      "description": "MangoFix is a DSL which syntax is very similar to Objective-C，MangoFix is also an iOS App hotfix SDK. You can use MangoFix method replace any Objective-C method.",
+      "description": "MangoFix is a DSL which syntax is very similar to Objective-C，MangoFix is also an iOS  App hotfix SDK. You can use MangoFix method replace any Objective-C or Swift method.",
       "language": "Objective-C",
-      "stars": 516,
-      "forks": 49,
+      "stars": 1198,
+      "forks": 218,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 8,
@@ -129,13 +135,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 5288,
-      "forks": 291,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 9,
@@ -151,7 +159,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 10,
@@ -159,15 +169,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 6166,
-      "forks": 672,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 11,
@@ -176,14 +188,16 @@
       "full_name": "react-native-community/react-native-webview",
       "url": "https://github.com/react-native-community/react-native-webview",
       "description": "React Native Cross-Platform WebView",
-      "language": "Objective-C",
-      "stars": 1120,
-      "forks": 358,
+      "language": "TypeScript",
+      "stars": 7078,
+      "forks": 3148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 12,
@@ -225,13 +239,15 @@
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
-      "stars": 7944,
-      "forks": 1384,
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 15,
@@ -240,14 +256,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "Objective-C",
-      "stars": 13084,
-      "forks": 2056,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 16,
@@ -368,14 +386,16 @@
       "full_name": "microsoft/react-native-code-push",
       "url": "https://github.com/microsoft/react-native-code-push",
       "description": "React Native module for CodePush",
-      "language": "Objective-C",
-      "stars": 5828,
-      "forks": 792,
+      "language": "C",
+      "stars": 9148,
+      "forks": 1585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 24,

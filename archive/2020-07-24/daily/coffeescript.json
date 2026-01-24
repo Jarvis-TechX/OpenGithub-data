@@ -16,14 +16,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "settings-view",
       "full_name": "atom/settings-view",
       "url": "https://github.com/atom/settings-view",
-      "description": "Edit Atom settings",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🔧 Edit Atom settings",
+      "language": "CoffeeScript",
+      "stars": 275,
+      "forks": 276,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-24.md"
+      "source_path": "/tmp/trending_archive/2020/2020-07/2020-07-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

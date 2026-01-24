@@ -79,15 +79,17 @@
       "repo_name": "WHDebugTool",
       "full_name": "remember17/WHDebugTool",
       "url": "https://github.com/remember17/WHDebugTool",
-      "description": "简单的调试小工具🔨",
+      "description": "🔨简单的调试小工具",
       "language": "Objective-C",
-      "stars": 26,
-      "forks": 0,
+      "stars": 145,
+      "forks": 28,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 6,
@@ -97,13 +99,15 @@
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
-      "stars": 20210,
-      "forks": 5223,
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 7,
@@ -129,13 +133,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 31324,
-      "forks": 9626,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 9,
@@ -143,15 +149,17 @@
       "repo_name": "react-native-image-crop-picker",
       "full_name": "ivpusic/react-native-image-crop-picker",
       "url": "https://github.com/ivpusic/react-native-image-crop-picker",
-      "description": "iOS/Android image picker with support for camera, configurable compression, multiple images and cropping",
+      "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
       "language": "Objective-C",
-      "stars": 2340,
-      "forks": 531,
+      "stars": 6331,
+      "forks": 1608,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 10,
@@ -161,13 +169,15 @@
       "url": "https://github.com/realm/realm-cocoa",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
-      "stars": 12332,
-      "forks": 1590,
+      "stars": 16587,
+      "forks": 2213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 11,
@@ -209,13 +219,15 @@
       "url": "https://github.com/sequelpro/sequelpro",
       "description": "MySQL/MariaDB database management for macOS",
       "language": "Objective-C",
-      "stars": 4798,
-      "forks": 423,
+      "stars": 9205,
+      "forks": 840,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 14,
@@ -224,14 +236,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "Objective-C",
-      "stars": 14314,
-      "forks": 1898,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 15,
@@ -289,13 +303,15 @@
       "url": "https://github.com/noodlewerk/NWPusher",
       "description": "OS X and iOS application and framework to play with the Apple Push Notification service (APNs)",
       "language": "Objective-C",
-      "stars": 4385,
-      "forks": 487,
+      "stars": 6323,
+      "forks": 675,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 19,
@@ -352,14 +368,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "Objective-C",
-      "stars": 11827,
-      "forks": 1945,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 24,

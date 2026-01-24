@@ -16,14 +16,16 @@
       "full_name": "philc/vimium",
       "url": "https://github.com/philc/vimium",
       "description": "The hacker's browser.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 25911,
+      "forks": 2552,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-02.md"
+      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "ccd0/4chan-x",
       "url": "https://github.com/ccd0/4chan-x",
       "description": "Adds various features to anonymous imageboards.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 1089,
+      "forks": 151,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-02.md"
+      "source_path": "/tmp/trending_archive/2020/2020-04/2020-04-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:13Z"
     }
   ]
 }

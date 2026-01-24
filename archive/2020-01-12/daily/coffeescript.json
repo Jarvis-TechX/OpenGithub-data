@@ -16,14 +16,16 @@
       "full_name": "codecombat/codecombat",
       "url": "https://github.com/codecombat/codecombat",
       "description": "Game for learning how to code.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8407,
+      "forks": 4168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-12.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "Psiphon-Inc/psiphon-website",
       "url": "https://github.com/Psiphon-Inc/psiphon-website",
       "description": "Source of the psiphon3.com, etc., download and info sites",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 28,
+      "forks": 16,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-12.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "CoffeeScriptRedux",
       "full_name": "michaelficarra/CoffeeScriptRedux",
       "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
-      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "CoffeeScript",
+      "stars": 1836,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-12.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "hubot-todo",
       "full_name": "progedu/hubot-todo",
       "url": "https://github.com/progedu/hubot-todo",
-      "description": "38 yo hubot  (ISC License)",
-      "language": "coffeescript",
+      "description": "入門コースの3章8節の yo hubot 済リポジトリ (ISC License)",
+      "language": "CoffeeScript",
       "stars": 0,
-      "forks": 0,
+      "forks": 15,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-12.md"
+      "source_path": "/tmp/trending_archive/2020/2020-01/2020-01-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     }
   ]
 }

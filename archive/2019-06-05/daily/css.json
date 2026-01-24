@@ -16,14 +16,16 @@
       "full_name": "tailwindcss/tailwindcss",
       "url": "https://github.com/tailwindcss/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "CSS",
-      "stars": 12125,
-      "forks": 549,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -33,13 +35,15 @@
       "url": "https://github.com/daneden/animate.css",
       "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
       "language": "CSS",
-      "stars": 59864,
-      "forks": 12677,
+      "stars": 82602,
+      "forks": 16114,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -81,13 +85,15 @@
       "url": "https://github.com/MichealWayne/Moo-CSS",
       "description": "模块化面向对象的css写法规范策略。适用于大中小型C端项目样式开发，旨在提高开发和维护效率。",
       "language": "CSS",
-      "stars": 101,
-      "forks": 0,
+      "stars": 77,
+      "forks": 7,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 6,
@@ -97,13 +103,15 @@
       "url": "https://github.com/jgthms/bulma",
       "description": "Modern CSS framework based on Flexbox",
       "language": "CSS",
-      "stars": 35035,
-      "forks": 2810,
+      "stars": 50059,
+      "forks": 3913,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 7,
@@ -112,14 +120,16 @@
       "full_name": "theme-next/hexo-theme-next",
       "url": "https://github.com/theme-next/hexo-theme-next",
       "description": "Elegant and powerful theme for Hexo.",
-      "language": "CSS",
-      "stars": 3194,
-      "forks": 1003,
+      "language": "Stylus",
+      "stars": 8383,
+      "forks": 2033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 8,
@@ -127,15 +137,17 @@
       "repo_name": "GitHub-Dark",
       "full_name": "StylishThemes/GitHub-Dark",
       "url": "https://github.com/StylishThemes/GitHub-Dark",
-      "description": "Dark GitHub style",
+      "description": ":octocat: Dark GitHub style",
       "language": "CSS",
-      "stars": 5324,
-      "forks": 377,
+      "stars": 9923,
+      "forks": 646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 9,
@@ -191,15 +203,17 @@
       "repo_name": "synthwave-vscode",
       "full_name": "robb0wen/synthwave-vscode",
       "url": "https://github.com/robb0wen/synthwave-vscode",
-      "description": "Synthwave inspired colour theme for VS Code 🌅🕶",
+      "description": "Synthwave inspired colour theme for VS Code 🌅🕶 ",
       "language": "CSS",
-      "stars": 3236,
-      "forks": 622,
+      "stars": 5293,
+      "forks": 1192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 13,
@@ -256,14 +270,16 @@
       "full_name": "uikit/uikit",
       "url": "https://github.com/uikit/uikit",
       "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
-      "language": "CSS",
-      "stars": 14532,
-      "forks": 2086,
+      "language": "HTML",
+      "stars": 18539,
+      "forks": 2313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 17,
@@ -287,15 +303,17 @@
       "repo_name": "css",
       "full_name": "primer/css",
       "url": "https://github.com/primer/css",
-      "description": "The CSS design system that powers GitHub",
-      "language": "CSS",
-      "stars": 8342,
-      "forks": 617,
+      "description": "Primer is GitHub's design system. This is the CSS implementation",
+      "language": "SCSS",
+      "stars": 12867,
+      "forks": 1279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 19,
@@ -352,14 +370,16 @@
       "full_name": "kitian616/jekyll-TeXt-theme",
       "url": "https://github.com/kitian616/jekyll-TeXt-theme",
       "description": "💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.",
-      "language": "CSS",
-      "stars": 680,
-      "forks": 628,
+      "language": "SCSS",
+      "stars": 3330,
+      "forks": 2688,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 24,
@@ -368,14 +388,16 @@
       "full_name": "mmcgrana/gobyexample",
       "url": "https://github.com/mmcgrana/gobyexample",
       "description": "Go by Example",
-      "language": "CSS",
-      "stars": 3368,
-      "forks": 642,
+      "language": "Go",
+      "stars": 7961,
+      "forks": 1380,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

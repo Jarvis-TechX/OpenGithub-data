@@ -63,15 +63,17 @@
       "repo_name": "LJMVVMTool",
       "full_name": "LJMagicCoder/LJMVVMTool",
       "url": "https://github.com/LJMagicCoder/LJMVVMTool",
-      "description": "一款基于rac实现的响应式编程工具类",
-      "language": "objective-c",
-      "stars": 42,
-      "forks": 0,
+      "description": "这是一款可以快速集成，支持长连接不断传入数据的弹幕界面。",
+      "language": "Objective-C",
+      "stars": 94,
+      "forks": 3,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 6,
@@ -127,15 +129,17 @@
       "repo_name": "GCD",
       "full_name": "2877025939/GCD",
       "url": "https://github.com/2877025939/GCD",
-      "description": "iOS多线程的使用",
-      "language": "objective-c",
-      "stars": 31,
-      "forks": 0,
+      "description": "使用CollectionView实现的轮播图，丝滑的流畅，支持网络图片和本地图片轮播，混合也是支持的！",
+      "language": "Objective-C",
+      "stars": 117,
+      "forks": 38,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 10,
@@ -143,15 +147,17 @@
       "repo_name": "tabelVew-CollectionView",
       "full_name": "2877025939/tabelVew-CollectionView",
       "url": "https://github.com/2877025939/tabelVew-CollectionView",
-      "description": "tabelVew嵌套CollectionView",
-      "language": "objective-c",
-      "stars": 28,
-      "forks": 0,
+      "description": "tabelVew视图嵌套CollectionView视图，导航栏，状态栏滑动变色。",
+      "language": "Objective-C",
+      "stars": 103,
+      "forks": 20,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 11,
@@ -159,15 +165,17 @@
       "repo_name": "iOS-map",
       "full_name": "2877025939/iOS-map",
       "url": "https://github.com/2877025939/iOS-map",
-      "description": "iOS系统高德地图的一般使用",
-      "language": "objective-c",
-      "stars": 27,
-      "forks": 0,
+      "description": "iOS系统高德地图的一般使用，OC和Swift版本。",
+      "language": "Objective-C",
+      "stars": 71,
+      "forks": 39,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 12,
@@ -208,14 +216,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "objective-c",
-      "stars": 10481,
-      "forks": 1209,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 15,
@@ -231,7 +241,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 16,
@@ -240,14 +252,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "objective-c",
-      "stars": 9833,
-      "forks": 1661,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 17,
@@ -255,15 +269,17 @@
       "repo_name": "WeChatTweak-macOS",
       "full_name": "Sunnyyoung/WeChatTweak-macOS",
       "url": "https://github.com/Sunnyyoung/WeChatTweak-macOS",
-      "description": "A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开",
-      "language": "objective-c",
-      "stars": 1014,
-      "forks": 94,
+      "description": "A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨",
+      "language": "Swift",
+      "stars": 13301,
+      "forks": 1567,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 18,
@@ -279,7 +295,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 19,
@@ -288,14 +306,16 @@
       "full_name": "Instagram/IGListKit",
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
-      "language": "objective-c",
-      "stars": 6674,
-      "forks": 619,
+      "language": "Objective-C",
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 20,
@@ -335,15 +355,17 @@
       "repo_name": "AAChartKit",
       "full_name": "AAChartModel/AAChartKit",
       "url": "https://github.com/AAChartModel/AAChartKit",
-      "description": "An elegant and friendly chart library for iOS developer",
-      "language": "objective-c",
-      "stars": 661,
-      "forks": 102,
+      "description": "📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的现代化声明式数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.",
+      "language": "Objective-C",
+      "stars": 4763,
+      "forks": 750,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 23,
@@ -368,14 +390,16 @@
       "full_name": "rs/SDWebImage",
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
-      "language": "objective-c",
-      "stars": 18508,
-      "forks": 4937,
+      "language": "Objective-C",
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md"
+      "source_path": "/tmp/github-trending-backup/2017/09/2017-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:52Z"
     },
     {
       "rank": 25,

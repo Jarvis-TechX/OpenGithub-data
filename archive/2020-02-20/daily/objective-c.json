@@ -17,13 +17,15 @@
       "url": "https://github.com/burczyk/SynchroKit",
       "description": "framework that helps syncing data in iOS environment",
       "language": "Objective-C",
-      "stars": 6,
+      "stars": 9,
       "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -31,15 +33,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "language": "Objective-C",
-      "stars": 8850,
-      "forks": 1278,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -113,13 +117,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 6396,
-      "forks": 336,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -143,15 +149,17 @@
       "repo_name": "firebase-ios-sdk",
       "full_name": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase iOS SDK",
-      "language": "Objective-C",
-      "stars": 1681,
-      "forks": 417,
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": 6508,
+      "forks": 1715,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 11,
@@ -159,15 +167,17 @@
       "repo_name": "MobileIMSDK",
       "full_name": "JackJiang2011/MobileIMSDK",
       "url": "https://github.com/JackJiang2011/MobileIMSDK",
-      "description": "一个专为移动端开发的开源原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。",
+      "description": "原创全平台IM通信层框架，轻量级、高度提炼，历经10年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp、鸿蒙Next，服务端基于Netty。",
       "language": "Objective-C",
-      "stars": 2673,
-      "forks": 751,
+      "stars": 5964,
+      "forks": 1364,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 12,
@@ -177,13 +187,15 @@
       "url": "https://github.com/github/Rebel",
       "description": "Cocoa framework for improving AppKit",
       "language": "Objective-C",
-      "stars": 1139,
-      "forks": 115,
+      "stars": 1122,
+      "forks": 111,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -193,13 +205,15 @@
       "url": "https://github.com/github/Archimedes",
       "description": "Geometry functions for Cocoa and Cocoa Touch",
       "language": "Objective-C",
-      "stars": 472,
-      "forks": 44,
+      "stars": 467,
+      "forks": 36,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -215,7 +229,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -224,14 +240,16 @@
       "full_name": "microsoft/react-native-code-push",
       "url": "https://github.com/microsoft/react-native-code-push",
       "description": "React Native module for CodePush",
-      "language": "Objective-C",
-      "stars": 6585,
-      "forks": 980,
+      "language": "C",
+      "stars": 9148,
+      "forks": 1585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -241,13 +259,15 @@
       "url": "https://github.com/DanTheMan827/ios-app-signer",
       "description": "This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.",
       "language": "Objective-C",
-      "stars": 2852,
-      "forks": 623,
+      "stars": 6231,
+      "forks": 1144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -257,13 +277,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 32603,
-      "forks": 9962,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 18,
@@ -305,13 +327,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 4287,
-      "forks": 809,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,
@@ -321,13 +345,15 @@
       "url": "https://github.com/ivpusic/react-native-image-crop-picker",
       "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
       "language": "Objective-C",
-      "stars": 4026,
-      "forks": 963,
+      "stars": 6331,
+      "forks": 1608,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,

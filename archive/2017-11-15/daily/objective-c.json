@@ -79,15 +79,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "Expo iOS/Android Client",
-      "language": "objective-c",
-      "stars": 1939,
-      "forks": 152,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 6,
@@ -119,7 +121,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 8,
@@ -176,14 +180,16 @@
       "full_name": "robbiehanson/CocoaAsyncSocket",
       "url": "https://github.com/robbiehanson/CocoaAsyncSocket",
       "description": "Asynchronous socket networking library for Mac and iOS",
-      "language": "objective-c",
-      "stars": 9353,
-      "forks": 2482,
+      "language": "Objective-C",
+      "stars": 12467,
+      "forks": 3019,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 12,
@@ -192,14 +198,16 @@
       "full_name": "rs/SDWebImage",
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
-      "language": "objective-c",
-      "stars": 18847,
-      "forks": 4999,
+      "language": "Objective-C",
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 13,
@@ -224,14 +232,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "objective-c",
-      "stars": 10345,
-      "forks": 1746,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 15,
@@ -240,14 +250,16 @@
       "full_name": "Instagram/IGListKit",
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
-      "language": "objective-c",
-      "stars": 7050,
-      "forks": 687,
+      "language": "Objective-C",
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 16,
@@ -272,14 +284,16 @@
       "full_name": "airbnb/react-native-maps",
       "url": "https://github.com/airbnb/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "objective-c",
-      "stars": 5853,
-      "forks": 1539,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 18,
@@ -320,14 +334,16 @@
       "full_name": "XVimProject/XVim2",
       "url": "https://github.com/XVimProject/XVim2",
       "description": "Vim key-bindings for Xcode 9",
-      "language": "objective-c",
-      "stars": 505,
-      "forks": 34,
+      "language": "Objective-C",
+      "stars": 2300,
+      "forks": 177,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 21,
@@ -352,14 +368,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "objective-c",
-      "stars": 11300,
-      "forks": 1362,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     },
     {
       "rank": 23,
@@ -399,15 +417,17 @@
       "repo_name": "hammerspoon",
       "full_name": "Hammerspoon/hammerspoon",
       "url": "https://github.com/Hammerspoon/hammerspoon",
-      "description": "Staggeringly powerful OS X desktop automation with Lua",
-      "language": "objective-c",
-      "stars": 3240,
-      "forks": 196,
+      "description": "Staggeringly powerful macOS desktop automation with Lua",
+      "language": "Objective-C",
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/11/2017-11-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:53Z"
     }
   ]
 }

@@ -17,13 +17,15 @@
       "url": "https://github.com/stisla/stisla",
       "description": "Free Bootstrap Admin Template",
       "language": "HTML",
-      "stars": 1436,
-      "forks": 0,
+      "stars": 3621,
+      "forks": 891,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "PoincareMaps",
       "full_name": "facebookresearch/PoincareMaps",
       "url": "https://github.com/facebookresearch/PoincareMaps",
-      "description": "The need to understand cell developmental processes has spawned a plethora of computational methods for discovering hierarchies from scRNAseq data. However, existing techniques are based on Euclidean geometry which is not an optimal choice for modeling complex cell trajectories with multiple branches. To overcome this fundamental representation …",
+      "description": "The need to understand cell developmental processes has spawned a plethora of computational methods for discovering hierarchies from scRNAseq data. However, existing techniques are based on Euclidean geometry which is not an optimal choice for modeling complex cell trajectories with multiple branches. To overcome this fundamental representation issue we propose Poincaré maps, a method harnessing the power of hyperbolic geometry into the realm of single-cell data analysis.",
       "language": "HTML",
-      "stars": 44,
-      "forks": 0,
+      "stars": 150,
+      "forks": 30,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "alex-shpak/hugo-book",
       "url": "https://github.com/alex-shpak/hugo-book",
       "description": "Hugo documentation theme as simple as plain book",
-      "language": "HTML",
-      "stars": 439,
-      "forks": 0,
+      "language": "CSS",
+      "stars": 3926,
+      "forks": 1304,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -65,13 +71,15 @@
       "url": "https://github.com/nshalabi/ATTACK-Tools",
       "description": "Utilities for MITRE™ ATT&CK",
       "language": "HTML",
-      "stars": 652,
-      "forks": 0,
+      "stars": 1047,
+      "forks": 215,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "jaywcjlove/linux-command",
       "url": "https://github.com/jaywcjlove/linux-command",
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
-      "language": "HTML",
-      "stars": 11668,
-      "forks": 0,
+      "language": "Markdown",
+      "stars": 35395,
+      "forks": 6575,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "re0-web",
       "full_name": "lyy289065406/re0-web",
       "url": "https://github.com/lyy289065406/re0-web",
-      "description": "RE0：从零开始的异世界生活 （WEB版）",
+      "description": "Re0：从零开始的异世界生活 （WEB 版）",
       "language": "HTML",
-      "stars": 66,
+      "stars": 5,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "expo/examples",
       "url": "https://github.com/expo/examples",
       "description": "Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools",
-      "language": "HTML",
-      "stars": 318,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 3435,
+      "forks": 1076,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -127,15 +141,17 @@
       "repo_name": "docs",
       "full_name": "knative/docs",
       "url": "https://github.com/knative/docs",
-      "description": "User documentation for Knative components",
+      "description": "User documentation for Knative components.",
       "language": "HTML",
-      "stars": 2549,
-      "forks": 0,
+      "stars": 4982,
+      "forks": 1280,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -144,14 +160,16 @@
       "full_name": "malchata/yall.js",
       "url": "https://github.com/malchata/yall.js",
       "description": "A fast, flexible, and small SEO-friendly lazy loader.",
-      "language": "HTML",
-      "stars": 1006,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1381,
+      "forks": 137,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 11,
@@ -161,13 +179,15 @@
       "url": "https://github.com/ACL4SSR/ACL4SSR",
       "description": "SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址",
       "language": "HTML",
-      "stars": 4131,
-      "forks": 0,
+      "stars": 5656,
+      "forks": 1932,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 12,
@@ -175,15 +195,17 @@
       "repo_name": "learning-area",
       "full_name": "mdn/learning-area",
       "url": "https://github.com/mdn/learning-area",
-      "description": "Github repo for the MDN Learning Area.",
+      "description": "GitHub repo for the MDN Learning Area. ",
       "language": "HTML",
-      "stars": 2458,
-      "forks": 0,
+      "stars": 7526,
+      "forks": 27416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -193,13 +215,15 @@
       "url": "https://github.com/madrobby/zepto",
       "description": "Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API",
       "language": "HTML",
-      "stars": 14704,
-      "forks": 0,
+      "stars": 15372,
+      "forks": 3880,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -209,13 +233,15 @@
       "url": "https://github.com/clauswilke/dataviz",
       "description": "A book covering the fundamentals of data visualization",
       "language": "HTML",
-      "stars": 1516,
-      "forks": 0,
+      "stars": 3423,
+      "forks": 749,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -225,13 +251,15 @@
       "url": "https://github.com/Igglybuff/awesome-piracy",
       "description": "A curated list of awesome warez and piracy links",
       "language": "HTML",
-      "stars": 9218,
-      "forks": 0,
+      "stars": 25977,
+      "forks": 2243,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -241,13 +269,15 @@
       "url": "https://github.com/froala/design-blocks",
       "description": "A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.",
       "language": "HTML",
-      "stars": 12470,
-      "forks": 0,
+      "stars": 13866,
+      "forks": 1230,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -257,13 +287,15 @@
       "url": "https://github.com/fengdu78/deeplearning_ai_books",
       "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
       "language": "HTML",
-      "stars": 10043,
-      "forks": 0,
+      "stars": 20170,
+      "forks": 6105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 18,
@@ -273,13 +305,15 @@
       "url": "https://github.com/aave/aave-protocol",
       "description": "Aave Protocol Version 1.0 - Decentralized Lending Pools",
       "language": "HTML",
-      "stars": 54,
-      "forks": 0,
+      "stars": 1438,
+      "forks": 585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 19,
@@ -288,14 +322,16 @@
       "full_name": "awslabs/aws-well-architected-labs",
       "url": "https://github.com/awslabs/aws-well-architected-labs",
       "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices.",
-      "language": "HTML",
-      "stars": 706,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2098,
+      "forks": 1057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 20,
@@ -303,15 +339,17 @@
       "repo_name": "Adminator-admin-dashboard",
       "full_name": "puikinsh/Adminator-admin-dashboard",
       "url": "https://github.com/puikinsh/Adminator-admin-dashboard",
-      "description": "Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more",
+      "description": "Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 with dark mode for web apps, websites, services and more",
       "language": "HTML",
-      "stars": 3058,
-      "forks": 0,
+      "stars": 4532,
+      "forks": 1750,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,
@@ -336,14 +376,16 @@
       "full_name": "openwrtcompileshell/OpenwrtCompileScript",
       "url": "https://github.com/openwrtcompileshell/OpenwrtCompileScript",
       "description": "Openwrt编译辅助脚本可以帮助你更快的搭建openwrt环境，但不会帮你完成整个编译过程",
-      "language": "HTML",
-      "stars": 100,
-      "forks": 0,
+      "language": "Shell",
+      "stars": 309,
+      "forks": 264,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 23,
@@ -352,14 +394,16 @@
       "full_name": "snakemake/snakemake",
       "url": "https://github.com/snakemake/snakemake",
       "description": "This is the development home of the workflow management system Snakemake. For general information, see",
-      "language": "HTML",
-      "stars": 406,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2689,
+      "forks": 621,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 24,
@@ -368,14 +412,16 @@
       "full_name": "laravel-frontend-presets/tailwindcss",
       "url": "https://github.com/laravel-frontend-presets/tailwindcss",
       "description": "A Tailwind CSS frontend preset for the Laravel Framework",
-      "language": "HTML",
-      "stars": 717,
-      "forks": 0,
+      "language": "Blade",
+      "stars": 1148,
+      "forks": 138,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 25,
@@ -385,13 +431,15 @@
       "url": "https://github.com/hjacobs/kubernetes-failure-stories",
       "description": "Compilation of public failure/horror stories related to Kubernetes",
       "language": "HTML",
-      "stars": 5722,
-      "forks": 0,
+      "stars": 6222,
+      "forks": 313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-29.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

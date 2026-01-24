@@ -33,13 +33,15 @@
       "url": "https://github.com/CodeTips/BaiduNetdiskPlugin-macOS",
       "description": "For macOS.百度网盘 破解SVIP、下载速度限制~",
       "language": "Objective-C",
-      "stars": 3774,
-      "forks": 700,
+      "stars": 8832,
+      "forks": 1771,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 3,
@@ -97,13 +99,15 @@
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
       "language": "Objective-C",
-      "stars": 9727,
-      "forks": 1024,
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 7,
@@ -129,13 +133,15 @@
       "url": "https://github.com/Buglife/LocationSpoofer",
       "description": "Easy location spoofing on iOS.",
       "language": "Objective-C",
-      "stars": 35,
-      "forks": 0,
+      "stars": 86,
+      "forks": 10,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 9,
@@ -143,15 +149,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 5118,
-      "forks": 475,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 10,
@@ -160,14 +168,16 @@
       "full_name": "react-native-community/react-native-webview",
       "url": "https://github.com/react-native-community/react-native-webview",
       "description": "React Native Cross-Platform WebView",
-      "language": "Objective-C",
-      "stars": 508,
-      "forks": 157,
+      "language": "TypeScript",
+      "stars": 7078,
+      "forks": 3148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 11,
@@ -257,13 +267,15 @@
       "url": "https://github.com/ivpusic/react-native-image-crop-picker",
       "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
       "language": "Objective-C",
-      "stars": 2977,
-      "forks": 660,
+      "stars": 6331,
+      "forks": 1608,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 17,
@@ -287,15 +299,17 @@
       "repo_name": "firebase-ios-sdk",
       "full_name": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase iOS SDK",
-      "language": "Objective-C",
-      "stars": 1001,
-      "forks": 217,
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": 6508,
+      "forks": 1715,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 19,
@@ -353,13 +367,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 31885,
-      "forks": 9718,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 23,
@@ -385,13 +401,15 @@
       "url": "https://github.com/BradLarson/GPUImage",
       "description": "An open source iOS framework for GPU-based image and video processing",
       "language": "Objective-C",
-      "stars": 18292,
-      "forks": 4373,
+      "stars": 20343,
+      "forks": 4589,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:04Z"
     },
     {
       "rank": 25,

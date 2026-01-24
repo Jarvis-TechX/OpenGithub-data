@@ -32,14 +32,16 @@
       "full_name": "sebastianruder/NLP-progress",
       "url": "https://github.com/sebastianruder/NLP-progress",
       "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
-      "language": "HTML",
-      "stars": 5659,
-      "forks": 680,
+      "language": "Python",
+      "stars": 22978,
+      "forks": 3620,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 3,
@@ -64,14 +66,16 @@
       "full_name": "jaywcjlove/awesome-mac",
       "url": "https://github.com/jaywcjlove/awesome-mac",
       "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
-      "language": "HTML",
-      "stars": 20234,
-      "forks": 2444,
+      "language": "JavaScript",
+      "stars": 98027,
+      "forks": 7334,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 5,
@@ -113,13 +117,15 @@
       "url": "https://github.com/facebookresearch/fastText",
       "description": "Library for fast text representation and classification.",
       "language": "HTML",
-      "stars": 15105,
-      "forks": 2753,
+      "stars": 26471,
+      "forks": 4818,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 8,
@@ -129,13 +135,15 @@
       "url": "https://github.com/wesbos/JavaScript30",
       "description": "30 Day Vanilla JS Challenge",
       "language": "HTML",
-      "stars": 8054,
-      "forks": 8000,
+      "stars": 29010,
+      "forks": 41560,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 9,
@@ -161,13 +169,15 @@
       "url": "https://github.com/stackblitz/core",
       "description": "Online IDE powered by Visual Studio Code ⚡️",
       "language": "HTML",
-      "stars": 4314,
-      "forks": 190,
+      "stars": 10735,
+      "forks": 1236,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 11,
@@ -177,13 +187,15 @@
       "url": "https://github.com/scottaohara/a11y_styled_form_controls",
       "description": "Various styled accessible form controls",
       "language": "HTML",
-      "stars": 45,
-      "forks": 0,
+      "stars": 470,
+      "forks": 34,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 12,
@@ -193,13 +205,15 @@
       "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
       "description": "吴恩达老师的机器学习课程个人笔记",
       "language": "HTML",
-      "stars": 4573,
-      "forks": 1607,
+      "stars": 36156,
+      "forks": 11127,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 13,
@@ -207,15 +221,17 @@
       "repo_name": "Iosevka",
       "full_name": "be5invis/Iosevka",
       "url": "https://github.com/be5invis/Iosevka",
-      "description": "Slender typeface for code, from code.",
-      "language": "HTML",
-      "stars": 6261,
-      "forks": 195,
+      "description": "Versatile typeface for code, from code.",
+      "language": "JavaScript",
+      "stars": 21598,
+      "forks": 649,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 14,
@@ -367,15 +383,17 @@
       "repo_name": "polymer",
       "full_name": "Polymer/polymer",
       "url": "https://github.com/Polymer/polymer",
-      "description": "Build modern apps using web components",
+      "description": "Our original Web Component library.",
       "language": "HTML",
-      "stars": 20017,
-      "forks": 1963,
+      "stars": 22072,
+      "forks": 1990,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 24,
@@ -399,15 +417,17 @@
       "repo_name": "owasp-mstg",
       "full_name": "OWASP/owasp-mstg",
       "url": "https://github.com/OWASP/owasp-mstg",
-      "description": "The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.",
-      "language": "HTML",
-      "stars": 3017,
-      "forks": 510,
+      "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
+      "language": "JavaScript",
+      "stars": 12672,
+      "forks": 2646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     }
   ]
 }

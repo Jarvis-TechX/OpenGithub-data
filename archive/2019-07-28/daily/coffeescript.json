@@ -15,15 +15,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-28.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "4chan-x",
       "full_name": "ccd0/4chan-x",
       "url": "https://github.com/ccd0/4chan-x",
-      "description": "Adds various features to 4chan.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Adds various features to anonymous imageboards.",
+      "language": "CoffeeScript",
+      "stars": 1089,
+      "forks": 151,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-28.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:08Z"
     }
   ]
 }

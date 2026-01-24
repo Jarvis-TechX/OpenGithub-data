@@ -16,14 +16,16 @@
       "full_name": "jaywcjlove/linux-command",
       "url": "https://github.com/jaywcjlove/linux-command",
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
-      "language": "HTML",
-      "stars": 11537,
-      "forks": 2786,
+      "language": "Markdown",
+      "stars": 35395,
+      "forks": 6575,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -81,13 +83,15 @@
       "url": "https://github.com/fengdu78/deeplearning_ai_books",
       "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
       "language": "HTML",
-      "stars": 9837,
-      "forks": 3868,
+      "stars": 20170,
+      "forks": 6105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -97,13 +101,15 @@
       "url": "https://github.com/qiubaiying/qiubaiying.github.io",
       "description": "BY Blog ->",
       "language": "HTML",
-      "stars": 1994,
-      "forks": 5904,
+      "stars": 3293,
+      "forks": 8273,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -111,15 +117,17 @@
       "repo_name": "hexo-theme-fluid",
       "full_name": "fluid-dev/hexo-theme-fluid",
       "url": "https://github.com/fluid-dev/hexo-theme-fluid",
-      "description": "🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
-      "language": "HTML",
-      "stars": 412,
-      "forks": 99,
+      "description": ":ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
+      "language": "JavaScript",
+      "stars": 8067,
+      "forks": 1153,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 8,
@@ -239,15 +247,17 @@
       "repo_name": "learning-area",
       "full_name": "mdn/learning-area",
       "url": "https://github.com/mdn/learning-area",
-      "description": "Github repo for the MDN Learning Area.",
+      "description": "GitHub repo for the MDN Learning Area. ",
       "language": "HTML",
-      "stars": 2381,
-      "forks": 7694,
+      "stars": 7526,
+      "forks": 27416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -321,13 +331,15 @@
       "url": "https://github.com/ICTASL/open-meetings",
       "description": "Records of all meetings conducted by ICTA",
       "language": "HTML",
-      "stars": 9,
-      "forks": 0,
+      "stars": 13,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,
@@ -337,13 +349,15 @@
       "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
       "description": "[Book] 2019 edition of our front-end development handbook",
       "language": "HTML",
-      "stars": 3163,
-      "forks": 321,
+      "stars": 4090,
+      "forks": 471,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,
@@ -353,13 +367,15 @@
       "url": "https://github.com/stackblitz/core",
       "description": "Online IDE powered by Visual Studio Code ⚡️",
       "language": "HTML",
-      "stars": 7195,
-      "forks": 539,
+      "stars": 10735,
+      "forks": 1236,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 23,
@@ -367,15 +383,17 @@
       "repo_name": "Machine-Learning",
       "full_name": "Jack-Cherish/Machine-Learning",
       "url": "https://github.com/Jack-Cherish/Machine-Learning",
-      "description": "⚡️机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
-      "language": "HTML",
-      "stars": 2575,
-      "forks": 2457,
+      "description": ":zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
+      "language": "Python",
+      "stars": 10183,
+      "forks": 5112,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 24,

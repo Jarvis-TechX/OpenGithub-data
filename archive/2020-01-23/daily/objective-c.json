@@ -15,15 +15,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "language": "Objective-C",
-      "stars": 8563,
-      "forks": 1225,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 2,
@@ -87,7 +89,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 6,
@@ -145,13 +149,15 @@
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
-      "stars": 8596,
-      "forks": 1532,
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 10,
@@ -161,13 +167,15 @@
       "url": "https://github.com/github/Archimedes",
       "description": "Geometry functions for Cocoa and Cocoa Touch",
       "language": "Objective-C",
-      "stars": 472,
-      "forks": 44,
+      "stars": 467,
+      "forks": 36,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 11,
@@ -177,13 +185,15 @@
       "url": "https://github.com/github/Rebel",
       "description": "Cocoa framework for improving AppKit",
       "language": "Objective-C",
-      "stars": 1139,
-      "forks": 115,
+      "stars": 1122,
+      "forks": 111,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 13,
@@ -208,14 +218,16 @@
       "full_name": "react-native-community/react-native-maps",
       "url": "https://github.com/react-native-community/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "Objective-C",
-      "stars": 10550,
-      "forks": 3507,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 15,
@@ -240,14 +252,16 @@
       "full_name": "react-native-community/react-native-template-typescript",
       "url": "https://github.com/react-native-community/react-native-template-typescript",
       "description": "👾 Clean and minimalist React Native template for a quick start with TypeScript.",
-      "language": "Objective-C",
-      "stars": 648,
-      "forks": 91,
+      "language": "Java",
+      "stars": 1896,
+      "forks": 390,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 17,
@@ -256,14 +270,16 @@
       "full_name": "OpenEmu/OpenEmu",
       "url": "https://github.com/OpenEmu/OpenEmu",
       "description": "🕹 Retro video game emulation for macOS",
-      "language": "Objective-C",
-      "stars": 11034,
-      "forks": 1047,
+      "language": "Swift",
+      "stars": 17319,
+      "forks": 1331,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 18,
@@ -279,7 +295,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 19,
@@ -289,13 +307,15 @@
       "url": "https://github.com/yujitach/MenuMeters",
       "description": "my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/",
       "language": "Objective-C",
-      "stars": 2026,
-      "forks": 176,
+      "stars": 3059,
+      "forks": 225,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 20,
@@ -337,13 +357,15 @@
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
       "language": "Objective-C",
-      "stars": 10848,
-      "forks": 1238,
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md"
+      "source_path": "/tmp/github-trending-backup/2020/01/2020-01-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:11Z"
     },
     {
       "rank": 23,

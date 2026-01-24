@@ -15,15 +15,17 @@
       "repo_name": "settings-view",
       "full_name": "atom/settings-view",
       "url": "https://github.com/atom/settings-view",
-      "description": "Edit Atom settings",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🔧 Edit Atom settings",
+      "language": "CoffeeScript",
+      "stars": 275,
+      "forks": 276,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-03.md"
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-03.md"
+      "source_path": "/tmp/trending_archive/2020/2020-08/2020-08-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     }
   ]
 }

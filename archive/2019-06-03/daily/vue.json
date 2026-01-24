@@ -15,15 +15,17 @@
       "repo_name": "cssgridgenerator",
       "full_name": "sdras/cssgridgenerator",
       "url": "https://github.com/sdras/cssgridgenerator",
-      "description": "🧮Generate basic CSS Grid code to make dynamic layouts!",
+      "description": "🧮 Generate basic CSS Grid code to make dynamic layouts!",
       "language": "Vue",
-      "stars": 1623,
-      "forks": 98,
+      "stars": 5342,
+      "forks": 575,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "vue-element-admin",
       "full_name": "PanJiaChen/vue-element-admin",
       "url": "https://github.com/PanJiaChen/vue-element-admin",
-      "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+      "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
-      "stars": 34393,
-      "forks": 11109,
+      "stars": 90289,
+      "forks": 30648,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 3,
@@ -65,13 +69,15 @@
       "url": "https://github.com/ElemeFE/element",
       "description": "A Vue.js 2.0 UI Toolkit for Web",
       "language": "Vue",
-      "stars": 38146,
-      "forks": 7842,
+      "stars": 54232,
+      "forks": 14568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 5,
@@ -79,15 +85,17 @@
       "repo_name": "PicGo",
       "full_name": "Molunerfinn/PicGo",
       "url": "https://github.com/Molunerfinn/PicGo",
-      "description": "🚀A simple & beautiful tool for pictures uploading built by electron-vue",
-      "language": "Vue",
-      "stars": 5103,
-      "forks": 394,
+      "description": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
+      "language": "TypeScript",
+      "stars": 26236,
+      "forks": 2335,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 6,
@@ -97,13 +105,15 @@
       "url": "https://github.com/weilanwl/ColorUI",
       "description": "鲜亮的高饱和色彩，专注视觉的小程序组件库",
       "language": "Vue",
-      "stars": 4151,
-      "forks": 655,
+      "stars": 12433,
+      "forks": 2216,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 7,
@@ -111,15 +121,17 @@
       "repo_name": "vue",
       "full_name": "zeit-ui/vue",
       "url": "https://github.com/zeit-ui/vue",
-      "description": "Vue implementation for Zeit Style",
+      "description": "Vue implementation of Geist",
       "language": "Vue",
-      "stars": 230,
-      "forks": 13,
+      "stars": 711,
+      "forks": 37,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 8,
@@ -145,13 +157,15 @@
       "url": "https://github.com/macrozheng/mall-admin-web",
       "description": "mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。",
       "language": "Vue",
-      "stars": 2284,
-      "forks": 1334,
+      "stars": 12435,
+      "forks": 7442,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 10,
@@ -177,13 +191,15 @@
       "url": "https://github.com/iview/iview",
       "description": "A high quality UI Toolkit built on Vue.js 2.0",
       "language": "Vue",
-      "stars": 21504,
-      "forks": 3774,
+      "stars": 23873,
+      "forks": 4093,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 12,
@@ -193,13 +209,15 @@
       "url": "https://github.com/iview/iview-admin",
       "description": "Vue 2.0 admin management system template based on iView",
       "language": "Vue",
-      "stars": 12155,
-      "forks": 3591,
+      "stars": 16451,
+      "forks": 4793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 13,
@@ -209,13 +227,15 @@
       "url": "https://github.com/airyland/vux",
       "description": "Mobile UI Components based on Vue & WeUI",
       "language": "Vue",
-      "stars": 15822,
-      "forks": 3584,
+      "stars": 17535,
+      "forks": 3680,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 14,
@@ -263,7 +283,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 17,
@@ -287,15 +309,17 @@
       "repo_name": "vue-material",
       "full_name": "vuematerial/vue-material",
       "url": "https://github.com/vuematerial/vue-material",
-      "description": "Material design for Vue.js",
+      "description": "Vue.js Framework - ready-to-use Vue components with Material Design, free forever.",
       "language": "Vue",
-      "stars": 7940,
-      "forks": 962,
+      "stars": 9862,
+      "forks": 1140,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 19,
@@ -321,13 +345,15 @@
       "url": "https://github.com/dcloudio/hello-uniapp",
       "description": "uni-app框架演示示例",
       "language": "Vue",
-      "stars": 318,
-      "forks": 125,
+      "stars": 2994,
+      "forks": 1682,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md"
+      "source_path": "/tmp/github-trending-backup/2019/06/2019-06-03.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     },
     {
       "rank": 21,

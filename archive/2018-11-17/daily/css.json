@@ -32,14 +32,16 @@
       "full_name": "twbs/bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "CSS",
-      "stars": 128737,
-      "forks": 63177,
+      "language": "MDX",
+      "stars": 173937,
+      "forks": 79164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 3,
@@ -65,13 +67,15 @@
       "url": "https://github.com/jgthms/bulma",
       "description": "Modern CSS framework based on Flexbox",
       "language": "CSS",
-      "stars": 31178,
-      "forks": 2447,
+      "stars": 50059,
+      "forks": 3913,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 5,
@@ -113,13 +117,15 @@
       "url": "https://github.com/necolas/normalize.css",
       "description": "A modern alternative to CSS resets",
       "language": "CSS",
-      "stars": 33024,
-      "forks": 6705,
+      "stars": 53786,
+      "forks": 10489,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 8,
@@ -128,14 +134,16 @@
       "full_name": "tailwindcss/tailwindcss",
       "url": "https://github.com/tailwindcss/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "CSS",
-      "stars": 7717,
-      "forks": 368,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 9,
@@ -143,15 +151,17 @@
       "repo_name": "eventos",
       "full_name": "datascience-br/eventos",
       "url": "https://github.com/datascience-br/eventos",
-      "description": "📅 Lista de eventos, meetups, encontros e qualquer tipo de aglomeração data science",
+      "description": ":date: Lista de eventos, meetups, encontros e qualquer tipo de aglomeração data science ",
       "language": "CSS",
-      "stars": 32,
-      "forks": 0,
+      "stars": 37,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 10,
@@ -223,15 +233,17 @@
       "repo_name": "GitHub-Dark",
       "full_name": "StylishThemes/GitHub-Dark",
       "url": "https://github.com/StylishThemes/GitHub-Dark",
-      "description": "Dark GitHub style",
+      "description": ":octocat: Dark GitHub style",
       "language": "CSS",
-      "stars": 3466,
-      "forks": 261,
+      "stars": 9923,
+      "forks": 646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 15,
@@ -239,15 +251,17 @@
       "repo_name": "my-mac-os",
       "full_name": "nikitavoloboev/my-mac-os",
       "url": "https://github.com/nikitavoloboev/my-mac-os",
-      "description": "List of applications and tools that make my macOS experience even more amazing",
-      "language": "CSS",
-      "stars": 13787,
-      "forks": 567,
+      "description": "Everything you need to move your project faster",
+      "language": "Rust",
+      "stars": 21174,
+      "forks": 842,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 16,
@@ -256,14 +270,16 @@
       "full_name": "danielquinn/paperless",
       "url": "https://github.com/danielquinn/paperless",
       "description": "Scan, index, and archive all of your paper documents",
-      "language": "CSS",
-      "stars": 4950,
-      "forks": 288,
+      "language": "Python",
+      "stars": 7925,
+      "forks": 502,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 17,
@@ -272,14 +288,16 @@
       "full_name": "theme-next/hexo-theme-next",
       "url": "https://github.com/theme-next/hexo-theme-next",
       "description": "Elegant and powerful theme for Hexo.",
-      "language": "CSS",
-      "stars": 1703,
-      "forks": 527,
+      "language": "Stylus",
+      "stars": 8383,
+      "forks": 2033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 18,
@@ -289,13 +307,15 @@
       "url": "https://github.com/petrk94/ownhealthrecord",
       "description": "This repository is about the OwnHealthRecord Application Web App",
       "language": "CSS",
-      "stars": 46,
-      "forks": 2,
+      "stars": 200,
+      "forks": 27,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 19,
@@ -320,14 +340,16 @@
       "full_name": "uikit/uikit",
       "url": "https://github.com/uikit/uikit",
       "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
-      "language": "CSS",
-      "stars": 13441,
-      "forks": 2017,
+      "language": "HTML",
+      "stars": 18539,
+      "forks": 2313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 21,
@@ -352,14 +374,16 @@
       "full_name": "oldj/SwitchHosts",
       "url": "https://github.com/oldj/SwitchHosts",
       "description": "Switch hosts quickly!",
-      "language": "CSS",
-      "stars": 5825,
-      "forks": 813,
+      "language": "TypeScript",
+      "stars": 26186,
+      "forks": 2617,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 24,
@@ -383,15 +407,17 @@
       "repo_name": "react-tabulator",
       "full_name": "ngduc/react-tabulator",
       "url": "https://github.com/ngduc/react-tabulator",
-      "description": "React Tabulator is based on tabulator - an advanced table library with many useful features.",
+      "description": "React Tabulator is based on tabulator - a JS table library with many advanced features.",
       "language": "CSS",
-      "stars": 95,
-      "forks": 1,
+      "stars": 376,
+      "forks": 86,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     }
   ]
 }

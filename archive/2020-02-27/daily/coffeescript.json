@@ -16,14 +16,16 @@
       "full_name": "Leonidas-from-XIV/node-xml2js",
       "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
       "description": "XML to JavaScript object converter.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4973,
+      "forks": 609,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-27.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "github/hubot-scripts",
       "url": "https://github.com/github/hubot-scripts",
       "description": "DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 3614,
+      "forks": 1827,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-27.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "PinionTech/srcds-info",
       "url": "https://github.com/PinionTech/srcds-info",
       "description": "A tool to query Source based servers",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 6,
+      "forks": 4,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-27.md"
+      "source_path": "/tmp/trending_archive/2020/2020-02/2020-02-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

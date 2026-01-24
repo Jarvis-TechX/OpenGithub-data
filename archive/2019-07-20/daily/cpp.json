@@ -16,14 +16,16 @@
       "full_name": "schacon/blink",
       "url": "https://github.com/schacon/blink",
       "description": "Example file to blink the LED on an Arduino",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Arduino",
+      "stars": 103,
+      "forks": 2154,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-20.md"
+      "source_path": "/tmp/trending_archive/2019/2019-07/2019-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

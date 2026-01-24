@@ -16,14 +16,16 @@
       "full_name": "codecombat/codecombat",
       "url": "https://github.com/codecombat/codecombat",
       "description": "Game for learning how to code.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8407,
+      "forks": 4168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "Psiphon-Inc/psiphon-website",
       "url": "https://github.com/Psiphon-Inc/psiphon-website",
       "description": "Source of the psiphon3.com, etc., download and info sites",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 28,
+      "forks": 16,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "vtex/vtex.js",
       "url": "https://github.com/vtex/vtex.js",
       "description": "VTEX SDK for JavaScript",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 125,
+      "forks": 45,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "vtex/lens",
       "url": "https://github.com/vtex/lens",
       "description": "VTEX Development Tools as Chrome Extension",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4,
+      "forks": 3,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "vtex/front.payment-data",
       "url": "https://github.com/vtex/front.payment-data",
       "description": "Browser component for payment information",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 1,
+      "forks": 3,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "vtex/ng-currency-mask",
       "url": "https://github.com/vtex/ng-currency-mask",
       "description": "* [vtex/front.utils](https://github.com/vtex/front.utils): VTEX Underscore extensions",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 9,
+      "forks": 4,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "vtex/front.portal-plugins",
       "url": "https://github.com/vtex/front.portal-plugins",
       "description": "Portal front end plugins",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 33,
+      "forks": 14,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "vtex/front.phone",
       "url": "https://github.com/vtex/front.phone",
       "description": "front.phone is a Javascript library that identifies, validates and formats phone numbers.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 59,
+      "forks": 12,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "overleaf/overleaf",
       "url": "https://github.com/overleaf/overleaf",
       "description": "A web-based collaborative LaTeX editor",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17185,
+      "forks": 1857,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md"
+      "source_path": "/tmp/trending_archive/2019/2019-12/2019-12-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     }
   ]
 }

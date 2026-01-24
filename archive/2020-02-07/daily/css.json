@@ -16,14 +16,16 @@
       "full_name": "tailwindcss/tailwindcss",
       "url": "https://github.com/tailwindcss/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "CSS",
-      "stars": 19317,
-      "forks": 860,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -97,13 +99,15 @@
       "url": "https://github.com/ryanoasis/nerd-fonts",
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
-      "stars": 19306,
-      "forks": 1298,
+      "stars": 61370,
+      "forks": 3868,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -129,13 +133,15 @@
       "url": "https://github.com/necolas/normalize.css",
       "description": "A modern alternative to CSS resets",
       "language": "CSS",
-      "stars": 37649,
-      "forks": 7916,
+      "stars": 53786,
+      "forks": 10489,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -145,13 +151,15 @@
       "url": "https://github.com/barryclark/jekyll-now",
       "description": "Build a Jekyll blog in minutes, without touching the command line.",
       "language": "CSS",
-      "stars": 6490,
-      "forks": 26738,
+      "stars": 8395,
+      "forks": 35215,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -176,14 +184,16 @@
       "full_name": "cobidev/simplefolio",
       "url": "https://github.com/cobidev/simplefolio",
       "description": "⚡️ A minimal portfolio template for Developers",
-      "language": "CSS",
-      "stars": 1256,
-      "forks": 455,
+      "language": "SCSS",
+      "stars": 14084,
+      "forks": 6063,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -242,12 +252,14 @@
       "description": "Using a big chunk of content and Typografier, design the content to it looks properly formatted.",
       "language": "CSS",
       "stars": 0,
-      "forks": 273,
+      "forks": 295,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -272,14 +284,16 @@
       "full_name": "PDIS/mask-static",
       "url": "https://github.com/PDIS/mask-static",
       "description": "健保藥局哪裡有？口罩數量剩多少？",
-      "language": "CSS",
-      "stars": 83,
-      "forks": 6,
+      "language": "HTML",
+      "stars": 149,
+      "forks": 22,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 19,
@@ -321,13 +335,15 @@
       "url": "https://github.com/poole/hyde",
       "description": "A brazen two-column theme for Jekyll.",
       "language": "CSS",
-      "stars": 2708,
-      "forks": 2781,
+      "stars": 3871,
+      "forks": 4041,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 23,
@@ -335,15 +351,17 @@
       "repo_name": "tailwind-starter-kit",
       "full_name": "creativetimofficial/tailwind-starter-kit",
       "url": "https://github.com/creativetimofficial/tailwind-starter-kit",
-      "description": "Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source",
-      "language": "CSS",
-      "stars": 625,
-      "forks": 67,
+      "description": "David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.",
+      "language": "HTML",
+      "stars": 6069,
+      "forks": 918,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 24,

@@ -16,14 +16,16 @@
       "full_name": "olivia-ai/olivia",
       "url": "https://github.com/olivia-ai/olivia",
       "description": "💁‍♀️Your new best friend powered by an artificial neural network",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 3720,
+      "forks": 343,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "sysdream/ligolo",
       "url": "https://github.com/sysdream/ligolo",
       "description": "Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 1783,
+      "forks": 226,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "gohugoio/hugo",
       "url": "https://github.com/gohugoio/hugo",
       "description": "The world’s fastest framework for building websites.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 86213,
+      "forks": 8181,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "cortex",
       "full_name": "cortexlabs/cortex",
       "url": "https://github.com/cortexlabs/cortex",
-      "description": "Machine learning model serving infrastructure",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Production infrastructure for machine learning at scale",
+      "language": "Go",
+      "stars": 8033,
+      "forks": 604,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "v2ray/v2ray-core",
       "url": "https://github.com/v2ray/v2ray-core",
       "description": "A platform for building proxies to bypass network restrictions.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 46882,
+      "forks": 8901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "go-ethereum",
       "full_name": "ethereum/go-ethereum",
       "url": "https://github.com/ethereum/go-ethereum",
-      "description": "Official Go implementation of the Ethereum protocol",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 50714,
+      "forks": 21740,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "annie",
       "full_name": "iawia002/annie",
       "url": "https://github.com/iawia002/annie",
-      "description": "👾 Fast, simple and clean video downloader",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "👾 Fast and simple video download library and CLI tool written in Go",
+      "language": "Go",
+      "stars": 30827,
+      "forks": 3233,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "PhoneInfoga",
       "full_name": "sundowndev/PhoneInfoga",
       "url": "https://github.com/sundowndev/PhoneInfoga",
-      "description": "Advanced information gathering & OSINT framework for phone numbers",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Information gathering framework for phone numbers",
+      "language": "Go",
+      "stars": 15688,
+      "forks": 4731,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "Jrohy/trojan",
       "url": "https://github.com/Jrohy/trojan",
       "description": "trojan多用户管理部署程序, 支持web页面管理",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 5672,
+      "forks": 1569,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "trojan-go",
       "full_name": "p4gefau1t/trojan-go",
       "url": "https://github.com/p4gefau1t/trojan-go",
-      "description": "Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
+      "language": "Go",
+      "stars": 8330,
+      "forks": 1761,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "miekg/dns",
       "url": "https://github.com/miekg/dns",
       "description": "DNS library in Go",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 8619,
+      "forks": 1190,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "hashicorp/hcl",
       "url": "https://github.com/hashicorp/hcl",
       "description": "HCL is the HashiCorp configuration language.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 5789,
+      "forks": 640,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "docker-ce",
       "full_name": "docker/docker-ce",
       "url": "https://github.com/docker/docker-ce",
-      "description": "Docker CE",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": ":warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the https://github.com/docker/docker-ce/blob/master/README.md :warning:",
+      "language": "Go",
+      "stars": 5763,
+      "forks": 1519,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "OJ/gobuster",
       "url": "https://github.com/OJ/gobuster",
       "description": "Directory/File, DNS and VHost busting tool written in Go",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 13318,
+      "forks": 1551,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "golang/go",
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 132083,
+      "forks": 18763,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "mattermost-server",
       "full_name": "mattermost/mattermost-server",
       "url": "https://github.com/mattermost/mattermost-server",
-      "description": "Open source Slack-alternative in Golang and React - Mattermost",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "language": "TypeScript",
+      "stars": 35001,
+      "forks": 8286,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "Jguer/yay",
       "url": "https://github.com/Jguer/yay",
       "description": "Yet another Yogurt - An AUR Helper written in Go",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 13086,
+      "forks": 392,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "rclone",
       "full_name": "rclone/rclone",
       "url": "https://github.com/rclone/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "language": "Go",
+      "stars": 55095,
+      "forks": 4855,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "nektos/act",
       "url": "https://github.com/nektos/act",
       "description": "Run your GitHub Actions locally 🚀",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 68325,
+      "forks": 1829,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "AdguardTeam/AdGuardHome",
       "url": "https://github.com/AdguardTeam/AdGuardHome",
       "description": "Network-wide ads & trackers blocking DNS server",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 32221,
+      "forks": 2221,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "gotk3/gotk3",
       "url": "https://github.com/gotk3/gotk3",
       "description": "Go bindings for GTK3",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 2199,
+      "forks": 228,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "ericm/stonks",
       "url": "https://github.com/ericm/stonks",
       "description": "Stonks is a terminal based stock visualizer and tracker that displays realtime stocks in graph format in a terminal. See how fast your stonks will crash.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 564,
+      "forks": 34,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 25,
@@ -407,7 +455,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-05/2020-05-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:14Z"
     }
   ]
 }

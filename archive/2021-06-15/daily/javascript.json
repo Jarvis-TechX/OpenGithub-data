@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "atom",
       "full_name": "atom/atom",
       "url": "https://github.com/atom/atom",
-      "description": "The hackable text editor",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":atom: The hackable text editor",
+      "language": "JavaScript",
+      "stars": 60998,
+      "forks": 17302,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "adrianhajdin/portfolio_website",
       "url": "https://github.com/adrianhajdin/portfolio_website",
       "description": "Tutorial created by Enyel Sequeira, taught by JavaScript Mastery",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3497,
+      "forks": 729,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "msk-javascript-bootcamp",
       "full_name": "MSK-Web-development/msk-javascript-bootcamp",
       "url": "https://github.com/MSK-Web-development/msk-javascript-bootcamp",
-      "description": "6.5 hours of video session covering javascript concepts.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A Bootcamp covering most of the javascript concepts.",
+      "language": "HTML",
+      "stars": 183,
+      "forks": 93,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "artf/grapesjs",
       "url": "https://github.com/artf/grapesjs",
       "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 25418,
+      "forks": 4535,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "Hacker0x01/react-datepicker",
       "url": "https://github.com/Hacker0x01/react-datepicker",
       "description": "A simple and reusable datepicker component for React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 8364,
+      "forks": 2277,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "MuriungiPatrick/Bootstrap-5-portfolio-template",
       "url": "https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template",
       "description": "Learning Bootstrap 5 with SASS",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 350,
+      "forks": 214,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "material-ui",
       "full_name": "mui-org/material-ui",
       "url": "https://github.com/mui-org/material-ui",
-      "description": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "language": "JavaScript",
+      "stars": 97679,
+      "forks": 32793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "JDHelloWorld/jd_scripts",
       "url": "https://github.com/JDHelloWorld/jd_scripts",
       "description": "* [https://github.com/MichMich/MagicMirror](MichMich/MagicMirror) MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2261,
+      "forks": 989,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "aws-sdk-js",
       "full_name": "aws/aws-sdk-js",
       "url": "https://github.com/aws/aws-sdk-js",
-      "description": "AWS SDK for JavaScript in the browser and Node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "AWS SDK for JavaScript in the browser and Node.js (End-of-Life as of 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/aws-sdk-js-v3",
+      "language": "JavaScript",
+      "stars": 7643,
+      "forks": 1535,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "WebDevSimplified/Zoom-Clone-With-WebRTC",
       "url": "https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC",
       "description": "* [https://github.com/AsishRaju/450-DSA](AsishRaju/450-DSA) 450-DSA helps you track your progress in solving 400+ DSA questions and keeps you engaging based on DSA-Cracker Sheet ⚡",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1564,
+      "forks": 861,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "nodejs/undici",
       "url": "https://github.com/nodejs/undici",
       "description": "An HTTP/1.1 client, written from scratch for Node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7385,
+      "forks": 691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "clean-code-javascript",
       "full_name": "ryanmcdermott/clean-code-javascript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-      "description": "🛁 Clean Code concepts adapted for JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Clean Code concepts adapted for JavaScript",
+      "language": "JavaScript",
+      "stars": 94283,
+      "forks": 12502,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "hotwired/turbo-rails",
       "url": "https://github.com/hotwired/turbo-rails",
       "description": "Use Turbo in your Ruby on Rails app",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Ruby",
+      "stars": 2342,
+      "forks": 363,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "jklepatch/eattheblocks",
       "url": "https://github.com/jklepatch/eattheblocks",
       "description": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4002,
+      "forks": 3139,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "APSL/react-native-keyboard-aware-scroll-view",
       "url": "https://github.com/APSL/react-native-keyboard-aware-scroll-view",
       "description": "A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5385,
+      "forks": 645,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "vfat-tools/vfat-tools",
       "url": "https://github.com/vfat-tools/vfat-tools",
       "description": "",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 906,
+      "forks": 1060,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     }
   ]
 }

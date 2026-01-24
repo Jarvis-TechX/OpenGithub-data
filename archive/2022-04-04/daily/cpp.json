@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "qbittorrent/qBittorrent",
       "url": "https://github.com/qbittorrent/qBittorrent",
       "description": "qBittorrent BitTorrent client",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35148,
+      "forks": 4544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "aria2/aria2",
       "url": "https://github.com/aria2/aria2",
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 39802,
+      "forks": 3809,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "CleverRaven/Cataclysm-DDA",
       "url": "https://github.com/CleverRaven/Cataclysm-DDA",
       "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 11983,
+      "forks": 4415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "ValveSoftware/Proton",
       "url": "https://github.com/ValveSoftware/Proton",
       "description": "Compatibility tool for Steam Play based on Wine and additional components",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29815,
+      "forks": 1305,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87749,
+      "forks": 38772,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70908,
+      "forks": 11486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "telegramdesktop/tdesktop",
       "url": "https://github.com/telegramdesktop/tdesktop",
       "description": "Telegram Desktop messaging app",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29618,
+      "forks": 6204,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "fish-shell/fish-shell",
       "url": "https://github.com/fish-shell/fish-shell",
       "description": "The user-friendly command line shell.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 32152,
+      "forks": 2202,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "MaaAssistantArknights",
       "full_name": "MaaAssistantArknights/MaaAssistantArknights",
       "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-      "description": "《明日方舟》小助手，自动刷图、智能基建换班，全日常一键长草！",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+      "language": "C++",
+      "stars": 19281,
+      "forks": 2452,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "esphome/esphome",
       "url": "https://github.com/esphome/esphome",
       "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10440,
+      "forks": 4985,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "Chatterino/chatterino2",
       "url": "https://github.com/Chatterino/chatterino2",
       "description": "Chat client for https://twitch.tv",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2392,
+      "forks": 545,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "esp8266/Arduino",
       "url": "https://github.com/esp8266/Arduino",
       "description": "ESP8266 core for Arduino",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16551,
+      "forks": 13242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 96859,
+      "forks": 26601,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "FileCentipede",
       "full_name": "filecxx/FileCentipede",
       "url": "https://github.com/filecxx/FileCentipede",
-      "description": "Cross-platform internet download manager for HTTP(S), FTP(S), magnet-link, BitTorrent, ed2k, and online videos",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.",
+      "language": "C++",
+      "stars": 10761,
+      "forks": 672,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "TheCherno/Hazel",
       "url": "https://github.com/TheCherno/Hazel",
       "description": "Hazel Engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12826,
+      "forks": 1555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "alvr-org/ALVR",
       "url": "https://github.com/alvr-org/ALVR",
       "description": "Stream VR games from your PC to your headset via Wi-Fi",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 7289,
+      "forks": 615,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "TranslucentTB/TranslucentTB",
       "url": "https://github.com/TranslucentTB/TranslucentTB",
       "description": "A lightweight utility that makes the Windows taskbar translucent/transparent.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 18667,
+      "forks": 1212,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "Atmosphere-NX/Atmosphere",
       "url": "https://github.com/Atmosphere-NX/Atmosphere",
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17776,
+      "forks": 1375,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "TrinityCore",
       "full_name": "TrinityCore/TrinityCore",
       "url": "https://github.com/TrinityCore/TrinityCore",
-      "description": "TrinityCore Open Source MMO Framework (master = 9.2.0.42979, 3.3.5 = 3.3.5a.12340)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "TrinityCore Open Source MMO Framework (master = 11.2.7.65299, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)",
+      "language": "C++",
+      "stars": 10374,
+      "forks": 6257,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "tindy2013/subconverter",
       "url": "https://github.com/tindy2013/subconverter",
       "description": "Utility to convert between various subscription format",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 15782,
+      "forks": 3610,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "JUCE",
       "full_name": "juce-framework/JUCE",
       "url": "https://github.com/juce-framework/JUCE",
-      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "language": "C++",
+      "stars": 7970,
+      "forks": 1969,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "ForrestKnight/Wrestling-Simulation",
       "url": "https://github.com/ForrestKnight/Wrestling-Simulation",
       "description": "My Favorite Computer Science Programming Project of All Time",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 126,
+      "forks": 45,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "axstin/rbxfpsunlocker",
       "url": "https://github.com/axstin/rbxfpsunlocker",
       "description": "FPS Unlocker for Roblox",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2116,
+      "forks": 862,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md"
+      "source_path": "/tmp/trending_archive/2022/2022-04/2022-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:29Z"
     }
   ]
 }

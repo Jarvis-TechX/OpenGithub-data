@@ -15,15 +15,17 @@
       "repo_name": "CoffeeScriptRedux",
       "full_name": "michaelficarra/CoffeeScriptRedux",
       "url": "https://github.com/michaelficarra/CoffeeScriptRedux",
-      "description": "rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility",
+      "language": "CoffeeScript",
+      "stars": 1836,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-25.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "balena-os/balena-up-board",
       "url": "https://github.com/balena-os/balena-up-board",
       "description": "Balena support for UP board",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "BitBake",
+      "stars": 6,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-25.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "atom-beautify",
       "full_name": "Glavin001/atom-beautify",
       "url": "https://github.com/Glavin001/atom-beautify",
-      "description": "Universal beautification package for Atom editor ( Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding  )",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":mega: Help Wanted - Looking for Maintainer: https://github.com/Glavin001/atom-beautify/issues/2572 | :lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )",
+      "language": "CoffeeScript",
+      "stars": 1501,
+      "forks": 444,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-25.md"
+      "source_path": "/tmp/trending_archive/2019/2019-11/2019-11-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     }
   ]
 }

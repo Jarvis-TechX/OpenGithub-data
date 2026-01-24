@@ -16,14 +16,16 @@
       "full_name": "basecamp/trix",
       "url": "https://github.com/basecamp/trix",
       "description": "A rich text editor for everyday writing",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 19891,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "SwitchyOmega",
       "full_name": "FelisCatus/SwitchyOmega",
       "url": "https://github.com/FelisCatus/SwitchyOmega",
-      "description": "Manage and switch between multiple proxies quickly & easily.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "No longer maintained, see pinned issues",
+      "language": "CoffeeScript",
+      "stars": 22486,
+      "forks": 3555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "hudl/hudlbot",
       "url": "https://github.com/hudl/hudlbot",
       "description": "",
-      "language": "coffeescript",
-      "stars": 0,
+      "language": "CoffeeScript",
+      "stars": 3,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-05/2020-05-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:14Z"
     }
   ]
 }

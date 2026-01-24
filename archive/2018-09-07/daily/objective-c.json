@@ -17,13 +17,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 1262,
-      "forks": 224,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 2,
@@ -79,15 +81,17 @@
       "repo_name": "react-native-screens",
       "full_name": "kmagiera/react-native-screens",
       "url": "https://github.com/kmagiera/react-native-screens",
-      "description": "First incomplete navigation solution for your React Native app",
-      "language": "Objective-C",
-      "stars": 105,
-      "forks": 0,
+      "description": "Native navigation primitives for your React Native app.",
+      "language": "TypeScript",
+      "stars": 3574,
+      "forks": 612,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 6,
@@ -128,14 +132,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "Objective-C",
-      "stars": 14793,
-      "forks": 1981,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 9,
@@ -241,13 +247,15 @@
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
-      "stars": 20429,
-      "forks": 5263,
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 16,
@@ -257,13 +265,15 @@
       "url": "https://github.com/realm/realm-cocoa",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
-      "stars": 12478,
-      "forks": 1609,
+      "stars": 16587,
+      "forks": 2213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 17,
@@ -337,13 +347,15 @@
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
       "language": "Objective-C",
-      "stars": 8812,
-      "forks": 892,
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 22,
@@ -353,13 +365,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 31498,
-      "forks": 9658,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 23,
@@ -383,15 +397,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "Expo iOS/Android Client",
-      "language": "Objective-C",
-      "stars": 3931,
-      "forks": 312,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 25,

@@ -208,14 +208,16 @@
       "full_name": "JohnSundell/Files",
       "url": "https://github.com/JohnSundell/Files",
       "description": "A nicer way to handle files & folders in Swift",
-      "language": "swift",
-      "stars": 34,
-      "forks": 0,
+      "language": "Swift",
+      "stars": 2611,
+      "forks": 197,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/01/2017-01-17.md"
+      "source_path": "/tmp/github-trending-backup/2017/01/2017-01-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 14,
@@ -303,15 +305,17 @@
       "repo_name": "GDPerformanceView-Swift",
       "full_name": "dani-gavrilov/GDPerformanceView-Swift",
       "url": "https://github.com/dani-gavrilov/GDPerformanceView-Swift",
-      "description": "Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.",
-      "language": "swift",
-      "stars": 745,
-      "forks": 19,
+      "description": "Shows FPS, CPU and memory usage, device model, app and iOS versions above the status bar and report FPS, CPU and memory usage via delegate.",
+      "language": "Swift",
+      "stars": 2281,
+      "forks": 161,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/01/2017-01-17.md"
+      "source_path": "/tmp/github-trending-backup/2017/01/2017-01-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 20,

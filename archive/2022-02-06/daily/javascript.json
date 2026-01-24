@@ -16,14 +16,16 @@
       "full_name": "fireship-io/gpt3-twitter-bot",
       "url": "https://github.com/fireship-io/gpt3-twitter-bot",
       "description": "Build a GPT-3 Powered Twitter Bot with Node.js & Firebase",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 477,
+      "forks": 126,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "budibase",
       "full_name": "Budibase/budibase",
       "url": "https://github.com/Budibase/budibase",
-      "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+      "language": "TypeScript",
+      "stars": 27566,
+      "forks": 2068,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "brave-browser",
       "full_name": "brave/brave-browser",
       "url": "https://github.com/brave/brave-browser",
-      "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 21196,
+      "forks": 2949,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "Matt-Fontes/SendScriptWhatsApp",
       "url": "https://github.com/Matt-Fontes/SendScriptWhatsApp",
       "description": "Script para enviar o Roteiro do filme Shrek, linha por linha, no WhatsApp",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3371,
+      "forks": 1488,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "soheilpro/mailwind",
       "url": "https://github.com/soheilpro/mailwind",
       "description": "Use Tailwind CSS to design HTML emails.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3210,
+      "forks": 72,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "react-native-website",
       "full_name": "facebook/react-native-website",
       "url": "https://github.com/facebook/react-native-website",
-      "description": "Configuration and documentation powering the React Native website.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The React Native website and docs",
+      "language": "TypeScript",
+      "stars": 2099,
+      "forks": 5736,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "shapez.io",
       "full_name": "tobspr/shapez.io",
       "url": "https://github.com/tobspr/shapez.io",
-      "description": "shapez.io is an open source base building game inspired by factorio! Available on web & steam",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "shapez is an open source base building game on Steam inspired by factorio!",
+      "language": "JavaScript",
+      "stars": 6802,
+      "forks": 1282,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "mapbox/mapbox-gl-js",
       "url": "https://github.com/mapbox/mapbox-gl-js",
       "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 12104,
+      "forks": 2318,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "aframe",
       "full_name": "aframevr/aframe",
       "url": "https://github.com/aframevr/aframe",
-      "description": "🅰️ web framework for building virtual reality experiences.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":a: Web framework for building virtual reality experiences.",
+      "language": "JavaScript",
+      "stars": 17457,
+      "forks": 4303,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "dequelabs/axe-core",
       "url": "https://github.com/dequelabs/axe-core",
       "description": "Accessibility engine for automated Web UI testing",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6823,
+      "forks": 856,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "jdd",
       "full_name": "gys619/jdd",
       "url": "https://github.com/gys619/jdd",
-      "description": "自用的东哥脚本合集",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "default",
+      "language": "JavaScript",
+      "stars": 1231,
+      "forks": 592,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "30-seconds-of-code",
       "full_name": "30-seconds/30-seconds-of-code",
       "url": "https://github.com/30-seconds/30-seconds-of-code",
-      "description": "Short JavaScript code snippets for all your development needs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Coding articles to level up your development skills",
+      "language": "JavaScript",
+      "stars": 126464,
+      "forks": 12416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
       "description": "A framework for building native applications using React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 125168,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "inertiajs/inertia",
       "url": "https://github.com/inertiajs/inertia",
       "description": "Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 7653,
+      "forks": 540,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "ethereum-boilerplate",
       "full_name": "ethereum-boilerplate/ethereum-boilerplate",
       "url": "https://github.com/ethereum-boilerplate/ethereum-boilerplate",
-      "description": "The ultimate full-stack Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called \"Ethereum Boilerplate\" it works with any EVM system and even Solana support is coming soon! Happy BUIDL!👷‍♂️",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called \"Ethereum Boilerplate\" it works with any EVM system and since it uses Moralis SDK You can even use it on Solana!  Happy BUIDL!👷‍♂️",
+      "language": "TypeScript",
+      "stars": 4168,
+      "forks": 3036,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "denysdovhan/wtfjs",
       "url": "https://github.com/denysdovhan/wtfjs",
       "description": "🤪 A list of funny and tricky JavaScript examples",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 37609,
+      "forks": 2670,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "youtube-dl-gui",
       "full_name": "jely2002/youtube-dl-gui",
       "url": "https://github.com/jely2002/youtube-dl-gui",
-      "description": "A cross-platform GUI for youtube-dl made in Electron and node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.",
+      "language": "Rust",
+      "stars": 7403,
+      "forks": 561,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "tailwindlabs/tailwindcss",
       "url": "https://github.com/tailwindlabs/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "js-beautify",
       "full_name": "beautify-web/js-beautify",
       "url": "https://github.com/beautify-web/js-beautify",
-      "description": "Beautifier for javascript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Beautifier for javascript ",
+      "language": "JavaScript",
+      "stars": 8923,
+      "forks": 1402,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "tj/commander.js",
       "url": "https://github.com/tj/commander.js",
       "description": "node.js command-line interfaces made easy",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27901,
+      "forks": 1736,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "axios/axios",
       "url": "https://github.com/axios/axios",
       "description": "Promise based HTTP client for the browser and node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 108520,
+      "forks": 11497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 25,
@@ -407,7 +455,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-06.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     }
   ]
 }

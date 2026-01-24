@@ -32,14 +32,16 @@
       "full_name": "twbs/bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "CSS",
-      "stars": 126022,
-      "forks": 60836,
+      "language": "MDX",
+      "stars": 173937,
+      "forks": 79164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 4,
@@ -96,14 +98,16 @@
       "full_name": "sahat/hackathon-starter",
       "url": "https://github.com/sahat/hackathon-starter",
       "description": "A boilerplate for Node.js web applications",
-      "language": "CSS",
-      "stars": 24049,
-      "forks": 4525,
+      "language": "JavaScript",
+      "stars": 35185,
+      "forks": 8193,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 8,
@@ -113,13 +117,15 @@
       "url": "https://github.com/jgthms/bulma",
       "description": "Modern CSS framework based on Flexbox",
       "language": "CSS",
-      "stars": 28262,
-      "forks": 2223,
+      "stars": 50059,
+      "forks": 3913,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 9,
@@ -128,14 +134,16 @@
       "full_name": "tailwindcss/tailwindcss",
       "url": "https://github.com/tailwindcss/tailwindcss",
       "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "CSS",
-      "stars": 5653,
-      "forks": 282,
+      "language": "TypeScript",
+      "stars": 93130,
+      "forks": 5010,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 10,
@@ -161,13 +169,15 @@
       "url": "https://github.com/necolas/normalize.css",
       "description": "A modern alternative to CSS resets",
       "language": "CSS",
-      "stars": 31682,
-      "forks": 6437,
+      "stars": 53786,
+      "forks": 10489,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 12,
@@ -191,15 +201,17 @@
       "repo_name": "nerd-fonts",
       "full_name": "ryanoasis/nerd-fonts",
       "url": "https://github.com/ryanoasis/nerd-fonts",
-      "description": "🔡 Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack",
+      "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
-      "stars": 9165,
-      "forks": 499,
+      "stars": 61370,
+      "forks": 3868,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 14,
@@ -207,15 +219,17 @@
       "repo_name": "teutonic-css",
       "full_name": "fortrabbit/teutonic-css",
       "url": "https://github.com/fortrabbit/teutonic-css",
-      "description": "A modern CSS framework — versatile, well documented.",
-      "language": "CSS",
-      "stars": 23,
-      "forks": 0,
+      "description": "A modern CSS framework — versatile, well documented. ",
+      "language": "SCSS",
+      "stars": 310,
+      "forks": 17,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 15,
@@ -288,14 +302,16 @@
       "full_name": "uikit/uikit",
       "url": "https://github.com/uikit/uikit",
       "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
-      "language": "CSS",
-      "stars": 12764,
-      "forks": 1962,
+      "language": "HTML",
+      "stars": 18539,
+      "forks": 2313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 20,
@@ -321,13 +337,15 @@
       "url": "https://github.com/ihansel/deckard",
       "description": "Large scale data visualisation in R using deck.gl",
       "language": "CSS",
-      "stars": 28,
-      "forks": 0,
+      "stars": 57,
+      "forks": 4,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 22,
@@ -352,14 +370,16 @@
       "full_name": "theme-next/hexo-theme-next",
       "url": "https://github.com/theme-next/hexo-theme-next",
       "description": "Elegant and powerful theme for Hexo.",
-      "language": "CSS",
-      "stars": 1032,
-      "forks": 308,
+      "language": "Stylus",
+      "stars": 8383,
+      "forks": 2033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 24,
@@ -384,14 +404,16 @@
       "full_name": "framework7io/framework7",
       "url": "https://github.com/framework7io/framework7",
       "description": "Full featured HTML framework for building iOS & Android apps",
-      "language": "CSS",
-      "stars": 12659,
-      "forks": 2723,
+      "language": "JavaScript",
+      "stars": 18587,
+      "forks": 3219,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     }
   ]
 }

@@ -49,13 +49,15 @@
       "url": "https://github.com/f/dom-wait",
       "description": "Complex Loader and Progress Management for Vanilla JS",
       "language": "HTML",
-      "stars": 45,
-      "forks": 0,
+      "stars": 143,
+      "forks": 4,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 5,
@@ -64,14 +66,16 @@
       "full_name": "jaywcjlove/awesome-mac",
       "url": "https://github.com/jaywcjlove/awesome-mac",
       "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
-      "language": "HTML",
-      "stars": 19889,
-      "forks": 2407,
+      "language": "JavaScript",
+      "stars": 98027,
+      "forks": 7334,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 6,
@@ -95,15 +99,17 @@
       "repo_name": "AdminLTE",
       "full_name": "almasaeed2010/AdminLTE",
       "url": "https://github.com/almasaeed2010/AdminLTE",
-      "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x",
-      "language": "HTML",
-      "stars": 24154,
-      "forks": 9286,
+      "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+      "language": "CSS",
+      "stars": 45267,
+      "forks": 18262,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 8,
@@ -145,13 +151,15 @@
       "url": "https://github.com/facebookresearch/fastText",
       "description": "Library for fast text representation and classification.",
       "language": "HTML",
-      "stars": 14945,
-      "forks": 2698,
+      "stars": 26471,
+      "forks": 4818,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 11,
@@ -161,13 +169,15 @@
       "url": "https://github.com/wesbos/JavaScript30",
       "description": "30 Day Vanilla JS Challenge",
       "language": "HTML",
-      "stars": 7943,
-      "forks": 7857,
+      "stars": 29010,
+      "forks": 41560,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 12,
@@ -175,15 +185,17 @@
       "repo_name": "portainer",
       "full_name": "portainer/portainer",
       "url": "https://github.com/portainer/portainer",
-      "description": "Simple management UI for Docker",
-      "language": "HTML",
-      "stars": 8691,
-      "forks": 855,
+      "description": "Making Docker and Kubernetes management easy.",
+      "language": "TypeScript",
+      "stars": 36294,
+      "forks": 2759,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 13,
@@ -191,15 +203,17 @@
       "repo_name": "learning-area",
       "full_name": "mdn/learning-area",
       "url": "https://github.com/mdn/learning-area",
-      "description": "Github repo for the MDN Learning Area.",
+      "description": "GitHub repo for the MDN Learning Area. ",
       "language": "HTML",
-      "stars": 1016,
-      "forks": 3281,
+      "stars": 7526,
+      "forks": 27416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 14,
@@ -209,13 +223,15 @@
       "url": "https://github.com/fengdu78/deeplearning_ai_books",
       "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
       "language": "HTML",
-      "stars": 3033,
-      "forks": 1122,
+      "stars": 20170,
+      "forks": 6105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 15,
@@ -257,13 +273,15 @@
       "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
       "description": "吴恩达老师的机器学习课程个人笔记",
       "language": "HTML",
-      "stars": 4399,
-      "forks": 1531,
+      "stars": 36156,
+      "forks": 11127,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 18,
@@ -321,13 +339,15 @@
       "url": "https://github.com/qiubaiying/qiubaiying.github.io",
       "description": "BY Blog ->",
       "language": "HTML",
-      "stars": 515,
-      "forks": 2028,
+      "stars": 3293,
+      "forks": 8273,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 22,
@@ -337,13 +357,15 @@
       "url": "https://github.com/zurb/foundation-sites",
       "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
       "language": "HTML",
-      "stars": 27506,
-      "forks": 5830,
+      "stars": 29786,
+      "forks": 5420,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 23,
@@ -367,15 +389,17 @@
       "repo_name": "intro.js",
       "full_name": "usablica/intro.js",
       "url": "https://github.com/usablica/intro.js",
-      "description": "A better way for new feature introduction and step-by-step users guide for your website and project.",
-      "language": "HTML",
-      "stars": 16938,
-      "forks": 2160,
+      "description": "Lightweight, user-friendly onboarding tour library",
+      "language": "TypeScript",
+      "stars": 23882,
+      "forks": 2574,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 25,
@@ -385,13 +409,15 @@
       "url": "https://github.com/google/material-design-lite",
       "description": "Material Design Components in HTML/CSS/JS",
       "language": "HTML",
-      "stars": 30421,
-      "forks": 5231,
+      "stars": 32229,
+      "forks": 4958,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-25.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     }
   ]
 }

@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 2,
@@ -33,13 +35,15 @@
       "url": "https://github.com/edeng23/binance-trade-bot",
       "description": "Automated cryptocurrency trading bot",
       "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "stars": 13,
+      "forks": 8,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "psf/black",
       "url": "https://github.com/psf/black",
       "description": "The uncompromising Python code formatter",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 41321,
+      "forks": 2715,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "saleor",
       "full_name": "mirumee/saleor",
       "url": "https://github.com/mirumee/saleor",
-      "description": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Saleor Core: the high performance, composable, headless commerce API.",
+      "language": "Python",
+      "stars": 22532,
+      "forks": 5904,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "detectron2",
       "full_name": "facebookresearch/detectron2",
       "url": "https://github.com/facebookresearch/detectron2",
-      "description": "Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+      "language": "Python",
+      "stars": 33987,
+      "forks": 7887,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "ckan/ckan",
       "url": "https://github.com/ckan/ckan",
       "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4938,
+      "forks": 2077,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "pytorch/vision",
       "url": "https://github.com/pytorch/vision",
       "description": "Datasets, Transforms and Models specific to Computer Vision",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 17468,
+      "forks": 7198,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "dmlc/dgl",
       "url": "https://github.com/dmlc/dgl",
       "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 14227,
+      "forks": 3058,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "backgroundremover",
       "full_name": "nadermx/backgroundremover",
       "url": "https://github.com/nadermx/backgroundremover",
-      "description": "Remove Background from Video and Images with a simple command line interface",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.",
+      "language": "Python",
+      "stars": 7733,
+      "forks": 638,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "josephmisiti/awesome-machine-learning",
       "url": "https://github.com/josephmisiti/awesome-machine-learning",
       "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 71438,
+      "forks": 15273,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "system-design-primer",
       "full_name": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python",
+      "stars": 333105,
+      "forks": 54165,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "keras-team/keras",
       "url": "https://github.com/keras-team/keras",
       "description": "Deep Learning for humans",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 63739,
+      "forks": 19678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "swisskyrepo/PayloadsAllTheThings",
       "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
       "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 74605,
+      "forks": 16531,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "espnet/espnet",
       "url": "https://github.com/espnet/espnet",
       "description": "End-to-End Speech Processing Toolkit",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 9700,
+      "forks": 2374,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "Cantonese",
       "full_name": "StepfenShawn/Cantonese",
       "url": "https://github.com/StepfenShawn/Cantonese",
-      "description": "粤语编程语言.The Cantonese programming language.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "粤语編程語言.The Cantonese programming language.",
+      "language": "Rust",
+      "stars": 1200,
+      "forks": 46,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "microsoft/nni",
       "url": "https://github.com/microsoft/nni",
       "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 14338,
+      "forks": 1852,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "Summer2022-Internships",
       "full_name": "pittcsc/Summer2022-Internships",
       "url": "https://github.com/pittcsc/Summer2022-Internships",
-      "description": "Collection of Summer 2022 tech internships!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Collection of Summer 2026 tech internships!",
+      "language": "Python",
+      "stars": 43185,
+      "forks": 3160,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "jackfrued/Python-100-Days",
       "url": "https://github.com/jackfrued/Python-100-Days",
       "description": "Python - 100天从新手到大师",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 177930,
+      "forks": 55296,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "ultralytics/yolov5",
       "url": "https://github.com/ultralytics/yolov5",
       "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 56705,
+      "forks": 17415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 393099,
+      "forks": 42072,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "rafaelpadilla/Object-Detection-Metrics",
       "url": "https://github.com/rafaelpadilla/Object-Detection-Metrics",
       "description": "Most popular metrics used to evaluate object detection algorithms.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5093,
+      "forks": 1033,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "horovod/horovod",
       "url": "https://github.com/horovod/horovod",
       "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 14654,
+      "forks": 2255,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     },
     {
       "rank": 25,
@@ -399,15 +447,17 @@
       "repo_name": "azure-sdk-for-python",
       "full_name": "Azure/azure-sdk-for-python",
       "url": "https://github.com/Azure/azure-sdk-for-python",
-      "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. ",
+      "language": "Python",
+      "stars": 5458,
+      "forks": 3221,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-07/2021-07-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:24Z"
     }
   ]
 }

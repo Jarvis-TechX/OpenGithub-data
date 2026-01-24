@@ -15,15 +15,17 @@
       "repo_name": "GHunt",
       "full_name": "mxrch/GHunt",
       "url": "https://github.com/mxrch/GHunt",
-      "description": "🕵️‍♂️ Investigate Google Accounts with emails.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🕵️‍♂️ Offensive Google framework.",
+      "language": "Python",
+      "stars": 18289,
+      "forks": 1566,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "THUMNLab/AutoGL",
       "url": "https://github.com/THUMNLab/AutoGL",
       "description": "An autoML framework & toolkit for machine learning on graphs.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1133,
+      "forks": 121,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "owid/covid-19-data",
       "url": "https://github.com/owid/covid-19-data",
       "description": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5662,
+      "forks": 3617,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "willmcgugan/rich",
       "url": "https://github.com/willmcgugan/rich",
       "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 55222,
+      "forks": 2005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "tychxn/jd-assistant",
       "url": "https://github.com/tychxn/jd-assistant",
       "description": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5287,
+      "forks": 1896,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "AI-System",
       "full_name": "microsoft/AI-System",
       "url": "https://github.com/microsoft/AI-System",
-      "description": "Resources for AI System Education",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "System for AI Education Resource.",
+      "language": "Python",
+      "stars": 4207,
+      "forks": 520,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "pythonstock/stock",
       "url": "https://github.com/pythonstock/stock",
       "description": "stock，股票系统。使用python进行开发。",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 7585,
+      "forks": 2352,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "core",
       "full_name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
-      "description": "WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 84357,
+      "forks": 36583,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "tensorflow/models",
       "url": "https://github.com/tensorflow/models",
       "description": "Models and examples built with TensorFlow",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 77694,
+      "forks": 45328,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "onelivesleft/PrettyErrors",
       "url": "https://github.com/onelivesleft/PrettyErrors",
       "description": "Prettify Python exception output to make it legible.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2883,
+      "forks": 85,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "Statistical-Learning-Methods",
       "full_name": "SleepyBag/Statistical-Learning-Methods",
       "url": "https://github.com/SleepyBag/Statistical-Learning-Methods",
-      "description": "Implement Statistical Leanring Methods, Li Hang the hard way. 李航《统计学习方法》一书的硬核 Python 实现",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Implement Statistical Learning Methods, Li Hang the hard way. 李航《统计学习方法》一书的硬核 Python 实现",
+      "language": "Python",
+      "stars": 1184,
+      "forks": 281,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "public-apis",
       "full_name": "public-apis/public-apis",
       "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs for use in software and web development.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 393099,
+      "forks": 42072,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "jrieke/traingenerator",
       "url": "https://github.com/jrieke/traingenerator",
       "description": "🧙 A web app to generate template code for machine learning",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1378,
+      "forks": 184,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "opencve",
       "full_name": "opencve/opencve",
       "url": "https://github.com/opencve/opencve",
-      "description": "CVE Alerting Platform",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Vulnerability Intelligence Platform",
+      "language": "Python",
+      "stars": 2429,
+      "forks": 298,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "spot-sdk",
       "full_name": "boston-dynamics/spot-sdk",
       "url": "https://github.com/boston-dynamics/spot-sdk",
-      "description": "Spot SDK repo",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Spot SDK repo ",
+      "language": "Python",
+      "stars": 2471,
+      "forks": 595,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "tiangolo/typer",
       "url": "https://github.com/tiangolo/typer",
       "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 18683,
+      "forks": 828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-01/2021-01-01.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:19Z"
     }
   ]
 }

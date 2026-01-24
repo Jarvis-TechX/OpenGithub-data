@@ -17,13 +17,15 @@
       "url": "https://github.com/daneden/animate.css",
       "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
       "language": "CSS",
-      "stars": 64749,
-      "forks": 13811,
+      "stars": 82602,
+      "forks": 16114,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -65,13 +67,15 @@
       "url": "https://github.com/jgthms/bulma",
       "description": "Modern CSS framework based on Flexbox",
       "language": "CSS",
-      "stars": 38494,
-      "forks": 3239,
+      "stars": 50059,
+      "forks": 3913,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -80,14 +84,16 @@
       "full_name": "cobidev/simplefolio",
       "url": "https://github.com/cobidev/simplefolio",
       "description": "⚡️ A minimal portfolio template for Developers",
-      "language": "CSS",
-      "stars": 1349,
-      "forks": 493,
+      "language": "SCSS",
+      "stars": 14084,
+      "forks": 6063,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -111,15 +117,17 @@
       "repo_name": "material-design-icons",
       "full_name": "google/material-design-icons",
       "url": "https://github.com/google/material-design-icons",
-      "description": "Material Design icons by Google",
+      "description": "Material Design icons by Google (Material Symbols)",
       "language": "CSS",
-      "stars": 39667,
-      "forks": 8151,
+      "stars": 52787,
+      "forks": 9736,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 8,
@@ -143,15 +151,17 @@
       "repo_name": "minimal-mistakes",
       "full_name": "mmistakes/minimal-mistakes",
       "url": "https://github.com/mmistakes/minimal-mistakes",
-      "description": "📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.",
-      "language": "CSS",
-      "stars": 6151,
-      "forks": 10380,
+      "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.",
+      "language": "HTML",
+      "stars": 13374,
+      "forks": 27356,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -160,14 +170,16 @@
       "full_name": "IanLunn/Hover",
       "url": "https://github.com/IanLunn/Hover",
       "description": "A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.",
-      "language": "CSS",
-      "stars": 22391,
-      "forks": 4880,
+      "language": "SCSS",
+      "stars": 29406,
+      "forks": 5698,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 11,
@@ -192,14 +204,16 @@
       "full_name": "uikit/uikit",
       "url": "https://github.com/uikit/uikit",
       "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
-      "language": "CSS",
-      "stars": 15378,
-      "forks": 2170,
+      "language": "HTML",
+      "stars": 18539,
+      "forks": 2313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -215,7 +229,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -241,13 +257,15 @@
       "url": "https://github.com/LambdaSchool/github-usercard",
       "description": "Create a card based on the data coming back from the Github API.",
       "language": "CSS",
-      "stars": 0,
-      "forks": 1641,
+      "stars": 19,
+      "forks": 3675,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -287,15 +305,17 @@
       "repo_name": "docker-curriculum",
       "full_name": "prakhar1989/docker-curriculum",
       "url": "https://github.com/prakhar1989/docker-curriculum",
-      "description": "🐬 A comprehensive tutorial on getting started with Docker!",
-      "language": "CSS",
-      "stars": 3325,
-      "forks": 1331,
+      "description": ":dolphin: A comprehensive tutorial on getting started with Docker!",
+      "language": "SCSS",
+      "stars": 6001,
+      "forks": 2218,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 19,

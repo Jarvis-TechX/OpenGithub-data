@@ -47,15 +47,17 @@
       "repo_name": "spark-crowd",
       "full_name": "enriquegrodrigo/spark-crowd",
       "url": "https://github.com/enriquegrodrigo/spark-crowd",
-      "description": "A package for dealing with crowdsourced big data.",
+      "description": "A package for dealing with crowdsourced big data. Website: https://enriquegrodrigo.github.io/spark-crowd/",
       "language": "HTML",
-      "stars": 37,
-      "forks": 0,
+      "stars": 64,
+      "forks": 7,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 4,
@@ -64,14 +66,16 @@
       "full_name": "sebastianruder/NLP-progress",
       "url": "https://github.com/sebastianruder/NLP-progress",
       "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
-      "language": "HTML",
-      "stars": 7252,
-      "forks": 1046,
+      "language": "Python",
+      "stars": 22978,
+      "forks": 3620,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 5,
@@ -97,13 +101,15 @@
       "url": "https://github.com/fengdu78/deeplearning_ai_books",
       "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
       "language": "HTML",
-      "stars": 4045,
-      "forks": 1572,
+      "stars": 20170,
+      "forks": 6105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 7,
@@ -144,14 +150,16 @@
       "full_name": "reduxjs/react-redux",
       "url": "https://github.com/reduxjs/react-redux",
       "description": "Official React bindings for Redux",
-      "language": "HTML",
-      "stars": 14604,
-      "forks": 2309,
+      "language": "TypeScript",
+      "stars": 23518,
+      "forks": 3344,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 10,
@@ -177,13 +185,15 @@
       "url": "https://github.com/facebookresearch/fastText",
       "description": "Library for fast text representation and classification.",
       "language": "HTML",
-      "stars": 16361,
-      "forks": 3038,
+      "stars": 26471,
+      "forks": 4818,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 12,
@@ -223,15 +233,17 @@
       "repo_name": "Publii",
       "full_name": "GetPublii/Publii",
       "url": "https://github.com/GetPublii/Publii",
-      "description": "Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.",
+      "description": "The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.",
       "language": "HTML",
-      "stars": 1293,
-      "forks": 52,
+      "stars": 7052,
+      "forks": 457,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 15,
@@ -256,14 +268,16 @@
       "full_name": "simple-icons/simple-icons",
       "url": "https://github.com/simple-icons/simple-icons",
       "description": "SVG icons for popular brands",
-      "language": "HTML",
-      "stars": 6750,
-      "forks": 766,
+      "language": "JavaScript",
+      "stars": 24235,
+      "forks": 3022,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 17,
@@ -273,13 +287,15 @@
       "url": "https://github.com/Polymer/polymer",
       "description": "Our original Web Component library.",
       "language": "HTML",
-      "stars": 20419,
-      "forks": 1985,
+      "stars": 22072,
+      "forks": 1990,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 18,
@@ -303,15 +319,17 @@
       "repo_name": "portainer",
       "full_name": "portainer/portainer",
       "url": "https://github.com/portainer/portainer",
-      "description": "Simple management UI for Docker",
-      "language": "HTML",
-      "stars": 9942,
-      "forks": 955,
+      "description": "Making Docker and Kubernetes management easy.",
+      "language": "TypeScript",
+      "stars": 36294,
+      "forks": 2759,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 20,
@@ -351,15 +369,17 @@
       "repo_name": "ecma262",
       "full_name": "tc39/ecma262",
       "url": "https://github.com/tc39/ecma262",
-      "description": "Status, process, and documents for ECMA262",
+      "description": "Status, process, and documents for ECMA-262",
       "language": "HTML",
-      "stars": 7407,
-      "forks": 537,
+      "stars": 15573,
+      "forks": 1388,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 23,
@@ -368,14 +388,16 @@
       "full_name": "GetStream/Winds",
       "url": "https://github.com/GetStream/Winds",
       "description": "A Beautiful Open Source RSS & Podcast App Powered by Getstream.io",
-      "language": "HTML",
-      "stars": 6266,
-      "forks": 399,
+      "language": "JavaScript",
+      "stars": 9347,
+      "forks": 637,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 24,
@@ -383,15 +405,17 @@
       "repo_name": "capacitor",
       "full_name": "ionic-team/capacitor",
       "url": "https://github.com/ionic-team/capacitor",
-      "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️",
-      "language": "HTML",
-      "stars": 1996,
-      "forks": 132,
+      "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
+      "language": "TypeScript",
+      "stars": 14824,
+      "forks": 1141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 25,
@@ -400,14 +424,16 @@
       "full_name": "fent/node-ytdl-core",
       "url": "https://github.com/fent/node-ytdl-core",
       "description": "YouTube video downloader in javascript.",
-      "language": "HTML",
-      "stars": 872,
-      "forks": 152,
+      "language": "JavaScript",
+      "stars": 4725,
+      "forks": 860,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md"
+      "source_path": "/tmp/github-trending-backup/2018/11/2018-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     }
   ]
 }

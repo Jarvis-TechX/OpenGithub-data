@@ -16,14 +16,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "naptha/tesseract.js",
       "url": "https://github.com/naptha/tesseract.js",
       "description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 37779,
+      "forks": 2358,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "digitalocean/nginxconfig.io",
       "url": "https://github.com/digitalocean/nginxconfig.io",
       "description": "⚙️ NGINX config generator on steroids 💉",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 28314,
+      "forks": 2073,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "umami",
       "full_name": "mikecao/umami",
       "url": "https://github.com/mikecao/umami",
-      "description": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.",
+      "language": "TypeScript",
+      "stars": 34867,
+      "forks": 6324,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "mifi/lossless-cut",
       "url": "https://github.com/mifi/lossless-cut",
       "description": "The swiss army knife of lossless video/audio editing",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 37468,
+      "forks": 1824,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
       "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
       "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30690,
+      "forks": 2564,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "timqian/chinese-independent-blogs",
       "url": "https://github.com/timqian/chinese-independent-blogs",
       "description": "中文独立博客列表",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 22644,
+      "forks": 2621,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "YMFE/yapi",
       "url": "https://github.com/YMFE/yapi",
       "description": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27764,
+      "forks": 4846,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "SortableJS/vue.draggable.next",
       "url": "https://github.com/SortableJS/vue.draggable.next",
       "description": "Vue 3 compatible drag-and-drop component based on Sortable.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4468,
+      "forks": 564,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "brix/crypto-js",
       "url": "https://github.com/brix/crypto-js",
       "description": "JavaScript library of crypto standards.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 16375,
+      "forks": 2502,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "WebDevSimplified/youtube-video-player-clone",
       "url": "https://github.com/WebDevSimplified/youtube-video-player-clone",
       "description": "* [https://github.com/rolling-scopes-school/tasks](rolling-scopes-school/tasks)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 226,
+      "forks": 137,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "evrone/postcss-px-to-viewport",
       "url": "https://github.com/evrone/postcss-px-to-viewport",
       "description": "A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3172,
+      "forks": 414,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "soyHenry/Prep-Course",
       "url": "https://github.com/soyHenry/Prep-Course",
       "description": "* [https://github.com/OAI/OpenAPI-Specification](OAI/OpenAPI-Specification) The OpenAPI Specification Repository",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 528,
+      "forks": 20319,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "d3",
       "full_name": "d3/d3",
       "url": "https://github.com/d3/d3",
-      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+      "language": "Shell",
+      "stars": 112204,
+      "forks": 22835,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "iamkun/dayjs",
       "url": "https://github.com/iamkun/dayjs",
       "description": "⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 48518,
+      "forks": 2410,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "sondnpt00343/tiktok-ui",
       "url": "https://github.com/sondnpt00343/tiktok-ui",
       "description": "Tiktok Clone, dự án thực hành trong khóa ReactJS tại F8: https://fullstack.edu.vn/courses/reactjs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1064,
+      "forks": 125,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "ajaxorg/ace",
       "url": "https://github.com/ajaxorg/ace",
       "description": "Ace (Ajax.org Cloud9 Editor)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 27126,
+      "forks": 5282,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "webrtc/samples",
       "url": "https://github.com/webrtc/samples",
       "description": "WebRTC Web demos and samples",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 14563,
+      "forks": 5745,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "pedroslopez/whatsapp-web.js",
       "url": "https://github.com/pedroslopez/whatsapp-web.js",
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20631,
+      "forks": 4780,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "typescript-cheatsheets/react",
       "url": "https://github.com/typescript-cheatsheets/react",
       "description": "Cheatsheets for experienced React developers getting started with TypeScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 46905,
+      "forks": 4274,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
       "description": "A framework for building native applications using React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 125168,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-05/2022-05-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     }
   ]
 }

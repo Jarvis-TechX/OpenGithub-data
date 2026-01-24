@@ -15,15 +15,17 @@
       "repo_name": "flutter-in-action",
       "full_name": "flutterchina/flutter-in-action",
       "url": "https://github.com/flutterchina/flutter-in-action",
-      "description": "《Flutter实战》电子书",
-      "language": "HTML",
-      "stars": 1419,
-      "forks": 223,
+      "description": "《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。",
+      "language": "JavaScript",
+      "stars": 8639,
+      "forks": 1678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 2,
@@ -79,15 +81,17 @@
       "repo_name": "Iosevka",
       "full_name": "be5invis/Iosevka",
       "url": "https://github.com/be5invis/Iosevka",
-      "description": "Slender typeface for code, from code.",
-      "language": "HTML",
-      "stars": 6934,
-      "forks": 218,
+      "description": "Versatile typeface for code, from code.",
+      "language": "JavaScript",
+      "stars": 21598,
+      "forks": 649,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 6,
@@ -113,13 +117,15 @@
       "url": "https://github.com/wesbos/JavaScript30",
       "description": "30 Day Vanilla JS Challenge",
       "language": "HTML",
-      "stars": 9403,
-      "forks": 9754,
+      "stars": 29010,
+      "forks": 41560,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 8,
@@ -175,15 +181,17 @@
       "repo_name": "owasp-mstg",
       "full_name": "OWASP/owasp-mstg",
       "url": "https://github.com/OWASP/owasp-mstg",
-      "description": "The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering.",
-      "language": "HTML",
-      "stars": 3632,
-      "forks": 664,
+      "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
+      "language": "JavaScript",
+      "stars": 12672,
+      "forks": 2646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 12,
@@ -223,15 +231,17 @@
       "repo_name": "portainer",
       "full_name": "portainer/portainer",
       "url": "https://github.com/portainer/portainer",
-      "description": "Simple management UI for Docker",
-      "language": "HTML",
-      "stars": 10580,
-      "forks": 1006,
+      "description": "Making Docker and Kubernetes management easy.",
+      "language": "TypeScript",
+      "stars": 36294,
+      "forks": 2759,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 15,
@@ -241,13 +251,15 @@
       "url": "https://github.com/facebookresearch/fastText",
       "description": "Library for fast text representation and classification.",
       "language": "HTML",
-      "stars": 17274,
-      "forks": 3229,
+      "stars": 26471,
+      "forks": 4818,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 16,
@@ -289,13 +301,15 @@
       "url": "https://github.com/DankNeon/vscode",
       "description": "A danker, more neon theme for VS Code",
       "language": "HTML",
-      "stars": 45,
-      "forks": 0,
+      "stars": 69,
+      "forks": 5,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 19,
@@ -319,15 +333,17 @@
       "repo_name": "fonts",
       "full_name": "google/fonts",
       "url": "https://github.com/google/fonts",
-      "description": "Font files available from Google Fonts",
+      "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
       "language": "HTML",
-      "stars": 11684,
-      "forks": 1835,
+      "stars": 19629,
+      "forks": 2829,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 21,
@@ -353,13 +369,15 @@
       "url": "https://github.com/phil-opp/blog_os",
       "description": "Writing an OS in Rust",
       "language": "HTML",
-      "stars": 2383,
-      "forks": 211,
+      "stars": 17237,
+      "forks": 1188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     },
     {
       "rank": 23,
@@ -399,15 +417,17 @@
       "repo_name": "ecma262",
       "full_name": "tc39/ecma262",
       "url": "https://github.com/tc39/ecma262",
-      "description": "Status, process, and documents for ECMA262",
+      "description": "Status, process, and documents for ECMA-262",
       "language": "HTML",
-      "stars": 7748,
-      "forks": 576,
+      "stars": 15573,
+      "forks": 1388,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md"
+      "source_path": "/tmp/github-trending-backup/2019/01/2019-01-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:03Z"
     }
   ]
 }

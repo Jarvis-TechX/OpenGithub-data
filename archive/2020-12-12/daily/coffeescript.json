@@ -16,14 +16,16 @@
       "full_name": "Leonidas-from-XIV/node-xml2js",
       "url": "https://github.com/Leonidas-from-XIV/node-xml2js",
       "description": "XML to JavaScript object converter.",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 4973,
+      "forks": 609,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-12.md"
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "Gutenberg-Technology/gt-unsafe-filter",
       "url": "https://github.com/Gutenberg-Technology/gt-unsafe-filter",
       "description": "Filter to be used with ng-bind-html to prevent AngularJS unsafe warning",
-      "language": "coffeescript",
+      "language": "CoffeeScript",
       "stars": 0,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-12.md"
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-12.md"
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     }
   ]
 }

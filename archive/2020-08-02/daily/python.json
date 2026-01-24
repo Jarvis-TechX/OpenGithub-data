@@ -16,14 +16,16 @@
       "full_name": "Dod-o/Statistical-Learning-Method_Code",
       "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
       "description": "手写实现李航《统计学习方法》书中全部算法",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 11580,
+      "forks": 2901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "haystack",
       "full_name": "deepset-ai/haystack",
       "url": "https://github.com/deepset-ai/haystack",
-      "description": "🔍 Transformers at scale for question answering & neural search. Using NLP via a modular Retriever-Reader-Pipeline. Supporting DPR, Elasticsearch, HuggingFace's Modelhub...",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+      "language": "MDX",
+      "stars": 23957,
+      "forks": 2566,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 217107,
+      "forks": 49988,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "Rapptz/discord.py",
       "url": "https://github.com/Rapptz/discord.py",
       "description": "An API wrapper for Discord written in Python.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 15892,
+      "forks": 3922,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "Ice-Cirno/HoshinoBot",
       "url": "https://github.com/Ice-Cirno/HoshinoBot",
       "description": "A qqbot for Princess Connect Re:Dive (and other usage :)",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1500,
+      "forks": 413,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "liiight/notifiers",
       "url": "https://github.com/liiight/notifiers",
       "description": "The easy way to send notifications",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2728,
+      "forks": 107,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "sujaysathya/bunk_bot",
       "url": "https://github.com/sujaysathya/bunk_bot",
       "description": "* [https://github.com/m4ll0k/Bug-Bounty-Toolz](m4ll0k/Bug-Bounty-Toolz) BBT - Bug Bounty Tools",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 362,
+      "forks": 55,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "awesome-python",
       "full_name": "vinta/awesome-python",
       "url": "https://github.com/vinta/awesome-python",
-      "description": "A curated list of awesome Python frameworks, libraries, software and resources",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+      "language": "Python",
+      "stars": 279551,
+      "forks": 27113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "hummingbot",
       "full_name": "CoinAlpha/hummingbot",
       "url": "https://github.com/CoinAlpha/hummingbot",
-      "description": "Hummingbot: a client for crypto market making",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain",
+      "language": "Python",
+      "stars": 202,
+      "forks": 93,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "ranger/ranger",
       "url": "https://github.com/ranger/ranger",
       "description": "A VIM-inspired filemanager for the console",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 16806,
+      "forks": 921,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "taesungp/contrastive-unpaired-translation",
       "url": "https://github.com/taesungp/contrastive-unpaired-translation",
       "description": "Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan (ECCV 2020, in PyTorch)",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2469,
+      "forks": 445,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "quantopian/zipline",
       "url": "https://github.com/quantopian/zipline",
       "description": "Zipline, a Pythonic Algorithmic Trading Library",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 19357,
+      "forks": 4937,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "facebookresearch/TransCoder",
       "url": "https://github.com/facebookresearch/TransCoder",
       "description": "Public release of the TransCoder research project https://arxiv.org/pdf/2006.03511.pdf",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1725,
+      "forks": 261,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 14,
@@ -231,7 +257,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "pyrogram",
       "full_name": "pyrogram/pyrogram",
       "url": "https://github.com/pyrogram/pyrogram",
-      "description": "Telegram MTProto API Client Library and Framework for Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+      "language": "Python",
+      "stars": 4596,
+      "forks": 1563,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "SystemErrorWang/White-box-Cartoonization",
       "url": "https://github.com/SystemErrorWang/White-box-Cartoonization",
       "description": "Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3994,
+      "forks": 740,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "ohld/igbot",
       "url": "https://github.com/ohld/igbot",
       "description": "🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4831,
+      "forks": 1442,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "core",
       "full_name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 84357,
+      "forks": 36583,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "corpnewt/ProperTree",
       "url": "https://github.com/corpnewt/ProperTree",
       "description": "Cross platform GUI plist editor written in python.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2954,
+      "forks": 449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "keras-team/keras",
       "url": "https://github.com/keras-team/keras",
       "description": "Deep Learning for humans",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 63739,
+      "forks": 19678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "Kaggle/kaggle-api",
       "url": "https://github.com/Kaggle/kaggle-api",
       "description": "Official Kaggle API",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 7105,
+      "forks": 1300,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "QUANTAXIS",
       "full_name": "QUANTAXIS/QUANTAXIS",
       "url": "https://github.com/QUANTAXIS/QUANTAXIS",
-      "description": "QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案",
+      "language": "Python",
+      "stars": 9822,
+      "forks": 3253,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-08/2020-08-02.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     }
   ]
 }

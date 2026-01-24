@@ -15,15 +15,17 @@
       "repo_name": "Auto-Photoshop-StableDiffusion-Plugin",
       "full_name": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
       "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
-      "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.",
+      "language": "TypeScript",
+      "stars": 7214,
+      "forks": 529,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "ed-roh/react-admin-dashboard",
       "url": "https://github.com/ed-roh/react-admin-dashboard",
       "description": "Complete React Admin Dashboard",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1596,
+      "forks": 1463,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "tweetGPT",
       "full_name": "yaroslav-n/tweetGPT",
       "url": "https://github.com/yaroslav-n/tweetGPT",
-      "description": "TweetGPT is a chrome extension that generates tweets and replies using chatGPT",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Chrome extension that generates tweets and replies using chatGPT",
+      "language": "TypeScript",
+      "stars": 668,
+      "forks": 113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "module-federation/module-federation-examples",
       "url": "https://github.com/module-federation/module-federation-examples",
       "description": "Implementation examples of module federation , by the creators of module federation",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6083,
+      "forks": 1836,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "ethereumbook",
       "full_name": "ethereumbook/ethereumbook",
       "url": "https://github.com/ethereumbook/ethereumbook",
-      "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+      "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 21407,
+      "forks": 5217,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "exceljs/exceljs",
       "url": "https://github.com/exceljs/exceljs",
       "description": "Excel Workbook Manager",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 15079,
+      "forks": 1945,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "vercel/next-learn",
       "url": "https://github.com/vercel/next-learn",
       "description": "Learn Next.js Starter Code",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4644,
+      "forks": 2221,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "atlassian/react-beautiful-dnd",
       "url": "https://github.com/atlassian/react-beautiful-dnd",
       "description": "Beautiful and accessible drag and drop for lists with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 34046,
+      "forks": 2738,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "ckeditor/ckeditor5",
       "url": "https://github.com/ckeditor/ckeditor5",
       "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rich Text Format",
+      "stars": 10360,
+      "forks": 3759,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "cypress-io/cypress",
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 49531,
+      "forks": 3393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "nodejs/undici",
       "url": "https://github.com/nodejs/undici",
       "description": "An HTTP/1.1 client, written from scratch for Node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7385,
+      "forks": 691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "facebook/create-react-app",
       "url": "https://github.com/facebook/create-react-app",
       "description": "Set up a modern web app by running one command.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 103973,
+      "forks": 27144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "select2/select2",
       "url": "https://github.com/select2/select2",
       "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 25981,
+      "forks": 6205,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "supermarkt/checkjebon",
       "url": "https://github.com/supermarkt/checkjebon",
       "description": "Dutch supermarket prices and comparison tool",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 207,
+      "forks": 25,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "arcxingye/EatKano",
       "url": "https://github.com/arcxingye/EatKano",
       "description": "H5 Games",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1845,
+      "forks": 3634,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "john-smilga/node-express-course",
       "url": "https://github.com/john-smilga/node-express-course",
       "description": "* [https://github.com/GitSquared/edex-ui](GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3843,
+      "forks": 4075,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "landscape",
       "full_name": "cncf/landscape",
       "url": "https://github.com/cncf/landscape",
-      "description": "🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.",
+      "description": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 9801,
+      "forks": 2117,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "hagopj13/node-express-boilerplate",
       "url": "https://github.com/hagopj13/node-express-boilerplate",
       "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7581,
+      "forks": 2235,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "MuhammedKalkan/OpenLens",
       "url": "https://github.com/MuhammedKalkan/OpenLens",
       "description": "OpenLens Binary Build Repository",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4362,
+      "forks": 313,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "jhu-ep-coursera/fullstack-course4",
       "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
       "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10949,
+      "forks": 11761,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-24.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     }
   ]
 }

@@ -17,13 +17,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 4808,
-      "forks": 272,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 2,
@@ -112,14 +114,16 @@
       "full_name": "react-native-community/react-native-device-info",
       "url": "https://github.com/react-native-community/react-native-device-info",
       "description": "Device Information for React Native iOS and Android",
-      "language": "Objective-C",
-      "stars": 3727,
-      "forks": 814,
+      "language": "TypeScript",
+      "stars": 6658,
+      "forks": 1472,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 8,
@@ -161,13 +165,15 @@
       "url": "https://github.com/lvpengwei/LVThemeKit",
       "description": "App 多区域皮肤 UIKit Category",
       "language": "Objective-C",
-      "stars": 33,
-      "forks": 0,
+      "stars": 77,
+      "forks": 3,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 11,
@@ -193,13 +199,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 2946,
-      "forks": 544,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 13,
@@ -209,13 +217,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 32064,
-      "forks": 9743,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 14,
@@ -223,15 +233,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 5856,
-      "forks": 612,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 15,
@@ -289,13 +301,15 @@
       "url": "https://github.com/realm/realm-cocoa",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
-      "stars": 13090,
-      "forks": 1685,
+      "stars": 16587,
+      "forks": 2213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 19,
@@ -321,13 +335,15 @@
       "url": "https://github.com/Cenmrev/V2RayX",
       "description": "GUI for v2ray-core on macOS",
       "language": "Objective-C",
-      "stars": 2231,
-      "forks": 349,
+      "stars": 7672,
+      "forks": 1126,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 21,
@@ -352,14 +368,16 @@
       "full_name": "react-native-community/react-native-webview",
       "url": "https://github.com/react-native-community/react-native-webview",
       "description": "React Native Cross-Platform WebView",
-      "language": "Objective-C",
-      "stars": 918,
-      "forks": 293,
+      "language": "TypeScript",
+      "stars": 7078,
+      "forks": 3148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 23,

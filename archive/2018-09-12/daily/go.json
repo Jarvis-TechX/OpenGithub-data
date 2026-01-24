@@ -16,14 +16,16 @@
       "full_name": "GoogleCloudPlatform/open-match",
       "url": "https://github.com/GoogleCloudPlatform/open-match",
       "description": "Flexible, extensible, and scalable video game matchmaking.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 3370,
+      "forks": 351,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "xmge/gonote",
       "url": "https://github.com/xmge/gonote",
       "description": "欢迎各位gopher一起来完善这份笔记，让更多的人能够了解go，学习go，使用go，热爱go.👍",
-      "language": "go",
-      "stars": 0,
+      "language": "Go",
+      "stars": 7,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "tidb",
       "full_name": "pingcap/tidb",
       "url": "https://github.com/pingcap/tidb",
-      "description": "TiDB is a distributed HTAP database compatible with the MySQL protocol",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+      "language": "Go",
+      "stars": 39640,
+      "forks": 6100,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 120018,
+      "forks": 42265,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "golang/go",
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 132083,
+      "forks": 18763,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "istio/istio",
       "url": "https://github.com/istio/istio",
       "description": "Connect, secure, control, and observe services.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 37855,
+      "forks": 8221,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "prometheus/prometheus",
       "url": "https://github.com/prometheus/prometheus",
       "description": "The Prometheus monitoring system and time series database.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 62344,
+      "forks": 10110,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "gohugoio/hugo",
       "url": "https://github.com/gohugoio/hugo",
       "description": "The world’s fastest framework for building websites.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 86213,
+      "forks": 8181,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "gin",
       "full_name": "gin-gonic/gin",
       "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": 87769,
+      "forks": 8548,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "github/smimesign",
       "url": "https://github.com/github/smimesign",
       "description": "An S/MIME signing utility for use with Git",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 640,
+      "forks": 152,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "fatedier/frp",
       "url": "https://github.com/fatedier/frp",
       "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 103782,
+      "forks": 14819,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "avelino/awesome-go",
       "url": "https://github.com/avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 163256,
+      "forks": 12923,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "go-ethereum",
       "full_name": "ethereum/go-ethereum",
       "url": "https://github.com/ethereum/go-ethereum",
-      "description": "Official Go implementation of the Ethereum protocol",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Go implementation of the Ethereum protocol",
+      "language": "Go",
+      "stars": 50714,
+      "forks": 21740,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "jesseduffield/lazygit",
       "url": "https://github.com/jesseduffield/lazygit",
       "description": "simple terminal UI for git commands",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 71043,
+      "forks": 2452,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "helm/helm",
       "url": "https://github.com/helm/helm",
       "description": "The Kubernetes Package Manager",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 29329,
+      "forks": 7466,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "TruthHun/DocHub",
       "url": "https://github.com/TruthHun/DocHub",
       "description": "参考百度文库，使用Beego（Golang）开发的开源文库系统",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 2968,
+      "forks": 745,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "etcd-io/etcd",
       "url": "https://github.com/etcd-io/etcd",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 51389,
+      "forks": 10294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "rgburke/grv",
       "url": "https://github.com/rgburke/grv",
       "description": "GRV is a terminal interface for viewing git repositories",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 4088,
+      "forks": 98,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "go-kit/kit",
       "url": "https://github.com/go-kit/kit",
       "description": "A standard library for microservices.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 27608,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "jessfraz/bpfd",
       "url": "https://github.com/jessfraz/bpfd",
       "description": "Framework for running BPF programs with rules on Linux as a daemon. Container aware.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 483,
+      "forks": 40,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "kgretzky/evilginx2",
       "url": "https://github.com/kgretzky/evilginx2",
       "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 14498,
+      "forks": 2541,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "tsenart/vegeta",
       "url": "https://github.com/tsenart/vegeta",
       "description": "HTTP load testing tool and library. It's over 9000!",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 24863,
+      "forks": 1414,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "v2ray/v2ray-core",
       "url": "https://github.com/v2ray/v2ray-core",
       "description": "A platform for building proxies to bypass network restrictions.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 46882,
+      "forks": 8901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md"
+      "source_path": "/tmp/github_trending_archive/archive/2018-09/2018-09-12.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     }
   ]
 }

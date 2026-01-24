@@ -16,14 +16,16 @@
       "full_name": "willowtreeapps/Hyperion-iOS",
       "url": "https://github.com/willowtreeapps/Hyperion-iOS",
       "description": "In-app design review tool to inspect measurements, attributes, and animations.",
-      "language": "objective-c",
-      "stars": 1021,
-      "forks": 21,
+      "language": "Objective-C",
+      "stars": 2163,
+      "forks": 91,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:54Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "Halfrost-Field",
       "full_name": "halfrost/Halfrost-Field",
       "url": "https://github.com/halfrost/Halfrost-Field",
-      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
-      "language": "objective-c",
-      "stars": 1015,
-      "forks": 200,
+      "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Go",
+      "stars": 13290,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:54Z"
     },
     {
       "rank": 3,
@@ -63,15 +67,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "Expo iOS/Android Client",
-      "language": "objective-c",
-      "stars": 2137,
-      "forks": 168,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:54Z"
     },
     {
       "rank": 5,
@@ -144,14 +150,16 @@
       "full_name": "Instagram/IGListKit",
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
-      "language": "objective-c",
-      "stars": 7268,
-      "forks": 713,
+      "language": "Objective-C",
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:54Z"
     },
     {
       "rank": 10,
@@ -208,14 +216,16 @@
       "full_name": "Minecodecraft/TCP-IP-Model-Simulation",
       "url": "https://github.com/Minecodecraft/TCP-IP-Model-Simulation",
       "description": "Computer Network: TCP/IP Five-Level Model Simulation Teaching Tool, based on Mac OS X",
-      "language": "objective-c",
-      "stars": 61,
-      "forks": 0,
+      "language": "Objective-C",
+      "stars": 65,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:54Z"
     },
     {
       "rank": 14,
@@ -279,7 +289,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:54Z"
     },
     {
       "rank": 18,
@@ -288,14 +300,16 @@
       "full_name": "sequelpro/sequelpro",
       "url": "https://github.com/sequelpro/sequelpro",
       "description": "MySQL/MariaDB database management for macOS",
-      "language": "objective-c",
-      "stars": 3965,
-      "forks": 371,
+      "language": "Objective-C",
+      "stars": 9205,
+      "forks": 840,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:54Z"
     },
     {
       "rank": 19,
@@ -399,15 +413,17 @@
       "repo_name": "XHLaunchAd",
       "full_name": "CoderZhuXH/XHLaunchAd",
       "url": "https://github.com/CoderZhuXH/XHLaunchAd",
-      "description": "The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.",
-      "language": "objective-c",
-      "stars": 1658,
-      "forks": 414,
+      "description": "🔥The screen opening advertising solutions - 开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad. 【 Github下载不了/下载慢 可以访问国内下载地址: https://gitee.com/CoderZhuXH/XHLaunchAd】",
+      "language": "Objective-C",
+      "stars": 3697,
+      "forks": 742,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md"
+      "source_path": "/tmp/github-trending-backup/2017/12/2017-12-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:54Z"
     }
   ]
 }

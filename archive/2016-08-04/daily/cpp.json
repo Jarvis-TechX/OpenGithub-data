@@ -16,14 +16,16 @@
       "full_name": "facebookresearch/fastText",
       "url": "https://github.com/facebookresearch/fastText",
       "description": "Library for fast text representation and classification.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 26471,
+      "forks": 4818,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "tensorflow",
       "full_name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
-      "description": "Computation using data flow graphs for scalable machine learning",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 193461,
+      "forks": 75203,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "NodeRT/NodeRT",
       "url": "https://github.com/NodeRT/NodeRT",
       "description": "Winrt APIs-node.js modules generator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 672,
+      "forks": 66,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "apple/swift",
       "url": "https://github.com/apple/swift",
       "description": "The Swift Programming Language",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 69599,
+      "forks": 10646,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "electron",
       "full_name": "electron/electron",
       "url": "https://github.com/electron/electron",
-      "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 119872,
+      "forks": 16947,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "google/protobuf",
       "url": "https://github.com/google/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70363,
+      "forks": 16009,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "fabioarnold/TwoTriangles",
       "url": "https://github.com/fabioarnold/TwoTriangles",
       "description": "C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C",
+      "stars": 96,
+      "forks": 6,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "BVLC/caffe",
       "url": "https://github.com/BVLC/caffe",
       "description": "Caffe: a fast open framework for deep learning.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 34825,
+      "forks": 18573,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "iOS-Source-Code-Analyze",
       "full_name": "Draveness/iOS-Source-Code-Analyze",
       "url": "https://github.com/Draveness/iOS-Source-Code-Analyze",
-      "description": "iOS",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Draven's Blog",
+      "language": "Objective-C",
+      "stars": 8114,
+      "forks": 1963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 85865,
+      "forks": 56499,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "rethinkdb/rethinkdb",
       "url": "https://github.com/rethinkdb/rethinkdb",
       "description": "The open-source database for the realtime web.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 26994,
+      "forks": 1853,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "kostya/benchmarks",
       "url": "https://github.com/kostya/benchmarks",
       "description": "Some benchmarks of different languages",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Makefile",
+      "stars": 2907,
+      "forks": 262,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 14,
@@ -231,7 +257,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "xgboost",
       "full_name": "dmlc/xgboost",
       "url": "https://github.com/dmlc/xgboost",
-      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "language": "C++",
+      "stars": 27897,
+      "forks": 8832,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "dmlc/mxnet",
       "url": "https://github.com/dmlc/mxnet",
       "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 20839,
+      "forks": 6739,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "nw.js",
       "full_name": "nwjs/nw.js",
       "url": "https://github.com/nwjs/nw.js",
-      "description": "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.",
+      "language": "JavaScript",
+      "stars": 41615,
+      "forks": 3872,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87749,
+      "forks": 38772,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "android-ndk",
       "full_name": "googlesamples/android-ndk",
       "url": "https://github.com/googlesamples/android-ndk",
-      "description": "Android NDK samples",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Android NDK samples with Android Studio",
+      "language": "C++",
+      "stars": 10456,
+      "forks": 4254,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "facebook/Surround360",
       "url": "https://github.com/facebook/Surround360",
       "description": "Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 2182,
+      "forks": 583,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "models",
       "full_name": "tensorflow/models",
       "url": "https://github.com/tensorflow/models",
-      "description": "Models built with TensorFlow",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Models and examples built with TensorFlow",
+      "language": "Python",
+      "stars": 77694,
+      "forks": 45328,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "cocos2d-x",
       "full_name": "cocos2d/cocos2d-x",
       "url": "https://github.com/cocos2d/cocos2d-x",
-      "description": "cocos2d-x for C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x.",
+      "language": "C++",
+      "stars": 18916,
+      "forks": 7088,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "uglide/RedisDesktopManager",
       "url": "https://github.com/uglide/RedisDesktopManager",
       "description": "Cross-platform GUI management tool for Redis",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 23228,
+      "forks": 3258,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "google/leveldb",
       "url": "https://github.com/google/leveldb",
       "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 38759,
+      "forks": 8151,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md"
+      "source_path": "/tmp/trending_archive/2016/2016-08/2016-08-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     }
   ]
 }

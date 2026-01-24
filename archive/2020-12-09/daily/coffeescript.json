@@ -16,14 +16,16 @@
       "full_name": "angular-ui/angular-google-maps",
       "url": "https://github.com/angular-ui/angular-google-maps",
       "description": "AngularJS directives for the Google Maps Javascript API",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 2516,
+      "forks": 1063,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-09.md"
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     }
   ]
 }

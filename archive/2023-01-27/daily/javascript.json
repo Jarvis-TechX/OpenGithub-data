@@ -16,14 +16,16 @@
       "full_name": "TheAppleTucker/backend-GPT",
       "url": "https://github.com/TheAppleTucker/backend-GPT",
       "description": "* [https://github.com/trekhleb/javascript-algorithms](trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2944,
+      "forks": 224,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "timqian/chinese-independent-blogs",
       "url": "https://github.com/timqian/chinese-independent-blogs",
       "description": "中文独立博客列表",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 22644,
+      "forks": 2621,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "tundeph/rev-mobile-app",
       "url": "https://github.com/tundeph/rev-mobile-app",
       "description": "Tasks mobile apps with React Native",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 156,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "leonardomso/33-js-concepts",
       "url": "https://github.com/leonardomso/33-js-concepts",
       "description": "📜 33 JavaScript concepts every developer should know.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 66176,
+      "forks": 9193,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 110509,
+      "forks": 36242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "dropzone/dropzone",
       "url": "https://github.com/dropzone/dropzone",
       "description": "Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18392,
+      "forks": 3279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "hakimel/reveal.js",
       "url": "https://github.com/hakimel/reveal.js",
       "description": "The HTML Presentation Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 70451,
+      "forks": 16817,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "react-grid-layout/react-grid-layout",
       "url": "https://github.com/react-grid-layout/react-grid-layout",
       "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 21984,
+      "forks": 2699,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "gitdagray/react_redux_toolkit",
       "url": "https://github.com/gitdagray/react_redux_toolkit",
       "description": "* [https://github.com/ed-roh/mern-social-media](ed-roh/mern-social-media) Complete React MERN Full Stack Social Media App",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 783,
+      "forks": 708,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "brianc/node-postgres",
       "url": "https://github.com/brianc/node-postgres",
       "description": "PostgreSQL client for node.js.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13038,
+      "forks": 1299,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "novuhq/blog",
       "url": "https://github.com/novuhq/blog",
       "description": "* [https://github.com/jaku/SnapCameraPreservation](jaku/SnapCameraPreservation)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 675,
+      "forks": 489,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "eth-phishing-detect",
       "full_name": "MetaMask/eth-phishing-detect",
       "url": "https://github.com/MetaMask/eth-phishing-detect",
-      "description": "Utility for detecting phishing domains targeting Ethereum users",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Utility for detecting phishing domains targeting Web3 users",
+      "language": "TypeScript",
+      "stars": 1248,
+      "forks": 1034,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "handsontable",
       "full_name": "handsontable/handsontable",
       "url": "https://github.com/handsontable/handsontable",
-      "description": "JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡",
+      "language": "JavaScript",
+      "stars": 21754,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "gatsby",
       "full_name": "gatsbyjs/gatsby",
       "url": "https://github.com/gatsbyjs/gatsby",
-      "description": "The fastest frontend for the headless web. Build modern websites with React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The best React-based framework with performance, scalability and security built in.",
+      "language": "JavaScript",
+      "stars": 55973,
+      "forks": 10251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "jhu-ep-coursera/fullstack-course4",
       "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
       "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10949,
+      "forks": 11761,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "grokking_algorithms",
       "full_name": "egonSchiele/grokking_algorithms",
       "url": "https://github.com/egonSchiele/grokking_algorithms",
-      "description": "Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)",
+      "language": "JavaScript",
+      "stars": 13157,
+      "forks": 4067,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "bigbluebutton",
       "full_name": "bigbluebutton/bigbluebutton",
       "url": "https://github.com/bigbluebutton/bigbluebutton",
-      "description": "Complete open source web conferencing system.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A complete web conferencing system for virtual classes and more!",
+      "language": "JavaScript",
+      "stars": 9013,
+      "forks": 6001,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "pmndrs/drei",
       "url": "https://github.com/pmndrs/drei",
       "description": "🥉 useful helpers for react-three-fiber",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 9432,
+      "forks": 788,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "jsdelivr/jsdelivr",
       "url": "https://github.com/jsdelivr/jsdelivr",
       "description": "A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6141,
+      "forks": 2116,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2023-01/2023-01-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     }
   ]
 }

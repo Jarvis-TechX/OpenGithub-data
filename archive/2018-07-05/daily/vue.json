@@ -15,15 +15,17 @@
       "repo_name": "vue-element-admin",
       "full_name": "PanJiaChen/vue-element-admin",
       "url": "https://github.com/PanJiaChen/vue-element-admin",
-      "description": "🎉 A magical vue admin http://panjiachen.github.io/vue-element-admin",
+      "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
-      "stars": 15417,
-      "forks": 4631,
+      "stars": 90289,
+      "forks": 30648,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 2,
@@ -33,13 +35,15 @@
       "url": "https://github.com/ElemeFE/element",
       "description": "A Vue.js 2.0 UI Toolkit for Web",
       "language": "Vue",
-      "stars": 28458,
-      "forks": 5429,
+      "stars": 54232,
+      "forks": 14568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 3,
@@ -49,13 +53,15 @@
       "url": "https://github.com/iview/iview",
       "description": "A high quality UI Toolkit built on Vue.js 2.0",
       "language": "Vue",
-      "stars": 15849,
-      "forks": 2539,
+      "stars": 23873,
+      "forks": 4093,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 4,
@@ -65,13 +71,15 @@
       "url": "https://github.com/airyland/vux",
       "description": "Mobile UI Components based on Vue & WeUI",
       "language": "Vue",
-      "stars": 13280,
-      "forks": 2900,
+      "stars": 17535,
+      "forks": 3680,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "vant",
       "full_name": "youzan/vant",
       "url": "https://github.com/youzan/vant",
-      "description": "Lightweight Mobile UI Components built on Vue",
-      "language": "Vue",
-      "stars": 5075,
-      "forks": 707,
+      "description": "A lightweight, customizable Vue UI library for mobile web apps.",
+      "language": "TypeScript",
+      "stars": 24217,
+      "forks": 9480,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 6,
@@ -161,13 +171,15 @@
       "url": "https://github.com/museui/muse-ui",
       "description": "Material Design UI library for Vuejs 2.0",
       "language": "Vue",
-      "stars": 6191,
-      "forks": 758,
+      "stars": 8170,
+      "forks": 891,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 11,
@@ -177,13 +189,15 @@
       "url": "https://github.com/buefy/buefy",
       "description": "Lightweight UI components for Vue.js based on Bulma",
       "language": "Vue",
-      "stars": 3148,
-      "forks": 296,
+      "stars": 9555,
+      "forks": 1107,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 12,
@@ -199,7 +213,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 13,
@@ -207,15 +223,17 @@
       "repo_name": "ethereumbook",
       "full_name": "ethereumbook/ethereumbook",
       "url": "https://github.com/ethereumbook/ethereumbook",
-      "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+      "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
       "language": "Vue",
-      "stars": 3916,
-      "forks": 672,
+      "stars": 21407,
+      "forks": 5217,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 14,
@@ -223,15 +241,17 @@
       "repo_name": "vue-js-modal",
       "full_name": "euvl/vue-js-modal",
       "url": "https://github.com/euvl/vue-js-modal",
-      "description": "🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.",
+      "description": "Easy to use, highly customizable Vue.js modal library.",
       "language": "Vue",
-      "stars": 1449,
-      "forks": 175,
+      "stars": 4340,
+      "forks": 590,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 15,
@@ -319,15 +339,17 @@
       "repo_name": "coreui-free-vue-admin-template",
       "full_name": "coreui/coreui-free-vue-admin-template",
       "url": "https://github.com/coreui/coreui-free-vue-admin-template",
-      "description": "CoreUI Vue is free Vue admin template based on Bootstrap 4",
+      "description": "Open source admin template based on Bootstrap 5 and Vue 3",
       "language": "Vue",
-      "stars": 1107,
-      "forks": 259,
+      "stars": 3397,
+      "forks": 983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-05.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:58Z"
     },
     {
       "rank": 21,

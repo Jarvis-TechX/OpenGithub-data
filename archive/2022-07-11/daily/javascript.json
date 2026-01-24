@@ -16,14 +16,16 @@
       "full_name": "pucherot/Pi.Alert",
       "url": "https://github.com/pucherot/Pi.Alert",
       "description": "WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of \"always connected\" devices",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2413,
+      "forks": 146,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "tech-interview-handbook",
       "full_name": "yangshun/tech-interview-handbook",
       "url": "https://github.com/yangshun/tech-interview-handbook",
-      "description": "💯 Curated interview preparation materials for busy engineers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Curated coding interview preparation materials for busy software engineers",
+      "language": "TypeScript",
+      "stars": 136953,
+      "forks": 16377,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 3,
@@ -49,13 +53,15 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 269698,
+      "forks": 12308,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "be5invis/Iosevka",
       "url": "https://github.com/be5invis/Iosevka",
       "description": "Versatile typeface for code, from code.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 21598,
+      "forks": 649,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "kit",
       "full_name": "sveltejs/kit",
       "url": "https://github.com/sveltejs/kit",
-      "description": "The fastest way to build Svelte apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "web development, streamlined",
+      "language": "JavaScript",
+      "stars": 20207,
+      "forks": 2194,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "pedroslopez/whatsapp-web.js",
       "url": "https://github.com/pedroslopez/whatsapp-web.js",
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20631,
+      "forks": 4780,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "adrianhajdin/project_web3.0",
       "url": "https://github.com/adrianhajdin/project_web3.0",
       "description": "This is a code repository for the corresponding video tutorial. In this video, we're going to build a Web 3.0 React Solidity Blockchain Application",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4264,
+      "forks": 1180,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "frank",
       "full_name": "Java-S12138/frank",
       "url": "https://github.com/Java-S12138/frank",
-      "description": "一款全新的英雄联盟(LOL)助手软件.............. A bran-new League of Legends assistant software, a replacement for WeGame.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A bran-new League of Legends assistant software, a replacement for WeGame.",
+      "language": "TypeScript",
+      "stars": 1937,
+      "forks": 277,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "goabstract/Awesome-Design-Tools",
       "url": "https://github.com/goabstract/Awesome-Design-Tools",
       "description": "The best design tools and plugins for everything 👉",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 38880,
+      "forks": 2178,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "adrianhajdin/project_syncfusion_dashboard",
       "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
       "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3139,
+      "forks": 1084,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "microsoft/Web-Dev-For-Beginners",
       "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 95127,
+      "forks": 15057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "agalwood/Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "description": "A full-featured download manager.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 50602,
+      "forks": 4806,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 15,
@@ -247,7 +275,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "denysdovhan/wtfjs",
       "url": "https://github.com/denysdovhan/wtfjs",
       "description": "🤪 A list of funny and tricky JavaScript examples",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 37609,
+      "forks": 2670,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "Nerver4Ever/SevenSha1UIAdvancedHelper",
       "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
       "description": "转存助手ui优化版",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1797,
+      "forks": 553,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "lx-music-desktop",
       "full_name": "lyswhut/lx-music-desktop",
       "url": "https://github.com/lyswhut/lx-music-desktop",
-      "description": "一个基于 electron 的音乐软件",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "一个基于 Electron 的音乐软件",
+      "language": "TypeScript",
+      "stars": 48434,
+      "forks": 6615,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "hakimel/reveal.js",
       "url": "https://github.com/hakimel/reveal.js",
       "description": "The HTML Presentation Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 70451,
+      "forks": 16817,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 20,
@@ -321,13 +359,15 @@
       "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
       "description": "网易云音乐 Node.js API service",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 30302,
+      "forks": 15770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "Multipurpose-discord-bot",
       "full_name": "Tomato6966/Multipurpose-discord-bot",
       "url": "https://github.com/Tomato6966/Multipurpose-discord-bot",
-      "description": "A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966. ",
+      "language": "JavaScript",
+      "stars": 606,
+      "forks": 633,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "betaflight-configurator",
       "full_name": "betaflight/betaflight-configurator",
       "url": "https://github.com/betaflight/betaflight-configurator",
-      "description": "Cross platform configuration tool for the Betaflight firmware",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Cross platform configuration and management application for the Betaflight firmware",
+      "language": "JavaScript",
+      "stars": 3046,
+      "forks": 1027,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:32Z"
     },
     {
       "rank": 25,
@@ -399,15 +447,17 @@
       "repo_name": "openmct",
       "full_name": "nasa/openmct",
       "url": "https://github.com/nasa/openmct",
-      "description": "A web based mission control framework.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A web based mission control framework. ",
+      "language": "JavaScript",
+      "stars": 12754,
+      "forks": 1389,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-07/2022-07-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:32Z"
     }
   ]
 }

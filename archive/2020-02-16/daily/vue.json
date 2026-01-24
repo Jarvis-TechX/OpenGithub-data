@@ -15,15 +15,17 @@
       "repo_name": "postwoman",
       "full_name": "liyasthomas/postwoman",
       "url": "https://github.com/liyasthomas/postwoman",
-      "description": "👽 A free, fast & beautiful API request builder (web alternative to Postman) https://postwoman.io 🔥",
-      "language": "Vue",
-      "stars": 16594,
-      "forks": 943,
+      "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+      "language": "TypeScript",
+      "stars": 77630,
+      "forks": 5536,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -65,13 +67,15 @@
       "url": "https://github.com/buefy/buefy",
       "description": "Lightweight UI components for Vue.js based on Bulma",
       "language": "Vue",
-      "stars": 7018,
-      "forks": 730,
+      "stars": 9555,
+      "forks": 1107,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -97,13 +101,15 @@
       "url": "https://github.com/coderwhy/HYMall",
       "description": "A vue.js mall application.",
       "language": "Vue",
-      "stars": 658,
-      "forks": 119,
+      "stars": 2037,
+      "forks": 395,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -127,15 +133,17 @@
       "repo_name": "vue2-element-touzi-admin",
       "full_name": "wdlhao/vue2-element-touzi-admin",
       "url": "https://github.com/wdlhao/vue2-element-touzi-admin",
-      "description": "基于vue2.0 +vuex+ element-ui后台管理系统",
+      "description": " 基于vue2.0 +vuex+ element-ui后台管理系统 ",
       "language": "Vue",
-      "stars": 2523,
-      "forks": 1075,
+      "stars": 4235,
+      "forks": 1501,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -145,13 +153,15 @@
       "url": "https://github.com/macrozheng/mall-admin-web",
       "description": "mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。",
       "language": "Vue",
-      "stars": 4930,
-      "forks": 3009,
+      "stars": 12435,
+      "forks": 7442,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -175,15 +185,17 @@
       "repo_name": "Vue-mmPlayer",
       "full_name": "maomao1996/Vue-mmPlayer",
       "url": "https://github.com/maomao1996/Vue-mmPlayer",
-      "description": "基于Vue2的在线音乐播放器（PC） Online music player （vue-music）2.0 等 vue3 再说",
+      "description": "🎵 基于 Vue 的在线音乐播放器 Online music player",
       "language": "Vue",
-      "stars": 936,
-      "forks": 270,
+      "stars": 2693,
+      "forks": 816,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 12,
@@ -193,13 +205,15 @@
       "url": "https://github.com/ghosh/uiGradients",
       "description": "🔴 Beautiful colour gradients for design and code",
       "language": "Vue",
-      "stars": 4752,
-      "forks": 1021,
+      "stars": 5983,
+      "forks": 1409,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -208,14 +222,16 @@
       "full_name": "jbaysolutions/vue-grid-layout",
       "url": "https://github.com/jbaysolutions/vue-grid-layout",
       "description": "A draggable and resizable grid layout, for Vue.js.",
-      "language": "Vue",
-      "stars": 3381,
-      "forks": 616,
+      "language": "JavaScript",
+      "stars": 7411,
+      "forks": 1543,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -223,15 +239,17 @@
       "repo_name": "vue-material",
       "full_name": "vuematerial/vue-material",
       "url": "https://github.com/vuematerial/vue-material",
-      "description": "Material design for Vue.js",
+      "description": "Vue.js Framework - ready-to-use Vue components with Material Design, free forever.",
       "language": "Vue",
-      "stars": 8560,
-      "forks": 1038,
+      "stars": 9862,
+      "forks": 1140,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -241,13 +259,15 @@
       "url": "https://github.com/DataV-Team/DataV",
       "description": "Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)",
       "language": "Vue",
-      "stars": 1325,
-      "forks": 262,
+      "stars": 9586,
+      "forks": 1832,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -257,13 +277,15 @@
       "url": "https://github.com/ElemeFE/element",
       "description": "A Vue.js 2.0 UI Toolkit for Web",
       "language": "Vue",
-      "stars": 43779,
-      "forks": 9885,
+      "stars": 54232,
+      "forks": 14568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -337,13 +359,15 @@
       "url": "https://github.com/airyland/vux",
       "description": "Mobile UI Components based on Vue & WeUI",
       "language": "Vue",
-      "stars": 16743,
-      "forks": 3797,
+      "stars": 17535,
+      "forks": 3680,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,
@@ -351,15 +375,17 @@
       "repo_name": "PotatofieldImageToolkit",
       "full_name": "CNOliverZhang/PotatofieldImageToolkit",
       "url": "https://github.com/CNOliverZhang/PotatofieldImageToolkit",
-      "description": "一个为摄影师设计的图像工具箱",
+      "description": "一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。",
       "language": "Vue",
-      "stars": 81,
-      "forks": 7,
+      "stars": 990,
+      "forks": 124,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 23,
@@ -383,15 +409,17 @@
       "repo_name": "vue-js-modal",
       "full_name": "euvl/vue-js-modal",
       "url": "https://github.com/euvl/vue-js-modal",
-      "description": "🍕 Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.",
+      "description": "Easy to use, highly customizable Vue.js modal library.",
       "language": "Vue",
-      "stars": 3119,
-      "forks": 405,
+      "stars": 4340,
+      "forks": 590,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 25,
@@ -407,7 +435,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-16.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

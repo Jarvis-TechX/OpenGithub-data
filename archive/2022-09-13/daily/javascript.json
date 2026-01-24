@@ -16,14 +16,16 @@
       "full_name": "benphelps/homepage",
       "url": "https://github.com/benphelps/homepage",
       "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 142,
+      "forks": 7,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 2,
@@ -39,7 +41,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "twbs/bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "MDX",
+      "stars": 173937,
+      "forks": 79164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "reisxd/revanced-builder",
       "url": "https://github.com/reisxd/revanced-builder",
       "description": "A NodeJS ReVanced builder",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1884,
+      "forks": 181,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "academicpages.github.io",
       "full_name": "academicpages/academicpages.github.io",
       "url": "https://github.com/academicpages/academicpages.github.io",
-      "description": "Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
+      "language": "SCSS",
+      "stars": 16311,
+      "forks": 5248,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "WTFEthers",
       "full_name": "WTFAcademy/WTFEthers",
       "url": "https://github.com/WTFAcademy/WTFEthers",
-      "description": "我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy",
+      "language": "JavaScript",
+      "stars": 3524,
+      "forks": 579,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "11ty/webc",
       "url": "https://github.com/11ty/webc",
       "description": "Single File Web Components",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1404,
+      "forks": 43,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "vernesong/OpenClash",
       "url": "https://github.com/vernesong/OpenClash",
       "description": "A Clash Client For OpenWrt",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 23948,
+      "forks": 3725,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 12,
@@ -193,13 +215,15 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 269698,
+      "forks": 12308,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "upscayl",
       "full_name": "upscayl/upscayl",
       "url": "https://github.com/upscayl/upscayl",
-      "description": "🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "language": "TypeScript",
+      "stars": 42696,
+      "forks": 2034,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "sec-an/Better-Auto-XXQG",
       "url": "https://github.com/sec-an/Better-Auto-XXQG",
       "description": "学习强国 基于Auto.js实现的学习助手 免root 适配安卓 自动化脚本 热更新",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 685,
+      "forks": 195,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "register",
       "full_name": "is-a-dev/register",
       "url": "https://github.com/is-a-dev/register",
-      "description": "Grab your own sweet-looking '.is-a.dev' subdomain",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "language": "JavaScript",
+      "stars": 9457,
+      "forks": 17664,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "appwrite",
       "full_name": "appwrite/appwrite",
       "url": "https://github.com/appwrite/appwrite",
-      "description": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+      "language": "TypeScript",
+      "stars": 54522,
+      "forks": 4958,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "MiaoYan",
       "full_name": "tw93/MiaoYan",
       "url": "https://github.com/tw93/MiaoYan",
-      "description": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⛷ Lightweight Markdown app to help you write great sentences.",
+      "language": "Swift",
+      "stars": 7448,
+      "forks": 434,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "qeeqbox/social-analyzer",
       "url": "https://github.com/qeeqbox/social-analyzer",
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20478,
+      "forks": 1902,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "raganork-md",
       "full_name": "souravkl11/raganork-md",
       "url": "https://github.com/souravkl11/raganork-md",
-      "description": "Multi-functional WhatsApp bot project",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A light-weight multi-functional WhatsApp bot framework.",
+      "language": "JavaScript",
+      "stars": 747,
+      "forks": 1538,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "mschwarzmueller/nextjs-course-code",
       "url": "https://github.com/mschwarzmueller/nextjs-course-code",
       "description": "Source code for my NextJS course (https://acad.link/nextjs)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1714,
+      "forks": 2403,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "Nerver4Ever/SevenSha1UIAdvancedHelper",
       "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
       "description": "转存助手ui优化版",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1797,
+      "forks": 553,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "Anarios/return-youtube-dislike",
       "url": "https://github.com/Anarios/return-youtube-dislike",
       "description": "Chrome extension to return youtube dislikes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13449,
+      "forks": 605,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-09/2022-09-13.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:33Z"
     }
   ]
 }

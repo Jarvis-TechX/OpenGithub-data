@@ -16,14 +16,16 @@
       "full_name": "microsoft/react-native-code-push",
       "url": "https://github.com/microsoft/react-native-code-push",
       "description": "React Native module for CodePush",
-      "language": "Objective-C",
-      "stars": 6597,
-      "forks": 0,
+      "language": "C",
+      "stars": 9148,
+      "forks": 1585,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "WeChatExtension-ForMac",
       "full_name": "MustangYM/WeChatExtension-ForMac",
       "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
-      "description": "Mac版微信的功能拓展",
+      "description": "A plugin for Mac WeChat",
       "language": "Objective-C",
-      "stars": 4276,
-      "forks": 0,
+      "stars": 22703,
+      "forks": 3593,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "react-native-community/react-native-maps",
       "url": "https://github.com/react-native-community/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "Objective-C",
-      "stars": 10706,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "iOSInterviewQuestions",
       "full_name": "ChenYilong/iOSInterviewQuestions",
       "url": "https://github.com/ChenYilong/iOSInterviewQuestions",
-      "description": "iOS interview questions;iOS面试题集锦（附答案）--学习qq群或 Telegram 群交流 https://github.com/ChenYilong/iOSBlog/issues/21",
-      "language": "Objective-C",
-      "stars": 8210,
-      "forks": 0,
+      "description": "iOS interview questions;iOS面试题集锦（附答案） ",
+      "language": "Swift",
+      "stars": 9511,
+      "forks": 2789,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "Platypus",
       "full_name": "sveinbjornt/Platypus",
       "url": "https://github.com/sveinbjornt/Platypus",
-      "description": "Create native Mac applications from command line scripts.",
+      "description": "Create native macOS applications from command line scripts.",
       "language": "Objective-C",
-      "stars": 1391,
-      "forks": 0,
+      "stars": 3326,
+      "forks": 195,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 6,
@@ -97,13 +107,15 @@
       "url": "https://github.com/yujitach/MenuMeters",
       "description": "my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/",
       "language": "Objective-C",
-      "stars": 2076,
-      "forks": 0,
+      "stars": 3059,
+      "forks": 225,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -113,13 +125,15 @@
       "url": "https://github.com/burczyk/SynchroKit",
       "description": "framework that helps syncing data in iOS environment",
       "language": "Objective-C",
-      "stars": 8,
-      "forks": 0,
+      "stars": 9,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 8,
@@ -129,13 +143,15 @@
       "url": "https://github.com/google/promises",
       "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
       "language": "Objective-C",
-      "stars": 3107,
-      "forks": 0,
+      "stars": 3836,
+      "forks": 305,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -145,13 +161,15 @@
       "url": "https://github.com/larksuite/SDMagicHook",
       "description": "A safe and influence-restricted method hooking for both Objective-C and Swift.",
       "language": "Objective-C",
-      "stars": 97,
-      "forks": 0,
+      "stars": 461,
+      "forks": 61,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "AAChartKit",
       "full_name": "AAChartModel/AAChartKit",
       "url": "https://github.com/AAChartModel/AAChartKit",
-      "description": "📈📊🚀🚀🚀An elegant and friendly data visualization chart framework for Apple developers . Extremely powerful ,supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.极其精美而又强大的跨平台数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充…",
+      "description": "📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的现代化声明式数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.",
       "language": "Objective-C",
-      "stars": 3745,
-      "forks": 0,
+      "stars": 4763,
+      "forks": 750,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "Objective-C",
-      "stars": 13996,
-      "forks": 0,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "blinksh/blink",
       "url": "https://github.com/blinksh/blink",
       "description": "Blink Mobile Shell for iOS (Mosh based)",
-      "language": "Objective-C",
-      "stars": 3325,
-      "forks": 0,
+      "language": "Swift",
+      "stars": 6533,
+      "forks": 638,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "Bitlyzer",
       "full_name": "albertodebortoli/Bitlyzer",
       "url": "https://github.com/albertodebortoli/Bitlyzer",
-      "description": "Class to shorten URLs with Bit.ly on iOS (both block based and delegate based using ARC)",
+      "description": "Class to shorten URLs with Bit.ly on iOS (both block based and delegate based using ARC) ",
       "language": "Objective-C",
-      "stars": 39,
-      "forks": 0,
+      "stars": 41,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -225,13 +251,15 @@
       "url": "https://github.com/noodlewerk/NWPusher",
       "description": "OS X and iOS application and framework to play with the Apple Push Notification service (APNs)",
       "language": "Objective-C",
-      "stars": 5585,
-      "forks": 0,
+      "stars": 6323,
+      "forks": 675,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -241,13 +269,15 @@
       "url": "https://github.com/youusername/magnetX",
       "description": "资源搜索型软件 macOS OSX magnet",
       "language": "Objective-C",
-      "stars": 1386,
-      "forks": 0,
+      "stars": 1983,
+      "forks": 300,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -257,13 +287,15 @@
       "url": "https://github.com/WuChuming/shadowsocks-iOS",
       "description": "fork by shadowsocks/shadowsocks-iOS",
       "language": "Objective-C",
-      "stars": 158,
-      "forks": 0,
+      "stars": 286,
+      "forks": 403,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "language": "Objective-C",
-      "stars": 8935,
-      "forks": 0,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 18,
@@ -289,13 +323,15 @@
       "url": "https://github.com/fikovnik/ShiftIt",
       "description": "Managing windows size and position in OSX",
       "language": "Objective-C",
-      "stars": 4964,
-      "forks": 0,
+      "stars": 5551,
+      "forks": 361,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 20,
@@ -321,13 +359,15 @@
       "url": "https://github.com/XVimProject/XVim2",
       "description": "Vim key-bindings for Xcode 9",
       "language": "Objective-C",
-      "stars": 1779,
-      "forks": 0,
+      "stars": 2300,
+      "forks": 177,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 21,
@@ -337,13 +377,15 @@
       "url": "https://github.com/DanTheMan827/ios-app-signer",
       "description": "This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.",
       "language": "Objective-C",
-      "stars": 2919,
-      "forks": 0,
+      "stars": 6231,
+      "forks": 1144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 22,
@@ -353,13 +395,15 @@
       "url": "https://github.com/uber/ios-snapshot-test-case",
       "description": "Snapshot view unit tests for iOS",
       "language": "Objective-C",
-      "stars": 1128,
-      "forks": 0,
+      "stars": 1845,
+      "forks": 222,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 23,
@@ -369,13 +413,15 @@
       "url": "https://github.com/uber/signals-ios",
       "description": "Typeful eventing",
       "language": "Objective-C",
-      "stars": 524,
-      "forks": 0,
+      "stars": 525,
+      "forks": 49,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "voice",
       "full_name": "react-native-community/voice",
       "url": "https://github.com/react-native-community/voice",
-      "description": "🎤 React Native Voice Recognition library for iOS and Android (Online and Offline Support)",
-      "language": "Objective-C",
-      "stars": 755,
-      "forks": 0,
+      "description": ":microphone: React Native Voice Recognition library for iOS and Android (Online and Offline Support)",
+      "language": "TypeScript",
+      "stars": 2146,
+      "forks": 607,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 25,
@@ -401,13 +449,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 6432,
-      "forks": 0,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

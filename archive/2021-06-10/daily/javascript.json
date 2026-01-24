@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 2,
@@ -48,14 +50,16 @@
       "full_name": "WordPress/gutenberg",
       "url": "https://github.com/WordPress/gutenberg",
       "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11532,
+      "forks": 4691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 4,
@@ -63,15 +67,17 @@
       "repo_name": "jd_shell",
       "full_name": "lan-tianxiang/jd_shell",
       "url": "https://github.com/lan-tianxiang/jd_shell",
-      "description": "京豆 京东 lxk0301 jd-base loon docker 羊毛 脚本",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Node网页开发工具",
+      "language": "JavaScript",
+      "stars": 943,
+      "forks": 321,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 5,
@@ -79,15 +85,17 @@
       "repo_name": "gatsby",
       "full_name": "gatsbyjs/gatsby",
       "url": "https://github.com/gatsbyjs/gatsby",
-      "description": "Build blazing fast, modern apps and websites with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The best React-based framework with performance, scalability and security built in.",
+      "language": "JavaScript",
+      "stars": 55973,
+      "forks": 10251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 6,
@@ -95,15 +103,17 @@
       "repo_name": "react",
       "full_name": "facebook/react",
       "url": "https://github.com/facebook/react",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 242462,
+      "forks": 50449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 7,
@@ -112,14 +122,16 @@
       "full_name": "mechaniac/Map-of-Javascript",
       "url": "https://github.com/mechaniac/Map-of-Javascript",
       "description": "Javascript on one sheet. (and one for algorithms)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1721,
+      "forks": 145,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 8,
@@ -128,14 +140,16 @@
       "full_name": "OAI/OpenAPI-Specification",
       "url": "https://github.com/OAI/OpenAPI-Specification",
       "description": "The OpenAPI Specification Repository",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Markdown",
+      "stars": 30839,
+      "forks": 9166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 9,
@@ -144,14 +158,16 @@
       "full_name": "jhu-ep-coursera/fullstack-course4",
       "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
       "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10949,
+      "forks": 11761,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 10,
@@ -159,15 +175,17 @@
       "repo_name": "devkamet",
       "full_name": "abdulrahmanAlotaibi/devkamet",
       "url": "https://github.com/abdulrahmanAlotaibi/devkamet",
-      "description": "Learn to build any SaaS product through devKamet, an interactive platform to learn the essentials of Computer Science, Data Structures, Algorithms, and Operating Systems using Golang 👩‍🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "An IDE engine which runs your code in any language (Go, Java, C++, Ruby, Scala, Python) and also a judge system to test the result of a code solution.",
+      "language": "JavaScript",
+      "stars": 91,
+      "forks": 14,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 11,
@@ -176,14 +194,16 @@
       "full_name": "hakimel/reveal.js",
       "url": "https://github.com/hakimel/reveal.js",
       "description": "The HTML Presentation Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 70451,
+      "forks": 16817,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 12,
@@ -191,15 +211,17 @@
       "repo_name": "Web",
       "full_name": "qianguyihao/Web",
       "url": "https://github.com/qianguyihao/Web",
-      "description": "前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。",
+      "description": "千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 28345,
+      "forks": 6254,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 13,
@@ -207,15 +229,17 @@
       "repo_name": "hiring-without-whiteboards",
       "full_name": "poteto/hiring-without-whiteboards",
       "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "description": "⭐️ Companies that don't have a broken hiring process",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⭐️  Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "stars": 50361,
+      "forks": 3880,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 14,
@@ -223,15 +247,17 @@
       "repo_name": "JD_tencent_scf",
       "full_name": "zero205/JD_tencent_scf",
       "url": "https://github.com/zero205/JD_tencent_scf",
-      "description": "低调使用，不要fork！尽量第一时间同步更新脚本。防止失联请收藏gitee备份地址：https://gitee.com/zero205/JD_tencent_scf",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "自用脚本，随缘更新",
+      "language": "TypeScript",
+      "stars": 651,
+      "forks": 252,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 15,
@@ -241,13 +267,15 @@
       "url": "https://github.com/srk24/jd_scripts-lxk0301",
       "description": "长期活动，自用为主 | 低调使用，请勿到处宣传 | 备份lxk0301的源码仓库",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 386,
+      "forks": 165,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 16,
@@ -255,15 +283,17 @@
       "repo_name": "linkedin-skill-assessments-quizzes",
       "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
       "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
-      "description": "Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers ",
+      "language": "Python",
+      "stars": 28655,
+      "forks": 13101,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 17,
@@ -272,14 +302,16 @@
       "full_name": "moposmall/Script",
       "url": "https://github.com/moposmall/Script",
       "description": "* [https://github.com/tannerlinsley/react-table](tannerlinsley/react-table) ⚛️ Hooks for building fast and extendable tables and datagrids for React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 120,
+      "forks": 38,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 18,
@@ -295,7 +327,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 19,
@@ -303,15 +337,17 @@
       "repo_name": "msk-javascript-bootcamp",
       "full_name": "MSK-Web-development/msk-javascript-bootcamp",
       "url": "https://github.com/MSK-Web-development/msk-javascript-bootcamp",
-      "description": "All code snippets used in MSK Javascript Bootcamp",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A Bootcamp covering most of the javascript concepts.",
+      "language": "HTML",
+      "stars": 183,
+      "forks": 93,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "maxboeck/emergency-site",
       "url": "https://github.com/maxboeck/emergency-site",
       "description": "A template for emergency information websites",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 806,
+      "forks": 54,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "carbon-design-system/carbon",
       "url": "https://github.com/carbon-design-system/carbon",
       "description": "A design system built by IBM",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 8734,
+      "forks": 2088,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "mjmlio/mjml",
       "url": "https://github.com/mjmlio/mjml",
       "description": "MJML: the only framework that makes responsive-email easy",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 17853,
+      "forks": 983,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 23,
@@ -375,7 +417,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:23Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "AzureAD/microsoft-authentication-library-for-js",
       "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
       "description": "Microsoft Authentication Library (MSAL) for JS",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 4007,
+      "forks": 2695,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-06/2021-06-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:23Z"
     }
   ]
 }

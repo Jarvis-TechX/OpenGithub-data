@@ -15,15 +15,17 @@
       "repo_name": "project_openai_codex",
       "full_name": "adrianhajdin/project_openai_codex",
       "url": "https://github.com/adrianhajdin/project_openai_codex",
-      "description": "* [https://github.com/louislam/uptime-kuma](louislam/uptime-kuma) A fancy self-hosted monitoring tool",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Build and Deploy Your Own ChatGPT AI Application That Will Help You Code",
+      "language": "JavaScript",
+      "stars": 1380,
+      "forks": 739,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "judygab/web-dev-projects",
       "url": "https://github.com/judygab/web-dev-projects",
       "description": "Projects repo for tutorials for my YouTube Channel",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2152,
+      "forks": 2651,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "timqian/chinese-independent-blogs",
       "url": "https://github.com/timqian/chinese-independent-blogs",
       "description": "中文独立博客列表",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 22644,
+      "forks": 2621,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "30-seconds-of-code",
       "full_name": "30-seconds/30-seconds-of-code",
       "url": "https://github.com/30-seconds/30-seconds-of-code",
-      "description": "Short JavaScript code snippets for all your development needs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Coding articles to level up your development skills",
+      "language": "JavaScript",
+      "stars": 126464,
+      "forks": 12416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "BigJk/snd",
       "url": "https://github.com/BigJk/snd",
       "description": "Sales & Dungeons — Thermal Printer as D&D / TTRPG Utility",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 597,
+      "forks": 20,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "electerm",
       "full_name": "electerm/electerm",
       "url": "https://github.com/electerm/electerm",
-      "description": "📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)",
+      "language": "JavaScript",
+      "stars": 13496,
+      "forks": 1093,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "6dylan6/jdpro",
       "url": "https://github.com/6dylan6/jdpro",
       "description": "青龙脚本库",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4194,
+      "forks": 574,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
       "description": "A framework for building native applications using React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 125168,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "clean-code-javascript",
       "full_name": "ryanmcdermott/clean-code-javascript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-      "description": "🛁 Clean Code concepts adapted for JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Clean Code concepts adapted for JavaScript",
+      "language": "JavaScript",
+      "stars": 94283,
+      "forks": 12502,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "ed-roh/fullstack-admin",
       "url": "https://github.com/ed-roh/fullstack-admin",
       "description": "* [https://github.com/timlrx/tailwind-nextjs-starter-blog](timlrx/tailwind-nextjs-starter-blog) This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 537,
+      "forks": 440,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "EddieHubCommunity/LinkFree",
       "url": "https://github.com/EddieHubCommunity/LinkFree",
       "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5740,
+      "forks": 4057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "bradtraversy/vanillawebprojects",
       "url": "https://github.com/bradtraversy/vanillawebprojects",
       "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 15974,
+      "forks": 4411,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "nodebestpractices",
       "full_name": "goldbergyoni/nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (November 2022)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":white_check_mark:  The Node.js best practices list (July 2024)",
+      "language": "Dockerfile",
+      "stars": 104955,
+      "forks": 10681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "sudheerj/javascript-interview-questions",
       "url": "https://github.com/sudheerj/javascript-interview-questions",
       "description": "List of 1000 JavaScript Interview Questions",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 26972,
+      "forks": 7566,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "locomotivemtl/locomotive-scroll",
       "url": "https://github.com/locomotivemtl/locomotive-scroll",
       "description": "🛤 Detection of elements in viewport & smooth scrolling with parallax.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8645,
+      "forks": 1131,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "be5invis/Iosevka",
       "url": "https://github.com/be5invis/Iosevka",
       "description": "Versatile typeface for code, from code.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 21598,
+      "forks": 649,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "learning-zone/website-templates",
       "url": "https://github.com/learning-zone/website-templates",
       "description": "150+ HTML5 Website Templates",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5830,
+      "forks": 3811,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     }
   ]
 }

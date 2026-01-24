@@ -16,14 +16,16 @@
       "full_name": "Aufree/awesome-wechat-weapp",
       "url": "https://github.com/Aufree/awesome-wechat-weapp",
       "description": "Awesome WeChat WeApp Web WeApp",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2959,
+      "forks": 491,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "FreeCodeCamp",
       "full_name": "FreeCodeCamp/FreeCodeCamp",
       "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
-      "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 436225,
+      "forks": 43168,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "weapp-ide-crack",
       "full_name": "gavinkwoe/weapp-ide-crack",
       "url": "https://github.com/gavinkwoe/weapp-ide-crack",
-      "description": "IDE +  + Demo",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "【应用号】IDE + 破解 + Demo",
+      "language": "JavaScript",
+      "stars": 4301,
+      "forks": 990,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "g9",
       "full_name": "bijection/g9",
       "url": "https://github.com/bijection/g9",
-      "description": "Automatically interactive graphics for the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Automatically Interactive Graphics 🖼✨💯",
+      "language": "JavaScript",
+      "stars": 1969,
+      "forks": 48,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 5,
@@ -87,7 +95,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "canvas-gauges",
       "full_name": "Mikhus/canvas-gauges",
       "url": "https://github.com/Mikhus/canvas-gauges",
-      "description": "HTML5 Canvas Gauge",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.",
+      "language": "JavaScript",
+      "stars": 1596,
+      "forks": 401,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "vue",
       "full_name": "vuejs/vue",
       "url": "https://github.com/vuejs/vue",
-      "description": "Simple yet powerful library for building modern web interfaces.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+      "language": "TypeScript",
+      "stars": 209879,
+      "forks": 33904,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "kamranahmedse/tab-switcher",
       "url": "https://github.com/kamranahmedse/tab-switcher",
       "description": "Chrome Extension - Switch between the opened tabs in the blink of an eye",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 447,
+      "forks": 29,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "create-react-app",
       "full_name": "facebookincubator/create-react-app",
       "url": "https://github.com/facebookincubator/create-react-app",
-      "description": "Create React apps with no build configuration.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Set up a modern web app by running one command.",
+      "language": "JavaScript",
+      "stars": 103973,
+      "forks": 27144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "react-animations",
       "full_name": "FormidableLabs/react-animations",
       "url": "https://github.com/FormidableLabs/react-animations",
-      "description": "A collection of animations for inline style libraries",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🎊 A collection of animations for inline style libraries",
+      "language": "JavaScript",
+      "stars": 3053,
+      "forks": 157,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "weapp-demo",
       "full_name": "zce/weapp-demo",
       "url": "https://github.com/zce/weapp-demo",
-      "description": "awesome wechat weixin weapp demo",
+      "description": "微信小程序示例教程，案例涉及某瓣，所以下线了：https://github.com/zce/weapp-douban",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 8,
+      "forks": 3,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "optimize-js",
       "full_name": "nolanlawson/optimize-js",
       "url": "https://github.com/nolanlawson/optimize-js",
-      "description": "Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Optimize a JS file for faster parsing (UNMAINTAINED)",
+      "language": "JavaScript",
+      "stars": 3745,
+      "forks": 101,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "react",
       "full_name": "facebook/react",
       "url": "https://github.com/facebook/react",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 242462,
+      "forks": 50449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "twbs/bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "MDX",
+      "stars": 173937,
+      "forks": 79164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "christinecha/choreographer-js",
       "url": "https://github.com/christinecha/choreographer-js",
       "description": "A simple library to take care of complicated animations.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2000,
+      "forks": 120,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "d3",
       "full_name": "d3/d3",
       "url": "https://github.com/d3/d3",
-      "description": "Bring data to life with SVG, Canvas and HTML.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+      "language": "Shell",
+      "stars": 112204,
+      "forks": 22835,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "airbnb/javascript",
       "url": "https://github.com/airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 148051,
+      "forks": 26770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "freecodecamp.cn",
       "full_name": "huluoyang/freecodecamp.cn",
       "url": "https://github.com/huluoyang/freecodecamp.cn",
-      "description": "CodeIssuesPull requestsWiki^_^",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "随着FCC中文社区的快速发展和更多小伙伴的崛起，此项目已从个人项目升级到团队项目。详情请移步：",
+      "language": "JavaScript",
+      "stars": 5566,
+      "forks": 283,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "deepstreamIO/deepstream.io",
       "url": "https://github.com/deepstreamIO/deepstream.io",
       "description": "deepstream.io server",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 7186,
+      "forks": 386,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "react-color",
       "full_name": "casesandberg/react-color",
       "url": "https://github.com/casesandberg/react-color",
-      "description": "Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more",
+      "language": "JavaScript",
+      "stars": 12288,
+      "forks": 927,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "angular.js",
       "full_name": "angular/angular.js",
       "url": "https://github.com/angular/angular.js",
-      "description": "HTML enhanced for web apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "AngularJS - HTML enhanced for web apps!",
+      "language": "JavaScript",
+      "stars": 58996,
+      "forks": 27286,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     },
     {
       "rank": 25,
@@ -399,15 +447,17 @@
       "repo_name": "node",
       "full_name": "nodejs/node",
       "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars": 115347,
+      "forks": 34470,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md"
+      "source_path": "/tmp/trending_archive/2016/2016-09/2016-09-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:45Z"
     }
   ]
 }

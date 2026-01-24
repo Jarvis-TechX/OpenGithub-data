@@ -63,15 +63,17 @@
       "repo_name": "WeChatExtension-ForMac",
       "full_name": "MustangYM/WeChatExtension-ForMac",
       "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
-      "description": "Mac版微信的功能拓展",
+      "description": "A plugin for Mac WeChat",
       "language": "Objective-C",
-      "stars": 531,
-      "forks": 85,
+      "stars": 22703,
+      "forks": 3593,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 5,
@@ -95,15 +97,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 6147,
-      "forks": 668,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 7,
@@ -135,7 +139,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 9,
@@ -193,13 +199,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 5276,
-      "forks": 290,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 13,
@@ -255,15 +263,17 @@
       "repo_name": "Platypus",
       "full_name": "sveinbjornt/Platypus",
       "url": "https://github.com/sveinbjornt/Platypus",
-      "description": "Create Mac applications from command line scripts.",
+      "description": "Create native macOS applications from command line scripts.",
       "language": "Objective-C",
-      "stars": 1193,
-      "forks": 102,
+      "stars": 3326,
+      "forks": 195,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 17,
@@ -321,13 +331,15 @@
       "url": "https://github.com/ReactiveCocoa/ReactiveObjC",
       "description": "The 2.x ReactiveCocoa Objective-C API: Streams of values over time",
       "language": "Objective-C",
-      "stars": 1896,
-      "forks": 343,
+      "stars": 2622,
+      "forks": 498,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 21,

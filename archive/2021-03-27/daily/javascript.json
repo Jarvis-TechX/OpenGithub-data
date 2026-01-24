@@ -16,14 +16,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "appwrite",
       "full_name": "appwrite/appwrite",
       "url": "https://github.com/appwrite/appwrite",
-      "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+      "language": "TypeScript",
+      "stars": 54522,
+      "forks": 4958,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "material-ui",
       "full_name": "mui-org/material-ui",
       "url": "https://github.com/mui-org/material-ui",
-      "description": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "language": "JavaScript",
+      "stars": 97679,
+      "forks": 32793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "atlassian/react-beautiful-dnd",
       "url": "https://github.com/atlassian/react-beautiful-dnd",
       "description": "Beautiful and accessible drag and drop for lists with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 34046,
+      "forks": 2738,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "photonstorm/phaser",
       "url": "https://github.com/photonstorm/phaser",
       "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 38906,
+      "forks": 7132,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "TIMSDK",
       "full_name": "tencentyun/TIMSDK",
       "url": "https://github.com/tencentyun/TIMSDK",
-      "description": "腾讯云即时通信 IM 服务，国内下载镜像：",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Tencent Cloud Chat features a comprehensive suite of solutions including global access, one-to-one chat, group chat, message push, profile and relationship chain hosting, and account authentication. ",
+      "language": "Objective-C",
+      "stars": 2682,
+      "forks": 2747,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "octokit/rest.js",
       "url": "https://github.com/octokit/rest.js",
       "description": "GitHub REST API client for JavaScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 641,
+      "forks": 72,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 9,
@@ -151,7 +167,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "a32nx",
       "full_name": "flybywiresim/a32nx",
       "url": "https://github.com/flybywiresim/a32nx",
-      "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.",
+      "language": "TypeScript",
+      "stars": 5325,
+      "forks": 1127,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 12,
@@ -191,15 +213,17 @@
       "repo_name": "plugins",
       "full_name": "rollup/plugins",
       "url": "https://github.com/rollup/plugins",
-      "description": "🍣 The one-stop shop for official Rollup plugins",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🍣  The one-stop shop for official Rollup plugins",
+      "language": "JavaScript",
+      "stars": 3752,
+      "forks": 614,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "semana-js-expert30",
       "full_name": "ErickWendel/semana-js-expert30",
       "url": "https://github.com/ErickWendel/semana-js-expert30",
-      "description": "Aulas da Semana JS Expert 3.0 - Construindo um chat multiplataforma usando linha de comando e JavaScript Avançado",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": " JS Expert Week 3.0 - Weechat - Building a cross-platform chat using command line and Advanced JavaScript",
+      "language": "JavaScript",
+      "stars": 595,
+      "forks": 44,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "novnc/noVNC",
       "url": "https://github.com/novnc/noVNC",
       "description": "VNC client web application",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13347,
+      "forks": 2555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "nolimits4web/swiper",
       "url": "https://github.com/nolimits4web/swiper",
       "description": "Most modern mobile touch slider with hardware accelerated transitions",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 41763,
+      "forks": 9716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "ClearURLs/Addon",
       "url": "https://github.com/ClearURLs/Addon",
       "description": "ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4683,
+      "forks": 130,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "kgshank/gse-sound-output-device-chooser",
       "url": "https://github.com/kgshank/gse-sound-output-device-chooser",
       "description": "Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 788,
+      "forks": 96,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "eligrey/FileSaver.js",
       "url": "https://github.com/eligrey/FileSaver.js",
       "description": "An HTML5 saveAs() FileSaver implementation",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 22026,
+      "forks": 4355,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "gatsby",
       "full_name": "gatsbyjs/gatsby",
       "url": "https://github.com/gatsbyjs/gatsby",
-      "description": "Build blazing fast, modern apps and websites with React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The best React-based framework with performance, scalability and security built in.",
+      "language": "JavaScript",
+      "stars": 55973,
+      "forks": 10251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "strapi",
       "full_name": "strapi/strapi",
       "url": "https://github.com/strapi/strapi",
-      "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+      "language": "TypeScript",
+      "stars": 71065,
+      "forks": 9385,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "AR-js-org/AR.js",
       "url": "https://github.com/AR-js-org/AR.js",
       "description": "Image tracking, Location Based AR, Marker tracking. All on the Web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5892,
+      "forks": 1001,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "handsontable",
       "full_name": "handsontable/handsontable",
       "url": "https://github.com/handsontable/handsontable",
-      "description": "JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue. Supported by the Handsontable team ⚡",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡",
+      "language": "JavaScript",
+      "stars": 21754,
+      "forks": 3188,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "facebook/create-react-app",
       "url": "https://github.com/facebook/create-react-app",
       "description": "Set up a modern web app by running one command.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 103973,
+      "forks": 27144,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "typescript-cheatsheets/react",
       "url": "https://github.com/typescript-cheatsheets/react",
       "description": "Cheatsheets for experienced React developers getting started with TypeScript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 46905,
+      "forks": 4274,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-03/2021-03-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:21Z"
     }
   ]
 }

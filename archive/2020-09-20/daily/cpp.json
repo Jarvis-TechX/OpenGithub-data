@@ -15,15 +15,17 @@
       "repo_name": "googletest",
       "full_name": "google/googletest",
       "url": "https://github.com/google/googletest",
-      "description": "Googletest - Google Testing and Mocking Framework",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 38123,
+      "forks": 10678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "FreeCAD",
       "full_name": "FreeCAD/FreeCAD",
       "url": "https://github.com/FreeCAD/FreeCAD",
-      "description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": 28255,
+      "forks": 5110,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "TheCherno/Hazel",
       "url": "https://github.com/TheCherno/Hazel",
       "description": "Hazel Engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 12826,
+      "forks": 1555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 96859,
+      "forks": 26601,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "DrKLO/Telegram",
       "url": "https://github.com/DrKLO/Telegram",
       "description": "Telegram for Android source",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 28364,
+      "forks": 9218,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "nlohmann/json",
       "url": "https://github.com/nlohmann/json",
       "description": "JSON for Modern C++",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 48642,
+      "forks": 7301,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "klzgrad/naiveproxy",
       "url": "https://github.com/klzgrad/naiveproxy",
       "description": "Make a fortune quietly",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7540,
+      "forks": 935,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 193461,
+      "forks": 75203,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "solvespace/solvespace",
       "url": "https://github.com/solvespace/solvespace",
       "description": "Parametric 2d/3d CAD",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3715,
+      "forks": 541,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "alphacep/vosk-api",
       "url": "https://github.com/alphacep/vosk-api",
       "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 14122,
+      "forks": 1664,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "taskflow",
       "full_name": "taskflow/taskflow",
       "url": "https://github.com/taskflow/taskflow",
-      "description": "Modern C++ Parallel Task Programming",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A General-purpose Task-parallel Programming System using Modern C++",
+      "language": "C++",
+      "stars": 11655,
+      "forks": 1359,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "onnx/onnx-tensorrt",
       "url": "https://github.com/onnx/onnx-tensorrt",
       "description": "ONNX-TensorRT: TensorRT backend for ONNX",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3181,
+      "forks": 548,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "google/benchmark",
       "url": "https://github.com/google/benchmark",
       "description": "A microbenchmark support library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9970,
+      "forks": 1731,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "osquery/osquery",
       "url": "https://github.com/osquery/osquery",
       "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 23047,
+      "forks": 2547,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "openpilot",
       "full_name": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
-      "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 59792,
+      "forks": 10582,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "cudf",
       "full_name": "rapidsai/cudf",
       "url": "https://github.com/rapidsai/cudf",
-      "description": "cuDF - GPU DataFrame Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "cuDF - GPU DataFrame Library ",
+      "language": "C++",
+      "stars": 9468,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "ApolloAuto/apollo",
       "url": "https://github.com/ApolloAuto/apollo",
       "description": "An open autonomous driving platform",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 26388,
+      "forks": 9957,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "apache/thrift",
       "url": "https://github.com/apache/thrift",
       "description": "Apache Thrift",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 10887,
+      "forks": 4092,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "apple/foundationdb",
       "url": "https://github.com/apple/foundationdb",
       "description": "FoundationDB - the open source, distributed, transactional key-value store",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 16101,
+      "forks": 1466,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "microsoft/terminal",
       "url": "https://github.com/microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 101477,
+      "forks": 9032,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "BVLC/caffe",
       "url": "https://github.com/BVLC/caffe",
       "description": "Caffe: a fast open framework for deep learning.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 34825,
+      "forks": 18573,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "danmar/cppcheck",
       "url": "https://github.com/danmar/cppcheck",
       "description": "static analysis of C/C++ code",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 6480,
+      "forks": 1550,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:17Z"
     },
     {
       "rank": 24,
@@ -391,7 +437,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:17Z"
     }
   ]
 }

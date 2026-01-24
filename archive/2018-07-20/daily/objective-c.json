@@ -64,14 +64,16 @@
       "full_name": "airbnb/lottie-ios",
       "url": "https://github.com/airbnb/lottie-ios",
       "description": "An iOS library to natively render After Effects vector animations",
-      "language": "Objective-C",
-      "stars": 14286,
-      "forks": 1896,
+      "language": "Swift",
+      "stars": 26628,
+      "forks": 3828,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 5,
@@ -111,15 +113,17 @@
       "repo_name": "AAChartKit",
       "full_name": "AAChartModel/AAChartKit",
       "url": "https://github.com/AAChartModel/AAChartKit",
-      "description": "📈📊An elegant and friendly chart library for iOS . Powerful,supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完…",
+      "description": "📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的现代化声明式数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.",
       "language": "Objective-C",
-      "stars": 2304,
-      "forks": 326,
+      "stars": 4763,
+      "forks": 750,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 8,
@@ -129,13 +133,15 @@
       "url": "https://github.com/zeplin/emoji-autocomplete-sketch-plugin",
       "description": "Type “:” followed by the first few letters to autocomplete emojis. 🍒",
       "language": "Objective-C",
-      "stars": 96,
-      "forks": 0,
+      "stars": 149,
+      "forks": 5,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 9,
@@ -207,15 +213,17 @@
       "repo_name": "Halfrost-Field",
       "full_name": "halfrost/Halfrost-Field",
       "url": "https://github.com/halfrost/Halfrost-Field",
-      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
-      "language": "Objective-C",
-      "stars": 2705,
-      "forks": 435,
+      "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Go",
+      "stars": 13290,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 14,
@@ -225,13 +233,15 @@
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
-      "stars": 20197,
-      "forks": 5223,
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 15,
@@ -241,13 +251,15 @@
       "url": "https://github.com/noodlewerk/NWPusher",
       "description": "OS X and iOS application and framework to play with the Apple Push Notification service (APNs)",
       "language": "Objective-C",
-      "stars": 4383,
-      "forks": 486,
+      "stars": 6323,
+      "forks": 675,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 16,
@@ -288,14 +300,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "Objective-C",
-      "stars": 11821,
-      "forks": 1945,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 19,
@@ -321,13 +335,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 31309,
-      "forks": 9622,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 21,
@@ -367,15 +383,17 @@
       "repo_name": "react-native-image-crop-picker",
       "full_name": "ivpusic/react-native-image-crop-picker",
       "url": "https://github.com/ivpusic/react-native-image-crop-picker",
-      "description": "iOS/Android image picker with support for camera, configurable compression, multiple images and cropping",
+      "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
       "language": "Objective-C",
-      "stars": 2331,
-      "forks": 526,
+      "stars": 6331,
+      "forks": 1608,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 24,
@@ -399,15 +417,17 @@
       "repo_name": "Dash-iOS",
       "full_name": "Kapeli/Dash-iOS",
       "url": "https://github.com/Kapeli/Dash-iOS",
-      "description": "Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets",
+      "description": "Dash for iOS was discontinued. Please check out Dash for macOS instead.",
       "language": "Objective-C",
-      "stars": 6536,
-      "forks": 899,
+      "stars": 7121,
+      "forks": 918,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     }
   ]
 }

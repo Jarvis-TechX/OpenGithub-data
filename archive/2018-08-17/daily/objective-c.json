@@ -15,15 +15,17 @@
       "repo_name": "JXCategoryView",
       "full_name": "pujiaxin33/JXCategoryView",
       "url": "https://github.com/pujiaxin33/JXCategoryView",
-      "description": "A powerful and easy to use category view (segmentedcontrol, pagingview, pagerview, pagecontrol, scrollview) (腾讯新闻、网易新闻、今日头条、QQ音乐、京东、爱奇艺等所有主流APP分类切换滚动视图)",
+      "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 305,
-      "forks": 48,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 2,
@@ -55,7 +57,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 4,
@@ -97,13 +101,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 31433,
-      "forks": 9641,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 7,
@@ -129,13 +135,15 @@
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
-      "stars": 20339,
-      "forks": 5234,
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 9,
@@ -145,13 +153,15 @@
       "url": "https://github.com/BradLarson/GPUImage",
       "description": "An open source iOS framework for GPU-based image and video processing",
       "language": "Objective-C",
-      "stars": 17818,
-      "forks": 4312,
+      "stars": 20343,
+      "forks": 4589,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 10,
@@ -159,15 +169,17 @@
       "repo_name": "AAChartKit",
       "full_name": "AAChartModel/AAChartKit",
       "url": "https://github.com/AAChartModel/AAChartKit",
-      "description": "📈📊An elegant and friendly chart library for iOS . Powerful,supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完…",
+      "description": "📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的现代化声明式数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.",
       "language": "Objective-C",
-      "stars": 2434,
-      "forks": 350,
+      "stars": 4763,
+      "forks": 750,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 11,
@@ -257,13 +269,15 @@
       "url": "https://github.com/realm/realm-cocoa",
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
-      "stars": 12411,
-      "forks": 1602,
+      "stars": 16587,
+      "forks": 2213,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 17,
@@ -287,15 +301,17 @@
       "repo_name": "hammerspoon",
       "full_name": "Hammerspoon/hammerspoon",
       "url": "https://github.com/Hammerspoon/hammerspoon",
-      "description": "Staggeringly powerful OS X desktop automation with Lua",
+      "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 3973,
-      "forks": 225,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 19,
@@ -399,15 +415,17 @@
       "repo_name": "Halfrost-Field",
       "full_name": "halfrost/Halfrost-Field",
       "url": "https://github.com/halfrost/Halfrost-Field",
-      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
-      "language": "Objective-C",
-      "stars": 2787,
-      "forks": 462,
+      "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Go",
+      "stars": 13290,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md"
+      "source_path": "/tmp/github-trending-backup/2018/08/2018-08-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     }
   ]
 }

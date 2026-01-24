@@ -16,14 +16,16 @@
       "full_name": "jackfrued/Python-100-Days",
       "url": "https://github.com/jackfrued/Python-100-Days",
       "description": "Python - 100天从新手到大师",
-      "language": "HTML",
-      "stars": 23766,
-      "forks": 8071,
+      "language": "Jupyter Notebook",
+      "stars": 177930,
+      "forks": 55296,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 2,
@@ -48,14 +50,16 @@
       "full_name": "jaywcjlove/linux-command",
       "url": "https://github.com/jaywcjlove/linux-command",
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
-      "language": "HTML",
-      "stars": 7214,
-      "forks": 1640,
+      "language": "Markdown",
+      "stars": 35395,
+      "forks": 6575,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 4,
@@ -95,15 +99,17 @@
       "repo_name": "nndl.github.io",
       "full_name": "nndl/nndl.github.io",
       "url": "https://github.com/nndl/nndl.github.io",
-      "description": "《神经网络与深度学习》 Neural Network and Deep Learning",
+      "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning ",
       "language": "HTML",
-      "stars": 7757,
-      "forks": 1635,
+      "stars": 18702,
+      "forks": 3677,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 7,
@@ -111,15 +117,17 @@
       "repo_name": "flutter-in-action",
       "full_name": "flutterchina/flutter-in-action",
       "url": "https://github.com/flutterchina/flutter-in-action",
-      "description": "《Flutter实战》电子书",
-      "language": "HTML",
-      "stars": 3280,
-      "forks": 483,
+      "description": "《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。",
+      "language": "JavaScript",
+      "stars": 8639,
+      "forks": 1678,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 8,
@@ -128,14 +136,16 @@
       "full_name": "YvetteLau/Blog",
       "url": "https://github.com/YvetteLau/Blog",
       "description": "【前端进阶】优质博文",
-      "language": "HTML",
-      "stars": 443,
-      "forks": 51,
+      "language": "JavaScript",
+      "stars": 2851,
+      "forks": 449,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 9,
@@ -144,14 +154,16 @@
       "full_name": "sveltejs/gl",
       "url": "https://github.com/sveltejs/gl",
       "description": "A (very experimental) project to bring WebGL to Svelte",
-      "language": "HTML",
-      "stars": 47,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 602,
+      "forks": 23,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 10,
@@ -160,14 +172,16 @@
       "full_name": "h5bp/Front-end-Developer-Interview-Questions",
       "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
       "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
-      "language": "HTML",
-      "stars": 40672,
-      "forks": 8211,
+      "language": "Nunjucks",
+      "stars": 60796,
+      "forks": 11095,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 11,
@@ -241,13 +255,15 @@
       "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
       "description": "吴恩达老师的机器学习课程个人笔记",
       "language": "HTML",
-      "stars": 8732,
-      "forks": 3480,
+      "stars": 36156,
+      "forks": 11127,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 17,
@@ -273,13 +289,15 @@
       "url": "https://github.com/facebookresearch/fastText",
       "description": "Library for fast text representation and classification.",
       "language": "HTML",
-      "stars": 18279,
-      "forks": 3449,
+      "stars": 26471,
+      "forks": 4818,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 19,
@@ -289,13 +307,15 @@
       "url": "https://github.com/FrontendMasters/front-end-handbook-2019",
       "description": "[Book] 2019 edition of our front-end development handbook",
       "language": "HTML",
-      "stars": 2126,
-      "forks": 170,
+      "stars": 4090,
+      "forks": 471,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 20,
@@ -343,7 +363,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-14.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 23,

@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "CorwinDev/Discord-Bot",
       "url": "https://github.com/CorwinDev/Discord-Bot",
       "description": "Discord Bot with over 400 commands and made for large servers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 894,
+      "forks": 794,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "stable-diffusion-ui",
       "full_name": "cmdr2/stable-diffusion-ui",
       "url": "https://github.com/cmdr2/stable-diffusion-ui",
-      "description": "Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+      "language": "JavaScript",
+      "stars": 10221,
+      "forks": 848,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "gchq/CyberChef",
       "url": "https://github.com/gchq/CyberChef",
       "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 33817,
+      "forks": 3829,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "listen1/listen1_desktop",
       "url": "https://github.com/listen1/listen1_desktop",
       "description": "one for all free music in china (Windows, Mac, Linux desktop)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11122,
+      "forks": 1516,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "javascript-testing-best-practices",
       "full_name": "goldbergyoni/javascript-testing-best-practices",
       "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
-      "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)",
+      "language": "JavaScript",
+      "stars": 24582,
+      "forks": 2100,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "Reamd7/notion-zh_CN",
       "url": "https://github.com/Reamd7/notion-zh_CN",
       "description": "notion 中文化",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7171,
+      "forks": 1020,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "rolling-scopes-school/tasks",
       "url": "https://github.com/rolling-scopes-school/tasks",
       "description": "* [https://github.com/WebKit/Speedometer](WebKit/Speedometer) An open source repository for the Speedometer benchmark",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3369,
+      "forks": 4741,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "beefproject/beef",
       "url": "https://github.com/beefproject/beef",
       "description": "The Browser Exploitation Framework Project",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10678,
+      "forks": 2342,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "btholt/citr-v8-project",
       "url": "https://github.com/btholt/citr-v8-project",
       "description": "Steps for the project for the Complete Intro to React v8 and Intermediate React v5",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1091,
+      "forks": 535,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "OpenCTI-Platform/opencti",
       "url": "https://github.com/OpenCTI-Platform/opencti",
       "description": "Open Cyber Threat Intelligence Platform",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 8124,
+      "forks": 1200,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "RSSHub",
       "full_name": "DIYgod/RSSHub",
       "url": "https://github.com/DIYgod/RSSHub",
-      "description": "🍰 Everything is RSSible",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🧡 Everything is RSSible",
+      "language": "TypeScript",
+      "stars": 41336,
+      "forks": 9074,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 16,
@@ -271,15 +301,17 @@
       "repo_name": "30-seconds-of-code",
       "full_name": "30-seconds/30-seconds-of-code",
       "url": "https://github.com/30-seconds/30-seconds-of-code",
-      "description": "Short JavaScript code snippets for all your development needs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Coding articles to level up your development skills",
+      "language": "JavaScript",
+      "stars": 126464,
+      "forks": 12416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 18,
@@ -295,7 +327,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 19,
@@ -304,14 +338,16 @@
       "full_name": "vernesong/OpenClash",
       "url": "https://github.com/vernesong/OpenClash",
       "description": "A Clash Client For OpenWrt",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 23948,
+      "forks": 3725,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "mermaid-js/mermaid",
       "url": "https://github.com/mermaid-js/mermaid",
       "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 85533,
+      "forks": 8533,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "discordjs/discord.js",
       "url": "https://github.com/discordjs/discord.js",
       "description": "A powerful JavaScript library for interacting with the Discord API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 26530,
+      "forks": 4062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "zadam/trilium",
       "url": "https://github.com/zadam/trilium",
       "description": "Build your personal knowledge base with Trilium Notes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 34282,
+      "forks": 2269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "Momo707577045/m3u8-downloader",
       "url": "https://github.com/Momo707577045/m3u8-downloader",
       "description": "m3u8 视频在线提取工具",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6866,
+      "forks": 1261,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "AdguardTeam/AdguardBrowserExtension",
       "url": "https://github.com/AdguardTeam/AdguardBrowserExtension",
       "description": "AdGuard browser extension",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 3944,
+      "forks": 407,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:36Z"
     }
   ]
 }

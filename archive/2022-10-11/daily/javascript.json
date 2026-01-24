@@ -16,14 +16,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "zadam/trilium",
       "url": "https://github.com/zadam/trilium",
       "description": "Build your personal knowledge base with Trilium Notes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 34282,
+      "forks": 2269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "remoteintech/remote-jobs",
       "url": "https://github.com/remoteintech/remote-jobs",
       "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Nunjucks",
+      "stars": 39953,
+      "forks": 3923,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 4,
@@ -65,13 +71,15 @@
       "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
       "description": "网易云音乐 Node.js API service",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 30302,
+      "forks": 15770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 115347,
+      "forks": 34470,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "up-for-grabs/up-for-grabs.net",
       "url": "https://github.com/up-for-grabs/up-for-grabs.net",
       "description": "This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5894,
+      "forks": 2252,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "cesium",
       "full_name": "CesiumGS/cesium",
       "url": "https://github.com/CesiumGS/cesium",
-      "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "An open-source JavaScript library for world-class 3D globes and maps :earth_americas:",
+      "language": "JavaScript",
+      "stars": 14757,
+      "forks": 3738,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "chinese-poetry",
       "full_name": "chinese-poetry/chinese-poetry",
       "url": "https://github.com/chinese-poetry/chinese-poetry",
-      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
+      "language": "JavaScript",
+      "stars": 50871,
+      "forks": 10285,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 110509,
+      "forks": 36242,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "iamkun/dayjs",
       "url": "https://github.com/iamkun/dayjs",
       "description": "⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 48518,
+      "forks": 2410,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "adrianhajdin/project_mern_memories",
       "url": "https://github.com/adrianhajdin/project_mern_memories",
       "description": "This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called \"Memories\" and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 5120,
+      "forks": 1884,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 14,
@@ -231,7 +257,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "RSSHub",
       "full_name": "DIYgod/RSSHub",
       "url": "https://github.com/DIYgod/RSSHub",
-      "description": "🍰 Everything is RSSible",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "🧡 Everything is RSSible",
+      "language": "TypeScript",
+      "stars": 41336,
+      "forks": 9074,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "echarts-for-weixin",
       "full_name": "ecomfe/echarts-for-weixin",
       "url": "https://github.com/ecomfe/echarts-for-weixin",
-      "description": "Apache ECharts 的微信小程序版本",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "基于 Apache ECharts 的微信小程序图表库",
+      "language": "JavaScript",
+      "stars": 7486,
+      "forks": 1609,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "vaxilu/x-ui",
       "url": "https://github.com/vaxilu/x-ui",
       "description": "支持多协议多用户的 xray 面板",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18684,
+      "forks": 7268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "webtorrent/webtorrent",
       "url": "https://github.com/webtorrent/webtorrent",
       "description": "⚡️ Streaming torrent client for the web",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30710,
+      "forks": 2783,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "lodash/lodash",
       "url": "https://github.com/lodash/lodash",
       "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 61594,
+      "forks": 7117,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "bpmn-io/bpmn-js",
       "url": "https://github.com/bpmn-io/bpmn-js",
       "description": "A BPMN 2.0 rendering toolkit and web modeler.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 9403,
+      "forks": 1438,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "reactplay/react-play",
       "url": "https://github.com/reactplay/react-play",
       "description": "react-play is an opensource platform that helps you learn ReactJS faster with hands-on practice model. It is a collection of projects that you can use to learn ReactJS.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1516,
+      "forks": 934,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "leaningtech/webvm",
       "url": "https://github.com/leaningtech/webvm",
       "description": "Virtual Machine for the Web",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 16285,
+      "forks": 3016,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-11.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     }
   ]
 }

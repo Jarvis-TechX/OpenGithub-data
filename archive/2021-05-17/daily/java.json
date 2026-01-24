@@ -16,14 +16,16 @@
       "full_name": "iluwatar/java-design-patterns",
       "url": "https://github.com/iluwatar/java-design-patterns",
       "description": "Design patterns implemented in Java",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 93649,
+      "forks": 27375,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "signalapp/Signal-Android",
       "url": "https://github.com/signalapp/Signal-Android",
       "description": "A private messenger for Android.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Kotlin",
+      "stars": 28193,
+      "forks": 6644,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "mrpkdeveloper/450-DSA-Questions",
       "url": "https://github.com/mrpkdeveloper/450-DSA-Questions",
       "description": "450- DSA Questions 🔥🔥",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 812,
+      "forks": 276,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "PojavLauncher",
       "full_name": "PojavLauncherTeam/PojavLauncher",
       "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
-      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
+      "language": "Java",
+      "stars": 8646,
+      "forks": 1807,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "Iris",
       "full_name": "IrisShaders/Iris",
       "url": "https://github.com/IrisShaders/Iris",
-      "description": "(WIP) A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "A modern shaders mod for Minecraft compatible with existing OptiFine shader packs",
+      "language": "Java",
+      "stars": 3660,
+      "forks": 720,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "subhra74/xdm",
       "url": "https://github.com/subhra74/xdm",
       "description": "Powerfull download accelerator and video downloader",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "C#",
+      "stars": 7561,
+      "forks": 1157,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "LSPosed",
       "full_name": "LSPosed/LSPosed",
       "url": "https://github.com/LSPosed/LSPosed",
-      "description": "LSPosed Xposed Framework.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "LSPosed Framework",
+      "language": "Java",
+      "stars": 22619,
+      "forks": 3454,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "openhab/openhab-addons",
       "url": "https://github.com/openhab/openhab-addons",
       "description": "Add-ons for openHAB",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2041,
+      "forks": 3714,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "AntennaPod/AntennaPod",
       "url": "https://github.com/AntennaPod/AntennaPod",
       "description": "A podcast manager for Android",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 7585,
+      "forks": 1600,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "Suwayomi/Tachidesk",
       "url": "https://github.com/Suwayomi/Tachidesk",
       "description": "A rewrite of Tachiyomi for the Desktop",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 6357,
+      "forks": 320,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "ballcat",
       "full_name": "ballcat-projects/ballcat",
       "url": "https://github.com/ballcat-projects/ballcat",
-      "description": "😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入等多种功能",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能",
+      "language": "Java",
+      "stars": 1710,
+      "forks": 314,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "subhashlamba/spring-boot-microservice-example",
       "url": "https://github.com/subhashlamba/spring-boot-microservice-example",
       "description": "Spring boot microservice example with Eureka Server + Eureka Client + Spring Cloud API Gateway + OAuth2.0 + Circuit Breaker + Resilience4J + FeignClient + RestTemplate",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 96,
+      "forks": 60,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "skchaudhari903/Accenture_Pre-Onboard",
       "url": "https://github.com/skchaudhari903/Accenture_Pre-Onboard",
       "description": "Accenture Pre-Onboard Learning Coding exercise solutions.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 148,
+      "forks": 108,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "MinecraftForge",
       "full_name": "MinecraftForge/MinecraftForge",
       "url": "https://github.com/MinecraftForge/MinecraftForge",
-      "description": "Modifications to the Minecraft base files to assist in compatibility between mods.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/",
+      "language": "Java",
+      "stars": 7474,
+      "forks": 2793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "M66B/FairEmail",
       "url": "https://github.com/M66B/FairEmail",
       "description": "Fully featured, open source, privacy friendly email app for Android",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 4131,
+      "forks": 682,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "huanghongxun/HMCL",
       "url": "https://github.com/huanghongxun/HMCL",
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 8708,
+      "forks": 816,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "SmartTubeNext",
       "full_name": "yuliskov/SmartTubeNext",
       "url": "https://github.com/yuliskov/SmartTubeNext",
-      "description": "Better YouTube experience on Android TV",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars": 27729,
+      "forks": 1486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "cabaletta/baritone",
       "url": "https://github.com/cabaletta/baritone",
       "description": "google maps for block game",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 8583,
+      "forks": 1756,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "JavaCourse00/JavaCourseCodes",
       "url": "https://github.com/JavaCourse00/JavaCourseCodes",
       "description": "JavaCourse",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 639,
+      "forks": 844,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 22,
@@ -359,7 +401,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 23,
@@ -367,15 +411,17 @@
       "repo_name": "Essentials",
       "full_name": "EssentialsX/Essentials",
       "url": "https://github.com/EssentialsX/Essentials",
-      "description": "The essential plugin suite for Minecraft servers.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "The modern Essentials suite for Spigot and Paper.",
+      "language": "Java",
+      "stars": 2190,
+      "forks": 1054,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "spring-microservices",
       "full_name": "in28minutes/spring-microservices",
       "url": "https://github.com/in28minutes/spring-microservices",
-      "description": "Spring Microservices using Spring Cloud",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "OLD - Microservices using Spring Boot, Spring Cloud, Docker and Kubernetes. Replaced by https://github.com/in28minutes/spring-microservices-v3",
+      "language": "Java",
+      "stars": 1867,
+      "forks": 2737,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "mission-peace/interview",
       "url": "https://github.com/mission-peace/interview",
       "description": "Interview questions",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 11254,
+      "forks": 5157,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2021-05/2021-05-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:22Z"
     }
   ]
 }

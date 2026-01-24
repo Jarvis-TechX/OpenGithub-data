@@ -47,15 +47,17 @@
       "repo_name": "itty-bitty",
       "full_name": "alcor/itty-bitty",
       "url": "https://github.com/alcor/itty-bitty",
-      "description": "Itty.bitty is a tool to create links that contain small sites",
-      "language": "HTML",
-      "stars": 2506,
-      "forks": 165,
+      "description": "Itty.bitty is a tool to create links that contain small sites ",
+      "language": "JavaScript",
+      "stars": 3448,
+      "forks": 256,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 4,
@@ -127,15 +129,17 @@
       "repo_name": "portainer",
       "full_name": "portainer/portainer",
       "url": "https://github.com/portainer/portainer",
-      "description": "Simple management UI for Docker",
-      "language": "HTML",
-      "stars": 8583,
-      "forks": 835,
+      "description": "Making Docker and Kubernetes management easy.",
+      "language": "TypeScript",
+      "stars": 36294,
+      "forks": 2759,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 9,
@@ -160,14 +164,16 @@
       "full_name": "jaywcjlove/awesome-mac",
       "url": "https://github.com/jaywcjlove/awesome-mac",
       "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
-      "language": "HTML",
-      "stars": 19650,
-      "forks": 2381,
+      "language": "JavaScript",
+      "stars": 98027,
+      "forks": 7334,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 11,
@@ -175,15 +181,17 @@
       "repo_name": "AdminLTE",
       "full_name": "almasaeed2010/AdminLTE",
       "url": "https://github.com/almasaeed2010/AdminLTE",
-      "description": "AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x",
-      "language": "HTML",
-      "stars": 23996,
-      "forks": 9210,
+      "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+      "language": "CSS",
+      "stars": 45267,
+      "forks": 18262,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 12,
@@ -192,14 +200,16 @@
       "full_name": "jaywcjlove/linux-command",
       "url": "https://github.com/jaywcjlove/linux-command",
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
-      "language": "HTML",
-      "stars": 2023,
-      "forks": 543,
+      "language": "Markdown",
+      "stars": 35395,
+      "forks": 6575,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 13,
@@ -241,13 +251,15 @@
       "url": "https://github.com/fengdu78/deeplearning_ai_books",
       "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
       "language": "HTML",
-      "stars": 2912,
-      "forks": 1063,
+      "stars": 20170,
+      "forks": 6105,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 17,
@@ -273,13 +285,15 @@
       "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
       "description": "吴恩达老师的机器学习课程个人笔记",
       "language": "HTML",
-      "stars": 4229,
-      "forks": 1458,
+      "stars": 36156,
+      "forks": 11127,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 19,
@@ -336,14 +350,16 @@
       "full_name": "alphapapa/emacs-package-dev-handbook",
       "url": "https://github.com/alphapapa/emacs-package-dev-handbook",
       "description": "An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.",
-      "language": "HTML",
-      "stars": 64,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1196,
+      "forks": 48,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     },
     {
       "rank": 23,
@@ -383,15 +399,17 @@
       "repo_name": "brain.js",
       "full_name": "BrainJS/brain.js",
       "url": "https://github.com/BrainJS/brain.js",
-      "description": "🤖 Neural networks in JavaScript",
-      "language": "HTML",
-      "stars": 5495,
-      "forks": 425,
+      "description": "🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js",
+      "language": "TypeScript",
+      "stars": 14839,
+      "forks": 1082,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md"
+      "source_path": "/tmp/github-trending-backup/2018/07/2018-07-13.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:59Z"
     }
   ]
 }

@@ -15,15 +15,17 @@
       "repo_name": "budibase",
       "full_name": "Budibase/budibase",
       "url": "https://github.com/Budibase/budibase",
-      "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+      "language": "TypeScript",
+      "stars": 27566,
+      "forks": 2068,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "hiring-without-whiteboards",
       "full_name": "poteto/hiring-without-whiteboards",
       "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "description": "⭐️ Companies that don't have a broken hiring process",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⭐️  Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "stars": 50361,
+      "forks": 3880,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "material-ui",
       "full_name": "mui-org/material-ui",
       "url": "https://github.com/mui-org/material-ui",
-      "description": "MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "language": "JavaScript",
+      "stars": 97679,
+      "forks": 32793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "Rocket.Chat",
       "full_name": "RocketChat/Rocket.Chat",
       "url": "https://github.com/RocketChat/Rocket.Chat",
-      "description": "The communications platform that puts data protection first.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Secure CommsOS™ for mission-critical operations",
+      "language": "TypeScript",
+      "stars": 44394,
+      "forks": 13003,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "denysdovhan/wtfjs",
       "url": "https://github.com/denysdovhan/wtfjs",
       "description": "🤪 A list of funny and tricky JavaScript examples",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 37609,
+      "forks": 2670,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "facebook/react-native",
       "url": "https://github.com/facebook/react-native",
       "description": "A framework for building native applications using React",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 125168,
+      "forks": 25062,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "HughChen/qr_image",
       "url": "https://github.com/HughChen/qr_image",
       "description": "A web app to generate valid QR codes with readable images.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 530,
+      "forks": 60,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "jquense/react-big-calendar",
       "url": "https://github.com/jquense/react-big-calendar",
       "description": "gcal/outlook like calendar component",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8639,
+      "forks": 2312,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "atom",
       "full_name": "atom/atom",
       "url": "https://github.com/atom/atom",
-      "description": "The hackable text editor",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":atom: The hackable text editor",
+      "language": "JavaScript",
+      "stars": 60998,
+      "forks": 17302,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "aws-actions/configure-aws-credentials",
       "url": "https://github.com/aws-actions/configure-aws-credentials",
       "description": "Configure AWS credential environment variables for use in other GitHub Actions.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 2858,
+      "forks": 555,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "Th3Wall/Fakeflix",
       "url": "https://github.com/Th3Wall/Fakeflix",
       "description": "Not the usual clone that you can find on the web.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4972,
+      "forks": 687,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "netlify/netlify-cms",
       "url": "https://github.com/netlify/netlify-cms",
       "description": "A Git-based CMS for Static Site Generators",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 18852,
+      "forks": 3107,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "JDHelloWorld/jd_scripts",
       "url": "https://github.com/JDHelloWorld/jd_scripts",
       "description": "* [https://github.com/semantic-release/semantic-release](semantic-release/semantic-release) 📦🚀 Fully automated version management and package publishing",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2261,
+      "forks": 989,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "nolimits4web/swiper",
       "url": "https://github.com/nolimits4web/swiper",
       "description": "Most modern mobile touch slider with hardware accelerated transitions",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 41763,
+      "forks": 9716,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "CleverProgrammers/opensea-blockchain-youtube",
       "url": "https://github.com/CleverProgrammers/opensea-blockchain-youtube",
       "description": "* [https://github.com/cypress-io/cypress](cypress-io/cypress) Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 173,
+      "forks": 226,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "odoo/odoo",
       "url": "https://github.com/odoo/odoo",
       "description": "Odoo. Open Source Apps To Grow Your Business.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 48619,
+      "forks": 31203,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 18,
@@ -295,7 +329,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "WordPress/gutenberg",
       "url": "https://github.com/WordPress/gutenberg",
       "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11532,
+      "forks": 4691,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "alnoda-workspaces",
       "full_name": "bluxmit/alnoda-workspaces",
       "url": "https://github.com/bluxmit/alnoda-workspaces",
-      "description": "Dockerized workspaces",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":fireworks: Flexible and extendable containerized workspaces. Now. with free offline chat GPT!!!  🚀🚀🚀",
+      "language": "Dockerfile",
+      "stars": 1364,
+      "forks": 122,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "sudheerj/reactjs-interview-questions",
       "url": "https://github.com/sudheerj/reactjs-interview-questions",
       "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 44127,
+      "forks": 10264,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "smiek2121/scripts",
       "url": "https://github.com/smiek2121/scripts",
       "description": "* [https://github.com/usablica/intro.js](usablica/intro.js) Lightweight, user-friendly onboarding tour library",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 395,
+      "forks": 204,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-02/2022-02-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:28Z"
     }
   ]
 }

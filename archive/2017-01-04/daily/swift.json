@@ -336,14 +336,16 @@
       "full_name": "onevcat/AddressParser",
       "url": "https://github.com/onevcat/AddressParser",
       "description": "Email address parser.",
-      "language": "swift",
-      "stars": 24,
-      "forks": 0,
+      "language": "Swift",
+      "stars": 68,
+      "forks": 7,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2017/01/2017-01-04.md"
+      "source_path": "/tmp/github-trending-backup/2017/01/2017-01-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:46Z"
     },
     {
       "rank": 22,

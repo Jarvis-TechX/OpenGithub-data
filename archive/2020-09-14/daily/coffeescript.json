@@ -16,14 +16,16 @@
       "full_name": "Qix-/node-error-ex",
       "url": "https://github.com/Qix-/node-error-ex",
       "description": "Easy error subclassing and stack customization",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 66,
+      "forks": 13,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-14.md"
+      "source_path": "/tmp/trending_archive/2020/2020-09/2020-09-14.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:16Z"
     }
   ]
 }

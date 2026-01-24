@@ -15,15 +15,17 @@
       "repo_name": "intro-curriculum-3006",
       "full_name": "progedu/intro-curriculum-3006",
       "url": "https://github.com/progedu/intro-curriculum-3006",
-      "description": "36 (ISC License)",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": "入門コースの3章6節の練習 (ISC License)",
+      "language": "CoffeeScript",
+      "stars": 1,
+      "forks": 1875,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-22.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "taigaio/taiga-front",
       "url": "https://github.com/taigaio/taiga-front",
       "description": "Agile project management platform. Built on top of Django and AngularJS",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 351,
+      "forks": 185,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-22.md"
+      "source_path": "/tmp/trending_archive/2020/2020-06/2020-06-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:15Z"
     }
   ]
 }

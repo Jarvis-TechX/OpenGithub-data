@@ -15,15 +15,17 @@
       "repo_name": "chat-gpt-google-extension",
       "full_name": "wong2/chat-gpt-google-extension",
       "url": "https://github.com/wong2/chat-gpt-google-extension",
-      "description": "A browser extension to display ChatGPT response alongside Google Search results",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "This project is deprecated. Check my new project ChatHub:",
+      "language": "TypeScript",
+      "stars": 13166,
+      "forks": 1485,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "vincelwt/chatgpt-mac",
       "url": "https://github.com/vincelwt/chatgpt-mac",
       "description": "ChatGPT for Mac, living in your menubar.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6325,
+      "forks": 492,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "openai/openai-quickstart-node",
       "url": "https://github.com/openai/openai-quickstart-node",
       "description": "Node.js example app from the OpenAI API quickstart tutorial",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2625,
+      "forks": 2004,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 4,
@@ -80,14 +86,16 @@
       "full_name": "timqian/chinese-independent-blogs",
       "url": "https://github.com/timqian/chinese-independent-blogs",
       "description": "中文独立博客列表",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 22644,
+      "forks": 2621,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 6,
@@ -96,14 +104,16 @@
       "full_name": "lorenSchmidt/fractal_cell_noise",
       "url": "https://github.com/lorenSchmidt/fractal_cell_noise",
       "description": "a fractal noise algorithm most closely related to cellular noise algorithms such as worley noise",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 267,
+      "forks": 8,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 7,
@@ -112,14 +122,16 @@
       "full_name": "MobSF/Mobile-Security-Framework-MobSF",
       "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
       "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20252,
+      "forks": 3571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 8,
@@ -128,14 +140,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 9,
@@ -144,14 +158,16 @@
       "full_name": "ZohaibAhmed/ChatGPT-Google",
       "url": "https://github.com/ZohaibAhmed/ChatGPT-Google",
       "description": "Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 520,
+      "forks": 53,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 10,
@@ -160,14 +176,16 @@
       "full_name": "rolling-scopes-school/tasks",
       "url": "https://github.com/rolling-scopes-school/tasks",
       "description": "* [https://github.com/cryptoseeker54/Pancakeprediction-AIevolved](cryptoseeker54/Pancakeprediction-AIevolved) Pancakeswap prediction bot, evolved with artificial intelligence to have a 70% earn rate.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3369,
+      "forks": 4741,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 11,
@@ -176,14 +194,16 @@
       "full_name": "denysdovhan/wtfjs",
       "url": "https://github.com/denysdovhan/wtfjs",
       "description": "🤪 A list of funny and tricky JavaScript examples",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 37609,
+      "forks": 2670,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 12,
@@ -192,14 +212,16 @@
       "full_name": "vjeux/video-editor",
       "url": "https://github.com/vjeux/video-editor",
       "description": "Created with CodeSandbox",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 147,
+      "forks": 9,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 13,
@@ -207,15 +229,17 @@
       "repo_name": "webfunny_monitor",
       "full_name": "a597873885/webfunny_monitor",
       "url": "https://github.com/a597873885/webfunny_monitor",
-      "description": "webfunny是一款轻量级的前端监控系统，webfunny也是一款前端性能监控系统，无埋点监控前端日志，实时分析前端健康状态。webfunny is a lightweight front-end monitoring system and webfunny is also a front-end performance monitoring system. It monitors front-end logs and analyzes front-end health status in real time.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.",
+      "language": "JavaScript",
+      "stars": 5294,
+      "forks": 884,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 14,
@@ -224,14 +248,16 @@
       "full_name": "react-grid-layout/react-grid-layout",
       "url": "https://github.com/react-grid-layout/react-grid-layout",
       "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 21984,
+      "forks": 2699,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 15,
@@ -240,14 +266,16 @@
       "full_name": "pixeltris/TwitchAdSolutions",
       "url": "https://github.com/pixeltris/TwitchAdSolutions",
       "description": "* [https://github.com/gatsbyjs/gatsby](gatsbyjs/gatsby) The fastest frontend for the headless web. Build modern websites with React.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 10739,
+      "forks": 571,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 16,
@@ -263,7 +291,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 17,
@@ -279,7 +309,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 18,
@@ -288,14 +320,16 @@
       "full_name": "module-federation/module-federation-examples",
       "url": "https://github.com/module-federation/module-federation-examples",
       "description": "Implementation examples of module federation , by the creators of module federation",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 6083,
+      "forks": 1836,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 19,
@@ -304,14 +338,16 @@
       "full_name": "digitalocean/nginxconfig.io",
       "url": "https://github.com/digitalocean/nginxconfig.io",
       "description": "⚙️ NGINX config generator on steroids 💉",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 28314,
+      "forks": 2073,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 20,
@@ -327,7 +363,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 21,
@@ -336,14 +374,16 @@
       "full_name": "showdownjs/showdown",
       "url": "https://github.com/showdownjs/showdown",
       "description": "A bidirectional Markdown to HTML to Markdown converter written in Javascript",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 14808,
+      "forks": 1579,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "ed-roh/mern-social-media",
       "url": "https://github.com/ed-roh/mern-social-media",
       "description": "Complete React MERN Full Stack Social Media App",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1103,
+      "forks": 894,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "ascoders/weekly",
       "url": "https://github.com/ascoders/weekly",
       "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30810,
+      "forks": 3279,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-12/2022-12-07.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     }
   ]
 }

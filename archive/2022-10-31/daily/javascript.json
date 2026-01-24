@@ -16,14 +16,16 @@
       "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
       "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
       "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30690,
+      "forks": 2564,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "yyx990803/vite-vs-next-turbo-hmr",
       "url": "https://github.com/yyx990803/vite-vs-next-turbo-hmr",
       "description": "Benchmarking Vite vs. Next + turbopack HMR performance",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 932,
+      "forks": 37,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "minbrowser/min",
       "url": "https://github.com/minbrowser/min",
       "description": "A fast, minimal browser that protects your privacy",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8830,
+      "forks": 816,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "adrianhajdin/project_syncfusion_dashboard",
       "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
       "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 3139,
+      "forks": 1084,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "lx-music-desktop",
       "full_name": "lyswhut/lx-music-desktop",
       "url": "https://github.com/lyswhut/lx-music-desktop",
-      "description": "一个基于 electron 的音乐软件",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "一个基于 Electron 的音乐软件",
+      "language": "TypeScript",
+      "stars": 48434,
+      "forks": 6615,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "vernesong/OpenClash",
       "url": "https://github.com/vernesong/OpenClash",
       "description": "A Clash Client For OpenWrt",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 23948,
+      "forks": 3725,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 7,
@@ -119,7 +131,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "spicetify-cli",
       "full_name": "spicetify/spicetify-cli",
       "url": "https://github.com/spicetify/spicetify-cli",
-      "description": "Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
+      "language": "JavaScript",
+      "stars": 21992,
+      "forks": 827,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "ViktoryiaYatskova/clean-code-s1e1",
       "url": "https://github.com/ViktoryiaYatskova/clean-code-s1e1",
       "description": "* [https://github.com/blackmatrix7/ios_rule_script](blackmatrix7/ios_rule_script) 分流规则、重写写规则及脚本。",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 42,
+      "forks": 4415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 10,
@@ -167,7 +185,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "30-seconds-of-code",
       "full_name": "30-seconds/30-seconds-of-code",
       "url": "https://github.com/30-seconds/30-seconds-of-code",
-      "description": "Short JavaScript code snippets for all your development needs",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Coding articles to level up your development skills",
+      "language": "JavaScript",
+      "stars": 126464,
+      "forks": 12416,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "openwrt/luci",
       "url": "https://github.com/openwrt/luci",
       "description": "LuCI - OpenWrt Configuration Interface",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 7389,
+      "forks": 2764,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "reisxd/revanced-builder",
       "url": "https://github.com/reisxd/revanced-builder",
       "description": "A NodeJS ReVanced builder",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1884,
+      "forks": 181,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
       "url": "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui",
       "description": "Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 13497,
+      "forks": 709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "ToolJet",
       "full_name": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
-      "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 37326,
+      "forks": 4935,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 16,
@@ -255,15 +285,17 @@
       "repo_name": "LinkFree",
       "full_name": "EddieHubCommunity/LinkFree",
       "url": "https://github.com/EddieHubCommunity/LinkFree",
-      "description": "Open source alternative to LinkTree",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
+      "language": "JavaScript",
+      "stars": 5740,
+      "forks": 4057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "trekhleb/javascript-algorithms",
       "url": "https://github.com/trekhleb/javascript-algorithms",
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 195413,
+      "forks": 31119,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "30-Days-Of-React",
       "full_name": "Asabeneh/30-Days-Of-React",
       "url": "https://github.com/Asabeneh/30-Days-Of-React",
-      "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 27299,
+      "forks": 7720,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "yoimiya-kokomi/miao-plugin",
       "url": "https://github.com/yoimiya-kokomi/miao-plugin",
       "description": "Miao-Plugin for Yunzai-Bot",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1548,
+      "forks": 238,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "zadam/trilium",
       "url": "https://github.com/zadam/trilium",
       "description": "Build your personal knowledge base with Trilium Notes",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 34282,
+      "forks": 2269,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "bchiang7/v4",
       "url": "https://github.com/bchiang7/v4",
       "description": "Fourth iteration of my personal website built with Gatsby",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 8161,
+      "forks": 4220,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "adrianhajdin/ecommerce_sanity_stripe",
       "url": "https://github.com/adrianhajdin/ecommerce_sanity_stripe",
       "description": "Modern Full Stack ECommerce Application with Stripe",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2305,
+      "forks": 704,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-10/2022-10-31.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:34Z"
     }
   ]
 }

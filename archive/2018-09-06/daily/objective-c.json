@@ -15,15 +15,17 @@
       "repo_name": "react-native-screens",
       "full_name": "kmagiera/react-native-screens",
       "url": "https://github.com/kmagiera/react-native-screens",
-      "description": "First incomplete navigation solution for your React Native app",
-      "language": "Objective-C",
-      "stars": 93,
-      "forks": 0,
+      "description": "Native navigation primitives for your React Native app.",
+      "language": "TypeScript",
+      "stars": 3574,
+      "forks": 612,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 2,
@@ -33,13 +35,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 1236,
-      "forks": 223,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 3,
@@ -143,15 +147,17 @@
       "repo_name": "react-native-image-crop-picker",
       "full_name": "ivpusic/react-native-image-crop-picker",
       "url": "https://github.com/ivpusic/react-native-image-crop-picker",
-      "description": "iOS/Android image picker with support for camera, configurable compression, multiple images and cropping",
+      "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
       "language": "Objective-C",
-      "stars": 2553,
-      "forks": 567,
+      "stars": 6331,
+      "forks": 1608,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 10,
@@ -209,13 +215,15 @@
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
-      "stars": 6961,
-      "forks": 1220,
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 14,
@@ -241,13 +249,15 @@
       "url": "https://github.com/rs/SDWebImage",
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
-      "stars": 20424,
-      "forks": 5261,
+      "stars": 25910,
+      "forks": 5996,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 16,
@@ -305,13 +315,15 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 31491,
-      "forks": 9657,
+      "stars": 33735,
+      "forks": 10497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 20,
@@ -383,15 +395,17 @@
       "repo_name": "Halfrost-Field",
       "full_name": "halfrost/Halfrost-Field",
       "url": "https://github.com/halfrost/Halfrost-Field",
-      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
-      "language": "Objective-C",
-      "stars": 2830,
-      "forks": 478,
+      "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Go",
+      "stars": 13290,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/09/2018-09-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:00Z"
     },
     {
       "rank": 25,

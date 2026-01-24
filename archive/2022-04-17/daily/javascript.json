@@ -16,14 +16,16 @@
       "full_name": "facebook/lexical",
       "url": "https://github.com/facebook/lexical",
       "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 22820,
+      "forks": 2075,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "YouTube.js",
       "full_name": "LuanRT/YouTube.js",
       "url": "https://github.com/LuanRT/YouTube.js",
-      "description": "🎥 full-featured wrapper around YouTube's private API",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "A JavaScript client for YouTube's private API, known as InnerTube.",
+      "language": "TypeScript",
+      "stars": 4685,
+      "forks": 340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "medusa",
       "full_name": "medusajs/medusa",
       "url": "https://github.com/medusajs/medusa",
-      "description": "The open-source Shopify alternative ⚡️",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The world's most flexible commerce platform.",
+      "language": "TypeScript",
+      "stars": 31823,
+      "forks": 4003,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 4,
@@ -65,13 +71,15 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 269698,
+      "forks": 12308,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
       "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
       "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 30690,
+      "forks": 2564,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "budibase",
       "full_name": "Budibase/budibase",
       "url": "https://github.com/Budibase/budibase",
-      "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..",
+      "language": "TypeScript",
+      "stars": 27566,
+      "forks": 2068,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 7,
@@ -113,13 +125,15 @@
       "url": "https://github.com/WeeJeWel/wg-easy",
       "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 854,
+      "forks": 141,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "docmirror/dev-sidecar",
       "url": "https://github.com/docmirror/dev-sidecar",
       "description": "开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20802,
+      "forks": 2560,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "BetaSu/fe-hunter",
       "url": "https://github.com/BetaSu/fe-hunter",
       "description": "每天一道题，3个月后，你就是面试小能手，答题还能赚钱哦",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1667,
+      "forks": 115,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "fireship-io/skydiving-cat-parallax",
       "url": "https://github.com/fireship-io/skydiving-cat-parallax",
       "description": "React Spring Parallax Demo",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 147,
+      "forks": 77,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 11,
@@ -183,7 +203,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "ndaidong/article-parser",
       "url": "https://github.com/ndaidong/article-parser",
       "description": "To extract main article from given URL with Node.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1859,
+      "forks": 154,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "jklepatch/eattheblocks",
       "url": "https://github.com/jklepatch/eattheblocks",
       "description": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4002,
+      "forks": 3139,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "electron/electron-quick-start",
       "url": "https://github.com/electron/electron-quick-start",
       "description": "Clone to try a simple Electron app",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 11528,
+      "forks": 4947,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "crwn-clothing-v2",
       "full_name": "ZhangMYihua/crwn-clothing-v2",
       "url": "https://github.com/ZhangMYihua/crwn-clothing-v2",
-      "description": "Version 2 of Crwn-Clothing!",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Version 2 of Crwn-Clothing! ",
+      "language": "JavaScript",
+      "stars": 513,
+      "forks": 5659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 137303,
+      "forks": 30340,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "JDWXX/ql_all",
       "url": "https://github.com/JDWXX/ql_all",
       "description": "* [https://github.com/theajack/dingdong-node](theajack/dingdong-node) 叮咚买菜nodejs自动下单脚本，支持邮件强通知和定时任务，支持捡漏和高峰模式",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 299,
+      "forks": 191,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 18,
@@ -295,7 +329,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "SortableJS/Vue.Draggable",
       "url": "https://github.com/SortableJS/Vue.Draggable",
       "description": "Vue drag-and-drop component based on Sortable.js",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 20634,
+      "forks": 2877,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "smiek2121/scripts",
       "url": "https://github.com/smiek2121/scripts",
       "description": "* [https://github.com/nirui/sshwifty](nirui/sshwifty) Web SSH & Telnet (WebSSH & WebTelnet client) 🔮",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 395,
+      "forks": 204,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 21,
@@ -335,15 +375,17 @@
       "repo_name": "kit",
       "full_name": "sveltejs/kit",
       "url": "https://github.com/sveltejs/kit",
-      "description": "The fastest way to build Svelte apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "web development, streamlined",
+      "language": "JavaScript",
+      "stars": 20207,
+      "forks": 2194,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "planka",
       "full_name": "plankanban/planka",
       "url": "https://github.com/plankanban/planka",
-      "description": "The realtime kanban board for workgroups built with React and Redux.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "PLANKA is the kanban-style project mastering tool for everyone.",
+      "language": "JavaScript",
+      "stars": 11380,
+      "forks": 1169,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-04/2022-04-17.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:30Z"
     }
   ]
 }

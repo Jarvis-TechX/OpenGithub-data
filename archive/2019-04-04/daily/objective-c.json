@@ -16,14 +16,16 @@
       "full_name": "birkir/react-native-carplay",
       "url": "https://github.com/birkir/react-native-carplay",
       "description": "CarPlay with React Native",
-      "language": "Objective-C",
-      "stars": 134,
-      "forks": 2,
+      "language": "TypeScript",
+      "stars": 779,
+      "forks": 132,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 2,
@@ -63,15 +65,17 @@
       "repo_name": "Mango",
       "full_name": "YPLiang19/Mango",
       "url": "https://github.com/YPLiang19/Mango",
-      "description": "Mango is a DSL which syntax is very similar to Objective-C，Mango is also an iOS App hotfix SDK. You can use Mango method replace any Objective-C method.",
+      "description": "MangoFix is a DSL which syntax is very similar to Objective-C，MangoFix is also an iOS  App hotfix SDK. You can use MangoFix method replace any Objective-C or Swift method.",
       "language": "Objective-C",
-      "stars": 342,
-      "forks": 26,
+      "stars": 1198,
+      "forks": 218,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 5,
@@ -79,15 +83,17 @@
       "repo_name": "GHGestureDemo",
       "full_name": "shabake/GHGestureDemo",
       "url": "https://github.com/shabake/GHGestureDemo",
-      "description": "仿淘宝捏合手势和拖拽手势调整相机镜头焦距",
+      "description": "仿闲鱼/淘宝/京东扫一扫捏合手势和拖拽手势动态调整相机镜头焦距 Imitation fish / Taobao / Jingdong sweep and pinch gestures and drag gestures to dynamically adjust the camera lens focal length",
       "language": "Objective-C",
-      "stars": 26,
-      "forks": 0,
+      "stars": 41,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 6,
@@ -96,14 +102,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "Objective-C",
-      "stars": 12894,
-      "forks": 2043,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 7,
@@ -129,13 +137,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 2911,
-      "forks": 540,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 9,
@@ -224,14 +234,16 @@
       "full_name": "react-native-community/react-native-maps",
       "url": "https://github.com/react-native-community/react-native-maps",
       "description": "React Native Mapview component for iOS + Android",
-      "language": "Objective-C",
-      "stars": 9207,
-      "forks": 2843,
+      "language": "TypeScript",
+      "stars": 15861,
+      "forks": 4963,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 15,
@@ -239,15 +251,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 5801,
-      "forks": 603,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 16,
@@ -289,13 +303,15 @@
       "url": "https://github.com/Cenmrev/V2RayX",
       "description": "GUI for v2ray-core on macOS",
       "language": "Objective-C",
-      "stars": 2197,
-      "forks": 346,
+      "stars": 7672,
+      "forks": 1126,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 19,
@@ -351,15 +367,17 @@
       "repo_name": "Halfrost-Field",
       "full_name": "halfrost/Halfrost-Field",
       "url": "https://github.com/halfrost/Halfrost-Field",
-      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
-      "language": "Objective-C",
-      "stars": 3756,
-      "forks": 604,
+      "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Go",
+      "stars": 13290,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 23,
@@ -368,14 +386,16 @@
       "full_name": "react-native-community/react-native-webview",
       "url": "https://github.com/react-native-community/react-native-webview",
       "description": "React Native Cross-Platform WebView",
-      "language": "Objective-C",
-      "stars": 894,
-      "forks": 279,
+      "language": "TypeScript",
+      "stars": 7078,
+      "forks": 3148,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     },
     {
       "rank": 24,
@@ -401,13 +421,15 @@
       "url": "https://github.com/Hammerspoon/hammerspoon",
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
-      "stars": 4548,
-      "forks": 264,
+      "stars": 14341,
+      "forks": 659,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md"
+      "source_path": "/tmp/github-trending-backup/2019/04/2019-04-04.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:05Z"
     }
   ]
 }

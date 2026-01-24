@@ -32,14 +32,16 @@
       "full_name": "skyline-emu/skyline",
       "url": "https://github.com/skyline-emu/skyline",
       "description": "Run Nintendo Switch homebrew & games on your Android device!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 27,
+      "forks": 4,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 3,
@@ -48,14 +50,16 @@
       "full_name": "azerothcore/azerothcore-wotlk",
       "url": "https://github.com/azerothcore/azerothcore-wotlk",
       "description": "Complete Open Source and Modular solution for MMO",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 7941,
+      "forks": 3170,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 4,
@@ -64,14 +68,16 @@
       "full_name": "Atmosphere-NX/Atmosphere",
       "url": "https://github.com/Atmosphere-NX/Atmosphere",
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 17776,
+      "forks": 1375,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 5,
@@ -87,7 +93,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 6,
@@ -96,14 +104,16 @@
       "full_name": "ocornut/imgui",
       "url": "https://github.com/ocornut/imgui",
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 70908,
+      "forks": 11486,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 7,
@@ -112,14 +122,16 @@
       "full_name": "ethereum/solidity",
       "url": "https://github.com/ethereum/solidity",
       "description": "Solidity, the Smart Contract Programming Language",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 25510,
+      "forks": 6298,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 8,
@@ -135,7 +147,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 9,
@@ -144,14 +158,16 @@
       "full_name": "scottbez1/smartknob",
       "url": "https://github.com/scottbez1/smartknob",
       "description": "Haptic input knob with software-defined endstops and virtual detents",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 21321,
+      "forks": 1226,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 10,
@@ -159,15 +175,17 @@
       "repo_name": "WLED",
       "full_name": "Aircoookie/WLED",
       "url": "https://github.com/Aircoookie/WLED",
-      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+      "language": "C++",
+      "stars": 17386,
+      "forks": 3976,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 11,
@@ -183,7 +201,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 12,
@@ -192,14 +212,16 @@
       "full_name": "musescore/MuseScore",
       "url": "https://github.com/musescore/MuseScore",
       "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14181,
+      "forks": 3057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 13,
@@ -208,14 +230,16 @@
       "full_name": "xbmc/xbmc",
       "url": "https://github.com/xbmc/xbmc",
       "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 20340,
+      "forks": 6479,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 14,
@@ -231,7 +255,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 15,
@@ -239,15 +265,17 @@
       "repo_name": "BetterNCM",
       "full_name": "MicroCBer/BetterNCM",
       "url": "https://github.com/MicroCBer/BetterNCM",
-      "description": "NCM 软件插件管理器",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器",
+      "language": "C++",
+      "stars": 8201,
+      "forks": 382,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 16,
@@ -256,14 +284,16 @@
       "full_name": "MaaAssistantArknights/MaaAssistantArknights",
       "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 19281,
+      "forks": 2452,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 17,
@@ -271,15 +301,17 @@
       "repo_name": "Waybar",
       "full_name": "Alexays/Waybar",
       "url": "https://github.com/Alexays/Waybar",
-      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+      "language": "C++",
+      "stars": 10473,
+      "forks": 969,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 18,
@@ -287,15 +319,17 @@
       "repo_name": "electron",
       "full_name": "electron/electron",
       "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "stars": 119872,
+      "forks": 16947,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 19,
@@ -311,7 +345,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 20,
@@ -320,14 +356,16 @@
       "full_name": "mltframework/shotcut",
       "url": "https://github.com/mltframework/shotcut",
       "description": "cross-platform (Qt), open-source (GPLv3) video editor",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 13315,
+      "forks": 1306,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 21,
@@ -335,15 +373,17 @@
       "repo_name": "Qv2ray",
       "full_name": "Qv2ray/Qv2ray",
       "url": "https://github.com/Qv2ray/Qv2ray",
-      "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:",
+      "language": "C++",
+      "stars": 17004,
+      "forks": 3233,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 22,
@@ -352,14 +392,16 @@
       "full_name": "TheAlgorithms/C-Plus-Plus",
       "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
       "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33733,
+      "forks": 7702,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 23,
@@ -368,14 +410,16 @@
       "full_name": "xenia-project/xenia",
       "url": "https://github.com/xenia-project/xenia",
       "description": "Xbox 360 Emulator Research Project",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 9162,
+      "forks": 1277,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     },
     {
       "rank": 24,
@@ -384,14 +428,16 @@
       "full_name": "aristocratos/btop",
       "url": "https://github.com/aristocratos/btop",
       "description": "A monitor of resources",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 29872,
+      "forks": 901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md"
+      "source_path": "/tmp/trending_archive/2023/2023-05/2023-05-08.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:39Z"
     }
   ]
 }

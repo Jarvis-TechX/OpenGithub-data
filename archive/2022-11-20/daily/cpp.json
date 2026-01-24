@@ -16,14 +16,16 @@
       "full_name": "zhongyang219/TrafficMonitor",
       "url": "https://github.com/zhongyang219/TrafficMonitor",
       "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 42853,
+      "forks": 3580,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "aria2/aria2",
       "url": "https://github.com/aria2/aria2",
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 39802,
+      "forks": 3809,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "qbittorrent/qBittorrent",
       "url": "https://github.com/qbittorrent/qBittorrent",
       "description": "qBittorrent BitTorrent client",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35148,
+      "forks": 4544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "PCSX2/pcsx2",
       "url": "https://github.com/PCSX2/pcsx2",
       "description": "PCSX2 - The Playstation 2 Emulator",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 14267,
+      "forks": 1862,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "godotengine/godot",
       "url": "https://github.com/godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 105765,
+      "forks": 24121,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "Stockfish",
       "full_name": "official-stockfish/Stockfish",
       "url": "https://github.com/official-stockfish/Stockfish",
-      "description": "UCI chess engine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "A free and strong UCI chess engine",
+      "language": "C++",
+      "stars": 14549,
+      "forks": 2736,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "dxvk",
       "full_name": "doitsujin/dxvk",
       "url": "https://github.com/doitsujin/dxvk",
-      "description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
+      "language": "C++",
+      "stars": 16436,
+      "forks": 1054,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "WLED",
       "full_name": "Aircoookie/WLED",
       "url": "https://github.com/Aircoookie/WLED",
-      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+      "language": "C++",
+      "stars": 17386,
+      "forks": 3976,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "topjohnwu/Magisk",
       "url": "https://github.com/topjohnwu/Magisk",
       "description": "The Magic Mask for Android",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Rust",
+      "stars": 58303,
+      "forks": 16496,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "PrismLauncher/PrismLauncher",
       "url": "https://github.com/PrismLauncher/PrismLauncher",
       "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 8541,
+      "forks": 1086,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "cmu-db/bustub",
       "url": "https://github.com/cmu-db/bustub",
       "description": "The BusTub Relational Database Management System (Educational)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4820,
+      "forks": 1993,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "SerenityOS/serenity",
       "url": "https://github.com/SerenityOS/serenity",
       "description": "The Serenity Operating System 🐞",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 32839,
+      "forks": 3294,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "TheAlgorithms/C-Plus-Plus",
       "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
       "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 33733,
+      "forks": 7702,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "aseprite/aseprite",
       "url": "https://github.com/aseprite/aseprite",
       "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 35399,
+      "forks": 7719,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "tindy2013/subconverter",
       "url": "https://github.com/tindy2013/subconverter",
       "description": "Utility to convert between various subscription format",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 15782,
+      "forks": 3610,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "R3nzTheCodeGOD/R3nzSkin",
       "url": "https://github.com/R3nzTheCodeGOD/R3nzSkin",
       "description": "Skin changer for League of Legends (LOL)",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 4919,
+      "forks": 831,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 18,
@@ -295,7 +329,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "Qv2ray",
       "full_name": "Qv2ray/Qv2ray",
       "url": "https://github.com/Qv2ray/Qv2ray",
-      "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": ":star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:",
+      "language": "C++",
+      "stars": 17004,
+      "forks": 3233,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "bitcoin/bitcoin",
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 87749,
+      "forks": 38772,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "opencv/opencv",
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 85865,
+      "forks": 56499,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "Warzone2100/warzone2100",
       "url": "https://github.com/Warzone2100/warzone2100",
       "description": "Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3660,
+      "forks": 584,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "Marlin",
       "full_name": "MarlinFirmware/Marlin",
       "url": "https://github.com/MarlinFirmware/Marlin",
-      "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if you need source code for your specific machine.",
+      "language": "C++",
+      "stars": 17256,
+      "forks": 19647,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md"
+      "source_path": "/tmp/trending_archive/2022/2022-11/2022-11-20.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:35Z"
     }
   ]
 }

@@ -16,14 +16,16 @@
       "full_name": "axi0mX/ipwndfu",
       "url": "https://github.com/axi0mX/ipwndfu",
       "description": "open-source jailbreaking tool for many iOS devices",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 7275,
+      "forks": 1720,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "impersonator",
       "full_name": "svip-lab/impersonator",
       "url": "https://github.com/svip-lab/impersonator",
-      "description": "PyTorch implementation of our ICCV 2019 paper: Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis",
+      "language": "Python",
+      "stars": 1726,
+      "forks": 310,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "geekcomputers/Python",
       "url": "https://github.com/geekcomputers/Python",
       "description": "My Python Examples",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 34654,
+      "forks": 12891,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "albert_zh",
       "full_name": "brightmart/albert_zh",
       "url": "https://github.com/brightmart/albert_zh",
-      "description": "海量中文预训练ALBERT模型, A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型",
+      "language": "Python",
+      "stars": 3986,
+      "forks": 749,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "HelloGitHub",
       "full_name": "521xueweihan/HelloGitHub",
       "url": "https://github.com/521xueweihan/HelloGitHub",
-      "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "language": "Python",
+      "stars": 140937,
+      "forks": 11061,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "transformers",
       "full_name": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "language": "Python",
+      "stars": 155601,
+      "forks": 31837,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "SQRPI/JiaGuoMeng",
       "url": "https://github.com/SQRPI/JiaGuoMeng",
       "description": "家国梦建筑摆放计算",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 119,
+      "forks": 38,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "nvbn/thefuck",
       "url": "https://github.com/nvbn/thefuck",
       "description": "Magnificent app which corrects your previous console command.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 95258,
+      "forks": 3821,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "fav-up",
       "full_name": "pielco11/fav-up",
       "url": "https://github.com/pielco11/fav-up",
-      "description": "IP lookup from favicon using Shodan",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "IP lookup by favicon using Shodan",
+      "language": "Python",
+      "stars": 1186,
+      "forks": 149,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "CoreyMSchafer/code_snippets",
       "url": "https://github.com/CoreyMSchafer/code_snippets",
       "description": "* [https://github.com/testerSunshine/12306](testerSunshine/12306) 12306智能刷票，订票",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 10548,
+      "forks": 17374,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "system-design-primer",
       "full_name": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python",
+      "stars": 333105,
+      "forks": 54165,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 12,
@@ -193,13 +215,15 @@
       "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
       "description": "100 Days of ML Coding",
       "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "stars": 49485,
+      "forks": 11287,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "pallets/flask",
       "url": "https://github.com/pallets/flask",
       "description": "The Python micro framework for building web applications.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 71081,
+      "forks": 16683,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "anishathalye/neural-style",
       "url": "https://github.com/anishathalye/neural-style",
       "description": "Neural style in TensorFlow! 🎨",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5553,
+      "forks": 1497,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "ytdl-org/youtube-dl",
       "url": "https://github.com/ytdl-org/youtube-dl",
       "description": "Command-line program to download videos from YouTube.com and other video sites",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 139543,
+      "forks": 10588,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 18,
@@ -295,7 +329,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "wangzheng0822/algo",
       "url": "https://github.com/wangzheng0822/algo",
       "description": "数据结构和算法必知必会的50个代码实现",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 23202,
+      "forks": 7037,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "twintproject/twint",
       "url": "https://github.com/twintproject/twint",
       "description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 16295,
+      "forks": 2786,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "hamuchiwa/AutoRCCar",
       "url": "https://github.com/hamuchiwa/AutoRCCar",
       "description": "OpenCV Python Neural Network Autonomous RC Car",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3352,
+      "forks": 1462,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "Kr1s77/awesome-python-login-model",
       "url": "https://github.com/Kr1s77/awesome-python-login-model",
       "description": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 16229,
+      "forks": 3281,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "microsoft/c9-python-getting-started",
       "url": "https://github.com/microsoft/c9-python-getting-started",
       "description": "Sample code for Channel 9 Python for Beginners course",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 7964,
+      "forks": 2283,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "docker-pi-hole",
       "full_name": "pi-hole/docker-pi-hole",
       "url": "https://github.com/pi-hole/docker-pi-hole",
-      "description": "Pi-hole in a docker container",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "The official Pi-hole Docker image from pi-hole.net",
+      "language": "Shell",
+      "stars": 10635,
+      "forks": 1225,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     }
   ]
 }

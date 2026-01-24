@@ -16,14 +16,16 @@
       "full_name": "timusus/Shuttle",
       "url": "https://github.com/timusus/Shuttle",
       "description": "Shuttle Music Player",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2186,
+      "forks": 472,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "tale",
       "full_name": "otale/tale",
       "url": "https://github.com/otale/tale",
-      "description": "🦄Best beautiful java blog, worth a try",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "🦄 Best beautiful java blog, worth a try",
+      "language": "JavaScript",
+      "stars": 4843,
+      "forks": 1474,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "JonathanLink/PDFLayoutTextStripper",
       "url": "https://github.com/JonathanLink/PDFLayoutTextStripper",
       "description": "Converts a pdf file into a text file while keeping the layout of the original pdf. Useful to extract the content from a table in a pdf file for instance. This is a subclass of PDFTextStripper class (from the Apache PDFBox library).",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 1603,
+      "forks": 215,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 4,
@@ -71,7 +77,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "MinimalistWeather",
       "full_name": "BaronZ88/MinimalistWeather",
       "url": "https://github.com/BaronZ88/MinimalistWeather",
-      "description": "Android平台开源天气App，采用MVP+RxJava+Retrofit2+OKHttp3+Dagger2+RetroLambda等开源库来实现。",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Android 平台开源天气 App，采用 MVP、RxJava、Retrofit2、OKHttp3、Dagger2、RetroLambda 等开源库来实现。",
+      "language": "Java",
+      "stars": 2444,
+      "forks": 564,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 6,
@@ -95,15 +105,17 @@
       "repo_name": "lottie-android",
       "full_name": "airbnb/lottie-android",
       "url": "https://github.com/airbnb/lottie-android",
-      "description": "Render After Effects animations natively on Android and iOS",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+      "language": "Java",
+      "stars": 35559,
+      "forks": 5444,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "ParsingPlayer",
       "full_name": "TedaLIEz/ParsingPlayer",
       "url": "https://github.com/TedaLIEz/ParsingPlayer",
-      "description": "A media player playing videos from video sites.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "A video player playing videos from youku.com and other video sites.",
+      "language": "Java",
+      "stars": 351,
+      "forks": 26,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "ImangazalievM/CircleMenu",
       "url": "https://github.com/ImangazalievM/CircleMenu",
       "description": "CircleMenu is a simple, elegant menu with a circular layout.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Kotlin",
+      "stars": 1199,
+      "forks": 183,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "florent37/ExpectAnim",
       "url": "https://github.com/florent37/ExpectAnim",
       "description": "Describe your animation and run !",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2776,
+      "forks": 253,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "blade",
       "full_name": "biezhi/blade",
       "url": "https://github.com/biezhi/blade",
-      "description": "🚀A Simple, Elegant Java Web Framework! website →",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": ":rocket: Lightning fast and elegant mvc framework for Java8",
+      "language": "Java",
+      "stars": 5886,
+      "forks": 1166,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "ReactiveX/RxJava",
       "url": "https://github.com/ReactiveX/RxJava",
       "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 48518,
+      "forks": 7607,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 13,
@@ -215,7 +239,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "flexbox-layout",
       "full_name": "google/flexbox-layout",
       "url": "https://github.com/google/flexbox-layout",
-      "description": "Flexbox for Android",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Flexbox for Android ",
+      "language": "Kotlin",
+      "stars": 18356,
+      "forks": 1806,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "k0shk0sh/FastHub",
       "url": "https://github.com/k0shk0sh/FastHub",
       "description": "FastHub the ultimate GitHub client for Android.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 5732,
+      "forks": 933,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "Tapadoo/Alerter",
       "url": "https://github.com/Tapadoo/Alerter",
       "description": "An Android Alerting Library",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Kotlin",
+      "stars": 5529,
+      "forks": 631,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "lizixian18/AppLock",
       "url": "https://github.com/lizixian18/AppLock",
       "description": "AppLock应用锁，保护你的隐私。",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 613,
+      "forks": 222,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "gturedi/StatefulLayout",
       "url": "https://github.com/gturedi/StatefulLayout",
       "description": "Android layout to show template for loading, empty, error etc. states",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 805,
+      "forks": 69,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "spring-framework",
       "full_name": "spring-projects/spring-framework",
       "url": "https://github.com/spring-projects/spring-framework",
-      "description": "The Spring Framework",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Spring Framework",
+      "language": "Java",
+      "stars": 59539,
+      "forks": 38915,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 20,
@@ -319,15 +357,17 @@
       "repo_name": "spring-boot",
       "full_name": "spring-projects/spring-boot",
       "url": "https://github.com/spring-projects/spring-boot",
-      "description": "Spring Boot",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+      "language": "Java",
+      "stars": 79744,
+      "forks": 41824,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "airbnb/lottie-react-native",
       "url": "https://github.com/airbnb/lottie-react-native",
       "description": "Lottie wrapper for React Native.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Kotlin",
+      "stars": 17123,
+      "forks": 1806,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "florent37/CameraFragment",
       "url": "https://github.com/florent37/CameraFragment",
       "description": "A simple easy-to-integrate Camera Fragment for Android",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 2292,
+      "forks": 414,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "bumptech/glide",
       "url": "https://github.com/bumptech/glide",
       "description": "An image loading and caching library for Android focused on smooth scrolling",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 35019,
+      "forks": 6177,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "MPAndroidChart",
       "full_name": "PhilJay/MPAndroidChart",
       "url": "https://github.com/PhilJay/MPAndroidChart",
-      "description": "A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "description": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+      "language": "Java",
+      "stars": 38207,
+      "forks": 9057,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "NYTimes/Store",
       "url": "https://github.com/NYTimes/Store",
       "description": "Android Library for Async Data Loading and Caching",
-      "language": "java",
-      "stars": 0,
-      "forks": 0,
+      "language": "Java",
+      "stars": 3504,
+      "forks": 305,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md"
+      "source_path": "/tmp/github_trending_archive/archive/2017-02/2017-02-26.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:47Z"
     }
   ]
 }

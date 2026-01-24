@@ -16,14 +16,16 @@
       "full_name": "microsoft/c9-python-getting-started",
       "url": "https://github.com/microsoft/c9-python-getting-started",
       "description": "Sample code for Channel 9 Python for Beginners course",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Jupyter Notebook",
+      "stars": 7964,
+      "forks": 2283,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "openai/multi-agent-emergence-environments",
       "url": "https://github.com/openai/multi-agent-emergence-environments",
       "description": "Environment generation code for the paper \"Emergent Tool Use From Multi-Agent Autocurricula\"",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1773,
+      "forks": 317,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "swisskyrepo/PayloadsAllTheThings",
       "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
       "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 74605,
+      "forks": 16531,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "shadowsocks/shadowsocks",
       "url": "https://github.com/shadowsocks/shadowsocks",
       "description": "* [https://github.com/evilsocket/pwnagotchi](evilsocket/pwnagotchi) (⌐■_■) - Deep Reinforcement Learning vs WiFI",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 33635,
+      "forks": 18320,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 5,
@@ -79,15 +87,17 @@
       "repo_name": "DeepFaceLab",
       "full_name": "iperov/DeepFaceLab",
       "url": "https://github.com/iperov/DeepFaceLab",
-      "description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "DeepFaceLab is the leading software for creating deepfakes.",
+      "language": "Python",
+      "stars": 18975,
+      "forks": 823,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "h2y/Shadowrocket-ADBlock-Rules",
       "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
       "description": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 16222,
+      "forks": 2342,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "graykode/distribution-is-all-you-need",
       "url": "https://github.com/graykode/distribution-is-all-you-need",
       "description": "The basic distribution probability Tutorial for Deep Learning Researchers",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1643,
+      "forks": 383,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "quantopian/zipline",
       "url": "https://github.com/quantopian/zipline",
       "description": "Zipline, a Pythonic Algorithmic Trading Library",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 19357,
+      "forks": 4937,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 9,
@@ -143,15 +159,17 @@
       "repo_name": "unlocker",
       "full_name": "DrDonk/unlocker",
       "url": "https://github.com/DrDonk/unlocker",
-      "description": "VMware Workstation macOS",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "VMware macOS utilities",
+      "language": "Go",
+      "stars": 3786,
+      "forks": 518,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "MorvanZhou/tutorials",
       "url": "https://github.com/MorvanZhou/tutorials",
       "description": "机器学习相关教程",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 12773,
+      "forks": 5713,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "anki",
       "full_name": "dae/anki",
       "url": "https://github.com/dae/anki",
-      "description": "Anki for desktop computers",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": 25873,
+      "forks": 2702,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "tensorflow/models",
       "url": "https://github.com/tensorflow/models",
       "description": "Models and examples built with TensorFlow",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 77694,
+      "forks": 45328,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "shenweichen/DeepCTR-Torch",
       "url": "https://github.com/shenweichen/DeepCTR-Torch",
       "description": "【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3360,
+      "forks": 729,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 14,
@@ -224,14 +250,16 @@
       "full_name": "veekxt/v2ray-template",
       "url": "https://github.com/veekxt/v2ray-template",
       "description": "v2ray 模板，v2ray 配置生成工具",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 764,
+      "forks": 328,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "hosts",
       "full_name": "StevenBlack/hosts",
       "url": "https://github.com/StevenBlack/hosts",
-      "description": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others. You can optionally invoke extensions to block additional sites by category.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+      "language": "Python",
+      "stars": 29692,
+      "forks": 2383,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "mobier/shadowsocksr-speed",
       "url": "https://github.com/mobier/shadowsocksr-speed",
       "description": "SSR 批量测试节点有效带宽",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 941,
+      "forks": 209,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "trailofbits/algo",
       "url": "https://github.com/trailofbits/algo",
       "description": "Set up a personal VPN in the cloud",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 30276,
+      "forks": 2360,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "qiskit-terra",
       "full_name": "Qiskit/qiskit-terra",
       "url": "https://github.com/Qiskit/qiskit-terra",
-      "description": "Terra provides the foundations for Qiskit. It allows the user to write quantum circuits easily, and takes care of the constraints of real hardware.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
+      "language": "Python",
+      "stars": 6956,
+      "forks": 2745,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "armory3d/armory",
       "url": "https://github.com/armory3d/armory",
       "description": "3D Engine with Blender Integration",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "C++",
+      "stars": 3255,
+      "forks": 334,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "Eloston/ungoogled-chromium",
       "url": "https://github.com/Eloston/ungoogled-chromium",
       "description": "Google Chromium, sans integration with Google",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 25522,
+      "forks": 1075,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:09Z"
     },
     {
       "rank": 23,
@@ -375,7 +419,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-09/2019-09-22.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:09Z"
     }
   ]
 }

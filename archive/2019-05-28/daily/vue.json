@@ -15,15 +15,17 @@
       "repo_name": "vue-element-admin",
       "full_name": "PanJiaChen/vue-element-admin",
       "url": "https://github.com/PanJiaChen/vue-element-admin",
-      "description": "🎉 A magical vue admin http://panjiachen.github.io/vue-element-admin",
+      "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
-      "stars": 34017,
-      "forks": 10970,
+      "stars": 90289,
+      "forks": 30648,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 2,
@@ -33,13 +35,15 @@
       "url": "https://github.com/ElemeFE/element",
       "description": "A Vue.js 2.0 UI Toolkit for Web",
       "language": "Vue",
-      "stars": 37974,
-      "forks": 7782,
+      "stars": 54232,
+      "forks": 14568,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 3,
@@ -97,13 +101,15 @@
       "url": "https://github.com/iview/iview",
       "description": "A high quality UI Toolkit built on Vue.js 2.0",
       "language": "Vue",
-      "stars": 21436,
-      "forks": 3761,
+      "stars": 23873,
+      "forks": 4093,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 7,
@@ -113,13 +119,15 @@
       "url": "https://github.com/weilanwl/ColorUI",
       "description": "鲜亮的高饱和色彩，专注视觉的小程序组件库",
       "language": "Vue",
-      "stars": 4032,
-      "forks": 633,
+      "stars": 12433,
+      "forks": 2216,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 8,
@@ -145,13 +153,15 @@
       "url": "https://github.com/macrozheng/mall-admin-web",
       "description": "mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。",
       "language": "Vue",
-      "stars": 2216,
-      "forks": 1286,
+      "stars": 12435,
+      "forks": 7442,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 10,
@@ -175,15 +185,17 @@
       "repo_name": "spug",
       "full_name": "openspug/spug",
       "url": "https://github.com/openspug/spug",
-      "description": "开源运维平台：帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警等管理(open source O & M management system,manage the hosts, tasks, deployment, configuration files, monitoring and alarming) https://spug.qbangmang.com/login",
-      "language": "Vue",
-      "stars": 557,
-      "forks": 141,
+      "description": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
+      "language": "JavaScript",
+      "stars": 10947,
+      "forks": 2192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 12,
@@ -209,13 +221,15 @@
       "url": "https://github.com/iview/iview-admin",
       "description": "Vue 2.0 admin management system template based on iView",
       "language": "Vue",
-      "stars": 12100,
-      "forks": 3573,
+      "stars": 16451,
+      "forks": 4793,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 14,
@@ -223,15 +237,17 @@
       "repo_name": "PicGo",
       "full_name": "Molunerfinn/PicGo",
       "url": "https://github.com/Molunerfinn/PicGo",
-      "description": "🚀A simple & beautiful tool for pictures uploading built by electron-vue",
-      "language": "Vue",
-      "stars": 4903,
-      "forks": 385,
+      "description": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
+      "language": "TypeScript",
+      "stars": 26236,
+      "forks": 2335,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 15,
@@ -239,15 +255,17 @@
       "repo_name": "vue-manage-system",
       "full_name": "lin-xin/vue-manage-system",
       "url": "https://github.com/lin-xin/vue-manage-system",
-      "description": "The web management system solution based on Vue2 and Element UI.",
+      "description": "Vue3、Element Plus、typescript后台管理系统",
       "language": "Vue",
-      "stars": 7212,
-      "forks": 2446,
+      "stars": 19630,
+      "forks": 6128,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 16,
@@ -305,13 +323,15 @@
       "url": "https://github.com/buefy/buefy",
       "description": "Lightweight UI components for Vue.js based on Bulma",
       "language": "Vue",
-      "stars": 5567,
-      "forks": 547,
+      "stars": 9555,
+      "forks": 1107,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 20,
@@ -369,13 +389,15 @@
       "url": "https://github.com/dulnan/drawmote",
       "description": "Draw remotely on a screen with your phone",
       "language": "Vue",
-      "stars": 43,
-      "forks": 0,
+      "stars": 197,
+      "forks": 16,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md"
+      "source_path": "/tmp/github-trending-backup/2019/05/2019-05-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:06Z"
     },
     {
       "rank": 24,

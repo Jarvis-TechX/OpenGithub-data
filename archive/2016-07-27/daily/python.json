@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "PokemonGoF/PokemonGo-Bot",
       "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
       "description": "The Pokemon Go Bot, baking with community.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 3904,
+      "forks": 1510,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 3,
@@ -55,7 +59,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 4,
@@ -64,14 +70,16 @@
       "full_name": "overlap-ai/words2map",
       "url": "https://github.com/overlap-ai/words2map",
       "description": "online natural language processing with word vectors",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 310,
+      "forks": 34,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "samshadwell/TrumpScript",
       "url": "https://github.com/samshadwell/TrumpScript",
       "description": "Make Python great again",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 7598,
+      "forks": 393,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "mchristopher/PokemonGo-DesktopMap",
       "url": "https://github.com/mchristopher/PokemonGo-DesktopMap",
       "description": "Electron App around PokemonGo-Map",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1756,
+      "forks": 387,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "pogom",
       "full_name": "favll/pogom",
       "url": "https://github.com/favll/pogom",
-      "description": "The fastest Pokmon Go Map available.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "The fastest Pokémon Go Map available.",
+      "language": "Python",
+      "stars": 548,
+      "forks": 194,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "rqalpha",
       "full_name": "ricequant/rqalpha",
       "url": "https://github.com/ricequant/rqalpha",
-      "description": "RQalpha: A Python Algorithmic Trading Engine with BackTest, Portfolio Calculation and Free Day Data",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities",
+      "language": "Python",
+      "stars": 6097,
+      "forks": 1708,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "jisaacso/DeepHeart",
       "url": "https://github.com/jisaacso/DeepHeart",
       "description": "Neural networks for monitoring cardiac data",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 489,
+      "forks": 48,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "suplemon",
       "full_name": "richrd/suplemon",
       "url": "https://github.com/richrd/suplemon",
-      "description": "Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!",
+      "language": "Python",
+      "stars": 805,
+      "forks": 41,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "awesome-python",
       "full_name": "vinta/awesome-python",
       "url": "https://github.com/vinta/awesome-python",
-      "description": "A curated list of awesome Python frameworks, libraries, software and resources",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+      "language": "Python",
+      "stars": 279551,
+      "forks": 27113,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 12,
@@ -199,7 +221,9 @@
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 217107,
+      "forks": 49988,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "keras-fractalnet",
       "full_name": "snf/keras-fractalnet",
       "url": "https://github.com/snf/keras-fractalnet",
-      "description": "FractalNet implementation in Keras",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "FractalNet implementation in Keras: Ultra-Deep Neural Networks without Residuals",
+      "language": "Python",
+      "stars": 157,
+      "forks": 37,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "rubenvereecken/pokemongo-api",
       "url": "https://github.com/rubenvereecken/pokemongo-api",
       "description": "Pokemon Go API for Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 362,
+      "forks": 117,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "scikit-learn/scikit-learn",
       "url": "https://github.com/scikit-learn/scikit-learn",
       "description": "scikit-learn: machine learning in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 64749,
+      "forks": 26623,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 17,
@@ -271,15 +303,17 @@
       "repo_name": "XX-Net",
       "full_name": "XX-net/XX-Net",
       "url": "https://github.com/XX-net/XX-Net",
-      "description": "a web proxy tool",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A proxy tool to bypass GFW.",
+      "language": "Python",
+      "stars": 33418,
+      "forks": 7607,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 18,
@@ -288,14 +322,16 @@
       "full_name": "shadowsocks/shadowsocks",
       "url": "https://github.com/shadowsocks/shadowsocks",
       "description": "Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 33635,
+      "forks": 18320,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "dxa4481/Snapper",
       "url": "https://github.com/dxa4481/Snapper",
       "description": "A security tool for grabbing screenshots of many web hosts",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 325,
+      "forks": 50,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "django/django",
       "url": "https://github.com/django/django",
       "description": "The Web framework for perfectionists with deadlines.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 86546,
+      "forks": 33539,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "Netflix/bless",
       "url": "https://github.com/Netflix/bless",
       "description": "Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2760,
+      "forks": 228,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "flask",
       "full_name": "pallets/flask",
       "url": "https://github.com/pallets/flask",
-      "description": "A microframework based on Werkzeug, Jinja2 and good intentions",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Python micro framework for building web applications.",
+      "language": "Python",
+      "stars": 71081,
+      "forks": 16683,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "cglatot/PokeManager",
       "url": "https://github.com/cglatot/PokeManager",
       "description": "Uses Python API for Pokemon Go to mass transfer Pokemon",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 146,
+      "forks": 31,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "qutebrowser",
       "full_name": "The-Compiler/qutebrowser",
       "url": "https://github.com/The-Compiler/qutebrowser",
-      "description": "A keyboard-driven, vim-like browser based on PyQt5.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A keyboard-driven, vim-like browser based on Python and Qt.",
+      "language": "Python",
+      "stars": 11223,
+      "forks": 1086,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "boramalper/himawaripy",
       "url": "https://github.com/boramalper/himawaripy",
       "description": "Set near-realtime picture of Earth as your desktop background",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 1687,
+      "forks": 238,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md"
+      "source_path": "/tmp/trending_archive/2016/2016-07/2016-07-27.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:28:44Z"
     }
   ]
 }

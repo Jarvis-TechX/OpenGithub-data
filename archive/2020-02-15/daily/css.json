@@ -47,15 +47,17 @@
       "repo_name": "synthwave-vscode",
       "full_name": "robb0wen/synthwave-vscode",
       "url": "https://github.com/robb0wen/synthwave-vscode",
-      "description": "Synthwave inspired colour theme for VS Code 🌅🕶",
+      "description": "Synthwave inspired colour theme for VS Code 🌅🕶 ",
       "language": "CSS",
-      "stars": 3938,
-      "forks": 1120,
+      "stars": 5293,
+      "forks": 1192,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 4,
@@ -97,13 +99,15 @@
       "url": "https://github.com/jonasschmedtmann/advanced-css-course",
       "description": "Starter files, final projects and FAQ for my Advanced CSS course",
       "language": "CSS",
-      "stars": 1786,
-      "forks": 2159,
+      "stars": 4740,
+      "forks": 5268,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -113,13 +117,15 @@
       "url": "https://github.com/barryclark/jekyll-now",
       "description": "Build a Jekyll blog in minutes, without touching the command line.",
       "language": "CSS",
-      "stars": 6506,
-      "forks": 26813,
+      "stars": 8395,
+      "forks": 35215,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 8,
@@ -128,14 +134,16 @@
       "full_name": "zzossig/hugo-theme-zzo",
       "url": "https://github.com/zzossig/hugo-theme-zzo",
       "description": "Make a blog with hugo zzo theme!",
-      "language": "CSS",
-      "stars": 126,
-      "forks": 47,
+      "language": "SCSS",
+      "stars": 743,
+      "forks": 251,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 9,
@@ -145,13 +153,15 @@
       "url": "https://github.com/adobe-fonts/source-code-pro",
       "description": "Monospaced font family for user interface and coding environments",
       "language": "CSS",
-      "stars": 15814,
-      "forks": 1376,
+      "stars": 20363,
+      "forks": 1657,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 10,
@@ -193,13 +203,15 @@
       "url": "https://github.com/google/google-api-javascript-client",
       "description": "Google APIs Client Library for browser JavaScript, aka gapi.",
       "language": "CSS",
-      "stars": 1142,
-      "forks": 586,
+      "stars": 3463,
+      "forks": 1128,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -352,14 +364,16 @@
       "full_name": "AgoraIO/Basic-Video-Call",
       "url": "https://github.com/AgoraIO/Basic-Video-Call",
       "description": "Sample app to join/leave a channel, mute/unmute, enable/disable the video, and switch between front/rear cameras.",
-      "language": "CSS",
-      "stars": 181,
-      "forks": 277,
+      "language": "C++",
+      "stars": 711,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 25,
@@ -369,13 +383,15 @@
       "url": "https://github.com/LambdaSchool/github-usercard",
       "description": "Create a card based on the data coming back from the Github API.",
       "language": "CSS",
-      "stars": 0,
-      "forks": 1644,
+      "stars": 19,
+      "forks": 3675,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-15.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     }
   ]
 }

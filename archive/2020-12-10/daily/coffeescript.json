@@ -16,14 +16,16 @@
       "full_name": "jeremyruppel/interim",
       "url": "https://github.com/jeremyruppel/interim",
       "description": "Time helpers for javascript",
-      "language": "coffeescript",
-      "stars": 0,
+      "language": "CoffeeScript",
+      "stars": 1,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-10.md"
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "camo",
       "full_name": "atmos/camo",
       "url": "https://github.com/atmos/camo",
-      "description": "an http proxy to route images through SSL",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":lock: an http proxy to route images through SSL",
+      "language": "CoffeeScript",
+      "stars": 1854,
+      "forks": 396,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-10.md"
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "dropbox/zxcvbn",
       "url": "https://github.com/dropbox/zxcvbn",
       "description": "Low-Budget Password Strength Estimation",
-      "language": "coffeescript",
-      "stars": 0,
-      "forks": 0,
+      "language": "CoffeeScript",
+      "stars": 15811,
+      "forks": 1005,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-10.md"
+      "source_path": "/tmp/trending_archive/2020/2020-12/2020-12-10.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:18Z"
     }
   ]
 }

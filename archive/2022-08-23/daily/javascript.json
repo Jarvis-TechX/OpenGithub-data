@@ -16,14 +16,16 @@
       "full_name": "airbnb/javascript",
       "url": "https://github.com/airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 148051,
+      "forks": 26770,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "hiring-without-whiteboards",
       "full_name": "poteto/hiring-without-whiteboards",
       "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "description": "⭐️ Companies that don't have a broken hiring process",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "⭐️  Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "stars": 50361,
+      "forks": 3880,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "kit",
       "full_name": "sveltejs/kit",
       "url": "https://github.com/sveltejs/kit",
-      "description": "The fastest way to build Svelte apps",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "web development, streamlined",
+      "language": "JavaScript",
+      "stars": 20207,
+      "forks": 2194,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "popcorn-desktop",
       "full_name": "popcorn-official/popcorn-desktop",
       "url": "https://github.com/popcorn-official/popcorn-desktop",
-      "description": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.",
+      "language": "TypeScript",
+      "stars": 10476,
+      "forks": 712,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "d07RiV/diabloweb",
       "url": "https://github.com/d07RiV/diabloweb",
       "description": "Diablo 1 for web browsers",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 2854,
+      "forks": 239,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 6,
@@ -103,7 +113,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "github/docs",
       "url": "https://github.com/github/docs",
       "description": "The open-source repo for docs.github.com",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 18784,
+      "forks": 65709,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 8,
@@ -127,15 +141,17 @@
       "repo_name": "the-super-tiny-compiler",
       "full_name": "jamiebuilds/the-super-tiny-compiler",
       "url": "https://github.com/jamiebuilds/the-super-tiny-compiler",
-      "description": "⛄ Possibly the smallest compiler ever",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":snowman: Possibly the smallest compiler ever",
+      "language": "JavaScript",
+      "stars": 28466,
+      "forks": 2883,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "louislam/uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 81832,
+      "forks": 7306,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "nodebestpractices",
       "full_name": "goldbergyoni/nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (August 2022)",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": ":white_check_mark:  The Node.js best practices list (July 2024)",
+      "language": "Dockerfile",
+      "stars": 104955,
+      "forks": 10681,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 11,
@@ -176,14 +196,16 @@
       "full_name": "rahuldkjain/github-profile-readme-generator",
       "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
       "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 23946,
+      "forks": 8223,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "vernesong/OpenClash",
       "url": "https://github.com/vernesong/OpenClash",
       "description": "A Clash Client For OpenWrt",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "HTML",
+      "stars": 23948,
+      "forks": 3725,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "bradtraversy/vanillawebprojects",
       "url": "https://github.com/bradtraversy/vanillawebprojects",
       "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 15974,
+      "forks": 4411,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "30-Days-Of-JavaScript",
       "full_name": "Asabeneh/30-Days-Of-JavaScript",
       "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "stars": 45963,
+      "forks": 10408,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 15,
@@ -240,14 +268,16 @@
       "full_name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "TypeScript",
+      "stars": 110078,
+      "forks": 5419,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "ajayns/react-projects",
       "url": "https://github.com/ajayns/react-projects",
       "description": "A collection of projects built on the React library",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 1553,
+      "forks": 658,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 17,
@@ -279,7 +311,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "MusicBot",
       "full_name": "umutxyp/MusicBot",
       "url": "https://github.com/umutxyp/MusicBot",
-      "description": "An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "Advanced Discord v14.22 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.",
+      "language": "JavaScript",
+      "stars": 1166,
+      "forks": 1161,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 19,
@@ -311,7 +347,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 20,
@@ -327,7 +365,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "OpenZeppelin/openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "Solidity",
+      "stars": 26936,
+      "forks": 12415,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "brave-browser",
       "full_name": "brave/brave-browser",
       "url": "https://github.com/brave/brave-browser",
-      "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
       "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "stars": 21196,
+      "forks": 2949,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "Orz-3/QuantumultX",
       "url": "https://github.com/Orz-3/QuantumultX",
       "description": "* [https://github.com/ethereumbook/ethereumbook](ethereumbook/ethereumbook) Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "language": "JavaScript",
+      "stars": 4472,
+      "forks": 649,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     },
     {
       "rank": 24,
@@ -383,15 +429,17 @@
       "repo_name": "a32nx",
       "full_name": "flybywiresim/a32nx",
       "url": "https://github.com/flybywiresim/a32nx",
-      "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.",
-      "language": "javascript",
-      "stars": 0,
-      "forks": 0,
+      "description": "The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.",
+      "language": "TypeScript",
+      "stars": 5325,
+      "forks": 1127,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md"
+      "source_path": "/tmp/github_trending_archive/archive/2022-08/2022-08-23.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:33Z"
     }
   ]
 }

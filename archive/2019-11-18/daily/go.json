@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 2,
@@ -32,14 +34,16 @@
       "full_name": "ffuf/ffuf",
       "url": "https://github.com/ffuf/ffuf",
       "description": "Fast web fuzzer written in Go",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 15463,
+      "forks": 1505,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 3,
@@ -47,15 +51,17 @@
       "repo_name": "dapr",
       "full_name": "dapr/dapr",
       "url": "https://github.com/dapr/dapr",
-      "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+      "language": "Go",
+      "stars": 25447,
+      "forks": 2032,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 4,
@@ -63,15 +69,17 @@
       "repo_name": "libpod",
       "full_name": "containers/libpod",
       "url": "https://github.com/containers/libpod",
-      "description": "libpod is a library used to create container pods. Home of Podman.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": 30439,
+      "forks": 2948,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "zyedidia/micro",
       "url": "https://github.com/zyedidia/micro",
       "description": "A modern and intuitive terminal-based text editor",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 27772,
+      "forks": 1275,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "keybase/client",
       "url": "https://github.com/keybase/client",
       "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 9155,
+      "forks": 1273,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 7,
@@ -112,14 +124,16 @@
       "full_name": "lightningnetwork/lnd",
       "url": "https://github.com/lightningnetwork/lnd",
       "description": "Lightning Network Daemon ⚡️",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 8099,
+      "forks": 2230,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 8,
@@ -135,7 +149,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "private",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "golang/protobuf",
       "url": "https://github.com/golang/protobuf",
       "description": "Go support for Google's protocol buffers",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 10061,
+      "forks": 1576,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 10,
@@ -159,15 +177,17 @@
       "repo_name": "bfe",
       "full_name": "baidu/bfe",
       "url": "https://github.com/baidu/bfe",
-      "description": "Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "A modern layer 7 load balancer from baidu",
+      "language": "Go",
+      "stars": 6230,
+      "forks": 948,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "validator",
       "full_name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": ":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "stars": 19614,
+      "forks": 1397,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "proullon/ramsql",
       "url": "https://github.com/proullon/ramsql",
       "description": "In-memory SQL engine in Go sql/driver for testing purpose",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 917,
+      "forks": 69,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 13,
@@ -207,15 +231,17 @@
       "repo_name": "dep",
       "full_name": "golang/dep",
       "url": "https://github.com/golang/dep",
-      "description": "Go dependency management tool",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Go dependency management tool experiment (deprecated)",
+      "language": "Go",
+      "stars": 12767,
+      "forks": 1028,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "traefik",
       "full_name": "containous/traefik",
       "url": "https://github.com/containous/traefik",
-      "description": "The Cloud Native Edge Router",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "The Cloud Native Application Proxy",
+      "language": "Go",
+      "stars": 61201,
+      "forks": 5788,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "tview",
       "full_name": "rivo/tview",
       "url": "https://github.com/rivo/tview",
-      "description": "Rich interactive widgets for terminal-based UIs written in Go",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "description": "Terminal UI library with rich, interactive widgets — written in Golang",
+      "language": "Go",
+      "stars": 13422,
+      "forks": 660,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 16,
@@ -256,14 +286,16 @@
       "full_name": "EDDYCJY/go-gin-example",
       "url": "https://github.com/EDDYCJY/go-gin-example",
       "description": "An example of gin",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 7160,
+      "forks": 1620,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "peterq/pan-light",
       "url": "https://github.com/peterq/pan-light",
       "description": "百度网盘不限速客户端, golang + qt5, 跨平台图形界面",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 12145,
+      "forks": 2423,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 18,
@@ -295,7 +329,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 19,
@@ -304,14 +340,16 @@
       "full_name": "revel/revel",
       "url": "https://github.com/revel/revel",
       "description": "A high productivity, full-stack web framework for the Go language.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 13250,
+      "forks": 1371,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 120018,
+      "forks": 42265,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 21,
@@ -336,14 +376,16 @@
       "full_name": "hashicorp/consul",
       "url": "https://github.com/hashicorp/consul",
       "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 29684,
+      "forks": 4557,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 22,
@@ -352,14 +394,16 @@
       "full_name": "v2ray/v2ray-core",
       "url": "https://github.com/v2ray/v2ray-core",
       "description": "A platform for building proxies to bypass network restrictions.",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 46882,
+      "forks": 8901,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "OpenDiablo2/OpenDiablo2",
       "url": "https://github.com/OpenDiablo2/OpenDiablo2",
       "description": "An open source re-implementation of Diablo 2",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 10978,
+      "forks": 845,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "giuliocomi/backoori",
       "url": "https://github.com/giuliocomi/backoori",
       "description": "Tool aided persistence via Windows URI schemes abuse",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 84,
+      "forks": 22,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     },
     {
       "rank": 25,
@@ -400,14 +448,16 @@
       "full_name": "jaeles-project/jaeles",
       "url": "https://github.com/jaeles-project/jaeles",
       "description": "The Swiss Army knife for automated Web Application Testing",
-      "language": "go",
-      "stars": 0,
-      "forks": 0,
+      "language": "Go",
+      "stars": 2319,
+      "forks": 329,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md"
+      "source_path": "/tmp/github_trending_archive/archive/2019-11/2019-11-18.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:10Z"
     }
   ]
 }

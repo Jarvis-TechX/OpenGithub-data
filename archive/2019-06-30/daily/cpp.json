@@ -16,14 +16,16 @@
       "full_name": "pubnub/pubnub-iot-house",
       "url": "https://github.com/pubnub/pubnub-iot-house",
       "description": "",
-      "language": "cpp",
-      "stars": 0,
-      "forks": 0,
+      "language": "Arduino",
+      "stars": 4,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:larsbijl/trending-archive",
       "quality_grade": "B",
-      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-30.md"
+      "source_path": "/tmp/trending_archive/2019/2019-06/2019-06-30.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:07Z"
     }
   ]
 }

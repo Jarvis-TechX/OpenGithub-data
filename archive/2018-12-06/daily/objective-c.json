@@ -97,13 +97,15 @@
       "url": "https://github.com/sunyiyue/CCIMLib",
       "description": "iOS IMLib SDK",
       "language": "Objective-C",
-      "stars": 22,
-      "forks": 0,
+      "stars": 9,
+      "forks": 1,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 7,
@@ -129,13 +131,15 @@
       "url": "https://github.com/pujiaxin33/JXCategoryView",
       "description": "A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)",
       "language": "Objective-C",
-      "stars": 2084,
-      "forks": 386,
+      "stars": 6182,
+      "forks": 1164,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 9,
@@ -145,13 +149,15 @@
       "url": "https://github.com/WenchaoD/FSCalendar",
       "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
       "language": "Objective-C",
-      "stars": 7374,
-      "forks": 1285,
+      "stars": 10680,
+      "forks": 1953,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 10,
@@ -193,13 +199,15 @@
       "url": "https://github.com/noodlewerk/NWPusher",
       "description": "OS X and iOS application and framework to play with the Apple Push Notification service (APNs)",
       "language": "Objective-C",
-      "stars": 4817,
-      "forks": 526,
+      "stars": 6323,
+      "forks": 675,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 13,
@@ -223,15 +231,17 @@
       "repo_name": "expo",
       "full_name": "expo/expo",
       "url": "https://github.com/expo/expo",
-      "description": "The Expo platform for making cross-platform mobile apps",
-      "language": "Objective-C",
-      "stars": 4678,
-      "forks": 402,
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "language": "TypeScript",
+      "stars": 46705,
+      "forks": 10694,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 15,
@@ -239,15 +249,17 @@
       "repo_name": "iOSInterviewQuestions",
       "full_name": "ChenYilong/iOSInterviewQuestions",
       "url": "https://github.com/ChenYilong/iOSInterviewQuestions",
-      "description": "iOS interview questions;iOS面试题集锦（附答案）--学习qq群515295083 或 Telegram 群交流 https://t.me/iosobjc",
-      "language": "Objective-C",
-      "stars": 7240,
-      "forks": 2258,
+      "description": "iOS interview questions;iOS面试题集锦（附答案） ",
+      "language": "Swift",
+      "stars": 9511,
+      "forks": 2789,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 16,
@@ -257,13 +269,15 @@
       "url": "https://github.com/sequelpro/sequelpro",
       "description": "MySQL/MariaDB database management for macOS",
       "language": "Objective-C",
-      "stars": 5565,
-      "forks": 490,
+      "stars": 9205,
+      "forks": 840,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 17,
@@ -272,14 +286,16 @@
       "full_name": "WhatsApp/stickers",
       "url": "https://github.com/WhatsApp/stickers",
       "description": "This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.",
-      "language": "Objective-C",
-      "stars": 1044,
-      "forks": 893,
+      "language": "Java",
+      "stars": 2856,
+      "forks": 1713,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 18,
@@ -305,13 +321,15 @@
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
       "language": "Objective-C",
-      "stars": 9252,
-      "forks": 943,
+      "stars": 13064,
+      "forks": 1544,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 20,
@@ -320,14 +338,16 @@
       "full_name": "hackiftekhar/IQKeyboardManager",
       "url": "https://github.com/hackiftekhar/IQKeyboardManager",
       "description": "Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.",
-      "language": "Objective-C",
-      "stars": 12424,
-      "forks": 1998,
+      "language": "Swift",
+      "stars": 16634,
+      "forks": 2451,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     },
     {
       "rank": 21,
@@ -400,14 +420,16 @@
       "full_name": "OpenEmu/OpenEmu",
       "url": "https://github.com/OpenEmu/OpenEmu",
       "description": "🕹 Retro video game emulation for macOS",
-      "language": "Objective-C",
-      "stars": 9457,
-      "forks": 968,
+      "language": "Swift",
+      "stars": 17319,
+      "forks": 1331,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md"
+      "source_path": "/tmp/github-trending-backup/2018/12/2018-12-06.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:02Z"
     }
   ]
 }

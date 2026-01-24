@@ -103,7 +103,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 7,
@@ -191,15 +193,17 @@
       "repo_name": "Halfrost-Field",
       "full_name": "halfrost/Halfrost-Field",
       "url": "https://github.com/halfrost/Halfrost-Field",
-      "description": "✍️ 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
-      "language": "Objective-C",
-      "stars": 5566,
-      "forks": 1015,
+      "description": "✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地",
+      "language": "Go",
+      "stars": 13290,
+      "forks": 1895,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 13,
@@ -209,13 +213,15 @@
       "url": "https://github.com/github/Rebel",
       "description": "Cocoa framework for improving AppKit",
       "language": "Objective-C",
-      "stars": 1139,
-      "forks": 115,
+      "stars": 1122,
+      "forks": 111,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 14,
@@ -225,13 +231,15 @@
       "url": "https://github.com/github/Archimedes",
       "description": "Geometry functions for Cocoa and Cocoa Touch",
       "language": "Objective-C",
-      "stars": 472,
-      "forks": 44,
+      "stars": 467,
+      "forks": 36,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 15,
@@ -241,13 +249,15 @@
       "url": "https://github.com/between40and2/JXFanfouEngine",
       "description": "Objective-C framework to access Fanfou API",
       "language": "Objective-C",
-      "stars": 1,
+      "stars": 2,
       "forks": 0,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 16,
@@ -271,15 +281,17 @@
       "repo_name": "santa",
       "full_name": "google/santa",
       "url": "https://github.com/google/santa",
-      "description": "A binary whitelisting/blacklisting system for macOS",
-      "language": "Objective-C",
-      "stars": 3020,
-      "forks": 206,
+      "description": "A binary authorization and monitoring system for macOS",
+      "language": "Objective-C++",
+      "stars": 4517,
+      "forks": 293,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 18,
@@ -289,13 +301,15 @@
       "url": "https://github.com/XVimProject/XVim2",
       "description": "Vim key-bindings for Xcode 9",
       "language": "Objective-C",
-      "stars": 1754,
-      "forks": 144,
+      "stars": 2300,
+      "forks": 177,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 19,
@@ -303,15 +317,17 @@
       "repo_name": "WeChatTweak-macOS",
       "full_name": "Sunnyyoung/WeChatTweak-macOS",
       "url": "https://github.com/Sunnyyoung/WeChatTweak-macOS",
-      "description": "A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开",
-      "language": "Objective-C",
-      "stars": 4528,
-      "forks": 601,
+      "description": "A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨",
+      "language": "Swift",
+      "stars": 13301,
+      "forks": 1567,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 20,
@@ -353,13 +369,15 @@
       "url": "https://github.com/kharrison/CodeExamples",
       "description": "Code Examples",
       "language": "Objective-C",
-      "stars": 1908,
-      "forks": 928,
+      "stars": 2133,
+      "forks": 950,
       "stars_today": 0,
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 23,
@@ -391,7 +409,9 @@
       "is_new": false,
       "source": "import:yangwenmai/github-trending-backup",
       "quality_grade": "B",
-      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md"
+      "source_path": "/tmp/github-trending-backup/2020/02/2020-02-09.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:12Z"
     },
     {
       "rank": 25,

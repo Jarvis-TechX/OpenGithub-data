@@ -23,7 +23,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 2,
@@ -31,15 +33,17 @@
       "repo_name": "core",
       "full_name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
-      "description": "WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 84357,
+      "forks": 36583,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 3,
@@ -48,14 +52,16 @@
       "full_name": "freqtrade/freqtrade",
       "url": "https://github.com/freqtrade/freqtrade",
       "description": "Free, open source crypto trading bot",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 46237,
+      "forks": 9631,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 4,
@@ -65,13 +71,15 @@
       "url": "https://github.com/dpapathanasiou/simple-graph",
       "description": "This is a simple graph database in SQLite, inspired by \"SQLite as a document database\"",
       "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "stars": 1497,
+      "forks": 88,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 5,
@@ -80,14 +88,16 @@
       "full_name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 217107,
+      "forks": 49988,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 6,
@@ -96,14 +106,16 @@
       "full_name": "derrod/legendary",
       "url": "https://github.com/derrod/legendary",
       "description": "Legendary - A free and open-source replacement for the Epic Games Launcher",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5093,
+      "forks": 189,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 7,
@@ -111,15 +123,17 @@
       "repo_name": "qiling",
       "full_name": "qilingframework/qiling",
       "url": "https://github.com/qilingframework/qiling",
-      "description": "Qiling Advanced Binary Emulation Framework",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "A True Instrumentable Binary Emulation Framework",
+      "language": "Python",
+      "stars": 5779,
+      "forks": 771,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 8,
@@ -128,14 +142,16 @@
       "full_name": "chubin/cheat.sh",
       "url": "https://github.com/chubin/cheat.sh",
       "description": "the only cheat sheet you need",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 40705,
+      "forks": 1896,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 9,
@@ -144,14 +160,16 @@
       "full_name": "ytdl-org/youtube-dl",
       "url": "https://github.com/ytdl-org/youtube-dl",
       "description": "Command-line program to download videos from YouTube.com and other video sites",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 139543,
+      "forks": 10588,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 10,
@@ -160,14 +178,16 @@
       "full_name": "werner-duvaud/muzero-general",
       "url": "https://github.com/werner-duvaud/muzero-general",
       "description": "MuZero",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 2755,
+      "forks": 666,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 11,
@@ -175,15 +195,17 @@
       "repo_name": "vulmap",
       "full_name": "zhzyker/vulmap",
       "url": "https://github.com/zhzyker/vulmap",
-      "description": "Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能",
+      "language": "Python",
+      "stars": 3507,
+      "forks": 572,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 12,
@@ -192,14 +214,16 @@
       "full_name": "CorentinJ/Real-Time-Voice-Cloning",
       "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
       "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 59258,
+      "forks": 9412,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 13,
@@ -208,14 +232,16 @@
       "full_name": "tensortrade-org/tensortrade",
       "url": "https://github.com/tensortrade-org/tensortrade",
       "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5864,
+      "forks": 1178,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 14,
@@ -223,15 +249,17 @@
       "repo_name": "system-design-primer",
       "full_name": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python",
+      "stars": 333105,
+      "forks": 54165,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 15,
@@ -239,15 +267,17 @@
       "repo_name": "bitcoinbook",
       "full_name": "bitcoinbook/bitcoinbook",
       "url": "https://github.com/bitcoinbook/bitcoinbook",
-      "description": "Mastering Bitcoin 2nd Edition - Programming the Open Blockchain",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Mastering Bitcoin 3rd Edition - Programming the Open Blockchain",
+      "language": "HTML",
+      "stars": 25056,
+      "forks": 6226,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 16,
@@ -263,7 +293,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 17,
@@ -272,14 +304,16 @@
       "full_name": "owid/covid-19-data",
       "url": "https://github.com/owid/covid-19-data",
       "description": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 5662,
+      "forks": 3617,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 18,
@@ -287,15 +321,17 @@
       "repo_name": "real-url",
       "full_name": "wbt5/real-url",
       "url": "https://github.com/wbt5/real-url",
-      "description": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 48 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+      "language": "Python",
+      "stars": 7778,
+      "forks": 1569,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 19,
@@ -303,15 +339,17 @@
       "repo_name": "jupyter",
       "full_name": "jupyter/jupyter",
       "url": "https://github.com/jupyter/jupyter",
-      "description": "Jupyter metapackage for installation, docs and chat",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Jupyter metapackage for installation and documentation",
+      "language": "Python",
+      "stars": 15279,
+      "forks": 4423,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 20,
@@ -320,14 +358,16 @@
       "full_name": "OctoPrint/OctoPrint",
       "url": "https://github.com/OctoPrint/OctoPrint",
       "description": "OctoPrint is the snappy web interface for your 3D printer!",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 8863,
+      "forks": 1683,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 21,
@@ -343,7 +383,9 @@
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "deleted",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 22,
@@ -351,15 +393,17 @@
       "repo_name": "hosts",
       "full_name": "StevenBlack/hosts",
       "url": "https://github.com/StevenBlack/hosts",
-      "description": "Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+      "language": "Python",
+      "stars": 29692,
+      "forks": 2383,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 23,
@@ -368,14 +412,16 @@
       "full_name": "standupmaths/xmastree2020",
       "url": "https://github.com/standupmaths/xmastree2020",
       "description": "My 500 LED xmas tree",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 711,
+      "forks": 99,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 24,
@@ -384,14 +430,16 @@
       "full_name": "ccrisan/motioneye",
       "url": "https://github.com/ccrisan/motioneye",
       "description": "A web frontend for the motion daemon.",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "language": "Python",
+      "stars": 4481,
+      "forks": 706,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     },
     {
       "rank": 25,
@@ -399,15 +447,17 @@
       "repo_name": "anki",
       "full_name": "ankitects/anki",
       "url": "https://github.com/ankitects/anki",
-      "description": "Anki for desktop computers",
-      "language": "python",
-      "stars": 0,
-      "forks": 0,
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "stars": 25871,
+      "forks": 2702,
       "stars_today": 0,
       "is_new": false,
       "source": "import:frodeaa/github_trending_archive",
       "quality_grade": "B",
-      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md"
+      "source_path": "/tmp/github_trending_archive/archive/2020-12/2020-12-28.md",
+      "enrichment_status": "enriched",
+      "enriched_at": "2026-01-24T03:29:19Z"
     }
   ]
 }
