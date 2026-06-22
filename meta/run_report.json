@@ -1,18 +1,18 @@
 {
-  "run_timestamp": "2026-04-20T03:51:12Z",
+  "run_timestamp": "2026-06-22T13:37:11Z",
   "total_snapshots": 1,
   "snapshots": [
     {
       "language": "swift",
-      "since": "monthly",
-      "timestamp": "2026-04-20T03:51:12Z",
+      "since": "daily",
+      "timestamp": "2026-06-22T13:37:11Z",
       "total_count": 16,
-      "new_repos_count": 1,
-      "quality_score": 100.0
+      "new_repos_count": 14,
+      "quality_score": 95.0
     }
   ],
   "metadata": {
     "quality_check_passed": true,
-    "new_repos_count": 1
+    "new_repos_count": 14
   }
 }
