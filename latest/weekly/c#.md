@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-10T05:46:14Z
-**Total Repositories:** 16
-**New Entries:** 3
+**Snapshot Time:** 2026-10-11T05:40:49Z
+**Total Repositories:** 17
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,331 |
-| Forks | 439 |
-| Stars this week | 547 |
+| Stars | 10,356 |
+| Forks | 441 |
+| Stars this week | 558 |
 
 ---
 
@@ -28,74 +28,74 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,498 |
-| Forks | 3,744 |
-| Stars this week | 302 |
+| Stars | 26,531 |
+| Forks | 3,749 |
+| Stars this week | 327 |
 
 ---
 
-## 3. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 3. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) 🆕
 
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,461 |
-| Forks | 13,220 |
-| Stars this week | 21 |
+| Stars | 2,931 |
+| Forks | 373 |
+| Stars this week | 278 |
 
 ---
 
-## 4. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
-
-🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 27,094 |
-| Forks | 1,725 |
-| Stars this week | 85 |
-
----
-
-## 5. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
+## 4. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
 
 A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,607 |
-| Forks | 31 |
-| Stars this week | 347 |
+| Stars | 1,665 |
+| Forks | 32 |
+| Stars this week | 373 |
 
 ---
 
-## 6. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+## 5. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
-the subtitle editor :)
+A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,490 |
-| Forks | 1,321 |
-| Stars this week | 96 |
+| Stars | 1,748 |
+| Forks | 53 |
+| Stars this week | 71 |
 
 ---
 
-## 7. [Jackett/Jackett](https://github.com/Jackett/Jackett)
+## 6. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
 
-API Support for your favorite torrent trackers
+🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 16,182 |
-| Forks | 1,584 |
-| Stars this week | 62 |
+| Stars | 27,111 |
+| Forks | 1,726 |
+| Stars this week | 91 |
+
+---
+
+## 7. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 38,463 |
+| Forks | 13,354 |
+| Stars this week | 19 |
 
 ---
 
@@ -106,112 +106,125 @@ API Support for your favorite torrent trackers
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,278 |
-| Forks | 143 |
-| Stars this week | 760 |
+| Stars | 5,325 |
+| Forks | 144 |
+| Stars this week | 516 |
 
 ---
 
-## 9. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
-
-A Launcher that Downloads and Updates Applications from Github Releases
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 1,738 |
-| Forks | 53 |
-| Stars this week | 68 |
-
----
-
-## 10. [cyanfish/naps2](https://github.com/cyanfish/naps2)
-
-Scan documents to PDF and more, as simply as possible.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,603 |
-| Forks | 460 |
-| Stars this week | 29 |
-
----
-
-## 11. [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) 🆕
+## 9. [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
 
 A manager for game achievements in Steam.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,208 |
+| Stars | 9,217 |
 | Forks | 904 |
-| Stars this week | 58 |
+| Stars this week | 59 |
 
 ---
 
-## 12. [andrewmd5/Borderless-Gaming](https://github.com/andrewmd5/Borderless-Gaming) 🆕
+## 10. [dotnet/roslyn](https://github.com/dotnet/roslyn) 🆕
 
-Play your favorite games in a borderless window; no more time consuming alt-tabs.
+The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,635 |
-| Forks | 633 |
-| Stars this week | 40 |
+| Stars | 20,720 |
+| Forks | 4,344 |
+| Stars this week | 24 |
 
 ---
 
-## 13. [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
+## 11. [Jackett/Jackett](https://github.com/Jackett/Jackett)
 
-A robust, high-performance execution client for Ethereum node operators.
+API Support for your favorite torrent trackers
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,615 |
-| Forks | 751 |
-| Stars this week | 7 |
+| Stars | 16,188 |
+| Forks | 1,585 |
+| Stars this week | 67 |
 
 ---
 
-## 14. [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx)
+## 12. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
 
-Unity / XNA game patcher and plugin framework
+Movie organizer/manager for usenet and torrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,801 |
-| Forks | 921 |
-| Stars this week | 52 |
+| Stars | 14,549 |
+| Forks | 1,239 |
+| Stars this week | 63 |
 
 ---
 
-## 15. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) 🆕
+## 13. [cyanfish/naps2](https://github.com/cyanfish/naps2)
+
+Scan documents to PDF and more, as simply as possible.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,606 |
+| Forks | 460 |
+| Stars this week | 29 |
+
+---
+
+## 14. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+
+the subtitle editor :)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,499 |
+| Forks | 1,320 |
+| Stars this week | 92 |
+
+---
+
+## 15. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
+
+ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 39,996 |
+| Forks | 3,952 |
+| Stars this week | 142 |
+
+---
+
+## 16. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
 
 Download web video and audio
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,305 |
-| Forks | 348 |
-| Stars this week | 112 |
+| Stars | 7,318 |
+| Forks | 349 |
+| Stars this week | 107 |
 
 ---
 
-## 16. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 17. [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) 🆕
 
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,327 |
-| Forks | 5,648 |
-| Stars this week | 32 |
+| Stars | 4,780 |
+| Forks | 343 |
+| Stars this week | 26 |
 
 ---

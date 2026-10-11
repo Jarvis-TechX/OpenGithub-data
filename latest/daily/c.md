@@ -1,178 +1,216 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-10T05:45:54Z
-**Total Repositories:** 13
-**New Entries:** 10
+**Snapshot Time:** 2026-10-11T05:40:28Z
+**Total Repositories:** 16
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
+## 1. [redis/redis](https://github.com/redis/redis) 🆕
+
+For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 76,708 |
+| Forks | 24,852 |
+| Stars today | 33 |
+
+---
+
+## 2. [ventoy/Ventoy](https://github.com/ventoy/Ventoy) 🆕
+
+A new bootable USB solution.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 79,896 |
+| Forks | 4,979 |
+| Stars today | 43 |
+
+---
+
+## 3. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
 
 A native, user-mode, multi-process, graphical debugger.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 8,284 |
-| Forks | 395 |
-| Stars today | 223 |
+| Stars | 8,342 |
+| Forks | 404 |
+| Stars today | 78 |
 
 ---
 
-## 2. [WeebLabs/DSPi](https://github.com/WeebLabs/DSPi) 🆕
-
-A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350). Official Discord:https://discord.gg/RCyqxAQ5xS
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 1,339 |
-| Forks | 86 |
-| Stars today | 18 |
-
----
-
-## 3. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-
-Display and control your Android device
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 151,728 |
-| Forks | 13,922 |
-| Stars today | 166 |
-
----
-
-## 4. [microsoft/PowerToys](https://github.com/microsoft/PowerToys) 🆕
-
-Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 139,151 |
-| Forks | 8,632 |
-| Stars today | 29 |
-
----
-
-## 5. [lvgl/lvgl](https://github.com/lvgl/lvgl) 🆕
-
-LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 24,833 |
-| Forks | 4,387 |
-| Stars today | 18 |
-
----
-
-## 6. [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) 🆕
-
-Ultralightweight JSON parser in ANSI C
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 13,027 |
-| Forks | 3,535 |
-| Stars today | 3 |
-
----
-
-## 7. [obsproject/obs-studio](https://github.com/obsproject/obs-studio) 🆕
+## 4. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 77,218 |
-| Forks | 10,553 |
-| Stars today | 56 |
+| Stars | 77,273 |
+| Forks | 10,575 |
+| Stars today | 54 |
 
 ---
 
-## 8. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-
-Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,737 |
-| Forks | 10,146 |
-| Stars today | 15 |
-
----
-
-## 9. [pnggroup/libpng](https://github.com/pnggroup/libpng) 🆕
-
-LIBPNG: Portable Network Graphics support, official libpng repository
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 1,663 |
-| Forks | 826 |
-| Stars today | 1 |
-
----
-
-## 10. [containers/bubblewrap](https://github.com/containers/bubblewrap) 🆕
-
-Low-level unprivileged sandboxing tool used by Flatpak and similar projects
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 8,991 |
-| Forks | 393 |
-| Stars today | 17 |
-
----
-
-## 11. [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) 🆕
+## 5. [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge)
 
 Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 6,661 |
-| Forks | 404 |
-| Stars today | 31 |
+| Stars | 6,680 |
+| Forks | 409 |
+| Stars today | 29 |
 
 ---
 
-## 12. [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) 🆕
+## 6. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 
-High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 46,254 |
-| Forks | 3,804 |
-| Stars today | 82 |
+| Stars | 16,748 |
+| Forks | 10,151 |
+| Stars today | 11 |
 
 ---
 
-## 13. [coop-deluxe/sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) 🆕
+## 7. [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) 🆕
 
-An official continuation ofhttps://github.com/djoslin0/sm64ex-coopon sm64coopdx for the enhancements and progress it already has.
+A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,407 |
-| Forks | 358 |
+| Stars | 32,423 |
+| Forks | 2,473 |
+| Stars today | 15 |
+
+---
+
+## 8. [lvgl/lvgl](https://github.com/lvgl/lvgl)
+
+LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 24,847 |
+| Forks | 4,388 |
+| Stars today | 8 |
+
+---
+
+## 9. [espressif/esp-idf](https://github.com/espressif/esp-idf) 🆕
+
+Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 19,204 |
+| Forks | 8,530 |
+| Stars today | 11 |
+
+---
+
+## 10. [FreeRTOS/FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) 🆕
+
+FreeRTOS kernel files only, submoduled intohttps://github.com/FreeRTOS/FreeRTOSand various other repos.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 4,550 |
+| Forks | 1,629 |
+| Stars today | 2 |
+
+---
+
+## 11. [jqlang/jq](https://github.com/jqlang/jq) 🆕
+
+Command-line JSON processor
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 35,776 |
+| Forks | 4,112 |
+| Stars today | 6 |
+
+---
+
+## 12. [libsdl-org/SDL](https://github.com/libsdl-org/SDL) 🆕
+
+Simple DirectMedia Layer
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,772 |
+| Forks | 3,057 |
+| Stars today | 9 |
+
+---
+
+## 13. [openssl/openssl](https://github.com/openssl/openssl) 🆕
+
+General purpose TLS and crypto library
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 30,912 |
+| Forks | 11,523 |
+| Stars today | 6 |
+
+---
+
+## 14. [vedderb/bldc](https://github.com/vedderb/bldc) 🆕
+
+The VESC motor control firmware
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 3,498 |
+| Forks | 1,973 |
 | Stars today | 7 |
+
+---
+
+## 15. [reactos/reactos](https://github.com/reactos/reactos) 🆕
+
+A free Windows-compatible Operating System
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 18,178 |
+| Forks | 2,238 |
+| Stars today | 7 |
+
+---
+
+## 16. [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) 🆕
+
+Lean's LEDE source
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 31,591 |
+| Forks | 19,101 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-10T05:46:02Z
-**Total Repositories:** 13
-**New Entries:** 4
-**Quality Score:** 93.85/100
+**Snapshot Time:** 2026-10-11T05:40:36Z
+**Total Repositories:** 12
+**New Entries:** 3
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,9 +15,9 @@ Give your agent CAD superpowers.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 18,816 |
-| Forks | 1,860 |
-| Stars this week | 2,125 |
+| Stars | 19,030 |
+| Forks | 1,878 |
+| Stars this week | 2,369 |
 
 ---
 
@@ -28,147 +28,138 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 95,059 |
-| Forks | 8,310 |
-| Stars this week | 7,084 |
+| Stars | 95,556 |
+| Forks | 8,366 |
+| Stars this week | 6,056 |
 
 ---
 
-## 3. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
-
-World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 65,914 |
-| Forks | 8,378 |
-| Stars this week | 3,479 |
-
----
-
-## 4. [p-e-w/heretic](https://github.com/p-e-w/heretic)
+## 3. [p-e-w/heretic](https://github.com/p-e-w/heretic)
 
 Fully automatic censorship removal for language models
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 34,388 |
-| Forks | 3,847 |
-| Stars this week | 1,546 |
+| Stars | 34,520 |
+| Forks | 3,862 |
+| Stars this week | 1,495 |
 
 ---
 
-## 5. [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+## 4. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
+World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,694 |
-| Forks | 2,105 |
-| Stars this week | 527 |
+| Stars | 66,366 |
+| Forks | 8,456 |
+| Stars this week | 3,502 |
 
 ---
 
-## 6. [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) 🆕
-
-Build your own AI SRE agents. The open source toolkit for the AI era.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 11,710 |
-| Forks | 1,713 |
-| Stars this week | 356 |
-
----
-
-## 7. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)
-
-Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 23,115 |
-| Forks | 1,434 |
-| Stars this week | 4,234 |
-
----
-
-## 8. [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) 🆕
+## 5. [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
 
 [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 17,794 |
-| Forks | 1,957 |
-| Stars this week | 446 |
+| Stars | 17,967 |
+| Forks | 1,969 |
+| Stars this week | 725 |
 
 ---
 
-## 9. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+## 6. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) 🆕
 
-Useful tool to track location or mobile number
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 17,908 |
-| Forks | 2,434 |
-| Stars this week | 1,166 |
+| Stars | 28,901 |
+| Forks | 3,284 |
+| Stars this week | 2,644 |
 
 ---
 
-## 10. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+## 7. [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
 
-Learn it. Build it. Ship it for others.
+Build your own AI SRE agents. The open source toolkit for the AI era.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 66,260 |
-| Forks | 11,504 |
-| Stars this week | 3,627 |
+| Stars | 11,751 |
+| Forks | 1,721 |
+| Stars this week | 387 |
 
 ---
 
-## 11. [getsentry/sentry](https://github.com/getsentry/sentry)
+## 8. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 
-Developer-first error tracking and performance monitoring
+Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 45,522 |
-| Forks | 4,916 |
-| Stars this week | 555 |
+| Stars | 66,888 |
+| Forks | 11,717 |
+| Stars this week | 3,656 |
 
 ---
 
-## 12. [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 9,143 |
-| Forks | 1,597 |
-| Stars this week | 562 |
-
----
-
-## 13. [666ghj/MiroFish](https://github.com/666ghj/MiroFish) 🆕
+## 9. [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 
 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 77,516 |
-| Forks | 11,836 |
-| Stars this week | 1,861 |
+| Stars | 77,903 |
+| Forks | 11,900 |
+| Stars this week | 2,071 |
+
+---
+
+## 10. [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) 🆕
+
+Experience macOS just like before
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 18,553 |
+| Forks | 2,029 |
+| Stars this week | 187 |
+
+---
+
+## 11. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 🆕
+
+Kronos: A Foundation Model for the Language of Financial Markets
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 40,481 |
+| Forks | 6,747 |
+| Stars this week | 615 |
+
+---
+
+## 12. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+
+Useful tool to track location or mobile number
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 18,134 |
+| Forks | 2,482 |
+| Stars this week | 1,272 |
 
 ---

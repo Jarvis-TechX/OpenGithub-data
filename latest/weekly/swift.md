@@ -1,8 +1,8 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-10T05:46:15Z
-**Total Repositories:** 13
+**Snapshot Time:** 2026-10-11T05:40:50Z
+**Total Repositories:** 14
 **New Entries:** 4
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ Free and open-source macOS menu bar toolkit.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 25,590 |
-| Forks | 1,084 |
-| Stars this week | 2,580 |
+| Stars | 25,951 |
+| Forks | 1,097 |
+| Stars this week | 2,699 |
 
 ---
 
@@ -28,9 +28,9 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,072 |
-| Forks | 2,478 |
-| Stars this week | 545 |
+| Stars | 28,091 |
+| Forks | 2,485 |
+| Stars this week | 555 |
 
 ---
 
@@ -41,9 +41,9 @@ bluetooth mesh chat, IRC vibes
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,519 |
-| Forks | 5,813 |
-| Stars this week | 223 |
+| Stars | 36,536 |
+| Forks | 5,824 |
+| Stars this week | 222 |
 
 ---
 
@@ -54,125 +54,138 @@ Textream is a free macOS teleprompter app for streamers, interviewers, and prese
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,992 |
+| Stars | 4,005 |
 | Forks | 276 |
-| Stars this week | 130 |
+| Stars this week | 108 |
 
 ---
 
-## 5. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
-
-Conduit — native SwiftUI iOS client for Hermes Agent
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 234 |
-| Forks | 41 |
-| Stars this week | 65 |
-
----
-
-## 6. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
-
-Telegram-iOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,206 |
-| Forks | 3,008 |
-| Stars this week | 88 |
-
----
-
-## 7. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
-
-AI coding assistant for Xcode
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 6,324 |
-| Forks | 2,049 |
-| Stars this week | 21 |
-
----
-
-## 8. [ejbills/DockDoor](https://github.com/ejbills/DockDoor)
+## 5. [ejbills/DockDoor](https://github.com/ejbills/DockDoor)
 
 Window peeking, alt-tab and other enhancements for macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,305 |
+| Stars | 6,308 |
 | Forks | 234 |
-| Stars this week | 168 |
+| Stars this week | 118 |
 
 ---
 
-## 9. [zachlatta/freeflow](https://github.com/zachlatta/freeflow) 🆕
+## 6. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
+
+Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,618 |
+| Forks | 226 |
+| Stars this week | 953 |
+
+---
+
+## 7. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
+
+Conduit — native SwiftUI iOS client for Hermes Agent
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 235 |
+| Forks | 40 |
+| Stars this week | 64 |
+
+---
+
+## 8. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) 🆕
+
+无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,790 |
+| Forks | 199 |
+| Stars this week | 255 |
+
+---
+
+## 9. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+
+Telegram-iOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,210 |
+| Forks | 3,012 |
+| Stars this week | 79 |
+
+---
+
+## 10. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) 🆕
+
+Community fork of PlayCover
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 11,905 |
+| Forks | 1,005 |
+| Stars this week | 77 |
+
+---
+
+## 11. [iina/iina](https://github.com/iina/iina) 🆕
+
+The modern video player for macOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 46,726 |
+| Forks | 2,941 |
+| Stars this week | 160 |
+
+---
+
+## 12. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
+
+AI coding assistant for Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,330 |
+| Forks | 2,051 |
+| Stars this week | 25 |
+
+---
+
+## 13. [zachlatta/freeflow](https://github.com/zachlatta/freeflow)
 
 Free & fast alternative to Wispr Flow
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,846 |
-| Forks | 291 |
-| Stars this week | 64 |
-
----
-
-## 10. [iliyami/MacSai](https://github.com/iliyami/MacSai)
-
-Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,791 |
-| Forks | 106 |
-| Stars this week | 101 |
-
----
-
-## 11. [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) 🆕
-
-A cosy home for your LLMs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,591 |
-| Forks | 127 |
+| Stars | 2,849 |
+| Forks | 292 |
 | Stars this week | 59 |
 
 ---
 
-## 12. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
-
-The Swift Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 70,485 |
-| Forks | 10,840 |
-| Stars this week | 53 |
-
----
-
-## 13. [cshariq/Sapphire](https://github.com/cshariq/Sapphire) 🆕
+## 14. [cshariq/Sapphire](https://github.com/cshariq/Sapphire)
 
 The all in one mac app that redefines the notch
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 288 |
-| Forks | 56 |
-| Stars this week | 47 |
+| Stars | 295 |
+| Forks | 57 |
+| Stars this week | 55 |
 
 ---

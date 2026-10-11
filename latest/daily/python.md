@@ -1,176 +1,178 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-10T05:45:46Z
+**Snapshot Time:** 2026-10-11T05:40:19Z
 **Total Repositories:** 13
-**New Entries:** 11
-**Quality Score:** 96.92/100
+**New Entries:** 9
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 28,389 |
-| Forks | 3,254 |
-| Stars today | 709 |
-
----
-
-## 2. [BerriAI/litellm](https://github.com/BerriAI/litellm) 🆕
-
-The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 60,769 |
-| Forks | 12,198 |
-| Stars today | 95 |
-
----
-
-## 3. [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) 🆕
-
-[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 17,794 |
-| Forks | 1,957 |
-| Stars today | 110 |
-
----
-
-## 4. [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 1,201 |
-| Forks | 115 |
-| Stars today | 114 |
-
----
-
-## 5. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-
-A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 56,156 |
-| Forks | 3,201 |
-| Stars today | 389 |
-
----
-
-## 6. [unslothai/unsloth](https://github.com/unslothai/unsloth) 🆕
-
-Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 77,660 |
-| Forks | 7,167 |
-| Stars today | 132 |
-
----
-
-## 7. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) 🆕
-
-Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 74,855 |
-| Forks | 5,805 |
-| Stars today | 104 |
-
----
-
-## 8. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) 🆕
+## 1. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
 
 AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 58,835 |
-| Forks | 4,643 |
-| Stars today | 372 |
+| Stars | 59,687 |
+| Forks | 4,704 |
+| Stars today | 461 |
 
 ---
 
-## 9. [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) 🆕
+## 2. [pytorch/pytorch](https://github.com/pytorch/pytorch) 🆕
+
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 104,189 |
+| Forks | 31,964 |
+| Stars today | 84 |
+
+---
+
+## 3. [huggingface/transformers](https://github.com/huggingface/transformers) 🆕
+
+🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 167,359 |
+| Forks | 34,807 |
+| Stars today | 96 |
+
+---
+
+## 4. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 28,901 |
+| Forks | 3,284 |
+| Stars today | 625 |
+
+---
+
+## 5. [fastapi/fastapi](https://github.com/fastapi/fastapi) 🆕
+
+FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 102,978 |
+| Forks | 10,020 |
+| Stars today | 56 |
+
+---
+
+## 6. [home-assistant/core](https://github.com/home-assistant/core) 🆕
+
+🏡 Open source home automation that puts local control and privacy first.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 91,368 |
+| Forks | 38,867 |
+| Stars today | 18 |
+
+---
+
+## 7. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) 🆕
+
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 57,574 |
+| Forks | 6,453 |
+| Stars today | 1,065 |
+
+---
+
+## 8. [derv82/wifit3](https://github.com/derv82/wifit3) 🆕
+
+Wifite but USB-only & cross-platform.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 2,180 |
+| Forks | 202 |
+| Stars today | 69 |
+
+---
+
+## 9. [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
+
+[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 17,967 |
+| Forks | 1,969 |
+| Stars today | 362 |
+
+---
+
+## 10. [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
 
 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 82,299 |
-| Forks | 10,211 |
-| Stars today | 205 |
+| Stars | 82,480 |
+| Forks | 10,230 |
+| Stars today | 211 |
 
 ---
 
-## 10. [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) 🆕
+## 11. [sgl-project/sglang](https://github.com/sgl-project/sglang) 🆕
 
-Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+SGLang is a high-performance serving framework for large language models and multimodal models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,012 |
-| Forks | 2,933 |
-| Stars today | 27 |
+| Stars | 36,971 |
+| Forks | 9,443 |
+| Stars today | 42 |
 
 ---
 
-## 11. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 🆕
+## 12. [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) 🆕
 
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+Native and Compact Structured Latents for 3D Generation
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 48,206 |
-| Forks | 4,338 |
-| Stars today | 130 |
+| Stars | 11,803 |
+| Forks | 1,434 |
+| Stars today | 202 |
 
 ---
 
-## 12. [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) 🆕
+## 13. [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) 🆕
 
-《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+Autonomous Hacking Agent for Red Team
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 53,246 |
-| Forks | 6,020 |
-| Stars today | 229 |
-
----
-
-## 13. [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) 🆕
-
-OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 47,746 |
-| Forks | 4,664 |
-| Stars today | 51 |
+| Stars | 5,869 |
+| Forks | 1,112 |
+| Stars today | 81 |
 
 ---

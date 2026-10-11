@@ -1,230 +1,243 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-10T05:45:52Z
-**Total Repositories:** 17
-**New Entries:** 16
+**Snapshot Time:** 2026-10-11T05:40:25Z
+**Total Repositories:** 18
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) 🆕
+## 1. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 
 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 45,450 |
-| Forks | 3,279 |
-| Stars today | 326 |
+| Stars | 45,926 |
+| Forks | 3,326 |
+| Stars today | 876 |
 
 ---
 
-## 2. [ollama/ollama](https://github.com/ollama/ollama)
+## 2. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) 🆕
 
-Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+Production-Grade Container Scheduling and Management
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 182,567 |
-| Forks | 18,179 |
-| Stars today | 151 |
+| Stars | 128,262 |
+| Forks | 46,616 |
+| Stars today | 46 |
 
 ---
 
-## 3. [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) 🆕
-
-Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 43,596 |
-| Forks | 9,350 |
-| Stars today | 89 |
-
----
-
-## 4. [infiniflow/ragflow](https://github.com/infiniflow/ragflow) 🆕
-
-RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 91,938 |
-| Forks | 10,939 |
-| Stars today | 81 |
-
----
-
-## 5. [hashicorp/vault](https://github.com/hashicorp/vault) 🆕
-
-A tool for secrets management, encryption as a service, and privileged access management
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 36,373 |
-| Forks | 4,782 |
-| Stars today | 8 |
-
----
-
-## 6. [QuantumNous/new-api](https://github.com/QuantumNous/new-api) 🆕
+## 3. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
 
 A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 49,573 |
-| Forks | 11,915 |
-| Stars today | 102 |
+| Stars | 49,681 |
+| Forks | 11,939 |
+| Stars today | 135 |
 
 ---
 
-## 7. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
+## 4. [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) 🆕
 
-Make humans and AI agents work as one team — open-source and self-hostable.
+ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 52,345 |
-| Forks | 6,815 |
-| Stars today | 100 |
+| Stars | 1,773 |
+| Forks | 336 |
+| Stars today | 35 |
 
 ---
 
-## 8. [docker/docker-agent](https://github.com/docker/docker-agent) 🆕
+## 5. [docker/compose](https://github.com/docker/compose) 🆕
 
-AI Agent Builder and Runtime by Docker Engineering
+Define and run multi-container applications with Docker
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,326 |
-| Forks | 503 |
-| Stars today | 144 |
+| Stars | 38,355 |
+| Forks | 5,869 |
+| Stars today | 45 |
 
 ---
 
-## 9. [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 🆕
+## 6. [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 🆕
 
-Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+A powerful little TUI framework 🏗
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 12,859 |
-| Forks | 1,182 |
-| Stars today | 13 |
+| Stars | 45,428 |
+| Forks | 3,664 |
+| Stars today | 53 |
 
 ---
 
-## 10. [Tencent/WeKnora](https://github.com/Tencent/WeKnora) 🆕
-
-Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 32,902 |
-| Forks | 4,373 |
-| Stars today | 217 |
-
----
-
-## 11. [fish2018/pansou](https://github.com/fish2018/pansou) 🆕
-
-PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。https://t.me/s/webhtv
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 14,855 |
-| Forks | 3,605 |
-| Stars today | 17 |
-
----
-
-## 12. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) 🆕
-
-Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 42,026 |
-| Forks | 5,962 |
-| Stars today | 24 |
-
----
-
-## 13. [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🆕
-
-MCP server for Grafana
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 3,545 |
-| Forks | 461 |
-| Stars today | 6 |
-
----
-
-## 14. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) 🆕
+## 7. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 
 Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 25,417 |
-| Forks | 3,272 |
-| Stars today | 55 |
+| Stars | 25,444 |
+| Forks | 3,278 |
+| Stars today | 47 |
 
 ---
 
-## 15. [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF) 🆕
+## 8. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
-Open-Source Software factory for Open Models
+RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 376 |
-| Forks | 48 |
-| Stars today | 29 |
+| Stars | 91,981 |
+| Forks | 10,950 |
+| Stars today | 58 |
 
 ---
 
-## 16. [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) 🆕
+## 9. [gin-gonic/gin](https://github.com/gin-gonic/gin) 🆕
 
-Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,724 |
-| Forks | 12,225 |
-| Stars today | 73 |
+| Stars | 89,306 |
+| Forks | 8,737 |
+| Stars today | 15 |
 
 ---
 
-## 17. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) 🆕
+## 10. [junegunn/fzf](https://github.com/junegunn/fzf) 🆕
 
-Find, verify, and analyze leaked credentials
+🌸 A command-line fuzzy finder
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 28,406 |
-| Forks | 2,625 |
-| Stars today | 41 |
+| Stars | 83,539 |
+| Forks | 4,991 |
+| Stars today | 64 |
+
+---
+
+## 11. [larksuite/cli](https://github.com/larksuite/cli) 🆕
+
+The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 17,613 |
+| Forks | 1,390 |
+| Stars today | 23 |
+
+---
+
+## 12. [higress-group/higress](https://github.com/higress-group/higress) 🆕
+
+🤖 AI Gateway | AI Native API Gateway
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 9,528 |
+| Forks | 1,337 |
+| Stars today | 16 |
+
+---
+
+## 13. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 33,056 |
+| Forks | 4,398 |
+| Stars today | 216 |
+
+---
+
+## 14. [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+
+Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 43,677 |
+| Forks | 9,372 |
+| Stars today | 88 |
+
+---
+
+## 15. [casdoor/casdoor](https://github.com/casdoor/casdoor) 🆕
+
+An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 14,546 |
+| Forks | 1,841 |
+| Stars today | 13 |
+
+---
+
+## 16. [golang/go](https://github.com/golang/go) 🆕
+
+The Go programming language
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 139,177 |
+| Forks | 21,868 |
+| Stars today | 25 |
+
+---
+
+## 17. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) 🆕
+
+llm-d Router: The intelligent entry point for inference requests
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 394 |
+| Forks | 435 |
+| Stars today | 2 |
+
+---
+
+## 18. [dexidp/dex](https://github.com/dexidp/dex) 🆕
+
+OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 11,182 |
+| Forks | 1,998 |
+| Stars today | 10 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-10T05:46:05Z
+**Snapshot Time:** 2026-10-11T05:40:40Z
 **Total Repositories:** 18
-**New Entries:** 6
-**Quality Score:** 100.00/100
+**New Entries:** 4
+**Quality Score:** 97.78/100
 
 ---
 
@@ -15,9 +15,9 @@ Ruby on Rails
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 58,817 |
-| Forks | 24,775 |
-| Stars this week | 43 |
+| Stars | 58,819 |
+| Forks | 24,895 |
+| Stars this week | 39 |
 
 ---
 
@@ -28,52 +28,78 @@ Super simple group chat, without a subscription
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,755 |
+| Stars | 4,758 |
 | Forks | 822 |
-| Stars this week | 89 |
+| Stars this week | 91 |
 
 ---
 
-## 3. [github/explore](https://github.com/github/explore)
+## 3. [mastodon/mastodon](https://github.com/mastodon/mastodon)
+
+Your self-hosted, globally interconnected microblogging community
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,371 |
+| Forks | 7,509 |
+| Stars this week | 50 |
+
+---
+
+## 4. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+
+Metasploit Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,125 |
+| Forks | 14,997 |
+| Stars this week | 55 |
+
+---
+
+## 5. [github/explore](https://github.com/github/explore)
 
 Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,904 |
+| Stars | 4,905 |
 | Forks | 14,599 |
 | Stars this week | 10 |
 
 ---
 
-## 4. [opf/openproject](https://github.com/opf/openproject)
-
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 16,369 |
-| Forks | 3,548 |
-| Stars this week | 84 |
-
----
-
-## 5. [github-linguist/linguist](https://github.com/github-linguist/linguist)
+## 6. [github-linguist/linguist](https://github.com/github-linguist/linguist)
 
 Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 13,727 |
-| Forks | 5,473 |
-| Stars this week | 19 |
+| Stars | 13,728 |
+| Forks | 5,477 |
+| Stars this week | 14 |
 
 ---
 
-## 6. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+## 7. [opf/openproject](https://github.com/opf/openproject)
+
+OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 16,379 |
+| Forks | 3,550 |
+| Stars this week | 85 |
+
+---
+
+## 8. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 
 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
@@ -81,77 +107,25 @@ Language Savant. If your repository's language is being reported incorrectly, se
 |--------|-------|
 | Language | Ruby |
 | Stars | 15,613 |
-| Forks | 13,908 |
+| Forks | 13,911 |
 | Stars this week | 17 |
 
 ---
 
-## 7. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+## 9. [zammad/zammad](https://github.com/zammad/zammad) 🆕
 
-🤖 Dependabot's core logic for creating update PRs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 5,802 |
-| Forks | 1,553 |
-| Stars this week | 10 |
-
----
-
-## 8. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) 🆕
-
-Metasploit Framework
+Zammad is a web based open source helpdesk/customer support system.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,122 |
-| Forks | 14,996 |
-| Stars this week | 56 |
+| Stars | 5,995 |
+| Forks | 1,074 |
+| Stars this week | 22 |
 
 ---
 
-## 9. [mastodon/mastodon](https://github.com/mastodon/mastodon)
-
-Your self-hosted, globally interconnected microblogging community
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,367 |
-| Forks | 7,506 |
-| Stars this week | 44 |
-
----
-
-## 10. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
-
-Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 37,668 |
-| Forks | 9,174 |
-| Stars this week | 239 |
-
----
-
-## 11. [discourse/discourse](https://github.com/discourse/discourse)
-
-A platform for community discussion. Free, open, simple.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 47,956 |
-| Forks | 9,027 |
-| Stars this week | 37 |
-
----
-
-## 12. [swombat/souls-house](https://github.com/swombat/souls-house) 🆕
+## 10. [swombat/souls-house](https://github.com/swombat/souls-house)
 
 A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.
 
@@ -164,71 +138,69 @@ A platform for hosting persistent AI agents that live, rather than stateless ass
 
 ---
 
-## 13. [forem/forem](https://github.com/forem/forem)
+## 11. [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) 🆕
 
-For empowering community 🌱
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 22,791 |
-| Forks | 4,188 |
-| Stars this week | 15 |
-
----
-
-## 14. [huginn/huginn](https://github.com/huginn/huginn) 🆕
-
-Create agents that monitor and act on your behalf. Your agents are standing by!
+The Rails application that powers OpenStreetMap
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,030 |
-| Forks | 4,304 |
-| Stars this week | 35 |
+| Stars | 2,841 |
+| Forks | 1,092 |
+| Stars this week | 4 |
 
 ---
 
-## 15. [we-promise/sure](https://github.com/we-promise/sure)
+## 12. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+
+🤖 Dependabot's core logic for creating update PRs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 5,804 |
+| Forks | 1,557 |
+| Stars this week | 10 |
+
+---
+
+## 13. [TheOdinProject/ruby-exercises](https://github.com/TheOdinProject/ruby-exercises) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 310 |
+| Forks | 1,773 |
+
+---
+
+## 14. [we-promise/sure](https://github.com/we-promise/sure)
 
 The personal finance app for everyone (by everyone)
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,451 |
-| Forks | 613 |
-| Stars this week | 87 |
+| Stars | 10,475 |
+| Forks | 622 |
+| Stars this week | 101 |
 
 ---
 
-## 16. [chef/chef](https://github.com/chef/chef) 🆕
+## 15. [forem/forem](https://github.com/forem/forem)
 
-Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+For empowering community 🌱
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 8,248 |
-| Forks | 2,518 |
-| Stars this week | 7 |
+| Stars | 22,794 |
+| Forks | 4,189 |
+| Stars this week | 15 |
 
 ---
 
-## 17. [everypolitician/everypolitician-data](https://github.com/everypolitician/everypolitician-data) 🆕
-
-data for national legislatures worldwide
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 256 |
-| Forks | 59 |
-
----
-
-## 18. [jruby/jruby](https://github.com/jruby/jruby) 🆕
+## 16. [jruby/jruby](https://github.com/jruby/jruby)
 
 JRuby, an implementation of Ruby on the JVM
 
@@ -236,7 +208,33 @@ JRuby, an implementation of Ruby on the JVM
 |--------|-------|
 | Language | Ruby |
 | Stars | 3,922 |
-| Forks | 951 |
-| Stars this week | 2 |
+| Forks | 952 |
+| Stars this week | 1 |
+
+---
+
+## 17. [chef/chef](https://github.com/chef/chef)
+
+Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 8,250 |
+| Forks | 2,518 |
+| Stars this week | 6 |
+
+---
+
+## 18. [rmosolgo/graphql-ruby](https://github.com/rmosolgo/graphql-ruby) 🆕
+
+Ruby implementation of GraphQL
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 5,445 |
+| Forks | 1,418 |
+| Stars this week | 1 |
 
 ---

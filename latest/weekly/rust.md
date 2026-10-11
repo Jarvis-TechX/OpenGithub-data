@@ -1,49 +1,49 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-10T05:46:09Z
-**Total Repositories:** 14
-**New Entries:** 3
+**Snapshot Time:** 2026-10-11T05:40:43Z
+**Total Repositories:** 16
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
+## 1. [lexmount/moli](https://github.com/lexmount/moli) 🆕
+
+Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 15,779 |
+| Forks | 382 |
+| Stars this week | 9,973 |
+
+---
+
+## 2. [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
 
 Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,158 |
-| Forks | 244 |
-| Stars this week | 772 |
+| Stars | 4,252 |
+| Forks | 248 |
+| Stars this week | 716 |
 
 ---
 
-## 2. [cjpais/Handy](https://github.com/cjpais/Handy) 🆕
+## 3. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
 
-A free, open source, and extensible speech-to-text application that works completely offline.
+A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 33,385 |
-| Forks | 3,111 |
-| Stars this week | 739 |
-
----
-
-## 3. [dmtrKovalenko/fframes](https://github.com/dmtrKovalenko/fframes) 🆕
-
-programmatic video rendering framework that is actually fast
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,515 |
-| Forks | 59 |
-| Stars this week | 621 |
+| Stars | 5,984 |
+| Forks | 499 |
+| Stars this week | 546 |
 
 ---
 
@@ -54,138 +54,164 @@ Rust GUI components for building fantastic cross-platform desktop application by
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,695 |
-| Forks | 1,028 |
-| Stars this week | 1,063 |
+| Stars | 16,861 |
+| Forks | 1,039 |
+| Stars this week | 988 |
 
 ---
 
-## 5. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
-
-A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 5,874 |
-| Forks | 492 |
-| Stars this week | 457 |
-
----
-
-## 6. [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
+## 5. [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
 
 Empowering everyone to host fast and efficient Minecraft servers
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,228 |
-| Forks | 903 |
-| Stars this week | 375 |
+| Stars | 12,277 |
+| Forks | 908 |
+| Stars this week | 400 |
 
 ---
 
-## 7. [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
-
-The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 41,760 |
-| Forks | 4,108 |
-| Stars this week | 1,350 |
-
----
-
-## 8. [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE)
-
-High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at:https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,985 |
-| Forks | 357 |
-| Stars this week | 37 |
-
----
-
-## 9. [JayWebtech/autoshorts](https://github.com/JayWebtech/autoshorts)
-
-AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 1,225 |
-| Forks | 229 |
-| Stars this week | 116 |
-
----
-
-## 10. [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) 🆕
+## 6. [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 
 A command-line benchmarking tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 29,040 |
+| Stars | 29,060 |
 | Forks | 522 |
-| Stars this week | 106 |
+| Stars this week | 125 |
 
 ---
 
-## 11. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+## 7. [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) 🆕
 
-OpenShell is the safe, private runtime for autonomous AI agents.
+Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,630 |
-| Forks | 1,751 |
-| Stars this week | 1,315 |
+| Stars | 39,095 |
+| Forks | 1,354 |
+| Stars this week | 98 |
 
 ---
 
-## 12. [t8y2/dbx](https://github.com/t8y2/dbx)
+## 8. [bevyengine/bevy](https://github.com/bevyengine/bevy) 🆕
 
-25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+A refreshingly simple data-driven game engine built in Rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 25,446 |
-| Forks | 2,306 |
-| Stars this week | 1,579 |
+| Stars | 48,857 |
+| Forks | 4,910 |
+| Stars this week | 302 |
 
 ---
 
-## 13. [eolix/photosuite](https://github.com/eolix/photosuite)
+## 9. [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+
+The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 41,802 |
+| Forks | 4,113 |
+| Stars this week | 1,342 |
+
+---
+
+## 10. [emilk/egui](https://github.com/emilk/egui) 🆕
+
+egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 31,176 |
+| Forks | 2,186 |
+| Stars this week | 340 |
+
+---
+
+## 11. [cjpais/Handy](https://github.com/cjpais/Handy)
+
+A free, open source, and extensible speech-to-text application that works completely offline.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 33,470 |
+| Forks | 3,115 |
+| Stars this week | 729 |
+
+---
+
+## 12. [rubys/roundhouse](https://github.com/rubys/roundhouse) 🆕
+
+Rails as a specification; the deployment target is a build flag
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 432 |
+| Forks | 36 |
+| Stars this week | 62 |
+
+---
+
+## 13. [trymirai/uzu](https://github.com/trymirai/uzu) 🆕
+
+A high-performance inference engine for AI models
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 2,155 |
+| Forks | 117 |
+| Stars this week | 321 |
+
+---
+
+## 14. [touchHLE/touchHLE](https://github.com/touchHLE/touchHLE)
+
+High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at:https://review.gerrithub.io/admin/repos/touchHLE/touchHLE
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,990 |
+| Forks | 361 |
+| Stars this week | 29 |
+
+---
+
+## 15. [eolix/photosuite](https://github.com/eolix/photosuite)
 
 A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,019 |
-| Forks | 47 |
-| Stars this week | 697 |
+| Stars | 1,048 |
+| Forks | 48 |
+| Stars this week | 711 |
 
 ---
 
-## 14. [zeronsh/zeron](https://github.com/zeronsh/zeron)
+## 16. [microsoft/mxc](https://github.com/microsoft/mxc) 🆕
 
-A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
+Policy-driven, layered isolation and containment
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,143 |
-| Forks | 306 |
-| Stars this week | 393 |
+| Stars | 2,591 |
+| Forks | 129 |
+| Stars this week | 1,158 |
 
 ---

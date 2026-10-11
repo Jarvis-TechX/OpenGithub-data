@@ -1,10 +1,10 @@
 # GitHub Trending - All
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-10T05:46:17Z
-**Total Repositories:** 22
-**New Entries:** 1
-**Quality Score:** 98.18/100
+**Snapshot Time:** 2026-10-11T05:40:52Z
+**Total Repositories:** 23
+**New Entries:** 2
+**Quality Score:** 98.26/100
 
 ---
 
@@ -15,22 +15,22 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 45,450 |
-| Forks | 3,279 |
-| Stars this month | 23,028 |
+| Stars | 45,926 |
+| Forks | 3,326 |
+| Stars this month | 23,947 |
 
 ---
 
-## 2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) 🆕
+## 2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 56,522 |
-| Forks | 6,338 |
-| Stars this month | 34,560 |
+| Stars | 57,574 |
+| Forks | 6,453 |
+| Stars this month | 35,194 |
 
 ---
 
@@ -39,9 +39,9 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 39,202 |
-| Forks | 5,570 |
-| Stars this month | 4,495 |
+| Stars | 39,312 |
+| Forks | 5,577 |
+| Stars this month | 4,607 |
 
 ---
 
@@ -52,9 +52,9 @@ The open-source app everyone uses to manage agents at work
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 99,321 |
-| Forks | 16,762 |
-| Stars this month | 19,137 |
+| Stars | 99,861 |
+| Forks | 16,838 |
+| Stars this month | 19,499 |
 
 ---
 
@@ -65,61 +65,61 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 276,076 |
-| Forks | 41,192 |
-| Stars this month | 22,710 |
+| Stars | 276,631 |
+| Forks | 41,253 |
+| Stars this month | 22,474 |
 
 ---
 
-## 6. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 49,727 |
-| Forks | 10,053 |
-| Stars this month | 29,212 |
-
----
-
-## 7. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+## 6. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 
 Hindsight: Agent Memory That Learns
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 47,789 |
-| Forks | 5,980 |
-| Stars this month | 24,617 |
+| Stars | 48,144 |
+| Forks | 5,992 |
+| Stars this month | 24,928 |
 
 ---
 
-## 8. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+## 7. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 32,902 |
-| Forks | 4,373 |
-| Stars this month | 11,118 |
+| Stars | 33,056 |
+| Forks | 4,398 |
+| Stars this month | 11,234 |
 
 ---
 
-## 9. [anthropics/claude-code](https://github.com/anthropics/claude-code)
+## 8. [anthropics/claude-code](https://github.com/anthropics/claude-code)
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 149,917 |
-| Forks | 25,978 |
-| Stars this month | 6,173 |
+| Stars | 150,096 |
+| Forks | 26,108 |
+| Stars this month | 6,240 |
+
+---
+
+## 9. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 28,901 |
+| Forks | 3,284 |
+| Stars this month | 4,750 |
 
 ---
 
@@ -130,22 +130,22 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,319 |
-| Forks | 1,012 |
-| Stars this month | 6,720 |
+| Stars | 8,553 |
+| Forks | 1,042 |
+| Stars this month | 7,002 |
 
 ---
 
-## 11. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+## 11. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
 | Metric | Value |
 |--------|-------|
-| Language | Python |
-| Stars | 28,390 |
-| Forks | 3,254 |
-| Stars this month | 4,131 |
+| Language | JavaScript |
+| Stars | 50,498 |
+| Forks | 10,201 |
+| Stars this month | 27,862 |
 
 ---
 
@@ -156,35 +156,35 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,722 |
-| Forks | 537 |
-| Stars this month | 2,879 |
+| Stars | 4,803 |
+| Forks | 543 |
+| Stars this month | 2,956 |
 
 ---
 
-## 13. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-
-OpenShell is the safe, private runtime for autonomous AI agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 15,630 |
-| Forks | 1,751 |
-| Stars this month | 7,118 |
-
----
-
-## 14. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 13. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
 Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 59,918 |
-| Forks | 5,349 |
-| Stars this month | 11,576 |
+| Stars | 60,437 |
+| Forks | 5,399 |
+| Stars this month | 11,826 |
+
+---
+
+## 14. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+
+OpenShell is the safe, private runtime for autonomous AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 15,752 |
+| Forks | 1,758 |
+| Stars this month | 7,234 |
 
 ---
 
@@ -195,9 +195,9 @@ Run frontier MoE models on hardware you already own — pure C, zero deps, exper
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 40,850 |
-| Forks | 4,483 |
-| Stars this month | 13,755 |
+| Stars | 41,067 |
+| Forks | 4,509 |
+| Stars this month | 13,894 |
 
 ---
 
@@ -208,9 +208,9 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,003 |
-| Forks | 1,875 |
-| Stars this month | 4,398 |
+| Stars | 26,417 |
+| Forks | 1,903 |
+| Stars this month | 4,285 |
 
 ---
 
@@ -221,9 +221,9 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 29,211 |
-| Forks | 2,065 |
-| Stars this month | 6,877 |
+| Stars | 29,305 |
+| Forks | 2,079 |
+| Stars this month | 6,950 |
 
 ---
 
@@ -234,60 +234,73 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 32,613 |
-| Forks | 4,519 |
-| Stars this month | 7,455 |
+| Stars | 33,002 |
+| Forks | 4,562 |
+| Stars this month | 7,700 |
 
 ---
 
-## 19. [cursor/plugins](https://github.com/cursor/plugins)
-
-Cursor plugin specification and official plugins
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 10,627 |
-| Forks | 1,005 |
-| Stars this month | 3,503 |
-
----
-
-## 20. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+## 19. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 104,144 |
-| Forks | 10,872 |
-| Stars this month | 11,155 |
+| Stars | 104,583 |
+| Forks | 10,914 |
+| Stars this month | 11,706 |
 
 ---
 
-## 21. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+## 20. [cursor/plugins](https://github.com/cursor/plugins)
+
+Cursor plugin specification and official plugins
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 10,782 |
+| Forks | 1,027 |
+| Stars this month | 3,579 |
+
+---
+
+## 21. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) 🆕
+
+Ghidra is a software reverse engineering (SRE) framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 82,864 |
+| Forks | 9,214 |
+| Stars this month | 7,897 |
+
+---
+
+## 22. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 159,801 |
-| Forks | 8,598 |
-| Stars this month | 27,290 |
+| Stars | 160,602 |
+| Forks | 8,637 |
+| Stars this month | 26,935 |
 
 ---
 
-## 22. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+## 23. [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) 🆕
 
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,145 |
-| Forks | 328 |
-| Stars this month | 2,301 |
+| Stars | 16,861 |
+| Forks | 1,039 |
+| Stars this month | 2,544 |
 
 ---

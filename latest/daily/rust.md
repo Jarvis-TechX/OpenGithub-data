@@ -1,8 +1,8 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-10T05:45:53Z
-**Total Repositories:** 6
+**Snapshot Time:** 2026-10-11T05:40:26Z
+**Total Repositories:** 7
 **New Entries:** 5
 **Quality Score:** 100.00/100
 
@@ -15,73 +15,86 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,072 |
-| Forks | 1,840 |
-| Stars today | 3,752 |
+| Stars | 14,995 |
+| Forks | 2,386 |
+| Stars today | 3,222 |
 
 ---
 
-## 2. [microsoft/mxc](https://github.com/microsoft/mxc) 🆕
+## 2. [microsoft/mxc](https://github.com/microsoft/mxc)
 
 Policy-driven, layered isolation and containment
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,467 |
-| Forks | 122 |
-| Stars today | 669 |
+| Stars | 2,591 |
+| Forks | 129 |
+| Stars today | 306 |
 
 ---
 
-## 3. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 🆕
+## 3. [bevyengine/bevy](https://github.com/bevyengine/bevy) 🆕
 
-Browser automation CLI for AI agents
+A refreshingly simple data-driven game engine built in Rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 43,741 |
-| Forks | 2,961 |
-| Stars today | 61 |
+| Stars | 48,857 |
+| Forks | 4,910 |
+| Stars today | 71 |
 
 ---
 
-## 4. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) 🆕
+## 4. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) 🆕
 
-A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 142,079 |
-| Forks | 9,486 |
-| Stars today | 617 |
+| Stars | 2,734 |
+| Forks | 300 |
+| Stars today | 96 |
 
 ---
 
-## 5. [jdx/mise](https://github.com/jdx/mise) 🆕
+## 5. [BrandonKowalski/slot](https://github.com/BrandonKowalski/slot) 🆕
 
-dev tools, env vars, task runner
+A bespoke, Game Boy-centric CFW for the RG SP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 34,859 |
-| Forks | 1,470 |
-| Stars today | 53 |
+| Stars | 111 |
+| Forks | 25 |
+| Stars today | 26 |
 
 ---
 
-## 6. [openai/codex](https://github.com/openai/codex) 🆕
+## 6. [denoland/deno](https://github.com/denoland/deno) 🆕
 
-Lightweight coding agent that runs in your terminal
+A modern runtime for JavaScript and TypeScript.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 128,431 |
-| Forks | 20,151 |
-| Stars today | 213 |
+| Stars | 108,721 |
+| Forks | 6,440 |
+| Stars today | 48 |
+
+---
+
+## 7. [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) 🆕
+
+Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 561 |
+| Forks | 48 |
+| Stars today | 99 |
 
 ---

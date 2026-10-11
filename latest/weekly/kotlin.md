@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-10T05:46:13Z
-**Total Repositories:** 11
-**New Entries:** 2
+**Snapshot Time:** 2026-10-11T05:40:48Z
+**Total Repositories:** 12
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Maps and turn-by-turn navigation for Android without Google Play Services: the b
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,298 |
-| Forks | 54 |
-| Stars this week | 732 |
+| Stars | 1,376 |
+| Forks | 56 |
+| Stars this week | 812 |
 
 ---
 
@@ -28,9 +28,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,008 |
-| Forks | 4,237 |
-| Stars this week | 237 |
+| Stars | 19,044 |
+| Forks | 4,267 |
+| Stars this week | 247 |
 
 ---
 
@@ -41,9 +41,9 @@ GhostLock One-Tap Execution App (CVE-2026-43499)
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,727 |
-| Forks | 446 |
-| Stars this week | 323 |
+| Stars | 1,779 |
+| Forks | 462 |
+| Stars this week | 317 |
 
 ---
 
@@ -54,99 +54,112 @@ Using system APIs directly with adb/root privileges from normal apps through a J
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 31,278 |
-| Forks | 3,305 |
-| Stars this week | 361 |
+| Stars | 31,332 |
+| Forks | 3,311 |
+| Stars this week | 372 |
 
 ---
 
-## 5. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android)
-
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 355 |
-| Forks | 68 |
-| Stars this week | 78 |
-
----
-
-## 6. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
-
-Headunit App for displaying Android Auto
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,676 |
-| Forks | 234 |
-| Stars this week | 91 |
-
----
-
-## 7. [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)
+## 5. [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)
 
 decentralized mesh chat
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,771 |
-| Forks | 1,908 |
-| Stars this week | 110 |
+| Stars | 7,786 |
+| Forks | 1,913 |
+| Stars this week | 124 |
 
 ---
 
-## 8. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 6. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
 
-✨一个安卓网盘解析下载app✨
+Headunit App for displaying Android Auto
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,016 |
-| Forks | 210 |
-| Stars this week | 442 |
+| Stars | 2,692 |
+| Forks | 234 |
+| Stars this week | 96 |
 
 ---
 
-## 9. [open-ani/animeko](https://github.com/open-ani/animeko)
+## 7. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) 🆕
+
+Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 11,123 |
+| Forks | 451 |
+| Stars this week | 243 |
+
+---
+
+## 8. [open-ani/animeko](https://github.com/open-ani/animeko)
 
 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,743 |
-| Forks | 607 |
-| Stars this week | 342 |
+| Stars | 20,787 |
+| Forks | 612 |
+| Stars this week | 383 |
 
 ---
 
-## 10. [bmax121/APatch](https://github.com/bmax121/APatch) 🆕
+## 9. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+
+✨一个安卓网盘解析下载app✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,064 |
+| Forks | 212 |
+| Stars this week | 433 |
+
+---
+
+## 10. [AAswordman/Operit](https://github.com/AAswordman/Operit) 🆕
+
+The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 8,559 |
+| Forks | 716 |
+| Stars this week | 207 |
+
+---
+
+## 11. [bmax121/APatch](https://github.com/bmax121/APatch)
 
 The patching of Android kernel and Android system
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,027 |
-| Forks | 796 |
-| Stars this week | 38 |
+| Stars | 8,031 |
+| Forks | 797 |
+| Stars this week | 39 |
 
 ---
 
-## 11. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
+## 12. [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) 🆕
 
-A Download Manager that speeds up your downloads
+More Expressive InstallerX !
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,360 |
-| Forks | 937 |
-| Stars this week | 175 |
+| Stars | 6,950 |
+| Forks | 254 |
+| Stars this week | 123 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-10T05:46:28Z
-**Total Repositories:** 23
-**New Entries:** 8
-**Quality Score:** 96.52/100
+**Snapshot Time:** 2026-10-11T05:41:02Z
+**Total Repositories:** 24
+**New Entries:** 4
+**Quality Score:** 96.67/100
 
 ---
 
@@ -15,9 +15,9 @@ Run frontier MoE models on hardware you already own — pure C, zero deps, exper
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 40,850 |
-| Forks | 4,483 |
-| Stars this month | 13,755 |
+| Stars | 41,067 |
+| Forks | 4,509 |
+| Stars this month | 13,894 |
 
 ---
 
@@ -28,9 +28,9 @@ Display and control your Android device
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 151,728 |
-| Forks | 13,922 |
-| Stars this month | 2,887 |
+| Stars | 151,794 |
+| Forks | 13,925 |
+| Stars this month | 2,883 |
 
 ---
 
@@ -41,9 +41,9 @@ Simple DirectMedia Layer
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,765 |
-| Forks | 3,054 |
-| Stars this month | 269 |
+| Stars | 16,772 |
+| Forks | 3,057 |
+| Stars this month | 265 |
 
 ---
 
@@ -54,85 +54,85 @@ An open source cross-platform USB stack for embedded system
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,187 |
-| Forks | 1,551 |
-| Stars this month | 112 |
+| Stars | 7,191 |
+| Forks | 1,552 |
+| Stars this month | 115 |
 
 ---
 
-## 5. [armory3d/armorpaint](https://github.com/armory3d/armorpaint)
-
-Graphics Creation Tools
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,349 |
-| Forks | 615 |
-| Stars this month | 1,179 |
-
----
-
-## 6. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) 🆕
+## 5. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
 
 A native, user-mode, multi-process, graphical debugger.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 8,284 |
-| Forks | 395 |
-| Stars this month | 781 |
+| Stars | 8,342 |
+| Forks | 404 |
+| Stars this month | 861 |
 
 ---
 
-## 7. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
+## 6. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 5,553 |
-| Forks | 896 |
-| Stars this month | 229 |
+| Stars | 5,559 |
+| Forks | 902 |
+| Stars this month | 227 |
 
 ---
 
-## 8. [curl/curl](https://github.com/curl/curl)
+## 7. [curl/curl](https://github.com/curl/curl)
 
 A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 43,141 |
-| Forks | 7,416 |
-| Stars this month | 446 |
+| Stars | 43,150 |
+| Forks | 7,422 |
+| Stars this month | 441 |
 
 ---
 
-## 9. [skeeto/w64devkit](https://github.com/skeeto/w64devkit)
+## 8. [armory3d/armorpaint](https://github.com/armory3d/armorpaint)
 
-Portable C and C++ Development Kit for x64 (and x86) Windows
+Graphics Creation Tools
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,895 |
-| Forks | 393 |
-| Stars this month | 128 |
+| Stars | 5,357 |
+| Forks | 616 |
+| Stars this month | 1,085 |
 
 ---
 
-## 10. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk) 🆕
+## 9. [openssl/openssl](https://github.com/openssl/openssl) 🆕
 
-Xbox 360 Recompilation Runtime and Toolkit
+General purpose TLS and crypto library
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,012 |
-| Forks | 162 |
-| Stars this month | 157 |
+| Stars | 30,912 |
+| Forks | 11,523 |
+| Stars this month | 178 |
+
+---
+
+## 10. [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android)
+
+GameStream client for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 7,264 |
+| Forks | 1,622 |
+| Stars this month | 192 |
 
 ---
 
@@ -143,59 +143,59 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,909 |
-| Forks | 287 |
-| Stars this month | 1,809 |
+| Stars | 1,967 |
+| Forks | 293 |
+| Stars this month | 1,837 |
 
 ---
 
-## 12. [raysan5/raylib](https://github.com/raysan5/raylib) 🆕
+## 12. [raysan5/raylib](https://github.com/raysan5/raylib)
 
 A simple and easy-to-use library to enjoy videogames programming
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 35,133 |
-| Forks | 3,326 |
-| Stars this month | 508 |
+| Stars | 35,149 |
+| Forks | 3,327 |
+| Stars this month | 557 |
 
 ---
 
-## 13. [lz4/lz4](https://github.com/lz4/lz4)
-
-Extremely Fast Compression algorithm
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 12,130 |
-| Forks | 1,605 |
-| Stars this month | 86 |
-
----
-
-## 14. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 661 |
-| Forks | 48 |
-| Stars this month | 272 |
-
----
-
-## 15. [libuv/libuv](https://github.com/libuv/libuv) 🆕
+## 13. [libuv/libuv](https://github.com/libuv/libuv)
 
 Cross-platform asynchronous I/O
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 27,234 |
-| Forks | 3,944 |
-| Stars this month | 106 |
+| Stars | 27,239 |
+| Forks | 3,946 |
+| Stars this month | 112 |
+
+---
+
+## 14. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
+GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 28,766 |
+| Forks | 2,235 |
+| Stars this month | 189 |
+
+---
+
+## 15. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 676 |
+| Forks | 48 |
+| Stars this month | 284 |
 
 ---
 
@@ -206,99 +206,112 @@ Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iP
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,194 |
+| Stars | 1,199 |
 | Forks | 305 |
-| Stars this month | 366 |
+| Stars this month | 360 |
 
 ---
 
-## 17. [CTCaer/hekate](https://github.com/CTCaer/hekate) 🆕
-
-hekate - A GUI based Nintendo Switch Bootloader
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 8,866 |
-| Forks | 689 |
-| Stars this month | 224 |
-
----
-
-## 18. [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) 🆕
-
-GameStream client for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 7,254 |
-| Forks | 1,616 |
-| Stars this month | 193 |
-
----
-
-## 19. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
-
-GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 28,756 |
-| Forks | 2,230 |
-| Stars this month | 183 |
-
----
-
-## 20. [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport)
-
-FOLOTOY AI Passport develop resources for Agent
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 589 |
-| Forks | 233 |
-| Stars this month | 308 |
-
----
-
-## 21. [systemd/systemd](https://github.com/systemd/systemd)
-
-The systemd System and Service Manager
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,804 |
-| Forks | 4,737 |
-| Stars this month | 168 |
-
----
-
-## 22. [stackia/rtp2httpd](https://github.com/stackia/rtp2httpd) 🆕
-
-Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 2,238 |
-| Forks | 358 |
-| Stars this month | 211 |
-
----
-
-## 23. [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) 🆕
+## 17. [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
 
 Flipper Zero Unleashed Firmware
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 22,483 |
-| Forks | 1,959 |
-| Stars this month | 316 |
+| Stars | 22,493 |
+| Forks | 1,961 |
+| Stars this month | 318 |
+
+---
+
+## 18. [lz4/lz4](https://github.com/lz4/lz4)
+
+Extremely Fast Compression algorithm
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 12,132 |
+| Forks | 1,606 |
+| Stars this month | 86 |
+
+---
+
+## 19. [semgrep/semgrep](https://github.com/semgrep/semgrep) 🆕
+
+Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,960 |
+| Forks | 1,098 |
+| Stars this month | 409 |
+
+---
+
+## 20. [systemd/systemd](https://github.com/systemd/systemd)
+
+The systemd System and Service Manager
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,815 |
+| Forks | 4,740 |
+| Stars this month | 173 |
+
+---
+
+## 21. [FoloToy/ai-passport](https://github.com/FoloToy/ai-passport)
+
+FOLOTOY AI Passport develop resources for Agent
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 596 |
+| Forks | 238 |
+| Stars this month | 303 |
+
+---
+
+## 22. [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) 🆕
+
+FreeRDP is a free remote desktop protocol library and clients
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 13,810 |
+| Forks | 15,528 |
+| Stars this month | 160 |
+
+---
+
+## 23. [stackia/rtp2httpd](https://github.com/stackia/rtp2httpd)
+
+Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 2,240 |
+| Forks | 358 |
+| Stars this month | 212 |
+
+---
+
+## 24. [SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) 🆕
+
+Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 644 |
+| Forks | 44 |
+| Stars this month | 133 |
 
 ---

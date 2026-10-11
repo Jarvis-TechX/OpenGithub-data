@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-10T05:46:31Z
-**Total Repositories:** 14
-**New Entries:** 1
+**Snapshot Time:** 2026-10-11T05:41:06Z
+**Total Repositories:** 16
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LX
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,456 |
-| Forks | 222 |
-| Stars this month | 1,232 |
+| Stars | 3,467 |
+| Forks | 223 |
+| Stars this month | 1,247 |
 
 ---
 
@@ -28,9 +28,9 @@ GhostLock One-Tap Execution App (CVE-2026-43499)
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,727 |
-| Forks | 446 |
-| Stars this month | 921 |
+| Stars | 1,779 |
+| Forks | 462 |
+| Stars this month | 958 |
 
 ---
 
@@ -41,9 +41,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,008 |
-| Forks | 4,237 |
-| Stars this month | 787 |
+| Stars | 19,044 |
+| Forks | 4,267 |
+| Stars this month | 803 |
 
 ---
 
@@ -54,9 +54,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 42,645 |
+| Stars | 42,689 |
 | Forks | 2,027 |
-| Stars this month | 1,153 |
+| Stars this month | 1,167 |
 
 ---
 
@@ -67,9 +67,9 @@ An advanced Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,396 |
-| Forks | 1,168 |
-| Stars this month | 207 |
+| Stars | 4,408 |
+| Forks | 1,172 |
+| Stars this month | 219 |
 
 ---
 
@@ -80,9 +80,9 @@ An advanced Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,743 |
-| Forks | 607 |
-| Stars this month | 772 |
+| Stars | 20,787 |
+| Forks | 612 |
+| Stars this month | 815 |
 
 ---
 
@@ -93,22 +93,22 @@ An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API su
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,366 |
+| Stars | 1,383 |
 | Forks | 84 |
-| Stars this month | 434 |
+| Stars this month | 437 |
 
 ---
 
-## 8. [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox) 🆕
+## 8. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
-A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱
+A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 667 |
-| Forks | 108 |
-| Stars this month | 474 |
+| Stars | 11,885 |
+| Forks | 642 |
+| Stars this month | 816 |
 
 ---
 
@@ -119,48 +119,48 @@ Full-featured audio/video downloader for Android using yt-dlp
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,489 |
-| Forks | 483 |
-| Stars this month | 529 |
+| Stars | 10,518 |
+| Forks | 485 |
+| Stars this month | 526 |
 
 ---
 
-## 10. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
+## 10. [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox)
+
+A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 678 |
+| Forks | 110 |
+| Stars this month | 476 |
+
+---
+
+## 11. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
 
 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 716 |
-| Forks | 24 |
-| Stars this month | 485 |
+| Stars | 726 |
+| Forks | 26 |
+| Stars this month | 488 |
 
 ---
 
-## 11. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+## 12. [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) 🆕
 
-A cross-platform music app using YouTube Music for backend
+A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,848 |
-| Forks | 642 |
-| Stars this month | 820 |
-
----
-
-## 12. [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune)
-
-🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,944 |
-| Forks | 304 |
-| Stars this month | 1,126 |
+| Stars | 3,552 |
+| Forks | 237 |
+| Stars this month | 457 |
 
 ---
 
@@ -171,21 +171,47 @@ BYD DiLink app (3.0/5.0/5.1, UI7): split screen 1/3+2/3, navigation on instrumen
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 388 |
+| Stars | 391 |
 | Forks | 75 |
-| Stars this month | 127 |
+| Stars this month | 117 |
 
 ---
 
-## 14. [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+## 14. [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune)
+
+🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,973 |
+| Forks | 305 |
+| Stars this month | 1,131 |
+
+---
+
+## 15. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
+
+Headunit App for displaying Android Auto
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,692 |
+| Forks | 234 |
+| Stars this month | 335 |
+
+---
+
+## 16. [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
 
 AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,971 |
-| Forks | 2,961 |
-| Stars this month | 238 |
+| Stars | 11,980 |
+| Forks | 2,962 |
+| Stars this month | 237 |
 
 ---

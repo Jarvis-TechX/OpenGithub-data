@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-10T05:45:55Z
-**Total Repositories:** 11
-**New Entries:** 9
+**Snapshot Time:** 2026-10-11T05:40:29Z
+**Total Repositories:** 14
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
@@ -15,138 +15,177 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 23,144 |
-| Forks | 1,909 |
-| Stars today | 5,868 |
+| Stars | 27,406 |
+| Forks | 2,312 |
+| Stars today | 5,805 |
 
 ---
 
-## 2. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
+## 2. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
 
-An MCP-based chatbot | 一个基于MCP的聊天机器人
+An Open Source Machine Learning Framework for Everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 30,572 |
-| Forks | 7,168 |
-| Stars today | 39 |
+| Stars | 200,773 |
+| Forks | 78,977 |
+| Stars today | 26 |
 
 ---
 
-## 3. [typesense/typesense](https://github.com/typesense/typesense) 🆕
+## 3. [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) 🆕
+
+Telegram Desktop messaging app
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 33,191 |
+| Forks | 7,364 |
+| Stars today | 31 |
+
+---
+
+## 4. [duckdb/duckdb](https://github.com/duckdb/duckdb) 🆕
+
+DuckDB is an analytical in-process SQL database management system
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 42,087 |
+| Forks | 3,902 |
+| Stars today | 69 |
+
+---
+
+## 5. [typesense/typesense](https://github.com/typesense/typesense)
 
 Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 26,844 |
+| Stars | 26,850 |
 | Forks | 1,010 |
-| Stars today | 173 |
+| Stars today | 26 |
 
 ---
 
-## 4. [google/perfetto](https://github.com/google/perfetto) 🆕
+## 6. [duckdb/ducklake](https://github.com/duckdb/ducklake) 🆕
 
-Production-grade client-side tracing, profiling, and analysis for complex software systems.
+DuckLake is an integrated data lake and catalog format
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,622 |
-| Forks | 894 |
-| Stars today | 9 |
+| Stars | 3,288 |
+| Forks | 276 |
+| Stars today | 27 |
 
 ---
 
-## 5. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) 🆕
+## 7. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) 🆕
 
-Audio Plugin for Audio to MIDI transcription using deep learning.
+PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,074 |
-| Forks | 209 |
-| Stars today | 20 |
+| Stars | 33,391 |
+| Forks | 2,687 |
+| Stars today | 71 |
 
 ---
 
-## 6. [wolfpld/tracy](https://github.com/wolfpld/tracy) 🆕
+## 8. [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) 🆕
 
-Frame profiler
+Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,903 |
-| Forks | 1,232 |
-| Stars today | 9 |
+| Stars | 7,623 |
+| Forks | 861 |
+| Stars today | 34 |
 
 ---
 
-## 7. [k4yt3x/video2x](https://github.com/k4yt3x/video2x) 🆕
+## 9. [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) 🆕
+
+Cross-platform, customizable ML solutions for live and streaming media.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 37,220 |
+| Forks | 6,187 |
+| Stars today | 12 |
+
+---
+
+## 10. [catchorg/Catch2](https://github.com/catchorg/Catch2) 🆕
+
+A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 21,519 |
+| Forks | 3,489 |
+| Stars today | 3 |
+
+---
+
+## 11. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) 🆕
+
+Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,590 |
+| Forks | 142 |
+| Stars today | 31 |
+
+---
+
+## 12. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) 🆕
+
+Multi-Joint dynamics with Contact. A general purpose physics simulator.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 15,592 |
+| Forks | 1,825 |
+| Stars today | 36 |
+
+---
+
+## 13. [k4yt3x/video2x](https://github.com/k4yt3x/video2x)
 
 A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 22,119 |
-| Forks | 1,920 |
-| Stars today | 56 |
+| Stars | 22,142 |
+| Forks | 1,924 |
+| Stars today | 32 |
 
 ---
 
-## 8. [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) 🆕
+## 14. [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) 🆕
 
-super repo for rocm systems projects
+Diablo build for modern operating systems
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 527 |
-| Forks | 442 |
-| Stars today | 2 |
-
----
-
-## 9. [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) 🆕
-
-Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 6,748 |
-| Forks | 1,304 |
-| Stars today | 9 |
-
----
-
-## 10. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) 🆕
-
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 34,096 |
-| Forks | 6,166 |
-| Stars today | 55 |
-
----
-
-## 11. [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)
-
-A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 12,684 |
-| Forks | 1,524 |
-| Stars today | 34 |
+| Stars | 9,813 |
+| Forks | 1,057 |
+| Stars today | 7 |
 
 ---

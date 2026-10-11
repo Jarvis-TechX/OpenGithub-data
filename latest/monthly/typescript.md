@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-10T05:46:21Z
+**Snapshot Time:** 2026-10-11T05:40:56Z
 **Total Repositories:** 22
-**New Entries:** 3
+**New Entries:** 1
 **Quality Score:** 96.36/100
 
 ---
@@ -15,9 +15,9 @@ The open-source app everyone uses to manage agents at work
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 99,321 |
-| Forks | 16,762 |
-| Stars this month | 19,137 |
+| Stars | 99,861 |
+| Forks | 16,838 |
+| Stars this month | 19,499 |
 
 ---
 
@@ -28,9 +28,9 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 149,917 |
-| Forks | 25,978 |
-| Stars this month | 6,173 |
+| Stars | 150,096 |
+| Forks | 26,108 |
+| Stars this month | 6,240 |
 
 ---
 
@@ -41,9 +41,9 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 59,918 |
-| Forks | 5,349 |
-| Stars this month | 11,576 |
+| Stars | 60,437 |
+| Forks | 5,399 |
+| Stars this month | 11,826 |
 
 ---
 
@@ -54,9 +54,9 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,003 |
-| Forks | 1,875 |
-| Stars this month | 4,398 |
+| Stars | 26,417 |
+| Forks | 1,903 |
+| Stars this month | 4,285 |
 
 ---
 
@@ -67,9 +67,9 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 32,613 |
-| Forks | 4,519 |
-| Stars this month | 7,455 |
+| Stars | 33,002 |
+| Forks | 4,562 |
+| Stars this month | 7,700 |
 
 ---
 
@@ -80,9 +80,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,627 |
-| Forks | 1,005 |
-| Stars this month | 3,503 |
+| Stars | 10,782 |
+| Forks | 1,027 |
+| Stars this month | 3,579 |
 
 ---
 
@@ -93,148 +93,148 @@ Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 45,474 |
-| Forks | 9,335 |
-| Stars this month | 2,900 |
+| Stars | 45,502 |
+| Forks | 9,346 |
+| Stars this month | 2,906 |
 
 ---
 
-## 8. [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 2,472 |
-| Forks | 199 |
-| Stars this month | 1,778 |
-
----
-
-## 9. [supabase/supabase](https://github.com/supabase/supabase)
+## 8. [supabase/supabase](https://github.com/supabase/supabase)
 
 The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 111,289 |
-| Forks | 16,277 |
-| Stars this month | 2,648 |
+| Stars | 111,326 |
+| Forks | 16,403 |
+| Stars this month | 2,653 |
 
 ---
 
-## 10. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+## 9. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,669 |
-| Forks | 6,963 |
-| Stars this month | 4,559 |
+| Stars | 26,846 |
+| Forks | 7,041 |
+| Stars this month | 4,650 |
 
 ---
 
-## 11. [cline/cline](https://github.com/cline/cline)
-
-Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
+## 10. [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 70,090 |
-| Forks | 7,628 |
-| Stars this month | 2,782 |
+| Stars | 2,484 |
+| Forks | 200 |
+| Stars this month | 1,366 |
 
 ---
 
-## 12. [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) 🆕
-
-Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 6,595 |
-| Forks | 613 |
-| Stars this month | 5,117 |
-
----
-
-## 13. [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
-
-Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 5,685 |
-| Forks | 272 |
-| Stars this month | 705 |
-
----
-
-## 14. [Effect-TS/effect](https://github.com/Effect-TS/effect)
-
-Build production-ready applications in TypeScript
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 17,193 |
-| Forks | 845 |
-| Stars this month | 1,292 |
-
----
-
-## 15. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) 🆕
+## 11. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 99,034 |
-| Forks | 8,674 |
-| Stars this month | 5,830 |
+| Stars | 99,354 |
+| Forks | 8,706 |
+| Stars this month | 6,034 |
 
 ---
 
-## 16. [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
+## 12. [cline/cline](https://github.com/cline/cline)
 
-Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
+Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,845 |
-| Forks | 1,086 |
-| Stars this month | 8,044 |
+| Stars | 70,138 |
+| Forks | 7,633 |
+| Stars this month | 2,759 |
 
 ---
 
-## 17. [dream-num/univer](https://github.com/dream-num/univer)
+## 13. [Effect-TS/effect](https://github.com/Effect-TS/effect)
+
+Build production-ready applications in TypeScript
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 17,209 |
+| Forks | 848 |
+| Stars this month | 1,295 |
+
+---
+
+## 14. [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
+
+Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 6,641 |
+| Forks | 618 |
+| Stars this month | 4,522 |
+
+---
+
+## 15. [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
+
+Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 5,699 |
+| Forks | 272 |
+| Stars this month | 711 |
+
+---
+
+## 16. [dream-num/univer](https://github.com/dream-num/univer)
 
 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 22,517 |
-| Forks | 1,880 |
-| Stars this month | 8,316 |
+| Stars | 22,535 |
+| Forks | 1,882 |
+| Stars this month | 8,331 |
 
 ---
 
-## 18. [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+## 17. [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
 
 OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 19,955 |
-| Forks | 2,447 |
-| Stars this month | 5,821 |
+| Stars | 20,003 |
+| Forks | 2,451 |
+| Stars this month | 5,876 |
+
+---
+
+## 18. [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 🆕
+
+🎥 Make videos programmatically with React
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 63,117 |
+| Forks | 4,958 |
+| Stars this month | 4,441 |
 
 ---
 
@@ -245,22 +245,22 @@ Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https:
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,321 |
-| Forks | 1,227 |
-| Stars this month | 4,190 |
+| Stars | 8,344 |
+| Forks | 1,232 |
+| Stars this month | 4,222 |
 
 ---
 
-## 20. [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+## 20. [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
 
-Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 4,510 |
-| Forks | 1,197 |
-| Stars this month | 3,798 |
+| Stars | 13,925 |
+| Forks | 1,094 |
+| Stars this month | 7,879 |
 
 ---
 
@@ -271,21 +271,21 @@ yoink any video from your terminal. no shady ads.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,651 |
-| Forks | 475 |
-| Stars this month | 3,927 |
+| Stars | 5,702 |
+| Forks | 480 |
+| Stars this month | 4,007 |
 
 ---
 
-## 22. [reconurge/flowsint](https://github.com/reconurge/flowsint) 🆕
+## 22. [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
 
-A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
+Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,587 |
-| Forks | 1,176 |
-| Stars this month | 2,014 |
+| Stars | 4,529 |
+| Forks | 1,209 |
+| Stars this month | 3,707 |
 
 ---
