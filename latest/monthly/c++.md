@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-11T05:41:04Z
+**Snapshot Time:** 2026-10-12T05:51:24Z
 **Total Repositories:** 20
-**New Entries:** 4
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,727 |
-| Forks | 251 |
-| Stars this month | 2,051 |
+| Stars | 2,842 |
+| Forks | 259 |
+| Stars this month | 2,125 |
 
 ---
 
@@ -28,9 +28,9 @@ Firebase SDK for Apple App Development
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,933 |
-| Forks | 1,818 |
-| Stars this month | 291 |
+| Stars | 6,952 |
+| Forks | 1,819 |
+| Stars this month | 303 |
 
 ---
 
@@ -41,9 +41,9 @@ Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,623 |
-| Forks | 861 |
-| Stars this month | 682 |
+| Stars | 7,642 |
+| Forks | 868 |
+| Stars this month | 698 |
 
 ---
 
@@ -54,152 +54,152 @@ High-performance single-GPU inference for selected model checkpoints and GPUs.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,898 |
-| Forks | 570 |
-| Stars this month | 1,345 |
+| Stars | 2,936 |
+| Forks | 579 |
+| Stars this month | 1,361 |
 
 ---
 
-## 5. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
-
-Self-hosted game stream host for Moonlight.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 42,074 |
-| Forks | 2,221 |
-| Stars this month | 1,136 |
-
----
-
-## 6. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+## 5. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 
 PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,391 |
-| Forks | 2,687 |
-| Stars this month | 682 |
+| Stars | 33,434 |
+| Forks | 2,708 |
+| Stars this month | 711 |
 
 ---
 
-## 7. [apache/arrow](https://github.com/apache/arrow) 🆕
+## 6. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
 
-Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+Self-hosted game stream host for Moonlight.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,242 |
-| Forks | 4,360 |
-| Stars this month | 163 |
+| Stars | 42,114 |
+| Forks | 2,225 |
+| Stars this month | 1,131 |
 
 ---
 
-## 8. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+## 7. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 
 An Open Source Machine Learning Framework for Everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 200,773 |
-| Forks | 78,977 |
-| Stars this month | 1,790 |
+| Stars | 200,874 |
+| Forks | 79,191 |
+| Stars this month | 1,664 |
 
 ---
 
-## 9. [aria2/aria2](https://github.com/aria2/aria2)
+## 8. [apache/arrow](https://github.com/apache/arrow)
 
-aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 43,038 |
-| Forks | 3,948 |
-| Stars this month | 1,138 |
+| Stars | 17,246 |
+| Forks | 4,362 |
+| Stars this month | 168 |
 
 ---
 
-## 10. [godotengine/godot](https://github.com/godotengine/godot)
-
-Godot Engine – Multi-platform 2D and 3D game engine
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 118,239 |
-| Forks | 27,019 |
-| Stars this month | 1,730 |
-
----
-
-## 11. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-
-LLM inference in C/C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 130,786 |
-| Forks | 24,286 |
-| Stars this month | 3,633 |
-
----
-
-## 12. [microsoft/WSL](https://github.com/microsoft/WSL)
+## 9. [microsoft/WSL](https://github.com/microsoft/WSL)
 
 Windows Subsystem for Linux
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,031 |
-| Forks | 1,856 |
-| Stars this month | 437 |
+| Stars | 34,040 |
+| Forks | 1,857 |
+| Stars this month | 440 |
 
 ---
 
-## 13. [windirstat/windirstat](https://github.com/windirstat/windirstat)
+## 10. [aria2/aria2](https://github.com/aria2/aria2)
+
+aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 43,059 |
+| Forks | 3,950 |
+| Stars this month | 1,105 |
+
+---
+
+## 11. [windirstat/windirstat](https://github.com/windirstat/windirstat)
 
 Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 4,272 |
+| Stars | 4,278 |
 | Forks | 265 |
-| Stars this month | 249 |
+| Stars this month | 254 |
 
 ---
 
-## 14. [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler)
+## 12. [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
 
-OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
+GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 11,681 |
-| Forks | 527 |
-| Stars this month | 1,129 |
+| Stars | 19,057 |
+| Forks | 1,407 |
+| Stars this month | 493 |
 
 ---
 
-## 15. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+## 13. [deskflow/deskflow](https://github.com/deskflow/deskflow)
+
+Share a single keyboard and mouse between multiple computers.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 29,620 |
+| Forks | 4,943 |
+| Stars this month | 897 |
+
+---
+
+## 14. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
 
 KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 29,160 |
-| Forks | 1,938 |
-| Stars this month | 462 |
+| Stars | 29,181 |
+| Forks | 1,941 |
+| Stars this month | 475 |
+
+---
+
+## 15. [godotengine/godot](https://github.com/godotengine/godot)
+
+Godot Engine – Multi-platform 2D and 3D game engine
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 118,286 |
+| Forks | 27,023 |
+| Stars this month | 1,711 |
 
 ---
 
@@ -210,60 +210,60 @@ Reimplementation of GTA:SA 1.0 US
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,022 |
-| Forks | 244 |
-| Stars this month | 168 |
+| Stars | 1,030 |
+| Forks | 246 |
+| Stars this month | 173 |
 
 ---
 
-## 17. [deskflow/deskflow](https://github.com/deskflow/deskflow) 🆕
-
-Share a single keyboard and mouse between multiple computers.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 29,579 |
-| Forks | 4,935 |
-| Stars this month | 889 |
-
----
-
-## 18. [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
-
-GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 19,033 |
-| Forks | 1,401 |
-| Stars this month | 484 |
-
----
-
-## 19. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) 🆕
-
-Multi-Joint dynamics with Contact. A general purpose physics simulator.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 15,592 |
-| Forks | 1,825 |
-| Stars this month | 578 |
-
----
-
-## 20. [react/react-native](https://github.com/react/react-native) 🆕
+## 17. [react/react-native](https://github.com/react/react-native)
 
 A framework for building native applications using React
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 126,619 |
-| Forks | 25,304 |
-| Stars this month | 424 |
+| Stars | 126,632 |
+| Forks | 25,309 |
+| Stars this month | 427 |
+
+---
+
+## 18. [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler)
+
+OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 11,709 |
+| Forks | 529 |
+| Stars this month | 1,097 |
+
+---
+
+## 19. [mamedev/mame](https://github.com/mamedev/mame) 🆕
+
+MAME
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 10,592 |
+| Forks | 2,583 |
+| Stars this month | 141 |
+
+---
+
+## 20. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) 🆕
+
+Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,611 |
+| Forks | 146 |
+| Stars this month | 1,221 |
 
 ---

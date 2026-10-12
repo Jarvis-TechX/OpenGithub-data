@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-11T05:41:01Z
+**Snapshot Time:** 2026-10-12T05:51:21Z
 **Total Repositories:** 22
-**New Entries:** 3
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,752 |
-| Forks | 1,758 |
-| Stars this month | 7,234 |
+| Stars | 15,878 |
+| Forks | 1,766 |
+| Stars this month | 7,318 |
 
 ---
 
@@ -28,9 +28,9 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 29,305 |
-| Forks | 2,079 |
-| Stars this month | 6,950 |
+| Stars | 29,416 |
+| Forks | 2,092 |
+| Stars this month | 6,994 |
 
 ---
 
@@ -41,9 +41,9 @@ Rust GUI components for building fantastic cross-platform desktop application by
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,861 |
-| Forks | 1,039 |
-| Stars this month | 2,544 |
+| Stars | 16,935 |
+| Forks | 1,044 |
+| Stars this month | 2,688 |
 
 ---
 
@@ -54,74 +54,74 @@ RustFS is an open-source, S3-compatible high-performance object storage system s
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 34,698 |
-| Forks | 1,574 |
-| Stars this month | 3,064 |
+| Stars | 34,743 |
+| Forks | 1,579 |
+| Stars this month | 3,059 |
 
 ---
 
-## 5. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
-
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 9,176 |
-| Forks | 328 |
-| Stars this month | 2,364 |
-
----
-
-## 6. [cloudflare/quiche](https://github.com/cloudflare/quiche)
-
-🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 12,766 |
-| Forks | 1,172 |
-| Stars this month | 979 |
-
----
-
-## 7. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+## 5. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
 An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 125,452 |
-| Forks | 19,593 |
-| Stars this month | 3,027 |
+| Stars | 125,552 |
+| Forks | 19,615 |
+| Stars this month | 3,034 |
 
 ---
 
-## 8. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) 🆕
+## 6. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,125 |
-| Forks | 640 |
-| Stars this month | 2,712 |
+| Stars | 9,192 |
+| Forks | 330 |
+| Stars this month | 2,336 |
 
 ---
 
-## 9. [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+## 7. [bevyengine/bevy](https://github.com/bevyengine/bevy)
+
+A refreshingly simple data-driven game engine built in Rust
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 48,910 |
+| Forks | 4,914 |
+| Stars this month | 892 |
+
+---
+
+## 8. [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 150,450 |
-| Forks | 10,803 |
-| Stars this month | 7,489 |
+| Stars | 150,680 |
+| Forks | 10,838 |
+| Stars this month | 7,495 |
+
+---
+
+## 9. [lexmount/moli](https://github.com/lexmount/moli)
+
+Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 16,620 |
+| Forks | 406 |
+| Stars this month | 14,631 |
 
 ---
 
@@ -132,100 +132,100 @@ Turn your coding agents into research agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,858 |
-| Forks | 442 |
-| Stars this month | 6,178 |
+| Stars | 6,895 |
+| Forks | 445 |
+| Stars this month | 6,025 |
 
 ---
 
-## 11. [lexmount/moli](https://github.com/lexmount/moli) 🆕
+## 11. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 
-Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,779 |
-| Forks | 382 |
-| Stars this month | 13,847 |
+| Stars | 9,148 |
+| Forks | 644 |
+| Stars this month | 2,679 |
 
 ---
 
-## 12. [bevyengine/bevy](https://github.com/bevyengine/bevy)
-
-A refreshingly simple data-driven game engine built in Rust
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 48,857 |
-| Forks | 4,910 |
-| Stars this month | 855 |
-
----
-
-## 13. [hydra-db/hydradb](https://github.com/hydra-db/hydradb)
+## 12. [hydra-db/hydradb](https://github.com/hydra-db/hydradb)
 
 HydraDB - fast graph database on object storage
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 13,014 |
-| Forks | 5,447 |
-| Stars this month | 10,046 |
+| Stars | 13,011 |
+| Forks | 5,439 |
+| Stars this month | 10,029 |
 
 ---
 
-## 14. [microsoft/mxc](https://github.com/microsoft/mxc)
+## 13. [microsoft/mxc](https://github.com/microsoft/mxc)
 
 Policy-driven, layered isolation and containment
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,591 |
-| Forks | 129 |
-| Stars this month | 1,234 |
+| Stars | 2,673 |
+| Forks | 142 |
+| Stars this month | 1,330 |
 
 ---
 
-## 15. [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) 🆕
-
-Give cloud AI agents a real development environment on your own machines.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,236 |
-| Forks | 294 |
-| Stars this month | 1,641 |
-
----
-
-## 16. [ankitects/anki](https://github.com/ankitects/anki)
+## 14. [ankitects/anki](https://github.com/ankitects/anki)
 
 Anki is a smart spaced repetition flashcard program
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,908 |
-| Forks | 3,318 |
+| Stars | 31,935 |
+| Forks | 3,326 |
 | Stars this month | 1,698 |
 
 ---
 
-## 17. [pacifio/atlas](https://github.com/pacifio/atlas)
+## 15. [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex)
+
+Give cloud AI agents a real development environment on your own machines.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 2,252 |
+| Forks | 300 |
+| Stars this month | 1,610 |
+
+---
+
+## 16. [pacifio/atlas](https://github.com/pacifio/atlas)
 
 Source control for agents. Use multiple coding agents, track their changes and query them in one place
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,586 |
-| Forks | 371 |
+| Stars | 9,589 |
+| Forks | 373 |
 | Stars this month | 6,589 |
+
+---
+
+## 17. [zeronsh/zeron](https://github.com/zeronsh/zeron)
+
+A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,161 |
+| Forks | 311 |
+| Stars this month | 1,796 |
 
 ---
 
@@ -236,22 +236,22 @@ A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-ac
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,734 |
-| Forks | 300 |
-| Stars this month | 1,282 |
+| Stars | 2,828 |
+| Forks | 314 |
+| Stars this month | 1,264 |
 
 ---
 
-## 19. [zeronsh/zeron](https://github.com/zeronsh/zeron)
+## 19. [t8y2/dbx](https://github.com/t8y2/dbx)
 
-A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
+25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,154 |
-| Forks | 309 |
-| Stars this month | 1,810 |
+| Stars | 25,876 |
+| Forks | 2,350 |
+| Stars this month | 6,806 |
 
 ---
 
@@ -262,34 +262,34 @@ Professional Antigravity Account Manager & Switcher. One-click seamless account 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 32,071 |
+| Stars | 32,094 |
 | Forks | 3,464 |
-| Stars this month | 1,116 |
+| Stars this month | 1,108 |
 
 ---
 
-## 21. [t8y2/dbx](https://github.com/t8y2/dbx)
+## 21. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 🆕
 
-25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 25,696 |
-| Forks | 2,330 |
-| Stars this month | 6,850 |
+| Stars | 111,784 |
+| Forks | 4,061 |
+| Stars this month | 1,007 |
 
 ---
 
-## 22. [deeplethe/utopia](https://github.com/deeplethe/utopia)
+## 22. [cloudflare/quiche](https://github.com/cloudflare/quiche)
 
-World's first open-source enterprise world model.
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 8,243 |
-| Forks | 1,147 |
-| Stars this month | 6,028 |
+| Stars | 12,771 |
+| Forks | 1,174 |
+| Stars this month | 985 |
 
 ---

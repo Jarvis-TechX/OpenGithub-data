@@ -1,137 +1,100 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-11T05:40:33Z
-**Total Repositories:** 10
+**Snapshot Time:** 2026-10-12T05:50:47Z
+**Total Repositories:** 7
 **New Entries:** 5
-**Quality Score:** 96.00/100
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
+## 1. [xtool-org/xtool](https://github.com/xtool-org/xtool)
 
 Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,618 |
-| Forks | 226 |
-| Stars today | 877 |
+| Stars | 7,130 |
+| Forks | 262 |
+| Stars today | 427 |
 
 ---
 
-## 2. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+## 2. [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) 🆕
 
-无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+Nuvio tvOS client
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,790 |
-| Forks | 199 |
-| Stars today | 31 |
+| Stars | 284 |
+| Forks | 24 |
+| Stars today | 10 |
 
 ---
 
-## 3. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
+## 3. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) 🆕
 
-Community fork of PlayCover
+Run a virtual iPhone on an Apple Silicon Mac.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,905 |
-| Forks | 1,005 |
-| Stars today | 11 |
+| Stars | 15,191 |
+| Forks | 1,790 |
+| Stars today | 26 |
 
 ---
 
-## 4. [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
+## 4. [claration/feather](https://github.com/claration/feather) 🆕
+
+Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,824 |
+| Forks | 437 |
+| Stars today | 7 |
+
+---
+
+## 5. [altstoreio/AltStore](https://github.com/altstoreio/AltStore) 🆕
+
+AltStore is an alternative app store for non-jailbroken iOS devices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,531 |
+| Forks | 1,585 |
+| Stars today | 8 |
+
+---
+
+## 6. [didriksg/Crisp](https://github.com/didriksg/Crisp) 🆕
+
+Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual displays. Free and open source, a no-cost alternative to BetterDisplay and Lunar.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,062 |
+| Forks | 86 |
+| Stars today | 10 |
+
+---
+
+## 7. [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
 
 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,898 |
+| Stars | 14,909 |
 | Forks | 773 |
-| Stars today | 9 |
-
----
-
-## 5. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) 🆕
-
-Free and open-source macOS menu bar toolkit.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 25,951 |
-| Forks | 1,097 |
-| Stars today | 360 |
-
----
-
-## 6. [farzaa/clicky](https://github.com/farzaa/clicky) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 7,697 |
-| Forks | 1,534 |
-| Stars today | 1 |
-
----
-
-## 7. [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) 🆕
-
-Elegant HTTP Networking in Swift
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 42,401 |
-| Forks | 7,652 |
-| Stars today | 1 |
-
----
-
-## 8. [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) 🆕
-
-A Swift Autolayout DSL for iOS & OS X
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 20,344 |
-| Forks | 2,045 |
-| Stars today | 1 |
-
----
-
-## 9. [p0deje/Maccy](https://github.com/p0deje/Maccy)
-
-Lightweight clipboard manager for macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 21,878 |
-| Forks | 1,199 |
-| Stars today | 18 |
-
----
-
-## 10. [exelban/stats](https://github.com/exelban/stats)
-
-macOS system monitor in your menu bar
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 42,462 |
-| Forks | 1,568 |
-| Stars today | 31 |
+| Stars today | 10 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-11T05:40:26Z
-**Total Repositories:** 7
-**New Entries:** 5
+**Snapshot Time:** 2026-10-12T05:50:37Z
+**Total Repositories:** 6
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,86 +15,73 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 14,995 |
-| Forks | 2,386 |
-| Stars today | 3,222 |
+| Stars | 18,769 |
+| Forks | 3,075 |
+| Stars today | 2,957 |
 
 ---
 
-## 2. [microsoft/mxc](https://github.com/microsoft/mxc)
+## 2. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) 🆕
 
-Policy-driven, layered isolation and containment
+A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,591 |
-| Forks | 129 |
-| Stars today | 306 |
+| Stars | 142,968 |
+| Forks | 9,515 |
+| Stars today | 385 |
 
 ---
 
-## 3. [bevyengine/bevy](https://github.com/bevyengine/bevy) 🆕
+## 3. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) 🆕
 
-A refreshingly simple data-driven game engine built in Rust
+A WiFi security auditing software
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 48,857 |
-| Forks | 4,910 |
-| Stars today | 71 |
+| Stars | 4,103 |
+| Forks | 720 |
+| Stars today | 55 |
 
 ---
 
-## 4. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) 🆕
-
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,734 |
-| Forks | 300 |
-| Stars today | 96 |
-
----
-
-## 5. [BrandonKowalski/slot](https://github.com/BrandonKowalski/slot) 🆕
+## 4. [BrandonKowalski/slot](https://github.com/BrandonKowalski/slot)
 
 A bespoke, Game Boy-centric CFW for the RG SP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 111 |
-| Forks | 25 |
-| Stars today | 26 |
+| Stars | 129 |
+| Forks | 33 |
+| Stars today | 15 |
 
 ---
 
-## 6. [denoland/deno](https://github.com/denoland/deno) 🆕
+## 5. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
 
-A modern runtime for JavaScript and TypeScript.
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 108,721 |
-| Forks | 6,440 |
-| Stars today | 48 |
+| Stars | 2,828 |
+| Forks | 314 |
+| Stars today | 82 |
 
 ---
 
-## 7. [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) 🆕
+## 6. [denoland/celld](https://github.com/denoland/celld) 🆕
 
-Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
+self-hosted, distributed Durable Objects
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 561 |
-| Forks | 48 |
-| Stars today | 99 |
+| Stars | 5,449 |
+| Forks | 295 |
+| Stars today | 90 |
 
 ---

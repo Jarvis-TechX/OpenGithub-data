@@ -1,7 +1,7 @@
 # GitHub Trending - Java
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-11T05:41:05Z
+**Snapshot Time:** 2026-10-12T05:51:26Z
 **Total Repositories:** 20
 **New Entries:** 1
 **Quality Score:** 98.00/100
@@ -15,9 +15,9 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 82,864 |
-| Forks | 9,214 |
-| Stars this month | 7,897 |
+| Stars | 83,771 |
+| Forks | 9,320 |
+| Stars this month | 8,451 |
 
 ---
 
@@ -28,61 +28,61 @@ A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with M
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,892 |
-| Forks | 910 |
-| Stars this month | 128 |
+| Stars | 5,895 |
+| Forks | 913 |
+| Stars this month | 130 |
 
 ---
 
-## 3. [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED)
-
-IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,032 |
-| Forks | 524 |
-| Stars this month | 286 |
-
----
-
-## 4. [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
-
-AndroidIDE is an IDE for Android to develop full featured Android apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,232 |
-| Forks | 695 |
-| Stars this month | 140 |
-
----
-
-## 5. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 3. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
 Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,223 |
-| Forks | 26,116 |
-| Stars this month | 434 |
+| Stars | 78,231 |
+| Forks | 26,117 |
+| Stars this month | 438 |
 
 ---
 
-## 6. [termux/termux-app](https://github.com/termux/termux-app)
+## 4. [termux/termux-app](https://github.com/termux/termux-app)
 
 Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 62,374 |
-| Forks | 7,845 |
-| Stars this month | 1,890 |
+| Stars | 62,427 |
+| Forks | 7,859 |
+| Stars this month | 1,917 |
+
+---
+
+## 5. [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
+
+AndroidIDE is an IDE for Android to develop full featured Android apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,234 |
+| Forks | 700 |
+| Stars this month | 144 |
+
+---
+
+## 6. [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED)
+
+IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,036 |
+| Forks | 524 |
+| Stars this month | 226 |
 
 ---
 
@@ -93,9 +93,9 @@ Open Source Identity and Access Management For Modern Applications and Services
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 37,281 |
-| Forks | 9,033 |
-| Stars this month | 625 |
+| Stars | 37,301 |
+| Forks | 9,037 |
+| Stars this month | 621 |
 
 ---
 
@@ -106,9 +106,9 @@ Modern super user interface implementation on Android.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,287 |
-| Forks | 465 |
-| Stars this month | 114 |
+| Stars | 4,289 |
+| Forks | 466 |
+| Stars this month | 112 |
 
 ---
 
@@ -119,22 +119,22 @@ Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plu
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,359 |
-| Forks | 279 |
-| Stars this month | 1,578 |
+| Stars | 5,472 |
+| Forks | 296 |
+| Stars this month | 1,711 |
 
 ---
 
-## 10. [Keeperorowner/NagramXF](https://github.com/Keeperorowner/NagramXF)
+## 10. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
 
-A fork of NagramX with additional features.
+MCP Server for Ghidra
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 956 |
-| Forks | 63 |
-| Stars this month | 215 |
+| Stars | 11,077 |
+| Forks | 1,148 |
+| Stars this month | 1,089 |
 
 ---
 
@@ -145,123 +145,123 @@ Spring Boot helps you to create Spring-powered, production-grade applications an
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 81,585 |
-| Forks | 44,534 |
-| Stars this month | 286 |
+| Stars | 81,587 |
+| Forks | 44,691 |
+| Stars this month | 287 |
 
 ---
 
-## 12. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
-
-MCP Server for Ghidra
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 10,956 |
-| Forks | 1,142 |
-| Stars this month | 909 |
-
----
-
-## 13. [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
+## 12. [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 
 Quarkus: Supersonic Subatomic Java.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 15,942 |
+| Stars | 15,944 |
 | Forks | 3,336 |
-| Stars this month | 98 |
+| Stars this month | 96 |
 
 ---
 
-## 14. [kestra-io/kestra](https://github.com/kestra-io/kestra)
+## 13. [kestra-io/kestra](https://github.com/kestra-io/kestra)
 
 Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 29,487 |
-| Forks | 3,322 |
-| Stars this month | 1,475 |
+| Stars | 29,505 |
+| Forks | 3,329 |
+| Stars this month | 1,483 |
 
 ---
 
-## 15. [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server)
-
-A rewrite of Tachiyomi for the Desktop
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 7,853 |
-| Forks | 468 |
-| Stars this month | 289 |
-
----
-
-## 16. [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
+## 14. [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
 
 The main repository of Telegram X — official alternative Telegram client for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,069 |
+| Stars | 6,077 |
 | Forks | 1,141 |
-| Stars this month | 129 |
+| Stars this month | 136 |
 
 ---
 
-## 17. [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
+## 15. [Keeperorowner/NagramXF](https://github.com/Keeperorowner/NagramXF)
+
+A fork of NagramX with additional features.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,412 |
-| Forks | 204 |
-| Stars this month | 102 |
+| Stars | 957 |
+| Forks | 63 |
+| Stars this month | 198 |
 
 ---
 
-## 18. [trinodb/trino](https://github.com/trinodb/trino) 🆕
-
-Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+## 16. [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,319 |
-| Forks | 3,819 |
-| Stars this month | 117 |
+| Stars | 1,413 |
+| Forks | 205 |
+| Stars this month | 98 |
 
 ---
 
-## 19. [MCRcortex/voxy](https://github.com/MCRcortex/voxy)
-
-An LoD rendering mod for minecraft
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,299 |
-| Forks | 1,346 |
-| Stars this month | 97 |
-
----
-
-## 20. [apache/kafka](https://github.com/apache/kafka)
+## 17. [apache/kafka](https://github.com/apache/kafka)
 
 Apache Kafka - A distributed event streaming platform
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 33,931 |
-| Forks | 15,571 |
-| Stars this month | 297 |
+| Stars | 33,939 |
+| Forks | 15,575 |
+| Stars this month | 300 |
+
+---
+
+## 18. [MCRcortex/voxy](https://github.com/MCRcortex/voxy)
+
+An LoD rendering mod for minecraft
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,306 |
+| Forks | 1,366 |
+| Stars this month | 104 |
+
+---
+
+## 19. [trinodb/trino](https://github.com/trinodb/trino)
+
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,320 |
+| Forks | 3,820 |
+| Stars this month | 113 |
+
+---
+
+## 20. [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) 🆕
+
+Digital logic design tool and simulator
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 7,747 |
+| Forks | 1,033 |
+| Stars this month | 208 |
 
 ---

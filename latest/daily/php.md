@@ -1,138 +1,111 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-11T05:40:24Z
-**Total Repositories:** 10
-**New Entries:** 6
+**Snapshot Time:** 2026-10-12T05:50:35Z
+**Total Repositories:** 8
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 🆕
+## 1. [karatektus/pl_mail](https://github.com/karatektus/pl_mail) 🆕
 
-🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,167 |
-| Forks | 1,794 |
-| Stars today | 3 |
+| Stars | 268 |
+| Forks | 18 |
+| Stars today | 32 |
 
 ---
 
-## 2. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+## 2. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) 🆕
 
-A free, self-hostable news aggregator…
+Free and open-source webshop solution for hostings
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 16,268 |
-| Forks | 1,300 |
-| Stars today | 8 |
+| Stars | 2,503 |
+| Forks | 522 |
+| Stars today | 58 |
 
 ---
 
-## 3. [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter)
+## 3. [pterodactyl/panel](https://github.com/pterodactyl/panel) 🆕
 
-An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,826 |
-| Forks | 210 |
-| Stars today | 5 |
-
----
-
-## 4. [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) 🆕
-
-AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai.
+Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 97 |
-| Forks | 2 |
-| Stars today | 2 |
-
----
-
-## 5. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
-
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 74,110 |
-| Forks | 25,147 |
-| Stars today | 64 |
-
----
-
-## 6. [krayin/laravel-crm](https://github.com/krayin/laravel-crm) 🆕
-
-Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 23,996 |
-| Forks | 1,661 |
+| Stars | 9,312 |
+| Forks | 2,717 |
 | Stars today | 7 |
 
 ---
 
-## 7. [coollabsio/coolify](https://github.com/coollabsio/coolify)
+## 4. [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) 🆕
 
-An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 62,839 |
-| Forks | 5,631 |
-| Stars today | 49 |
-
----
-
-## 8. [MISP/MISP](https://github.com/MISP/MISP) 🆕
-
-MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+A tool to automatically fix PHP Coding Standards issues
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,590 |
+| Stars | 13,564 |
 | Forks | 1,649 |
-| Stars today | 3 |
 
 ---
 
-## 9. [livewire/livewire](https://github.com/livewire/livewire) 🆕
+## 5. [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) 🆕
 
-A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+SuiteCRM - Open source CRM for the world
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 23,583 |
-| Forks | 1,758 |
+| Stars | 5,794 |
+| Forks | 2,430 |
+| Stars today | 2 |
 
 ---
 
-## 10. [bilalnaseer/wsp-wordpress-mcp](https://github.com/bilalnaseer/wsp-wordpress-mcp) 🆕
+## 6. [openemr/openemr](https://github.com/openemr/openemr) 🆕
 
-WSP MCP - Free WordPress MCP For Connecting AI Coding Agents
+The most popular open source electronic health records and medical practice management solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 49 |
-| Forks | 20 |
-| Stars today | 1 |
+| Stars | 5,518 |
+| Forks | 3,076 |
+| Stars today | 5 |
+
+---
+
+## 7. [femiwiki/docker-mediawiki](https://github.com/femiwiki/docker-mediawiki) 🆕
+
+🐳 Dockerized Femiwiki's mediawiki server
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 33 |
+| Forks | 6 |
+
+---
+
+## 8. [OpenVK/openvk](https://github.com/OpenVK/openvk) 🆕
+
+Not-yet-federated open source social network inspired by VK.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 553 |
+| Forks | 134 |
+| Stars today | 2 |
 
 ---

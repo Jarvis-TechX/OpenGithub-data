@@ -1,49 +1,49 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-11T05:40:39Z
+**Snapshot Time:** 2026-10-12T05:50:53Z
 **Total Repositories:** 17
-**New Entries:** 3
+**New Entries:** 2
 **Quality Score:** 97.65/100
 
 ---
 
-## 1. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+## 1. [tester-army/e2e](https://github.com/tester-army/e2e)
+
+Next generation e2e testing framework for web and mobile apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 9,172 |
+| Forks | 441 |
+| Stars this week | 6,440 |
+
+---
+
+## 2. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 99,354 |
-| Forks | 8,706 |
-| Stars this week | 4,035 |
+| Stars | 99,811 |
+| Forks | 8,748 |
+| Stars this week | 3,803 |
 
 ---
 
-## 2. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 3. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
 Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 60,437 |
-| Forks | 5,399 |
-| Stars this week | 4,081 |
-
----
-
-## 3. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
-
-Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 6,771 |
-| Forks | 501 |
-| Stars this week | 2,068 |
+| Stars | 61,150 |
+| Forks | 5,466 |
+| Stars this week | 4,223 |
 
 ---
 
@@ -54,20 +54,22 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,782 |
-| Forks | 1,027 |
-| Stars this week | 1,110 |
+| Stars | 10,941 |
+| Forks | 1,054 |
+| Stars this week | 1,140 |
 
 ---
 
-## 5. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+## 5. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+
+Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,846 |
-| Forks | 7,041 |
-| Stars this week | 2,367 |
+| Stars | 7,034 |
+| Forks | 531 |
+| Stars this week | 2,028 |
 
 ---
 
@@ -78,22 +80,20 @@ A context-compression plugin for small context windows (a 100K context is enough
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 800 |
-| Forks | 75 |
-| Stars this week | 259 |
+| Stars | 968 |
+| Forks | 85 |
+| Stars this week | 337 |
 
 ---
 
-## 7. [tester-army/e2e](https://github.com/tester-army/e2e) 🆕
-
-Next generation e2e testing framework for web and mobile apps.
+## 7. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,779 |
-| Forks | 425 |
-| Stars this week | 6,564 |
+| Stars | 27,042 |
+| Forks | 7,100 |
+| Stars this week | 1,980 |
 
 ---
 
@@ -104,9 +104,9 @@ yoink any video from your terminal. no shady ads.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,702 |
-| Forks | 480 |
-| Stars this week | 1,940 |
+| Stars | 5,762 |
+| Forks | 487 |
+| Stars this week | 1,515 |
 
 ---
 
@@ -117,35 +117,35 @@ The open-source CapCut alternative
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 93,507 |
-| Forks | 9,181 |
-| Stars this week | 2,074 |
+| Stars | 93,674 |
+| Forks | 9,189 |
+| Stars this week | 1,734 |
 
 ---
 
-## 10. [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
-
-Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 11,339 |
-| Forks | 1,352 |
-| Stars this week | 862 |
-
----
-
-## 11. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 10. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,002 |
-| Forks | 4,562 |
-| Stars this week | 2,591 |
+| Stars | 33,433 |
+| Forks | 4,609 |
+| Stars this week | 2,765 |
+
+---
+
+## 11. [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+
+Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 11,357 |
+| Forks | 1,359 |
+| Stars this week | 615 |
 
 ---
 
@@ -156,9 +156,9 @@ Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 2,906 |
-| Forks | 107 |
-| Stars this week | 1,071 |
+| Stars | 3,098 |
+| Forks | 134 |
+| Stars this week | 1,062 |
 
 ---
 
@@ -169,9 +169,9 @@ Atomic Agent is a local-first AI agent. Runs open-weight models on your own mach
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,230 |
-| Forks | 265 |
-| Stars this week | 606 |
+| Stars | 3,258 |
+| Forks | 268 |
+| Stars this week | 579 |
 
 ---
 
@@ -182,47 +182,47 @@ A modern platform for visual, flexible, and extensible graph-based investigation
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,617 |
-| Forks | 1,182 |
-| Stars this week | 520 |
+| Stars | 9,650 |
+| Forks | 1,189 |
+| Stars this week | 543 |
 
 ---
 
-## 15. [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS) 🆕
-
-An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 1,032 |
-| Forks | 294 |
-| Stars this week | 77 |
-
----
-
-## 16. [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)
-
-Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 14,057 |
-| Forks | 1,483 |
-| Stars this week | 173 |
-
----
-
-## 17. [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) 🆕
+## 15. [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
 
 WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,937 |
-| Forks | 617 |
-| Stars this week | 268 |
+| Stars | 14,969 |
+| Forks | 632 |
+| Stars this week | 269 |
+
+---
+
+## 16. [Effect-TS/effect](https://github.com/Effect-TS/effect) 🆕
+
+Build production-ready applications in TypeScript
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 17,236 |
+| Forks | 850 |
+| Stars this week | 303 |
+
+---
+
+## 17. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 🆕
+
+AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 11,344 |
+| Forks | 1,015 |
+| Stars this week | 1,011 |
 
 ---

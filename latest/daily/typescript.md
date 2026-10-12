@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-11T05:40:22Z
-**Total Repositories:** 11
-**New Entries:** 9
+**Snapshot Time:** 2026-10-12T05:50:33Z
+**Total Repositories:** 8
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,138 +15,99 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 77,960 |
-| Forks | 16,725 |
-| Stars today | 25,793 |
+| Stars | 116,379 |
+| Forks | 26,116 |
+| Stars today | 25,599 |
 
 ---
 
-## 2. [mksglu/context-mode](https://github.com/mksglu/context-mode) 🆕
+## 2. [mksglu/context-mode](https://github.com/mksglu/context-mode)
 
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,417 |
-| Forks | 1,903 |
-| Stars today | 178 |
+| Stars | 26,726 |
+| Forks | 1,918 |
+| Stars today | 485 |
 
 ---
 
-## 3. [angular/angular](https://github.com/angular/angular) 🆕
+## 3. [langgenius/dify](https://github.com/langgenius/dify) 🆕
 
-Deliver web apps with confidence 🚀
+Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 101,027 |
-| Forks | 29,950 |
-| Stars today | 8 |
+| Stars | 158,190 |
+| Forks | 25,007 |
+| Stars today | 79 |
 
 ---
 
-## 4. [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 🆕
+## 4. [openclaw/openclaw](https://github.com/openclaw/openclaw) 🆕
 
-🎥 Make videos programmatically with React
+The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 63,117 |
-| Forks | 4,958 |
-| Stars today | 283 |
+| Stars | 391,719 |
+| Forks | 82,366 |
+| Stars today | 164 |
 
 ---
 
-## 5. [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) 🆕
+## 5. [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) 🆕
 
-A browser inside your terminal
+Open-Source Generative UI Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,796 |
-| Forks | 179 |
-| Stars today | 29 |
+| Stars | 2,733 |
+| Forks | 307 |
+| Stars today | 278 |
 
 ---
 
-## 6. [microsoft/vscode](https://github.com/microsoft/vscode) 🆕
+## 6. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) 🆕
 
-Visual Studio Code
+专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 193,536 |
-| Forks | 45,015 |
-| Stars today | 40 |
+| Stars | 5,131 |
+| Forks | 446 |
+| Stars today | 555 |
 
 ---
 
-## 7. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
+## 7. [agalwood/Motrix](https://github.com/agalwood/Motrix) 🆕
 
-AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
+A full-featured download manager.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,205 |
-| Forks | 998 |
-| Stars today | 142 |
+| Stars | 56,512 |
+| Forks | 5,065 |
+| Stars today | 158 |
 
 ---
 
-## 8. [appwrite/appwrite](https://github.com/appwrite/appwrite) 🆕
+## 8. [getnao/nao](https://github.com/getnao/nao) 🆕
 
-The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
+👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 57,630 |
-| Forks | 5,778 |
-| Stars today | 11 |
-
----
-
-## 9. [anthropics/claude-code](https://github.com/anthropics/claude-code) 🆕
-
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 150,096 |
-| Forks | 26,108 |
-| Stars today | 190 |
-
----
-
-## 10. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 🆕
-
-Teams-first Multi-agent orchestration for Claude Code
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 39,778 |
-| Forks | 3,563 |
-| Stars today | 43 |
-
----
-
-## 11. [immich-app/immich](https://github.com/immich-app/immich) 🆕
-
-High performance self-hosted photo and video management solution.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 115,985 |
-| Forks | 7,176 |
-| Stars today | 95 |
+| Stars | 1,909 |
+| Forks | 283 |
+| Stars today | 20 |
 
 ---

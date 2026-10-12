@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-11T05:40:25Z
-**Total Repositories:** 18
-**New Entries:** 12
+**Snapshot Time:** 2026-10-12T05:50:37Z
+**Total Repositories:** 15
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
@@ -15,229 +15,190 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 45,926 |
-| Forks | 3,326 |
-| Stars today | 876 |
+| Stars | 46,283 |
+| Forks | 3,359 |
+| Stars today | 294 |
 
 ---
 
-## 2. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) 🆕
-
-Production-Grade Container Scheduling and Management
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 128,262 |
-| Forks | 46,616 |
-| Stars today | 46 |
-
----
-
-## 3. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
+## 2. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
 
 A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 49,681 |
-| Forks | 11,939 |
-| Stars today | 135 |
+| Stars | 49,736 |
+| Forks | 11,961 |
+| Stars today | 71 |
 
 ---
 
-## 4. [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) 🆕
+## 3. [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
 
 ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,773 |
-| Forks | 336 |
-| Stars today | 35 |
+| Stars | 1,802 |
+| Forks | 348 |
+| Stars today | 28 |
 
 ---
 
-## 5. [docker/compose](https://github.com/docker/compose) 🆕
+## 4. [BishopFox/sliver](https://github.com/BishopFox/sliver) 🆕
 
-Define and run multi-container applications with Docker
+Adversary Emulation Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,355 |
-| Forks | 5,869 |
-| Stars today | 45 |
-
----
-
-## 6. [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 🆕
-
-A powerful little TUI framework 🏗
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 45,428 |
-| Forks | 3,664 |
-| Stars today | 53 |
-
----
-
-## 7. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-
-Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 25,444 |
-| Forks | 3,278 |
+| Stars | 12,092 |
+| Forks | 1,620 |
 | Stars today | 47 |
 
 ---
 
-## 8. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+## 5. [majd/ipatool](https://github.com/majd/ipatool) 🆕
 
-RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 91,981 |
-| Forks | 10,950 |
-| Stars today | 58 |
-
----
-
-## 9. [gin-gonic/gin](https://github.com/gin-gonic/gin) 🆕
-
-Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 89,306 |
-| Forks | 8,737 |
-| Stars today | 15 |
+| Stars | 11,632 |
+| Forks | 974 |
+| Stars today | 33 |
 
 ---
 
-## 10. [junegunn/fzf](https://github.com/junegunn/fzf) 🆕
-
-🌸 A command-line fuzzy finder
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 83,539 |
-| Forks | 4,991 |
-| Stars today | 64 |
-
----
-
-## 11. [larksuite/cli](https://github.com/larksuite/cli) 🆕
-
-The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 17,613 |
-| Forks | 1,390 |
-| Stars today | 23 |
-
----
-
-## 12. [higress-group/higress](https://github.com/higress-group/higress) 🆕
-
-🤖 AI Gateway | AI Native API Gateway
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 9,528 |
-| Forks | 1,337 |
-| Stars today | 16 |
-
----
-
-## 13. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+## 6. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 33,056 |
-| Forks | 4,398 |
-| Stars today | 216 |
+| Stars | 33,311 |
+| Forks | 4,442 |
+| Stars today | 129 |
 
 ---
 
-## 14. [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+## 7. [larksuite/cli](https://github.com/larksuite/cli)
+
+The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 17,631 |
+| Forks | 1,391 |
+| Stars today | 16 |
+
+---
+
+## 8. [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) 🆕
+
+Heterogeneous GPU Sharing on Kubernetes
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 4,702 |
+| Forks | 855 |
+| Stars today | 36 |
+
+---
+
+## 9. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
+
+Make humans and AI agents work as one team — open-source and self-hostable.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 52,526 |
+| Forks | 6,843 |
+| Stars today | 70 |
+
+---
+
+## 10. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) 🆕
+
+📂 Web File Browser
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 8,658 |
+| Forks | 470 |
+| Stars today | 15 |
+
+---
+
+## 11. [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) 🆕
+
+Yet another WebUI for Nginx
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 11,602 |
+| Forks | 897 |
+| Stars today | 6 |
+
+---
+
+## 12. [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
 
 Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 43,677 |
-| Forks | 9,372 |
-| Stars today | 88 |
+| Stars | 43,754 |
+| Forks | 9,385 |
+| Stars today | 75 |
 
 ---
 
-## 15. [casdoor/casdoor](https://github.com/casdoor/casdoor) 🆕
+## 13. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) 🆕
 
-An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+WhatsApp MCP server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 14,546 |
-| Forks | 1,841 |
-| Stars today | 13 |
+| Stars | 6,543 |
+| Forks | 1,385 |
+| Stars today | 59 |
 
 ---
 
-## 16. [golang/go](https://github.com/golang/go) 🆕
+## 14. [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 🆕
 
-The Go programming language
+Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,177 |
-| Forks | 21,868 |
-| Stars today | 25 |
+| Stars | 12,884 |
+| Forks | 1,189 |
+| Stars today | 9 |
 
 ---
 
-## 17. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) 🆕
+## 15. [fish2018/pansou](https://github.com/fish2018/pansou) 🆕
 
-llm-d Router: The intelligent entry point for inference requests
+PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。https://t.me/s/webhtv
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 394 |
-| Forks | 435 |
-| Stars today | 2 |
-
----
-
-## 18. [dexidp/dex](https://github.com/dexidp/dex) 🆕
-
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 11,182 |
-| Forks | 1,998 |
-| Stars today | 10 |
+| Stars | 14,877 |
+| Forks | 3,612 |
+| Stars today | 11 |
 
 ---

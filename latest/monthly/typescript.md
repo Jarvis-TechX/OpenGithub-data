@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-11T05:40:56Z
+**Snapshot Time:** 2026-10-12T05:51:15Z
 **Total Repositories:** 22
-**New Entries:** 1
-**Quality Score:** 96.36/100
+**New Entries:** 2
+**Quality Score:** 98.18/100
 
 ---
 
@@ -15,9 +15,9 @@ The open-source app everyone uses to manage agents at work
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 99,861 |
-| Forks | 16,838 |
-| Stars this month | 19,499 |
+| Stars | 100,489 |
+| Forks | 16,919 |
+| Stars this month | 19,987 |
 
 ---
 
@@ -28,9 +28,9 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 150,096 |
-| Forks | 26,108 |
-| Stars this month | 6,240 |
+| Stars | 150,268 |
+| Forks | 26,286 |
+| Stars this month | 6,290 |
 
 ---
 
@@ -41,35 +41,35 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 60,437 |
-| Forks | 5,399 |
-| Stars this month | 11,826 |
+| Stars | 61,151 |
+| Forks | 5,466 |
+| Stars this month | 11,993 |
 
 ---
 
-## 4. [mksglu/context-mode](https://github.com/mksglu/context-mode)
-
-Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 26,417 |
-| Forks | 1,903 |
-| Stars this month | 4,285 |
-
----
-
-## 5. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 4. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,002 |
-| Forks | 4,562 |
-| Stars this month | 7,700 |
+| Stars | 33,433 |
+| Forks | 4,609 |
+| Stars this month | 7,925 |
+
+---
+
+## 5. [mksglu/context-mode](https://github.com/mksglu/context-mode)
+
+Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 26,726 |
+| Forks | 1,918 |
+| Stars this month | 4,584 |
 
 ---
 
@@ -80,9 +80,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,782 |
-| Forks | 1,027 |
-| Stars this month | 3,579 |
+| Stars | 10,942 |
+| Forks | 1,054 |
+| Stars this month | 3,610 |
 
 ---
 
@@ -93,9 +93,9 @@ Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 45,502 |
-| Forks | 9,346 |
-| Stars this month | 2,906 |
+| Stars | 45,549 |
+| Forks | 9,361 |
+| Stars this month | 2,901 |
 
 ---
 
@@ -106,9 +106,9 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 111,326 |
-| Forks | 16,403 |
-| Stars this month | 2,653 |
+| Stars | 111,380 |
+| Forks | 16,567 |
+| Stars this month | 2,672 |
 
 ---
 
@@ -117,33 +117,35 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,846 |
-| Forks | 7,041 |
-| Stars this month | 4,650 |
+| Stars | 27,042 |
+| Forks | 7,100 |
+| Stars this month | 4,736 |
 
 ---
 
-## 10. [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 2,484 |
-| Forks | 200 |
-| Stars this month | 1,366 |
-
----
-
-## 11. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+## 10. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 99,354 |
-| Forks | 8,706 |
-| Stars this month | 6,034 |
+| Stars | 99,811 |
+| Forks | 8,748 |
+| Stars this month | 6,442 |
+
+---
+
+## 11. [Effect-TS/effect](https://github.com/Effect-TS/effect)
+
+Build production-ready applications in TypeScript
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 17,236 |
+| Forks | 850 |
+| Stars this month | 1,301 |
 
 ---
 
@@ -154,48 +156,48 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 70,138 |
-| Forks | 7,633 |
-| Stars this month | 2,759 |
+| Stars | 70,192 |
+| Forks | 7,641 |
+| Stars this month | 2,762 |
 
 ---
 
-## 13. [Effect-TS/effect](https://github.com/Effect-TS/effect)
-
-Build production-ready applications in TypeScript
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 17,209 |
-| Forks | 848 |
-| Stars this month | 1,295 |
-
----
-
-## 14. [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
-
-Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 6,641 |
-| Forks | 618 |
-| Stars this month | 4,522 |
-
----
-
-## 15. [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
+## 13. [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
 
 Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,699 |
-| Forks | 272 |
-| Stars this month | 711 |
+| Stars | 5,707 |
+| Forks | 273 |
+| Stars this month | 715 |
+
+---
+
+## 14. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+
+🎥 Make videos programmatically with React
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 63,375 |
+| Forks | 4,989 |
+| Stars this month | 4,560 |
+
+---
+
+## 15. [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
+
+Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 6,679 |
+| Forks | 623 |
+| Stars this month | 4,031 |
 
 ---
 
@@ -206,9 +208,9 @@ The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relatio
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 22,535 |
-| Forks | 1,882 |
-| Stars this month | 8,331 |
+| Stars | 22,561 |
+| Forks | 1,883 |
+| Stars this month | 8,345 |
 
 ---
 
@@ -219,73 +221,73 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,003 |
-| Forks | 2,451 |
-| Stars this month | 5,876 |
+| Stars | 20,061 |
+| Forks | 2,454 |
+| Stars this month | 5,919 |
 
 ---
 
-## 18. [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 🆕
+## 18. [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) 🆕
 
-🎥 Make videos programmatically with React
+Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 63,117 |
-| Forks | 4,958 |
-| Stars this month | 4,441 |
+| Stars | 8,669 |
+| Forks | 617 |
+| Stars this month | 6,788 |
 
 ---
 
-## 19. [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)
-
-Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,344 |
-| Forks | 1,232 |
-| Stars this month | 4,222 |
-
----
-
-## 20. [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
-
-Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 13,925 |
-| Forks | 1,094 |
-| Stars this month | 7,879 |
-
----
-
-## 21. [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
+## 19. [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
 
 yoink any video from your terminal. no shady ads.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,702 |
-| Forks | 480 |
-| Stars this month | 4,007 |
+| Stars | 5,763 |
+| Forks | 487 |
+| Stars this month | 4,057 |
 
 ---
 
-## 22. [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
+## 20. [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)
 
-Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 4,529 |
-| Forks | 1,209 |
-| Stars this month | 3,707 |
+| Stars | 8,351 |
+| Forks | 1,235 |
+| Stars this month | 4,232 |
+
+---
+
+## 21. [reconurge/flowsint](https://github.com/reconurge/flowsint) 🆕
+
+A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 9,650 |
+| Forks | 1,189 |
+| Stars this month | 2,055 |
+
+---
+
+## 22. [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
+
+Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 14,038 |
+| Forks | 1,101 |
+| Stars this month | 7,685 |
 
 ---

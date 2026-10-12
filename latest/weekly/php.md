@@ -1,9 +1,9 @@
 # GitHub Trending - Php
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-11T05:40:41Z
-**Total Repositories:** 23
-**New Entries:** 6
+**Snapshot Time:** 2026-10-12T05:50:57Z
+**Total Repositories:** 21
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
@@ -15,87 +15,87 @@ Pterodactyl® is a free, open-source game server management panel built with PHP
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,308 |
-| Forks | 2,720 |
-| Stars this week | 42 |
+| Stars | 9,312 |
+| Forks | 2,717 |
+| Stars this week | 45 |
 
 ---
 
-## 2. [Leantime/leantime](https://github.com/Leantime/leantime)
-
-Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 11,803 |
-| Forks | 1,146 |
-| Stars this week | 101 |
-
----
-
-## 3. [symfony/symfony](https://github.com/symfony/symfony)
+## 2. [symfony/symfony](https://github.com/symfony/symfony)
 
 The Symfony PHP framework
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,184 |
+| Stars | 31,188 |
 | Forks | 9,900 |
-| Stars this week | 25 |
+| Stars this week | 28 |
 
 ---
 
-## 4. [filamentphp/filament](https://github.com/filamentphp/filament)
+## 3. [Leantime/leantime](https://github.com/Leantime/leantime)
 
-A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 32,230 |
-| Forks | 4,217 |
-| Stars this week | 67 |
+| Stars | 11,811 |
+| Forks | 1,148 |
+| Stars this week | 101 |
 
 ---
 
-## 5. [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) 🆕
+## 4. [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) 🆕
 
-An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
+Modern open-source time-tracking app
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,826 |
-| Forks | 210 |
-| Stars this week | 40 |
+| Stars | 8,991 |
+| Forks | 516 |
+| Stars this week | 30 |
 
 ---
 
-## 6. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) 🆕
+## 5. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
 A free, self-hostable news aggregator…
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 16,268 |
-| Forks | 1,300 |
-| Stars this week | 65 |
+| Stars | 16,273 |
+| Forks | 1,301 |
+| Stars this week | 55 |
 
 ---
 
-## 7. [coollabsio/coolify](https://github.com/coollabsio/coolify)
+## 6. [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter)
 
-An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 62,839 |
-| Forks | 5,631 |
-| Stars this week | 322 |
+| Stars | 1,829 |
+| Forks | 211 |
+| Stars this week | 40 |
+
+---
+
+## 7. [livewire/livewire](https://github.com/livewire/livewire)
+
+A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 23,584 |
+| Forks | 1,758 |
+| Stars this week | 6 |
 
 ---
 
@@ -106,195 +106,117 @@ A customizable, open-source ecommerce platform built on WordPress. Build any com
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,546 |
-| Forks | 10,670 |
-| Stars this week | 14 |
+| Stars | 10,547 |
+| Forks | 10,668 |
+| Stars this week | 13 |
 
 ---
 
-## 9. [librenms/librenms](https://github.com/librenms/librenms)
+## 9. [filamentphp/filament](https://github.com/filamentphp/filament)
 
-Community-based GPL-licensed network monitoring system
+A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 4,946 |
-| Forks | 2,832 |
-| Stars this week | 11 |
+| Stars | 32,234 |
+| Forks | 4,218 |
+| Stars this week | 67 |
 
 ---
 
-## 10. [espocrm/espocrm](https://github.com/espocrm/espocrm)
+## 10. [laravel/framework](https://github.com/laravel/framework) 🆕
+
+Laravel is a web application framework with expressive, elegant syntax.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 34,959 |
+| Forks | 12,007 |
+| Stars this week | 25 |
+
+---
+
+## 11. [espocrm/espocrm](https://github.com/espocrm/espocrm)
 
 EspoCRM – Open Source CRM Application
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,472 |
-| Forks | 997 |
-| Stars this week | 41 |
+| Stars | 3,475 |
+| Forks | 998 |
+| Stars this week | 39 |
 
 ---
 
-## 11. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) 🆕
+## 12. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) 🆕
 
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 74,110 |
-| Forks | 25,147 |
-| Stars this week | 226 |
+| Stars | 10,580 |
+| Forks | 1,115 |
+| Stars this week | 44 |
 
 ---
 
-## 12. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr)
+## 13. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr)
 
 Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,712 |
-| Forks | 3,560 |
-| Stars this week | 32 |
+| Stars | 7,718 |
+| Forks | 3,563 |
+| Stars this week | 34 |
 
 ---
 
-## 13. [joomla/joomla-cms](https://github.com/joomla/joomla-cms)
+## 14. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
 
-Home of the Joomla! Content Management System
+A free open source IT asset/license management system
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,144 |
-| Forks | 3,872 |
-| Stars this week | 4 |
+| Stars | 15,022 |
+| Forks | 4,015 |
+| Stars this week | 24 |
 
 ---
 
-## 14. [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)
+## 15. [pelican/panel](https://github.com/pelican/panel) 🆕
 
-A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+Free, open source game server management panel built on Laravel and Docker.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 8,658 |
-| Forks | 1,039 |
-| Stars this week | 21 |
+| Stars | 2,377 |
+| Forks | 320 |
+| Stars this week | 36 |
 
 ---
 
-## 15. [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+## 16. [WordPress/ai](https://github.com/WordPress/ai) 🆕
 
-⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+AI features and experiments for WordPress. Modular framework for testing AI capabilities.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,414 |
-| Forks | 1,618 |
-| Stars this week | 31 |
+| Stars | 363 |
+| Forks | 207 |
+| Stars this week | 6 |
 
 ---
 
-## 16. [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos)
-
-Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,431 |
-| Forks | 2,629 |
-| Stars this week | 20 |
-
----
-
-## 17. [magento/magento2](https://github.com/magento/magento2) 🆕
-
-Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at:https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 12,199 |
-| Forks | 9,351 |
-| Stars this week | 7 |
-
----
-
-## 18. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
-
-A source-available invoice, quote, project and time-tracking app built with Laravel
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,256 |
-| Forks | 2,743 |
-| Stars this week | 47 |
-
----
-
-## 19. [glpi-project/glpi](https://github.com/glpi-project/glpi)
-
-GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 6,446 |
-| Forks | 1,830 |
-| Stars this week | 28 |
-
----
-
-## 20. [livewire/livewire](https://github.com/livewire/livewire) 🆕
-
-A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 23,583 |
-| Forks | 1,758 |
-| Stars this week | 7 |
-
----
-
-## 21. [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)
-
-A web interface for MySQL and MariaDB
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 7,952 |
-| Forks | 3,601 |
-| Stars this week | 8 |
-
----
-
-## 22. [bagisto/bagisto](https://github.com/bagisto/bagisto)
-
-Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 28,228 |
-| Forks | 3,317 |
-| Stars this week | 43 |
-
----
-
-## 23. [osTicket/osTicket](https://github.com/osTicket/osTicket) 🆕
+## 17. [osTicket/osTicket](https://github.com/osTicket/osTicket)
 
 The osTicket open source ticketing system official project repository, for versions 1.8 and later
 
@@ -303,6 +225,58 @@ The osTicket open source ticketing system official project repository, for versi
 | Language | PHP |
 | Stars | 3,983 |
 | Forks | 1,851 |
-| Stars this week | 52 |
+| Stars this week | 34 |
+
+---
+
+## 18. [coollabsio/coolify](https://github.com/coollabsio/coolify)
+
+An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 62,874 |
+| Forks | 5,638 |
+| Stars this week | 321 |
+
+---
+
+## 19. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 74,128 |
+| Forks | 25,148 |
+| Stars this week | 222 |
+
+---
+
+## 20. [MISP/MISP](https://github.com/MISP/MISP) 🆕
+
+MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 6,591 |
+| Forks | 1,649 |
+| Stars this week | 24 |
+
+---
+
+## 21. [voku/portable-ascii](https://github.com/voku/portable-ascii) 🆕
+
+🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 578 |
+| Forks | 51 |
+| Stars this week | 1 |
 
 ---

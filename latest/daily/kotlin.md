@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-11T05:40:31Z
-**Total Repositories:** 13
-**New Entries:** 10
+**Snapshot Time:** 2026-10-12T05:50:45Z
+**Total Repositories:** 16
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
@@ -15,164 +15,203 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,437 |
-| Forks | 262 |
+| Stars | 1,569 |
+| Forks | 282 |
 | Stars today | 46 |
 
 ---
 
-## 2. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) 🆕
+## 2. [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) 🆕
 
-An advanced Kernel based root solution for Android
+A private messenger for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,408 |
-| Forks | 1,172 |
-| Stars today | 13 |
+| Stars | 29,446 |
+| Forks | 6,899 |
+| Stars today | 5 |
 
 ---
 
-## 3. [tiann/KernelSU](https://github.com/tiann/KernelSU) 🆕
+## 3. [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) 🆕
+
+A Minecraft: Java Edition Launcher for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,007 |
+| Forks | 361 |
+| Stars today | 8 |
+
+---
+
+## 4. [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) 🆕
+
+Full-featured audio/video downloader for Android using yt-dlp
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 10,538 |
+| Forks | 487 |
+| Stars today | 31 |
+
+---
+
+## 5. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) 🆕
+
+GhostLock One-Tap Execution App (CVE-2026-43499)
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,822 |
+| Forks | 469 |
+| Stars today | 56 |
+
+---
+
+## 6. [tiann/KernelSU](https://github.com/tiann/KernelSU)
 
 A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,044 |
-| Forks | 4,267 |
-| Stars today | 37 |
+| Stars | 19,083 |
+| Forks | 4,289 |
+| Stars today | 40 |
 
 ---
 
-## 4. [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) 🆕
+## 7. [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) 🆕
 
-Gesture-first Android browser with Material 3 Expressive design and local privacy tools
+Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 538 |
-| Forks | 19 |
-| Stars today | 17 |
+| Stars | 14,095 |
+| Forks | 2,838 |
+| Stars today | 12 |
 
 ---
 
-## 5. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
+## 8. [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) 🆕
 
-Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
+An Android native video player
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,376 |
-| Forks | 56 |
-| Stars today | 77 |
+| Stars | 4,518 |
+| Forks | 342 |
+| Stars today | 10 |
 
 ---
 
-## 6. [Lelonio/Square](https://github.com/Lelonio/Square) 🆕
+## 9. [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) 🆕
 
-Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
+A feature-rich weather app with good visualizations and more than 50 sources.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 120 |
-| Forks | 10 |
-| Stars today | 6 |
+| Stars | 11,678 |
+| Forks | 415 |
+| Stars today | 31 |
 
 ---
 
-## 7. [android/compose-samples](https://github.com/android/compose-samples) 🆕
+## 10. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) 🆕
 
-Official Jetpack Compose samples.
+A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 23,506 |
-| Forks | 5,498 |
-| Stars today | 5 |
+| Stars | 11,928 |
+| Forks | 642 |
+| Stars today | 49 |
 
 ---
 
-## 8. [software-mansion/enriched-markdown](https://github.com/software-mansion/enriched-markdown) 🆕
+## 11. [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) 🆕
 
-Multiplatform Markdown-Based Rich Text Solution
+KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,210 |
-| Forks | 104 |
+| Stars | 1,398 |
+| Forks | 284 |
+| Stars today | 9 |
+
+---
+
+## 12. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid) 🆕
+
+Android GUI proxy utility (Empowered by sing-box)
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 560 |
+| Forks | 22 |
+| Stars today | 20 |
+
+---
+
+## 13. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) 🆕
+
+Kernel-based Android Root Solution & KPM
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,510 |
+| Forks | 1,350 |
 | Stars today | 11 |
 
 ---
 
-## 9. [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) 🆕
+## 14. [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard) 🆕
 
-Jailbreak supported Google Pixel phones with CVE-2026-43499
+A modern, privacy-first Android keyboard: offline intelligence, 350+ languages, themes, tools and an addon ecosystem.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 434 |
-| Forks | 63 |
-| Stars today | 3 |
+| Stars | 524 |
+| Forks | 26 |
+| Stars today | 9 |
 
 ---
 
-## 10. [JunkFood02/Seal](https://github.com/JunkFood02/Seal) 🆕
+## 15. [JunkFood02/Seal](https://github.com/JunkFood02/Seal)
 
 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 29,640 |
-| Forks | 1,464 |
-| Stars today | 42 |
+| Stars | 29,657 |
+| Forks | 1,467 |
+| Stars today | 35 |
 
 ---
 
-## 11. [linroid/Ketch](https://github.com/linroid/Ketch)
+## 16. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
 
-A fast, open-source download manager for every device you own.
+A V2Ray client for Android, support Xray core and v2fly core
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 314 |
-| Forks | 25 |
-| Stars today | 21 |
-
----
-
-## 12. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) 🆕
-
-Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 11,123 |
-| Forks | 451 |
-| Stars today | 30 |
-
----
-
-## 13. [The412Banner/Bannerlator](https://github.com/The412Banner/Bannerlator) 🆕
-
-Bannerlator — run Windows PC games and apps on Android (Wine + Box64/86). A personal, community-driven continuation of the discontinued Winlator Star Bionic project. GitHub Actions builds + releases.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 401 |
-| Forks | 53 |
-| Stars today | 1 |
+| Stars | 63,827 |
+| Forks | 8,265 |
+| Stars today | 56 |
 
 ---
