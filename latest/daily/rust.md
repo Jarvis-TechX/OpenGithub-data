@@ -1,8 +1,8 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-12T05:50:37Z
-**Total Repositories:** 6
+**Snapshot Time:** 2026-10-13T06:44:05Z
+**Total Repositories:** 5
 **New Entries:** 3
 **Quality Score:** 100.00/100
 
@@ -15,48 +15,48 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,769 |
-| Forks | 3,075 |
-| Stars today | 2,957 |
+| Stars | 23,051 |
+| Forks | 3,685 |
+| Stars today | 4,095 |
 
 ---
 
-## 2. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) 🆕
+## 2. [1jehuang/jcode](https://github.com/1jehuang/jcode) 🆕
 
-A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+High performance coding agent harness written in rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 142,968 |
-| Forks | 9,515 |
-| Stars today | 385 |
+| Stars | 20,627 |
+| Forks | 2,400 |
+| Stars today | 161 |
 
 ---
 
-## 3. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) 🆕
+## 3. [microsoft/litebox](https://github.com/microsoft/litebox) 🆕
 
-A WiFi security auditing software
+A security-focused library OS supporting kernel- and user-mode execution
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,103 |
-| Forks | 720 |
-| Stars today | 55 |
+| Stars | 3,126 |
+| Forks | 167 |
+| Stars today | 44 |
 
 ---
 
-## 4. [BrandonKowalski/slot](https://github.com/BrandonKowalski/slot)
+## 4. [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) 🆕
 
-A bespoke, Game Boy-centric CFW for the RG SP.
+Production-grade Rust-native trading engine with deterministic event-driven architecture
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 129 |
-| Forks | 33 |
-| Stars today | 15 |
+| Stars | 29,902 |
+| Forks | 3,994 |
+| Stars today | 36 |
 
 ---
 
@@ -67,21 +67,8 @@ A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-ac
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,828 |
-| Forks | 314 |
-| Stars today | 82 |
-
----
-
-## 6. [denoland/celld](https://github.com/denoland/celld) 🆕
-
-self-hosted, distributed Durable Objects
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 5,449 |
-| Forks | 295 |
-| Stars today | 90 |
+| Stars | 2,915 |
+| Forks | 320 |
+| Stars today | 96 |
 
 ---

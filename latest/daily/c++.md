@@ -1,204 +1,139 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-12T05:50:42Z
-**Total Repositories:** 15
-**New Entries:** 10
+**Snapshot Time:** 2026-10-13T06:44:07Z
+**Total Repositories:** 10
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-
-Tool for automatic PS5 executables porting to Linux and Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 30,758 |
-| Forks | 2,647 |
-| Stars today | 3,952 |
-
----
-
-## 2. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-
-An Open Source Machine Learning Framework for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 200,874 |
-| Forks | 79,191 |
-| Stars today | 302 |
-
----
-
-## 3. [microsoft/BitNet](https://github.com/microsoft/BitNet) 🆕
+## 1. [microsoft/BitNet](https://github.com/microsoft/BitNet)
 
 Official inference framework for 1-bit LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,713 |
-| Forks | 3,793 |
-| Stars today | 195 |
+| Stars | 41,020 |
+| Forks | 3,819 |
+| Stars today | 97 |
 
 ---
 
-## 4. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) 🆕
+## 2. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
 
-ClickHouse® is a real-time analytics database management system
+Tool for automatic PS5 executables porting to Linux and Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 50,354 |
-| Forks | 9,085 |
-| Stars today | 12 |
+| Stars | 33,354 |
+| Forks | 2,888 |
+| Stars today | 3,372 |
 
 ---
 
-## 5. [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
-
-Telegram Desktop messaging app
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 33,209 |
-| Forks | 7,376 |
-| Stars today | 27 |
-
----
-
-## 6. [safijari/openpuck](https://github.com/safijari/openpuck) 🆕
-
-Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 1,029 |
-| Forks | 91 |
-| Stars today | 15 |
-
----
-
-## 7. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) 🆕
-
-Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,379 |
-| Forks | 167 |
-| Stars today | 11 |
-
----
-
-## 8. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) 🆕
-
-Easily download and manage single-player game cheats for your convenience
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 15,221 |
-| Forks | 536 |
-| Stars today | 41 |
-
----
-
-## 9. [praydog/REFramework](https://github.com/praydog/REFramework) 🆕
-
-Mod loader, scripting platform, and VR support for all RE Engine games
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 5,621 |
-| Forks | 664 |
-| Stars today | 16 |
-
----
-
-## 10. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
-
-An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 30,661 |
-| Forks | 7,193 |
-| Stars today | 42 |
-
----
-
-## 11. [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps) 🆕
-
-Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 5,755 |
-| Forks | 356 |
-| Stars today | 28 |
-
----
-
-## 12. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
-
-PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 33,434 |
-| Forks | 2,708 |
-| Stars today | 57 |
-
----
-
-## 13. [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) 🆕
-
-OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 11,709 |
-| Forks | 529 |
-| Stars today | 36 |
-
----
-
-## 14. [Tencent/ncnn](https://github.com/Tencent/ncnn) 🆕
-
-ncnn is a high-performance neural network inference framework optimized for the mobile platform
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 23,939 |
-| Forks | 4,523 |
-| Stars today | 3 |
-
----
-
-## 15. [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
+## 3. [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
 
 Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,642 |
-| Forks | 868 |
-| Stars today | 22 |
+| Stars | 7,659 |
+| Forks | 870 |
+| Stars today | 16 |
+
+---
+
+## 4. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) 🆕
+
+Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 34,222 |
+| Forks | 6,190 |
+| Stars today | 57 |
+
+---
+
+## 5. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+
+An Open Source Machine Learning Framework for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 200,908 |
+| Forks | 79,212 |
+| Stars today | 107 |
+
+---
+
+## 6. [vittorioromeo/quakevr](https://github.com/vittorioromeo/quakevr) 🆕
+
+Quake VR mod supporting room-scale movement, hand interactions, melee attacks, and much more.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 300 |
+| Forks | 18 |
+| Stars today | 16 |
+
+---
+
+## 7. [flyinghead/flycast](https://github.com/flyinghead/flycast) 🆕
+
+Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 2,592 |
+| Forks | 370 |
+| Stars today | 6 |
+
+---
+
+## 8. [esphome/esphome](https://github.com/esphome/esphome) 🆕
+
+ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 11,843 |
+| Forks | 5,696 |
+| Stars today | 15 |
+
+---
+
+## 9. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed) 🆕
+
+Reimplementation of GTA:SA 1.0 US
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,041 |
+| Forks | 248 |
+| Stars today | 8 |
+
+---
+
+## 10. [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) 🆕
+
+Diablo build for modern operating systems
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 9,828 |
+| Forks | 1,068 |
+| Stars today | 9 |
 
 ---

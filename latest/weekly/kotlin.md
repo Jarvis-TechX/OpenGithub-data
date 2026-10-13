@@ -1,8 +1,8 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-12T05:51:06Z
-**Total Repositories:** 14
+**Snapshot Time:** 2026-10-13T06:44:30Z
+**Total Repositories:** 12
 **New Entries:** 3
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ Maps and turn-by-turn navigation for Android without Google Play Services: the b
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,506 |
-| Forks | 59 |
-| Stars this week | 892 |
+| Stars | 1,603 |
+| Forks | 61 |
+| Stars this week | 951 |
 
 ---
 
@@ -28,9 +28,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,083 |
-| Forks | 4,289 |
-| Stars this week | 236 |
+| Stars | 19,130 |
+| Forks | 4,312 |
+| Stars this week | 229 |
 
 ---
 
@@ -41,9 +41,9 @@ GhostLock One-Tap Execution App (CVE-2026-43499)
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,822 |
-| Forks | 469 |
-| Stars this week | 325 |
+| Stars | 1,858 |
+| Forks | 481 |
+| Stars this week | 306 |
 
 ---
 
@@ -54,48 +54,48 @@ decentralized mesh chat
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,787 |
-| Forks | 1,915 |
-| Stars this week | 113 |
+| Stars | 7,788 |
+| Forks | 1,914 |
+| Stars this week | 84 |
 
 ---
 
-## 5. [open-ani/animeko](https://github.com/open-ani/animeko)
-
-集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 20,834 |
-| Forks | 615 |
-| Stars this week | 386 |
-
----
-
-## 6. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
-
-Headunit App for displaying Android Auto
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,716 |
-| Forks | 235 |
-| Stars this week | 103 |
-
----
-
-## 7. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) 🆕
+## 5. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
 
 BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,940 |
-| Forks | 270 |
-| Stars this week | 533 |
+| Stars | 3,041 |
+| Forks | 283 |
+| Stars this week | 577 |
+
+---
+
+## 6. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
+
+Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 11,230 |
+| Forks | 455 |
+| Stars this week | 276 |
+
+---
+
+## 7. [open-ani/animeko](https://github.com/open-ani/animeko)
+
+集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 20,878 |
+| Forks | 615 |
+| Stars this week | 401 |
 
 ---
 
@@ -106,86 +106,60 @@ The patching of Android kernel and Android system
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,037 |
+| Stars | 8,041 |
 | Forks | 797 |
-| Stars this week | 39 |
+| Stars this week | 40 |
 
 ---
 
-## 9. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
+## 9. [mihonapp/mihon](https://github.com/mihonapp/mihon) 🆕
 
-Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
+Free and open source manga reader for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,163 |
-| Forks | 452 |
-| Stars this week | 259 |
+| Stars | 24,300 |
+| Forks | 1,611 |
+| Stars this week | 287 |
 
 ---
 
-## 10. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) 🆕
+## 10. [HuangZhuoRui/LocationSpoofer](https://github.com/HuangZhuoRui/LocationSpoofer) 🆕
+
+虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)，
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,754 |
+| Forks | 308 |
+| Stars this week | 409 |
+
+---
+
+## 11. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer)
 
 WhatsApp tools for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,765 |
-| Forks | 245 |
-| Stars this week | 18 |
+| Stars | 1,769 |
+| Forks | 244 |
+| Stars this week | 23 |
 
 ---
 
-## 11. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 12. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) 🆕
 
-✨一个安卓网盘解析下载app✨
+A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,124 |
-| Forks | 214 |
-| Stars this week | 433 |
-
----
-
-## 12. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) 🆕
-
-An advanced Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,417 |
-| Forks | 1,174 |
-| Stars this week | 76 |
-
----
-
-## 13. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 31,388 |
-| Forks | 3,322 |
-| Stars this week | 375 |
-
----
-
-## 14. [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
-
-More Expressive InstallerX !
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,968 |
-| Forks | 254 |
-| Stars this week | 122 |
+| Stars | 11,960 |
+| Forks | 649 |
+| Stars this week | 248 |
 
 ---

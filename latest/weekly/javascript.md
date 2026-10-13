@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-12T05:50:52Z
-**Total Repositories:** 15
-**New Entries:** 4
-**Quality Score:** 97.33/100
+**Snapshot Time:** 2026-10-13T06:44:17Z
+**Total Repositories:** 11
+**New Entries:** 1
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,9 +15,9 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 9,913 |
-| Forks | 1,226 |
-| Stars this week | 7,383 |
+| Stars | 10,696 |
+| Forks | 1,296 |
+| Stars this week | 6,621 |
 
 ---
 
@@ -28,9 +28,9 @@ The design language that makes your AI harness better at design.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 79,966 |
-| Forks | 4,758 |
-| Stars this week | 3,911 |
+| Stars | 80,411 |
+| Forks | 4,800 |
+| Stars this week | 3,378 |
 
 ---
 
@@ -41,74 +41,74 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 105,156 |
-| Forks | 10,982 |
-| Stars this week | 3,853 |
+| Stars | 105,783 |
+| Forks | 11,036 |
+| Stars this week | 4,175 |
 
 ---
 
-## 4. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
-
-List of Permanent Free LLM API (API Keys)
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 9,899 |
-| Forks | 1,058 |
-| Stars this week | 706 |
-
----
-
-## 5. [MiaAI-Lab/sparkDash](https://github.com/MiaAI-Lab/sparkDash) 🆕
+## 4. [MiaAI-Lab/sparkDash](https://github.com/MiaAI-Lab/sparkDash)
 
 sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 662 |
-| Forks | 133 |
-| Stars this week | 139 |
+| Stars | 671 |
+| Forks | 137 |
+| Stars this week | 152 |
 
 ---
 
-## 6. [androoAGI/starnet](https://github.com/androoAGI/starnet)
+## 5. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
 
-A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
+List of Permanent Free LLM API (API Keys)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,351 |
-| Forks | 259 |
-| Stars this week | 288 |
+| Stars | 10,020 |
+| Forks | 1,073 |
+| Stars this week | 740 |
 
 ---
 
-## 7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 161,258 |
-| Forks | 8,700 |
-| Stars this week | 6,936 |
-
----
-
-## 8. [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) 🆕
+## 6. [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
 ⭐️ Companies that don't have a broken hiring process
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 52,594 |
-| Forks | 3,961 |
-| Stars this week | 267 |
+| Stars | 52,641 |
+| Forks | 3,964 |
+| Stars this week | 265 |
+
+---
+
+## 7. [axios/axios](https://github.com/axios/axios)
+
+Promise based HTTP client for the browser and node.js
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 109,362 |
+| Forks | 11,911 |
+| Stars this week | 138 |
+
+---
+
+## 8. [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) 🆕
+
+MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 24,113 |
+| Forks | 4,576 |
+| Stars this week | 201 |
 
 ---
 
@@ -119,84 +119,34 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,362 |
-| Forks | 798 |
-| Stars this week | 47 |
+| Stars | 3,369 |
+| Forks | 797 |
+| Stars this week | 50 |
 
 ---
 
-## 10. [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
-
-A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 22,223 |
-| Forks | 1,238 |
-| Stars this week | 330 |
-
----
-
-## 11. [axios/axios](https://github.com/axios/axios)
-
-Promise based HTTP client for the browser and node.js
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 109,362 |
-| Forks | 11,908 |
-| Stars this week | 161 |
-
----
-
-## 12. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 4,809 |
-| Forks | 832 |
-| Stars this week | 161 |
-
----
-
-## 13. [vercel/next.js](https://github.com/vercel/next.js)
-
-The React Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 143,145 |
-| Forks | 34,675 |
-| Stars this week | 305 |
-
----
-
-## 14. [kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) 🆕
+## 10. [kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)
 
 A functional tools for z*e devices (F50 | U30 Air)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,708 |
-| Forks | 302 |
-| Stars this week | 546 |
+| Stars | 2,714 |
+| Forks | 303 |
+| Stars this week | 476 |
 
 ---
 
-## 15. [greensock/GSAP](https://github.com/greensock/GSAP) 🆕
+## 11. [androoAGI/starnet](https://github.com/androoAGI/starnet)
 
-GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 29,086 |
-| Forks | 2,250 |
-| Stars this week | 279 |
+| Stars | 1,390 |
+| Forks | 264 |
+| Stars this week | 286 |
 
 ---

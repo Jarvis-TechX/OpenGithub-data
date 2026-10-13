@@ -1,111 +1,138 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-12T05:50:35Z
-**Total Repositories:** 8
+**Snapshot Time:** 2026-10-13T06:44:03Z
+**Total Repositories:** 10
 **New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [karatektus/pl_mail](https://github.com/karatektus/pl_mail) 🆕
+## 1. [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) 🆕
 
-Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
+个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 268 |
-| Forks | 18 |
-| Stars today | 32 |
+| Stars | 5,796 |
+| Forks | 1,109 |
+| Stars today | 10 |
 
 ---
 
-## 2. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) 🆕
+## 2. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
 
 Free and open-source webshop solution for hostings
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,503 |
-| Forks | 522 |
-| Stars today | 58 |
+| Stars | 2,640 |
+| Forks | 531 |
+| Stars today | 126 |
 
 ---
 
-## 3. [pterodactyl/panel](https://github.com/pterodactyl/panel) 🆕
+## 3. [koel/koel](https://github.com/koel/koel) 🆕
 
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+Music streaming solution that works.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,312 |
-| Forks | 2,717 |
+| Stars | 17,279 |
+| Forks | 2,113 |
+| Stars today | 1 |
+
+---
+
+## 4. [karatektus/pl_mail](https://github.com/karatektus/pl_mail)
+
+Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 287 |
+| Forks | 19 |
+| Stars today | 30 |
+
+---
+
+## 5. [Qloapps/QloApps](https://github.com/Qloapps/QloApps) 🆕
+
+QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 14,425 |
+| Forks | 820 |
+| Stars today | 2 |
+
+---
+
+## 6. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) 🆕
+
+Firefly III: a personal finances manager
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 24,883 |
+| Forks | 2,335 |
+| Stars today | 15 |
+
+---
+
+## 7. [cedar2025/Xboard](https://github.com/cedar2025/Xboard) 🆕
+
+High-performance panel based on V2board secondary development supporting new protocols and new features
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,772 |
+| Forks | 1,360 |
+| Stars today | 3 |
+
+---
+
+## 8. [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) 🆕
+
+Silverstripe Framework, the MVC framework that powers Silverstripe CMS
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 725 |
+| Forks | 813 |
+
+---
+
+## 9. [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) 🆕
+
+A curated list of resources for learning about application security
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,099 |
+| Forks | 809 |
 | Stars today | 7 |
 
 ---
 
-## 4. [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) 🆕
+## 10. [Cacti/cacti](https://github.com/Cacti/cacti) 🆕
 
-A tool to automatically fix PHP Coding Standards issues
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 13,564 |
-| Forks | 1,649 |
-
----
-
-## 5. [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) 🆕
-
-SuiteCRM - Open source CRM for the world
+Cacti ™
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,794 |
-| Forks | 2,430 |
-| Stars today | 2 |
-
----
-
-## 6. [openemr/openemr](https://github.com/openemr/openemr) 🆕
-
-The most popular open source electronic health records and medical practice management solution.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,518 |
-| Forks | 3,076 |
-| Stars today | 5 |
-
----
-
-## 7. [femiwiki/docker-mediawiki](https://github.com/femiwiki/docker-mediawiki) 🆕
-
-🐳 Dockerized Femiwiki's mediawiki server
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 33 |
-| Forks | 6 |
-
----
-
-## 8. [OpenVK/openvk](https://github.com/OpenVK/openvk) 🆕
-
-Not-yet-federated open source social network inspired by VK.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 553 |
-| Forks | 134 |
-| Stars today | 2 |
+| Stars | 1,877 |
+| Forks | 448 |
+| Stars today | 1 |
 
 ---

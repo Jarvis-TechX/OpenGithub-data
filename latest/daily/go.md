@@ -1,204 +1,165 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-12T05:50:37Z
-**Total Repositories:** 15
-**New Entries:** 9
+**Snapshot Time:** 2026-10-13T06:44:04Z
+**Total Repositories:** 12
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+## 1. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) 🆕
 
-Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 46,283 |
-| Forks | 3,359 |
-| Stars today | 294 |
-
----
-
-## 2. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
-
-A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
+Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 49,736 |
-| Forks | 11,961 |
-| Stars today | 71 |
+| Stars | 2,875 |
+| Forks | 528 |
+| Stars today | 50 |
 
 ---
 
-## 3. [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
-
-ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 1,802 |
-| Forks | 348 |
-| Stars today | 28 |
-
----
-
-## 4. [BishopFox/sliver](https://github.com/BishopFox/sliver) 🆕
-
-Adversary Emulation Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 12,092 |
-| Forks | 1,620 |
-| Stars today | 47 |
-
----
-
-## 5. [majd/ipatool](https://github.com/majd/ipatool) 🆕
-
-Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 11,632 |
-| Forks | 974 |
-| Stars today | 33 |
-
----
-
-## 6. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-
-Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 33,311 |
-| Forks | 4,442 |
-| Stars today | 129 |
-
----
-
-## 7. [larksuite/cli](https://github.com/larksuite/cli)
-
-The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 17,631 |
-| Forks | 1,391 |
-| Stars today | 16 |
-
----
-
-## 8. [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) 🆕
-
-Heterogeneous GPU Sharing on Kubernetes
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 4,702 |
-| Forks | 855 |
-| Stars today | 36 |
-
----
-
-## 9. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
-
-Make humans and AI agents work as one team — open-source and self-hostable.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 52,526 |
-| Forks | 6,843 |
-| Stars today | 70 |
-
----
-
-## 10. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) 🆕
-
-📂 Web File Browser
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,658 |
-| Forks | 470 |
-| Stars today | 15 |
-
----
-
-## 11. [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) 🆕
-
-Yet another WebUI for Nginx
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 11,602 |
-| Forks | 897 |
-| Stars today | 6 |
-
----
-
-## 12. [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
-
-Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 43,754 |
-| Forks | 9,385 |
-| Stars today | 75 |
-
----
-
-## 13. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) 🆕
+## 2. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 
 WhatsApp MCP server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,543 |
-| Forks | 1,385 |
-| Stars today | 59 |
+| Stars | 6,563 |
+| Forks | 1,395 |
+| Stars today | 24 |
 
 ---
 
-## 14. [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 🆕
+## 3. [BishopFox/sliver](https://github.com/BishopFox/sliver)
 
-Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+Adversary Emulation Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 12,884 |
-| Forks | 1,189 |
-| Stars today | 9 |
+| Stars | 12,102 |
+| Forks | 1,621 |
+| Stars today | 28 |
 
 ---
 
-## 15. [fish2018/pansou](https://github.com/fish2018/pansou) 🆕
+## 4. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 
-PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。https://t.me/s/webhtv
+📂 Web File Browser
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 14,877 |
-| Forks | 3,612 |
-| Stars today | 11 |
+| Stars | 8,689 |
+| Forks | 473 |
+| Stars today | 64 |
+
+---
+
+## 5. [evcc-io/evcc](https://github.com/evcc-io/evcc) 🆕
+
+solar charging ☀️🚘
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,356 |
+| Forks | 1,552 |
+| Stars today | 7 |
+
+---
+
+## 6. [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) 🆕
+
+CNCF Jaeger, a Distributed Tracing Platform
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 23,288 |
+| Forks | 3,160 |
+| Stars today | 10 |
+
+---
+
+## 7. [p1neappleXpress/OpenFlux](https://github.com/p1neappleXpress/OpenFlux) 🆕
+
+Network stack research tool. TCP tunnel with pluggable transports.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 2,091 |
+| Forks | 182 |
+| Stars today | 21 |
+
+---
+
+## 8. [YouROK/TorrServer](https://github.com/YouROK/TorrServer) 🆕
+
+Torrent stream server
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 3,121 |
+| Forks | 371 |
+| Stars today | 8 |
+
+---
+
+## 9. [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
+
+Yet another WebUI for Nginx
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 11,604 |
+| Forks | 898 |
+| Stars today | 7 |
+
+---
+
+## 10. [ollama/ollama](https://github.com/ollama/ollama) 🆕
+
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 182,952 |
+| Forks | 18,245 |
+| Stars today | 133 |
+
+---
+
+## 11. [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS) 🆕
+
+An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,100 |
+| Forks | 311 |
+| Stars today | 22 |
+
+---
+
+## 12. [HEXUXIU/M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API) 🆕
+
+Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 559 |
+| Forks | 190 |
+| Stars today | 15 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Python
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-12T05:51:12Z
-**Total Repositories:** 22
+**Snapshot Time:** 2026-10-13T06:44:36Z
+**Total Repositories:** 21
 **New Entries:** 2
-**Quality Score:** 98.18/100
+**Quality Score:** 98.10/100
 
 ---
 
@@ -15,9 +15,9 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 59,107 |
-| Forks | 6,626 |
-| Stars this month | 36,012 |
+| Stars | 60,879 |
+| Forks | 6,826 |
+| Stars this month | 37,110 |
 
 ---
 
@@ -26,9 +26,9 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 39,427 |
-| Forks | 5,585 |
-| Stars this month | 4,698 |
+| Stars | 39,591 |
+| Forks | 5,593 |
+| Stars this month | 4,838 |
 
 ---
 
@@ -39,9 +39,9 @@ Hindsight: Agent Memory That Learns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 48,523 |
-| Forks | 6,006 |
-| Stars this month | 25,187 |
+| Stars | 48,935 |
+| Forks | 6,017 |
+| Stars this month | 25,557 |
 
 ---
 
@@ -52,9 +52,9 @@ Open source repository of plugins primarily intended for knowledge workers to us
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 29,159 |
-| Forks | 3,311 |
-| Stars this month | 5,173 |
+| Stars | 29,400 |
+| Forks | 3,333 |
+| Stars this month | 5,365 |
 
 ---
 
@@ -65,35 +65,35 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,738 |
-| Forks | 1,070 |
-| Stars this month | 7,118 |
+| Stars | 8,992 |
+| Forks | 1,106 |
+| Stars this month | 7,333 |
 
 ---
 
-## 6. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 96,171 |
-| Forks | 8,421 |
-| Stars this month | 16,862 |
-
----
-
-## 7. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+## 6. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 
 Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 67,637 |
-| Forks | 11,860 |
-| Stars this month | 13,378 |
+| Stars | 68,248 |
+| Forks | 11,953 |
+| Stars this month | 13,880 |
+
+---
+
+## 7. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 96,702 |
+| Forks | 8,461 |
+| Stars this month | 17,480 |
 
 ---
 
@@ -104,190 +104,177 @@ CLI tool for configuring and monitoring Claude Code
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,572 |
-| Forks | 3,747 |
-| Stars this month | 2,115 |
+| Stars | 32,599 |
+| Forks | 3,754 |
+| Stars this month | 2,068 |
 
 ---
 
-## 9. [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+## 9. [coji/natural-japanese](https://github.com/coji/natural-japanese) 🆕
 
-📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 39,059 |
-| Forks | 3,389 |
-| Stars this month | 3,574 |
+| Stars | 1,923 |
+| Forks | 53 |
+| Stars this month | 885 |
 
 ---
 
-## 10. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-
-🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 86,893 |
-| Forks | 8,900 |
-| Stars this month | 6,863 |
-
----
-
-## 11. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+## 10. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 
 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 19,979 |
-| Forks | 1,753 |
-| Stars this month | 3,054 |
+| Stars | 20,083 |
+| Forks | 1,761 |
+| Stars this month | 3,093 |
 
 ---
 
-## 12. [superdesigndev/treg](https://github.com/superdesigndev/treg)
+## 11. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+
+🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 87,106 |
+| Forks | 8,928 |
+| Stars this month | 6,810 |
+
+---
+
+## 12. [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+
+📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 39,090 |
+| Forks | 3,393 |
+| Stars this month | 3,599 |
+
+---
+
+## 13. [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
 OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 4,995 |
-| Forks | 405 |
-| Stars this month | 3,649 |
+| Stars | 5,164 |
+| Forks | 417 |
+| Stars this month | 3,692 |
 
 ---
 
-## 13. [pytorch/pytorch](https://github.com/pytorch/pytorch)
+## 14. [pytorch/pytorch](https://github.com/pytorch/pytorch)
 
 Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 104,614 |
-| Forks | 32,174 |
-| Stars this month | 1,707 |
+| Stars | 104,755 |
+| Forks | 32,201 |
+| Stars this month | 2,139 |
 
 ---
 
-## 14. [BerriAI/litellm](https://github.com/BerriAI/litellm)
+## 15. [BerriAI/litellm](https://github.com/BerriAI/litellm)
 
 The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 61,005 |
-| Forks | 12,237 |
-| Stars this month | 2,632 |
+| Stars | 61,110 |
+| Forks | 12,272 |
+| Stars this month | 2,684 |
 
 ---
 
-## 15. [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
+## 16. [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
 
 ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 4,564 |
-| Forks | 264 |
-| Stars this month | 2,436 |
+| Stars | 4,714 |
+| Forks | 273 |
+| Stars this month | 2,694 |
 
 ---
 
-## 16. [docling-project/docling](https://github.com/docling-project/docling)
-
-Get your documents ready for gen AI
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 68,710 |
-| Forks | 5,049 |
-| Stars this month | 2,544 |
-
----
-
-## 17. [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
-
-A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 5,274 |
-| Forks | 738 |
-| Stars this month | 1,507 |
-
----
-
-## 18. [home-assistant/core](https://github.com/home-assistant/core)
+## 17. [home-assistant/core](https://github.com/home-assistant/core)
 
 🏡 Open source home automation that puts local control and privacy first.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 91,393 |
-| Forks | 38,881 |
-| Stars this month | 1,164 |
+| Stars | 91,426 |
+| Forks | 38,897 |
+| Stars this month | 1,180 |
 
 ---
 
-## 19. [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
+## 18. [docling-project/docling](https://github.com/docling-project/docling)
+
+Get your documents ready for gen AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 68,787 |
+| Forks | 5,062 |
+| Stars this month | 2,592 |
+
+---
+
+## 19. [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+
+A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 5,293 |
+| Forks | 739 |
+| Stars this month | 1,513 |
+
+---
+
+## 20. [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
 
 Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,575 |
-| Forks | 875 |
-| Stars this month | 1,203 |
+| Stars | 8,590 |
+| Forks | 876 |
+| Stars this month | 1,212 |
 
 ---
 
-## 20. [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
+## 21. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 🆕
 
-YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,706 |
-| Forks | 1,324 |
-| Stars this month | 4,856 |
-
----
-
-## 21. [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) 🆕
-
-claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 7,430 |
-| Forks | 967 |
-| Stars this month | 4,315 |
-
----
-
-## 22. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) 🆕
-
-Useful tool to track location or mobile number
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 18,259 |
-| Forks | 2,493 |
-| Stars this month | 3,231 |
+| Stars | 52,029 |
+| Forks | 4,736 |
+| Stars this month | 2,854 |
 
 ---

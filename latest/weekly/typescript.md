@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-12T05:50:53Z
+**Snapshot Time:** 2026-10-13T06:44:19Z
 **Total Repositories:** 17
-**New Entries:** 2
+**New Entries:** 4
 **Quality Score:** 97.65/100
 
 ---
@@ -15,35 +15,35 @@ Next generation e2e testing framework for web and mobile apps.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,172 |
-| Forks | 441 |
-| Stars this week | 6,440 |
+| Stars | 9,725 |
+| Forks | 464 |
+| Stars this week | 5,582 |
 
 ---
 
-## 2. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-
-Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 99,811 |
-| Forks | 8,748 |
-| Stars this week | 3,803 |
-
----
-
-## 3. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 2. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
 Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 61,150 |
-| Forks | 5,466 |
-| Stars this week | 4,223 |
+| Stars | 62,007 |
+| Forks | 5,552 |
+| Stars this week | 4,482 |
+
+---
+
+## 3. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 100,187 |
+| Forks | 8,783 |
+| Stars this week | 3,762 |
 
 ---
 
@@ -54,9 +54,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,941 |
-| Forks | 1,054 |
-| Stars this week | 1,140 |
+| Stars | 11,106 |
+| Forks | 1,081 |
+| Stars this week | 1,144 |
 
 ---
 
@@ -67,22 +67,22 @@ Build your own network of agents from Claude Code, Codex and Pi: persistent team
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,034 |
-| Forks | 531 |
-| Stars this week | 2,028 |
+| Stars | 7,325 |
+| Forks | 553 |
+| Stars this week | 2,056 |
 
 ---
 
-## 6. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+## 6. [morluto/rea](https://github.com/morluto/rea) 🆕
 
-A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+Reverse engineer anything with agents, from app behavior down to native binaries.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 968 |
-| Forks | 85 |
-| Stars this week | 337 |
+| Stars | 173,249 |
+| Forks | 41,498 |
+| Stars this week | 130,471 |
 
 ---
 
@@ -91,138 +91,138 @@ A context-compression plugin for small context windows (a 100K context is enough
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 27,042 |
-| Forks | 7,100 |
-| Stars this week | 1,980 |
+| Stars | 27,248 |
+| Forks | 7,200 |
+| Stars this week | 1,716 |
 
 ---
 
-## 8. [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
-
-yoink any video from your terminal. no shady ads.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 5,762 |
-| Forks | 487 |
-| Stars this week | 1,515 |
-
----
-
-## 9. [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-
-The open-source CapCut alternative
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 93,674 |
-| Forks | 9,189 |
-| Stars this week | 1,734 |
-
----
-
-## 10. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 8. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,433 |
-| Forks | 4,609 |
-| Stars this week | 2,765 |
+| Stars | 34,262 |
+| Forks | 4,685 |
+| Stars this week | 3,029 |
 
 ---
 
-## 11. [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
-
-Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 11,357 |
-| Forks | 1,359 |
-| Stars this week | 615 |
-
----
-
-## 12. [DmNote-App/DmNote](https://github.com/DmNote-App/DmNote)
+## 9. [DmNote-App/DmNote](https://github.com/DmNote-App/DmNote)
 
 Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,098 |
-| Forks | 134 |
-| Stars this week | 1,062 |
+| Stars | 3,504 |
+| Forks | 218 |
+| Stars this week | 1,338 |
 
 ---
 
-## 13. [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
+## 10. [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) 🆕
 
-Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.
+Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,258 |
-| Forks | 268 |
-| Stars this week | 579 |
+| Stars | 28,595 |
+| Forks | 3,035 |
+| Stars this week | 246 |
 
 ---
 
-## 14. [reconurge/flowsint](https://github.com/reconurge/flowsint)
+## 11. [reconurge/flowsint](https://github.com/reconurge/flowsint)
 
 A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,650 |
-| Forks | 1,189 |
-| Stars this week | 543 |
+| Stars | 9,678 |
+| Forks | 1,194 |
+| Stars this week | 497 |
 
 ---
 
-## 15. [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
+## 12. [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
+
+Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,287 |
+| Forks | 268 |
+| Stars this week | 542 |
+
+---
+
+## 13. [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) 🆕
+
+A self-organizing Obsidian vault that gives AI coding agents persistent memory.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 5,270 |
+| Forks | 597 |
+| Stars this week | 351 |
+
+---
+
+## 14. [VERT-sh/VERT](https://github.com/VERT-sh/VERT) 🆕
+
+The next-generation file converter. Open source, fully local* and free forever.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 15,868 |
+| Forks | 847 |
+| Stars this week | 195 |
+
+---
+
+## 15. [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+
+The open-source CapCut alternative
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 93,923 |
+| Forks | 9,215 |
+| Stars this week | 1,317 |
+
+---
+
+## 16. [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
 
 WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,969 |
-| Forks | 632 |
-| Stars this week | 269 |
+| Stars | 15,034 |
+| Forks | 655 |
+| Stars this week | 297 |
 
 ---
 
-## 16. [Effect-TS/effect](https://github.com/Effect-TS/effect) 🆕
-
-Build production-ready applications in TypeScript
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 17,236 |
-| Forks | 850 |
-| Stars this week | 303 |
-
----
-
-## 17. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 🆕
+## 17. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
 
 AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,344 |
-| Forks | 1,015 |
-| Stars this week | 1,011 |
+| Stars | 11,583 |
+| Forks | 1,033 |
+| Stars this week | 1,125 |
 
 ---

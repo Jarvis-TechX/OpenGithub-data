@@ -1,9 +1,9 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-12T05:50:49Z
-**Total Repositories:** 12
-**New Entries:** 1
+**Snapshot Time:** 2026-10-13T06:44:14Z
+**Total Repositories:** 11
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 30,758 |
-| Forks | 2,647 |
-| Stars this week | 25,151 |
+| Stars | 33,354 |
+| Forks | 2,888 |
+| Stars this week | 27,263 |
 
 ---
 
@@ -28,9 +28,9 @@ Next generation e2e testing framework for web and mobile apps.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,172 |
-| Forks | 441 |
-| Stars this week | 6,440 |
+| Stars | 9,725 |
+| Forks | 464 |
+| Stars this week | 5,582 |
 
 ---
 
@@ -41,48 +41,48 @@ Skills for Real Engineers. Straight from my .agents directory.
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 286,625 |
-| Forks | 24,045 |
-| Stars this week | 10,330 |
+| Stars | 288,364 |
+| Forks | 24,206 |
+| Stars this week | 11,139 |
 
 ---
 
-## 4. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-
-Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 99,811 |
-| Forks | 8,748 |
-| Stars this week | 3,803 |
-
----
-
-## 5. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
-
-A native, user-mode, multi-process, graphical debugger.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 8,413 |
-| Forks | 405 |
-| Stars this week | 794 |
-
----
-
-## 6. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 4. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
 Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 61,150 |
-| Forks | 5,466 |
-| Stars this week | 4,223 |
+| Stars | 62,007 |
+| Forks | 5,552 |
+| Stars this week | 4,482 |
+
+---
+
+## 5. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 100,187 |
+| Forks | 8,783 |
+| Stars this week | 3,762 |
+
+---
+
+## 6. [flutter/flutter](https://github.com/flutter/flutter)
+
+Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+| Metric | Value |
+|--------|-------|
+| Language | Dart |
+| Stars | 180,011 |
+| Forks | 33,852 |
+| Stars this week | 806 |
 
 ---
 
@@ -93,73 +93,60 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,941 |
-| Forks | 1,054 |
-| Stars this week | 1,140 |
+| Stars | 11,106 |
+| Forks | 1,081 |
+| Stars this week | 1,144 |
 
 ---
 
-## 8. [flutter/flutter](https://github.com/flutter/flutter)
-
-Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-| Metric | Value |
-|--------|-------|
-| Language | Dart |
-| Stars | 179,840 |
-| Forks | 33,824 |
-| Stars this week | 680 |
-
----
-
-## 9. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+## 8. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
 
 Give your agent CAD superpowers.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 19,373 |
-| Forks | 1,909 |
-| Stars this week | 2,508 |
+| Stars | 19,739 |
+| Forks | 1,941 |
+| Stars this week | 2,441 |
 
 ---
 
-## 10. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+## 9. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
 
 Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,034 |
-| Forks | 531 |
-| Stars this week | 2,028 |
+| Stars | 7,325 |
+| Forks | 553 |
+| Stars this week | 2,056 |
 
 ---
 
-## 11. [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) 🆕
+## 10. [morluto/rea](https://github.com/morluto/rea) 🆕
 
-ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 4,564 |
-| Forks | 264 |
-| Stars this week | 936 |
-
----
-
-## 12. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
-
-A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+Reverse engineer anything with agents, from app behavior down to native binaries.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 968 |
-| Forks | 85 |
-| Stars this week | 337 |
+| Stars | 173,244 |
+| Forks | 41,496 |
+| Stars this week | 130,471 |
+
+---
+
+## 11. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) 🆕
+
+Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 10,696 |
+| Forks | 1,296 |
+| Stars this week | 6,621 |
 
 ---

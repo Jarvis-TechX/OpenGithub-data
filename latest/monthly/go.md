@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-12T05:51:19Z
+**Snapshot Time:** 2026-10-13T06:44:44Z
 **Total Repositories:** 23
-**New Entries:** 4
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 46,283 |
-| Forks | 3,359 |
-| Stars this month | 24,146 |
+| Stars | 46,655 |
+| Forks | 3,389 |
+| Stars this month | 24,317 |
 
 ---
 
@@ -28,9 +28,9 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 33,311 |
-| Forks | 4,442 |
-| Stars this month | 11,116 |
+| Stars | 33,618 |
+| Forks | 4,478 |
+| Stars this month | 11,159 |
 
 ---
 
@@ -41,9 +41,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,886 |
-| Forks | 550 |
-| Stars this month | 3,014 |
+| Stars | 4,985 |
+| Forks | 557 |
+| Stars this month | 3,104 |
 
 ---
 
@@ -54,9 +54,9 @@ A terminal window manager that knows what your agents are doing. Tiling panes, w
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,207 |
-| Forks | 242 |
-| Stars this month | 1,595 |
+| Stars | 5,248 |
+| Forks | 243 |
+| Stars this month | 1,640 |
 
 ---
 
@@ -67,9 +67,9 @@ Secure environments for developers and their agents
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,969 |
-| Forks | 1,619 |
-| Stars this month | 2,695 |
+| Stars | 16,982 |
+| Forks | 1,620 |
+| Stars this month | 2,710 |
 
 ---
 
@@ -80,9 +80,9 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 77,796 |
-| Forks | 5,121 |
-| Stars this month | 2,306 |
+| Stars | 77,878 |
+| Forks | 5,131 |
+| Stars this month | 2,377 |
 
 ---
 
@@ -93,35 +93,35 @@ Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQL
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,141 |
+| Stars | 7,157 |
 | Forks | 740 |
-| Stars this month | 640 |
+| Stars this month | 634 |
 
 ---
 
-## 8. [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
+## 8. [urfave/cli](https://github.com/urfave/cli)
+
+A declarative, simple, fast, and fun package for building command line tools in Go
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 24,289 |
+| Forks | 1,840 |
+| Stars this month | 80 |
+
+---
+
+## 9. [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
 
 Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,691 |
-| Forks | 833 |
-| Stars this month | 1,114 |
-
----
-
-## 9. [usememos/memos](https://github.com/usememos/memos)
-
-A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 63,715 |
-| Forks | 4,846 |
-| Stars this month | 933 |
+| Stars | 7,723 |
+| Forks | 835 |
+| Stars this month | 1,093 |
 
 ---
 
@@ -132,22 +132,22 @@ Find, verify, and analyze leaked credentials
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 28,440 |
-| Forks | 2,632 |
-| Stars this month | 715 |
+| Stars | 28,470 |
+| Forks | 2,637 |
+| Stars this month | 706 |
 
 ---
 
-## 11. [urfave/cli](https://github.com/urfave/cli)
+## 11. [docker/docker-agent](https://github.com/docker/docker-agent)
 
-A declarative, simple, fast, and fun package for building command line tools in Go
+AI Agent Builder and Runtime by Docker Engineering
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 24,287 |
-| Forks | 1,838 |
-| Stars this month | 83 |
+| Stars | 4,459 |
+| Forks | 517 |
+| Stars this month | 1,135 |
 
 ---
 
@@ -158,48 +158,48 @@ Your own search engine
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,987 |
-| Forks | 267 |
-| Stars this month | 2,301 |
+| Stars | 6,012 |
+| Forks | 268 |
+| Stars this month | 2,313 |
 
 ---
 
-## 13. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-
-Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 25,479 |
-| Forks | 3,295 |
-| Stars this month | 2,655 |
-
----
-
-## 14. [grpc/grpc-go](https://github.com/grpc/grpc-go)
+## 13. [grpc/grpc-go](https://github.com/grpc/grpc-go)
 
 The Go language implementation of gRPC. HTTP/2 based RPC
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 23,090 |
-| Forks | 4,792 |
-| Stars this month | 144 |
+| Stars | 23,092 |
+| Forks | 4,794 |
+| Stars this month | 143 |
 
 ---
 
-## 15. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) 🆕
+## 14. [usememos/memos](https://github.com/usememos/memos)
 
-scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
+A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,378 |
-| Forks | 1,008 |
-| Stars this month | 618 |
+| Stars | 63,747 |
+| Forks | 4,854 |
+| Stars this month | 955 |
+
+---
+
+## 15. [ollama/ollama](https://github.com/ollama/ollama) 🆕
+
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 182,952 |
+| Forks | 18,245 |
+| Stars this month | 2,966 |
 
 ---
 
@@ -210,9 +210,9 @@ The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,710 |
-| Forks | 466 |
-| Stars this month | 455 |
+| Stars | 1,711 |
+| Forks | 468 |
+| Stars this month | 457 |
 
 ---
 
@@ -223,86 +223,86 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,363 |
-| Forks | 755 |
-| Stars this month | 550 |
+| Stars | 38,380 |
+| Forks | 759 |
+| Stars this month | 563 |
 
 ---
 
-## 18. [golang/go](https://github.com/golang/go)
-
-The Go programming language
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 139,212 |
-| Forks | 22,052 |
-| Stars this month | 1,416 |
-
----
-
-## 19. [docker/docker-agent](https://github.com/docker/docker-agent) 🆕
-
-AI Agent Builder and Runtime by Docker Engineering
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 4,436 |
-| Forks | 512 |
-| Stars this month | 1,115 |
-
----
-
-## 20. [zitadel/zitadel](https://github.com/zitadel/zitadel) 🆕
+## 18. [zitadel/zitadel](https://github.com/zitadel/zitadel)
 
 ZITADEL - Identity infrastructure, simplified for you.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 15,286 |
+| Stars | 15,300 |
 | Forks | 1,366 |
-| Stars this month | 309 |
+| Stars this month | 320 |
 
 ---
 
-## 21. [openai/tunnel-client](https://github.com/openai/tunnel-client) 🆕
-
-Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 555 |
-| Forks | 111 |
-| Stars this month | 183 |
-
----
-
-## 22. [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+## 19. [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
 
 SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 35,408 |
-| Forks | 3,055 |
-| Stars this month | 913 |
+| Stars | 35,434 |
+| Forks | 3,057 |
+| Stars this month | 926 |
 
 ---
 
-## 23. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+## 20. [golang/go](https://github.com/golang/go)
+
+The Go programming language
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 139,239 |
+| Forks | 22,072 |
+| Stars this month | 1,476 |
+
+---
+
+## 21. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
 
 Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,824 |
-| Forks | 524 |
-| Stars this month | 339 |
+| Stars | 2,875 |
+| Forks | 528 |
+| Stars this month | 383 |
+
+---
+
+## 22. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) 🆕
+
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 42,081 |
+| Forks | 5,973 |
+| Stars this month | 639 |
+
+---
+
+## 23. [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) 🆕
+
+Kubernetes controller for GitHub Actions self-hosted runners
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,558 |
+| Forks | 1,495 |
+| Stars this month | 74 |
 
 ---
