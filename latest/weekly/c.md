@@ -1,7 +1,7 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-13T06:44:26Z
+**Snapshot Time:** 2026-10-14T04:47:48Z
 **Total Repositories:** 12
 **New Entries:** 2
 **Quality Score:** 96.67/100
@@ -15,9 +15,9 @@ A native, user-mode, multi-process, graphical debugger.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 8,446 |
-| Forks | 408 |
-| Stars this week | 845 |
+| Stars | 8,492 |
+| Forks | 413 |
+| Stars this week | 857 |
 
 ---
 
@@ -28,136 +28,136 @@ Display and control your Android device
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 151,998 |
-| Forks | 13,961 |
-| Stars this week | 1,163 |
+| Stars | 152,084 |
+| Forks | 13,971 |
+| Stars this week | 930 |
 
 ---
 
-## 3. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 708 |
-| Forks | 51 |
-| Stars this week | 98 |
-
----
-
-## 4. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+## 3. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 
 A new bootable USB solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 79,973 |
-| Forks | 4,980 |
-| Stars this week | 266 |
+| Stars | 80,017 |
+| Forks | 4,986 |
+| Stars this week | 278 |
 
 ---
 
-## 5. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
-
-GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+## 4. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,772 |
-| Forks | 2,237 |
-| Stars this week | 51 |
+| Stars | 716 |
+| Forks | 54 |
+| Stars this week | 99 |
 
 ---
 
-## 6. [mbm110/MSN-GUARD](https://github.com/mbm110/MSN-GUARD) 🆕
+## 5. [mbm110/MSN-GUARD](https://github.com/mbm110/MSN-GUARD)
 
 High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 640 |
-| Forks | 104 |
-| Stars this week | 89 |
+| Stars | 645 |
+| Forks | 106 |
+| Stars this week | 95 |
 
 ---
 
-## 7. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
-
-ehviewer，用爱发电，快乐前行
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 27,710 |
-| Forks | 730 |
-| Stars this week | 273 |
-
----
-
-## 8. [itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager)
-
-A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 492 |
-| Forks | 61 |
-| Stars this week | 53 |
-
----
-
-## 9. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-
-OBS Studio - Free and open source software for live streaming and screen recording
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 77,409 |
-| Forks | 10,611 |
-| Stars this week | 432 |
-
----
-
-## 10. [n64decomp/sm64](https://github.com/n64decomp/sm64)
-
-A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 8,860 |
-| Forks | 1,644 |
-| Stars this week | 51 |
-
----
-
-## 11. [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
-
-OpenCore bootloader
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 15,530 |
-| Forks | 2,309 |
-| Stars this week | 46 |
-
----
-
-## 12. [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) 🆕
+## 6. [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)
 
 This is a fork of F4HWN firmwarehttps://github.com/armel/uv-k5-firmware-customby@muzkrand@armel
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 753 |
+| Stars | 758 |
 | Forks | 203 |
-| Stars this week | 27 |
+| Stars this week | 33 |
+
+---
+
+## 7. [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+
+OpenCore bootloader
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 15,535 |
+| Forks | 2,311 |
+| Stars this week | 45 |
+
+---
+
+## 8. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+
+OBS Studio - Free and open source software for live streaming and screen recording
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 77,477 |
+| Forks | 10,633 |
+| Stars this week | 467 |
+
+---
+
+## 9. [n64decomp/sm64](https://github.com/n64decomp/sm64)
+
+A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 8,870 |
+| Forks | 1,646 |
+| Stars this week | 50 |
+
+---
+
+## 10. [itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager)
+
+A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 509 |
+| Forks | 62 |
+| Stars this week | 60 |
+
+---
+
+## 11. [reactos/reactos](https://github.com/reactos/reactos) 🆕
+
+A free Windows-compatible Operating System
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 18,197 |
+| Forks | 2,244 |
+| Stars this week | 49 |
+
+---
+
+## 12. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk) 🆕
+
+Xbox 360 Recompilation Runtime and Toolkit
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 1,055 |
+| Forks | 175 |
+| Stars this week | 70 |
 
 ---

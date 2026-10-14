@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-13T06:43:58Z
-**Total Repositories:** 9
-**New Entries:** 6
+**Snapshot Time:** 2026-10-14T04:47:23Z
+**Total Repositories:** 6
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,61 +15,61 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 54,145 |
-| Forks | 10,658 |
-| Stars today | 1,895 |
+| Stars | 55,698 |
+| Forks | 10,870 |
+| Stars today | 1,961 |
 
 ---
 
-## 2. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 278,081 |
-| Forks | 41,445 |
-| Stars today | 784 |
-
----
-
-## 3. [greensock/GSAP](https://github.com/greensock/GSAP)
-
-GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 29,141 |
-| Forks | 2,253 |
-| Stars today | 56 |
-
----
-
-## 4. [Javis603/token-monitor](https://github.com/Javis603/token-monitor) 🆕
+## 2. [Javis603/token-monitor](https://github.com/Javis603/token-monitor)
 
 Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,001 |
-| Forks | 282 |
-| Stars today | 125 |
+| Stars | 3,049 |
+| Forks | 286 |
+| Stars today | 77 |
 
 ---
 
-## 5. [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) 🆕
+## 3. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) 🆕
 
-한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
+The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,902 |
-| Forks | 962 |
-| Stars today | 26 |
+| Stars | 17,337 |
+| Forks | 934 |
+| Stars today | 101 |
+
+---
+
+## 4. [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer)
+
+Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 8,960 |
+| Forks | 1,024 |
+| Stars today | 32 |
+
+---
+
+## 5. [truelockmc/streambert](https://github.com/truelockmc/streambert) 🆕
+
+A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 6,265 |
+| Forks | 593 |
+| Stars today | 28 |
 
 ---
 
@@ -80,47 +80,8 @@ Local-first desktop widget for tracking token usage, costs, limits, and session 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,858 |
-| Forks | 373 |
-| Stars today | 38 |
-
----
-
-## 7. [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) 🆕
-
-Free, simple, and intuitive online database diagram editor and SQL generator.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 39,954 |
-| Forks | 3,302 |
-| Stars today | 42 |
-
----
-
-## 8. [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) 🆕
-
-Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 8,940 |
-| Forks | 1,021 |
-| Stars today | 26 |
-
----
-
-## 9. [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) 🆕
-
-抖音 / TikTok 平台作品下载/数据采集工具
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 16,762 |
-| Forks | 2,822 |
-| Stars today | 49 |
+| Stars | 2,889 |
+| Forks | 375 |
+| Stars today | 45 |
 
 ---

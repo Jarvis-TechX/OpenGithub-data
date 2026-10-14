@@ -1,36 +1,36 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-13T06:44:31Z
-**Total Repositories:** 15
-**New Entries:** 3
+**Snapshot Time:** 2026-10-14T04:47:53Z
+**Total Repositories:** 16
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
-
-Free, open-source Windows optimization tool for performance, privacy, and simplicity.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 10,406 |
-| Forks | 441 |
-| Stars this week | 246 |
-
----
-
-## 2. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
+## 1. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
 
 .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,584 |
-| Forks | 3,758 |
-| Stars this week | 377 |
+| Stars | 26,614 |
+| Forks | 3,766 |
+| Stars this week | 321 |
+
+---
+
+## 2. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 🆕
+
+WinUI app for building smaller, customized Windows 11 images.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 19,964 |
+| Forks | 1,539 |
+| Stars this week | 197 |
 
 ---
 
@@ -41,87 +41,87 @@ A modern launcher for downloading, installing, and running apps from GitHub and 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,803 |
-| Forks | 36 |
-| Stars this week | 420 |
+| Stars | 1,847 |
+| Forks | 39 |
+| Stars this week | 414 |
 
 ---
 
-## 4. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) 🆕
+## 4. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
 
 GUI application to analyze game files
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,592 |
-| Forks | 996 |
-| Stars this week | 103 |
+| Stars | 8,612 |
+| Forks | 1,000 |
+| Stars this week | 116 |
 
 ---
 
-## 5. [andrewmd5/Borderless-Gaming](https://github.com/andrewmd5/Borderless-Gaming)
-
-Play your favorite games in a borderless window; no more time consuming alt-tabs.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,647 |
-| Forks | 634 |
-| Stars this week | 36 |
-
----
-
-## 6. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) 🆕
+## 5. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
 
 Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,550 |
+| Stars | 17,559 |
 | Forks | 3,070 |
 | Stars this week | 70 |
 
 ---
 
-## 7. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+## 6. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
 
-Download web video and audio
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,343 |
-| Forks | 349 |
-| Stars this week | 77 |
-
----
-
-## 8. [dotnet/roslyn](https://github.com/dotnet/roslyn)
-
-The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,726 |
-| Forks | 4,345 |
-| Stars this week | 27 |
+| Stars | 2,993 |
+| Forks | 394 |
+| Stars this week | 262 |
 
 ---
 
-## 9. [MUnique/OpenMU](https://github.com/MUnique/OpenMU) 🆕
+## 7. [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
 
 This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,211 |
-| Forks | 635 |
-| Stars this week | 16 |
+| Stars | 1,214 |
+| Forks | 637 |
+| Stars this week | 15 |
+
+---
+
+## 8. [memstechtips/Winhance](https://github.com/memstechtips/Winhance) 🆕
+
+Application designed to optimize, customize and enhance your Windows experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 13,620 |
+| Forks | 648 |
+| Stars this week | 267 |
+
+---
+
+## 9. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) 🆕
+
+UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 26,582 |
+| Forks | 945 |
+| Stars this week | 189 |
 
 ---
 
@@ -132,73 +132,86 @@ Movie organizer/manager for usenet and torrent users.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,562 |
+| Stars | 14,568 |
 | Forks | 1,239 |
-| Stars this week | 61 |
+| Stars this week | 64 |
 
 ---
 
-## 11. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
-
-Work-in-progress tool to reverse unity's IL2CPP toolchain.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 2,976 |
-| Forks | 387 |
-| Stars this week | 322 |
-
----
-
-## 12. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
-
-🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 27,128 |
-| Forks | 1,728 |
-| Stars this week | 86 |
-
----
-
-## 13. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 11. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
 A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,775 |
+| Stars | 1,786 |
 | Forks | 53 |
+| Stars this week | 77 |
+
+---
+
+## 12. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+
+Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 10,426 |
+| Forks | 442 |
+| Stars this week | 202 |
+
+---
+
+## 13. [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) 🆕
+
+Unity il2cpp reverse engineer
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,504 |
+| Forks | 1,936 |
+| Stars this week | 56 |
+
+---
+
+## 14. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+
+Download web video and audio
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,353 |
+| Forks | 352 |
 | Stars this week | 81 |
 
 ---
 
-## 14. [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe)
+## 15. [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) 🆕
 
-C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+Downloads videos and playlists from YouTube
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,962 |
-| Forks | 381 |
-| Stars this week | 112 |
+| Stars | 16,422 |
+| Forks | 2,085 |
+| Stars this week | 73 |
 
 ---
 
-## 15. [ShareX/ShareX](https://github.com/ShareX/ShareX)
+## 16. [LorisYounger/VPet](https://github.com/LorisYounger/VPet) 🆕
 
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,041 |
-| Forks | 3,957 |
-| Stars this week | 153 |
+| Stars | 6,971 |
+| Forks | 688 |
+| Stars this week | 98 |
 
 ---

@@ -1,23 +1,23 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-13T06:44:10Z
-**Total Repositories:** 17
-**New Entries:** 8
+**Snapshot Time:** 2026-10-14T04:47:34Z
+**Total Repositories:** 14
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) 🆕
+## 1. [mihonapp/mihon](https://github.com/mihonapp/mihon)
 
-A Download Manager that speeds up your downloads
+Free and open source manga reader for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,473 |
-| Forks | 946 |
-| Stars today | 49 |
+| Stars | 24,332 |
+| Forks | 1,615 |
+| Stars today | 41 |
 
 ---
 
@@ -28,202 +28,164 @@ A Download Manager that speeds up your downloads
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,754 |
-| Forks | 308 |
-| Stars today | 258 |
+| Stars | 1,807 |
+| Forks | 320 |
+| Stars today | 75 |
 
 ---
 
-## 3. [tiann/KernelSU](https://github.com/tiann/KernelSU)
-
-A Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 19,130 |
-| Forks | 4,312 |
-| Stars today | 36 |
-
----
-
-## 4. [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) 🆕
-
-🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,072 |
-| Forks | 310 |
-| Stars today | 40 |
-
----
-
-## 5. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid)
-
-Android GUI proxy utility (Empowered by sing-box)
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 575 |
-| Forks | 22 |
-| Stars today | 9 |
-
----
-
-## 6. [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
-
-A feature-rich weather app with good visualizations and more than 50 sources.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 11,689 |
-| Forks | 417 |
-| Stars today | 12 |
-
----
-
-## 7. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) 🆕
+## 3. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
 
 BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,041 |
-| Forks | 283 |
-| Stars today | 94 |
+| Stars | 3,111 |
+| Forks | 290 |
+| Stars today | 100 |
 
 ---
 
-## 8. [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2)
+## 4. [sameerasw/essentials](https://github.com/sameerasw/essentials) 🆕
 
-A Minecraft: Java Edition Launcher for Android
+Essential tools and mods for Android nerds
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,014 |
-| Forks | 363 |
-| Stars today | 9 |
-
----
-
-## 9. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-
-A V2Ray client for Android, support Xray core and v2fly core
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 63,881 |
-| Forks | 8,274 |
-| Stars today | 64 |
-
----
-
-## 10. [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) 🆕
-
-Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 3,871 |
-| Forks | 525 |
-
----
-
-## 11. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
-
-GhostLock One-Tap Execution App (CVE-2026-43499)
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,858 |
-| Forks | 481 |
-| Stars today | 38 |
-
----
-
-## 12. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
-
-Kernel-based Android Root Solution & KPM
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,523 |
-| Forks | 1,349 |
+| Stars | 3,294 |
+| Forks | 91 |
 | Stars today | 18 |
 
 ---
 
-## 13. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) 🆕
+## 5. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
-Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+A Download Manager that speeds up your downloads
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 532 |
-| Forks | 115 |
-| Stars today | 6 |
+| Stars | 18,500 |
+| Forks | 949 |
+| Stars today | 37 |
 
 ---
 
-## 14. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) 🆕
+## 6. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
 
-Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
+Headunit App for displaying Android Auto
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,230 |
-| Forks | 455 |
-| Stars today | 48 |
+| Stars | 2,786 |
+| Forks | 237 |
+| Stars today | 28 |
 
 ---
 
-## 15. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) 🆕
+## 7. [Lelonio/Square](https://github.com/Lelonio/Square) 🆕
 
-Android app for streaming and downloading media.
+Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,940 |
-| Forks | 1,117 |
+| Stars | 168 |
+| Forks | 14 |
+| Stars today | 24 |
+
+---
+
+## 8. [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix) 🆕
+
+A UI library for Compose Multiplatform
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,436 |
+| Forks | 121 |
 | Stars today | 13 |
 
 ---
 
-## 16. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+## 9. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) 🆕
+
+🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 774 |
+| Forks | 25 |
+| Stars today | 23 |
+
+---
+
+## 10. [komikku-app/anikku](https://github.com/komikku-app/anikku) 🆕
+
+Free and open source anime watcher for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,089 |
+| Forks | 73 |
+| Stars today | 3 |
+
+---
+
+## 11. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,960 |
-| Forks | 649 |
-| Stars today | 43 |
+| Stars | 12,001 |
+| Forks | 656 |
+| Stars today | 39 |
 
 ---
 
-## 17. [mihonapp/mihon](https://github.com/mihonapp/mihon) 🆕
+## 12. [gotson/komga](https://github.com/gotson/komga) 🆕
 
-Free and open source manga reader for Android
+Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 24,300 |
-| Forks | 1,611 |
-| Stars today | 59 |
+| Stars | 6,740 |
+| Forks | 419 |
+| Stars today | 8 |
+
+---
+
+## 13. [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) 🆕
+
+Material Design file manager for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 9,201 |
+| Forks | 756 |
+| Stars today | 10 |
+
+---
+
+## 14. [Ackites/Nrfr](https://github.com/Ackites/Nrfr) 🆕
+
+🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 9,170 |
+| Forks | 671 |
+| Stars today | 13 |
 
 ---

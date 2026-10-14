@@ -1,9 +1,9 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-13T06:43:56Z
+**Snapshot Time:** 2026-10-14T04:47:21Z
 **Total Repositories:** 9
-**New Entries:** 4
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 173,225 |
-| Forks | 41,493 |
-| Stars today | 45,327 |
+| Stars | 214,837 |
+| Forks | 52,940 |
+| Stars today | 54,679 |
 
 ---
 
@@ -28,61 +28,61 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 54,145 |
-| Forks | 10,658 |
-| Stars today | 1,895 |
+| Stars | 55,698 |
+| Forks | 10,870 |
+| Stars today | 1,961 |
 
 ---
 
-## 3. [mksglu/context-mode](https://github.com/mksglu/context-mode) 🆕
+## 3. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) 🆕
+
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 63,901 |
+| Forks | 7,104 |
+| Stars today | 1,748 |
+
+---
+
+## 4. [mksglu/context-mode](https://github.com/mksglu/context-mode)
 
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 27,543 |
-| Forks | 1,956 |
-| Stars today | 246 |
+| Stars | 28,404 |
+| Forks | 2,000 |
+| Stars today | 969 |
 
 ---
 
-## 4. [storytold/artcraft](https://github.com/storytold/artcraft)
-
-ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 23,051 |
-| Forks | 3,685 |
-| Stars today | 4,095 |
-
----
-
-## 5. [open-webui/open-webui](https://github.com/open-webui/open-webui) 🆕
-
-User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 155,308 |
-| Forks | 22,663 |
-| Stars today | 157 |
-
----
-
-## 6. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+## 5. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
 
 Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 | Metric | Value |
 |--------|-------|
 | Language | HTML |
-| Stars | 53,044 |
-| Forks | 3,351 |
-| Stars today | 2,081 |
+| Stars | 54,468 |
+| Forks | 3,447 |
+| Stars today | 1,815 |
+
+---
+
+## 6. [vercel-labs/skills](https://github.com/vercel-labs/skills) 🆕
+
+The open agent skills tool - npx skills
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 34,664 |
+| Forks | 2,955 |
+| Stars today | 190 |
 
 ---
 
@@ -93,34 +93,34 @@ AirLLM 2.8T LLM inference with single 4GB GPU
 | Metric | Value |
 |--------|-------|
 | Language | Jupyter Notebook |
-| Stars | 37,752 |
-| Forks | 3,890 |
-| Stars today | 879 |
+| Stars | 38,441 |
+| Forks | 3,931 |
+| Stars today | 1,001 |
 
 ---
 
-## 8. [microsoft/BitNet](https://github.com/microsoft/BitNet) 🆕
+## 8. [storytold/artcraft](https://github.com/storytold/artcraft)
 
-Official inference framework for 1-bit LLMs
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
 | Metric | Value |
 |--------|-------|
-| Language | C++ |
-| Stars | 41,020 |
-| Forks | 3,819 |
-| Stars today | 97 |
+| Language | Rust |
+| Stars | 26,185 |
+| Forks | 4,104 |
+| Stars today | 4,081 |
 
 ---
 
-## 9. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) 🆕
+## 9. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
 
-Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
 | Metric | Value |
 |--------|-------|
-| Language | Python |
-| Stars | 59,497 |
-| Forks | 9,352 |
-| Stars today | 626 |
+| Language | Swift |
+| Stars | 9,641 |
+| Forks | 409 |
+| Stars today | 1,198 |
 
 ---

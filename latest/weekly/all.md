@@ -1,8 +1,8 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-13T06:44:14Z
-**Total Repositories:** 11
+**Snapshot Time:** 2026-10-14T04:47:38Z
+**Total Repositories:** 10
 **New Entries:** 2
 **Quality Score:** 100.00/100
 
@@ -15,74 +15,74 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,354 |
-| Forks | 2,888 |
-| Stars this week | 27,263 |
+| Stars | 35,652 |
+| Forks | 3,097 |
+| Stars this week | 28,663 |
 
 ---
 
-## 2. [tester-army/e2e](https://github.com/tester-army/e2e)
-
-Next generation e2e testing framework for web and mobile apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 9,725 |
-| Forks | 464 |
-| Stars this week | 5,582 |
-
----
-
-## 3. [mattpocock/skills](https://github.com/mattpocock/skills)
+## 2. [mattpocock/skills](https://github.com/mattpocock/skills)
 
 Skills for Real Engineers. Straight from my .agents directory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 288,364 |
-| Forks | 24,206 |
-| Stars this week | 11,139 |
+| Stars | 289,948 |
+| Forks | 24,335 |
+| Stars this week | 11,955 |
 
 ---
 
-## 4. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 3. [tester-army/e2e](https://github.com/tester-army/e2e)
+
+Next generation e2e testing framework for web and mobile apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 10,190 |
+| Forks | 492 |
+| Stars this week | 4,426 |
+
+---
+
+## 4. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) 🆕
+
+A native, user-mode, multi-process, graphical debugger.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 8,492 |
+| Forks | 413 |
+| Stars this week | 857 |
+
+---
+
+## 5. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
 Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 62,007 |
-| Forks | 5,552 |
-| Stars this week | 4,482 |
+| Stars | 62,966 |
+| Forks | 5,649 |
+| Stars this week | 4,732 |
 
 ---
 
-## 5. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+## 6. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 100,187 |
-| Forks | 8,783 |
-| Stars this week | 3,762 |
-
----
-
-## 6. [flutter/flutter](https://github.com/flutter/flutter)
-
-Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-| Metric | Value |
-|--------|-------|
-| Language | Dart |
-| Stars | 180,011 |
-| Forks | 33,852 |
-| Stars this week | 806 |
+| Stars | 100,506 |
+| Forks | 8,805 |
+| Stars this week | 3,587 |
 
 ---
 
@@ -93,9 +93,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,106 |
-| Forks | 1,081 |
-| Stars this week | 1,144 |
+| Stars | 11,252 |
+| Forks | 1,093 |
+| Stars this week | 1,141 |
 
 ---
 
@@ -106,47 +106,34 @@ Give your agent CAD superpowers.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 19,739 |
-| Forks | 1,941 |
-| Stars this week | 2,441 |
+| Stars | 20,056 |
+| Forks | 1,971 |
+| Stars this week | 2,173 |
 
 ---
 
-## 9. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+## 9. [flutter/flutter](https://github.com/flutter/flutter)
 
-Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
+Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 7,325 |
-| Forks | 553 |
-| Stars this week | 2,056 |
+| Language | Dart |
+| Stars | 180,126 |
+| Forks | 34,046 |
+| Stars this week | 967 |
 
 ---
 
-## 10. [morluto/rea](https://github.com/morluto/rea) 🆕
+## 10. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) 🆕
 
-Reverse engineer anything with agents, from app behavior down to native binaries.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 173,244 |
-| Forks | 41,496 |
-| Stars this week | 130,471 |
-
----
-
-## 11. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) 🆕
-
-Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 | Metric | Value |
 |--------|-------|
-| Language | JavaScript |
-| Stars | 10,696 |
-| Forks | 1,296 |
-| Stars this week | 6,621 |
+| Language | HTML |
+| Stars | 54,467 |
+| Forks | 3,447 |
+| Stars this week | 9,867 |
 
 ---

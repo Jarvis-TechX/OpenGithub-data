@@ -1,66 +1,92 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-13T06:44:20Z
-**Total Repositories:** 14
+**Snapshot Time:** 2026-10-14T04:47:43Z
+**Total Repositories:** 13
 **New Entries:** 3
-**Quality Score:** 97.14/100
+**Quality Score:** 96.92/100
 
 ---
 
-## 1. [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
-
-Super simple group chat, without a subscription
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 4,772 |
-| Forks | 822 |
-| Stars this week | 42 |
-
----
-
-## 2. [mastodon/mastodon](https://github.com/mastodon/mastodon)
+## 1. [mastodon/mastodon](https://github.com/mastodon/mastodon)
 
 Your self-hosted, globally interconnected microblogging community
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,378 |
-| Forks | 7,511 |
-| Stars this week | 50 |
+| Stars | 50,403 |
+| Forks | 7,522 |
+| Stars this week | 91 |
 
 ---
 
-## 3. [rails/rails](https://github.com/rails/rails)
+## 2. [rails/rails](https://github.com/rails/rails)
 
 Ruby on Rails
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 58,819 |
-| Forks | 25,087 |
-| Stars this week | 36 |
+| Stars | 58,837 |
+| Forks | 25,267 |
+| Stars this week | 65 |
 
 ---
 
-## 4. [github/explore](https://github.com/github/explore)
+## 3. [github/explore](https://github.com/github/explore)
 
 Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,910 |
-| Forks | 14,604 |
-| Stars this week | 11 |
+| Stars | 4,911 |
+| Forks | 14,611 |
+| Stars this week | 15 |
 
 ---
 
-## 5. [swombat/souls-house](https://github.com/swombat/souls-house)
+## 4. [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
+
+Super simple group chat, without a subscription
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 4,779 |
+| Forks | 822 |
+| Stars this week | 39 |
+
+---
+
+## 5. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+
+🤖 Dependabot's core logic for creating update PRs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 5,806 |
+| Forks | 1,559 |
+| Stars this week | 13 |
+
+---
+
+## 6. [fastlane/fastlane](https://github.com/fastlane/fastlane)
+
+🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 42,244 |
+| Forks | 6,040 |
+| Stars this week | 53 |
+
+---
+
+## 7. [swombat/souls-house](https://github.com/swombat/souls-house)
 
 A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.
 
@@ -73,69 +99,56 @@ A platform for hosting persistent AI agents that live, rather than stateless ass
 
 ---
 
-## 6. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+## 8. [Pedro-Revez-Silva/shelfarr](https://github.com/Pedro-Revez-Silva/shelfarr) 🆕
 
-🤖 Dependabot's core logic for creating update PRs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 5,805 |
-| Forks | 1,557 |
-| Stars this week | 11 |
-
----
-
-## 7. [fastlane/fastlane](https://github.com/fastlane/fastlane) 🆕
-
-🚀 The easiest way to automate building and releasing your iOS and Android apps
+Self hosted Ebook and Audiobook management system
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 42,239 |
-| Forks | 6,041 |
-| Stars this week | 50 |
+| Stars | 369 |
+| Forks | 45 |
+| Stars this week | 7 |
 
 ---
 
-## 8. [opf/openproject](https://github.com/opf/openproject)
+## 9. [TheOdinProject/ruby-exercises](https://github.com/TheOdinProject/ruby-exercises)
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 310 |
+| Forks | 1,776 |
+
+---
+
+## 10. [opf/openproject](https://github.com/opf/openproject)
 
 OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,402 |
+| Stars | 16,411 |
 | Forks | 3,551 |
-| Stars this week | 86 |
+| Stars this week | 87 |
 
 ---
 
-## 9. [Freika/dawarich](https://github.com/Freika/dawarich)
+## 11. [ruby/ruby](https://github.com/ruby/ruby) 🆕
 
-Your favorite self-hostable alternative to Google Timeline (Google Location History)
+The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,660 |
-| Forks | 397 |
-| Stars this week | 65 |
+| Stars | 23,776 |
+| Forks | 5,659 |
+| Stars this week | 23 |
 
 ---
 
-## 10. [TheOdinProject/ruby-exercises](https://github.com/TheOdinProject/ruby-exercises)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 310 |
-| Forks | 1,775 |
-
----
-
-## 11. [jruby/jruby](https://github.com/jruby/jruby)
+## 12. [jruby/jruby](https://github.com/jruby/jruby)
 
 JRuby, an implementation of Ruby on the JVM
 
@@ -148,41 +161,15 @@ JRuby, an implementation of Ruby on the JVM
 
 ---
 
-## 12. [theforeman/foreman](https://github.com/theforeman/foreman) 🆕
+## 13. [github/scientist](https://github.com/github/scientist) 🆕
 
-an application that automates the lifecycle of servers
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 2,980 |
-| Forks | 1,053 |
-| Stars this week | 17 |
-
----
-
-## 13. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
-
-Metasploit Framework
+🔬 A Ruby library for carefully refactoring critical paths.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,136 |
-| Forks | 14,995 |
-| Stars this week | 52 |
-
----
-
-## 14. [jekyll/jekyll](https://github.com/jekyll/jekyll) 🆕
-
-🌐 Jekyll is a blog-aware static site generator in Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 51,706 |
-| Forks | 10,304 |
-| Stars this week | 16 |
+| Stars | 7,768 |
+| Forks | 506 |
+| Stars this week | 6 |
 
 ---

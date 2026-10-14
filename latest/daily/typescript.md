@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-13T06:44:00Z
-**Total Repositories:** 12
-**New Entries:** 6
+**Snapshot Time:** 2026-10-14T04:47:25Z
+**Total Repositories:** 17
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 173,232 |
-| Forks | 41,493 |
-| Stars today | 45,327 |
+| Stars | 214,840 |
+| Forks | 52,940 |
+| Stars today | 54,679 |
 
 ---
 
@@ -28,138 +28,203 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 27,543 |
-| Forks | 1,956 |
-| Stars today | 246 |
+| Stars | 28,404 |
+| Forks | 2,000 |
+| Stars today | 969 |
 
 ---
 
-## 3. [openclaw/openclaw](https://github.com/openclaw/openclaw)
+## 3. [vercel-labs/skills](https://github.com/vercel-labs/skills) 🆕
 
-The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+The open agent skills tool - npx skills
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 391,818 |
-| Forks | 82,381 |
-| Stars today | 181 |
+| Stars | 34,664 |
+| Forks | 2,955 |
+| Stars today | 190 |
 
 ---
 
-## 4. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) 🆕
+## 4. [every-app/open-seo](https://github.com/every-app/open-seo) 🆕
+
+Open source alternative to Semrush and Ahrefs
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 23,506 |
+| Forks | 3,109 |
+| Stars today | 170 |
+
+---
+
+## 5. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 39,756 |
-| Forks | 3,989 |
-| Stars today | 213 |
+| Stars | 39,977 |
+| Forks | 4,027 |
+| Stars today | 179 |
 
 ---
 
-## 5. [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) 🆕
+## 6. [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) 🆕
 
-A self-organizing Obsidian vault that gives AI coding agents persistent memory.
+Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,270 |
-| Forks | 597 |
-| Stars today | 69 |
+| Stars | 12,921 |
+| Forks | 1,377 |
+| Stars today | 119 |
 
 ---
 
-## 6. [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 🆕
+## 7. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) 🆕
 
-The open-source app everyone uses to manage agents at work
+Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 101,119 |
-| Forks | 16,989 |
-| Stars today | 633 |
+| Stars | 62,966 |
+| Forks | 5,649 |
+| Stars today | 873 |
 
 ---
 
-## 7. [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)
-
-Open-Source Generative UI Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 2,931 |
-| Forks | 333 |
-| Stars today | 250 |
-
----
-
-## 8. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) 🆕
-
-A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 1,110 |
-| Forks | 93 |
-| Stars today | 216 |
-
----
-
-## 9. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) 🆕
+## 8. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 34,262 |
-| Forks | 4,685 |
-| Stars today | 548 |
+| Stars | 34,807 |
+| Forks | 4,737 |
+| Stars today | 780 |
 
 ---
 
-## 10. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+## 9. [nab138/iloader](https://github.com/nab138/iloader) 🆕
 
-专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
+User friendly sideloader
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,614 |
-| Forks | 515 |
-| Stars today | 556 |
+| Stars | 3,926 |
+| Forks | 283 |
+| Stars today | 43 |
 
 ---
 
-## 11. [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) 🆕
+## 10. [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) 🆕
+
+The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 11,077 |
+| Forks | 331 |
+| Stars today | 200 |
+
+---
+
+## 11. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+
+A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 1,183 |
+| Forks | 100 |
+| Stars today | 82 |
+
+---
+
+## 12. [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) 🆕
+
+Make Every Team AI Native
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 5,434 |
+| Forks | 426 |
+| Stars today | 37 |
+
+---
+
+## 13. [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)
 
 Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 15,396 |
-| Forks | 3,606 |
-| Stars today | 168 |
+| Stars | 15,445 |
+| Forks | 3,616 |
+| Stars today | 70 |
 
 ---
 
-## 12. [agalwood/Motrix](https://github.com/agalwood/Motrix)
+## 14. [supabase/agent-skills](https://github.com/supabase/agent-skills) 🆕
 
-A full-featured download manager.
+Agent Skills to help developers using AI agents with Supabase
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 56,619 |
-| Forks | 5,072 |
-| Stars today | 113 |
+| Stars | 2,818 |
+| Forks | 237 |
+| Stars today | 27 |
+
+---
+
+## 15. [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)
+
+Open-Source Generative UI Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,078 |
+| Forks | 347 |
+| Stars today | 174 |
+
+---
+
+## 16. [Twigpine/openclaude](https://github.com/Twigpine/openclaude) 🆕
+
+runs anywhere. uses anything
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 33,836 |
+| Forks | 9,117 |
+| Stars today | 59 |
+
+---
+
+## 17. [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) 🆕
+
+#1 Persistent memory for AI coding agents based on real-world benchmarks
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 29,401 |
+| Forks | 2,590 |
+| Stars today | 45 |
 
 ---

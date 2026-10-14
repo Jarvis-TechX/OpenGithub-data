@@ -1,23 +1,23 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-13T06:43:57Z
-**Total Repositories:** 13
-**New Entries:** 7
+**Snapshot Time:** 2026-10-14T04:47:23Z
+**Total Repositories:** 15
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [open-webui/open-webui](https://github.com/open-webui/open-webui) 🆕
+## 1. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
-User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 155,308 |
-| Forks | 22,663 |
-| Stars today | 157 |
+| Stars | 63,901 |
+| Forks | 7,104 |
+| Stars today | 1,748 |
 
 ---
 
@@ -28,151 +28,177 @@ Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for fre
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 59,497 |
-| Forks | 9,352 |
-| Stars today | 626 |
+| Stars | 60,286 |
+| Forks | 9,438 |
+| Stars today | 1,461 |
 
 ---
 
-## 3. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+## 3. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 🆕
 
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 60,879 |
-| Forks | 6,826 |
-| Stars today | 1,691 |
+| Stars | 130,567 |
+| Forks | 20,490 |
+| Stars today | 341 |
 
 ---
 
-## 4. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
+## 4. [open-webui/open-webui](https://github.com/open-webui/open-webui)
 
-AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 61,315 |
-| Forks | 4,855 |
-| Stars today | 786 |
+| Stars | 155,597 |
+| Forks | 22,683 |
+| Stars today | 919 |
 
 ---
 
-## 5. [google/skills](https://github.com/google/skills) 🆕
+## 5. [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) 🆕
 
-Agent Skills for Google products and technologies
+Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 21,226 |
-| Forks | 1,775 |
-| Stars today | 43 |
+| Stars | 27,311 |
+| Forks | 2,870 |
+| Stars today | 225 |
 
 ---
 
-## 6. [public-apis/public-apis](https://github.com/public-apis/public-apis) 🆕
+## 6. [browser-use/video-use](https://github.com/browser-use/video-use) 🆕
 
-A collective list of free APIs
+Edit videos with coding agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 488,104 |
-| Forks | 54,108 |
-| Stars today | 432 |
+| Stars | 28,887 |
+| Forks | 3,415 |
+| Stars today | 95 |
 
 ---
 
-## 7. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+## 7. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) 🆕
+
+AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 64,176 |
+| Forks | 5,602 |
+| Stars today | 91 |
+
+---
+
+## 8. [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) 🆕
+
+The only downloader you need. 下载器的集大成者。
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 9,875 |
+| Forks | 659 |
+| Stars today | 70 |
+
+---
+
+## 9. [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) 🆕
+
+SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 1,459 |
+| Forks | 592 |
+| Stars today | 29 |
+
+---
+
+## 10. [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) 🆕
+
+PersonaPlex code.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 11,164 |
+| Forks | 1,529 |
+| Stars today | 148 |
+
+---
+
+## 11. [sgl-project/sglang](https://github.com/sgl-project/sglang) 🆕
+
+SGLang is a high-performance serving framework for large language models and multimodal models.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 37,106 |
+| Forks | 9,535 |
+| Stars today | 51 |
+
+---
+
+## 12. [rommapp/romm](https://github.com/rommapp/romm) 🆕
+
+A beautiful, powerful, self-hosted ROM manager and player.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 13,619 |
+| Forks | 774 |
+| Stars today | 111 |
+
+---
+
+## 13. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 46,435 |
-| Forks | 16,054 |
-| Stars today | 304 |
+| Stars | 46,651 |
+| Forks | 16,134 |
+| Stars today | 200 |
 
 ---
 
-## 8. [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) 🆕
+## 14. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🆕
 
-YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,835 |
-| Forks | 1,346 |
-| Stars today | 216 |
+| Stars | 77,043 |
+| Forks | 9,086 |
+| Stars today | 75 |
 
 ---
 
-## 9. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) 🆕
+## 15. [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) 🆕
 
-World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+🔥 MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 67,674 |
-| Forks | 8,642 |
-| Stars today | 635 |
-
----
-
-## 10. [pytorch/pytorch](https://github.com/pytorch/pytorch)
-
-Tensors and Dynamic neural networks in Python with strong GPU acceleration
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 104,755 |
-| Forks | 32,201 |
-| Stars today | 529 |
-
----
-
-## 11. [huggingface/transformers](https://github.com/huggingface/transformers)
-
-🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 167,618 |
-| Forks | 34,854 |
-| Stars today | 95 |
-
----
-
-## 12. [home-assistant/core](https://github.com/home-assistant/core) 🆕
-
-🏡 Open source home automation that puts local control and privacy first.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 91,426 |
-| Forks | 38,897 |
-| Stars today | 39 |
-
----
-
-## 13. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) 🆕
-
-VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 39,227 |
-| Forks | 4,440 |
-| Stars today | 290 |
+| Stars | 22,973 |
+| Forks | 3,186 |
+| Stars today | 14 |
 
 ---

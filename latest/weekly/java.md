@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-13T06:44:28Z
-**Total Repositories:** 15
-**New Entries:** 2
+**Snapshot Time:** 2026-10-14T04:47:51Z
+**Total Repositories:** 13
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plu
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,542 |
-| Forks | 305 |
-| Stars this week | 1,265 |
+| Stars | 5,587 |
+| Forks | 316 |
+| Stars this week | 1,070 |
 
 ---
 
@@ -28,9 +28,9 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 85,542 |
-| Forks | 9,499 |
-| Stars this week | 3,911 |
+| Stars | 86,499 |
+| Forks | 9,652 |
+| Stars this week | 4,986 |
 
 ---
 
@@ -41,35 +41,35 @@ AndroidIDE is an IDE for Android to develop full featured Android apps.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,241 |
-| Forks | 706 |
+| Stars | 3,250 |
+| Forks | 710 |
 | Stars this week | 51 |
 
 ---
 
-## 4. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
-
-MCP Server for Ghidra
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 11,154 |
-| Forks | 1,159 |
-| Stars this week | 839 |
-
----
-
-## 5. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+## 4. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
 A libre lightweight streaming front-end for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,103 |
-| Forks | 3,869 |
-| Stars this week | 209 |
+| Stars | 40,120 |
+| Forks | 3,872 |
+| Stars this week | 221 |
+
+---
+
+## 5. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+
+MCP Server for Ghidra
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 11,213 |
+| Forks | 1,168 |
+| Stars this week | 673 |
 
 ---
 
@@ -80,74 +80,74 @@ Java agent framework for Project Zomboid that enables runtime bytecode patching 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 214 |
-| Forks | 55 |
-| Stars this week | 53 |
+| Stars | 218 |
+| Forks | 56 |
+| Stars this week | 47 |
 
 ---
 
-## 7. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
+## 7. [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD) 🆕
+
+The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,107 |
+| Forks | 344 |
+| Stars this week | 55 |
+
+---
+
+## 8. [krahets/hello-algo](https://github.com/krahets/hello-algo) 🆕
+
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 130,671 |
+| Forks | 15,505 |
+| Stars this week | 292 |
+
+---
+
+## 9. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
 
 Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,922 |
+| Stars | 4,928 |
 | Forks | 333 |
-| Stars this week | 69 |
+| Stars this week | 68 |
 
 ---
 
-## 8. [kestra-io/kestra](https://github.com/kestra-io/kestra)
+## 10. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) 🆕
 
-Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+Advanced Sentry Mode for BYD Vehicles
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 29,529 |
-| Forks | 3,357 |
-| Stars this week | 298 |
+| Stars | 353 |
+| Forks | 98 |
+| Stars this week | 23 |
 
 ---
 
-## 9. [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
+## 11. [apache/beam](https://github.com/apache/beam)
 
-The automation tower defense RTS
+Apache Beam is a unified programming model for Batch and Streaming data processing.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 29,341 |
-| Forks | 3,835 |
-| Stars this week | 124 |
-
----
-
-## 10. [MCRcortex/voxy](https://github.com/MCRcortex/voxy)
-
-An LoD rendering mod for minecraft
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,309 |
-| Forks | 1,382 |
-| Stars this week | 24 |
-
----
-
-## 11. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 81,592 |
-| Forks | 44,696 |
-| Stars this week | 76 |
+| Stars | 8,684 |
+| Forks | 4,678 |
+| Stars this week | 10 |
 
 ---
 
@@ -158,47 +158,21 @@ Telegram for Android source
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,066 |
-| Forks | 10,233 |
-| Stars this week | 68 |
+| Stars | 30,074 |
+| Forks | 10,242 |
+| Stars this week | 66 |
 
 ---
 
-## 13. [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
+## 13. [Lucas0623z/NoteLite](https://github.com/Lucas0623z/NoteLite) 🆕
 
-A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+Open-source OMR and guided music practice: turn sheet music PDFs/images into MusicXML/MIDI, refine scores, and practice with MIDI or microphone feedback.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,901 |
-| Forks | 915 |
-| Stars this week | 41 |
-
----
-
-## 14. [apache/beam](https://github.com/apache/beam) 🆕
-
-Apache Beam is a unified programming model for Batch and Streaming data processing.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 8,682 |
-| Forks | 4,677 |
-| Stars this week | 7 |
-
----
-
-## 15. [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) 🆕
-
-SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 476 |
-| Forks | 21 |
-| Stars this week | 100 |
+| Stars | 1,020 |
+| Forks | 160 |
+| Stars this week | 91 |
 
 ---
