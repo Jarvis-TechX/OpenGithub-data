@@ -1,10 +1,10 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-14T04:47:43Z
-**Total Repositories:** 13
-**New Entries:** 3
-**Quality Score:** 96.92/100
+**Snapshot Time:** 2026-10-15T04:31:59Z
+**Total Repositories:** 15
+**New Entries:** 8
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,13 +15,26 @@ Your self-hosted, globally interconnected microblogging community
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,403 |
-| Forks | 7,522 |
+| Stars | 50,405 |
+| Forks | 7,523 |
 | Stars this week | 91 |
 
 ---
 
-## 2. [rails/rails](https://github.com/rails/rails)
+## 2. [antiwork/gumroad](https://github.com/antiwork/gumroad) 🆕
+
+See what sticks
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 9,916 |
+| Forks | 2,076 |
+| Stars this week | 131 |
+
+---
+
+## 3. [rails/rails](https://github.com/rails/rails)
 
 Ruby on Rails
 
@@ -29,64 +42,142 @@ Ruby on Rails
 |--------|-------|
 | Language | Ruby |
 | Stars | 58,837 |
-| Forks | 25,267 |
-| Stars this week | 65 |
+| Forks | 25,346 |
+| Stars this week | 61 |
 
 ---
 
-## 3. [github/explore](https://github.com/github/explore)
+## 4. [forem/forem](https://github.com/forem/forem) 🆕
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,797 |
+| Forks | 4,189 |
+| Stars this week | 15 |
+
+---
+
+## 5. [CMSgov/price-transparency-guide](https://github.com/CMSgov/price-transparency-guide) 🆕
+
+The technical implementation guide for the tri-departmental price transparency rule.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 460 |
+| Forks | 139 |
+| Stars this week | 1 |
+
+---
+
+## 6. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) 🆕
+
+A database of vulnerable Ruby Gems
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 1,074 |
+| Forks | 247 |
+| Stars this week | 1 |
+
+---
+
+## 7. [docusealco/docuseal](https://github.com/docusealco/docuseal) 🆕
+
+Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 18,723 |
+| Forks | 1,893 |
+| Stars this week | 62 |
+
+---
+
+## 8. [Pedro-Revez-Silva/shelfarr](https://github.com/Pedro-Revez-Silva/shelfarr)
+
+Self hosted Ebook and Audiobook management system
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 370 |
+| Forks | 45 |
+| Stars this week | 9 |
+
+---
+
+## 9. [instructure/canvas-lms](https://github.com/instructure/canvas-lms) 🆕
+
+The open LMS by Instructure, Inc.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 6,870 |
+| Forks | 3,034 |
+| Stars this week | 8 |
+
+---
+
+## 10. [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) 🆕
+
+A comprehensive collection of Quran resources
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 1,065 |
+| Forks | 135 |
+| Stars this week | 12 |
+
+---
+
+## 11. [ruby/ruby](https://github.com/ruby/ruby)
+
+The Ruby Programming Language
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 23,777 |
+| Forks | 5,659 |
+| Stars this week | 22 |
+
+---
+
+## 12. [github/explore](https://github.com/github/explore)
 
 Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,911 |
-| Forks | 14,611 |
-| Stars this week | 15 |
+| Stars | 4,912 |
+| Forks | 14,616 |
+| Stars this week | 14 |
 
 ---
 
-## 4. [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
+## 13. [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🆕
 
-Super simple group chat, without a subscription
+A curated list of engineering blogs
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,779 |
-| Forks | 822 |
-| Stars this week | 39 |
+| Stars | 38,767 |
+| Forks | 2,047 |
+| Stars this week | 35 |
 
 ---
 
-## 5. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-
-🤖 Dependabot's core logic for creating update PRs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 5,806 |
-| Forks | 1,559 |
-| Stars this week | 13 |
-
----
-
-## 6. [fastlane/fastlane](https://github.com/fastlane/fastlane)
-
-🚀 The easiest way to automate building and releasing your iOS and Android apps
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 42,244 |
-| Forks | 6,040 |
-| Stars this week | 53 |
-
----
-
-## 7. [swombat/souls-house](https://github.com/swombat/souls-house)
+## 14. [swombat/souls-house](https://github.com/swombat/souls-house)
 
 A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.
 
@@ -99,77 +190,15 @@ A platform for hosting persistent AI agents that live, rather than stateless ass
 
 ---
 
-## 8. [Pedro-Revez-Silva/shelfarr](https://github.com/Pedro-Revez-Silva/shelfarr) 🆕
-
-Self hosted Ebook and Audiobook management system
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 369 |
-| Forks | 45 |
-| Stars this week | 7 |
-
----
-
-## 9. [TheOdinProject/ruby-exercises](https://github.com/TheOdinProject/ruby-exercises)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 310 |
-| Forks | 1,776 |
-
----
-
-## 10. [opf/openproject](https://github.com/opf/openproject)
-
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 16,411 |
-| Forks | 3,551 |
-| Stars this week | 87 |
-
----
-
-## 11. [ruby/ruby](https://github.com/ruby/ruby) 🆕
-
-The Ruby Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 23,776 |
-| Forks | 5,659 |
-| Stars this week | 23 |
-
----
-
-## 12. [jruby/jruby](https://github.com/jruby/jruby)
+## 15. [jruby/jruby](https://github.com/jruby/jruby)
 
 JRuby, an implementation of Ruby on the JVM
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,922 |
+| Stars | 3,923 |
 | Forks | 951 |
-| Stars this week | 1 |
-
----
-
-## 13. [github/scientist](https://github.com/github/scientist) 🆕
-
-🔬 A Ruby library for carefully refactoring critical paths.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 7,768 |
-| Forks | 506 |
-| Stars this week | 6 |
+| Stars this week | 2 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-14T04:47:27Z
-**Total Repositories:** 10
-**New Entries:** 8
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-10-15T04:31:40Z
+**Total Repositories:** 13
+**New Entries:** 10
+**Quality Score:** 96.92/100
 
 ---
 
@@ -15,124 +15,161 @@ Free and open-source webshop solution for hostings
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,676 |
-| Forks | 536 |
-| Stars today | 71 |
+| Stars | 2,701 |
+| Forks | 542 |
+| Stars today | 29 |
 
 ---
 
-## 2. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
-
-A free open source IT asset/license management system
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 15,034 |
-| Forks | 4,015 |
-| Stars today | 2 |
-
----
-
-## 3. [yiisoft/yii2](https://github.com/yiisoft/yii2) 🆕
-
-Yii 2: The Fast, Secure and Professional PHP Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 14,279 |
-| Forks | 6,751 |
-| Stars today | 1 |
-
----
-
-## 4. [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)
+## 2. [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)
 
 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,803 |
-| Forks | 1,109 |
+| Stars | 5,821 |
+| Forks | 1,111 |
 | Stars today | 17 |
 
 ---
 
-## 5. [googleapis/google-cloud-php](https://github.com/googleapis/google-cloud-php) 🆕
+## 3. [mautic/mautic](https://github.com/mautic/mautic) 🆕
 
-Google Cloud Client Library for PHP
+Mautic: Open Source Marketing Automation Software.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,180 |
-| Forks | 466 |
+| Stars | 10,772 |
+| Forks | 3,497 |
+| Stars today | 15 |
 
 ---
 
-## 6. [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) 🆕
+## 4. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) 🆕
 
-Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️ If you find this project helpful, please consider giving us a star ⭐️
+The Roundcube Webmail suite
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 4,064 |
-| Forks | 745 |
+| Stars | 7,218 |
+| Forks | 1,793 |
 | Stars today | 4 |
 
 ---
 
-## 7. [mahdiMGF2/mirzabot](https://github.com/mahdiMGF2/mirzabot) 🆕
+## 5. [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) 🆕
 
-bot pro for sell vpn
+The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 674 |
-| Forks | 344 |
+| Stars | 1,629 |
+| Forks | 184 |
 | Stars today | 2 |
 
 ---
 
-## 8. [digininja/DVWA](https://github.com/digininja/DVWA) 🆕
+## 6. [modxcms-jp/evolution-jp](https://github.com/modxcms-jp/evolution-jp) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 33 |
+| Forks | 25 |
+
+---
+
+## 7. [matomo-org/matomo](https://github.com/matomo-org/matomo) 🆕
+
+Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 21,955 |
+| Forks | 2,914 |
+| Stars today | 4 |
+
+---
+
+## 8. [laravel/ai](https://github.com/laravel/ai) 🆕
+
+The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 1,224 |
+| Forks | 359 |
+| Stars today | 3 |
+
+---
+
+## 9. [monicahq/monica](https://github.com/monicahq/monica) 🆕
+
+Personal CRM. Remember everything about your friends, family and business relationships.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 25,483 |
+| Forks | 2,622 |
+| Stars today | 6 |
+
+---
+
+## 10. [glpi-project/glpi](https://github.com/glpi-project/glpi) 🆕
+
+GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 6,459 |
+| Forks | 1,832 |
+| Stars today | 2 |
+
+---
+
+## 11. [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) 🆕
+
+A pure PHP library for reading and writing word processing documents
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,589 |
+| Forks | 2,734 |
+| Stars today | 1 |
+
+---
+
+## 12. [Qloapps/QloApps](https://github.com/Qloapps/QloApps) 🆕
+
+QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 14,428 |
+| Forks | 821 |
+| Stars today | 2 |
+
+---
+
+## 13. [digininja/DVWA](https://github.com/digininja/DVWA)
 
 Damn Vulnerable Web Application (DVWA)
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,825 |
-| Forks | 5,193 |
-| Stars today | 9 |
-
----
-
-## 9. [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) 🆕
-
-A PHP client library for accessing Google APIs
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,812 |
-| Forks | 3,530 |
-| Stars today | 1 |
-
----
-
-## 10. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) 🆕
-
-Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 7,727 |
-| Forks | 3,568 |
-| Stars today | 7 |
+| Stars | 13,834 |
+| Forks | 5,195 |
+| Stars today | 6 |
 
 ---

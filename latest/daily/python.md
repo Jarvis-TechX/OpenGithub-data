@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-14T04:47:23Z
+**Snapshot Time:** 2026-10-15T04:31:35Z
 **Total Repositories:** 15
-**New Entries:** 11
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
@@ -15,190 +15,190 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 63,901 |
-| Forks | 7,104 |
-| Stars today | 1,748 |
+| Stars | 66,890 |
+| Forks | 7,362 |
+| Stars today | 3,538 |
 
 ---
 
-## 2. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+## 2. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 🆕
+
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 49,537 |
+| Forks | 4,433 |
+| Stars today | 163 |
+
+---
+
+## 3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 🆕
+
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 52,650 |
+| Forks | 4,780 |
+| Stars today | 103 |
+
+---
+
+## 4. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) 🆕
+
+Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 27,652 |
+| Forks | 1,513 |
+| Stars today | 2,109 |
+
+---
+
+## 5. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 
 Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 60,286 |
-| Forks | 9,438 |
-| Stars today | 1,461 |
+| Stars | 60,589 |
+| Forks | 9,477 |
+| Stars today | 540 |
 
 ---
 
-## 3. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 🆕
+## 6. [home-assistant/core](https://github.com/home-assistant/core) 🆕
 
-利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+🏡 Open source home automation that puts local control and privacy first.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 130,567 |
-| Forks | 20,490 |
-| Stars today | 341 |
+| Stars | 91,507 |
+| Forks | 38,929 |
+| Stars today | 145 |
 
 ---
 
-## 4. [open-webui/open-webui](https://github.com/open-webui/open-webui)
+## 7. [python/cpython](https://github.com/python/cpython) 🆕
 
-User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+The Python programming language
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 155,597 |
-| Forks | 22,683 |
-| Stars today | 919 |
+| Stars | 77,554 |
+| Forks | 38,374 |
+| Stars today | 130 |
 
 ---
 
-## 5. [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) 🆕
+## 8. [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) 🆕
 
-Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 27,311 |
-| Forks | 2,870 |
-| Stars today | 225 |
+| Stars | 9,047 |
+| Forks | 1,472 |
+| Stars today | 247 |
 
 ---
 
-## 6. [browser-use/video-use](https://github.com/browser-use/video-use) 🆕
+## 9. [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) 🆕
 
-Edit videos with coding agents
+Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 28,887 |
-| Forks | 3,415 |
-| Stars today | 95 |
+| Stars | 2,878 |
+| Forks | 372 |
+| Stars today | 16 |
 
 ---
 
-## 7. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) 🆕
+## 10. [wshobson/agents](https://github.com/wshobson/agents) 🆕
 
-AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 64,176 |
-| Forks | 5,602 |
-| Stars today | 91 |
+| Stars | 40,791 |
+| Forks | 4,330 |
+| Stars today | 118 |
 
 ---
 
-## 8. [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) 🆕
+## 11. [p-e-w/heretic](https://github.com/p-e-w/heretic) 🆕
 
-The only downloader you need. 下载器的集大成者。
+Fully automatic censorship removal for language models
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,875 |
-| Forks | 659 |
-| Stars today | 70 |
+| Stars | 35,305 |
+| Forks | 3,994 |
+| Stars today | 181 |
 
 ---
 
-## 9. [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) 🆕
-
-SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 1,459 |
-| Forks | 592 |
-| Stars today | 29 |
-
----
-
-## 10. [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) 🆕
-
-PersonaPlex code.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 11,164 |
-| Forks | 1,529 |
-| Stars today | 148 |
-
----
-
-## 11. [sgl-project/sglang](https://github.com/sgl-project/sglang) 🆕
+## 12. [sgl-project/sglang](https://github.com/sgl-project/sglang)
 
 SGLang is a high-performance serving framework for large language models and multimodal models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 37,106 |
-| Forks | 9,535 |
-| Stars today | 51 |
+| Stars | 37,154 |
+| Forks | 9,565 |
+| Stars today | 54 |
 
 ---
 
-## 12. [rommapp/romm](https://github.com/rommapp/romm) 🆕
+## 13. [isair/jarvis](https://github.com/isair/jarvis) 🆕
 
-A beautiful, powerful, self-hosted ROM manager and player.
+Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 13,619 |
-| Forks | 774 |
-| Stars today | 111 |
+| Stars | 2,068 |
+| Forks | 409 |
+| Stars today | 31 |
 
 ---
 
-## 13. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+## 14. [jamiepine/voicebox](https://github.com/jamiepine/voicebox) 🆕
 
-The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+The open-source AI voice studio. Clone, dictate, create.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 46,651 |
-| Forks | 16,134 |
-| Stars today | 200 |
+| Stars | 57,513 |
+| Forks | 7,200 |
+| Stars today | 121 |
 
 ---
 
-## 14. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🆕
+## 15. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) 🆕
 
-A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 77,043 |
-| Forks | 9,086 |
-| Stars today | 75 |
-
----
-
-## 15. [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) 🆕
-
-🔥 MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 22,973 |
-| Forks | 3,186 |
-| Stars today | 14 |
+| Stars | 38,124 |
+| Forks | 4,281 |
+| Stars today | 181 |
 
 ---

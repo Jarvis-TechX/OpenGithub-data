@@ -1,8 +1,8 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-14T04:47:59Z
-**Total Repositories:** 18
+**Snapshot Time:** 2026-10-15T04:32:16Z
+**Total Repositories:** 19
 **New Entries:** 1
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 278,699 |
-| Forks | 41,510 |
-| Stars this month | 22,653 |
+| Stars | 279,580 |
+| Forks | 41,600 |
+| Stars this month | 22,689 |
 
 ---
 
@@ -28,9 +28,9 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 106,303 |
-| Forks | 11,081 |
-| Stars this month | 12,820 |
+| Stars | 106,743 |
+| Forks | 11,106 |
+| Stars this month | 12,981 |
 
 ---
 
@@ -41,35 +41,35 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 55,698 |
-| Forks | 10,870 |
-| Stars this month | 23,902 |
+| Stars | 56,544 |
+| Forks | 11,011 |
+| Stars this month | 23,503 |
 
 ---
 
-## 4. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 162,896 |
-| Forks | 8,805 |
-| Stars this month | 26,559 |
-
----
-
-## 5. [vercel/next.js](https://github.com/vercel/next.js)
+## 4. [vercel/next.js](https://github.com/vercel/next.js)
 
 The React Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 143,222 |
-| Forks | 34,861 |
-| Stars this month | 1,907 |
+| Stars | 143,015 |
+| Forks | 34,933 |
+| Stars this month | 1,959 |
+
+---
+
+## 5. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 163,746 |
+| Forks | 8,824 |
+| Stars this month | 26,368 |
 
 ---
 
@@ -80,22 +80,22 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 29,332 |
-| Forks | 1,793 |
-| Stars this month | 26,354 |
+| Stars | 29,656 |
+| Forks | 1,829 |
+| Stars this month | 26,509 |
 
 ---
 
-## 7. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
+## 7. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) 🆕
 
-Vercel's official collection of agent skills
+Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 32,374 |
-| Forks | 2,825 |
-| Stars this month | 1,294 |
+| Stars | 11,884 |
+| Forks | 1,452 |
+| Stars this month | 10,854 |
 
 ---
 
@@ -106,48 +106,48 @@ List of Permanent Free LLM API (API Keys)
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,142 |
-| Forks | 1,093 |
-| Stars this month | 2,585 |
+| Stars | 10,257 |
+| Forks | 1,114 |
+| Stars this month | 2,654 |
 
 ---
 
-## 9. [hughhowey/neo](https://github.com/hughhowey/neo)
+## 9. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
 
-A novel-writing tool created by a novelist.
+Vercel's official collection of agent skills
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,441 |
-| Forks | 186 |
-| Stars this month | 1,007 |
+| Stars | 32,438 |
+| Forks | 2,831 |
+| Stars this month | 1,311 |
 
 ---
 
-## 10. [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase)
-
-Modular logistics and supply chain operating system (LSOS)
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 4,328 |
-| Forks | 1,129 |
-| Stars this month | 1,951 |
-
----
-
-## 11. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 10. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 The design language that makes your AI harness better at design.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 80,847 |
-| Forks | 4,843 |
-| Stars this month | 13,303 |
+| Stars | 81,287 |
+| Forks | 4,869 |
+| Stars this month | 13,472 |
+
+---
+
+## 11. [hughhowey/neo](https://github.com/hughhowey/neo)
+
+A novel-writing tool created by a novelist.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 1,455 |
+| Forks | 188 |
+| Stars this month | 1,016 |
 
 ---
 
@@ -158,9 +158,9 @@ The design language that makes your AI harness better at design.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 68,605 |
-| Forks | 6,817 |
-| Stars this month | 6,224 |
+| Stars | 68,699 |
+| Forks | 6,831 |
+| Stars this month | 6,261 |
 
 ---
 
@@ -171,9 +171,9 @@ The design language that makes your AI harness better at design.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 11,913 |
-| Forks | 821 |
-| Stars this month | 3,704 |
+| Stars | 12,179 |
+| Forks | 839 |
+| Stars this month | 3,809 |
 
 ---
 
@@ -184,35 +184,35 @@ Home of the WebKit project, the browser engine used by Safari, Mail, App Store a
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,231 |
-| Forks | 2,255 |
-| Stars this month | 153 |
+| Stars | 10,244 |
+| Forks | 2,259 |
+| Stars this month | 162 |
 
 ---
 
-## 15. [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)
+## 15. [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase)
+
+Modular logistics and supply chain operating system (LSOS)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 4,337 |
+| Forks | 1,131 |
+| Stars this month | 1,830 |
+
+---
+
+## 16. [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)
 
 Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,637 |
-| Forks | 694 |
-| Stars this month | 1,745 |
-
----
-
-## 16. [spicetify/cli](https://github.com/spicetify/cli)
-
-Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 24,984 |
-| Forks | 973 |
-| Stars this month | 585 |
+| Stars | 4,685 |
+| Forks | 699 |
+| Stars this month | 1,761 |
 
 ---
 
@@ -223,21 +223,34 @@ Command-line tool to customize Spotify client. Supports Windows, macOS, and Linu
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 16,811 |
-| Forks | 2,826 |
-| Stars this month | 1,044 |
+| Stars | 16,863 |
+| Forks | 2,830 |
+| Stars this month | 1,073 |
 
 ---
 
-## 18. [qist/tvbox](https://github.com/qist/tvbox) 🆕
+## 18. [spicetify/cli](https://github.com/spicetify/cli)
+
+Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 25,011 |
+| Forks | 975 |
+| Stars this month | 595 |
+
+---
+
+## 19. [qist/tvbox](https://github.com/qist/tvbox)
 
 OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 11,963 |
-| Forks | 4,223 |
-| Stars this month | 768 |
+| Stars | 11,997 |
+| Forks | 4,233 |
+| Stars this month | 788 |
 
 ---

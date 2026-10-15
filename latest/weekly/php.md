@@ -1,79 +1,53 @@
 # GitHub Trending - Php
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-14T04:47:45Z
-**Total Repositories:** 17
-**New Entries:** 4
-**Quality Score:** 95.29/100
+**Snapshot Time:** 2026-10-15T04:32:00Z
+**Total Repositories:** 15
+**New Entries:** 5
+**Quality Score:** 94.67/100
 
 ---
 
-## 1. [pterodactyl/panel](https://github.com/pterodactyl/panel)
-
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,327 |
-| Forks | 2,719 |
-| Stars this week | 52 |
-
----
-
-## 2. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
+## 1. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
 
 Free and open-source webshop solution for hostings
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,676 |
-| Forks | 536 |
-| Stars this week | 256 |
+| Stars | 2,701 |
+| Forks | 542 |
+| Stars this week | 290 |
 
 ---
 
-## 3. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+## 2. [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) 🆕
 
-A free, self-hostable news aggregator…
+个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 16,283 |
-| Forks | 1,301 |
-| Stars this week | 50 |
+| Stars | 5,821 |
+| Forks | 1,111 |
+| Stars this week | 71 |
 
 ---
 
-## 4. [symfony/symfony](https://github.com/symfony/symfony)
+## 3. [koel/koel](https://github.com/koel/koel)
 
-The Symfony PHP framework
+Music streaming solution that works.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,194 |
-| Forks | 9,904 |
-| Stars this week | 26 |
+| Stars | 17,281 |
+| Forks | 2,112 |
+| Stars this week | 17 |
 
 ---
 
-## 5. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
-
-📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,583 |
-| Forks | 1,115 |
-| Stars this week | 35 |
-
----
-
-## 6. [laravel/framework](https://github.com/laravel/framework)
+## 4. [laravel/framework](https://github.com/laravel/framework)
 
 Laravel is a web application framework with expressive, elegant syntax.
 
@@ -81,103 +55,77 @@ Laravel is a web application framework with expressive, elegant syntax.
 |--------|-------|
 | Language | PHP |
 | Stars | 34,962 |
-| Forks | 12,012 |
-| Stars this week | 26 |
+| Forks | 12,015 |
+| Stars this week | 25 |
 
 ---
 
-## 7. [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)
+## 5. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-Modern open-source time-tracking app
+A free, self-hostable news aggregator…
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 8,999 |
-| Forks | 516 |
-| Stars this week | 38 |
+| Stars | 16,287 |
+| Forks | 1,303 |
+| Stars this week | 47 |
 
 ---
 
-## 8. [filamentphp/filament](https://github.com/filamentphp/filament)
+## 6. [laravel/ai](https://github.com/laravel/ai) 🆕
 
-A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 32,254 |
-| Forks | 4,219 |
-| Stars this week | 68 |
+| Stars | 1,224 |
+| Forks | 359 |
+| Stars this week | 11 |
 
 ---
 
-## 9. [koel/koel](https://github.com/koel/koel) 🆕
-
-Music streaming solution that works.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 17,279 |
-| Forks | 2,112 |
-| Stars this week | 12 |
-
----
-
-## 10. [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter)
-
-An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,838 |
-| Forks | 212 |
-| Stars this week | 38 |
-
----
-
-## 11. [easychen/opc-methodology](https://github.com/easychen/opc-methodology) 🆕
-
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 16,918 |
-| Forks | 1,915 |
-| Stars this week | 91 |
-
----
-
-## 12. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
-
-A free open source IT asset/license management system
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 15,034 |
-| Forks | 4,015 |
-| Stars this week | 27 |
-
----
-
-## 13. [espocrm/espocrm](https://github.com/espocrm/espocrm)
+## 7. [espocrm/espocrm](https://github.com/espocrm/espocrm)
 
 EspoCRM – Open Source CRM Application
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,485 |
-| Forks | 1,000 |
-| Stars this week | 44 |
+| Stars | 3,489 |
+| Forks | 1,003 |
+| Stars this week | 41 |
 
 ---
 
-## 14. [php-fig/http-message](https://github.com/php-fig/http-message) 🆕
+## 8. [pterodactyl/panel](https://github.com/pterodactyl/panel)
+
+Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 9,334 |
+| Forks | 2,724 |
+| Stars this week | 56 |
+
+---
+
+## 9. [easychen/opc-methodology](https://github.com/easychen/opc-methodology)
+
+《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 16,929 |
+| Forks | 1,918 |
+| Stars this week | 78 |
+
+---
+
+## 10. [php-fig/http-message](https://github.com/php-fig/http-message)
 
 The purpose of this PSR is to provide a set of common interfaces for HTTP messages as described in RFC 7230 and RFC 7231
 
@@ -189,7 +137,7 @@ The purpose of this PSR is to provide a set of common interfaces for HTTP messag
 
 ---
 
-## 15. [php-fig/log](https://github.com/php-fig/log)
+## 11. [php-fig/log](https://github.com/php-fig/log)
 
 | Metric | Value |
 |--------|-------|
@@ -199,7 +147,31 @@ The purpose of this PSR is to provide a set of common interfaces for HTTP messag
 
 ---
 
-## 16. [voku/portable-ascii](https://github.com/voku/portable-ascii)
+## 12. [doctrine/inflector](https://github.com/doctrine/inflector) 🆕
+
+Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 11,332 |
+| Forks | 143 |
+
+---
+
+## 13. [ramsey/collection](https://github.com/ramsey/collection) 🆕
+
+🗂️ A PHP library for representing and manipulating collections.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 1,202 |
+| Forks | 54 |
+
+---
+
+## 14. [voku/portable-ascii](https://github.com/voku/portable-ascii)
 
 🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP.
 
@@ -212,12 +184,12 @@ The purpose of this PSR is to provide a set of common interfaces for HTTP messag
 
 ---
 
-## 17. [php-fig/container](https://github.com/php-fig/container)
+## 15. [php-fig/simple-cache](https://github.com/php-fig/simple-cache) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,989 |
-| Forks | 54 |
+| Stars | 8,072 |
+| Forks | 56 |
 
 ---

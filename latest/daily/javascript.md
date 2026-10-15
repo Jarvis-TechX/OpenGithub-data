@@ -1,87 +1,113 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-14T04:47:23Z
-**Total Repositories:** 6
-**New Entries:** 2
+**Snapshot Time:** 2026-10-15T04:31:36Z
+**Total Repositories:** 8
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+## 1. [react/react](https://github.com/react/react) 🆕
+
+The library for web and native user interfaces.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 251,032 |
+| Forks | 51,503 |
+| Stars today | 140 |
+
+---
+
+## 2. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) 🆕
+
+一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 22,434 |
+| Forks | 1,345 |
+| Stars today | 620 |
+
+---
+
+## 3. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
 
 A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 55,698 |
-| Forks | 10,870 |
-| Stars today | 1,961 |
+| Stars | 56,544 |
+| Forks | 11,011 |
+| Stars today | 1,347 |
 
 ---
 
-## 2. [Javis603/token-monitor](https://github.com/Javis603/token-monitor)
+## 4. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
 
-Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,049 |
-| Forks | 286 |
-| Stars today | 77 |
+| Stars | 54,784 |
+| Forks | 8,114 |
+| Stars today | 193 |
 
 ---
 
-## 3. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) 🆕
+## 5. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 🆕
 
-The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 17,337 |
-| Forks | 934 |
-| Stars today | 101 |
-
----
-
-## 4. [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer)
-
-Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 8,960 |
-| Forks | 1,024 |
-| Stars today | 32 |
-
----
-
-## 5. [truelockmc/streambert](https://github.com/truelockmc/streambert) 🆕
-
-A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 6,265 |
-| Forks | 593 |
-| Stars today | 28 |
-
----
-
-## 6. [chaolucky18/xuexitongScript](https://github.com/chaolucky18/xuexitongScript)
-
-学习通自动刷课脚本
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 2,889 |
-| Forks | 375 |
+| Stars | 1,756 |
+| Forks | 184 |
 | Stars today | 45 |
+
+---
+
+## 6. [github/awesome-copilot](https://github.com/github/awesome-copilot) 🆕
+
+Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 40,032 |
+| Forks | 5,125 |
+| Stars today | 38 |
+
+---
+
+## 7. [sandeco/reversa](https://github.com/sandeco/reversa) 🆕
+
+Transform legacy systems into executable specifications for AI coding agents
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 1,750 |
+| Forks | 441 |
+| Stars today | 11 |
+
+---
+
+## 8. [jquery/jquery](https://github.com/jquery/jquery) 🆕
+
+jQuery JavaScript Library
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 59,795 |
+| Forks | 20,514 |
+| Stars today | 2 |
 
 ---

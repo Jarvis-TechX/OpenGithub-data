@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-14T04:47:40Z
+**Snapshot Time:** 2026-10-15T04:31:56Z
 **Total Repositories:** 9
-**New Entries:** 1
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 11,213 |
-| Forks | 1,365 |
-| Stars this week | 5,446 |
+| Stars | 11,883 |
+| Forks | 1,452 |
+| Stars this week | 5,132 |
 
 ---
 
@@ -28,35 +28,35 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 106,303 |
-| Forks | 11,081 |
-| Stars this week | 4,302 |
+| Stars | 106,743 |
+| Forks | 11,106 |
+| Stars this week | 4,181 |
 
 ---
 
-## 3. [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-
-⭐️ Companies that don't have a broken hiring process
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 52,671 |
-| Forks | 3,965 |
-| Stars this week | 289 |
-
----
-
-## 4. [MiaAI-Lab/sparkDash](https://github.com/MiaAI-Lab/sparkDash)
+## 3. [MiaAI-Lab/sparkDash](https://github.com/MiaAI-Lab/sparkDash)
 
 sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 681 |
-| Forks | 142 |
-| Stars this week | 142 |
+| Stars | 689 |
+| Forks | 145 |
+| Stars this week | 140 |
+
+---
+
+## 4. [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
+⭐️ Companies that don't have a broken hiring process
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 52,692 |
+| Forks | 3,966 |
+| Stars this week | 292 |
 
 ---
 
@@ -67,60 +67,60 @@ List of Permanent Free LLM API (API Keys)
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,142 |
-| Forks | 1,093 |
-| Stars this week | 809 |
+| Stars | 10,257 |
+| Forks | 1,114 |
+| Stars this week | 845 |
 
 ---
 
-## 6. [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror)
-
-MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 24,117 |
-| Forks | 4,577 |
-| Stars this week | 212 |
-
----
-
-## 7. [greensock/GSAP](https://github.com/greensock/GSAP) 🆕
+## 6. [greensock/GSAP](https://github.com/greensock/GSAP)
 
 GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 29,181 |
-| Forks | 2,255 |
-| Stars this week | 338 |
+| Stars | 29,232 |
+| Forks | 2,257 |
+| Stars this week | 352 |
 
 ---
 
-## 8. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 7. [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) 🆕
 
-The design language that makes your AI harness better at design.
+Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 80,847 |
-| Forks | 4,843 |
-| Stars this week | 3,216 |
+| Stars | 2,318 |
+| Forks | 179 |
+| Stars this week | 67 |
 
 ---
 
-## 9. [kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)
+## 8. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) 🆕
 
-A functional tools for z*e devices (F50 | U30 Air)
+一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,847 |
-| Forks | 315 |
-| Stars this week | 320 |
+| Stars | 22,434 |
+| Forks | 1,346 |
+| Stars this week | 972 |
+
+---
+
+## 9. [axios/axios](https://github.com/axios/axios) 🆕
+
+Promise based HTTP client for the browser and node.js
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 109,302 |
+| Forks | 11,929 |
+| Stars this week | 115 |
 
 ---

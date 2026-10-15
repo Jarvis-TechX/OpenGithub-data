@@ -1,139 +1,152 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-14T04:47:31Z
-**Total Repositories:** 10
+**Snapshot Time:** 2026-10-15T04:31:46Z
+**Total Repositories:** 11
 **New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
+## 1. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) 🆕
 
-An MCP-based chatbot | 一个基于MCP的聊天机器人
+CUDA Templates and Python DSLs for High-Performance Linear Algebra
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 30,964 |
-| Forks | 7,244 |
-| Stars today | 163 |
+| Stars | 10,584 |
+| Forks | 2,128 |
+| Stars today | 5 |
 
 ---
 
-## 2. [microsoft/BitNet](https://github.com/microsoft/BitNet)
+## 2. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) 🆕
+
+FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 32,507 |
+| Forks | 4,608 |
+| Stars today | 46 |
+
+---
+
+## 3. [microsoft/BitNet](https://github.com/microsoft/BitNet)
 
 Official inference framework for 1-bit LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,137 |
-| Forks | 3,830 |
-| Stars today | 333 |
+| Stars | 41,163 |
+| Forks | 3,832 |
+| Stars today | 52 |
 
 ---
 
-## 3. [SethRobinson/Patchy](https://github.com/SethRobinson/Patchy) 🆕
+## 4. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
-Open-source image editor focused on PSD compatibility and workflows familiar to Adobe Photoshop users.
+An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 583 |
-| Forks | 33 |
-| Stars today | 41 |
+| Stars | 31,135 |
+| Forks | 7,274 |
+| Stars today | 164 |
 
 ---
 
-## 4. [react/react-native](https://github.com/react/react-native) 🆕
+## 5. [WerWolv/ImHex](https://github.com/WerWolv/ImHex) 🆕
 
-A framework for building native applications using React
+🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 126,666 |
-| Forks | 25,315 |
-| Stars today | 19 |
+| Stars | 55,203 |
+| Forks | 2,502 |
+| Stars today | 59 |
 
 ---
 
-## 5. [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX)
+## 6. [colmap/colmap](https://github.com/colmap/colmap) 🆕
 
-Diablo build for modern operating systems
+COLMAP - Structure-from-Motion and Multi-View Stereo
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 9,836 |
-| Forks | 1,068 |
-| Stars today | 7 |
+| Stars | 12,953 |
+| Forks | 2,187 |
+| Stars today | 20 |
 
 ---
 
-## 6. [f3d-app/f3d](https://github.com/f3d-app/f3d) 🆕
+## 7. [pichenettes/eurorack](https://github.com/pichenettes/eurorack) 🆕
 
-Fast and minimalist 3D viewer.
+Eurorack modules
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 4,826 |
-| Forks | 457 |
-| Stars today | 29 |
+| Stars | 3,290 |
+| Forks | 886 |
+| Stars today | 17 |
 
 ---
 
-## 7. [scummvm/scummvm](https://github.com/scummvm/scummvm) 🆕
+## 8. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
 
-ScummVM main repository
+LLM inference in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,850 |
-| Forks | 1,427 |
-| Stars today | 3 |
+| Stars | 131,203 |
+| Forks | 24,415 |
+| Stars today | 164 |
 
 ---
 
-## 8. [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) 🆕
+## 9. [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) 🆕
 
-☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
+A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,542 |
-| Forks | 215 |
-| Stars today | 4 |
+| Stars | 6,087 |
+| Forks | 516 |
+| Stars today | 64 |
 
 ---
 
-## 9. [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 🆕
-
-《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 23,742 |
-| Forks | 2,871 |
-| Stars today | 27 |
-
----
-
-## 10. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) 🆕
+## 10. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
 
 Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,441 |
-| Forks | 175 |
-| Stars today | 28 |
+| Stars | 3,476 |
+| Forks | 182 |
+| Stars today | 42 |
+
+---
+
+## 11. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
+
+An Open Source Machine Learning Framework for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 200,970 |
+| Forks | 79,431 |
+| Stars today | 79 |
 
 ---

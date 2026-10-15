@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-14T04:48:15Z
+**Snapshot Time:** 2026-10-15T04:32:33Z
 **Total Repositories:** 17
-**New Entries:** 1
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Free and open-source macOS menu bar toolkit.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 27,013 |
-| Forks | 1,168 |
-| Stars this month | 8,374 |
+| Stars | 27,252 |
+| Forks | 1,190 |
+| Stars this month | 8,364 |
 
 ---
 
@@ -28,61 +28,61 @@ Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,474 |
-| Forks | 491 |
-| Stars this month | 5,469 |
+| Stars | 8,534 |
+| Forks | 498 |
+| Stars this month | 5,402 |
 
 ---
 
-## 3. [dwarvesf/hidden](https://github.com/dwarvesf/hidden)
+## 3. [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) 🆕
+
+📺 Homebrew's official macOS GUI
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,578 |
+| Forks | 83 |
+| Stars this month | 1,760 |
+
+---
+
+## 4. [dwarvesf/hidden](https://github.com/dwarvesf/hidden)
 
 An ultra-light MacOS utility that helps hide menu bar icons
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,167 |
-| Forks | 521 |
-| Stars this month | 509 |
+| Stars | 15,172 |
+| Forks | 522 |
+| Stars this month | 511 |
 
 ---
 
-## 4. [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
-
-Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 5,311 |
-| Forks | 352 |
-| Stars this month | 2,097 |
-
----
-
-## 5. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
-
-Run a virtual iPhone on an Apple Silicon Mac.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 15,286 |
-| Forks | 1,801 |
-| Stars this month | 3,545 |
-
----
-
-## 6. [openai/tart](https://github.com/openai/tart)
+## 5. [openai/tart](https://github.com/openai/tart)
 
 macOS and Linux VMs on Apple Silicon to use in CI and other automations
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,493 |
-| Forks | 405 |
-| Stars this month | 756 |
+| Stars | 7,515 |
+| Forks | 404 |
+| Stars this month | 772 |
+
+---
+
+## 6. [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
+
+Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,078 |
+| Forks | 472 |
+| Stars this month | 328 |
 
 ---
 
@@ -93,9 +93,9 @@ TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,028 |
+| Stars | 11,034 |
 | Forks | 1,110 |
-| Stars this month | 390 |
+| Stars this month | 391 |
 
 ---
 
@@ -106,125 +106,125 @@ Community fork of PlayCover
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,941 |
-| Forks | 1,006 |
-| Stars this month | 242 |
+| Stars | 11,948 |
+| Forks | 1,005 |
+| Stars this month | 235 |
 
 ---
 
-## 9. [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
-
-Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 3,065 |
-| Forks | 470 |
-| Stars this month | 322 |
-
----
-
-## 10. [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
-
-🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 34,463 |
-| Forks | 1,025 |
-| Stars this month | 365 |
-
----
-
-## 11. [swiftlang/swift](https://github.com/swiftlang/swift)
-
-The Swift Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 70,503 |
-| Forks | 10,847 |
-| Stars this month | 230 |
-
----
-
-## 12. [iina/iina](https://github.com/iina/iina)
+## 9. [iina/iina](https://github.com/iina/iina)
 
 The modern video player for macOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 46,766 |
-| Forks | 2,952 |
-| Stars this month | 516 |
+| Stars | 46,782 |
+| Forks | 2,953 |
+| Stars this month | 512 |
 
 ---
 
-## 13. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+## 10. [swiftlang/swift](https://github.com/swiftlang/swift)
+
+The Swift Programming Language
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 70,502 |
+| Forks | 10,850 |
+| Stars this month | 229 |
+
+---
+
+## 11. [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
+
+Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 5,471 |
+| Forks | 359 |
+| Stars this month | 1,929 |
+
+---
+
+## 12. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 
 Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,160 |
-| Forks | 2,500 |
-| Stars this month | 1,257 |
+| Stars | 28,174 |
+| Forks | 2,506 |
+| Stars this month | 1,264 |
 
 ---
 
-## 14. [exelban/stats](https://github.com/exelban/stats)
-
-macOS system monitor in your menu bar
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 42,532 |
-| Forks | 1,573 |
-| Stars this month | 842 |
-
----
-
-## 15. [iliyami/MacSai](https://github.com/iliyami/MacSai)
-
-Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,840 |
-| Forks | 108 |
-| Stars this month | 319 |
-
----
-
-## 16. [YangJiiii/3105](https://github.com/YangJiiii/3105) 🆕
-
-Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 885 |
-| Forks | 158 |
-| Stars this month | 259 |
-
----
-
-## 17. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+## 13. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
 An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,032 |
-| Forks | 82 |
-| Stars this month | 389 |
+| Stars | 1,051 |
+| Forks | 84 |
+| Stars this month | 391 |
+
+---
+
+## 14. [YangJiiii/3105](https://github.com/YangJiiii/3105)
+
+Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 892 |
+| Forks | 162 |
+| Stars this month | 245 |
+
+---
+
+## 15. [exelban/stats](https://github.com/exelban/stats)
+
+macOS system monitor in your menu bar
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 42,567 |
+| Forks | 1,573 |
+| Stars this month | 854 |
+
+---
+
+## 16. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
+
+Telegram-iOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,227 |
+| Forks | 3,045 |
+| Stars this month | 276 |
+
+---
+
+## 17. [claration/feather](https://github.com/claration/feather) 🆕
+
+Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,843 |
+| Forks | 437 |
+| Stars this month | 171 |
 
 ---

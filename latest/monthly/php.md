@@ -1,9 +1,9 @@
 # GitHub Trending - Php
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-14T04:48:04Z
-**Total Repositories:** 24
-**New Entries:** 3
+**Snapshot Time:** 2026-10-15T04:32:21Z
+**Total Repositories:** 23
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ Pterodactyl® is a free, open-source game server management panel built with PHP
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,327 |
-| Forks | 2,719 |
-| Stars this month | 134 |
+| Stars | 9,334 |
+| Forks | 2,724 |
+| Stars this month | 138 |
 
 ---
 
-## 2. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+## 2. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 
-Firefly III: a personal finances manager
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 24,887 |
-| Forks | 2,337 |
-| Stars this month | 359 |
+| Stars | 74,128 |
+| Forks | 25,149 |
+| Stars this month | 796 |
 
 ---
 
@@ -41,91 +41,104 @@ A free, self-hostable news aggregator…
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 16,283 |
-| Forks | 1,301 |
-| Stars this month | 312 |
+| Stars | 16,287 |
+| Forks | 1,303 |
+| Stars this month | 308 |
 
 ---
 
-## 4. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
-
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 74,171 |
-| Forks | 25,146 |
-| Stars this month | 798 |
-
----
-
-## 5. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
+## 4. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
 
 A source-available invoice, quote, project and time-tracking app built with Laravel
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,271 |
-| Forks | 2,746 |
-| Stars this month | 213 |
+| Stars | 10,277 |
+| Forks | 2,750 |
+| Stars this month | 218 |
 
 ---
 
-## 6. [glpi-project/glpi](https://github.com/glpi-project/glpi)
+## 5. [glpi-project/glpi](https://github.com/glpi-project/glpi)
 
 GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,456 |
+| Stars | 6,459 |
 | Forks | 1,832 |
 | Stars this month | 122 |
 
 ---
 
-## 7. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
+## 6. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 
-📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,583 |
-| Forks | 1,115 |
-| Stars this month | 184 |
-
----
-
-## 8. [opnsense/core](https://github.com/opnsense/core)
-
-OPNsense GUI, API and systems backend
+Firefly III: a personal finances manager
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 4,729 |
-| Forks | 1,007 |
-| Stars this month | 62 |
+| Stars | 24,897 |
+| Forks | 2,341 |
+| Stars this month | 350 |
 
 ---
 
-## 9. [digininja/DVWA](https://github.com/digininja/DVWA)
+## 7. [digininja/DVWA](https://github.com/digininja/DVWA)
 
 Damn Vulnerable Web Application (DVWA)
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,825 |
-| Forks | 5,193 |
-| Stars this month | 181 |
+| Stars | 13,834 |
+| Forks | 5,195 |
+| Stars this month | 184 |
 
 ---
 
-## 10. [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
+## 8. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
+
+📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 10,586 |
+| Forks | 1,117 |
+| Stars this month | 189 |
+
+---
+
+## 9. [laravel/ai](https://github.com/laravel/ai)
+
+The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 1,224 |
+| Forks | 359 |
+| Stars this month | 72 |
+
+---
+
+## 10. [koel/koel](https://github.com/koel/koel)
+
+Music streaming solution that works.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 17,281 |
+| Forks | 2,112 |
+| Stars this month | 57 |
+
+---
+
+## 11. [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
 
 Photo Sharing. For Everyone.
 
@@ -133,34 +146,21 @@ Photo Sharing. For Everyone.
 |--------|-------|
 | Language | PHP |
 | Stars | 7,124 |
-| Forks | 885 |
-| Stars this month | 50 |
+| Forks | 890 |
+| Stars this month | 49 |
 
 ---
 
-## 11. [livewire/livewire](https://github.com/livewire/livewire)
+## 12. [livewire/livewire](https://github.com/livewire/livewire)
 
 A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 23,584 |
-| Forks | 1,756 |
-| Stars this month | 39 |
-
----
-
-## 12. [matomo-org/matomo](https://github.com/matomo-org/matomo)
-
-Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 21,953 |
-| Forks | 2,914 |
-| Stars this month | 126 |
+| Stars | 23,582 |
+| Forks | 1,755 |
+| Stars this month | 37 |
 
 ---
 
@@ -171,26 +171,39 @@ The most popular open source electronic health records and medical practice mana
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,523 |
+| Stars | 5,525 |
 | Forks | 3,078 |
 | Stars this month | 96 |
 
 ---
 
-## 14. [MISP/MISP](https://github.com/MISP/MISP)
+## 14. [mautic/mautic](https://github.com/mautic/mautic)
 
-MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+Mautic: Open Source Marketing Automation Software.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,597 |
-| Forks | 1,653 |
-| Stars this month | 77 |
+| Stars | 10,772 |
+| Forks | 3,497 |
+| Stars this month | 294 |
 
 ---
 
-## 15. [laravel/framework](https://github.com/laravel/framework)
+## 15. [opnsense/core](https://github.com/opnsense/core)
+
+OPNsense GUI, API and systems backend
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,730 |
+| Forks | 1,007 |
+| Stars this month | 63 |
+
+---
+
+## 16. [laravel/framework](https://github.com/laravel/framework)
 
 Laravel is a web application framework with expressive, elegant syntax.
 
@@ -198,34 +211,21 @@ Laravel is a web application framework with expressive, elegant syntax.
 |--------|-------|
 | Language | PHP |
 | Stars | 34,962 |
-| Forks | 12,012 |
-| Stars this month | 86 |
+| Forks | 12,015 |
+| Stars this month | 89 |
 
 ---
 
-## 16. [osTicket/osTicket](https://github.com/osTicket/osTicket) 🆕
+## 17. [Sylius/Sylius](https://github.com/Sylius/Sylius) 🆕
 
-The osTicket open source ticketing system official project repository, for versions 1.8 and later
+Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,984 |
-| Forks | 1,851 |
-| Stars this month | 78 |
-
----
-
-## 17. [laravel/ai](https://github.com/laravel/ai)
-
-The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,222 |
-| Forks | 359 |
-| Stars this month | 76 |
+| Stars | 8,557 |
+| Forks | 2,167 |
+| Stars this month | 28 |
 
 ---
 
@@ -236,22 +236,22 @@ An MCP adapter that bridges the Abilities API to the Model Context Protocol, ena
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,838 |
+| Stars | 1,842 |
 | Forks | 212 |
-| Stars this month | 135 |
+| Stars this month | 136 |
 
 ---
 
-## 19. [ellite/Wallos](https://github.com/ellite/Wallos)
+## 19. [coollabsio/coolify](https://github.com/coollabsio/coolify)
 
-Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
+An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 8,670 |
-| Forks | 442 |
-| Stars this month | 211 |
+| Stars | 62,993 |
+| Forks | 5,657 |
+| Stars this month | 1,351 |
 
 ---
 
@@ -262,60 +262,47 @@ Sends your logs to files, sockets, inboxes, databases and various web services
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 21,398 |
-| Forks | 1,916 |
-| Stars this month | 17 |
+| Stars | 21,399 |
+| Forks | 1,917 |
+| Stars this month | 18 |
 
 ---
 
-## 21. [koel/koel](https://github.com/koel/koel) 🆕
+## 21. [MISP/MISP](https://github.com/MISP/MISP)
 
-Music streaming solution that works.
+MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 17,279 |
-| Forks | 2,112 |
-| Stars this month | 52 |
+| Stars | 6,598 |
+| Forks | 1,653 |
+| Stars this month | 77 |
 
 ---
 
-## 22. [kimai/kimai](https://github.com/kimai/kimai)
+## 22. [osTicket/osTicket](https://github.com/osTicket/osTicket)
 
-Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
+The osTicket open source ticketing system official project repository, for versions 1.8 and later
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,071 |
-| Forks | 861 |
-| Stars this month | 98 |
+| Stars | 3,986 |
+| Forks | 1,852 |
+| Stars this month | 78 |
 
 ---
 
-## 23. [mautic/mautic](https://github.com/mautic/mautic)
+## 23. [symfony/symfony](https://github.com/symfony/symfony) 🆕
 
-Mautic: Open Source Marketing Automation Software.
+The Symfony PHP framework
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,760 |
-| Forks | 3,495 |
-| Stars this month | 285 |
-
----
-
-## 24. [coollabsio/coolify](https://github.com/coollabsio/coolify) 🆕
-
-An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 62,953 |
-| Forks | 5,654 |
-| Stars this month | 1,353 |
+| Stars | 31,194 |
+| Forks | 9,904 |
+| Stars this month | 99 |
 
 ---

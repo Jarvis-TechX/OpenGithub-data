@@ -1,23 +1,23 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-14T04:47:46Z
-**Total Repositories:** 16
-**New Entries:** 4
+**Snapshot Time:** 2026-10-15T04:32:02Z
+**Total Repositories:** 15
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) 🆕
+## 1. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 
 Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 28,371 |
-| Forks | 4,240 |
-| Stars this week | 2,697 |
+| Stars | 29,744 |
+| Forks | 4,465 |
+| Stars this week | 3,781 |
 
 ---
 
@@ -28,35 +28,35 @@ An open-source, single-operator business command center: run a one-person operat
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,127 |
-| Forks | 317 |
-| Stars this week | 127 |
+| Stars | 1,146 |
+| Forks | 323 |
+| Stars this week | 149 |
 
 ---
 
-## 3. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) 🆕
+## 3. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+
+Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 2,969 |
+| Forks | 545 |
+| Stars this week | 211 |
+
+---
+
+## 4. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 
 📂 Web File Browser
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,700 |
-| Forks | 477 |
-| Stars this week | 164 |
-
----
-
-## 4. [caddyserver/caddy](https://github.com/caddyserver/caddy)
-
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 77,932 |
-| Forks | 5,134 |
-| Stars this week | 577 |
+| Stars | 8,755 |
+| Forks | 484 |
+| Stars this week | 202 |
 
 ---
 
@@ -67,151 +67,138 @@ AI Agent Builder and Runtime by Docker Engineering
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,479 |
-| Forks | 519 |
-| Stars this week | 1,099 |
+| Stars | 4,498 |
+| Forks | 522 |
+| Stars this week | 1,116 |
 
 ---
 
-## 6. [ollama/ollama](https://github.com/ollama/ollama)
+## 6. [eugenioenko/ttt](https://github.com/eugenioenko/ttt) 🆕
 
-Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 183,072 |
-| Forks | 18,273 |
-| Stars this week | 1,008 |
+| Stars | 577 |
+| Forks | 60 |
+| Stars this week | 180 |
 
 ---
 
-## 7. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
-
-A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,259 |
-| Forks | 245 |
-| Stars this week | 346 |
-
----
-
-## 8. [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api)
+## 7. [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api)
 
 📜 诗泉：高性能中国古诗词 API 服务
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,373 |
-| Forks | 445 |
-| Stars this week | 451 |
+| Stars | 3,384 |
+| Forks | 446 |
+| Stars this week | 463 |
 
 ---
 
-## 9. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) 🆕
+## 8. [ollama/ollama](https://github.com/ollama/ollama)
 
-Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,945 |
-| Forks | 540 |
-| Stars this week | 191 |
+| Stars | 183,193 |
+| Forks | 18,280 |
+| Stars this week | 1,019 |
 
 ---
 
-## 10. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+## 9. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) 🆕
+
+llm-d Router: The intelligent entry point for inference requests
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 404 |
+| Forks | 447 |
+| Stars this week | 26 |
+
+---
+
+## 10. [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) 🆕
+
+Yet another WebUI for Nginx
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 11,619 |
+| Forks | 901 |
+| Stars this week | 53 |
+
+---
+
+## 11. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 15,173 |
-| Forks | 2,226 |
-| Stars this week | 122 |
+| Stars | 15,188 |
+| Forks | 2,231 |
+| Stars this week | 137 |
 
 ---
 
-## 11. [BishopFox/sliver](https://github.com/BishopFox/sliver)
+## 12. [docker/compose](https://github.com/docker/compose) 🆕
+
+Define and run multi-container applications with Docker
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 38,359 |
+| Forks | 5,872 |
+| Stars this week | 153 |
+
+---
+
+## 13. [BishopFox/sliver](https://github.com/BishopFox/sliver)
 
 Adversary Emulation Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 12,113 |
-| Forks | 1,625 |
-| Stars this week | 146 |
+| Stars | 12,123 |
+| Forks | 1,626 |
+| Stars this week | 138 |
 
 ---
 
-## 12. [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-
-The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 9,579 |
-| Forks | 331 |
-| Stars this week | 176 |
-
----
-
-## 13. [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF)
-
-Open-Source Software factory for Open Models
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 417 |
-| Forks | 53 |
-| Stars this week | 117 |
-
----
-
-## 14. [ys-ll/uniterm](https://github.com/ys-ll/uniterm)
-
-All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 845 |
-| Forks | 124 |
-| Stars this week | 106 |
-
----
-
-## 15. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) 🆕
+## 14. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 
 WhatsApp MCP server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,594 |
-| Forks | 1,403 |
-| Stars this week | 172 |
+| Stars | 6,613 |
+| Forks | 1,408 |
+| Stars this week | 204 |
 
 ---
 
-## 16. [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+## 15. [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) 🆕
 
-A powerful little TUI framework 🏗
+CNCF Jaeger, a Distributed Tracing Platform
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 45,459 |
-| Forks | 4,054 |
-| Stars this week | 179 |
+| Stars | 23,297 |
+| Forks | 3,165 |
+| Stars this week | 38 |
 
 ---

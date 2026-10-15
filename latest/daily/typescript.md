@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-14T04:47:25Z
-**Total Repositories:** 17
-**New Entries:** 10
+**Snapshot Time:** 2026-10-15T04:31:38Z
+**Total Repositories:** 16
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 214,840 |
-| Forks | 52,940 |
-| Stars today | 54,679 |
+| Stars | 247,998 |
+| Forks | 62,198 |
+| Stars today | 41,034 |
 
 ---
 
@@ -28,203 +28,190 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 28,404 |
-| Forks | 2,000 |
-| Stars today | 969 |
+| Stars | 29,274 |
+| Forks | 2,054 |
+| Stars today | 947 |
 
 ---
 
-## 3. [vercel-labs/skills](https://github.com/vercel-labs/skills) 🆕
+## 3. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) 🆕
+
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 74,707 |
+| Forks | 8,891 |
+| Stars today | 146 |
+
+---
+
+## 4. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 🆕
+
+Chrome DevTools for coding agents
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 53,559 |
+| Forks | 6,625 |
+| Stars today | 85 |
+
+---
+
+## 5. [vercel-labs/skills](https://github.com/vercel-labs/skills)
 
 The open agent skills tool - npx skills
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 34,664 |
-| Forks | 2,955 |
-| Stars today | 190 |
+| Stars | 34,982 |
+| Forks | 2,980 |
+| Stars today | 658 |
 
 ---
 
-## 4. [every-app/open-seo](https://github.com/every-app/open-seo) 🆕
+## 6. [vuejs/core](https://github.com/vuejs/core) 🆕
 
-Open source alternative to Semrush and Ahrefs
+🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 23,506 |
-| Forks | 3,109 |
-| Stars today | 170 |
+| Stars | 54,631 |
+| Forks | 9,256 |
+| Stars today | 78 |
 
 ---
 
-## 5. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-
-Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 39,977 |
-| Forks | 4,027 |
-| Stars today | 179 |
-
----
-
-## 6. [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) 🆕
-
-Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 12,921 |
-| Forks | 1,377 |
-| Stars today | 119 |
-
----
-
-## 7. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) 🆕
+## 7. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
 Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 62,966 |
-| Forks | 5,649 |
-| Stars today | 873 |
+| Stars | 63,848 |
+| Forks | 5,731 |
+| Stars today | 1,089 |
 
 ---
 
-## 8. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 8. [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
 
-7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 34,807 |
-| Forks | 4,737 |
-| Stars today | 780 |
+| Stars | 13,093 |
+| Forks | 1,405 |
+| Stars today | 95 |
 
 ---
 
-## 9. [nab138/iloader](https://github.com/nab138/iloader) 🆕
+## 9. [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) 🆕
 
-User friendly sideloader
+The open-source CapCut alternative
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,926 |
-| Forks | 283 |
-| Stars today | 43 |
+| Stars | 94,505 |
+| Forks | 9,294 |
+| Stars today | 301 |
 
 ---
 
-## 10. [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) 🆕
+## 10. [nestjs/nest](https://github.com/nestjs/nest) 🆕
+
+A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 76,851 |
+| Forks | 8,583 |
+| Stars today | 55 |
+
+---
+
+## 11. [supabase/supabase](https://github.com/supabase/supabase) 🆕
+
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 111,568 |
+| Forks | 16,841 |
+| Stars today | 97 |
+
+---
+
+## 12. [stablyai/orca](https://github.com/stablyai/orca) 🆕
+
+Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 92,668 |
+| Forks | 5,910 |
+| Stars today | 919 |
+
+---
+
+## 13. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
+Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 40,188 |
+| Forks | 4,055 |
+| Stars today | 274 |
+
+---
+
+## 14. [microsoft/vscode](https://github.com/microsoft/vscode) 🆕
+
+Visual Studio Code
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 193,623 |
+| Forks | 45,500 |
+| Stars today | 169 |
+
+---
+
+## 15. [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)
 
 The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,077 |
-| Forks | 331 |
-| Stars today | 200 |
+| Stars | 11,269 |
+| Forks | 346 |
+| Stars today | 233 |
 
 ---
 
-## 11. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+## 16. [anomalyco/opencode](https://github.com/anomalyco/opencode) 🆕
 
-A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+The open source coding agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,183 |
-| Forks | 100 |
-| Stars today | 82 |
-
----
-
-## 12. [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) 🆕
-
-Make Every Team AI Native
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 5,434 |
-| Forks | 426 |
-| Stars today | 37 |
-
----
-
-## 13. [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)
-
-Free, Open Source, Self-Hosted WhatsApp API Gateway
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 15,445 |
-| Forks | 3,616 |
-| Stars today | 70 |
-
----
-
-## 14. [supabase/agent-skills](https://github.com/supabase/agent-skills) 🆕
-
-Agent Skills to help developers using AI agents with Supabase
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 2,818 |
-| Forks | 237 |
-| Stars today | 27 |
-
----
-
-## 15. [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI)
-
-Open-Source Generative UI Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 3,078 |
-| Forks | 347 |
-| Stars today | 174 |
-
----
-
-## 16. [Twigpine/openclaude](https://github.com/Twigpine/openclaude) 🆕
-
-runs anywhere. uses anything
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 33,836 |
-| Forks | 9,117 |
-| Stars today | 59 |
-
----
-
-## 17. [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) 🆕
-
-#1 Persistent memory for AI coding agents based on real-world benchmarks
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 29,401 |
-| Forks | 2,590 |
-| Stars today | 45 |
+| Stars | 213,567 |
+| Forks | 28,658 |
+| Stars today | 320 |
 
 ---

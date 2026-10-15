@@ -1,100 +1,152 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-14T04:47:29Z
-**Total Repositories:** 7
-**New Entries:** 4
+**Snapshot Time:** 2026-10-15T04:31:44Z
+**Total Repositories:** 11
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [storytold/artcraft](https://github.com/storytold/artcraft)
+## 1. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
 
-ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+Empowering everyone to build reliable and efficient software.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 26,185 |
-| Forks | 4,104 |
-| Stars today | 4,081 |
+| Stars | 120,119 |
+| Forks | 18,705 |
+| Stars today | 207 |
 
 ---
 
-## 2. [ruvnet/RuView](https://github.com/ruvnet/RuView) 🆕
+## 2. [astral-sh/ruff](https://github.com/astral-sh/ruff) 🆕
+
+An extremely fast Python linter and code formatter, written in Rust.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 50,093 |
+| Forks | 2,516 |
+| Stars today | 57 |
+
+---
+
+## 3. [vosen/ZLUDA](https://github.com/vosen/ZLUDA) 🆕
+
+CUDA on non-NVIDIA GPUs
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 15,057 |
+| Forks | 955 |
+| Stars today | 51 |
+
+---
+
+## 4. [ruvnet/RuView](https://github.com/ruvnet/RuView)
 
 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 97,847 |
-| Forks | 12,824 |
-| Stars today | 261 |
+| Stars | 98,016 |
+| Forks | 12,846 |
+| Stars today | 197 |
 
 ---
 
-## 3. [rtk-ai/rtk](https://github.com/rtk-ai/rtk) 🆕
+## 5. [storytold/artcraft](https://github.com/storytold/artcraft)
 
-CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 83,252 |
-| Forks | 5,287 |
-| Stars today | 124 |
+| Stars | 28,147 |
+| Forks | 4,436 |
+| Stars today | 2,909 |
 
 ---
 
-## 4. [1jehuang/jcode](https://github.com/1jehuang/jcode)
+## 6. [t8y2/dbx](https://github.com/t8y2/dbx) 🆕
 
-High performance coding agent harness written in rust
+25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 20,690 |
-| Forks | 2,405 |
-| Stars today | 102 |
+| Stars | 26,725 |
+| Forks | 2,418 |
+| Stars today | 295 |
 
 ---
 
-## 5. [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) 🆕
+## 7. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 🆕
 
-EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,247 |
-| Forks | 267 |
-| Stars today | 28 |
+| Stars | 111,905 |
+| Forks | 4,083 |
+| Stars today | 62 |
 
 ---
 
-## 6. [googleworkspace/cli](https://github.com/googleworkspace/cli) 🆕
+## 8. [tokio-rs/tokio](https://github.com/tokio-rs/tokio) 🆕
 
-Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,476 |
-| Forks | 1,888 |
-| Stars today | 48 |
+| Stars | 33,415 |
+| Forks | 5,955 |
+| Stars today | 15 |
 
 ---
 
-## 7. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+## 9. [astral-sh/uv](https://github.com/astral-sh/uv) 🆕
 
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+An extremely fast Python package and project manager, written in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,991 |
-| Forks | 330 |
-| Stars today | 84 |
+| Stars | 90,780 |
+| Forks | 3,663 |
+| Stars today | 88 |
+
+---
+
+## 10. [openai/codex](https://github.com/openai/codex) 🆕
+
+Lightweight coding agent that runs in your terminal
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 129,269 |
+| Forks | 20,320 |
+| Stars today | 209 |
+
+---
+
+## 11. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) 🆕
+
+Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 32,227 |
+| Forks | 3,480 |
+| Stars today | 64 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-14T04:47:36Z
+**Snapshot Time:** 2026-10-15T04:31:52Z
 **Total Repositories:** 11
-**New Entries:** 8
-**Quality Score:** 100.00/100
+**New Entries:** 7
+**Quality Score:** 96.36/100
 
 ---
 
@@ -15,138 +15,135 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,641 |
-| Forks | 409 |
-| Stars today | 1,198 |
+| Stars | 11,045 |
+| Forks | 504 |
+| Stars today | 1,502 |
 
 ---
 
-## 2. [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) 🆕
-
-Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 5,311 |
-| Forks | 352 |
-| Stars today | 32 |
-
----
-
-## 3. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) 🆕
-
-Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,474 |
-| Forks | 491 |
-| Stars today | 71 |
-
----
-
-## 4. [zachlatta/freeflow](https://github.com/zachlatta/freeflow) 🆕
-
-Free & fast alternative to Wispr Flow
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,897 |
-| Forks | 297 |
-| Stars today | 11 |
-
----
-
-## 5. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) 🆕
+## 2. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
 
 Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 -https://x.com/fluidvoiceapp
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,061 |
-| Forks | 869 |
-| Stars today | 28 |
+| Stars | 12,137 |
+| Forks | 876 |
+| Stars today | 40 |
 
 ---
 
-## 6. [wuwangzhang1216/ChinaTextbookStudyFree](https://github.com/wuwangzhang1216/ChinaTextbookStudyFree)
+## 3. [wuwangzhang1216/ChinaTextbookStudyFree](https://github.com/wuwangzhang1216/ChinaTextbookStudyFree)
 
 给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 478 |
-| Forks | 144 |
-| Stars today | 43 |
+| Stars | 513 |
+| Forks | 158 |
+| Stars today | 47 |
 
 ---
 
-## 7. [groue/GRDB.swift](https://github.com/groue/GRDB.swift) 🆕
+## 4. [farzaa/clicky](https://github.com/farzaa/clicky) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 7,708 |
+| Forks | 1,539 |
+| Stars today | 2 |
+
+---
+
+## 5. [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) 🆕
+
+Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,078 |
+| Forks | 472 |
+| Stars today | 18 |
+
+---
+
+## 6. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) 🆕
+
+A command-line tool and Xcode Extension for formatting Swift code
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 8,932 |
+| Forks | 716 |
+| Stars today | 3 |
+
+---
+
+## 7. [altstoreio/AltStore](https://github.com/altstoreio/AltStore) 🆕
+
+AltStore is an alternative app store for non-jailbroken iOS devices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,583 |
+| Forks | 1,611 |
+| Stars today | 23 |
+
+---
+
+## 8. [apple/swift-nio](https://github.com/apple/swift-nio) 🆕
+
+Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 8,538 |
+| Forks | 812 |
+
+---
+
+## 9. [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) 🆕
+
+Move and resize windows on macOS with keyboard shortcuts and snap areas
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 30,075 |
+| Forks | 1,017 |
+| Stars today | 8 |
+
+---
+
+## 10. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
 
 A toolkit for SQLite databases, with a focus on application development
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,687 |
-| Forks | 1,069 |
-| Stars today | 3 |
-
----
-
-## 8. [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) 🆕
-
-The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 6,794 |
-| Forks | 954 |
-| Stars today | 25 |
-
----
-
-## 9. [claration/feather](https://github.com/claration/feather)
-
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,837 |
-| Forks | 439 |
-| Stars today | 6 |
-
----
-
-## 10. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) 🆕
-
-Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,210 |
-| Forks | 65 |
-| Stars today | 45 |
-
----
-
-## 11. [Finb/Bark](https://github.com/Finb/Bark) 🆕
-
-Bark is an iOS App which allows you to push custom notifications to your iPhone
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,281 |
-| Forks | 715 |
+| Stars | 8,688 |
+| Forks | 1,070 |
 | Stars today | 2 |
+
+---
+
+## 11. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) 🆕
+
+An an app that installs Sidestore on iOS 27, fully on-device
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,051 |
+| Forks | 84 |
+| Stars today | 21 |
 
 ---

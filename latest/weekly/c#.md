@@ -1,140 +1,140 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-14T04:47:53Z
-**Total Repositories:** 16
-**New Entries:** 6
+**Snapshot Time:** 2026-10-15T04:32:10Z
+**Total Repositories:** 13
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
-
-.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 26,614 |
-| Forks | 3,766 |
-| Stars this week | 321 |
-
----
-
-## 2. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 🆕
-
-WinUI app for building smaller, customized Windows 11 images.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 19,964 |
-| Forks | 1,539 |
-| Stars this week | 197 |
-
----
-
-## 3. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
-
-A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 1,847 |
-| Forks | 39 |
-| Stars this week | 414 |
-
----
-
-## 4. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
-
-GUI application to analyze game files
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,612 |
-| Forks | 1,000 |
-| Stars this week | 116 |
-
----
-
-## 5. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
-
-Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,559 |
-| Forks | 3,070 |
-| Stars this week | 70 |
-
----
-
-## 6. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
+## 1. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
 
 Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,993 |
-| Forks | 394 |
-| Stars this week | 262 |
+| Stars | 3,015 |
+| Forks | 398 |
+| Stars this week | 178 |
 
 ---
 
-## 7. [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+## 2. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
-This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
+WinUI app for building smaller, customized Windows 11 images.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,214 |
-| Forks | 637 |
-| Stars this week | 15 |
+| Stars | 20,318 |
+| Forks | 1,559 |
+| Stars this week | 510 |
 
 ---
 
-## 8. [memstechtips/Winhance](https://github.com/memstechtips/Winhance) 🆕
+## 3. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
 
-Application designed to optimize, customize and enhance your Windows experience.
+.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,620 |
-| Forks | 648 |
-| Stars this week | 267 |
+| Stars | 26,643 |
+| Forks | 3,771 |
+| Stars this week | 241 |
 
 ---
 
-## 9. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) 🆕
+## 4. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
+
+A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 1,888 |
+| Forks | 42 |
+| Stars this week | 401 |
+
+---
+
+## 5. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
+
+GUI application to analyze game files
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 8,628 |
+| Forks | 1,001 |
+| Stars this week | 124 |
+
+---
+
+## 6. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
 
 UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,582 |
+| Stars | 26,593 |
 | Forks | 945 |
-| Stars this week | 189 |
+| Stars this week | 202 |
 
 ---
 
-## 10. [Radarr/Radarr](https://github.com/Radarr/Radarr)
+## 7. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
 
-Movie organizer/manager for usenet and torrent users.
+Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,568 |
-| Forks | 1,239 |
-| Stars this week | 64 |
+| Stars | 17,567 |
+| Forks | 3,071 |
+| Stars this week | 69 |
+
+---
+
+## 8. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) 🆕
+
+Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,963 |
+| Forks | 1,561 |
+| Stars this week | 219 |
+
+---
+
+## 9. [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
+
+Unity il2cpp reverse engineer
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,507 |
+| Forks | 1,937 |
+| Stars this week | 55 |
+
+---
+
+## 10. [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+
+This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 1,216 |
+| Forks | 637 |
+| Stars this week | 20 |
 
 ---
 
@@ -145,73 +145,34 @@ A Launcher that Downloads and Updates Applications from Github Releases
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,786 |
-| Forks | 53 |
-| Stars this week | 77 |
+| Stars | 1,803 |
+| Forks | 55 |
+| Stars this week | 83 |
 
 ---
 
-## 12. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+## 12. [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) 🆕
 
-Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+Technitium DNS Server
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,426 |
-| Forks | 442 |
-| Stars this week | 202 |
-
----
-
-## 13. [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) 🆕
-
-Unity il2cpp reverse engineer
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,504 |
-| Forks | 1,936 |
+| Stars | 10,119 |
+| Forks | 802 |
 | Stars this week | 56 |
 
 ---
 
-## 14. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+## 13. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
 
 Download web video and audio
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,353 |
+| Stars | 7,359 |
 | Forks | 352 |
 | Stars this week | 81 |
-
----
-
-## 15. [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) 🆕
-
-Downloads videos and playlists from YouTube
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 16,422 |
-| Forks | 2,085 |
-| Stars this week | 73 |
-
----
-
-## 16. [LorisYounger/VPet](https://github.com/LorisYounger/VPet) 🆕
-
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,971 |
-| Forks | 688 |
-| Stars this week | 98 |
 
 ---

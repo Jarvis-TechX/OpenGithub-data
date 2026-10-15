@@ -1,7 +1,7 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-14T04:47:50Z
+**Snapshot Time:** 2026-10-15T04:32:06Z
 **Total Repositories:** 11
 **New Entries:** 3
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 35,652 |
-| Forks | 3,097 |
-| Stars this week | 28,663 |
+| Stars | 37,366 |
+| Forks | 3,303 |
+| Stars this week | 28,240 |
 
 ---
 
@@ -28,9 +28,9 @@ Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,016 |
-| Forks | 290 |
-| Stars this week | 1,285 |
+| Stars | 3,042 |
+| Forks | 298 |
+| Stars this week | 864 |
 
 ---
 
@@ -41,74 +41,74 @@ Official inference framework for 1-bit LLMs
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,138 |
-| Forks | 3,830 |
-| Stars this week | 785 |
+| Stars | 41,163 |
+| Forks | 3,832 |
+| Stars this week | 814 |
 
 ---
 
-## 4. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 34,267 |
-| Forks | 6,194 |
-| Stars this week | 289 |
-
----
-
-## 5. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
-
-Easily download and manage single-player game cheats for your convenience
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 15,282 |
-| Forks | 536 |
-| Stars this week | 227 |
-
----
-
-## 6. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
+## 4. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
 An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 30,964 |
-| Forks | 7,244 |
-| Stars this week | 488 |
+| Stars | 31,135 |
+| Forks | 7,274 |
+| Stars this week | 618 |
 
 ---
 
-## 7. [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps) 🆕
+## 5. [safijari/openpuck](https://github.com/safijari/openpuck) 🆕
 
-Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
+Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 5,820 |
-| Forks | 361 |
-| Stars this week | 332 |
+| Stars | 1,046 |
+| Forks | 91 |
+| Stars this week | 63 |
 
 ---
 
-## 8. [hluk/CopyQ](https://github.com/hluk/CopyQ)
+## 6. [hluk/CopyQ](https://github.com/hluk/CopyQ)
 
 Clipboard manager with advanced features
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,466 |
+| Stars | 12,473 |
 | Forks | 608 |
-| Stars this week | 124 |
+| Stars this week | 129 |
+
+---
+
+## 7. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
+
+Easily download and manage single-player game cheats for your convenience
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 15,309 |
+| Forks | 539 |
+| Stars this week | 237 |
+
+---
+
+## 8. [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) 🆕
+
+AdaptixC2 is a highly modular advanced redteam toolkit
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,760 |
+| Forks | 686 |
+| Stars this week | 88 |
 
 ---
 
@@ -119,9 +119,9 @@ PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,534 |
-| Forks | 2,734 |
-| Stars this week | 407 |
+| Stars | 33,583 |
+| Forks | 2,746 |
+| Stars this week | 393 |
 
 ---
 
@@ -132,21 +132,21 @@ Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative t
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 26,871 |
-| Forks | 1,012 |
+| Stars | 26,873 |
+| Forks | 1,013 |
 | Stars this week | 252 |
 
 ---
 
-## 11. [duckdb/ducklake](https://github.com/duckdb/ducklake) 🆕
+## 11. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) 🆕
 
-DuckLake is an integrated data lake and catalog format
+Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,301 |
-| Forks | 281 |
-| Stars this week | 284 |
+| Stars | 3,476 |
+| Forks | 182 |
+| Stars this week | 123 |
 
 ---

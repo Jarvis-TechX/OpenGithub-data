@@ -1,165 +1,139 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-14T04:47:30Z
-**Total Repositories:** 12
-**New Entries:** 9
+**Snapshot Time:** 2026-10-15T04:31:45Z
+**Total Repositories:** 10
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) 🆕
+## 1. [redis/redis](https://github.com/redis/redis) 🆕
+
+For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 76,818 |
+| Forks | 24,857 |
+| Stars today | 59 |
+
+---
+
+## 2. [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash)
 
 Extremely fast non-cryptographic hash algorithm
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 11,340 |
-| Forks | 928 |
+| Stars | 11,345 |
+| Forks | 929 |
+| Stars today | 5 |
+
+---
+
+## 3. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp) 🆕
+
+Static recompilation runtime libraries for PlayStation 3 titles.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 432 |
+| Forks | 51 |
 | Stars today | 14 |
 
 ---
 
-## 2. [willfaust/Madeira](https://github.com/willfaust/Madeira)
+## 4. [ventoy/Ventoy](https://github.com/ventoy/Ventoy) 🆕
 
-Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 2,410 |
-| Forks | 311 |
-| Stars today | 109 |
-
----
-
-## 3. [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp)
-
-Build native apps in JS. Backend, frontend. ~5Mb.
+A new bootable USB solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,012 |
-| Forks | 33 |
-| Stars today | 48 |
+| Stars | 80,047 |
+| Forks | 4,987 |
+| Stars today | 64 |
 
 ---
 
-## 4. [pgvector/pgvector](https://github.com/pgvector/pgvector) 🆕
+## 5. [opa334/Dopamine](https://github.com/opa334/Dopamine) 🆕
 
-Open-source vector similarity search for Postgres
+Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 23,354 |
-| Forks | 1,348 |
-| Stars today | 16 |
+| Stars | 6,928 |
+| Forks | 6,335 |
+| Stars today | 22 |
 
 ---
 
-## 5. [HarbourMasters/PaperBoat](https://github.com/HarbourMasters/PaperBoat)
+## 6. [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp) 🆕
+
+Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 212 |
+| Forks | 56 |
+| Stars today | 15 |
+
+---
+
+## 7. [HarbourMasters/PaperBoat](https://github.com/HarbourMasters/PaperBoat)
 
 Paper Mario 64 port based on the Paper Mario DX decompilation
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 466 |
+| Stars | 470 |
 | Forks | 40 |
-| Stars today | 7 |
+| Stars today | 9 |
 
 ---
 
-## 6. [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) 🆕
+## 8. [FreeRTOS/FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) 🆕
 
-Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
+FreeRTOS kernel files only, submoduled intohttps://github.com/FreeRTOS/FreeRTOSand various other repos.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,401 |
-| Forks | 342 |
-| Stars today | 11 |
+| Stars | 4,566 |
+| Forks | 1,627 |
+| Stars today | 4 |
 
 ---
 
-## 7. [espressif/esp-claw](https://github.com/espressif/esp-claw) 🆕
+## 9. [jqlang/jq](https://github.com/jqlang/jq) 🆕
 
-ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
+Command-line JSON processor
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,233 |
-| Forks | 496 |
-| Stars today | 7 |
-
----
-
-## 8. [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) 🆕
-
-A fast file search utility for Unix-like systems based on GTK3
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,468 |
-| Forks | 293 |
-| Stars today | 10 |
-
----
-
-## 9. [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) 🆕
-
-An open and affordable mini quadruped robot based on ESP32.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,658 |
-| Forks | 623 |
-| Stars today | 17 |
-
----
-
-## 10. [rogerbinns/apsw](https://github.com/rogerbinns/apsw) 🆕
-
-Another Python SQLite wrapper
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 941 |
-| Forks | 109 |
-| Stars today | 6 |
-
----
-
-## 11. [curl/curl](https://github.com/curl/curl) 🆕
-
-A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 43,207 |
-| Forks | 7,425 |
+| Stars | 35,816 |
+| Forks | 4,569 |
 | Stars today | 15 |
 
 ---
 
-## 12. [SchedMD/slurm](https://github.com/SchedMD/slurm) 🆕
+## 10. [facebook/zstd](https://github.com/facebook/zstd) 🆕
 
-Slurm: A Highly Scalable Workload Manager
+Zstandard - Fast real-time compression algorithm
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,437 |
-| Forks | 898 |
-| Stars today | 2 |
+| Stars | 28,022 |
+| Forks | 2,631 |
+| Stars today | 7 |
 
 ---

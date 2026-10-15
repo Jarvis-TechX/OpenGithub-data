@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-14T04:47:39Z
+**Snapshot Time:** 2026-10-15T04:31:55Z
 **Total Repositories:** 11
-**New Entries:** 1
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Give your agent CAD superpowers.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 20,056 |
-| Forks | 1,971 |
-| Stars this week | 2,173 |
+| Stars | 20,443 |
+| Forks | 2,019 |
+| Stars this week | 1,994 |
 
 ---
 
@@ -28,125 +28,125 @@ Open source repository of plugins primarily intended for knowledge workers to us
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 29,568 |
-| Forks | 3,354 |
-| Stars this week | 3,227 |
+| Stars | 29,704 |
+| Forks | 3,363 |
+| Stars this week | 2,647 |
 
 ---
 
-## 3. [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
-
-[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 18,077 |
-| Forks | 1,980 |
-| Stars this week | 856 |
-
----
-
-## 4. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
-
-World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 68,025 |
-| Forks | 8,709 |
-| Stars this week | 3,401 |
-
----
-
-## 5. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+## 3. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 
 Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 60,286 |
-| Forks | 9,438 |
-| Stars this week | 3,413 |
+| Stars | 60,589 |
+| Forks | 9,477 |
+| Stars this week | 3,764 |
 
 ---
 
-## 6. [p-e-w/heretic](https://github.com/p-e-w/heretic)
+## 4. [p-e-w/heretic](https://github.com/p-e-w/heretic)
 
 Fully automatic censorship removal for language models
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 35,152 |
-| Forks | 3,971 |
-| Stars this week | 1,494 |
+| Stars | 35,305 |
+| Forks | 3,994 |
+| Stars this week | 1,460 |
 
 ---
 
-## 7. [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+## 5. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
-Build your own AI SRE agents. The open source toolkit for the AI era.
+World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,886 |
-| Forks | 1,747 |
-| Stars this week | 496 |
+| Stars | 68,332 |
+| Forks | 8,761 |
+| Stars this week | 3,387 |
 
 ---
 
-## 8. [uber/ADR](https://github.com/uber/ADR) 🆕
+## 6. [repowise-dev/repowise](https://github.com/repowise-dev/repowise) 🆕
 
-ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
+Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,028 |
-| Forks | 215 |
-| Stars this week | 179 |
+| Stars | 7,731 |
+| Forks | 877 |
+| Stars this week | 508 |
 
 ---
 
-## 9. [General-Legal/legal-templates](https://github.com/General-Legal/legal-templates)
-
-Public collection of high-quality templates created by General Legal attorneys with CC0 license
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 2,999 |
-| Forks | 324 |
-| Stars this week | 617 |
-
----
-
-## 10. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
-
-Useful tool to track location or mobile number
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 18,762 |
-| Forks | 2,546 |
-| Stars this week | 1,569 |
-
----
-
-## 11. [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+## 7. [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 
 A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 78,997 |
-| Forks | 12,004 |
-| Stars this week | 2,222 |
+| Stars | 79,268 |
+| Forks | 12,041 |
+| Stars this week | 2,269 |
+
+---
+
+## 8. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) 🆕
+
+Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 27,652 |
+| Forks | 1,513 |
+| Stars this week | 5,796 |
+
+---
+
+## 9. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)
+
+Useful tool to track location or mobile number
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 18,871 |
+| Forks | 2,563 |
+| Stars this week | 1,549 |
+
+---
+
+## 10. [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) 🆕
+
+The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 13,575 |
+| Forks | 1,777 |
+| Stars this week | 362 |
+
+---
+
+## 11. [General-Legal/legal-templates](https://github.com/General-Legal/legal-templates)
+
+Public collection of high-quality templates created by General Legal attorneys with CC0 license
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 3,030 |
+| Forks | 328 |
+| Stars this week | 524 |
 
 ---
