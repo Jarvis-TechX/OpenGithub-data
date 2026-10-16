@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-15T04:32:25Z
-**Total Repositories:** 21
-**New Entries:** 1
+**Snapshot Time:** 2026-10-16T04:25:57Z
+**Total Repositories:** 22
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,260 |
-| Forks | 1,788 |
-| Stars this month | 7,698 |
+| Stars | 16,362 |
+| Forks | 1,796 |
+| Stars this month | 7,813 |
 
 ---
 
@@ -28,9 +28,9 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 29,771 |
-| Forks | 2,132 |
-| Stars this month | 7,248 |
+| Stars | 29,886 |
+| Forks | 2,141 |
+| Stars this month | 7,322 |
 
 ---
 
@@ -41,9 +41,9 @@ Rust GUI components for building fantastic cross-platform desktop application by
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 17,465 |
-| Forks | 1,073 |
-| Stars this month | 3,043 |
+| Stars | 17,661 |
+| Forks | 1,074 |
+| Stars this month | 3,233 |
 
 ---
 
@@ -54,9 +54,9 @@ Rust GUI components for building fantastic cross-platform desktop application by
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,784 |
-| Forks | 1,174 |
-| Stars this month | 995 |
+| Stars | 12,787 |
+| Forks | 1,175 |
+| Stars this month | 998 |
 
 ---
 
@@ -67,35 +67,35 @@ RustFS is an open-source, S3-compatible high-performance object storage system s
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 34,927 |
-| Forks | 1,592 |
-| Stars this month | 3,115 |
+| Stars | 34,991 |
+| Forks | 1,594 |
+| Stars this month | 3,029 |
 
 ---
 
-## 6. [bevyengine/bevy](https://github.com/bevyengine/bevy)
-
-A refreshingly simple data-driven game engine built in Rust
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 49,010 |
-| Forks | 4,935 |
-| Stars this month | 968 |
-
----
-
-## 7. [t8y2/dbx](https://github.com/t8y2/dbx)
+## 6. [t8y2/dbx](https://github.com/t8y2/dbx)
 
 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 26,725 |
-| Forks | 2,418 |
-| Stars this month | 7,359 |
+| Stars | 26,889 |
+| Forks | 2,431 |
+| Stars this month | 7,360 |
+
+---
+
+## 7. [bevyengine/bevy](https://github.com/bevyengine/bevy)
+
+A refreshingly simple data-driven game engine built in Rust
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 49,045 |
+| Forks | 4,938 |
+| Stars this month | 977 |
 
 ---
 
@@ -106,9 +106,9 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 151,457 |
-| Forks | 10,879 |
-| Stars this month | 7,694 |
+| Stars | 151,689 |
+| Forks | 10,892 |
+| Stars this month | 7,690 |
 
 ---
 
@@ -119,9 +119,9 @@ Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Ru
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,476 |
-| Forks | 485 |
-| Stars this month | 16,664 |
+| Stars | 18,736 |
+| Forks | 499 |
+| Stars this month | 16,929 |
 
 ---
 
@@ -132,87 +132,87 @@ HydraDB - fast graph database on object storage
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 13,026 |
-| Forks | 5,425 |
-| Stars this month | 10,009 |
+| Stars | 13,033 |
+| Forks | 5,429 |
+| Stars this month | 10,026 |
 
 ---
 
-## 11. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 125,838 |
-| Forks | 19,692 |
-| Stars this month | 3,080 |
-
----
-
-## 12. [microsoft/mxc](https://github.com/microsoft/mxc)
+## 11. [microsoft/mxc](https://github.com/microsoft/mxc)
 
 Policy-driven, layered isolation and containment
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,812 |
-| Forks | 150 |
-| Stars this month | 1,473 |
+| Stars | 2,849 |
+| Forks | 151 |
+| Stars this month | 1,513 |
 
 ---
 
-## 13. [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-
-Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 111,905 |
-| Forks | 4,083 |
-| Stars this month | 1,092 |
-
----
-
-## 14. [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex)
+## 12. [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex)
 
 Give cloud AI agents a real development environment on your own machines.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,312 |
-| Forks | 314 |
-| Stars this month | 1,592 |
+| Stars | 2,320 |
+| Forks | 316 |
+| Stars this month | 1,561 |
 
 ---
 
-## 15. [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
+## 13. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
-Turn your coding agents into research agents
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 7,221 |
-| Forks | 477 |
-| Stars this month | 5,084 |
+| Stars | 125,952 |
+| Forks | 19,732 |
+| Stars this month | 3,020 |
 
 ---
 
-## 16. [zeronsh/zeron](https://github.com/zeronsh/zeron) 🆕
+## 14. [zeronsh/zeron](https://github.com/zeronsh/zeron)
 
 A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,197 |
-| Forks | 329 |
-| Stars this month | 1,807 |
+| Stars | 3,229 |
+| Forks | 332 |
+| Stars this month | 1,723 |
+
+---
+
+## 15. [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh) 🆕
+
+Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,182 |
+| Forks | 70 |
+| Stars this month | 657 |
+
+---
+
+## 16. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,093 |
+| Forks | 355 |
+| Stars this month | 1,135 |
 
 ---
 
@@ -223,60 +223,73 @@ Anki is a smart spaced repetition flashcard program
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 32,010 |
-| Forks | 3,338 |
-| Stars this month | 1,725 |
+| Stars | 32,044 |
+| Forks | 3,345 |
+| Stars this month | 1,702 |
 
 ---
 
-## 18. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,042 |
-| Forks | 345 |
-| Stars this month | 1,177 |
-
----
-
-## 19. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+## 18. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
 
 Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 32,227 |
-| Forks | 3,480 |
-| Stars this month | 1,155 |
+| Stars | 32,271 |
+| Forks | 3,482 |
+| Stars this month | 1,149 |
 
 ---
 
-## 20. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
+## 19. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
 
 A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,320 |
+| Stars | 6,380 |
 | Forks | 520 |
-| Stars this month | 1,597 |
+| Stars this month | 1,634 |
 
 ---
 
-## 21. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+## 20. [ooolabdev/ooosplat](https://github.com/ooolabdev/ooosplat) 🆕
 
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+A local desktop app that turns videos and images into 3D Gaussian Splats in one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,238 |
-| Forks | 332 |
-| Stars this month | 1,737 |
+| Stars | 2,007 |
+| Forks | 242 |
+| Stars this month | 1,035 |
+
+---
+
+## 21. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) 🆕
+
+Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 45,327 |
+| Forks | 6,440 |
+| Stars this month | 2,044 |
+
+---
+
+## 22. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
+
+Empowering everyone to build reliable and efficient software.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 120,322 |
+| Forks | 18,827 |
+| Stars this month | 2,504 |
 
 ---

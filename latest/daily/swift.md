@@ -1,10 +1,10 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-15T04:31:52Z
-**Total Repositories:** 11
-**New Entries:** 7
-**Quality Score:** 96.36/100
+**Snapshot Time:** 2026-10-16T04:25:29Z
+**Total Repositories:** 13
+**New Entries:** 9
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,9 +15,9 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,045 |
-| Forks | 504 |
-| Stars today | 1,502 |
+| Stars | 11,645 |
+| Forks | 551 |
+| Stars today | 1,166 |
 
 ---
 
@@ -28,122 +28,150 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,137 |
-| Forks | 876 |
-| Stars today | 40 |
+| Stars | 12,205 |
+| Forks | 883 |
+| Stars today | 105 |
 
 ---
 
-## 3. [wuwangzhang1216/ChinaTextbookStudyFree](https://github.com/wuwangzhang1216/ChinaTextbookStudyFree)
+## 3. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) 🆕
+
+Run iOS apps without actually installing them!
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 12,811 |
+| Forks | 1,157 |
+| Stars today | 45 |
+
+---
+
+## 4. [wuwangzhang1216/ChinaTextbookStudyFree](https://github.com/wuwangzhang1216/ChinaTextbookStudyFree)
 
 给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 513 |
-| Forks | 158 |
-| Stars today | 47 |
+| Stars | 546 |
+| Forks | 165 |
+| Stars today | 36 |
 
 ---
 
-## 4. [farzaa/clicky](https://github.com/farzaa/clicky) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 7,708 |
-| Forks | 1,539 |
-| Stars today | 2 |
-
----
-
-## 5. [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) 🆕
-
-Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 3,078 |
-| Forks | 472 |
-| Stars today | 18 |
-
----
-
-## 6. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) 🆕
-
-A command-line tool and Xcode Extension for formatting Swift code
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,932 |
-| Forks | 716 |
-| Stars today | 3 |
-
----
-
-## 7. [altstoreio/AltStore](https://github.com/altstoreio/AltStore) 🆕
+## 5. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
 
 AltStore is an alternative app store for non-jailbroken iOS devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,583 |
-| Forks | 1,611 |
-| Stars today | 23 |
+| Stars | 14,603 |
+| Forks | 1,614 |
+| Stars today | 22 |
 
 ---
 
-## 8. [apple/swift-nio](https://github.com/apple/swift-nio) 🆕
+## 6. [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) 🆕
 
-Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,538 |
-| Forks | 812 |
+| Stars | 5,601 |
+| Forks | 368 |
+| Stars today | 252 |
 
 ---
 
-## 9. [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) 🆕
+## 7. [OpenBMB/MiniCPM-V-Apps](https://github.com/OpenBMB/MiniCPM-V-Apps) 🆕
 
-Move and resize windows on macOS with keyboard shortcuts and snap areas
+MiniCPM-V apps — fully offline multimodal chat on iOS / Android / HarmonyOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 30,075 |
-| Forks | 1,017 |
-| Stars today | 8 |
+| Stars | 457 |
+| Forks | 82 |
+| Stars today | 17 |
 
 ---
 
-## 10. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
+## 8. [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) 🆕
 
-A toolkit for SQLite databases, with a focus on application development
+Elegant HTTP Networking in Swift
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,688 |
-| Forks | 1,070 |
-| Stars today | 2 |
+| Stars | 42,392 |
+| Forks | 7,656 |
 
 ---
 
-## 11. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) 🆕
+## 9. [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) 🆕
 
-An an app that installs Sidestore on iOS 27, fully on-device
+📺 Homebrew's official macOS GUI
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,051 |
-| Forks | 84 |
-| Stars today | 21 |
+| Stars | 2,609 |
+| Forks | 83 |
+| Stars today | 45 |
+
+---
+
+## 10. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) 🆕
+
+ This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 116,246 |
+| Forks | 9,422 |
+| Stars today | 94 |
+
+---
+
+## 11. [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar) 🆕
+
+Use your tokens to raise, evolve, and collect Pokémon! 🥚
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 523 |
+| Forks | 150 |
+| Stars today | 5 |
+
+---
+
+## 12. [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) 🆕
+
+A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 53,627 |
+| Forks | 7,021 |
+| Stars today | 12 |
+
+---
+
+## 13. [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) 🆕
+
+A lightweight, pure-Swift library for downloading and caching images from the web.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 24,403 |
+| Forks | 2,774 |
+| Stars today | 1 |
 
 ---

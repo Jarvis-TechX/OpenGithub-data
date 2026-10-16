@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-15T04:32:02Z
+**Snapshot Time:** 2026-10-16T04:25:38Z
 **Total Repositories:** 15
-**New Entries:** 5
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,48 +15,48 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 29,744 |
-| Forks | 4,465 |
-| Stars this week | 3,781 |
+| Stars | 30,542 |
+| Forks | 4,594 |
+| Stars this week | 5,130 |
 
 ---
 
-## 2. [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS)
-
-An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 1,146 |
-| Forks | 323 |
-| Stars this week | 149 |
-
----
-
-## 3. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
-
-Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,969 |
-| Forks | 545 |
-| Stars this week | 211 |
-
----
-
-## 4. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+## 2. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 
 📂 Web File Browser
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,755 |
-| Forks | 484 |
-| Stars this week | 202 |
+| Stars | 8,774 |
+| Forks | 488 |
+| Stars this week | 223 |
+
+---
+
+## 3. [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS)
+
+An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,159 |
+| Forks | 327 |
+| Stars this week | 154 |
+
+---
+
+## 4. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+
+Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 2,985 |
+| Forks | 546 |
+| Stars this week | 217 |
 
 ---
 
@@ -67,22 +67,22 @@ AI Agent Builder and Runtime by Docker Engineering
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,498 |
-| Forks | 522 |
-| Stars this week | 1,116 |
+| Stars | 4,525 |
+| Forks | 521 |
+| Stars this week | 354 |
 
 ---
 
-## 6. [eugenioenko/ttt](https://github.com/eugenioenko/ttt) 🆕
+## 6. [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
 
-TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
+Yet another WebUI for Nginx
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 577 |
-| Forks | 60 |
-| Stars this week | 180 |
+| Stars | 11,631 |
+| Forks | 902 |
+| Stars this week | 64 |
 
 ---
 
@@ -93,9 +93,9 @@ TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,384 |
-| Forks | 446 |
-| Stars this week | 463 |
+| Stars | 3,398 |
+| Forks | 448 |
+| Stars this week | 400 |
 
 ---
 
@@ -106,99 +106,99 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 183,193 |
-| Forks | 18,280 |
-| Stars this week | 1,019 |
+| Stars | 183,365 |
+| Forks | 18,311 |
+| Stars this week | 1,038 |
 
 ---
 
-## 9. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) 🆕
-
-llm-d Router: The intelligent entry point for inference requests
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 404 |
-| Forks | 447 |
-| Stars this week | 26 |
-
----
-
-## 10. [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) 🆕
-
-Yet another WebUI for Nginx
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 11,619 |
-| Forks | 901 |
-| Stars this week | 53 |
-
----
-
-## 11. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+## 9. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 15,188 |
-| Forks | 2,231 |
-| Stars this week | 137 |
+| Stars | 15,199 |
+| Forks | 2,235 |
+| Stars this week | 143 |
 
 ---
 
-## 12. [docker/compose](https://github.com/docker/compose) 🆕
+## 10. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router)
 
-Define and run multi-container applications with Docker
+llm-d Router: The intelligent entry point for inference requests
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,359 |
-| Forks | 5,872 |
-| Stars this week | 153 |
+| Stars | 408 |
+| Forks | 455 |
+| Stars this week | 28 |
 
 ---
 
-## 13. [BishopFox/sliver](https://github.com/BishopFox/sliver)
+## 11. [BishopFox/sliver](https://github.com/BishopFox/sliver)
 
 Adversary Emulation Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 12,123 |
-| Forks | 1,626 |
-| Stars this week | 138 |
+| Stars | 12,130 |
+| Forks | 1,628 |
+| Stars this week | 142 |
 
 ---
 
-## 14. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
+## 12. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 
 WhatsApp MCP server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,613 |
-| Forks | 1,408 |
-| Stars this week | 204 |
+| Stars | 6,634 |
+| Forks | 1,417 |
+| Stars this week | 216 |
 
 ---
 
-## 15. [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) 🆕
+## 13. [docker/compose](https://github.com/docker/compose)
 
-CNCF Jaeger, a Distributed Tracing Platform
+Define and run multi-container applications with Docker
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 23,297 |
-| Forks | 3,165 |
-| Stars this week | 38 |
+| Stars | 38,368 |
+| Forks | 5,874 |
+| Stars this week | 176 |
+
+---
+
+## 14. [QuantumNous/new-api](https://github.com/QuantumNous/new-api) 🆕
+
+A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 50,050 |
+| Forks | 12,042 |
+| Stars this week | 660 |
+
+---
+
+## 15. [google/agentmesh](https://github.com/google/agentmesh) 🆕
+
+Agent Mesh
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,081 |
+| Forks | 176 |
+| Stars this week | 114 |
 
 ---

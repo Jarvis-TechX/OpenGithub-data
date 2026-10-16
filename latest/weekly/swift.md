@@ -1,8 +1,8 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-15T04:32:11Z
-**Total Repositories:** 12
+**Snapshot Time:** 2026-10-16T04:25:45Z
+**Total Repositories:** 11
 **New Entries:** 3
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,045 |
-| Forks | 504 |
-| Stars this week | 4,765 |
+| Stars | 11,645 |
+| Forks | 551 |
+| Stars this week | 6,042 |
 
 ---
 
@@ -28,138 +28,125 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,873 |
-| Forks | 210 |
-| Stars this week | 301 |
+| Stars | 1,889 |
+| Forks | 212 |
+| Stars this week | 222 |
 
 ---
 
-## 3. [cshariq/Sapphire](https://github.com/cshariq/Sapphire)
+## 3. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam) 🆕
 
-The all in one mac app that redefines the notch
+A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 320 |
-| Forks | 59 |
-| Stars this week | 56 |
+| Stars | 384 |
+| Forks | 102 |
+| Stars this week | 34 |
 
 ---
 
-## 4. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
-
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 28,174 |
-| Forks | 2,506 |
-| Stars this week | 485 |
-
----
-
-## 5. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
-
-bluetooth mesh chat, IRC vibes
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 36,579 |
-| Forks | 5,835 |
-| Stars this week | 124 |
-
----
-
-## 6. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
-
-Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,230 |
-| Forks | 66 |
-| Stars this week | 171 |
-
----
-
-## 7. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+## 4. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 
 Free and open-source macOS menu bar toolkit.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 27,252 |
-| Forks | 1,190 |
-| Stars this week | 2,797 |
+| Stars | 27,473 |
+| Forks | 1,219 |
+| Stars this week | 2,790 |
 
 ---
 
-## 8. [scholay/xsime](https://github.com/scholay/xsime) 🆕
+## 5. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
 
-XSIME / 犀术IME / 犀術IME — 心有灵犀，落笔见术。Cross-platform input method and text workbench, powered by Rime.
+Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,079 |
-| Forks | 69 |
-| Stars this week | 448 |
+| Stars | 1,252 |
+| Forks | 66 |
+| Stars this week | 168 |
 
 ---
 
-## 9. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
-
-Community fork of PlayCover
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 11,948 |
-| Forks | 1,005 |
-| Stars this week | 101 |
-
----
-
-## 10. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
-
-Telegram-iOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,227 |
-| Forks | 3,045 |
-| Stars this week | 49 |
-
----
-
-## 11. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
-
-Conduit — native SwiftUI iOS client for Hermes Agent
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 292 |
-| Forks | 41 |
-| Stars this week | 71 |
-
----
-
-## 12. [wuwangzhang1216/ChinaTextbookStudyFree](https://github.com/wuwangzhang1216/ChinaTextbookStudyFree) 🆕
+## 6. [wuwangzhang1216/ChinaTextbookStudyFree](https://github.com/wuwangzhang1216/ChinaTextbookStudyFree)
 
 给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 513 |
-| Forks | 158 |
-| Stars this week | 132 |
+| Stars | 546 |
+| Forks | 165 |
+| Stars this week | 165 |
+
+---
+
+## 7. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+
+bluetooth mesh chat, IRC vibes
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 36,599 |
+| Forks | 5,834 |
+| Stars this week | 124 |
+
+---
+
+## 8. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+
+Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 28,202 |
+| Forks | 2,511 |
+| Stars this week | 232 |
+
+---
+
+## 9. [LoopKit/Loop](https://github.com/LoopKit/Loop) 🆕
+
+An automated insulin delivery app for iOS, built on LoopKit
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,739 |
+| Forks | 1,443 |
+| Stars this week | 3 |
+
+---
+
+## 10. [scholay/xsime](https://github.com/scholay/xsime)
+
+XSIME / 犀术IME / 犀術IME — 心有灵犀，落笔见术。Cross-platform input method and text workbench, powered by Rime.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,083 |
+| Forks | 72 |
+| Stars this week | 197 |
+
+---
+
+## 11. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
+
+AI coding assistant for Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,338 |
+| Forks | 2,053 |
+| Stars this week | 26 |
 
 ---

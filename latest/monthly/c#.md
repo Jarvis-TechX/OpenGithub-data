@@ -1,53 +1,40 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-15T04:32:32Z
-**Total Repositories:** 18
+**Snapshot Time:** 2026-10-16T04:26:04Z
+**Total Repositories:** 17
 **New Entries:** 1
-**Quality Score:** 97.78/100
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
-
-.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 26,643 |
-| Forks | 3,771 |
-| Stars this month | 608 |
-
----
-
-## 2. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+## 1. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
 WinUI app for building smaller, customized Windows 11 images.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,318 |
-| Forks | 1,559 |
-| Stars this month | 659 |
+| Stars | 20,520 |
+| Forks | 1,571 |
+| Stars this month | 980 |
 
 ---
 
-## 3. [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
+## 2. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
 
-Bring macOS “Quick Look” feature to Windows
+.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 25,333 |
-| Forks | 1,339 |
-| Stars this month | 707 |
+| Stars | 26,664 |
+| Forks | 3,771 |
+| Stars this month | 619 |
 
 ---
 
-## 4. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 3. [dotnet/runtime](https://github.com/dotnet/runtime)
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
@@ -55,34 +42,47 @@ Bring macOS “Quick Look” feature to Windows
 |--------|-------|
 | Language | C# |
 | Stars | 18,360 |
-| Forks | 5,655 |
-| Stars this month | 143 |
+| Forks | 5,656 |
+| Stars this month | 142 |
 
 ---
 
-## 5. [dotnet/roslyn](https://github.com/dotnet/roslyn)
+## 4. [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
 
-The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+Bring macOS “Quick Look” feature to Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,730 |
-| Forks | 4,349 |
-| Stars this month | 92 |
+| Stars | 25,344 |
+| Forks | 1,341 |
+| Stars this month | 711 |
 
 ---
 
-## 6. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+## 5. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
 
 Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,567 |
-| Forks | 3,071 |
-| Stars this month | 216 |
+| Stars | 17,575 |
+| Forks | 3,075 |
+| Stars this month | 217 |
+
+---
+
+## 6. [dotnet/roslyn](https://github.com/dotnet/roslyn)
+
+The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 20,734 |
+| Forks | 4,350 |
+| Stars this month | 92 |
 
 ---
 
@@ -93,35 +93,35 @@ Open Source real-time strategy game engine for early Westwood games such as Comm
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,430 |
-| Forks | 149 |
-| Stars this month | 1,492 |
+| Stars | 5,446 |
+| Forks | 148 |
+| Stars this month | 1,484 |
 
 ---
 
-## 8. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
+## 8. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
 
-Smart PVR for newsgroup and bittorrent users.
+Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,127 |
-| Forks | 2,038 |
-| Stars this month | 1,039 |
+| Stars | 3,027 |
+| Forks | 398 |
+| Stars this month | 408 |
 
 ---
 
-## 9. [RayrenSX/iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror)
+## 9. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) 🆕
 
-Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
+GUI application to analyze game files
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,288 |
-| Forks | 95 |
-| Stars this month | 739 |
+| Stars | 8,642 |
+| Forks | 1,002 |
+| Stars this month | 322 |
 
 ---
 
@@ -132,39 +132,39 @@ A free, open-source Windows desktop organizer with native-feeling WinUI 3 widget
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,923 |
-| Forks | 363 |
-| Stars this month | 2,518 |
+| Stars | 6,986 |
+| Forks | 366 |
+| Stars this month | 2,492 |
 
 ---
 
-## 11. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
+## 11. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
 
-Work-in-progress tool to reverse unity's IL2CPP toolchain.
+Smart PVR for newsgroup and bittorrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,015 |
-| Forks | 398 |
-| Stars this month | 398 |
+| Stars | 17,156 |
+| Forks | 2,039 |
+| Stars this month | 1,017 |
 
 ---
 
-## 12. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+## 12. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
-Download web video and audio
+B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,359 |
-| Forks | 352 |
-| Stars this month | 336 |
+| Stars | 9,012 |
+| Forks | 1,918 |
+| Stars this month | 216 |
 
 ---
 
-## 13. [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) 🆕
+## 13. [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 
 A robust, high-performance execution client for Ethereum node operators.
 
@@ -172,47 +172,47 @@ A robust, high-performance execution client for Ethereum node operators.
 |--------|-------|
 | Language | C# |
 | Stars | 1,619 |
-| Forks | 755 |
-| Stars this month | 24 |
+| Forks | 757 |
+| Stars this month | 23 |
 
 ---
 
-## 14. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+## 14. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
 
-B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
+Download web video and audio
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,007 |
-| Forks | 1,919 |
-| Stars this month | 215 |
+| Stars | 7,372 |
+| Forks | 354 |
+| Stars this month | 338 |
 
 ---
 
-## 15. [Radarr/Radarr](https://github.com/Radarr/Radarr)
-
-Movie organizer/manager for usenet and torrent users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,574 |
-| Forks | 1,239 |
-| Stars this month | 249 |
-
----
-
-## 16. [RankFTW/RHI](https://github.com/RankFTW/RHI)
+## 15. [RankFTW/RHI](https://github.com/RankFTW/RHI)
 
 ReShade HDR Installer
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,144 |
-| Forks | 73 |
-| Stars this month | 700 |
+| Stars | 2,164 |
+| Forks | 75 |
+| Stars this month | 706 |
+
+---
+
+## 16. [Radarr/Radarr](https://github.com/Radarr/Radarr)
+
+Movie organizer/manager for usenet and torrent users.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,585 |
+| Forks | 1,238 |
+| Stars this month | 252 |
 
 ---
 
@@ -223,19 +223,8 @@ rhythm is just a *click* away!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,269 |
-| Forks | 2,852 |
-| Stars this month | 273 |
-
----
-
-## 18. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,685 |
-| Forks | 232 |
-| Stars this month | 358 |
+| Stars | 19,272 |
+| Forks | 2,854 |
+| Stars this month | 271 |
 
 ---

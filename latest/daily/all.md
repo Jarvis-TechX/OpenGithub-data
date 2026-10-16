@@ -1,8 +1,8 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-15T04:31:33Z
-**Total Repositories:** 12
+**Snapshot Time:** 2026-10-16T04:25:14Z
+**Total Repositories:** 13
 **New Entries:** 8
 **Quality Score:** 100.00/100
 
@@ -15,151 +15,164 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 247,995 |
-| Forks | 62,198 |
-| Stars today | 41,034 |
+| Stars | 274,933 |
+| Forks | 69,255 |
+| Stars today | 32,314 |
 
 ---
 
-## 2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+## 2. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) 🆕
 
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 66,890 |
-| Forks | 7,362 |
-| Stars today | 3,538 |
+| Stars | 39,298 |
+| Forks | 4,341 |
+| Stars today | 307 |
 
 ---
 
-## 3. [mksglu/context-mode](https://github.com/mksglu/context-mode)
-
-Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 29,274 |
-| Forks | 2,054 |
-| Stars today | 947 |
-
----
-
-## 4. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 🆕
-
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-
-| Metric | Value |
-|--------|-------|
-| Language | Shell |
-| Stars | 95,487 |
-| Forks | 10,521 |
-| Stars today | 52 |
-
----
-
-## 5. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) 🆕
+## 3. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 
 Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 49,537 |
-| Forks | 4,433 |
-| Stars today | 163 |
+| Stars | 50,673 |
+| Forks | 4,503 |
+| Stars today | 1,091 |
 
 ---
 
-## 6. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 🆕
+## 4. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 🆕
 
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 52,650 |
-| Forks | 4,780 |
-| Stars today | 103 |
-
----
-
-## 7. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) 🆕
-
-Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 27,652 |
-| Forks | 1,513 |
-| Stars today | 2,109 |
-
----
-
-## 8. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) 🆕
-
-Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 29,743 |
-| Forks | 4,465 |
-| Stars today | 1,025 |
+| Stars | 112,696 |
+| Forks | 6,527 |
+| Stars today | 433 |
 
 ---
 
-## 9. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
+## 5. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
-Empowering everyone to build reliable and efficient software.
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
-| Language | Rust |
-| Stars | 120,119 |
-| Forks | 18,705 |
-| Stars today | 207 |
+| Language | Python |
+| Stars | 69,419 |
+| Forks | 7,597 |
+| Stars today | 3,024 |
 
 ---
 
-## 10. [xtool-org/xtool](https://github.com/xtool-org/xtool)
+## 6. [obra/superpowers](https://github.com/obra/superpowers) 🆕
 
-Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+An agentic skills framework & software development methodology that works.
 
 | Metric | Value |
 |--------|-------|
-| Language | Swift |
-| Stars | 11,045 |
-| Forks | 504 |
-| Stars today | 1,502 |
+| Language | Shell |
+| Stars | 300,059 |
+| Forks | 26,796 |
+| Stars today | 582 |
 
 ---
 
-## 11. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 🆕
+## 7. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) 🆕
 
-WinUI app for building smaller, customized Windows 11 images.
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 | Metric | Value |
 |--------|-------|
-| Language | C# |
-| Stars | 20,318 |
-| Forks | 1,559 |
-| Stars today | 139 |
+| Language | TypeScript |
+| Stars | 75,232 |
+| Forks | 8,938 |
+| Stars today | 147 |
 
 ---
 
-## 12. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) 🆕
+## 8. [mksglu/context-mode](https://github.com/mksglu/context-mode)
+
+Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 29,872 |
+| Forks | 2,087 |
+| Stars today | 904 |
+
+---
+
+## 9. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 Ghidra is a software reverse engineering (SRE) framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 87,752 |
-| Forks | 9,788 |
-| Stars today | 1,008 |
+| Stars | 88,949 |
+| Forks | 9,933 |
+| Stars today | 1,369 |
+
+---
+
+## 10. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 280,556 |
+| Forks | 41,720 |
+| Stars today | 1,013 |
+
+---
+
+## 11. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) 🆕
+
+TokenSpeed is a speed-of-light LLM inference engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 2,540 |
+| Forks | 342 |
+| Stars today | 30 |
+
+---
+
+## 12. [xerj-org/xerj](https://github.com/xerj-org/xerj) 🆕
+
+XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 5,856 |
+| Forks | 317 |
+| Stars today | 715 |
+
+---
+
+## 13. [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) 🆕
+
+一分钟搭建影视站，支持Docker等部署方式
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 18,172 |
+| Forks | 28,777 |
+| Stars today | 978 |
 
 ---

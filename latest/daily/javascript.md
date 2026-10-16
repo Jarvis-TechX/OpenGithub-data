@@ -1,36 +1,36 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-15T04:31:36Z
-**Total Repositories:** 8
-**New Entries:** 7
+**Snapshot Time:** 2026-10-16T04:25:16Z
+**Total Repositories:** 10
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [react/react](https://github.com/react/react) 🆕
+## 1. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
 
-The library for web and native user interfaces.
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 251,032 |
-| Forks | 51,503 |
-| Stars today | 140 |
+| Stars | 280,556 |
+| Forks | 41,720 |
+| Stars today | 1,013 |
 
 ---
 
-## 2. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) 🆕
+## 2. [itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) 🆕
 
-一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 22,434 |
-| Forks | 1,345 |
-| Stars today | 620 |
+| Stars | 556 |
+| Forks | 67 |
+| Stars today | 25 |
 
 ---
 
@@ -41,73 +41,99 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 56,544 |
-| Forks | 11,011 |
-| Stars today | 1,347 |
+| Stars | 56,976 |
+| Forks | 11,105 |
+| Stars today | 531 |
 
 ---
 
-## 4. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
+## 4. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+
+一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 22,985 |
+| Forks | 1,391 |
+| Stars today | 592 |
+
+---
+
+## 5. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 🆕
+
+Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 30,495 |
+| Forks | 5,609 |
+| Stars today | 103 |
+
+---
+
+## 6. [react/react](https://github.com/react/react)
+
+The library for web and native user interfaces.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 251,078 |
+| Forks | 51,510 |
+| Stars today | 71 |
+
+---
+
+## 7. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) 🆕
+
+免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 12,326 |
+| Forks | 851 |
+| Stars today | 240 |
+
+---
+
+## 8. [usebruno/bruno](https://github.com/usebruno/bruno) 🆕
+
+Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 47,668 |
+| Forks | 2,999 |
+| Stars today | 75 |
+
+---
+
+## 9. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 54,784 |
-| Forks | 8,114 |
-| Stars today | 193 |
+| Stars | 54,935 |
+| Forks | 8,143 |
+| Stars today | 176 |
 
 ---
 
-## 5. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 🆕
+## 10. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) 🆕
 
-Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
+Vercel's official collection of agent skills
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,756 |
-| Forks | 184 |
-| Stars today | 45 |
-
----
-
-## 6. [github/awesome-copilot](https://github.com/github/awesome-copilot) 🆕
-
-Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 40,032 |
-| Forks | 5,125 |
-| Stars today | 38 |
-
----
-
-## 7. [sandeco/reversa](https://github.com/sandeco/reversa) 🆕
-
-Transform legacy systems into executable specifications for AI coding agents
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 1,750 |
-| Forks | 441 |
-| Stars today | 11 |
-
----
-
-## 8. [jquery/jquery](https://github.com/jquery/jquery) 🆕
-
-jQuery JavaScript Library
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 59,795 |
-| Forks | 20,514 |
-| Stars today | 2 |
+| Stars | 32,498 |
+| Forks | 2,836 |
+| Stars today | 65 |
 
 ---

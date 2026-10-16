@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-15T04:32:28Z
+**Snapshot Time:** 2026-10-16T04:26:00Z
 **Total Repositories:** 21
-**New Entries:** 3
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 20,101 |
-| Forks | 1,505 |
-| Stars this month | 545 |
+| Stars | 20,108 |
+| Forks | 1,504 |
+| Stars this month | 527 |
 
 ---
 
@@ -28,35 +28,35 @@ Official inference framework for 1-bit LLMs
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,163 |
-| Forks | 3,832 |
-| Stars this month | 1,023 |
+| Stars | 41,175 |
+| Forks | 3,831 |
+| Stars this month | 1,012 |
 
 ---
 
-## 3. [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
-
-Firebase SDK for Apple App Development
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 6,965 |
-| Forks | 1,819 |
-| Stars this month | 324 |
-
----
-
-## 4. [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
+## 3. [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
 
 Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,680 |
-| Forks | 874 |
-| Stars this month | 721 |
+| Stars | 7,698 |
+| Forks | 875 |
+| Stars this month | 726 |
+
+---
+
+## 4. [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
+
+Firebase SDK for Apple App Development
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 6,968 |
+| Forks | 1,820 |
+| Stars this month | 327 |
 
 ---
 
@@ -67,22 +67,22 @@ PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,583 |
-| Forks | 2,746 |
-| Stars this month | 814 |
+| Stars | 33,623 |
+| Forks | 2,757 |
+| Stars this month | 846 |
 
 ---
 
-## 6. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+## 6. [dsp56300/gearmulator](https://github.com/dsp56300/gearmulator) 🆕
 
-Self-hosted game stream host for Moonlight.
+Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 42,222 |
-| Forks | 2,240 |
-| Stars this month | 1,158 |
+| Stars | 1,521 |
+| Forks | 183 |
+| Stars this month | 204 |
 
 ---
 
@@ -93,100 +93,100 @@ An Open Source Machine Learning Framework for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 200,970 |
-| Forks | 79,431 |
-| Stars this month | 1,491 |
+| Stars | 200,985 |
+| Forks | 79,522 |
+| Stars this month | 1,485 |
 
 ---
 
-## 8. [luau-lang/luau](https://github.com/luau-lang/luau) 🆕
+## 8. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+
+Self-hosted game stream host for Moonlight.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 42,260 |
+| Forks | 2,243 |
+| Stars this month | 1,141 |
+
+---
+
+## 9. [luau-lang/luau](https://github.com/luau-lang/luau)
 
 A small, fast, and embeddable programming language based on Lua with a gradual type system.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 5,974 |
-| Forks | 672 |
-| Stars this month | 121 |
+| Stars | 5,979 |
+| Forks | 673 |
+| Stars this month | 126 |
 
 ---
 
-## 9. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
-
-Reimplementation of GTA:SA 1.0 US
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 1,059 |
-| Forks | 250 |
-| Stars this month | 191 |
-
----
-
-## 10. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) 🆕
-
-Multi-Joint dynamics with Contact. A general purpose physics simulator.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 15,687 |
-| Forks | 1,845 |
-| Stars this month | 582 |
-
----
-
-## 11. [deskflow/deskflow](https://github.com/deskflow/deskflow)
-
-Share a single keyboard and mouse between multiple computers.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 29,704 |
-| Forks | 4,959 |
-| Stars this month | 927 |
-
----
-
-## 12. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+## 10. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
 
 Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,476 |
-| Forks | 182 |
-| Stars this month | 223 |
+| Stars | 3,518 |
+| Forks | 186 |
+| Stars this month | 249 |
 
 ---
 
-## 13. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+## 11. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
 
-KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+Reimplementation of GTA:SA 1.0 US
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 29,232 |
-| Forks | 1,951 |
-| Stars this month | 500 |
+| Stars | 1,067 |
+| Forks | 250 |
+| Stars this month | 189 |
 
 ---
 
-## 14. [react/react-native](https://github.com/react/react-native)
+## 12. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
 
-A framework for building native applications using React
+Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 126,678 |
-| Forks | 25,318 |
-| Stars this month | 439 |
+| Stars | 15,701 |
+| Forks | 1,847 |
+| Stars this month | 570 |
+
+---
+
+## 13. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
+
+An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 31,217 |
+| Forks | 7,295 |
+| Stars this month | 1,308 |
+
+---
+
+## 14. [deskflow/deskflow](https://github.com/deskflow/deskflow)
+
+Share a single keyboard and mouse between multiple computers.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 29,738 |
+| Forks | 4,964 |
+| Stars this month | 939 |
 
 ---
 
@@ -197,9 +197,9 @@ QGIS is a free, open source, cross platform (lin/win/mac) geographical informati
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 14,561 |
-| Forks | 3,558 |
-| Stars this month | 200 |
+| Stars | 14,566 |
+| Forks | 3,561 |
+| Stars this month | 199 |
 
 ---
 
@@ -210,73 +210,73 @@ GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 19,094 |
-| Forks | 1,419 |
-| Stars this month | 510 |
+| Stars | 19,107 |
+| Forks | 1,420 |
+| Stars this month | 509 |
 
 ---
 
-## 17. [windirstat/windirstat](https://github.com/windirstat/windirstat)
-
-Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 4,308 |
-| Forks | 269 |
-| Stars this month | 266 |
-
----
-
-## 18. [microsoft/WSL](https://github.com/microsoft/WSL)
+## 17. [microsoft/WSL](https://github.com/microsoft/WSL)
 
 Windows Subsystem for Linux
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,092 |
-| Forks | 1,860 |
-| Stars this month | 478 |
+| Stars | 34,104 |
+| Forks | 1,861 |
+| Stars this month | 479 |
 
 ---
 
-## 19. [Neroued/ninfer](https://github.com/Neroued/ninfer)
+## 18. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
 
-High-performance single-GPU inference for selected model checkpoints and GPUs.
+KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,016 |
-| Forks | 590 |
-| Stars this month | 1,353 |
+| Stars | 29,252 |
+| Forks | 1,953 |
+| Stars this month | 509 |
 
 ---
 
-## 20. [apache/arrow](https://github.com/apache/arrow)
+## 19. [windirstat/windirstat](https://github.com/windirstat/windirstat)
 
-Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+Windows disk usage analyzer and cleanup tool with interactive treemaps, large-file discovery, duplicate detection, and file-system monitoring.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,207 |
-| Forks | 4,373 |
-| Stars this month | 166 |
+| Stars | 4,320 |
+| Forks | 270 |
+| Stars this month | 270 |
 
 ---
 
-## 21. [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) 🆕
+## 20. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) 🆕
 
-Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.https://youtube.com/shorts/RaxszOUMi8E?feature=share
+OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,042 |
-| Forks | 298 |
-| Stars this month | 2,371 |
+| Stars | 11,008 |
+| Forks | 3,458 |
+| Stars this month | 165 |
+
+---
+
+## 21. [mamedev/mame](https://github.com/mamedev/mame) 🆕
+
+MAME
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 10,609 |
+| Forks | 2,596 |
+| Stars this month | 133 |
 
 ---

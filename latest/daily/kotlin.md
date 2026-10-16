@@ -1,204 +1,176 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-15T04:31:49Z
-**Total Repositories:** 15
-**New Entries:** 14
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-10-16T04:25:27Z
+**Total Repositories:** 13
+**New Entries:** 10
+**Quality Score:** 96.92/100
 
 ---
 
-## 1. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) 🆕
-
-Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
+## 1. [android/skills](https://github.com/android/skills) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,946 |
-| Forks | 92 |
-| Stars today | 118 |
+| Stars | 7,847 |
+| Forks | 520 |
+| Stars today | 35 |
 
 ---
 
-## 2. [Chethan616/ClearPDF](https://github.com/Chethan616/ClearPDF) 🆕
+## 2. [Chethan616/ClearPDF](https://github.com/Chethan616/ClearPDF)
 
 Open-source Android PDF and document toolkit with PDF tools, Office viewing, XLSX editing, scanning, and image editing. Built with Kotlin and Jetpack Compose.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 306 |
-| Forks | 19 |
-| Stars today | 20 |
+| Stars | 324 |
+| Forks | 21 |
+| Stars today | 23 |
 
 ---
 
-## 3. [tiann/KernelSU](https://github.com/tiann/KernelSU) 🆕
+## 3. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) 🆕
 
-A Kernel based root solution for Android
+Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,221 |
-| Forks | 4,360 |
-| Stars today | 45 |
+| Stars | 11,345 |
+| Forks | 464 |
+| Stars today | 31 |
 
 ---
 
-## 4. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) 🆕
+## 4. [mihonapp/mihon](https://github.com/mihonapp/mihon) 🆕
 
-Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+Free and open source manga reader for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 553 |
-| Forks | 128 |
-| Stars today | 13 |
+| Stars | 24,412 |
+| Forks | 1,621 |
+| Stars today | 39 |
 
 ---
 
-## 5. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk) 🆕
+## 5. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) 🆕
 
-DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
+🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,908 |
-| Forks | 373 |
-| Stars today | 10 |
-
----
-
-## 6. [HuangZhuoRui/LocationSpoofer](https://github.com/HuangZhuoRui/LocationSpoofer)
-
-虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)，
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,868 |
-| Forks | 333 |
-| Stars today | 69 |
-
----
-
-## 7. [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) 🆕
-
-Painless E2E Automation for Mobile and Web
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 16,064 |
-| Forks | 988 |
+| Stars | 823 |
+| Forks | 27 |
 | Stars today | 24 |
 
 ---
 
-## 8. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
-
-✨一个安卓网盘解析下载app✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,421 |
-| Forks | 224 |
-| Stars today | 72 |
-
----
-
-## 9. [yairm210/Unciv](https://github.com/yairm210/Unciv) 🆕
-
-Open-source Android/Desktop remake of Civ V
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 11,437 |
-| Forks | 1,969 |
-| Stars today | 5 |
-
----
-
-## 10. [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) 🆕
-
-An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,438 |
-| Forks | 87 |
-| Stars today | 16 |
-
----
-
-## 11. [android/architecture-samples](https://github.com/android/architecture-samples) 🆕
-
-A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 45,863 |
-| Forks | 11,845 |
-| Stars today | 7 |
-
----
-
-## 12. [Spotui/Spotui](https://github.com/Spotui/Spotui) 🆕
+## 6. [Spotui/Spotui](https://github.com/Spotui/Spotui)
 
 Spotify clone with deep integration
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 647 |
-| Forks | 48 |
-| Stars today | 6 |
+| Stars | 653 |
+| Forks | 49 |
+| Stars today | 10 |
 
 ---
 
-## 13. [aquamarine5/ChaoxingSignFaker](https://github.com/aquamarine5/ChaoxingSignFaker) 🆕
+## 7. [gotson/komga](https://github.com/gotson/komga) 🆕
 
-伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsifying the signing activity of Chaoxing, supporting slide captcha and signing out, and location-signing by custom position, selecting a picture from gallery for photo-signing and all types. Also supported signing for infinite accounts in only one device
+Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 765 |
-| Forks | 58 |
+| Stars | 6,755 |
+| Forks | 421 |
+| Stars today | 3 |
+
+---
+
+## 8. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
+
+Headunit App for displaying Android Auto
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,830 |
+| Forks | 244 |
+| Stars today | 18 |
+
+---
+
+## 9. [realidkroo/musicfy](https://github.com/realidkroo/musicfy) 🆕
+
+Musicfy repos. what is this? its a music player, offline or online, that you can use for free, with cool ui. pls star this thingthanks
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 147 |
+| Forks | 6 |
 | Stars today | 17 |
 
 ---
 
-## 14. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid) 🆕
+## 10. [1013503897/jadx-headless-mcp](https://github.com/1013503897/jadx-headless-mcp) 🆕
 
-Android GUI proxy utility (Empowered by sing-box)
+Headless MCP server for Android APK static analysis, built directly on jadx-core. No JADX GUI required.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 587 |
-| Forks | 24 |
-| Stars today | 11 |
+| Stars | 83 |
+| Forks | 13 |
+| Stars today | 9 |
 
 ---
 
-## 15. [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) 🆕
+## 11. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) 🆕
 
-原生、纯净、可扩展 —— 重新定义你的 B 站体验
+BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,862 |
-| Forks | 410 |
-| Stars today | 12 |
+| Stars | 3,283 |
+| Forks | 309 |
+| Stars today | 90 |
+
+---
+
+## 12. [Lelonio/Square](https://github.com/Lelonio/Square) 🆕
+
+Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 189 |
+| Forks | 17 |
+| Stars today | 8 |
+
+---
+
+## 13. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+
+A Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 19,265 |
+| Forks | 4,383 |
+| Stars today | 51 |
 
 ---

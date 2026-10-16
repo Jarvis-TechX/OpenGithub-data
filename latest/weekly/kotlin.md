@@ -1,7 +1,7 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-15T04:32:08Z
+**Snapshot Time:** 2026-10-16T04:25:43Z
 **Total Repositories:** 13
 **New Entries:** 3
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Maps and turn-by-turn navigation for Android without Google Play Services: the b
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,946 |
-| Forks | 92 |
-| Stars this week | 1,128 |
+| Stars | 1,978 |
+| Forks | 96 |
+| Stars this week | 856 |
 
 ---
 
@@ -28,9 +28,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,221 |
-| Forks | 4,360 |
-| Stars this week | 276 |
+| Stars | 19,265 |
+| Forks | 4,383 |
+| Stars this week | 288 |
 
 ---
 
@@ -41,22 +41,22 @@ Free and open source manga reader for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 24,375 |
-| Forks | 1,619 |
-| Stars this week | 293 |
+| Stars | 24,412 |
+| Forks | 1,621 |
+| Stars this week | 298 |
 
 ---
 
-## 4. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
+## 4. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
 
-GhostLock One-Tap Execution App (CVE-2026-43499)
+Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,938 |
-| Forks | 500 |
-| Stars this week | 293 |
+| Stars | 563 |
+| Forks | 128 |
+| Stars this week | 56 |
 
 ---
 
@@ -67,35 +67,35 @@ GhostLock One-Tap Execution App (CVE-2026-43499)
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,868 |
-| Forks | 333 |
-| Stars this week | 536 |
+| Stars | 1,913 |
+| Forks | 343 |
+| Stars this week | 564 |
 
 ---
 
-## 6. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
+## 6. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
 
-BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
+GhostLock One-Tap Execution App (CVE-2026-43499)
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,193 |
-| Forks | 297 |
-| Stars this week | 565 |
+| Stars | 1,971 |
+| Forks | 509 |
+| Stars this week | 293 |
 
 ---
 
-## 7. [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)
+## 7. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
-decentralized mesh chat
+A Download Manager that speeds up your downloads
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,794 |
-| Forks | 1,919 |
-| Stars this week | 60 |
+| Stars | 18,557 |
+| Forks | 958 |
+| Stars this week | 266 |
 
 ---
 
@@ -106,22 +106,22 @@ WhatsApp tools for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,774 |
+| Stars | 1,778 |
 | Forks | 246 |
-| Stars this week | 22 |
+| Stars this week | 24 |
 
 ---
 
-## 9. [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) 🆕
+## 9. [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) 🆕
 
-A feature-rich weather app with good visualizations and more than 50 sources.
+A Minecraft: Java Edition Launcher for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,707 |
-| Forks | 417 |
-| Stars this week | 112 |
+| Stars | 2,036 |
+| Forks | 372 |
+| Stars this week | 62 |
 
 ---
 
@@ -132,47 +132,47 @@ A feature-rich weather app with good visualizations and more than 50 sources.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,933 |
-| Forks | 617 |
-| Stars this week | 345 |
+| Stars | 20,955 |
+| Forks | 619 |
+| Stars this week | 295 |
 
 ---
 
-## 11. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) 🆕
+## 11. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) 🆕
 
-A Download Manager that speeds up your downloads
+Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,533 |
-| Forks | 951 |
-| Stars this week | 264 |
+| Stars | 11,345 |
+| Forks | 464 |
+| Stars this week | 327 |
 
 ---
 
-## 12. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) 🆕
+## 12. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
 
-Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+✨一个安卓网盘解析下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 553 |
-| Forks | 128 |
-| Stars this week | 53 |
+| Stars | 4,502 |
+| Forks | 229 |
+| Stars this week | 549 |
 
 ---
 
-## 13. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+## 13. [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)
 
-A V2Ray client for Android, support Xray core and v2fly core
+decentralized mesh chat
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 63,993 |
-| Forks | 8,287 |
-| Stars this week | 430 |
+| Stars | 7,803 |
+| Forks | 1,920 |
+| Stars this week | 59 |
 
 ---

@@ -1,8 +1,8 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-15T04:31:48Z
-**Total Repositories:** 17
+**Snapshot Time:** 2026-10-16T04:25:26Z
+**Total Repositories:** 16
 **New Entries:** 9
 **Quality Score:** 100.00/100
 
@@ -15,152 +15,152 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 87,752 |
-| Forks | 9,788 |
-| Stars today | 1,008 |
+| Stars | 88,949 |
+| Forks | 9,933 |
+| Stars today | 1,369 |
 
 ---
 
-## 2. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 2. [skylot/jadx](https://github.com/skylot/jadx)
 
-Free and Open Source, Distributed, RESTful Search Engine
+Dex to Java decompiler
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,269 |
-| Forks | 26,125 |
-| Stars today | 10 |
+| Stars | 50,990 |
+| Forks | 5,815 |
+| Stars today | 32 |
 
 ---
 
-## 3. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) 🆕
+## 3. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) 🆕
 
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+Learn System Design concepts and prepare for interviews using free resources.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 81,622 |
-| Forks | 44,957 |
-| Stars today | 10 |
+| Stars | 42,288 |
+| Forks | 8,838 |
+| Stars today | 46 |
 
 ---
 
-## 4. [conductor-oss/conductor](https://github.com/conductor-oss/conductor) 🆕
+## 4. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
 
-Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
+Build distributed, production-grade, long-running agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 32,304 |
-| Forks | 1,033 |
-| Stars today | 12 |
+| Stars | 5,999 |
+| Forks | 1,489 |
+| Stars today | 16 |
 
 ---
 
-## 5. [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) 🆕
-
-Plugin for JADX to integrate MCP server
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,900 |
-| Forks | 269 |
-| Stars today | 6 |
-
----
-
-## 6. [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) 🆕
-
-Android VNC remote desktop server for local networks
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,383 |
-| Forks | 317 |
-| Stars today | 2 |
-
----
-
-## 7. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
-
-A tool for reverse engineering Android apk files
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 25,919 |
-| Forks | 4,048 |
-| Stars today | 41 |
-
----
-
-## 8. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-
-🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 39,798 |
-| Forks | 8,580 |
-| Stars today | 51 |
-
----
-
-## 9. [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) 🆕
-
-Jetbrains Claude Code and Codex GUI Plugin
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 7,010 |
-| Forks | 678 |
-| Stars today | 25 |
-
----
-
-## 10. [keycloak/keycloak](https://github.com/keycloak/keycloak) 🆕
-
-Open Source Identity and Access Management For Modern Applications and Services
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 37,354 |
-| Forks | 9,054 |
-| Stars today | 19 |
-
----
-
-## 11. [krahets/hello-algo](https://github.com/krahets/hello-algo)
+## 5. [krahets/hello-algo](https://github.com/krahets/hello-algo)
 
 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 130,712 |
-| Forks | 15,507 |
+| Stars | 130,751 |
+| Forks | 15,510 |
 | Stars today | 53 |
 
 ---
 
-## 12. [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) 🆕
+## 6. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
 
-LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,245 |
-| Forks | 2,621 |
-| Stars today | 9 |
+| Stars | 39,828 |
+| Forks | 8,586 |
+| Stars today | 41 |
+
+---
+
+## 7. [iflytek/skillhub](https://github.com/iflytek/skillhub) 🆕
+
+Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,225 |
+| Forks | 846 |
+| Stars today | 14 |
+
+---
+
+## 8. [dataease/dataease](https://github.com/dataease/dataease) 🆕
+
+🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 24,613 |
+| Forks | 4,270 |
+| Stars today | 1 |
+
+---
+
+## 9. [termux/termux-app](https://github.com/termux/termux-app) 🆕
+
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 62,707 |
+| Forks | 7,905 |
+| Stars today | 76 |
+
+---
+
+## 10. [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) 🆕
+
+An Application Framework for AI Engineering
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,540 |
+| Forks | 2,967 |
+| Stars today | 3 |
+
+---
+
+## 11. [apache/cloudstack](https://github.com/apache/cloudstack) 🆕
+
+Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,103 |
+| Forks | 1,400 |
+| Stars today | 4 |
+
+---
+
+## 12. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 81,636 |
+| Forks | 45,043 |
+| Stars today | 15 |
 
 ---
 
@@ -171,9 +171,9 @@ Apache Kafka - A distributed event streaming platform
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 33,953 |
-| Forks | 15,592 |
-| Stars today | 15 |
+| Stars | 33,961 |
+| Forks | 15,595 |
+| Stars today | 10 |
 
 ---
 
@@ -184,46 +184,33 @@ Chat2DB is a free, cross-platform, local-first database client and SQL workspace
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 28,314 |
-| Forks | 3,055 |
-| Stars today | 3 |
+| Stars | 28,317 |
+| Forks | 3,058 |
+| Stars today | 7 |
 
 ---
 
-## 15. [skylot/jadx](https://github.com/skylot/jadx)
+## 15. [kestra-io/kestra](https://github.com/kestra-io/kestra) 🆕
 
-Dex to Java decompiler
+Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 50,967 |
-| Forks | 5,812 |
-| Stars today | 56 |
+| Stars | 29,634 |
+| Forks | 3,400 |
+| Stars today | 45 |
 
 ---
 
-## 16. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) 🆕
+## 16. [apache/calcite](https://github.com/apache/calcite) 🆕
 
-Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+Apache Calcite
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,283 |
-| Forks | 826 |
-| Stars today | 2 |
-
----
-
-## 17. [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) 🆕
-
-OpenTelemetry auto-instrumentation and instrumentation libraries for Java
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,646 |
-| Forks | 1,171 |
+| Stars | 5,193 |
+| Forks | 2,533 |
 
 ---

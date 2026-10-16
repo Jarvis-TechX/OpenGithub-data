@@ -1,152 +1,152 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-15T04:31:44Z
+**Snapshot Time:** 2026-10-16T04:25:23Z
 **Total Repositories:** 11
-**New Entries:** 9
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
+## 1. [xerj-org/xerj](https://github.com/xerj-org/xerj) 🆕
 
-Empowering everyone to build reliable and efficient software.
+XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 120,119 |
-| Forks | 18,705 |
-| Stars today | 207 |
+| Stars | 5,856 |
+| Forks | 317 |
+| Stars today | 715 |
 
 ---
 
-## 2. [astral-sh/ruff](https://github.com/astral-sh/ruff) 🆕
+## 2. [koharu-rs/koharu](https://github.com/koharu-rs/koharu) 🆕
 
-An extremely fast Python linter and code formatter, written in Rust.
+ML-powered manga translator, written in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 50,093 |
-| Forks | 2,516 |
-| Stars today | 57 |
+| Stars | 6,322 |
+| Forks | 451 |
+| Stars today | 60 |
 
 ---
 
-## 3. [vosen/ZLUDA](https://github.com/vosen/ZLUDA) 🆕
+## 3. [1jehuang/jcode](https://github.com/1jehuang/jcode) 🆕
 
-CUDA on non-NVIDIA GPUs
+High performance coding agent harness written in rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,057 |
-| Forks | 955 |
-| Stars today | 51 |
+| Stars | 20,891 |
+| Forks | 2,423 |
+| Stars today | 97 |
 
 ---
 
-## 4. [ruvnet/RuView](https://github.com/ruvnet/RuView)
+## 4. [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) 🆕
 
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 98,016 |
-| Forks | 12,846 |
-| Stars today | 197 |
+| Stars | 17,661 |
+| Forks | 1,074 |
+| Stars today | 199 |
 
 ---
 
-## 5. [storytold/artcraft](https://github.com/storytold/artcraft)
+## 5. [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) 🆕
 
-ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+Turn your coding agents into research agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 28,147 |
-| Forks | 4,436 |
-| Stars today | 2,909 |
+| Stars | 7,275 |
+| Forks | 486 |
+| Stars today | 78 |
 
 ---
 
-## 6. [t8y2/dbx](https://github.com/t8y2/dbx) 🆕
+## 6. [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) 🆕
 
-25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 26,725 |
-| Forks | 2,418 |
-| Stars today | 295 |
+| Stars | 1,643 |
+| Forks | 259 |
+| Stars today | 34 |
 
 ---
 
-## 7. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 🆕
+## 7. [rtk-ai/rtk](https://github.com/rtk-ai/rtk) 🆕
 
-Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 111,905 |
-| Forks | 4,083 |
+| Stars | 83,536 |
+| Forks | 5,305 |
+| Stars today | 169 |
+
+---
+
+## 8. [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) 🆕
+
+A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 33,168 |
+| Forks | 1,387 |
+| Stars today | 20 |
+
+---
+
+## 9. [Automattic/harper](https://github.com/Automattic/harper) 🆕
+
+Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 16,464 |
+| Forks | 740 |
+| Stars today | 41 |
+
+---
+
+## 10. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 🆕
+
+Browser automation CLI for AI agents
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 44,058 |
+| Forks | 2,990 |
 | Stars today | 62 |
 
 ---
 
-## 8. [tokio-rs/tokio](https://github.com/tokio-rs/tokio) 🆕
+## 11. [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) 🆕
 
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 33,415 |
-| Forks | 5,955 |
-| Stars today | 15 |
-
----
-
-## 9. [astral-sh/uv](https://github.com/astral-sh/uv) 🆕
-
-An extremely fast Python package and project manager, written in Rust.
+A Datacenter Scale Distributed Inference Serving Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 90,780 |
-| Forks | 3,663 |
-| Stars today | 88 |
-
----
-
-## 10. [openai/codex](https://github.com/openai/codex) 🆕
-
-Lightweight coding agent that runs in your terminal
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 129,269 |
-| Forks | 20,320 |
-| Stars today | 209 |
-
----
-
-## 11. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) 🆕
-
-Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 32,227 |
-| Forks | 3,480 |
-| Stars today | 64 |
+| Stars | 8,307 |
+| Forks | 1,709 |
+| Stars today | 11 |
 
 ---
