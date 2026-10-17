@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-16T04:25:33Z
-**Total Repositories:** 8
-**New Entries:** 1
+**Snapshot Time:** 2026-10-17T04:19:37Z
+**Total Repositories:** 11
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,442 |
-| Forks | 1,525 |
-| Stars this week | 4,471 |
+| Stars | 12,901 |
+| Forks | 1,578 |
+| Stars this week | 4,386 |
 
 ---
 
@@ -28,22 +28,22 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 22,985 |
-| Forks | 1,391 |
-| Stars this week | 1,581 |
+| Stars | 23,882 |
+| Forks | 1,454 |
+| Stars this week | 2,072 |
 
 ---
 
-## 3. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+## 3. [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
 
-Production-grade engineering skills for AI coding agents.
+DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 107,098 |
-| Forks | 11,139 |
-| Stars this week | 3,821 |
+| Stars | 2,951 |
+| Forks | 299 |
+| Stars this week | 453 |
 
 ---
 
@@ -54,60 +54,99 @@ sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 694 |
-| Forks | 148 |
-| Stars this week | 134 |
+| Stars | 701 |
+| Forks | 152 |
+| Stars this week | 128 |
 
 ---
 
-## 5. [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+## 5. [react/react](https://github.com/react/react) 🆕
+
+The library for web and native user interfaces.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 251,180 |
+| Forks | 51,511 |
+| Stars this week | 708 |
+
+---
+
+## 6. [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
 ⭐️ Companies that don't have a broken hiring process
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 52,713 |
-| Forks | 3,968 |
-| Stars this week | 281 |
+| Stars | 52,735 |
+| Forks | 3,969 |
+| Stars this week | 265 |
 
 ---
 
-## 6. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
+## 7. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
 
-List of Permanent Free LLM API (API Keys)
+Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,349 |
-| Forks | 1,134 |
-| Stars this week | 857 |
+| Stars | 2,691 |
+| Forks | 243 |
+| Stars this week | 925 |
 
 ---
 
-## 7. [greensock/GSAP](https://github.com/greensock/GSAP)
+## 8. [greensock/GSAP](https://github.com/greensock/GSAP)
 
 GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 29,279 |
-| Forks | 2,259 |
-| Stars this week | 370 |
+| Stars | 29,324 |
+| Forks | 2,264 |
+| Stars this week | 352 |
 
 ---
 
-## 8. [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) 🆕
+## 9. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
 
-DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
+List of Permanent Free LLM API (API Keys)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,897 |
-| Forks | 290 |
-| Stars this week | 457 |
+| Stars | 10,428 |
+| Forks | 1,144 |
+| Stars this week | 811 |
+
+---
+
+## 10. [axios/axios](https://github.com/axios/axios) 🆕
+
+Promise based HTTP client for the browser and node.js
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 109,300 |
+| Forks | 11,932 |
+| Stars this week | 101 |
+
+---
+
+## 11. [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) 🆕
+
+把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 1,426 |
+| Forks | 59 |
+| Stars this week | 547 |
 
 ---

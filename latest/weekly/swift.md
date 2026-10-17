@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-16T04:25:45Z
-**Total Repositories:** 11
-**New Entries:** 3
+**Snapshot Time:** 2026-10-17T04:19:51Z
+**Total Repositories:** 12
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
@@ -15,61 +15,61 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,645 |
-| Forks | 551 |
-| Stars this week | 6,042 |
+| Stars | 11,956 |
+| Forks | 580 |
+| Stars this week | 6,351 |
 
 ---
 
-## 2. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
-
-无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,889 |
-| Forks | 212 |
-| Stars this week | 222 |
-
----
-
-## 3. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam) 🆕
+## 2. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
 
 A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 384 |
-| Forks | 102 |
-| Stars this week | 34 |
+| Stars | 394 |
+| Forks | 109 |
+| Stars this week | 43 |
 
 ---
 
-## 4. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+## 3. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+
+无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,907 |
+| Forks | 212 |
+| Stars this week | 153 |
+
+---
+
+## 4. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) 🆕
+
+Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 -https://x.com/fluidvoiceapp
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 12,236 |
+| Forks | 886 |
+| Stars this week | 280 |
+
+---
+
+## 5. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 
 Free and open-source macOS menu bar toolkit.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 27,473 |
-| Forks | 1,219 |
-| Stars this week | 2,790 |
-
----
-
-## 5. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
-
-Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,252 |
-| Forks | 66 |
-| Stars this week | 168 |
+| Stars | 27,742 |
+| Forks | 1,240 |
+| Stars this week | 2,232 |
 
 ---
 
@@ -80,73 +80,86 @@ Free up your Mac. Safely. A free, open-source native Mac app that clears the cac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 546 |
-| Forks | 165 |
-| Stars this week | 165 |
+| Stars | 799 |
+| Forks | 224 |
+| Stars this week | 374 |
 
 ---
 
-## 7. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+## 7. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
+
+Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,260 |
+| Forks | 66 |
+| Stars this week | 166 |
+
+---
+
+## 8. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 
 bluetooth mesh chat, IRC vibes
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,599 |
-| Forks | 5,834 |
-| Stars this week | 124 |
+| Stars | 36,606 |
+| Forks | 5,829 |
+| Stars this week | 117 |
 
 ---
 
-## 8. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+## 9. [altstoreio/AltStore](https://github.com/altstoreio/AltStore) 🆕
 
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+AltStore is an alternative app store for non-jailbroken iOS devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,202 |
-| Forks | 2,511 |
-| Stars this week | 232 |
+| Stars | 14,607 |
+| Forks | 1,619 |
+| Stars this week | 103 |
 
 ---
 
-## 9. [LoopKit/Loop](https://github.com/LoopKit/Loop) 🆕
+## 10. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) 🆕
 
-An automated insulin delivery app for iOS, built on LoopKit
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,739 |
-| Forks | 1,443 |
-| Stars this week | 3 |
+| Stars | 12,844 |
+| Forks | 1,166 |
+| Stars this week | 134 |
 
 ---
 
-## 10. [scholay/xsime](https://github.com/scholay/xsime)
+## 11. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) 🆕
 
-XSIME / 犀术IME / 犀術IME — 心有灵犀，落笔见术。Cross-platform input method and text workbench, powered by Rime.
+ This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,083 |
-| Forks | 72 |
-| Stars this week | 197 |
+| Stars | 116,319 |
+| Forks | 9,445 |
+| Stars this week | 654 |
 
 ---
 
-## 11. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
+## 12. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit) 🆕
 
-AI coding assistant for Xcode
+Conduit — native SwiftUI iOS client for Hermes Agent
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,338 |
-| Forks | 2,053 |
-| Stars this week | 26 |
+| Stars | 308 |
+| Forks | 44 |
+| Stars this week | 74 |
 
 ---

@@ -1,139 +1,113 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-16T04:25:16Z
-**Total Repositories:** 10
-**New Entries:** 6
+**Snapshot Time:** 2026-10-17T04:19:18Z
+**Total Repositories:** 8
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
+## 1. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 280,556 |
-| Forks | 41,720 |
-| Stars today | 1,013 |
+| Stars | 281,632 |
+| Forks | 41,879 |
+| Stars today | 1,057 |
 
 ---
 
-## 2. [itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) 🆕
-
-A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 556 |
-| Forks | 67 |
-| Stars today | 25 |
-
----
-
-## 3. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 56,976 |
-| Forks | 11,105 |
-| Stars today | 531 |
-
----
-
-## 4. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 2. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 22,985 |
-| Forks | 1,391 |
-| Stars today | 592 |
+| Stars | 23,882 |
+| Forks | 1,454 |
+| Stars today | 538 |
 
 ---
 
-## 5. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 🆕
+## 3. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
 
-Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 30,495 |
-| Forks | 5,609 |
-| Stars today | 103 |
+| Stars | 2,691 |
+| Forks | 243 |
+| Stars today | 420 |
 
 ---
 
-## 6. [react/react](https://github.com/react/react)
+## 4. [superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) 🆕
 
-The library for web and native user interfaces.
+The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 251,078 |
-| Forks | 51,510 |
-| Stars today | 71 |
+| Stars | 820 |
+| Forks | 63 |
+| Stars today | 40 |
 
 ---
 
-## 7. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) 🆕
+## 5. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
 
 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,326 |
-| Forks | 851 |
-| Stars today | 240 |
+| Stars | 12,437 |
+| Forks | 862 |
+| Stars today | 87 |
 
 ---
 
-## 8. [usebruno/bruno](https://github.com/usebruno/bruno) 🆕
+## 6. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 🆕
 
-Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 47,668 |
-| Forks | 2,999 |
-| Stars today | 75 |
+| Stars | 2,018 |
+| Forks | 211 |
+| Stars today | 137 |
 
 ---
 
-## 9. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+## 7. [github/awesome-copilot](https://github.com/github/awesome-copilot) 🆕
 
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 54,935 |
-| Forks | 8,143 |
-| Stars today | 176 |
+| Stars | 40,101 |
+| Forks | 5,144 |
+| Stars today | 46 |
 
 ---
 
-## 10. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) 🆕
+## 8. [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) 🆕
 
-Vercel's official collection of agent skills
+HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 32,498 |
-| Forks | 2,836 |
-| Stars today | 65 |
+| Stars | 4,175 |
+| Forks | 380 |
+| Stars today | 25 |
 
 ---

@@ -1,105 +1,92 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-16T04:25:19Z
-**Total Repositories:** 16
-**New Entries:** 8
+**Snapshot Time:** 2026-10-17T04:19:21Z
+**Total Repositories:** 18
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [antiwork/gumroad](https://github.com/antiwork/gumroad) 🆕
-
-See what sticks
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 9,945 |
-| Forks | 2,080 |
-| Stars today | 38 |
-
----
-
-## 2. [docusealco/docuseal](https://github.com/docusealco/docuseal)
-
-Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 18,736 |
-| Forks | 1,893 |
-| Stars today | 12 |
-
----
-
-## 3. [ruby/ruby](https://github.com/ruby/ruby)
-
-The Ruby Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 23,780 |
-| Forks | 5,659 |
-| Stars today | 2 |
-
----
-
-## 4. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-
-🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 15,624 |
-| Forks | 13,922 |
-| Stars today | 4 |
-
----
-
-## 5. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) 🆕
+## 1. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
 
 Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 37,844 |
-| Forks | 9,221 |
-| Stars today | 51 |
+| Stars | 37,875 |
+| Forks | 9,235 |
+| Stars today | 46 |
 
 ---
 
-## 6. [discourse/discourse](https://github.com/discourse/discourse) 🆕
+## 2. [antiwork/gumroad](https://github.com/antiwork/gumroad)
+
+See what sticks
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 9,955 |
+| Forks | 2,083 |
+| Stars today | 10 |
+
+---
+
+## 3. [zammad/zammad](https://github.com/zammad/zammad) 🆕
+
+Zammad is a web based open source helpdesk/customer support system.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 6,015 |
+| Forks | 1,075 |
+| Stars today | 3 |
+
+---
+
+## 4. [discourse/discourse](https://github.com/discourse/discourse)
 
 A platform for community discussion. Free, open, simple.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 47,981 |
+| Stars | 47,988 |
 | Forks | 9,034 |
-| Stars today | 7 |
+| Stars today | 13 |
 
 ---
 
-## 7. [basecamp/fizzy](https://github.com/basecamp/fizzy) 🆕
+## 5. [docusealco/docuseal](https://github.com/docusealco/docuseal)
 
-Kanban as it should be. Not as it has been.
+Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 8,250 |
-| Forks | 1,202 |
-| Stars today | 1 |
+| Stars | 18,740 |
+| Forks | 1,893 |
+| Stars today | 9 |
 
 ---
 
-## 8. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+## 6. [Homebrew/brew](https://github.com/Homebrew/brew) 🆕
+
+🍺 The Package Manager for Everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,030 |
+| Forks | 11,384 |
+| Stars today | 10 |
+
+---
+
+## 7. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
 
 A database of vulnerable Ruby Gems
 
@@ -111,7 +98,7 @@ A database of vulnerable Ruby Gems
 
 ---
 
-## 9. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 8. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -123,92 +110,127 @@ A collection of RBS for gems.
 
 ---
 
-## 10. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) 🆕
-
-🍻 Default casks (upstream binary packages) for the package manager for everywhere
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 22,256 |
-| Forks | 12,000 |
-| Stars today | 4 |
-
----
-
-## 11. [ruby/rubygems](https://github.com/ruby/rubygems) 🆕
-
-Library packaging and distribution for Ruby.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 3,979 |
-| Forks | 1,940 |
-| Stars today | 1 |
-
----
-
-## 12. [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
+## 9. [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
 
 The Rails application that powers OpenStreetMap
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,852 |
-| Forks | 1,096 |
+| Stars | 2,853 |
+| Forks | 1,098 |
+
+---
+
+## 10. [we-promise/sure](https://github.com/we-promise/sure) 🆕
+
+The personal finance app for everyone (by everyone)
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 10,548 |
+| Forks | 655 |
+| Stars today | 13 |
+
+---
+
+## 11. [ruby/rubygems](https://github.com/ruby/rubygems)
+
+Library packaging and distribution for Ruby.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 3,978 |
+| Forks | 1,939 |
+
+---
+
+## 12. [huginn/huginn](https://github.com/huginn/huginn) 🆕
+
+Create agents that monitor and act on your behalf. Your agents are standing by!
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,067 |
+| Forks | 4,308 |
+| Stars today | 7 |
+
+---
+
+## 13. [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) 🆕
+
+The Cocoa Dependency Manager.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 14,831 |
+| Forks | 2,682 |
+
+---
+
+## 14. [stripe/stripe-ruby](https://github.com/stripe/stripe-ruby) 🆕
+
+Ruby library for the Stripe API.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 2,171 |
+| Forks | 693 |
+
+---
+
+## 15. [mastodon/mastodon](https://github.com/mastodon/mastodon) 🆕
+
+Your self-hosted, globally interconnected microblogging community
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,412 |
+| Forks | 7,522 |
+| Stars today | 3 |
+
+---
+
+## 16. [jordansissel/fpm](https://github.com/jordansissel/fpm) 🆕
+
+Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 11,512 |
+| Forks | 1,066 |
+
+---
+
+## 17. [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) 🆕
+
+Informative site with EoL dates of everything
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 3,400 |
+| Forks | 1,324 |
 | Stars today | 1 |
 
 ---
 
-## 13. [decidim/decidim](https://github.com/decidim/decidim) 🆕
+## 18. [opf/openproject](https://github.com/opf/openproject) 🆕
 
-The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 1,829 |
-| Forks | 493 |
-
----
-
-## 14. [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) 🆕
-
-🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
+OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,231 |
-| Forks | 214 |
-| Stars today | 2 |
-
----
-
-## 15. [rails/rails](https://github.com/rails/rails)
-
-Ruby on Rails
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 58,840 |
-| Forks | 25,439 |
-| Stars today | 2 |
-
----
-
-## 16. [jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-🌐 Jekyll is a blog-aware static site generator in Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 51,715 |
-| Forks | 10,305 |
-| Stars today | 4 |
+| Stars | 16,449 |
+| Forks | 3,560 |
+| Stars today | 12 |
 
 ---

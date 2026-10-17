@@ -1,152 +1,152 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-16T04:25:25Z
+**Snapshot Time:** 2026-10-17T04:19:27Z
 **Total Repositories:** 11
-**New Entries:** 6
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+## 1. [ocornut/imgui](https://github.com/ocornut/imgui) 🆕
 
-🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 55,259 |
-| Forks | 2,509 |
-| Stars today | 28 |
-
----
-
-## 2. [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
-
-A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,123 |
-| Forks | 525 |
-| Stars today | 78 |
+| Stars | 76,684 |
+| Forks | 12,080 |
+| Stars today | 18 |
 
 ---
 
-## 3. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
-
-An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 31,217 |
-| Forks | 7,295 |
-| Stars today | 119 |
-
----
-
-## 4. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
-
-Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,518 |
-| Forks | 186 |
-| Stars today | 33 |
-
----
-
-## 5. [ChiR24/Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) 🆕
-
-A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal Engine through the native C++ Automation Bridge plugin. Built with TypeScript and C++.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 951 |
-| Forks | 180 |
-| Stars today | 14 |
-
----
-
-## 6. [google/googletest](https://github.com/google/googletest) 🆕
-
-GoogleTest - Google Testing and Mocking Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 39,644 |
-| Forks | 10,920 |
-| Stars today | 4 |
-
----
-
-## 7. [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) 🆕
-
-super repo for rocm systems projects
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 535 |
-| Forks | 450 |
-| Stars today | 2 |
-
----
-
-## 8. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) 🆕
-
-ClickHouse® is a real-time analytics database management system
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 50,442 |
-| Forks | 9,109 |
-| Stars today | 25 |
-
----
-
-## 9. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+## 2. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
 
 CUDA Templates and Python DSLs for High-Performance Linear Algebra
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 10,591 |
-| Forks | 2,129 |
-| Stars today | 16 |
+| Stars | 10,606 |
+| Forks | 2,130 |
+| Stars today | 11 |
 
 ---
 
-## 10. [scummvm/scummvm](https://github.com/scummvm/scummvm) 🆕
+## 3. [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
 
-ScummVM main repository
+A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,855 |
-| Forks | 1,434 |
-| Stars today | 1 |
+| Stars | 6,143 |
+| Forks | 525 |
+| Stars today | 17 |
 
 ---
 
-## 11. [Flare-Animate/Flare](https://github.com/Flare-Animate/Flare) 🆕
+## 4. [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) 🆕
 
-Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz.
+Distribute and run LLMs with a single file.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 115 |
-| Forks | 16 |
+| Stars | 26,365 |
+| Forks | 1,706 |
+| Stars today | 73 |
+
+---
+
+## 5. [duckdb/duckdb](https://github.com/duckdb/duckdb) 🆕
+
+DuckDB is an analytical in-process SQL database management system
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 42,211 |
+| Forks | 3,947 |
+| Stars today | 31 |
+
+---
+
+## 6. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+
+An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 31,305 |
+| Forks | 7,316 |
+| Stars today | 95 |
+
+---
+
+## 7. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) 🆕
+
+Audio Plugin for Audio to MIDI transcription using deep learning.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,201 |
+| Forks | 226 |
+| Stars today | 25 |
+
+---
+
+## 8. [zeldaret/botw](https://github.com/zeldaret/botw) 🆕
+
+Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 2,246 |
+| Forks | 140 |
+| Stars today | 12 |
+
+---
+
+## 9. [LittleBitUA/DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) 🆕
+
+Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0 stable: 60 FPS unlocked, ROV warm-cache, standalone launcher, DualSense adaptive triggers, portable saves. Tested on USA + Europe X360 dumps.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 298 |
+| Forks | 6 |
+| Stars today | 7 |
+
+---
+
+## 10. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+
+Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,546 |
+| Forks | 188 |
+| Stars today | 43 |
+
+---
+
+## 11. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) 🆕
+
+Protocol Buffers - Google's data interchange format
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 72,115 |
+| Forks | 16,314 |
 | Stars today | 5 |
 
 ---

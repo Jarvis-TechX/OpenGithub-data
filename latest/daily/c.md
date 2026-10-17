@@ -1,165 +1,152 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-16T04:25:24Z
-**Total Repositories:** 12
-**New Entries:** 9
+**Snapshot Time:** 2026-10-17T04:19:26Z
+**Total Repositories:** 11
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
+## 1. [timescale/pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) 🆕
 
-Static recompilation runtime libraries for PlayStation 3 titles.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 449 |
-| Forks | 57 |
-| Stars today | 25 |
-
----
-
-## 2. [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) 🆕
-
-Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+High-performance vector search for PostgreSQL
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 74,214 |
-| Forks | 4,799 |
-| Stars today | 109 |
+| Stars | 371 |
+| Forks | 13 |
+| Stars today | 35 |
 
 ---
 
-## 3. [lvgl/lvgl](https://github.com/lvgl/lvgl) 🆕
+## 2. [JustVugg/colibri](https://github.com/JustVugg/colibri) 🆕
 
-LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 24,921 |
-| Forks | 4,396 |
-| Stars today | 11 |
+| Stars | 42,451 |
+| Forks | 4,737 |
+| Stars today | 267 |
 
 ---
 
-## 4. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) 🆕
+## 3. [libsdl-org/SDL](https://github.com/libsdl-org/SDL) 🆕
 
-An advanced Kernel based root solution for Android
+Simple DirectMedia Layer
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,478 |
-| Forks | 1,186 |
-| Stars today | 19 |
+| Stars | 16,816 |
+| Forks | 3,074 |
+| Stars today | 8 |
 
 ---
 
-## 5. [FreeRTOS/FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel)
+## 4. [FreeRTOS/FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel)
 
 FreeRTOS kernel files only, submoduled intohttps://github.com/FreeRTOS/FreeRTOSand various other repos.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,572 |
-| Forks | 1,629 |
-| Stars today | 8 |
+| Stars | 4,580 |
+| Forks | 1,630 |
+| Stars today | 7 |
 
 ---
 
-## 6. [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) 🆕
+## 5. [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) 🆕
 
-Ultralightweight JSON parser in ANSI C
+This is a fork of F4HWN firmwarehttps://github.com/armel/uv-k5-firmware-customby@muzkrand@armel
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 13,040 |
-| Forks | 3,541 |
-| Stars today | 4 |
+| Stars | 771 |
+| Forks | 211 |
+| Stars today | 2 |
 
 ---
 
-## 7. [capstone-engine/capstone](https://github.com/capstone-engine/capstone) 🆕
+## 6. [SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) 🆕
 
-Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
+Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 9,107 |
-| Forks | 1,741 |
-| Stars today | 8 |
+| Stars | 693 |
+| Forks | 49 |
+| Stars today | 6 |
 
 ---
 
-## 8. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) 🆕
+## 7. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk) 🆕
 
-Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+Xbox 360 Recompilation Runtime and Toolkit
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,804 |
-| Forks | 10,183 |
-| Stars today | 10 |
+| Stars | 1,093 |
+| Forks | 197 |
+| Stars today | 13 |
 
 ---
 
-## 9. [lz4/lz4](https://github.com/lz4/lz4) 🆕
+## 8. [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) 🆕
 
-Extremely Fast Compression algorithm
+An open and affordable mini quadruped robot based on ESP32.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,149 |
-| Forks | 1,609 |
-| Stars today | 3 |
+| Stars | 4,707 |
+| Forks | 637 |
+| Stars today | 17 |
 
 ---
 
-## 10. [rizinorg/rizin](https://github.com/rizinorg/rizin) 🆕
+## 9. [logicog/RTLPlayground](https://github.com/logicog/RTLPlayground) 🆕
 
-UNIX-like reverse engineering framework and command-line toolset.
+A Playground for Firmware development for RTL8372/RTL8373 based 2.5GBit Switches
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 3,974 |
-| Forks | 641 |
-| Stars today | 9 |
+| Stars | 603 |
+| Forks | 156 |
+| Stars today | 27 |
 
 ---
 
-## 11. [git/git](https://github.com/git/git) 🆕
+## 10. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 
-Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+An advanced Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 63,816 |
-| Forks | 28,557 |
-| Stars today | 25 |
+| Stars | 4,490 |
+| Forks | 1,189 |
+| Stars today | 12 |
 
 ---
 
-## 12. [opa334/Dopamine](https://github.com/opa334/Dopamine)
+## 11. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
 
-Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+Static recompilation runtime libraries for PlayStation 3 titles.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 6,937 |
-| Forks | 6,338 |
-| Stars today | 14 |
+| Stars | 465 |
+| Forks | 58 |
+| Stars today | 16 |
 
 ---

@@ -1,23 +1,23 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-16T04:25:17Z
-**Total Repositories:** 19
-**New Entries:** 10
+**Snapshot Time:** 2026-10-17T04:19:19Z
+**Total Repositories:** 16
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [morluto/rea](https://github.com/morluto/rea)
+## 1. [mksglu/context-mode](https://github.com/mksglu/context-mode)
 
-Reverse engineer anything with agents, from app behavior down to native binaries.
+Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 274,934 |
-| Forks | 69,255 |
-| Stars today | 32,314 |
+| Stars | 30,283 |
+| Forks | 2,133 |
+| Stars today | 449 |
 
 ---
 
@@ -28,35 +28,35 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 75,232 |
-| Forks | 8,938 |
-| Stars today | 147 |
+| Stars | 75,695 |
+| Forks | 8,969 |
+| Stars today | 672 |
 
 ---
 
-## 3. [mksglu/context-mode](https://github.com/mksglu/context-mode)
+## 3. [cursor/plugins](https://github.com/cursor/plugins)
 
-Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
+Cursor plugin specification and official plugins
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,872 |
-| Forks | 2,087 |
-| Stars today | 904 |
+| Stars | 12,026 |
+| Forks | 1,166 |
+| Stars today | 278 |
 
 ---
 
-## 4. [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) 🆕
+## 4. [stablyai/orca](https://github.com/stablyai/orca)
 
-一分钟搭建影视站，支持Docker等部署方式
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 18,172 |
-| Forks | 28,777 |
-| Stars today | 978 |
+| Stars | 94,595 |
+| Forks | 6,048 |
+| Stars today | 1,102 |
 
 ---
 
@@ -67,190 +67,151 @@ The open-source CapCut alternative
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 94,782 |
-| Forks | 9,327 |
-| Stars today | 345 |
+| Stars | 94,997 |
+| Forks | 9,355 |
+| Stars today | 257 |
 
 ---
 
-## 6. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-
-Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 40,314 |
-| Forks | 4,069 |
-| Stars today | 178 |
-
----
-
-## 7. [anomalyco/opencode](https://github.com/anomalyco/opencode)
+## 6. [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
 The open source coding agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 213,992 |
-| Forks | 28,718 |
-| Stars today | 401 |
+| Stars | 214,408 |
+| Forks | 28,776 |
+| Stars today | 488 |
 
 ---
 
-## 8. [cursor/plugins](https://github.com/cursor/plugins) 🆕
-
-Cursor plugin specification and official plugins
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 11,682 |
-| Forks | 1,137 |
-| Stars today | 214 |
-
----
-
-## 9. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) 🆕
-
-7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 35,840 |
-| Forks | 4,836 |
-| Stars today | 521 |
-
----
-
-## 10. [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen) 🆕
-
-🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 3,118 |
-| Forks | 351 |
-| Stars today | 331 |
-
----
-
-## 11. [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 🆕
-
-The open-source app everyone uses to manage agents at work
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 102,815 |
-| Forks | 17,212 |
-| Stars today | 577 |
-
----
-
-## 12. [stablyai/orca](https://github.com/stablyai/orca)
-
-Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 93,660 |
-| Forks | 5,976 |
-| Stars today | 949 |
-
----
-
-## 13. [grafana/grafana](https://github.com/grafana/grafana) 🆕
-
-The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 77,303 |
-| Forks | 14,864 |
-| Stars today | 39 |
-
----
-
-## 14. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) 🆕
-
-A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 1,412 |
-| Forks | 116 |
-| Stars today | 101 |
-
----
-
-## 15. [vercel-labs/skills](https://github.com/vercel-labs/skills)
-
-The open agent skills tool - npx skills
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 35,137 |
-| Forks | 2,997 |
-| Stars today | 177 |
-
----
-
-## 16. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 7. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
 Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 64,694 |
-| Forks | 5,821 |
-| Stars today | 858 |
+| Stars | 65,413 |
+| Forks | 5,895 |
+| Stars today | 822 |
 
 ---
 
-## 17. [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal) 🆕
+## 8. [desktop/desktop](https://github.com/desktop/desktop) 🆕
 
-A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions.
+Focus on what matters instead of fighting with Git.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,752 |
-| Forks | 312 |
-| Stars today | 66 |
+| Stars | 21,966 |
+| Forks | 10,633 |
+| Stars today | 7 |
 
 ---
 
-## 18. [microsoft/playwright](https://github.com/microsoft/playwright) 🆕
+## 9. [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) 🆕
 
-Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 97,814 |
-| Forks | 6,625 |
-| Stars today | 81 |
+| Stars | 13,544 |
+| Forks | 1,479 |
+| Stars today | 239 |
 
 ---
 
-## 19. [dimthink/PriceAI](https://github.com/dimthink/PriceAI) 🆕
+## 10. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) 🆕
 
-AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
+A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 4,139 |
-| Forks | 212 |
-| Stars today | 52 |
+| Stars | 8,526 |
+| Forks | 1,114 |
+| Stars today | 4 |
+
+---
+
+## 11. [morluto/rea](https://github.com/morluto/rea)
+
+Reverse engineer anything with agents, from app behavior down to native binaries.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 293,234 |
+| Forks | 73,924 |
+| Stars today | 23,584 |
+
+---
+
+## 12. [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 🆕
+
+Spec-driven development (SDD) for AI coding assistants.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 72,173 |
+| Forks | 4,935 |
+| Stars today | 122 |
+
+---
+
+## 13. [apache/maka](https://github.com/apache/maka) 🆕
+
+Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 5,810 |
+| Forks | 551 |
+| Stars today | 36 |
+
+---
+
+## 14. [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen)
+
+🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,144 |
+| Forks | 352 |
+| Stars today | 90 |
+
+---
+
+## 15. [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) 🆕
+
+A framework for building agentic apps
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 7,398 |
+| Forks | 671 |
+| Stars today | 89 |
+
+---
+
+## 16. [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) 🆕
+
+AI Product Design Agent - Open Source
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 7,432 |
+| Forks | 768 |
+| Stars today | 38 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-16T04:25:41Z
-**Total Repositories:** 11
-**New Entries:** 4
+**Snapshot Time:** 2026-10-17T04:19:46Z
+**Total Repositories:** 12
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 38,880 |
-| Forks | 3,469 |
-| Stars this week | 25,174 |
+| Stars | 40,039 |
+| Forks | 3,585 |
+| Stars this week | 20,518 |
 
 ---
 
@@ -28,125 +28,138 @@ Official inference framework for 1-bit LLMs
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,175 |
-| Forks | 3,831 |
-| Stars this week | 825 |
+| Stars | 41,178 |
+| Forks | 3,832 |
+| Stars this week | 832 |
 
 ---
 
-## 3. [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
+## 3. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) 🆕
+
+Audio Plugin for Audio to MIDI transcription using deep learning.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,201 |
+| Forks | 226 |
+| Stars this week | 128 |
+
+---
+
+## 4. [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
 
 Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.https://youtube.com/shorts/RaxszOUMi8E?feature=share
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,078 |
-| Forks | 306 |
-| Stars this week | 726 |
+| Stars | 3,169 |
+| Forks | 332 |
+| Stars this week | 633 |
 
 ---
 
-## 4. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
-
-An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 31,217 |
-| Forks | 7,295 |
-| Stars this week | 683 |
-
----
-
-## 5. [k4yt3x/video2x](https://github.com/k4yt3x/video2x) 🆕
-
-A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 22,266 |
-| Forks | 1,943 |
-| Stars this week | 220 |
-
----
-
-## 6. [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) 🆕
+## 5. [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX)
 
 Diablo build for modern operating systems
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 9,869 |
+| Stars | 9,874 |
 | Forks | 1,071 |
-| Stars this week | 71 |
+| Stars this week | 73 |
 
 ---
 
-## 7. [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) 🆕
+## 6. [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
 
 Telegram Desktop messaging app
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,254 |
-| Forks | 7,401 |
-| Stars this week | 144 |
+| Stars | 33,273 |
+| Forks | 7,410 |
+| Stars this week | 142 |
 
 ---
 
-## 8. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) 🆕
+## 7. [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) 🆕
 
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,342 |
-| Forks | 6,206 |
-| Stars this week | 319 |
+| Stars | 6,143 |
+| Forks | 525 |
+| Stars this week | 179 |
 
 ---
 
-## 9. [hluk/CopyQ](https://github.com/hluk/CopyQ)
-
-Clipboard manager with advanced features
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 12,484 |
-| Forks | 609 |
-| Stars this week | 106 |
-
----
-
-## 10. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+## 8. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
 
 Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,518 |
-| Forks | 186 |
-| Stars this week | 166 |
+| Stars | 3,546 |
+| Forks | 188 |
+| Stars this week | 186 |
 
 ---
 
-## 11. [typesense/typesense](https://github.com/typesense/typesense)
+## 9. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
-Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 26,930 |
-| Forks | 1,013 |
-| Stars this week | 220 |
+| Stars | 31,305 |
+| Forks | 7,316 |
+| Stars this week | 730 |
+
+---
+
+## 10. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) 🆕
+
+PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 33,655 |
+| Forks | 2,766 |
+| Stars this week | 380 |
+
+---
+
+## 11. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
+
+An Open Source Machine Learning Framework for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 201,061 |
+| Forks | 79,636 |
+| Stars this week | 716 |
+
+---
+
+## 12. [lkimuk/ReArk](https://github.com/lkimuk/ReArk) 🆕
+
+An intelligent reverse engineering and AI-assisted analysis tool for HarmonyOS NEXT (HAP/APP/ABC), Android (APK/AAB), iOS (IPA), and native PE/ELF/Mach-O binaries.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 681 |
+| Forks | 112 |
+| Stars this week | 194 |
 
 ---

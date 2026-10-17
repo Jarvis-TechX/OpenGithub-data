@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-16T04:25:35Z
-**Total Repositories:** 14
-**New Entries:** 7
+**Snapshot Time:** 2026-10-17T04:19:39Z
+**Total Repositories:** 13
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -17,7 +17,7 @@ Your self-hosted, globally interconnected microblogging community
 | Language | Ruby |
 | Stars | 50,412 |
 | Forks | 7,522 |
-| Stars this week | 92 |
+| Stars this week | 80 |
 
 ---
 
@@ -28,9 +28,9 @@ See what sticks
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 9,945 |
-| Forks | 2,080 |
-| Stars this week | 134 |
+| Stars | 9,955 |
+| Forks | 2,083 |
+| Stars this week | 127 |
 
 ---
 
@@ -41,26 +41,78 @@ Ruby on Rails
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 58,840 |
-| Forks | 25,439 |
-| Stars this week | 60 |
+| Stars | 58,846 |
+| Forks | 25,541 |
+| Stars this week | 55 |
 
 ---
 
-## 4. [docusealco/docuseal](https://github.com/docusealco/docuseal)
+## 4. [discourse/discourse](https://github.com/discourse/discourse)
 
-Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+A platform for community discussion. Free, open, simple.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 18,736 |
-| Forks | 1,893 |
-| Stars this week | 65 |
+| Stars | 47,988 |
+| Forks | 9,034 |
+| Stars this week | 60 |
 
 ---
 
-## 5. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+## 5. [CMSgov/price-transparency-guide](https://github.com/CMSgov/price-transparency-guide) 🆕
+
+The technical implementation guide for the tri-departmental price transparency rule.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 460 |
+| Forks | 139 |
+| Stars this week | 1 |
+
+---
+
+## 6. [forem/forem](https://github.com/forem/forem) 🆕
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,799 |
+| Forks | 4,189 |
+| Stars this week | 13 |
+
+---
+
+## 7. [jekyll/jekyll](https://github.com/jekyll/jekyll) 🆕
+
+🌐 Jekyll is a blog-aware static site generator in Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 51,715 |
+| Forks | 10,304 |
+| Stars this week | 26 |
+
+---
+
+## 8. [rubocop/rubocop](https://github.com/rubocop/rubocop) 🆕
+
+A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 12,914 |
+| Forks | 3,150 |
+| Stars this week | 6 |
+
+---
+
+## 9. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
 
 A database of vulnerable Ruby Gems
 
@@ -72,59 +124,7 @@ A database of vulnerable Ruby Gems
 
 ---
 
-## 6. [discourse/discourse](https://github.com/discourse/discourse) 🆕
-
-A platform for community discussion. Free, open, simple.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 47,981 |
-| Forks | 9,034 |
-| Stars this week | 58 |
-
----
-
-## 7. [github/markup](https://github.com/github/markup) 🆕
-
-Determines which markup library to use to render a content file (e.g. README) on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 6,048 |
-| Forks | 3,375 |
-| Stars this week | 5 |
-
----
-
-## 8. [github/explore](https://github.com/github/explore)
-
-Community-curated topic and collection pages on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 4,909 |
-| Forks | 14,619 |
-| Stars this week | 14 |
-
----
-
-## 9. [Freika/dawarich](https://github.com/Freika/dawarich) 🆕
-
-Your favorite self-hostable alternative to Google Timeline (Google Location History)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 10,680 |
-| Forks | 400 |
-| Stars this week | 67 |
-
----
-
-## 10. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection) 🆕
+## 10. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -136,53 +136,41 @@ A collection of RBS for gems.
 
 ---
 
-## 11. [DSACMS/iv-cbv-payroll](https://github.com/DSACMS/iv-cbv-payroll) 🆕
+## 11. [stripe/stripe-ruby](https://github.com/stripe/stripe-ruby) 🆕
 
-Eligibility Made Easy (Emmy) using Consent-Based Verification (CBV) is a prototype that allows benefit applicants to verify their income directly using payroll providers. It is currently being piloted for testing and validation purposes.
+Ruby library for the Stripe API.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 27 |
-| Forks | 20 |
+| Stars | 2,171 |
+| Forks | 693 |
+| Stars this week | 2 |
 
 ---
 
-## 12. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) 🆕
+## 12. [fluent/fluentd](https://github.com/fluent/fluentd) 🆕
 
-A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+Fluentd: Unified Logging Layer (project under CNCF)
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 26,320 |
-| Forks | 3,152 |
-| Stars this week | 15 |
+| Stars | 13,609 |
+| Forks | 1,404 |
+| Stars this week | 7 |
 
 ---
 
-## 13. [swombat/souls-house](https://github.com/swombat/souls-house)
+## 13. [github/explore](https://github.com/github/explore)
 
-A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 45 |
-| Forks | 6 |
-| Stars this week | 1 |
-
----
-
-## 14. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) 🆕
-
-Metasploit Framework
+Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,153 |
-| Forks | 14,999 |
-| Stars this week | 58 |
+| Stars | 4,909 |
+| Forks | 14,617 |
+| Stars this week | 10 |
 
 ---

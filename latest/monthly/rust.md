@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-16T04:25:57Z
+**Snapshot Time:** 2026-10-17T04:20:04Z
 **Total Repositories:** 22
-**New Entries:** 4
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,362 |
-| Forks | 1,796 |
-| Stars this month | 7,813 |
+| Stars | 16,468 |
+| Forks | 1,804 |
+| Stars this month | 7,885 |
 
 ---
 
@@ -28,9 +28,9 @@ Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 29,886 |
-| Forks | 2,141 |
-| Stars this month | 7,322 |
+| Stars | 29,977 |
+| Forks | 2,148 |
+| Stars this month | 7,397 |
 
 ---
 
@@ -41,22 +41,22 @@ Rust GUI components for building fantastic cross-platform desktop application by
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 17,661 |
-| Forks | 1,074 |
-| Stars this month | 3,233 |
+| Stars | 17,828 |
+| Forks | 1,079 |
+| Stars this month | 3,384 |
 
 ---
 
-## 4. [cloudflare/quiche](https://github.com/cloudflare/quiche)
+## 4. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) 🆕
 
-🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+The design language that makes your AI harness better at design.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,787 |
-| Forks | 1,175 |
-| Stars this month | 998 |
+| Stars | 82,071 |
+| Forks | 4,927 |
+| Stars this month | 13,845 |
 
 ---
 
@@ -67,9 +67,9 @@ RustFS is an open-source, S3-compatible high-performance object storage system s
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 34,991 |
-| Forks | 1,594 |
-| Stars this month | 3,029 |
+| Stars | 35,033 |
+| Forks | 1,596 |
+| Stars this month | 2,942 |
 
 ---
 
@@ -80,9 +80,9 @@ RustFS is an open-source, S3-compatible high-performance object storage system s
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 26,889 |
-| Forks | 2,431 |
-| Stars this month | 7,360 |
+| Stars | 27,007 |
+| Forks | 2,450 |
+| Stars this month | 7,387 |
 
 ---
 
@@ -93,9 +93,9 @@ A refreshingly simple data-driven game engine built in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 49,045 |
-| Forks | 4,938 |
-| Stars this month | 977 |
+| Stars | 49,077 |
+| Forks | 4,941 |
+| Stars this month | 1,001 |
 
 ---
 
@@ -106,9 +106,9 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 151,689 |
-| Forks | 10,892 |
-| Stars this month | 7,690 |
+| Stars | 151,918 |
+| Forks | 10,905 |
+| Stars this month | 7,718 |
 
 ---
 
@@ -119,9 +119,9 @@ Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Ru
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,736 |
-| Forks | 499 |
-| Stars this month | 16,929 |
+| Stars | 19,054 |
+| Forks | 551 |
+| Stars this month | 17,270 |
 
 ---
 
@@ -132,9 +132,9 @@ HydraDB - fast graph database on object storage
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 13,033 |
-| Forks | 5,429 |
-| Stars this month | 10,026 |
+| Stars | 13,047 |
+| Forks | 5,432 |
+| Stars this month | 9,981 |
 
 ---
 
@@ -145,9 +145,9 @@ Policy-driven, layered isolation and containment
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,849 |
-| Forks | 151 |
-| Stars this month | 1,513 |
+| Stars | 2,879 |
+| Forks | 155 |
+| Stars this month | 1,546 |
 
 ---
 
@@ -158,48 +158,48 @@ Give cloud AI agents a real development environment on your own machines.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,320 |
-| Forks | 316 |
-| Stars this month | 1,561 |
+| Stars | 2,333 |
+| Forks | 315 |
+| Stars this month | 1,433 |
 
 ---
 
-## 13. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+## 13. [trymirai/uzu](https://github.com/trymirai/uzu) 🆕
 
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 125,952 |
-| Forks | 19,732 |
-| Stars this month | 3,020 |
+| Stars | 2,370 |
+| Forks | 140 |
+| Stars this month | 568 |
 
 ---
 
-## 14. [zeronsh/zeron](https://github.com/zeronsh/zeron)
-
-A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,229 |
-| Forks | 332 |
-| Stars this month | 1,723 |
-
----
-
-## 15. [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh) 🆕
+## 14. [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh)
 
 Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,182 |
+| Stars | 1,189 |
 | Forks | 70 |
-| Stars this month | 657 |
+| Stars this month | 646 |
+
+---
+
+## 15. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 126,047 |
+| Forks | 19,769 |
+| Stars this month | 2,968 |
 
 ---
 
@@ -210,35 +210,35 @@ A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-ac
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,093 |
-| Forks | 355 |
-| Stars this month | 1,135 |
+| Stars | 3,140 |
+| Forks | 366 |
+| Stars this month | 1,132 |
 
 ---
 
-## 17. [ankitects/anki](https://github.com/ankitects/anki)
+## 17. [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) 🆕
 
-Anki is a smart spaced repetition flashcard program
+WorkBuddy、CodeBuddy 账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 32,044 |
-| Forks | 3,345 |
-| Stars this month | 1,702 |
+| Stars | 1,341 |
+| Forks | 175 |
+| Stars this month | 940 |
 
 ---
 
-## 18. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+## 18. [cloudflare/quiche](https://github.com/cloudflare/quiche)
 
-Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 32,271 |
-| Forks | 3,482 |
-| Stars this month | 1,149 |
+| Stars | 12,791 |
+| Forks | 1,176 |
+| Stars this month | 997 |
 
 ---
 
@@ -249,47 +249,47 @@ A lightweight desktop app to manage, sync, and organize AI agent skills across 5
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,380 |
-| Forks | 520 |
-| Stars this month | 1,634 |
+| Stars | 6,429 |
+| Forks | 523 |
+| Stars this month | 1,670 |
 
 ---
 
-## 20. [ooolabdev/ooosplat](https://github.com/ooolabdev/ooosplat) 🆕
+## 20. [zeronsh/zeron](https://github.com/zeronsh/zeron)
+
+A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,268 |
+| Forks | 332 |
+| Stars this month | 1,752 |
+
+---
+
+## 21. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+
+Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 32,301 |
+| Forks | 3,483 |
+| Stars this month | 1,148 |
+
+---
+
+## 22. [ooolabdev/ooosplat](https://github.com/ooolabdev/ooosplat)
 
 A local desktop app that turns videos and images into 3D Gaussian Splats in one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,007 |
+| Stars | 2,020 |
 | Forks | 242 |
-| Stars this month | 1,035 |
-
----
-
-## 21. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) 🆕
-
-Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 45,327 |
-| Forks | 6,440 |
-| Stars this month | 2,044 |
-
----
-
-## 22. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
-
-Empowering everyone to build reliable and efficient software.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 120,322 |
-| Forks | 18,827 |
-| Stars this month | 2,504 |
+| Stars this month | 1,034 |
 
 ---

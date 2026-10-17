@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-16T04:25:26Z
-**Total Repositories:** 16
-**New Entries:** 9
+**Snapshot Time:** 2026-10-17T04:19:29Z
+**Total Repositories:** 19
+**New Entries:** 15
 **Quality Score:** 100.00/100
 
 ---
@@ -15,202 +15,242 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 88,949 |
-| Forks | 9,933 |
-| Stars today | 1,369 |
+| Stars | 89,725 |
+| Forks | 10,032 |
+| Stars today | 1,161 |
 
 ---
 
-## 2. [skylot/jadx](https://github.com/skylot/jadx)
+## 2. [keycloak/keycloak](https://github.com/keycloak/keycloak) 🆕
 
-Dex to Java decompiler
+Open Source Identity and Access Management For Modern Applications and Services
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 50,990 |
-| Forks | 5,815 |
-| Stars today | 32 |
+| Stars | 37,404 |
+| Forks | 9,069 |
+| Stars today | 21 |
 
 ---
 
-## 3. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) 🆕
+## 3. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) 🆕
+
+Advanced Sentry Mode for BYD Vehicles
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 366 |
+| Forks | 103 |
+| Stars today | 6 |
+
+---
+
+## 4. [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) 🆕
+
+Android VNC remote desktop server for local networks
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 2,398 |
+| Forks | 320 |
+| Stars today | 5 |
+
+---
+
+## 5. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
 Learn System Design concepts and prepare for interviews using free resources.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 42,288 |
-| Forks | 8,838 |
-| Stars today | 46 |
+| Stars | 42,443 |
+| Forks | 8,854 |
+| Stars today | 128 |
 
 ---
 
-## 4. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
+## 6. [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) 🆕
 
-Build distributed, production-grade, long-running agents.
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,999 |
-| Forks | 1,489 |
-| Stars today | 16 |
+| Stars | 3,740 |
+| Forks | 1,173 |
+| Stars today | 4 |
 
 ---
 
-## 5. [krahets/hello-algo](https://github.com/krahets/hello-algo)
+## 7. [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) 🆕
 
-《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+Plugin for JADX to integrate MCP server
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 130,751 |
-| Forks | 15,510 |
-| Stars today | 53 |
+| Stars | 2,908 |
+| Forks | 274 |
+| Stars today | 5 |
 
 ---
 
-## 6. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-
-🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 39,828 |
-| Forks | 8,586 |
-| Stars today | 41 |
-
----
-
-## 7. [iflytek/skillhub](https://github.com/iflytek/skillhub) 🆕
+## 8. [iflytek/skillhub](https://github.com/iflytek/skillhub)
 
 Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,225 |
-| Forks | 846 |
-| Stars today | 14 |
+| Stars | 5,235 |
+| Forks | 848 |
+| Stars today | 12 |
 
 ---
 
-## 8. [dataease/dataease](https://github.com/dataease/dataease) 🆕
-
-🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 24,613 |
-| Forks | 4,270 |
-| Stars today | 1 |
-
----
-
-## 9. [termux/termux-app](https://github.com/termux/termux-app) 🆕
-
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 62,707 |
-| Forks | 7,905 |
-| Stars today | 76 |
-
----
-
-## 10. [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) 🆕
-
-An Application Framework for AI Engineering
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 9,540 |
-| Forks | 2,967 |
-| Stars today | 3 |
-
----
-
-## 11. [apache/cloudstack](https://github.com/apache/cloudstack) 🆕
-
-Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,103 |
-| Forks | 1,400 |
-| Stars today | 4 |
-
----
-
-## 12. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 81,636 |
-| Forks | 45,043 |
-| Stars today | 15 |
-
----
-
-## 13. [apache/kafka](https://github.com/apache/kafka)
-
-Apache Kafka - A distributed event streaming platform
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 33,961 |
-| Forks | 15,595 |
-| Stars today | 10 |
-
----
-
-## 14. [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)
-
-Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 28,317 |
-| Forks | 3,058 |
-| Stars today | 7 |
-
----
-
-## 15. [kestra-io/kestra](https://github.com/kestra-io/kestra) 🆕
+## 9. [kestra-io/kestra](https://github.com/kestra-io/kestra)
 
 Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 29,634 |
-| Forks | 3,400 |
-| Stars today | 45 |
+| Stars | 29,663 |
+| Forks | 3,415 |
+| Stars today | 35 |
 
 ---
 
-## 16. [apache/calcite](https://github.com/apache/calcite) 🆕
+## 10. [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) 🆕
 
-Apache Calcite
+Jetbrains Claude Code and Codex GUI Plugin
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,193 |
-| Forks | 2,533 |
+| Stars | 7,048 |
+| Forks | 681 |
+| Stars today | 18 |
+
+---
+
+## 11. [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) 🆕
+
+All-in-one IoT Platform - Device management, data collection, processing and visualization.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 22,565 |
+| Forks | 6,518 |
+| Stars today | 4 |
+
+---
+
+## 12. [freeok/so-novel](https://github.com/freeok/so-novel) 🆕
+
+小说下载｜网文下载 | 网络小说
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 8,603 |
+| Forks | 755 |
+| Stars today | 84 |
+
+---
+
+## 13. [apache/seatunnel](https://github.com/apache/seatunnel) 🆕
+
+SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,733 |
+| Forks | 2,434 |
+| Stars today | 7 |
+
+---
+
+## 14. [adityatandon15/Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) 🆕
+
+All Code of LLD Playlist
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,376 |
+| Forks | 930 |
+| Stars today | 1 |
+
+---
+
+## 15. [debezium/debezium](https://github.com/debezium/debezium) 🆕
+
+Change data capture for a variety of databases. Please log issues athttps://github.com/debezium/dbz/issues.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,233 |
+| Forks | 3,086 |
+| Stars today | 9 |
+
+---
+
+## 16. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) 🆕
+
+Spring Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 60,293 |
+| Forks | 38,752 |
+| Stars today | 7 |
+
+---
+
+## 17. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) 🆕
+
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 4,298 |
+| Forks | 830 |
+| Stars today | 3 |
+
+---
+
+## 18. [StarRocks/starrocks](https://github.com/StarRocks/starrocks) 🆕
+
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 12,183 |
+| Forks | 2,620 |
+| Stars today | 6 |
+
+---
+
+## 19. [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) 🆕
+
+基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 7,365 |
+| Forks | 2,115 |
+| Stars today | 7 |
 
 ---

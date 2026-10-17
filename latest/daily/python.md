@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-16T04:25:15Z
-**Total Repositories:** 14
-**New Entries:** 9
+**Snapshot Time:** 2026-10-17T04:19:17Z
+**Total Repositories:** 15
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 39,298 |
-| Forks | 4,341 |
-| Stars today | 307 |
+| Stars | 40,749 |
+| Forks | 4,411 |
+| Stars today | 1,552 |
 
 ---
 
@@ -28,164 +28,177 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 50,673 |
-| Forks | 4,503 |
-| Stars today | 1,091 |
+| Stars | 51,627 |
+| Forks | 4,571 |
+| Stars today | 1,158 |
 
 ---
 
-## 3. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 69,419 |
-| Forks | 7,597 |
-| Stars today | 3,024 |
-
----
-
-## 4. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) 🆕
-
-TokenSpeed is a speed-of-light LLM inference engine.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 2,540 |
-| Forks | 342 |
-| Stars today | 30 |
-
----
-
-## 5. [Crosstalk-Solutions/unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) 🆕
-
-A suite of tools for UniFi network management
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 668 |
-| Forks | 67 |
-| Stars today | 44 |
-
----
-
-## 6. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) 🆕
-
-Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 30,994 |
-| Forks | 2,819 |
-| Stars today | 126 |
-
----
-
-## 7. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+## 3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 53,117 |
-| Forks | 4,813 |
-| Stars today | 716 |
+| Stars | 53,585 |
+| Forks | 4,862 |
+| Stars today | 281 |
 
 ---
 
-## 8. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)
+## 4. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
-Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 28,393 |
-| Forks | 1,541 |
-| Stars today | 1,587 |
+| Stars | 71,494 |
+| Forks | 7,819 |
+| Stars today | 2,301 |
 
 ---
 
-## 9. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 🆕
+## 5. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 🆕
+
+The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 48,721 |
+| Forks | 16,676 |
+| Stars today | 898 |
+
+---
+
+## 6. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)
+
+TokenSpeed is a speed-of-light LLM inference engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 2,673 |
+| Forks | 352 |
+| Stars today | 308 |
+
+---
+
+## 7. [elder-plinius/V3R1T4S](https://github.com/elder-plinius/V3R1T4S) 🆕
+
+liberating known unknowns
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 367 |
+| Forks | 68 |
+| Stars today | 40 |
+
+---
+
+## 8. [Crosstalk-Solutions/unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit)
+
+A suite of tools for UniFi network management
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 685 |
+| Forks | 72 |
+| Stars today | 35 |
+
+---
+
+## 9. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 131,747 |
-| Forks | 20,734 |
-| Stars today | 604 |
+| Stars | 132,183 |
+| Forks | 20,823 |
+| Stars today | 749 |
 
 ---
 
-## 10. [volcengine/OpenViking](https://github.com/volcengine/OpenViking) 🆕
+## 10. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)
 
-Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 40,035 |
-| Forks | 3,185 |
-| Stars today | 105 |
+| Stars | 28,794 |
+| Forks | 1,558 |
+| Stars today | 517 |
 
 ---
 
-## 11. [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) 🆕
+## 11. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 🆕
 
-《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 54,469 |
-| Forks | 6,211 |
-| Stars today | 204 |
+| Stars | 70,347 |
+| Forks | 12,362 |
+| Stars today | 539 |
 
 ---
 
-## 12. [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) 🆕
+## 12. [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 🆕
 
-SGLang-Omni is a high-performance serving framework for audio models (TTS, ASR) and unified multimodal models.
+Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 1,520 |
-| Forks | 604 |
-| Stars today | 30 |
+| Stars | 52,438 |
+| Forks | 4,018 |
+| Stars today | 207 |
 
 ---
 
-## 13. [trailofbits/skills](https://github.com/trailofbits/skills) 🆕
+## 13. [odoo/odoo](https://github.com/odoo/odoo) 🆕
 
-Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+Odoo. Open Source Apps To Grow Your Business.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,576 |
-| Forks | 652 |
-| Stars today | 33 |
+| Stars | 55,100 |
+| Forks | 34,035 |
+| Stars today | 32 |
 
 ---
 
-## 14. [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) 🆕
+## 14. [google/artemis](https://github.com/google/artemis) 🆕
 
-let your agent control your phone
+ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,678 |
-| Forks | 372 |
-| Stars today | 161 |
+| Stars | 12,058 |
+| Forks | 1,302 |
+| Stars today | 226 |
+
+---
+
+## 15. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) 🆕
+
+Give your agent CAD superpowers.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 21,042 |
+| Forks | 2,077 |
+| Stars today | 290 |
 
 ---

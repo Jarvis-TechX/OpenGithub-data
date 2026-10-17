@@ -1,8 +1,8 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-16T04:25:44Z
-**Total Repositories:** 16
+**Snapshot Time:** 2026-10-17T04:19:50Z
+**Total Repositories:** 18
 **New Entries:** 5
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,520 |
-| Forks | 1,571 |
-| Stars this week | 774 |
+| Stars | 20,585 |
+| Forks | 1,573 |
+| Stars this week | 862 |
 
 ---
 
@@ -28,9 +28,9 @@ Work-in-progress tool to reverse unity's IL2CPP toolchain.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,027 |
-| Forks | 398 |
-| Stars this week | 165 |
+| Stars | 3,033 |
+| Forks | 400 |
+| Stars this week | 131 |
 
 ---
 
@@ -41,177 +41,203 @@ Work-in-progress tool to reverse unity's IL2CPP toolchain.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,664 |
-| Forks | 3,771 |
-| Stars this week | 230 |
+| Stars | 26,679 |
+| Forks | 3,775 |
+| Stars this week | 200 |
 
 ---
 
-## 4. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
+## 4. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) 🆕
+
+PowerShell for every system!
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 55,783 |
+| Forks | 8,494 |
+| Stars this week | 149 |
+
+---
+
+## 5. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
 
 A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,977 |
-| Forks | 44 |
-| Stars this week | 400 |
+| Stars | 2,161 |
+| Forks | 48 |
+| Stars this week | 546 |
 
 ---
 
-## 5. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
+## 6. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
 
 GUI application to analyze game files
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,642 |
-| Forks | 1,002 |
-| Stars this week | 128 |
+| Stars | 8,650 |
+| Forks | 1,001 |
+| Stars this week | 134 |
 
 ---
 
-## 6. [LorisYounger/VPet](https://github.com/LorisYounger/VPet) 🆕
-
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,980 |
-| Forks | 691 |
-| Stars this week | 79 |
-
----
-
-## 7. [memstechtips/Winhance](https://github.com/memstechtips/Winhance) 🆕
-
-Application designed to optimize, customize and enhance your Windows experience.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 13,769 |
-| Forks | 652 |
-| Stars this week | 371 |
-
----
-
-## 8. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
-
-UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 26,607 |
-| Forks | 946 |
-| Stars this week | 202 |
-
----
-
-## 9. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+## 7. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
 
 Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,575 |
-| Forks | 3,075 |
-| Stars this week | 69 |
+| Stars | 17,579 |
+| Forks | 3,074 |
+| Stars this week | 67 |
 
 ---
 
-## 10. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
+## 8. [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) 🆕
+
+Driver Store Explorer
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 11,889 |
+| Forks | 564 |
+| Stars this week | 81 |
+
+---
+
+## 9. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
+
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,986 |
+| Forks | 694 |
+| Stars this week | 66 |
+
+---
+
+## 10. [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
+
+Application designed to optimize, customize and enhance your Windows experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 13,850 |
+| Forks | 657 |
+| Stars this week | 456 |
+
+---
+
+## 11. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
 
 Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,998 |
-| Forks | 1,567 |
-| Stars this week | 224 |
+| Stars | 15,028 |
+| Forks | 1,589 |
+| Stars this week | 241 |
 
 ---
 
-## 11. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 12. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
 A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,822 |
-| Forks | 55 |
-| Stars this week | 95 |
+| Stars | 1,835 |
+| Forks | 57 |
+| Stars this week | 104 |
 
 ---
 
-## 12. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
-
-Download web video and audio
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,372 |
-| Forks | 354 |
-| Stars this week | 80 |
-
----
-
-## 13. [bitwarden/server](https://github.com/bitwarden/server) 🆕
-
-Bitwarden infrastructure/backend (API, database, Docker, etc).
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 20,335 |
-| Forks | 1,797 |
-| Stars this week | 79 |
-
----
-
-## 14. [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) 🆕
-
-A modern, cross-platform, 2D Graphics library for .NET
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,037 |
-| Forks | 907 |
-| Stars this week | 2 |
-
----
-
-## 15. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) 🆕
-
-Advanced UX and interoperability extension for Wand (WeMod) app
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 31,995 |
-| Forks | 82,696 |
-| Stars this week | 1,089 |
-
----
-
-## 16. [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
+## 13. [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
 
 Unity il2cpp reverse engineer
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,514 |
-| Forks | 1,938 |
-| Stars this week | 57 |
+| Stars | 9,520 |
+| Forks | 1,939 |
+| Stars this week | 55 |
+
+---
+
+## 14. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
+
+UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 26,626 |
+| Forks | 949 |
+| Stars this week | 199 |
+
+---
+
+## 15. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+
+Download web video and audio
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,381 |
+| Forks | 354 |
+| Stars this week | 84 |
+
+---
+
+## 16. [dotnet/skills](https://github.com/dotnet/skills) 🆕
+
+Repository for skills to assist AI coding agents with .NET and C#
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,655 |
+| Forks | 442 |
+| Stars this week | 65 |
+
+---
+
+## 17. [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) 🆕
+
+Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,828 |
+| Forks | 16,423 |
+| Stars this week | 7 |
+
+---
+
+## 18. [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) 🆕
+
+Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 3,914 |
+| Forks | 274 |
+| Stars this week | 85 |
 
 ---

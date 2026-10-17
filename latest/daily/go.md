@@ -1,10 +1,10 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-16T04:25:22Z
-**Total Repositories:** 22
+**Snapshot Time:** 2026-10-17T04:19:24Z
+**Total Repositories:** 20
 **New Entries:** 14
-**Quality Score:** 100.00/100
+**Quality Score:** 98.00/100
 
 ---
 
@@ -15,281 +15,253 @@
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 112,696 |
-| Forks | 6,527 |
-| Stars today | 433 |
+| Stars | 113,084 |
+| Forks | 6,546 |
+| Stars today | 828 |
 
 ---
 
-## 2. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-
-Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 30,542 |
-| Forks | 4,594 |
-| Stars today | 1,388 |
-
----
-
-## 3. [maximhq/bifrost](https://github.com/maximhq/bifrost)
-
-Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,842 |
-| Forks | 1,400 |
-| Stars today | 40 |
-
----
-
-## 4. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
-
-Make humans and AI agents work as one team — open-source and self-hostable.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 52,960 |
-| Forks | 6,927 |
-| Stars today | 108 |
-
----
-
-## 5. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) 🆕
-
-📂 Web File Browser
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,774 |
-| Forks | 488 |
-| Stars today | 35 |
-
----
-
-## 6. [livekit/livekit](https://github.com/livekit/livekit) 🆕
-
-End-to-end realtime stack for connecting humans and AI
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 21,475 |
-| Forks | 2,458 |
-| Stars today | 21 |
-
----
-
-## 7. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) 🆕
+## 2. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 
 Find secrets with Gitleaks 🔑
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 29,987 |
-| Forks | 2,301 |
-| Stars today | 33 |
+| Stars | 30,046 |
+| Forks | 2,323 |
+| Stars today | 54 |
 
 ---
 
-## 8. [google/ax](https://github.com/google/ax) 🆕
+## 3. [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada) 🆕
 
-Google's open agentic orchestration runtime
+arrrrrrrr
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 13,684 |
-| Forks | 699 |
-| Stars today | 107 |
+| Stars | 272 |
+| Forks | 13 |
+| Stars today | 50 |
 
 ---
 
-## 9. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+## 4. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 
-Agent Substrate: the core system
+Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,242 |
-| Forks | 580 |
-| Stars today | 81 |
+| Stars | 30,771 |
+| Forks | 4,680 |
+| Stars today | 368 |
 
 ---
 
-## 10. [p1neappleXpress/OpenFlux](https://github.com/p1neappleXpress/OpenFlux)
-
-Network stack research tool. TCP tunnel with pluggable transports.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,181 |
-| Forks | 186 |
-| Stars today | 33 |
-
----
-
-## 11. [gastownhall/beads](https://github.com/gastownhall/beads) 🆕
-
-Beads - A memory upgrade for your coding agent
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 27,923 |
-| Forks | 1,891 |
-| Stars today | 32 |
-
----
-
-## 12. [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
-
-Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 7,277 |
-| Forks | 753 |
-| Stars today | 38 |
-
----
-
-## 13. [containerd/containerd](https://github.com/containerd/containerd) 🆕
-
-An open and reliable container runtime
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 21,417 |
-| Forks | 4,164 |
-| Stars today | 7 |
-
----
-
-## 14. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+## 5. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 34,253 |
-| Forks | 4,567 |
-| Stars today | 225 |
+| Stars | 34,417 |
+| Forks | 4,591 |
+| Stars today | 218 |
 
 ---
 
-## 15. [google/agentmesh](https://github.com/google/agentmesh)
+## 6. [cilium/cilium](https://github.com/cilium/cilium) 🆕
 
-Agent Mesh
+eBPF-based Networking, Security, and Observability
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,081 |
-| Forks | 176 |
-| Stars today | 17 |
+| Stars | 25,671 |
+| Forks | 4,165 |
+| Stars today | 11 |
 
 ---
 
-## 16. [tailscale/tailscale](https://github.com/tailscale/tailscale) 🆕
+## 7. [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api) 🆕
 
-The easiest, most secure way to use WireGuard and 2FA.
+A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 37,625 |
-| Forks | 3,345 |
-| Stars today | 86 |
+| Stars | 906 |
+| Forks | 170 |
+| Stars today | 185 |
 
 ---
 
-## 17. [redis/go-redis](https://github.com/redis/go-redis) 🆕
+## 8. [sipeed/picoclaw](https://github.com/sipeed/picoclaw) 🆕
 
-Redis Go client
+Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 22,263 |
-| Forks | 2,613 |
-| Stars today | 2 |
+| Stars | 30,079 |
+| Forks | 4,468 |
+| Stars today | 41 |
 
 ---
 
-## 18. [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) 🆕
+## 9. [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
 
-Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 44,289 |
-| Forks | 4,302 |
-| Stars today | 24 |
+| Stars | 7,367 |
+| Forks | 769 |
+| Stars today | 102 |
 
 ---
 
-## 19. [temporalio/temporal](https://github.com/temporalio/temporal) 🆕
-
-Temporal service
+## 10. [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 23,741 |
-| Forks | 2,010 |
-| Stars today | 32 |
+| Stars | 1,933 |
+| Forks | 286 |
+| Stars today | 41 |
 
 ---
 
-## 20. [microsoft/TypeScript](https://github.com/microsoft/TypeScript) 🆕
+## 11. [keploy/keploy](https://github.com/keploy/keploy) 🆕
 
-TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 111,491 |
-| Forks | 16,908 |
-| Stars today | 24 |
+| Stars | 18,605 |
+| Forks | 2,415 |
+| Stars today | 16 |
 
 ---
 
-## 21. [usememos/memos](https://github.com/usememos/memos) 🆕
+## 12. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) 🆕
 
-A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+llm-d Router: The intelligent entry point for inference requests
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 63,830 |
-| Forks | 4,863 |
-| Stars today | 30 |
+| Stars | 415 |
+| Forks | 459 |
+| Stars today | 6 |
 
 ---
 
-## 22. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 🆕
+## 13. [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) 🆕
+
+Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 44,223 |
+| Forks | 9,473 |
+| Stars today | 107 |
+
+---
+
+## 14. [tbphp/gpt-load](https://github.com/tbphp/gpt-load) 🆕
+
+Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,144 |
+| Forks | 793 |
+| Stars today | 31 |
+
+---
+
+## 15. [zeromicro/go-zero](https://github.com/zeromicro/go-zero) 🆕
+
+A cloud-native Go microservices framework with cli tool for productivity.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 33,386 |
+| Forks | 4,330 |
+| Stars today | 4 |
+
+---
+
+## 16. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
 
 Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 55,385 |
-| Forks | 8,465 |
-| Stars today | 149 |
+| Stars | 55,472 |
+| Forks | 8,482 |
+| Stars today | 111 |
+
+---
+
+## 17. [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) 🆕
+
+A developer-friendly API for converting many document formats into PDF files, and more!
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 13,313 |
+| Forks | 872 |
+| Stars today | 10 |
+
+---
+
+## 18. [bytebase/bytebase](https://github.com/bytebase/bytebase) 🆕
+
+Database governance built for humans and agents — controlling changes and access across every major database.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 14,584 |
+| Forks | 997 |
+| Stars today | 9 |
+
+---
+
+## 19. [skyhook-io/radar](https://github.com/skyhook-io/radar) 🆕
+
+The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 3,830 |
+| Forks | 245 |
+| Stars today | 15 |
+
+---
+
+## 20. [prometheus/node_exporter](https://github.com/prometheus/node_exporter) 🆕
+
+Exporter for machine metrics
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 13,848 |
+| Forks | 2,729 |
+| Stars today | 2 |
 
 ---
