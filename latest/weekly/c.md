@@ -1,165 +1,165 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-17T04:19:45Z
+**Snapshot Time:** 2026-10-19T04:33:59Z
 **Total Repositories:** 12
-**New Entries:** 5
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
-
-A native, user-mode, multi-process, graphical debugger.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 8,570 |
-| Forks | 418 |
-| Stars this week | 344 |
-
----
-
-## 2. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-
-A new bootable USB solution.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 80,098 |
-| Forks | 4,989 |
-| Stars this week | 308 |
-
----
-
-## 3. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
+## 1. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
 
 Xbox 360 Recompilation Runtime and Toolkit
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,093 |
-| Forks | 197 |
-| Stars this week | 87 |
+| Stars | 1,115 |
+| Forks | 207 |
+| Stars this week | 88 |
 
 ---
 
-## 4. [reactos/reactos](https://github.com/reactos/reactos)
-
-A free Windows-compatible Operating System
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 18,235 |
-| Forks | 2,265 |
-| Stars this week | 63 |
-
----
-
-## 5. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) 🆕
+## 2. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 
 An advanced Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,490 |
-| Forks | 1,189 |
-| Stars this week | 107 |
+| Stars | 4,527 |
+| Forks | 1,199 |
+| Stars this week | 124 |
 
 ---
 
-## 6. [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) 🆕
-
-This is a fork of F4HWN firmwarehttps://github.com/armel/uv-k5-firmware-customby@muzkrand@armel
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 771 |
-| Forks | 211 |
-| Stars this week | 30 |
-
----
-
-## 7. [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) 🆕
+## 3. [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot)
 
 An open and affordable mini quadruped robot based on ESP32.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,707 |
-| Forks | 637 |
-| Stars this week | 105 |
+| Stars | 4,736 |
+| Forks | 640 |
+| Stars this week | 109 |
 
 ---
 
-## 8. [redis/redis](https://github.com/redis/redis) 🆕
+## 4. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 
-For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+A new bootable USB solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 76,911 |
-| Forks | 24,865 |
-| Stars this week | 453 |
+| Stars | 80,157 |
+| Forks | 4,993 |
+| Stars this week | 290 |
 
 ---
 
-## 9. [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) 🆕
+## 5. [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)
 
-Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+This is a fork of F4HWN firmwarehttps://github.com/armel/uv-k5-firmware-customby@muzkrand@armel
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 6,796 |
-| Forks | 428 |
-| Stars this week | 169 |
+| Stars | 779 |
+| Forks | 210 |
+| Stars this week | 34 |
 
 ---
 
-## 10. [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp)
+## 6. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp) 🆕
 
-Build native apps in JS. Backend, frontend. ~5Mb.
+Static recompilation runtime libraries for PlayStation 3 titles.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,086 |
-| Forks | 34 |
-| Stars this week | 359 |
+| Stars | 506 |
+| Forks | 64 |
+| Stars this week | 123 |
 
 ---
 
-## 11. [mbm110/MSN-GUARD](https://github.com/mbm110/MSN-GUARD)
+## 7. [raysan5/raylib](https://github.com/raysan5/raylib) 🆕
 
-High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor.
+A simple and easy-to-use library to enjoy videogames programming
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 653 |
-| Forks | 112 |
-| Stars this week | 88 |
+| Stars | 35,301 |
+| Forks | 3,343 |
+| Stars this week | 200 |
 
 ---
 
-## 12. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+## 8. [arendst/Tasmota](https://github.com/arendst/Tasmota) 🆕
 
-OBS Studio - Free and open source software for live streaming and screen recording
+Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 77,651 |
-| Forks | 10,697 |
-| Stars this week | 500 |
+| Stars | 24,877 |
+| Forks | 5,201 |
+| Stars this week | 67 |
+
+---
+
+## 9. [NoRain211/doaxvb-re](https://github.com/NoRain211/doaxvb-re) 🆕
+
+Native Windows port of Dead or Alive Xtreme Beach Volleyball (Xbox), built by static recompilation with a hand-written runtime. Requires your own copy of the game.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 184 |
+| Forks | 7 |
+| Stars this week | 56 |
+
+---
+
+## 10. [SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) 🆕
+
+Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 722 |
+| Forks | 50 |
+| Stars this week | 72 |
+
+---
+
+## 11. [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp) 🆕
+
+Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 260 |
+| Forks | 69 |
+| Stars this week | 85 |
+
+---
+
+## 12. [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) 🆕
+
+Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 7,467 |
+| Forks | 345 |
+| Stars this week | 96 |
 
 ---

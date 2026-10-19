@@ -1,152 +1,150 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-17T04:19:27Z
+**Snapshot Time:** 2026-10-19T04:33:45Z
 **Total Repositories:** 11
-**New Entries:** 7
-**Quality Score:** 100.00/100
+**New Entries:** 8
+**Quality Score:** 96.36/100
 
 ---
 
-## 1. [ocornut/imgui](https://github.com/ocornut/imgui) 🆕
+## 1. [geode-sdk/geode](https://github.com/geode-sdk/geode) 🆕
+
+The ultimate Geometry Dash modding framework
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,006 |
+| Forks | 590 |
+| Stars today | 21 |
+
+---
+
+## 2. [ocornut/imgui](https://github.com/ocornut/imgui)
 
 Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 76,684 |
-| Forks | 12,080 |
-| Stars today | 18 |
+| Stars | 76,722 |
+| Forks | 12,086 |
+| Stars today | 19 |
 
 ---
 
-## 2. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+## 3. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) 🆕
 
-CUDA Templates and Python DSLs for High-Performance Linear Algebra
+FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 10,606 |
-| Forks | 2,130 |
-| Stars today | 11 |
+| Stars | 32,724 |
+| Forks | 4,657 |
+| Stars today | 71 |
 
 ---
 
-## 3. [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
-
-A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+## 4. [mzzvxm/LARecomp](https://github.com/mzzvxm/LARecomp) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,143 |
-| Forks | 525 |
-| Stars today | 17 |
+| Stars | 166 |
+| Forks | 15 |
+| Stars today | 24 |
 
 ---
 
-## 4. [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) 🆕
-
-Distribute and run LLMs with a single file.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 26,365 |
-| Forks | 1,706 |
-| Stars today | 73 |
-
----
-
-## 5. [duckdb/duckdb](https://github.com/duckdb/duckdb) 🆕
-
-DuckDB is an analytical in-process SQL database management system
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 42,211 |
-| Forks | 3,947 |
-| Stars today | 31 |
-
----
-
-## 6. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
-
-An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 31,305 |
-| Forks | 7,316 |
-| Stars today | 95 |
-
----
-
-## 7. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) 🆕
-
-Audio Plugin for Audio to MIDI transcription using deep learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,201 |
-| Forks | 226 |
-| Stars today | 25 |
-
----
-
-## 8. [zeldaret/botw](https://github.com/zeldaret/botw) 🆕
+## 5. [zeldaret/botw](https://github.com/zeldaret/botw)
 
 Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,246 |
-| Forks | 140 |
-| Stars today | 12 |
+| Stars | 2,277 |
+| Forks | 142 |
+| Stars today | 11 |
 
 ---
 
-## 9. [LittleBitUA/DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) 🆕
+## 6. [luau-lang/luau](https://github.com/luau-lang/luau) 🆕
 
-Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0 stable: 60 FPS unlocked, ROV warm-cache, standalone launcher, DualSense adaptive triggers, portable saves. Tested on USA + Europe X360 dumps.
+A small, fast, and embeddable programming language based on Lua with a gradual type system.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 298 |
-| Forks | 6 |
-| Stars today | 7 |
+| Stars | 5,998 |
+| Forks | 679 |
+| Stars today | 9 |
 
 ---
 
-## 10. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+## 7. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
 
-Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+LLM inference in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,546 |
-| Forks | 188 |
-| Stars today | 43 |
+| Stars | 131,651 |
+| Forks | 24,535 |
+| Stars today | 110 |
 
 ---
 
-## 11. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) 🆕
+## 8. [mamedev/mame](https://github.com/mamedev/mame) 🆕
 
-Protocol Buffers - Google's data interchange format
+MAME
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 72,115 |
-| Forks | 16,314 |
-| Stars today | 5 |
+| Stars | 10,644 |
+| Forks | 2,604 |
+| Stars today | 6 |
+
+---
+
+## 9. [juce-framework/JUCE](https://github.com/juce-framework/JUCE) 🆕
+
+JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 9,012 |
+| Forks | 2,212 |
+| Stars today | 25 |
+
+---
+
+## 10. [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile)
+
+Distribute and run LLMs with a single file.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 26,425 |
+| Forks | 1,785 |
+| Stars today | 30 |
+
+---
+
+## 11. [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 🆕
+
+Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 20,151 |
+| Forks | 1,509 |
+| Stars today | 14 |
 
 ---

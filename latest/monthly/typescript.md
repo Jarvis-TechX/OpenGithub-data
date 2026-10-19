@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-17T04:19:58Z
-**Total Repositories:** 22
+**Snapshot Time:** 2026-10-19T04:34:10Z
+**Total Repositories:** 20
 **New Entries:** 2
-**Quality Score:** 98.18/100
+**Quality Score:** 98.00/100
 
 ---
 
@@ -15,9 +15,9 @@ The open-source app everyone uses to manage agents at work
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 103,231 |
-| Forks | 17,270 |
-| Stars this month | 22,617 |
+| Stars | 104,232 |
+| Forks | 17,408 |
+| Stars this month | 23,340 |
 
 ---
 
@@ -28,9 +28,9 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 65,413 |
-| Forks | 5,895 |
-| Stars this month | 14,754 |
+| Stars | 66,906 |
+| Forks | 6,065 |
+| Stars this month | 15,429 |
 
 ---
 
@@ -41,9 +41,9 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,283 |
-| Forks | 2,133 |
-| Stars this month | 6,983 |
+| Stars | 30,825 |
+| Forks | 2,286 |
+| Stars this month | 7,319 |
 
 ---
 
@@ -54,35 +54,33 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 36,280 |
-| Forks | 4,895 |
-| Stars this month | 9,724 |
+| Stars | 37,162 |
+| Forks | 5,020 |
+| Stars this month | 10,063 |
 
 ---
 
-## 5. [anthropics/claude-code](https://github.com/anthropics/claude-code)
-
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 151,274 |
-| Forks | 26,851 |
-| Stars this month | 6,803 |
-
----
-
-## 6. [cursor/plugins](https://github.com/cursor/plugins)
+## 5. [cursor/plugins](https://github.com/cursor/plugins)
 
 Cursor plugin specification and official plugins
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,027 |
-| Forks | 1,166 |
-| Stars this month | 4,016 |
+| Stars | 12,815 |
+| Forks | 1,260 |
+| Stars this month | 4,507 |
+
+---
+
+## 6. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 28,403 |
+| Forks | 7,584 |
+| Stars this month | 5,415 |
 
 ---
 
@@ -93,33 +91,35 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 101,253 |
-| Forks | 8,873 |
-| Stars this month | 7,673 |
+| Stars | 101,655 |
+| Forks | 8,931 |
+| Stars this month | 7,900 |
 
 ---
 
-## 8. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 27,992 |
-| Forks | 7,493 |
-| Stars this month | 5,251 |
-
----
-
-## 9. [Effect-TS/effect](https://github.com/Effect-TS/effect)
+## 8. [Effect-TS/effect](https://github.com/Effect-TS/effect)
 
 Build production-ready applications in TypeScript
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,309 |
-| Forks | 866 |
-| Stars this month | 1,279 |
+| Stars | 17,324 |
+| Forks | 870 |
+| Stars this month | 1,270 |
+
+---
+
+## 9. [stablyai/orca](https://github.com/stablyai/orca)
+
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 96,968 |
+| Forks | 6,193 |
+| Stars this month | 25,115 |
 
 ---
 
@@ -130,48 +130,48 @@ Build production-ready applications in TypeScript
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 64,618 |
-| Forks | 5,114 |
-| Stars this month | 5,336 |
+| Stars | 65,071 |
+| Forks | 5,172 |
+| Stars this month | 5,451 |
 
 ---
 
-## 11. [supabase/supabase](https://github.com/supabase/supabase)
-
-The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 111,661 |
-| Forks | 17,059 |
-| Stars this month | 2,619 |
-
----
-
-## 12. [vercel-labs/skills](https://github.com/vercel-labs/skills)
+## 11. [vercel-labs/skills](https://github.com/vercel-labs/skills)
 
 The open agent skills tool - npx skills
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 35,270 |
-| Forks | 3,008 |
-| Stars this month | 3,589 |
+| Stars | 35,525 |
+| Forks | 3,033 |
+| Stars this month | 3,672 |
 
 ---
 
-## 13. [stablyai/orca](https://github.com/stablyai/orca)
+## 12. [anthropics/claude-code](https://github.com/anthropics/claude-code)
 
-Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 94,596 |
-| Forks | 6,048 |
-| Stars this month | 24,782 |
+| Stars | 152,282 |
+| Forks | 27,031 |
+| Stars this month | 6,860 |
+
+---
+
+## 13. [elie222/rakazo](https://github.com/elie222/rakazo) 🆕
+
+Open-source Grok Bot alternative. Choose your own model and sandbox.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 4,620 |
+| Forks | 839 |
+| Stars this month | 1,897 |
 
 ---
 
@@ -182,9 +182,9 @@ Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translatio
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,733 |
+| Stars | 5,743 |
 | Forks | 279 |
-| Stars this month | 716 |
+| Stars this month | 721 |
 
 ---
 
@@ -195,9 +195,9 @@ The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relatio
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 22,643 |
-| Forks | 1,895 |
-| Stars this month | 8,410 |
+| Stars | 22,671 |
+| Forks | 1,896 |
+| Stars this month | 8,415 |
 
 ---
 
@@ -208,9 +208,9 @@ yoink any video from your terminal. no shady ads.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,978 |
-| Forks | 504 |
-| Stars this month | 4,278 |
+| Stars | 6,011 |
+| Forks | 508 |
+| Stars this month | 4,298 |
 
 ---
 
@@ -221,73 +221,47 @@ OpenStock is an open-source alternative to expensive market platforms. Track rea
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,309 |
-| Forks | 2,500 |
-| Stars this month | 6,142 |
+| Stars | 20,352 |
+| Forks | 2,508 |
+| Stars this month | 5,060 |
 
 ---
 
-## 18. [bendlang/bend](https://github.com/bendlang/bend) 🆕
-
-Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSLhttps://bend-lang.com/install.sh| sh
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 23,734 |
-| Forks | 751 |
-| Stars this month | 4,074 |
-
----
-
-## 19. [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+## 18. [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
 
 A framework for building agentic apps
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,398 |
-| Forks | 671 |
-| Stars this month | 2,654 |
+| Stars | 7,433 |
+| Forks | 680 |
+| Stars this month | 2,676 |
 
 ---
 
-## 20. [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
+## 19. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) 🆕
 
-Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
+Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,544 |
-| Forks | 1,479 |
-| Stars this month | 2,084 |
+| Stars | 40,539 |
+| Forks | 4,094 |
+| Stars this month | 3,476 |
 
 ---
 
-## 21. [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
-
-Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 9,061 |
-| Forks | 654 |
-| Stars this month | 6,474 |
-
----
-
-## 22. [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) 🆕
+## 20. [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
 
 Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,677 |
-| Forks | 859 |
-| Stars this month | 2,988 |
+| Stars | 9,746 |
+| Forks | 865 |
+| Stars this month | 3,026 |
 
 ---

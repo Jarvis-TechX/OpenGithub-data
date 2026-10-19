@@ -1,9 +1,9 @@
 # GitHub Trending - Php
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-17T04:19:41Z
+**Snapshot Time:** 2026-10-19T04:33:56Z
 **Total Repositories:** 10
-**New Entries:** 2
+**New Entries:** 5
 **Quality Score:** 96.00/100
 
 ---
@@ -15,99 +15,100 @@ Free and open-source webshop solution for hostings
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,729 |
-| Forks | 548 |
-| Stars this week | 308 |
+| Stars | 2,757 |
+| Forks | 552 |
+| Stars this week | 284 |
 
 ---
 
-## 2. [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)
+## 2. [karatektus/pl_mail](https://github.com/karatektus/pl_mail) 🆕
+
+Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 349 |
+| Forks | 28 |
+| Stars this week | 96 |
+
+---
+
+## 3. [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)
 
 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,841 |
-| Forks | 1,111 |
+| Stars | 5,850 |
+| Forks | 1,113 |
 | Stars this week | 77 |
 
 ---
 
-## 3. [koel/koel](https://github.com/koel/koel)
+## 4. [koel/koel](https://github.com/koel/koel)
 
 Music streaming solution that works.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 17,281 |
-| Forks | 2,113 |
-| Stars this week | 15 |
+| Stars | 17,279 |
+| Forks | 2,114 |
+| Stars this week | 13 |
 
 ---
 
-## 4. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) 🆕
+## 5. [nextcloud/server](https://github.com/nextcloud/server) 🆕
 
-📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+☁️ Nextcloud server, a safe home for all your data
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,595 |
-| Forks | 1,117 |
-| Stars this week | 35 |
+| Stars | 37,178 |
+| Forks | 5,287 |
+| Stars this week | 120 |
 
 ---
 
-## 5. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) 🆕
+## 6. [matomo-org/matomo](https://github.com/matomo-org/matomo) 🆕
+
+Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 21,961 |
+| Forks | 2,918 |
+| Stars this week | 29 |
+
+---
+
+## 7. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)
 
 The PHP Unit Testing framework.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 20,066 |
+| Stars | 20,069 |
 | Forks | 2,214 |
-| Stars this week | 12 |
+| Stars this week | 15 |
 
 ---
 
-## 6. [laravel/framework](https://github.com/laravel/framework)
+## 8. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) 🆕
 
-Laravel is a web application framework with expressive, elegant syntax.
+Firefly III: a personal finances manager
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 34,961 |
-| Forks | 12,016 |
-| Stars this week | 23 |
-
----
-
-## 7. [pterodactyl/panel](https://github.com/pterodactyl/panel)
-
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,341 |
-| Forks | 2,728 |
-| Stars this week | 54 |
-
----
-
-## 8. [php-fig/http-message](https://github.com/php-fig/http-message)
-
-The purpose of this PSR is to provide a set of common interfaces for HTTP messages as described in RFC 7230 and RFC 7231
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 7,028 |
-| Forks | 185 |
+| Stars | 24,937 |
+| Forks | 2,348 |
+| Stars this week | 79 |
 
 ---
 
@@ -121,15 +122,14 @@ The purpose of this PSR is to provide a set of common interfaces for HTTP messag
 
 ---
 
-## 10. [voku/portable-ascii](https://github.com/voku/portable-ascii)
+## 10. [laravel/prompts](https://github.com/laravel/prompts) 🆕
 
-🔡 Portable ASCII library - performance optimized (ascii) string functions for PHP.
+Beautiful and user-friendly forms for your command-line PHP applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 579 |
-| Forks | 51 |
-| Stars this week | 1 |
+| Stars | 729 |
+| Forks | 143 |
 
 ---

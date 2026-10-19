@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-17T04:19:46Z
-**Total Repositories:** 12
-**New Entries:** 5
+**Snapshot Time:** 2026-10-19T04:34:00Z
+**Total Repositories:** 11
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,039 |
-| Forks | 3,585 |
-| Stars this week | 20,518 |
+| Stars | 43,382 |
+| Forks | 3,946 |
+| Stars this week | 14,224 |
 
 ---
 
@@ -28,138 +28,125 @@ Official inference framework for 1-bit LLMs
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,178 |
-| Forks | 3,832 |
-| Stars this week | 832 |
+| Stars | 41,198 |
+| Forks | 3,836 |
+| Stars this week | 546 |
 
 ---
 
-## 3. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) 🆕
-
-Audio Plugin for Audio to MIDI transcription using deep learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,201 |
-| Forks | 226 |
-| Stars this week | 128 |
-
----
-
-## 4. [M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
-
-Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.https://youtube.com/shorts/RaxszOUMi8E?feature=share
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,169 |
-| Forks | 332 |
-| Stars this week | 633 |
-
----
-
-## 5. [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX)
-
-Diablo build for modern operating systems
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 9,874 |
-| Forks | 1,071 |
-| Stars this week | 73 |
-
----
-
-## 6. [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
-
-Telegram Desktop messaging app
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 33,273 |
-| Forks | 7,410 |
-| Stars this week | 142 |
-
----
-
-## 7. [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) 🆕
-
-A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 6,143 |
-| Forks | 525 |
-| Stars this week | 179 |
-
----
-
-## 8. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
-
-Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,546 |
-| Forks | 188 |
-| Stars this week | 186 |
-
----
-
-## 9. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+## 3. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
 An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,305 |
-| Forks | 7,316 |
-| Stars this week | 730 |
+| Stars | 31,462 |
+| Forks | 7,355 |
+| Stars this week | 806 |
 
 ---
 
-## 10. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) 🆕
+## 4. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)
+
+Audio Plugin for Audio to MIDI transcription using deep learning.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,236 |
+| Forks | 233 |
+| Stars this week | 139 |
+
+---
+
+## 5. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+
+Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,586 |
+| Forks | 194 |
+| Stars this week | 212 |
+
+---
+
+## 6. [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX)
+
+Diablo build for modern operating systems
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 9,896 |
+| Forks | 1,076 |
+| Stars this week | 82 |
+
+---
+
+## 7. [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)
+
+A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 6,159 |
+| Forks | 526 |
+| Stars this week | 194 |
+
+---
+
+## 8. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 
 PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,655 |
-| Forks | 2,766 |
-| Stars this week | 380 |
+| Stars | 33,740 |
+| Forks | 2,794 |
+| Stars this week | 347 |
 
 ---
 
-## 11. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
+## 9. [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) 🆕
 
-An Open Source Machine Learning Framework for Everyone
+An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 201,061 |
-| Forks | 79,636 |
-| Stars this week | 716 |
+| Stars | 49,942 |
+| Forks | 2,880 |
+| Stars this week | 175 |
 
 ---
 
-## 12. [lkimuk/ReArk](https://github.com/lkimuk/ReArk) 🆕
+## 10. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) 🆕
 
-An intelligent reverse engineering and AI-assisted analysis tool for HarmonyOS NEXT (HAP/APP/ABC), Android (APK/AAB), iOS (IPA), and native PE/ELF/Mach-O binaries.
+Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 681 |
-| Forks | 112 |
-| Stars this week | 194 |
+| Stars | 34,492 |
+| Forks | 6,232 |
+| Stars this week | 322 |
+
+---
+
+## 11. [WerWolv/ImHex](https://github.com/WerWolv/ImHex) 🆕
+
+🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 55,422 |
+| Forks | 2,548 |
+| Stars this week | 377 |
 
 ---

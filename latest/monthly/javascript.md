@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-17T04:19:56Z
-**Total Repositories:** 20
-**New Entries:** 4
+**Snapshot Time:** 2026-10-19T04:34:09Z
+**Total Repositories:** 19
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 30,297 |
-| Forks | 1,882 |
-| Stars this month | 24,844 |
+| Stars | 31,230 |
+| Forks | 1,957 |
+| Stars this month | 19,109 |
 
 ---
 
@@ -28,9 +28,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 281,634 |
-| Forks | 41,879 |
-| Stars this month | 23,005 |
+| Stars | 283,410 |
+| Forks | 42,100 |
+| Stars this month | 23,080 |
 
 ---
 
@@ -41,9 +41,9 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 107,450 |
-| Forks | 11,191 |
-| Stars this month | 12,847 |
+| Stars | 108,266 |
+| Forks | 11,284 |
+| Stars this month | 12,288 |
 
 ---
 
@@ -54,9 +54,9 @@ The React Framework
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 143,043 |
-| Forks | 35,152 |
-| Stars this month | 1,728 |
+| Stars | 143,079 |
+| Forks | 35,211 |
+| Stars this month | 1,629 |
 
 ---
 
@@ -67,9 +67,9 @@ Vercel's official collection of agent skills
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 32,540 |
-| Forks | 2,841 |
-| Stars this month | 1,368 |
+| Stars | 32,616 |
+| Forks | 2,847 |
+| Stars this month | 1,373 |
 
 ---
 
@@ -80,22 +80,22 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,901 |
-| Forks | 1,578 |
-| Stars this month | 11,937 |
+| Stars | 13,611 |
+| Forks | 1,693 |
+| Stars this month | 12,564 |
 
 ---
 
-## 7. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
+## 7. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
 
 Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,691 |
-| Forks | 243 |
-| Stars this month | 2,229 |
+| Stars | 2,997 |
+| Forks | 286 |
+| Stars this month | 2,486 |
 
 ---
 
@@ -106,9 +106,9 @@ List of Permanent Free LLM API (API Keys)
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,428 |
-| Forks | 1,144 |
-| Stars this month | 2,781 |
+| Stars | 10,635 |
+| Forks | 1,187 |
+| Stars this month | 2,943 |
 
 ---
 
@@ -119,22 +119,22 @@ A novel-writing tool created by a novelist.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,483 |
-| Forks | 197 |
-| Stars this month | 1,042 |
+| Stars | 1,506 |
+| Forks | 200 |
+| Stars this month | 1,068 |
 
 ---
 
-## 10. [byoungd/up](https://github.com/byoungd/up)
+## 10. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
-韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
+一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 68,812 |
-| Forks | 6,844 |
-| Stars this month | 6,301 |
+| Stars | 25,181 |
+| Forks | 1,613 |
+| Stars this month | 4,479 |
 
 ---
 
@@ -145,125 +145,112 @@ A novel-writing tool created by a novelist.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,437 |
-| Forks | 862 |
-| Stars this month | 4,001 |
+| Stars | 12,604 |
+| Forks | 877 |
+| Stars this month | 3,825 |
 
 ---
 
-## 12. [WebKit/WebKit](https://github.com/WebKit/WebKit)
+## 12. [byoungd/up](https://github.com/byoungd/up)
 
-Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,250 |
-| Forks | 2,266 |
-| Stars this month | 161 |
+| Stars | 68,927 |
+| Forks | 6,851 |
+| Stars this month | 6,143 |
 
 ---
 
-## 13. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 57,295 |
-| Forks | 11,165 |
-| Stars this month | 21,971 |
-
----
-
-## 14. [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) 🆕
-
-CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 14,270 |
-| Forks | 807 |
-| Stars this month | 968 |
-
----
-
-## 15. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) 🆕
-
-一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 23,882 |
-| Forks | 1,454 |
-| Stars this month | 3,270 |
-
----
-
-## 16. [spicetify/cli](https://github.com/spicetify/cli)
-
-Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 25,049 |
-| Forks | 979 |
-| Stars this month | 611 |
-
----
-
-## 17. [mrdoob/three.js](https://github.com/mrdoob/three.js) 🆕
+## 13. [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 JavaScript 3D Library.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 116,517 |
-| Forks | 36,658 |
-| Stars this month | 1,243 |
+| Stars | 116,604 |
+| Forks | 36,682 |
+| Stars this month | 1,288 |
 
 ---
 
-## 18. [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code)
+## 14. [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
 
-Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
+CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,853 |
-| Forks | 724 |
-| Stars this month | 1,870 |
+| Stars | 14,352 |
+| Forks | 821 |
+| Stars this month | 1,006 |
 
 ---
 
-## 19. [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
+## 15. [spicetify/cli](https://github.com/spicetify/cli)
+
+Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 25,083 |
+| Forks | 986 |
+| Stars this month | 621 |
+
+---
+
+## 16. [qist/tvbox](https://github.com/qist/tvbox) 🆕
+
+OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 12,092 |
+| Forks | 4,265 |
+| Stars this month | 793 |
+
+---
+
+## 17. [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
 
 A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 6,056 |
-| Forks | 595 |
-| Stars this month | 583 |
+| Stars | 6,071 |
+| Forks | 596 |
+| Stars this month | 581 |
 
 ---
 
-## 20. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+## 18. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 165,292 |
-| Forks | 8,929 |
-| Stars this month | 26,034 |
+| Stars | 167,179 |
+| Forks | 9,077 |
+| Stars this month | 26,136 |
+
+---
+
+## 19. [nodejs/node](https://github.com/nodejs/node) 🆕
+
+Node.js JavaScript runtime ✨🐢🚀✨
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 122,463 |
+| Forks | 40,172 |
+| Stars this month | 1,334 |
 
 ---

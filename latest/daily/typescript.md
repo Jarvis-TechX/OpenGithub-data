@@ -1,217 +1,204 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-17T04:19:19Z
-**Total Repositories:** 16
-**New Entries:** 7
+**Snapshot Time:** 2026-10-19T04:33:38Z
+**Total Repositories:** 15
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [mksglu/context-mode](https://github.com/mksglu/context-mode)
-
-Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 30,283 |
-| Forks | 2,133 |
-| Stars today | 449 |
-
----
-
-## 2. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-
-🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 75,695 |
-| Forks | 8,969 |
-| Stars today | 672 |
-
----
-
-## 3. [cursor/plugins](https://github.com/cursor/plugins)
-
-Cursor plugin specification and official plugins
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 12,026 |
-| Forks | 1,166 |
-| Stars today | 278 |
-
----
-
-## 4. [stablyai/orca](https://github.com/stablyai/orca)
-
-Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 94,595 |
-| Forks | 6,048 |
-| Stars today | 1,102 |
-
----
-
-## 5. [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-
-The open-source CapCut alternative
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 94,997 |
-| Forks | 9,355 |
-| Stars today | 257 |
-
----
-
-## 6. [anomalyco/opencode](https://github.com/anomalyco/opencode)
+## 1. [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
 The open source coding agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 214,408 |
-| Forks | 28,776 |
-| Stars today | 488 |
+| Stars | 216,795 |
+| Forks | 29,021 |
+| Stars today | 1,414 |
 
 ---
 
-## 7. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 2. [cursor/plugins](https://github.com/cursor/plugins)
 
-Write HTML. Render video. Built for agents.
+Cursor plugin specification and official plugins
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 65,413 |
-| Forks | 5,895 |
-| Stars today | 822 |
+| Stars | 12,815 |
+| Forks | 1,260 |
+| Stars today | 350 |
 
 ---
 
-## 8. [desktop/desktop](https://github.com/desktop/desktop) 🆕
+## 3. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
-Focus on what matters instead of fighting with Git.
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 21,966 |
-| Forks | 10,633 |
-| Stars today | 7 |
+| Stars | 76,644 |
+| Forks | 9,061 |
+| Stars today | 513 |
 
 ---
 
-## 9. [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) 🆕
+## 4. [stablyai/orca](https://github.com/stablyai/orca)
 
-Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,544 |
-| Forks | 1,479 |
-| Stars today | 239 |
+| Stars | 96,967 |
+| Forks | 6,193 |
+| Stars today | 1,146 |
 
 ---
 
-## 10. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) 🆕
+## 5. [DmNote-App/DmNote](https://github.com/DmNote-App/DmNote) 🆕
 
-A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,526 |
-| Forks | 1,114 |
-| Stars today | 4 |
+| Stars | 4,812 |
+| Forks | 376 |
+| Stars today | 769 |
 
 ---
 
-## 11. [morluto/rea](https://github.com/morluto/rea)
+## 6. [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) 🆕
 
-Reverse engineer anything with agents, from app behavior down to native binaries.
+Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 293,234 |
-| Forks | 73,924 |
-| Stars today | 23,584 |
+| Stars | 45,948 |
+| Forks | 9,452 |
+| Stars today | 66 |
 
 ---
 
-## 12. [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 🆕
+## 7. [earendil-works/pi](https://github.com/earendil-works/pi) 🆕
 
-Spec-driven development (SDD) for AI coding assistants.
+AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 72,173 |
-| Forks | 4,935 |
-| Stars today | 122 |
+| Stars | 116,215 |
+| Forks | 14,820 |
+| Stars today | 191 |
 
 ---
 
-## 13. [apache/maka](https://github.com/apache/maka) 🆕
+## 8. [twentyhq/twenty](https://github.com/twentyhq/twenty) 🆕
 
-Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
+The open alternative to Salesforce, designed for AI.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,810 |
-| Forks | 551 |
-| Stars today | 36 |
+| Stars | 58,512 |
+| Forks | 9,589 |
+| Stars today | 39 |
 
 ---
 
-## 14. [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen)
+## 9. [iptv-org/iptv](https://github.com/iptv-org/iptv) 🆕
 
-🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....
+Collection of publicly available IPTV channels from all over the world
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,144 |
-| Forks | 352 |
-| Stars today | 90 |
+| Stars | 141,387 |
+| Forks | 8,315 |
+| Stars today | 116 |
 
 ---
 
-## 15. [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) 🆕
+## 10. [thesysdev/openui](https://github.com/thesysdev/openui) 🆕
 
-A framework for building agentic apps
+The Open Standard for Generative UI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,398 |
-| Forks | 671 |
-| Stars today | 89 |
+| Stars | 11,915 |
+| Forks | 816 |
+| Stars today | 259 |
 
 ---
 
-## 16. [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) 🆕
+## 11. [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) 🆕
 
-AI Product Design Agent - Open Source
+A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,432 |
-| Forks | 768 |
-| Stars today | 38 |
+| Stars | 18,674 |
+| Forks | 3,193 |
+| Stars today | 370 |
+
+---
+
+## 12. [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) 🆕
+
+Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 78,205 |
+| Forks | 11,354 |
+| Stars today | 429 |
+
+---
+
+## 13. [elie222/rakazo](https://github.com/elie222/rakazo) 🆕
+
+Open-source Grok Bot alternative. Choose your own model and sandbox.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 4,619 |
+| Forks | 839 |
+| Stars today | 114 |
+
+---
+
+## 14. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) 🆕
+
+专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 8,011 |
+| Forks | 831 |
+| Stars today | 400 |
+
+---
+
+## 15. [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) 🆕
+
+TypeScript-to-Native Compiler
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 6,234 |
+| Forks | 188 |
+| Stars today | 70 |
 
 ---

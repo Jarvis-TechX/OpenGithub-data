@@ -1,267 +1,243 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-17T04:19:24Z
-**Total Repositories:** 20
-**New Entries:** 14
-**Quality Score:** 98.00/100
+**Snapshot Time:** 2026-10-19T04:33:42Z
+**Total Repositories:** 18
+**New Entries:** 15
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+## 1. [alvinunreal/lazyskills](https://github.com/alvinunreal/lazyskills) 🆕
 
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+mission control for agent skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 113,084 |
-| Forks | 6,546 |
-| Stars today | 828 |
+| Stars | 569 |
+| Forks | 73 |
+| Stars today | 138 |
 
 ---
 
-## 2. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+## 2. [google/ax](https://github.com/google/ax) 🆕
 
-Find secrets with Gitleaks 🔑
+Agent Executor (AX) is Google's open agentic orchestration runtime
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,046 |
-| Forks | 2,323 |
-| Stars today | 54 |
+| Stars | 13,944 |
+| Forks | 724 |
+| Stars today | 56 |
 
 ---
 
-## 3. [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada) 🆕
-
-arrrrrrrr
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 272 |
-| Forks | 13 |
-| Stars today | 50 |
-
----
-
-## 4. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-
-Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 30,771 |
-| Forks | 4,680 |
-| Stars today | 368 |
-
----
-
-## 5. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-
-Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 34,417 |
-| Forks | 4,591 |
-| Stars today | 218 |
-
----
-
-## 6. [cilium/cilium](https://github.com/cilium/cilium) 🆕
-
-eBPF-based Networking, Security, and Observability
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 25,671 |
-| Forks | 4,165 |
-| Stars today | 11 |
-
----
-
-## 7. [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api) 🆕
+## 3. [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api)
 
 A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 906 |
-| Forks | 170 |
-| Stars today | 185 |
+| Stars | 1,075 |
+| Forks | 191 |
+| Stars today | 68 |
 
 ---
 
-## 8. [sipeed/picoclaw](https://github.com/sipeed/picoclaw) 🆕
+## 4. [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada)
 
-Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+One self-hosted app for all your media.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,079 |
-| Forks | 4,468 |
-| Stars today | 41 |
+| Stars | 359 |
+| Forks | 19 |
+| Stars today | 43 |
 
 ---
 
-## 9. [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
+## 5. [ollama/ollama](https://github.com/ollama/ollama) 🆕
 
-Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,367 |
-| Forks | 769 |
-| Stars today | 102 |
+| Stars | 183,771 |
+| Forks | 18,399 |
+| Stars today | 146 |
 
 ---
 
-## 10. [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) 🆕
+## 6. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+
+Find secrets with Gitleaks 🔑
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,933 |
-| Forks | 286 |
-| Stars today | 41 |
+| Stars | 30,102 |
+| Forks | 2,382 |
+| Stars today | 32 |
 
 ---
 
-## 11. [keploy/keploy](https://github.com/keploy/keploy) 🆕
+## 7. [github/github-mcp-server](https://github.com/github/github-mcp-server) 🆕
 
-Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
+GitHub's official MCP Server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 18,605 |
-| Forks | 2,415 |
-| Stars today | 16 |
+| Stars | 33,740 |
+| Forks | 5,334 |
+| Stars today | 36 |
 
 ---
 
-## 12. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) 🆕
+## 8. [gastownhall/beads](https://github.com/gastownhall/beads) 🆕
 
-llm-d Router: The intelligent entry point for inference requests
+Beads - A memory upgrade for your coding agent
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 415 |
-| Forks | 459 |
-| Stars today | 6 |
+| Stars | 27,998 |
+| Forks | 1,894 |
+| Stars today | 26 |
 
 ---
 
-## 13. [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) 🆕
+## 9. [agent-substrate/substrate](https://github.com/agent-substrate/substrate) 🆕
 
-Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+Agent Substrate: the core system
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 44,223 |
-| Forks | 9,473 |
-| Stars today | 107 |
+| Stars | 5,526 |
+| Forks | 605 |
+| Stars today | 91 |
 
 ---
 
-## 14. [tbphp/gpt-load](https://github.com/tbphp/gpt-load) 🆕
+## 10. [VersusControl/versus-incident](https://github.com/VersusControl/versus-incident) 🆕
 
-Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。
+The self-hosted AI SRE agent. You don't have to monitor your systems alone. Versus Incident will keep track of your services, applications, and systems, detect new or unexpected problems, and provide your team with the evidence needed to investigate.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,144 |
-| Forks | 793 |
-| Stars today | 31 |
+| Stars | 875 |
+| Forks | 162 |
+| Stars today | 8 |
 
 ---
 
-## 15. [zeromicro/go-zero](https://github.com/zeromicro/go-zero) 🆕
+## 11. [mudler/LocalAI](https://github.com/mudler/LocalAI) 🆕
 
-A cloud-native Go microservices framework with cli tool for productivity.
+LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 33,386 |
-| Forks | 4,330 |
-| Stars today | 4 |
+| Stars | 49,626 |
+| Forks | 4,506 |
+| Stars today | 29 |
 
 ---
 
-## 16. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+## 12. [authelia/authelia](https://github.com/authelia/authelia) 🆕
 
-Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 55,472 |
-| Forks | 8,482 |
-| Stars today | 111 |
-
----
-
-## 17. [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) 🆕
-
-A developer-friendly API for converting many document formats into PDF files, and more!
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 13,313 |
-| Forks | 872 |
+| Stars | 29,306 |
+| Forks | 1,519 |
 | Stars today | 10 |
 
 ---
 
-## 18. [bytebase/bytebase](https://github.com/bytebase/bytebase) 🆕
+## 13. [hashicorp/terraform](https://github.com/hashicorp/terraform) 🆕
 
-Database governance built for humans and agents — controlling changes and access across every major database.
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 14,584 |
-| Forks | 997 |
-| Stars today | 9 |
+| Stars | 49,976 |
+| Forks | 10,648 |
+| Stars today | 30 |
 
 ---
 
-## 19. [skyhook-io/radar](https://github.com/skyhook-io/radar) 🆕
+## 14. [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) 🆕
 
-The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.
+将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,830 |
-| Forks | 245 |
-| Stars today | 15 |
+| Stars | 359 |
+| Forks | 102 |
+| Stars today | 29 |
 
 ---
 
-## 20. [prometheus/node_exporter](https://github.com/prometheus/node_exporter) 🆕
+## 15. [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) 🆕
 
-Exporter for machine metrics
+一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 13,848 |
-| Forks | 2,729 |
-| Stars today | 2 |
+| Stars | 5,473 |
+| Forks | 520 |
+| Stars today | 33 |
+
+---
+
+## 16. [ygelfand/echolocal](https://github.com/ygelfand/echolocal) 🆕
+
+Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 462 |
+| Forks | 24 |
+| Stars today | 16 |
+
+---
+
+## 17. [dolthub/dolt](https://github.com/dolthub/dolt) 🆕
+
+Dolt – Git for Data
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 24,677 |
+| Forks | 899 |
+| Stars today | 13 |
+
+---
+
+## 18. [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) 🆕
+
+Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,125 |
+| Forks | 794 |
+| Stars today | 6 |
 
 ---

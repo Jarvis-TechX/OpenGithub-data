@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-17T04:19:38Z
-**Total Repositories:** 18
-**New Entries:** 4
+**Snapshot Time:** 2026-10-19T04:33:54Z
+**Total Repositories:** 17
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
@@ -15,229 +15,216 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 293,236 |
-| Forks | 73,925 |
-| Stars this week | 248,962 |
+| Stars | 324,957 |
+| Forks | 82,296 |
+| Stars this week | 229,268 |
 
 ---
 
-## 2. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-
-Write HTML. Render video. Built for agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 65,413 |
-| Forks | 5,895 |
-| Stars this week | 5,601 |
-
----
-
-## 3. [mksglu/context-mode](https://github.com/mksglu/context-mode)
+## 2. [mksglu/context-mode](https://github.com/mksglu/context-mode)
 
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,283 |
-| Forks | 2,133 |
-| Stars this week | 4,207 |
+| Stars | 30,825 |
+| Forks | 2,286 |
+| Stars this week | 4,138 |
 
 ---
 
-## 4. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+## 3. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
-A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
+Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,566 |
-| Forks | 123 |
-| Stars this week | 779 |
+| Stars | 66,905 |
+| Forks | 6,065 |
+| Stars this week | 5,883 |
 
 ---
 
-## 5. [cursor/plugins](https://github.com/cursor/plugins)
+## 4. [cursor/plugins](https://github.com/cursor/plugins)
 
 Cursor plugin specification and official plugins
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,027 |
-| Forks | 1,166 |
-| Stars this week | 1,327 |
+| Stars | 12,815 |
+| Forks | 1,260 |
+| Stars this week | 1,717 |
 
 ---
 
-## 6. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+## 5. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
 
-Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 101,253 |
-| Forks | 8,873 |
-| Stars this week | 2,442 |
+| Stars | 1,901 |
+| Forks | 161 |
+| Stars this week | 1,001 |
 
 ---
 
-## 7. [vercel-labs/skills](https://github.com/vercel-labs/skills)
+## 6. [vercel-labs/skills](https://github.com/vercel-labs/skills)
 
 The open agent skills tool - npx skills
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 35,270 |
-| Forks | 3,008 |
-| Stars this week | 1,731 |
+| Stars | 35,525 |
+| Forks | 3,033 |
+| Stars this week | 1,734 |
 
 ---
 
-## 8. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+## 7. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) 🆕
 
-专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,170 |
-| Forks | 730 |
-| Stars this week | 2,990 |
+| Stars | 76,644 |
+| Forks | 9,061 |
+| Stars this week | 2,117 |
 
 ---
 
-## 9. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+## 8. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
-🎥 Make videos programmatically with React
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 64,618 |
-| Forks | 5,114 |
-| Stars this week | 1,869 |
+| Stars | 101,655 |
+| Forks | 8,931 |
+| Stars this week | 2,131 |
 
 ---
 
-## 10. [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen)
-
-🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 3,144 |
-| Forks | 352 |
-| Stars this week | 829 |
-
----
-
-## 11. [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind)
-
-A self-organizing Obsidian vault that gives AI coding agents persistent memory.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 5,357 |
-| Forks | 613 |
-| Stars this week | 372 |
-
----
-
-## 12. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 9. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 36,280 |
-| Forks | 4,895 |
-| Stars this week | 3,767 |
+| Stars | 37,162 |
+| Forks | 5,020 |
+| Stars this week | 3,815 |
 
 ---
 
-## 13. [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+## 10. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+
+专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 8,011 |
+| Forks | 831 |
+| Stars this week | 3,083 |
+
+---
+
+## 11. [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect) 🆕
+
+将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 1,355 |
+| Forks | 126 |
+| Stars this week | 904 |
+
+---
+
+## 12. [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen)
+
+🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,164 |
+| Forks | 354 |
+| Stars this week | 628 |
+
+---
+
+## 13. [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) 🆕
+
+Open-Source Generative UI Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,442 |
+| Forks | 384 |
+| Stars this week | 857 |
+
+---
+
+## 14. [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 
 TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,402 |
-| Forks | 2,872 |
-| Stars this week | 1,498 |
+| Stars | 29,591 |
+| Forks | 2,955 |
+| Stars this week | 1,673 |
 
 ---
 
-## 14. [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
+## 15. [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) 🆕
 
-WeFlow - 一个本地的微信聊天记录导出和年度报告应用
+Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 15,201 |
-| Forks | 708 |
-| Stars this week | 339 |
+| Stars | 13,696 |
+| Forks | 1,499 |
+| Stars this week | 994 |
 
 ---
 
-## 15. [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) 🆕
+## 16. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 
-The open-source CapCut alternative
+🎥 Make videos programmatically with React
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 94,997 |
-| Forks | 9,355 |
-| Stars this week | 1,704 |
+| Stars | 65,071 |
+| Forks | 5,172 |
+| Stars this week | 1,785 |
 
 ---
 
-## 16. [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) 🆕
+## 17. [elie222/rakazo](https://github.com/elie222/rakazo) 🆕
 
-Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+Open-source Grok Bot alternative. Choose your own model and sandbox.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 28,698 |
-| Forks | 3,060 |
-| Stars this week | 201 |
-
----
-
-## 17. [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) 🆕
-
-A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 18,035 |
-| Forks | 3,109 |
-| Stars this week | 190 |
-
----
-
-## 18. [agalwood/Motrix](https://github.com/agalwood/Motrix) 🆕
-
-A full-featured download manager.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 56,932 |
-| Forks | 5,095 |
-| Stars this week | 730 |
+| Stars | 4,620 |
+| Forks | 839 |
+| Stars this week | 850 |
 
 ---

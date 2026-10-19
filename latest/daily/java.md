@@ -1,256 +1,217 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-17T04:19:29Z
-**Total Repositories:** 19
-**New Entries:** 15
+**Snapshot Time:** 2026-10-19T04:33:46Z
+**Total Repositories:** 16
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+## 1. [termux/termux-app](https://github.com/termux/termux-app) 🆕
 
-Ghidra is a software reverse engineering (SRE) framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 89,725 |
-| Forks | 10,032 |
-| Stars today | 1,161 |
-
----
-
-## 2. [keycloak/keycloak](https://github.com/keycloak/keycloak) 🆕
-
-Open Source Identity and Access Management For Modern Applications and Services
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 37,404 |
-| Forks | 9,069 |
-| Stars today | 21 |
+| Stars | 62,932 |
+| Forks | 7,943 |
+| Stars today | 83 |
 
 ---
 
-## 3. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) 🆕
+## 2. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) 🆕
 
-Advanced Sentry Mode for BYD Vehicles
+Dual pane Android file manager with focus on APKs
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 366 |
-| Forks | 103 |
-| Stars today | 6 |
+| Stars | 303 |
+| Forks | 35 |
+| Stars today | 12 |
 
 ---
 
-## 4. [bk138/droidVNC-NG](https://github.com/bk138/droidVNC-NG) 🆕
+## 3. [PaperMC/Paper](https://github.com/PaperMC/Paper) 🆕
 
-Android VNC remote desktop server for local networks
+The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,398 |
-| Forks | 320 |
-| Stars today | 5 |
+| Stars | 12,742 |
+| Forks | 3,550 |
+| Stars today | 4 |
 
 ---
 
-## 5. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+## 4. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
 Learn System Design concepts and prepare for interviews using free resources.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 42,443 |
-| Forks | 8,854 |
-| Stars today | 128 |
+| Stars | 42,552 |
+| Forks | 8,872 |
+| Stars today | 61 |
 
 ---
 
-## 6. [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) 🆕
+## 5. [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) 🆕
 
-The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+The API and the developer guide for Shizuku and Sui.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,740 |
-| Forks | 1,173 |
-| Stars today | 4 |
-
----
-
-## 7. [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) 🆕
-
-Plugin for JADX to integrate MCP server
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,908 |
-| Forks | 274 |
+| Stars | 2,667 |
+| Forks | 1,257 |
 | Stars today | 5 |
 
 ---
 
-## 8. [iflytek/skillhub](https://github.com/iflytek/skillhub)
+## 6. [microg/GmsCore](https://github.com/microg/GmsCore) 🆕
 
-Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,235 |
-| Forks | 848 |
-| Stars today | 12 |
-
----
-
-## 9. [kestra-io/kestra](https://github.com/kestra-io/kestra)
-
-Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+Free implementation of Play Services
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 29,663 |
-| Forks | 3,415 |
-| Stars today | 35 |
+| Stars | 14,920 |
+| Forks | 3,269 |
+| Stars today | 15 |
 
 ---
 
-## 10. [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) 🆕
-
-Jetbrains Claude Code and Codex GUI Plugin
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 7,048 |
-| Forks | 681 |
-| Stars today | 18 |
-
----
-
-## 11. [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) 🆕
-
-All-in-one IoT Platform - Device management, data collection, processing and visualization.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 22,565 |
-| Forks | 6,518 |
-| Stars today | 4 |
-
----
-
-## 12. [freeok/so-novel](https://github.com/freeok/so-novel) 🆕
+## 7. [freeok/so-novel](https://github.com/freeok/so-novel)
 
 小说下载｜网文下载 | 网络小说
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 8,603 |
-| Forks | 755 |
-| Stars today | 84 |
+| Stars | 8,679 |
+| Forks | 768 |
+| Stars today | 43 |
 
 ---
 
-## 13. [apache/seatunnel](https://github.com/apache/seatunnel) 🆕
+## 8. [apache/shenyu](https://github.com/apache/shenyu) 🆕
 
-SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
+Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 9,733 |
-| Forks | 2,434 |
-| Stars today | 7 |
-
----
-
-## 14. [adityatandon15/Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) 🆕
-
-All Code of LLD Playlist
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,376 |
-| Forks | 930 |
-| Stars today | 1 |
-
----
-
-## 15. [debezium/debezium](https://github.com/debezium/debezium) 🆕
-
-Change data capture for a variety of databases. Please log issues athttps://github.com/debezium/dbz/issues.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 13,233 |
-| Forks | 3,086 |
-| Stars today | 9 |
-
----
-
-## 16. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) 🆕
-
-Spring Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 60,293 |
-| Forks | 38,752 |
-| Stars today | 7 |
-
----
-
-## 17. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) 🆕
-
-Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 4,298 |
-| Forks | 830 |
+| Stars | 8,892 |
+| Forks | 3,096 |
 | Stars today | 3 |
 
 ---
 
-## 18. [StarRocks/starrocks](https://github.com/StarRocks/starrocks) 🆕
+## 9. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
 
-The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+Browse media content with your own rules on Android TV
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 12,183 |
-| Forks | 2,620 |
+| Stars | 35,138 |
+| Forks | 2,191 |
+| Stars today | 43 |
+
+---
+
+## 10. [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) 🆕
+
+Based Minecraft utility mod.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,949 |
+| Forks | 1,710 |
 | Stars today | 6 |
 
 ---
 
-## 19. [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) 🆕
+## 11. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) 🆕
 
-基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。
+Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 7,365 |
-| Forks | 2,115 |
+| Stars | 4,971 |
+| Forks | 334 |
+| Stars today | 14 |
+
+---
+
+## 12. [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) 🆕
+
+Learn Low Level Design (LLD) and prepare for interviews using free resources.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 27,452 |
+| Forks | 6,690 |
+| Stars today | 20 |
+
+---
+
+## 13. [DrKLO/Telegram](https://github.com/DrKLO/Telegram) 🆕
+
+Telegram for Android source
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 30,113 |
+| Forks | 10,277 |
+| Stars today | 6 |
+
+---
+
+## 14. [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) 🆕
+
+A rewrite of Tachiyomi for the Desktop
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 7,899 |
+| Forks | 480 |
+| Stars today | 11 |
+
+---
+
+## 15. [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) 🆕
+
+HyperOS enhancement module - Make HyperOS Great Again!
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,533 |
+| Forks | 448 |
 | Stars today | 7 |
+
+---
+
+## 16. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
+
+Advanced Sentry Mode for BYD Vehicles
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 373 |
+| Forks | 106 |
+| Stars today | 4 |
 
 ---

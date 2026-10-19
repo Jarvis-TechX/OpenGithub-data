@@ -1,191 +1,202 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-17T04:19:49Z
-**Total Repositories:** 14
-**New Entries:** 3
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-10-19T04:34:02Z
+**Total Repositories:** 15
+**New Entries:** 6
+**Quality Score:** 97.33/100
 
 ---
 
-## 1. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
+## 1. [android/skills](https://github.com/android/skills) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 8,857 |
+| Forks | 568 |
+| Stars this week | 969 |
+
+---
+
+## 2. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
 
 Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,997 |
-| Forks | 99 |
-| Stars this week | 724 |
+| Stars | 2,039 |
+| Forks | 102 |
+| Stars this week | 573 |
 
 ---
 
-## 2. [mihonapp/mihon](https://github.com/mihonapp/mihon)
-
-Free and open source manga reader for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 24,442 |
-| Forks | 1,625 |
-| Stars this week | 299 |
-
----
-
-## 3. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
-
-Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 571 |
-| Forks | 130 |
-| Stars this week | 61 |
-
----
-
-## 4. [HuangZhuoRui/LocationSpoofer](https://github.com/HuangZhuoRui/LocationSpoofer)
-
-虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)，
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,941 |
-| Forks | 346 |
-| Stars this week | 586 |
-
----
-
-## 5. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
-
-A Download Manager that speeds up your downloads
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 18,575 |
-| Forks | 955 |
-| Stars this week | 247 |
-
----
-
-## 6. [tiann/KernelSU](https://github.com/tiann/KernelSU)
-
-A Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 19,305 |
-| Forks | 4,425 |
-| Stars this week | 317 |
-
----
-
-## 7. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk) 🆕
+## 3. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
 
 DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,062 |
-| Forks | 382 |
-| Stars this week | 198 |
+| Stars | 4,285 |
+| Forks | 398 |
+| Stars this week | 416 |
 
 ---
 
-## 8. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord) 🆕
+## 4. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
 
 BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,386 |
-| Forks | 322 |
-| Stars this week | 629 |
+| Stars | 3,581 |
+| Forks | 344 |
+| Stars this week | 659 |
 
 ---
 
-## 9. [linroid/Ketch](https://github.com/linroid/Ketch) 🆕
-
-A fast, open-source download manager for every device you own.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 396 |
-| Forks | 29 |
-| Stars this week | 109 |
-
----
-
-## 10. [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)
-
-decentralized mesh chat
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,805 |
-| Forks | 1,920 |
-| Stars this week | 53 |
-
----
-
-## 11. [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2)
-
-A Minecraft: Java Edition Launcher for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,038 |
-| Forks | 376 |
-| Stars this week | 58 |
-
----
-
-## 12. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
-
-GhostLock One-Tap Execution App (CVE-2026-43499)
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,998 |
-| Forks | 513 |
-| Stars this week | 288 |
-
----
-
-## 13. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 5. [CYQawa/YunX](https://github.com/CYQawa/YunX)
 
 ✨一个安卓网盘解析下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,616 |
-| Forks | 232 |
-| Stars this week | 596 |
+| Stars | 4,830 |
+| Forks | 242 |
+| Stars this week | 718 |
 
 ---
 
-## 14. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
+## 6. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
+
+Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 589 |
+| Forks | 136 |
+| Stars this week | 73 |
+
+---
+
+## 7. [mihonapp/mihon](https://github.com/mihonapp/mihon)
+
+Free and open source manga reader for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 24,515 |
+| Forks | 1,637 |
+| Stars this week | 296 |
+
+---
+
+## 8. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
+
+A Download Manager that speeds up your downloads
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 18,624 |
+| Forks | 961 |
+| Stars this week | 225 |
+
+---
+
+## 9. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+
+A Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 19,404 |
+| Forks | 4,475 |
+| Stars this week | 353 |
+
+---
+
+## 10. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) 🆕
+
+A cross-platform music app using YouTube Music for backend
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 12,177 |
+| Forks | 675 |
+| Stars this week | 289 |
+
+---
+
+## 11. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
+
+A V2Ray client for Android, support Xray core and v2fly core
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 64,244 |
+| Forks | 8,323 |
+| Stars this week | 483 |
+
+---
+
+## 12. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
 
 Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,365 |
-| Forks | 464 |
-| Stars this week | 302 |
+| Stars | 11,428 |
+| Forks | 472 |
+| Stars this week | 294 |
+
+---
+
+## 13. [Chethan616/ClearPDF](https://github.com/Chethan616/ClearPDF) 🆕
+
+Open-source Android PDF and document toolkit with PDF tools, Office viewing, XLSX editing, scanning, and image editing. Built with Kotlin and Jetpack Compose.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 362 |
+| Forks | 26 |
+| Stars this week | 113 |
+
+---
+
+## 14. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) 🆕
+
+Kernel-based Android Root Solution & KPM
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,593 |
+| Forks | 1,360 |
+| Stars this week | 104 |
+
+---
+
+## 15. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
+
+Headunit App for displaying Android Auto
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,883 |
+| Forks | 250 |
+| Stars this week | 174 |
 
 ---

@@ -1,36 +1,36 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-17T04:19:17Z
+**Snapshot Time:** 2026-10-19T04:33:36Z
 **Total Repositories:** 15
-**New Entries:** 7
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+## 1. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+
+The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 53,897 |
+| Forks | 17,493 |
+| Stars today | 2,232 |
+
+---
+
+## 2. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 40,749 |
-| Forks | 4,411 |
-| Stars today | 1,552 |
-
----
-
-## 2. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 51,627 |
-| Forks | 4,571 |
-| Stars today | 1,158 |
+| Stars | 42,819 |
+| Forks | 4,541 |
+| Stars today | 1,175 |
 
 ---
 
@@ -41,9 +41,9 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 53,585 |
-| Forks | 4,862 |
-| Stars today | 281 |
+| Stars | 54,719 |
+| Forks | 4,953 |
+| Stars today | 589 |
 
 ---
 
@@ -54,151 +54,151 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,494 |
-| Forks | 7,819 |
-| Stars today | 2,301 |
+| Stars | 75,843 |
+| Forks | 8,304 |
+| Stars today | 2,082 |
 
 ---
 
-## 5. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 🆕
+## 5. [Kruk2/jasna](https://github.com/Kruk2/jasna) 🆕
 
-The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+Video restoration tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 48,721 |
-| Forks | 16,676 |
-| Stars today | 898 |
+| Stars | 2,522 |
+| Forks | 195 |
+| Stars today | 115 |
 
 ---
 
-## 6. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)
+## 6. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) 🆕
 
-TokenSpeed is a speed-of-light LLM inference engine.
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,673 |
-| Forks | 352 |
-| Stars today | 308 |
+| Stars | 138,801 |
+| Forks | 16,511 |
+| Stars today | 154 |
 
 ---
 
-## 7. [elder-plinius/V3R1T4S](https://github.com/elder-plinius/V3R1T4S) 🆕
+## 7. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 
-liberating known unknowns
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 367 |
-| Forks | 68 |
-| Stars today | 40 |
-
----
-
-## 8. [Crosstalk-Solutions/unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit)
-
-A suite of tools for UniFi network management
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 685 |
-| Forks | 72 |
-| Stars today | 35 |
+| Stars | 52,702 |
+| Forks | 4,671 |
+| Stars today | 663 |
 
 ---
 
-## 9. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+## 8. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) 🆕
 
-利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 132,183 |
-| Forks | 20,823 |
-| Stars today | 749 |
+| Stars | 111,951 |
+| Forks | 21,628 |
+| Stars today | 222 |
 
 ---
 
-## 10. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)
+## 9. [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) 🆕
 
-Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+ASPIRE: Agentic /Skills Discovery for Robotics
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 28,794 |
-| Forks | 1,558 |
-| Stars today | 517 |
+| Stars | 595 |
+| Forks | 46 |
+| Stars today | 94 |
 
 ---
 
-## 11. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 🆕
+## 10. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) 🆕
 
-Learn AI Engineering! Learn it. Build it. Ship it for others.
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 70,347 |
-| Forks | 12,362 |
-| Stars today | 539 |
+| Stars | 128,521 |
+| Forks | 12,390 |
+| Stars today | 626 |
 
 ---
 
-## 12. [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 🆕
+## 11. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) 🆕
 
-Academic Research Skills for Claude Code: research → write → review → revise → finalize
+Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 52,438 |
-| Forks | 4,018 |
-| Stars today | 207 |
+| Stars | 31,586 |
+| Forks | 2,951 |
+| Stars today | 168 |
 
 ---
 
-## 13. [odoo/odoo](https://github.com/odoo/odoo) 🆕
+## 12. [mozilla-ai/otari](https://github.com/mozilla-ai/otari) 🆕
 
-Odoo. Open Source Apps To Grow Your Business.
+Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 55,100 |
-| Forks | 34,035 |
-| Stars today | 32 |
+| Stars | 668 |
+| Forks | 85 |
+| Stars today | 39 |
 
 ---
 
-## 14. [google/artemis](https://github.com/google/artemis) 🆕
+## 13. [superdesigndev/treg](https://github.com/superdesigndev/treg) 🆕
 
-ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.
+OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 12,058 |
-| Forks | 1,302 |
-| Stars today | 226 |
+| Stars | 5,762 |
+| Forks | 484 |
+| Stars today | 68 |
 
 ---
 
-## 15. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) 🆕
+## 14. [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) 🆕
 
-Give your agent CAD superpowers.
+High-Quality Voice Cloning TTS for 600+ Languages
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 21,042 |
-| Forks | 2,077 |
-| Stars today | 290 |
+| Stars | 14,770 |
+| Forks | 2,204 |
+| Stars today | 53 |
+
+---
+
+## 15. [Free-TV/IPTV](https://github.com/Free-TV/IPTV) 🆕
+
+M3U Playlist for free TV channels
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 21,208 |
+| Forks | 3,058 |
+| Stars today | 19 |
 
 ---

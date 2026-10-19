@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-17T04:19:42Z
-**Total Repositories:** 16
-**New Entries:** 3
+**Snapshot Time:** 2026-10-19T04:33:57Z
+**Total Repositories:** 14
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,152 +15,152 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,771 |
-| Forks | 4,680 |
-| Stars this week | 5,401 |
+| Stars | 31,164 |
+| Forks | 4,893 |
+| Stars this week | 5,765 |
 
 ---
 
-## 2. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
-
-📂 Web File Browser
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,784 |
-| Forks | 489 |
-| Stars this week | 228 |
-
----
-
-## 3. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+## 2. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
 
 Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,996 |
-| Forks | 546 |
-| Stars this week | 227 |
+| Stars | 3,018 |
+| Forks | 551 |
+| Stars this week | 207 |
 
 ---
 
-## 4. [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS)
+## 3. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 
-An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
+📂 Web File Browser
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,168 |
-| Forks | 328 |
-| Stars this week | 152 |
+| Stars | 8,813 |
+| Forks | 493 |
+| Stars this week | 201 |
 
 ---
 
-## 5. [eugenioenko/ttt](https://github.com/eugenioenko/ttt) 🆕
-
-TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 604 |
-| Forks | 66 |
-| Stars this week | 140 |
-
----
-
-## 6. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 15,205 |
-| Forks | 2,237 |
-| Stars this week | 117 |
-
----
-
-## 7. [ollama/ollama](https://github.com/ollama/ollama)
+## 4. [ollama/ollama](https://github.com/ollama/ollama)
 
 Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 183,510 |
-| Forks | 18,339 |
-| Stars this week | 1,098 |
+| Stars | 183,771 |
+| Forks | 18,399 |
+| Stars this week | 1,092 |
 
 ---
 
-## 8. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router)
+## 5. [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS)
+
+An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,194 |
+| Forks | 333 |
+| Stars this week | 138 |
+
+---
+
+## 6. [devaccuracy/ledgerforge](https://github.com/devaccuracy/ledgerforge) 🆕
+
+The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 411 |
+| Forks | 42 |
+| Stars this week | 207 |
+
+---
+
+## 7. [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) 🆕
+
+ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,953 |
+| Forks | 401 |
+| Stars this week | 157 |
+
+---
+
+## 8. [github/github-mcp-server](https://github.com/github/github-mcp-server) 🆕
+
+GitHub's official MCP Server
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 33,740 |
+| Forks | 5,334 |
+| Stars this week | 251 |
+
+---
+
+## 9. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router)
 
 llm-d Router: The intelligent entry point for inference requests
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 415 |
-| Forks | 459 |
-| Stars this week | 26 |
+| Stars | 421 |
+| Forks | 469 |
+| Stars this week | 27 |
 
 ---
 
-## 9. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
+## 10. [eugenioenko/ttt](https://github.com/eugenioenko/ttt)
+
+TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 620 |
+| Forks | 73 |
+| Stars this week | 95 |
+
+---
+
+## 11. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 
 WhatsApp MCP server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,638 |
-| Forks | 1,417 |
-| Stars this week | 220 |
+| Stars | 6,656 |
+| Forks | 1,419 |
+| Stars this week | 130 |
 
 ---
 
-## 10. [docker/compose](https://github.com/docker/compose)
+## 12. [google/agentmesh](https://github.com/google/agentmesh)
 
-Define and run multi-container applications with Docker
+Agent Mesh
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,375 |
-| Forks | 5,876 |
-| Stars this week | 172 |
-
----
-
-## 11. [BishopFox/sliver](https://github.com/BishopFox/sliver)
-
-Adversary Emulation Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 12,135 |
-| Forks | 1,628 |
-| Stars this week | 145 |
-
----
-
-## 12. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
-
-A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 50,096 |
-| Forks | 12,066 |
-| Stars this week | 628 |
+| Stars | 1,116 |
+| Forks | 184 |
+| Stars this week | 151 |
 
 ---
 
@@ -171,47 +171,21 @@ Yet another WebUI for Nginx
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,638 |
-| Forks | 903 |
-| Stars this week | 64 |
+| Stars | 11,644 |
+| Forks | 906 |
+| Stars this week | 52 |
 
 ---
 
-## 14. [evanw/esbuild](https://github.com/evanw/esbuild) 🆕
+## 14. [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) 🆕
 
-An extremely fast bundler for the web
+将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 40,093 |
-| Forks | 1,361 |
-| Stars this week | 41 |
-
----
-
-## 15. [google/agentmesh](https://github.com/google/agentmesh)
-
-Agent Mesh
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 1,097 |
-| Forks | 180 |
-| Stars this week | 126 |
-
----
-
-## 16. [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) 🆕
-
-Heterogeneous GPU Sharing on Kubernetes
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 4,815 |
-| Forks | 868 |
-| Stars this week | 199 |
+| Stars | 359 |
+| Forks | 102 |
+| Stars this week | 116 |
 
 ---

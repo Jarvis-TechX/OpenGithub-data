@@ -1,113 +1,137 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-17T04:19:18Z
-**Total Repositories:** 8
-**New Entries:** 5
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-10-19T04:33:37Z
+**Total Repositories:** 10
+**New Entries:** 7
+**Quality Score:** 96.00/100
 
 ---
 
-## 1. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 1. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
+
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 167,179 |
+| Forks | 9,077 |
+| Stars today | 1,019 |
+
+---
+
+## 2. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 281,632 |
-| Forks | 41,879 |
-| Stars today | 1,057 |
+| Stars | 283,410 |
+| Forks | 42,100 |
+| Stars today | 1,084 |
 
 ---
 
-## 2. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 3. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 23,882 |
-| Forks | 1,454 |
-| Stars today | 538 |
+| Stars | 25,180 |
+| Forks | 1,613 |
+| Stars today | 433 |
 
 ---
 
-## 3. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
+## 4. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) 🆕
 
-Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,691 |
-| Forks | 243 |
-| Stars today | 420 |
+| Stars | 31,229 |
+| Forks | 1,957 |
+| Stars today | 479 |
 
 ---
 
-## 4. [superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) 🆕
-
-The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev
+## 5. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 820 |
-| Forks | 63 |
-| Stars today | 40 |
+| Stars | 5,779 |
+| Forks | 972 |
+| Stars today | 427 |
 
 ---
 
-## 5. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
+## 6. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 🆕
+
+Production-grade engineering skills for AI coding agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 108,266 |
+| Forks | 11,284 |
+| Stars today | 402 |
+
+---
+
+## 7. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
 
 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,437 |
-| Forks | 862 |
-| Stars today | 87 |
+| Stars | 12,604 |
+| Forks | 877 |
+| Stars today | 73 |
 
 ---
 
-## 6. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 🆕
+## 8. [guoyue2010/lxmusic-](https://github.com/guoyue2010/lxmusic-) 🆕
 
-Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
+lxmusic(洛雪音乐)全网最新最全音源
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,018 |
-| Forks | 211 |
-| Stars today | 137 |
+| Stars | 6,471 |
+| Forks | 311 |
+| Stars today | 35 |
 
 ---
 
-## 7. [github/awesome-copilot](https://github.com/github/awesome-copilot) 🆕
+## 9. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) 🆕
 
-Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+List of Permanent Free LLM API (API Keys)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 40,101 |
-| Forks | 5,144 |
-| Stars today | 46 |
+| Stars | 10,635 |
+| Forks | 1,187 |
+| Stars today | 111 |
 
 ---
 
-## 8. [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) 🆕
+## 10. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
 
-HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,175 |
-| Forks | 380 |
-| Stars today | 25 |
+| Stars | 55,411 |
+| Forks | 8,203 |
+| Stars today | 149 |
 
 ---
