@@ -1,243 +1,204 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-19T04:33:42Z
-**Total Repositories:** 18
-**New Entries:** 15
+**Snapshot Time:** 2026-10-20T04:43:04Z
+**Total Repositories:** 15
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [alvinunreal/lazyskills](https://github.com/alvinunreal/lazyskills) 🆕
+## 1. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
 
-mission control for agent skills
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 569 |
-| Forks | 73 |
-| Stars today | 138 |
-
----
-
-## 2. [google/ax](https://github.com/google/ax) 🆕
-
-Agent Executor (AX) is Google's open agentic orchestration runtime
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 13,944 |
-| Forks | 724 |
-| Stars today | 56 |
+| Stars | 38,528 |
+| Forks | 776 |
+| Stars today | 18 |
 
 ---
 
-## 3. [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api)
+## 2. [go-gitea/gitea](https://github.com/go-gitea/gitea) 🆕
 
-A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.
+Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,075 |
-| Forks | 191 |
-| Stars today | 68 |
+| Stars | 58,578 |
+| Forks | 7,296 |
+| Stars today | 23 |
 
 ---
 
-## 4. [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada)
+## 3. [helm/helm](https://github.com/helm/helm) 🆕
 
-One self-hosted app for all your media.
+The Kubernetes Package Manager
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 359 |
-| Forks | 19 |
-| Stars today | 43 |
+| Stars | 30,345 |
+| Forks | 7,852 |
+| Stars today | 3 |
 
 ---
 
-## 5. [ollama/ollama](https://github.com/ollama/ollama) 🆕
+## 4. [urfave/cli](https://github.com/urfave/cli) 🆕
+
+A declarative, simple, fast, and fun package for building command line tools in Go
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 24,294 |
+| Forks | 1,935 |
+| Stars today | 1 |
+
+---
+
+## 5. [ollama/ollama](https://github.com/ollama/ollama)
 
 Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 183,771 |
-| Forks | 18,399 |
-| Stars today | 146 |
+| Stars | 183,886 |
+| Forks | 18,422 |
+| Stars today | 129 |
 
 ---
 
-## 6. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+## 6. [superplanehq/superplane](https://github.com/superplanehq/superplane) 🆕
 
-Find secrets with Gitleaks 🔑
+Open source factory for one-shot engineering
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,102 |
-| Forks | 2,382 |
-| Stars today | 32 |
+| Stars | 8,046 |
+| Forks | 658 |
+| Stars today | 92 |
 
 ---
 
-## 7. [github/github-mcp-server](https://github.com/github/github-mcp-server) 🆕
+## 7. [rclone/rclone](https://github.com/rclone/rclone) 🆕
 
-GitHub's official MCP Server
+"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 33,740 |
-| Forks | 5,334 |
-| Stars today | 36 |
+| Stars | 60,421 |
+| Forks | 5,548 |
+| Stars today | 22 |
 
 ---
 
-## 8. [gastownhall/beads](https://github.com/gastownhall/beads) 🆕
-
-Beads - A memory upgrade for your coding agent
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 27,998 |
-| Forks | 1,894 |
-| Stars today | 26 |
-
----
-
-## 9. [agent-substrate/substrate](https://github.com/agent-substrate/substrate) 🆕
-
-Agent Substrate: the core system
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,526 |
-| Forks | 605 |
-| Stars today | 91 |
-
----
-
-## 10. [VersusControl/versus-incident](https://github.com/VersusControl/versus-incident) 🆕
-
-The self-hosted AI SRE agent. You don't have to monitor your systems alone. Versus Incident will keep track of your services, applications, and systems, detect new or unexpected problems, and provide your team with the evidence needed to investigate.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 875 |
-| Forks | 162 |
-| Stars today | 8 |
-
----
-
-## 11. [mudler/LocalAI](https://github.com/mudler/LocalAI) 🆕
-
-LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 49,626 |
-| Forks | 4,506 |
-| Stars today | 29 |
-
----
-
-## 12. [authelia/authelia](https://github.com/authelia/authelia) 🆕
-
-The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 29,306 |
-| Forks | 1,519 |
-| Stars today | 10 |
-
----
-
-## 13. [hashicorp/terraform](https://github.com/hashicorp/terraform) 🆕
-
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 49,976 |
-| Forks | 10,648 |
-| Stars today | 30 |
-
----
-
-## 14. [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) 🆕
+## 8. [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API)
 
 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 359 |
-| Forks | 102 |
+| Stars | 386 |
+| Forks | 110 |
 | Stars today | 29 |
 
 ---
 
-## 15. [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) 🆕
+## 9. [etcd-io/etcd](https://github.com/etcd-io/etcd) 🆕
 
-一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923
+Distributed reliable key-value store for the most critical data of a distributed system
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,473 |
-| Forks | 520 |
-| Stars today | 33 |
+| Stars | 52,403 |
+| Forks | 10,543 |
+| Stars today | 11 |
 
 ---
 
-## 16. [ygelfand/echolocal](https://github.com/ygelfand/echolocal) 🆕
+## 10. [gofiber/fiber](https://github.com/gofiber/fiber) 🆕
 
-Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.
+⚡️ Express inspired web framework written in Go
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 462 |
-| Forks | 24 |
-| Stars today | 16 |
+| Stars | 40,224 |
+| Forks | 2,056 |
+| Stars today | 4 |
 
 ---
 
-## 17. [dolthub/dolt](https://github.com/dolthub/dolt) 🆕
+## 11. [livekit/livekit](https://github.com/livekit/livekit) 🆕
 
-Dolt – Git for Data
+End-to-end realtime stack for connecting humans and AI
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 24,677 |
-| Forks | 899 |
-| Stars today | 13 |
+| Stars | 21,674 |
+| Forks | 2,485 |
+| Stars today | 69 |
 
 ---
 
-## 18. [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) 🆕
+## 12. [simulot/immich-go](https://github.com/simulot/immich-go) 🆕
 
-Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.
+An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,125 |
-| Forks | 794 |
-| Stars today | 6 |
+| Stars | 7,072 |
+| Forks | 273 |
+| Stars today | 9 |
+
+---
+
+## 13. [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) 🆕
+
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 44,374 |
+| Forks | 4,310 |
+| Stars today | 26 |
+
+---
+
+## 14. [strelov1/freehire](https://github.com/strelov1/freehire) 🆕
+
+freehire — the open-source search engine for job seekers
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,494 |
+| Forks | 173 |
+| Stars today | 295 |
+
+---
+
+## 15. [moby/moby](https://github.com/moby/moby) 🆕
+
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 72,207 |
+| Forks | 19,255 |
+| Stars today | 4 |
 
 ---

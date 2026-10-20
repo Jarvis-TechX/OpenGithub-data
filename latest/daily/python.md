@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-19T04:33:36Z
+**Snapshot Time:** 2026-10-20T04:42:57Z
 **Total Repositories:** 15
-**New Entries:** 10
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
@@ -15,190 +15,190 @@ The job search that runs on your machine. AI job application framework built on 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 53,897 |
-| Forks | 17,493 |
-| Stars today | 2,232 |
+| Stars | 57,869 |
+| Forks | 18,318 |
+| Stars today | 3,856 |
 
 ---
 
-## 2. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 42,819 |
-| Forks | 4,541 |
-| Stars today | 1,175 |
-
----
-
-## 3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 54,719 |
-| Forks | 4,953 |
-| Stars today | 589 |
-
----
-
-## 4. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 75,843 |
-| Forks | 8,304 |
-| Stars today | 2,082 |
-
----
-
-## 5. [Kruk2/jasna](https://github.com/Kruk2/jasna) 🆕
-
-Video restoration tool
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 2,522 |
-| Forks | 195 |
-| Stars today | 115 |
-
----
-
-## 6. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) 🆕
+## 2. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 138,801 |
-| Forks | 16,511 |
-| Stars today | 154 |
+| Stars | 139,940 |
+| Forks | 16,599 |
+| Stars today | 1,011 |
 
 ---
 
-## 7. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+## 3. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) 🆕
 
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 52,702 |
-| Forks | 4,671 |
-| Stars today | 663 |
+| Stars | 76,345 |
+| Forks | 5,928 |
+| Stars today | 310 |
 
 ---
 
-## 8. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) 🆕
+## 4. [Kruk2/jasna](https://github.com/Kruk2/jasna)
 
-TradingAgents: Multi-Agents LLM Financial Trading Framework
+Video restoration tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 111,951 |
-| Forks | 21,628 |
-| Stars today | 222 |
+| Stars | 3,004 |
+| Forks | 216 |
+| Stars today | 498 |
 
 ---
 
-## 9. [NVlabs/ASPIRE](https://github.com/NVlabs/ASPIRE) 🆕
+## 5. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
-ASPIRE: Agentic /Skills Discovery for Robotics
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 595 |
-| Forks | 46 |
-| Stars today | 94 |
+| Stars | 55,362 |
+| Forks | 4,994 |
+| Stars today | 606 |
 
 ---
 
-## 10. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) 🆕
+## 6. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 🆕
+
+Kronos: A Foundation Model for the Language of Financial Markets
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 41,803 |
+| Forks | 6,938 |
+| Stars today | 363 |
+
+---
+
+## 7. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 43,222 |
+| Forks | 4,573 |
+| Stars today | 733 |
+
+---
+
+## 8. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
 
 Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 128,521 |
-| Forks | 12,390 |
-| Stars today | 626 |
+| Stars | 129,275 |
+| Forks | 12,468 |
+| Stars today | 751 |
 
 ---
 
-## 11. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) 🆕
+## 9. [usestrix/strix](https://github.com/usestrix/strix) 🆕
 
-Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
+Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 31,586 |
-| Forks | 2,951 |
-| Stars today | 168 |
+| Stars | 70,153 |
+| Forks | 7,825 |
+| Stars today | 509 |
 
 ---
 
-## 12. [mozilla-ai/otari](https://github.com/mozilla-ai/otari) 🆕
+## 10. [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate) 🆕
 
-Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.
+[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 668 |
-| Forks | 85 |
-| Stars today | 39 |
+| Stars | 2,033 |
+| Forks | 222 |
+| Stars today | 128 |
 
 ---
 
-## 13. [superdesigndev/treg](https://github.com/superdesigndev/treg) 🆕
+## 11. [google/artemis](https://github.com/google/artemis) 🆕
 
-OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
+ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,762 |
-| Forks | 484 |
-| Stars today | 68 |
+| Stars | 13,046 |
+| Forks | 1,547 |
+| Stars today | 597 |
 
 ---
 
-## 14. [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) 🆕
+## 12. [666ghj/MiroFish](https://github.com/666ghj/MiroFish) 🆕
 
-High-Quality Voice Cloning TTS for 600+ Languages
+A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 14,770 |
-| Forks | 2,204 |
-| Stars today | 53 |
+| Stars | 80,688 |
+| Forks | 12,245 |
+| Stars today | 386 |
 
 ---
 
-## 15. [Free-TV/IPTV](https://github.com/Free-TV/IPTV) 🆕
+## 13. [bobeff/open-source-games](https://github.com/bobeff/open-source-games) 🆕
 
-M3U Playlist for free TV channels
+A list of open source games.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 21,208 |
-| Forks | 3,058 |
-| Stars today | 19 |
+| Stars | 16,607 |
+| Forks | 1,477 |
+| Stars today | 456 |
+
+---
+
+## 14. [fastapi/fastapi](https://github.com/fastapi/fastapi) 🆕
+
+FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 103,267 |
+| Forks | 10,063 |
+| Stars today | 47 |
+
+---
+
+## 15. [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 🆕
+
+Academic Research Skills for Claude Code: research → write → review → revise → finalize
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 53,030 |
+| Forks | 4,066 |
+| Stars today | 260 |
 
 ---

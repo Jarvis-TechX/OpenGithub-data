@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-19T04:33:43Z
-**Total Repositories:** 11
-**New Entries:** 6
+**Snapshot Time:** 2026-10-20T04:43:05Z
+**Total Repositories:** 10
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
@@ -15,138 +15,125 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 10,638 |
-| Forks | 754 |
-| Stars today | 512 |
+| Stars | 11,501 |
+| Forks | 817 |
+| Stars today | 666 |
 
 ---
 
 ## 2. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
-XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.
+Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 8,595 |
-| Forks | 457 |
-| Stars today | 835 |
+| Stars | 10,639 |
+| Forks | 618 |
+| Stars today | 671 |
 
 ---
 
-## 3. [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+## 3. [smg-project/smg](https://github.com/smg-project/smg) 🆕
 
-CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 83,897 |
-| Forks | 5,329 |
-| Stars today | 155 |
+| Stars | 644 |
+| Forks | 196 |
+| Stars today | 10 |
 
 ---
 
-## 4. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect) 🆕
+## 4. [oven-sh/bun](https://github.com/oven-sh/bun) 🆕
 
-AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,286 |
-| Forks | 146 |
-| Stars today | 49 |
+| Stars | 96,307 |
+| Forks | 5,152 |
+| Stars today | 27 |
 
 ---
 
-## 5. [googleworkspace/cli](https://github.com/googleworkspace/cli) 🆕
+## 5. [leepokai/Codync](https://github.com/leepokai/Codync) 🆕
 
-Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,661 |
-| Forks | 2,004 |
-| Stars today | 47 |
+| Stars | 630 |
+| Forks | 81 |
+| Stars today | 51 |
 
 ---
 
-## 6. [rubys/roundhouse](https://github.com/rubys/roundhouse) 🆕
-
-Rails as a specification; the deployment target is a build flag
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 483 |
-| Forks | 42 |
-| Stars today | 4 |
-
----
-
-## 7. [Automattic/harper](https://github.com/Automattic/harper)
+## 6. [Automattic/harper](https://github.com/Automattic/harper)
 
 Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,718 |
-| Forks | 830 |
-| Stars today | 78 |
+| Stars | 16,807 |
+| Forks | 858 |
+| Stars today | 72 |
 
 ---
 
-## 8. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
+## 7. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) 🆕
 
-A Tiny biped duck robot 🦆
+A WiFi security auditing software
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,581 |
-| Forks | 1,246 |
-| Stars today | 29 |
+| Stars | 4,514 |
+| Forks | 791 |
+| Stars today | 135 |
 
 ---
 
-## 9. [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun) 🆕
+## 8. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) 🆕
 
-OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
+The design language that makes your AI harness better at design.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,855 |
-| Forks | 272 |
-| Stars today | 18 |
+| Stars | 83,318 |
+| Forks | 5,041 |
+| Stars today | 422 |
 
 ---
 
-## 10. [claration/impactor](https://github.com/claration/impactor) 🆕
+## 9. [confeden/Antigravity](https://github.com/confeden/Antigravity) 🆕
 
-Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
+Antigravity в России без VPN и смены региона аккаунта Google
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,524 |
-| Forks | 239 |
-| Stars today | 16 |
+| Stars | 930 |
+| Forks | 55 |
+| Stars today | 25 |
 
 ---
 
-## 11. [starship/starship](https://github.com/starship/starship) 🆕
+## 10. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) 🆕
 
-☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+The user-friendly command line shell.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 60,333 |
-| Forks | 2,710 |
-| Stars today | 27 |
+| Stars | 34,332 |
+| Forks | 2,399 |
+| Stars today | 15 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-19T04:33:58Z
-**Total Repositories:** 5
-**New Entries:** 1
+**Snapshot Time:** 2026-10-20T04:43:21Z
+**Total Repositories:** 6
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,60 +15,73 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 32,920 |
-| Forks | 5,211 |
-| Stars this week | 16,379 |
+| Stars | 33,866 |
+| Forks | 5,357 |
+| Stars this week | 13,572 |
 
 ---
 
-## 2. [xerj-org/xerj](https://github.com/xerj-org/xerj) 🆕
+## 2. [storytold/artcraftx](https://github.com/storytold/artcraftx) 🆕
 
-XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.
+ArtCraft-X
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 8,595 |
-| Forks | 457 |
-| Stars this week | 4,925 |
+| Stars | 963 |
+| Forks | 841 |
+| Stars this week | 251 |
 
 ---
 
-## 3. [trymirai/uzu](https://github.com/trymirai/uzu)
+## 3. [xerj-org/xerj](https://github.com/xerj-org/xerj)
+
+Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 10,642 |
+| Forks | 618 |
+| Stars this week | 5,573 |
+
+---
+
+## 4. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) 🆕
+
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 11,501 |
+| Forks | 817 |
+| Stars this week | 1,976 |
+
+---
+
+## 5. [trymirai/uzu](https://github.com/trymirai/uzu)
 
 A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,398 |
-| Forks | 152 |
-| Stars this week | 227 |
+| Stars | 2,426 |
+| Forks | 157 |
+| Stars this week | 197 |
 
 ---
 
-## 4. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+## 6. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
 
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,288 |
-| Forks | 380 |
-| Stars this week | 482 |
-
----
-
-## 5. [koharu-rs/koharu](https://github.com/koharu-rs/koharu)
-
-ML-powered manga translator, written in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 6,396 |
-| Forks | 460 |
-| Stars this week | 403 |
+| Stars | 3,332 |
+| Forks | 388 |
+| Stars this week | 438 |
 
 ---

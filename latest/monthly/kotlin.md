@@ -1,23 +1,21 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-19T04:34:22Z
+**Snapshot Time:** 2026-10-20T04:43:48Z
 **Total Repositories:** 18
-**New Entries:** 5
+**New Entries:** 2
 **Quality Score:** 97.78/100
 
 ---
 
-## 1. [tiann/KernelSU](https://github.com/tiann/KernelSU)
-
-A Kernel based root solution for Android
+## 1. [android/skills](https://github.com/android/skills)
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,404 |
-| Forks | 4,475 |
-| Stars this month | 1,016 |
+| Stars | 8,997 |
+| Forks | 579 |
+| Stars this month | 1,574 |
 
 ---
 
@@ -28,33 +26,35 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,581 |
-| Forks | 344 |
-| Stars this month | 2,293 |
+| Stars | 3,731 |
+| Forks | 358 |
+| Stars this month | 2,399 |
 
 ---
 
-## 3. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
+## 3. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+
+A Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 19,437 |
+| Forks | 4,506 |
+| Stars this month | 1,035 |
+
+---
+
+## 4. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
 
 GhostLock One-Tap Execution App (CVE-2026-43499)
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,068 |
-| Forks | 526 |
-| Stars this month | 1,142 |
-
----
-
-## 4. [android/skills](https://github.com/android/skills) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 8,857 |
-| Forks | 568 |
-| Stars this month | 1,347 |
+| Stars | 2,103 |
+| Forks | 533 |
+| Stars this month | 1,154 |
 
 ---
 
@@ -65,9 +65,9 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 25,020 |
-| Forks | 2,749 |
-| Stars this month | 351 |
+| Stars | 25,045 |
+| Forks | 2,759 |
+| Stars this month | 367 |
 
 ---
 
@@ -78,164 +78,164 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 21,039 |
+| Stars | 21,080 |
 | Forks | 622 |
-| Stars this month | 978 |
+| Stars this month | 1,005 |
 
 ---
 
-## 7. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-
-A cross-platform music app using YouTube Music for backend
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 12,177 |
-| Forks | 675 |
-| Stars this month | 932 |
-
----
-
-## 8. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
-
-Headunit App for displaying Android Auto
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,883 |
-| Forks | 250 |
-| Stars this month | 470 |
-
----
-
-## 9. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+## 7. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,038 |
-| Forks | 2,048 |
-| Stars this month | 1,180 |
+| Stars | 43,082 |
+| Forks | 2,052 |
+| Stars this month | 1,207 |
 
 ---
 
-## 10. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) 🆕
+## 8. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+
+A cross-platform music app using YouTube Music for backend
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 12,216 |
+| Forks | 678 |
+| Stars this month | 950 |
+
+---
+
+## 9. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
+
+Headunit App for displaying Android Auto
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,899 |
+| Forks | 251 |
+| Stars this month | 471 |
+
+---
+
+## 10. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk) 🆕
+
+DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,319 |
+| Forks | 403 |
+| Stars this month | 704 |
+
+---
+
+## 11. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 
 Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,593 |
-| Forks | 1,360 |
-| Stars this month | 342 |
+| Stars | 6,602 |
+| Forks | 1,363 |
+| Stars this month | 348 |
 
 ---
 
-## 11. [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
-
-AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 12,045 |
-| Forks | 2,979 |
-| Stars this month | 260 |
-
----
-
-## 12. [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox)
-
-A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 798 |
-| Forks | 136 |
-| Stars this month | 465 |
-
----
-
-## 13. [ExTV/Podroid](https://github.com/ExTV/Podroid)
-
-A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 3,564 |
-| Forks | 229 |
-| Stars this month | 748 |
-
----
-
-## 14. [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx) 🆕
-
-A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,675 |
-| Forks | 219 |
-| Stars this month | 173 |
-
----
-
-## 15. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
+## 12. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
 
 A V2Ray client for Android, support Xray core and v2fly core
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 64,244 |
-| Forks | 8,323 |
-| Stars this month | 1,671 |
+| Stars | 64,318 |
+| Forks | 8,333 |
+| Stars this month | 1,698 |
 
 ---
 
-## 16. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
+## 13. [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android)
+
+AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 12,054 |
+| Forks | 2,980 |
+| Stars this month | 264 |
+
+---
+
+## 14. [wangzhishou/OneBox](https://github.com/wangzhishou/OneBox)
+
+A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 813 |
+| Forks | 138 |
+| Stars this month | 456 |
+
+---
+
+## 15. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
 
 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 884 |
-| Forks | 33 |
+| Stars | 898 |
+| Forks | 34 |
 | Stars this month | 567 |
 
 ---
 
-## 17. [xororz/local-dream](https://github.com/xororz/local-dream) 🆕
+## 16. [xororz/local-dream](https://github.com/xororz/local-dream)
 
 Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,723 |
+| Stars | 3,727 |
 | Forks | 264 |
-| Stars this month | 263 |
+| Stars this month | 259 |
 
 ---
 
-## 18. [JunkFood02/Seal](https://github.com/JunkFood02/Seal)
+## 17. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
 
-🦭 Video/Audio Downloader for Android, based on yt-dlp
+✨一个安卓网盘解析下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 29,840 |
-| Forks | 1,485 |
-| Stars this month | 905 |
+| Stars | 4,944 |
+| Forks | 246 |
+| Stars this month | 1,915 |
+
+---
+
+## 18. [marlboro-advance/mpvEx](https://github.com/marlboro-advance/mpvEx)
+
+A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,679 |
+| Forks | 218 |
+| Stars this month | 173 |
 
 ---

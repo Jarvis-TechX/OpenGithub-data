@@ -1,23 +1,23 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-19T04:33:45Z
-**Total Repositories:** 11
-**New Entries:** 8
-**Quality Score:** 96.36/100
+**Snapshot Time:** 2026-10-20T04:43:07Z
+**Total Repositories:** 8
+**New Entries:** 4
+**Quality Score:** 95.00/100
 
 ---
 
-## 1. [geode-sdk/geode](https://github.com/geode-sdk/geode) 🆕
+## 1. [geode-sdk/geode](https://github.com/geode-sdk/geode)
 
 The ultimate Geometry Dash modding framework
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,006 |
-| Forks | 590 |
-| Stars today | 21 |
+| Stars | 3,014 |
+| Forks | 595 |
+| Stars today | 19 |
 
 ---
 
@@ -28,123 +28,84 @@ Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencie
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 76,722 |
-| Forks | 12,086 |
-| Stars today | 19 |
+| Stars | 76,740 |
+| Forks | 12,095 |
+| Stars today | 35 |
 
 ---
 
-## 3. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) 🆕
+## 3. [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) 🆕
 
-FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+Bitcoin Core integration/staging tree
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 32,724 |
-| Forks | 4,657 |
-| Stars today | 71 |
+| Stars | 90,448 |
+| Forks | 39,436 |
+| Stars today | 13 |
 
 ---
 
-## 4. [mzzvxm/LARecomp](https://github.com/mzzvxm/LARecomp) 🆕
+## 4. [godotengine/godot](https://github.com/godotengine/godot) 🆕
+
+Godot Engine – Multi-platform 2D and 3D game engine
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 166 |
-| Forks | 15 |
-| Stars today | 24 |
+| Stars | 118,716 |
+| Forks | 27,127 |
+| Stars today | 78 |
 
 ---
 
-## 5. [zeldaret/botw](https://github.com/zeldaret/botw)
+## 5. [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) 🆕
 
-Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
+An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,277 |
-| Forks | 142 |
-| Stars today | 11 |
+| Stars | 1,108 |
+| Forks | 86 |
+| Stars today | 20 |
 
 ---
 
-## 6. [luau-lang/luau](https://github.com/luau-lang/luau) 🆕
+## 6. [MAZHARMIK/Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo) 🆕
 
-A small, fast, and embeddable programming language based on Lua with a gradual type system.
+Super Repository for Coding Interview Preperation
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 5,998 |
-| Forks | 679 |
-| Stars today | 9 |
+| Stars | 5,235 |
+| Forks | 2,149 |
+| Stars today | 8 |
 
 ---
 
-## 7. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
-
-LLM inference in C/C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 131,651 |
-| Forks | 24,535 |
-| Stars today | 110 |
-
----
-
-## 8. [mamedev/mame](https://github.com/mamedev/mame) 🆕
-
-MAME
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 10,644 |
-| Forks | 2,604 |
-| Stars today | 6 |
-
----
-
-## 9. [juce-framework/JUCE](https://github.com/juce-framework/JUCE) 🆕
+## 7. [juce-framework/JUCE](https://github.com/juce-framework/JUCE)
 
 JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 9,012 |
-| Forks | 2,212 |
-| Stars today | 25 |
+| Stars | 9,029 |
+| Forks | 2,213 |
+| Stars today | 13 |
 
 ---
 
-## 10. [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile)
-
-Distribute and run LLMs with a single file.
+## 8. [mzzvxm/LARecomp](https://github.com/mzzvxm/LARecomp)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 26,425 |
-| Forks | 1,785 |
-| Stars today | 30 |
-
----
-
-## 11. [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 🆕
-
-Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 20,151 |
-| Forks | 1,509 |
-| Stars today | 14 |
+| Stars | 176 |
+| Forks | 16 |
+| Stars today | 9 |
 
 ---

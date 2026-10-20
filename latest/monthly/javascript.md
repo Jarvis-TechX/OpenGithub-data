@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-19T04:34:09Z
-**Total Repositories:** 19
-**New Entries:** 2
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-10-20T04:43:34Z
+**Total Repositories:** 17
+**New Entries:** 1
+**Quality Score:** 97.65/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 31,230 |
-| Forks | 1,957 |
-| Stars this month | 19,109 |
+| Stars | 32,695 |
+| Forks | 2,043 |
+| Stars this month | 16,536 |
 
 ---
 
@@ -28,9 +28,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 283,410 |
-| Forks | 42,100 |
-| Stars this month | 23,080 |
+| Stars | 284,242 |
+| Forks | 42,219 |
+| Stars this month | 22,807 |
 
 ---
 
@@ -41,9 +41,9 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 108,266 |
-| Forks | 11,284 |
-| Stars this month | 12,288 |
+| Stars | 108,679 |
+| Forks | 11,333 |
+| Stars this month | 12,121 |
 
 ---
 
@@ -54,9 +54,9 @@ The React Framework
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 143,079 |
-| Forks | 35,211 |
-| Stars this month | 1,629 |
+| Stars | 143,098 |
+| Forks | 35,278 |
+| Stars this month | 1,633 |
 
 ---
 
@@ -67,9 +67,9 @@ Vercel's official collection of agent skills
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 32,616 |
-| Forks | 2,847 |
-| Stars this month | 1,373 |
+| Stars | 32,678 |
+| Forks | 2,854 |
+| Stars this month | 1,374 |
 
 ---
 
@@ -80,9 +80,9 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 13,611 |
-| Forks | 1,693 |
-| Stars this month | 12,564 |
+| Stars | 13,950 |
+| Forks | 1,756 |
+| Stars this month | 12,897 |
 
 ---
 
@@ -93,9 +93,9 @@ Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of P
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,997 |
-| Forks | 286 |
-| Stars this month | 2,486 |
+| Stars | 3,102 |
+| Forks | 297 |
+| Stars this month | 2,575 |
 
 ---
 
@@ -106,9 +106,9 @@ List of Permanent Free LLM API (API Keys)
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,635 |
-| Forks | 1,187 |
-| Stars this month | 2,943 |
+| Stars | 10,724 |
+| Forks | 1,204 |
+| Stars this month | 2,969 |
 
 ---
 
@@ -119,9 +119,9 @@ A novel-writing tool created by a novelist.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,506 |
-| Forks | 200 |
-| Stars this month | 1,068 |
+| Stars | 1,520 |
+| Forks | 201 |
+| Stars this month | 1,079 |
 
 ---
 
@@ -132,9 +132,9 @@ A novel-writing tool created by a novelist.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 25,181 |
-| Forks | 1,613 |
-| Stars this month | 4,479 |
+| Stars | 26,192 |
+| Forks | 1,712 |
+| Stars this month | 5,616 |
 
 ---
 
@@ -145,9 +145,9 @@ A novel-writing tool created by a novelist.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,604 |
-| Forks | 877 |
-| Stars this month | 3,825 |
+| Stars | 12,694 |
+| Forks | 880 |
+| Stars this month | 3,845 |
 
 ---
 
@@ -158,9 +158,9 @@ A novel-writing tool created by a novelist.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 68,927 |
-| Forks | 6,851 |
-| Stars this month | 6,143 |
+| Stars | 68,999 |
+| Forks | 6,859 |
+| Stars this month | 6,082 |
 
 ---
 
@@ -171,22 +171,20 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 116,604 |
-| Forks | 36,682 |
-| Stars this month | 1,288 |
+| Stars | 116,638 |
+| Forks | 36,705 |
+| Stars this month | 1,303 |
 
 ---
 
-## 14. [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
-
-CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+## 14. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 14,352 |
-| Forks | 821 |
-| Stars this month | 1,006 |
+| Stars | 6,247 |
+| Forks | 1,019 |
+| Stars this month | 1,572 |
 
 ---
 
@@ -197,60 +195,34 @@ Command-line tool to customize Spotify client. Supports Windows, macOS, and Linu
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 25,083 |
-| Forks | 986 |
-| Stars this month | 621 |
+| Stars | 25,105 |
+| Forks | 987 |
+| Stars this month | 630 |
 
 ---
 
-## 16. [qist/tvbox](https://github.com/qist/tvbox) 🆕
-
-OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 12,092 |
-| Forks | 4,265 |
-| Stars this month | 793 |
-
----
-
-## 17. [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)
-
-A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 6,071 |
-| Forks | 596 |
-| Stars this month | 581 |
-
----
-
-## 18. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+## 16. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 167,179 |
-| Forks | 9,077 |
-| Stars this month | 26,136 |
+| Stars | 168,256 |
+| Forks | 9,146 |
+| Stars this month | 26,611 |
 
 ---
 
-## 19. [nodejs/node](https://github.com/nodejs/node) 🆕
+## 17. [qist/tvbox](https://github.com/qist/tvbox)
 
-Node.js JavaScript runtime ✨🐢🚀✨
+OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 122,463 |
-| Forks | 40,172 |
-| Stars this month | 1,334 |
+| Stars | 12,121 |
+| Forks | 4,279 |
+| Stars this month | 803 |
 
 ---

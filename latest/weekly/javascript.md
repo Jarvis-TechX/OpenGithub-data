@@ -1,124 +1,150 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-19T04:33:52Z
-**Total Repositories:** 9
-**New Entries:** 2
-**Quality Score:** 95.56/100
+**Snapshot Time:** 2026-10-20T04:43:15Z
+**Total Repositories:** 11
+**New Entries:** 4
+**Quality Score:** 96.36/100
 
 ---
 
-## 1. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
+## 1. [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) 🆕
+
+DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 9,456 |
+| Forks | 1,792 |
+| Stars this week | 2,933 |
+
+---
+
+## 2. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
 
 Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,997 |
-| Forks | 286 |
-| Stars this week | 1,152 |
+| Stars | 3,102 |
+| Forks | 297 |
+| Stars this week | 1,198 |
 
 ---
 
-## 2. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+## 3. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
 
 Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 13,611 |
-| Forks | 1,693 |
-| Stars this week | 3,834 |
+| Stars | 13,950 |
+| Forks | 1,756 |
+| Stars this week | 3,621 |
 
 ---
 
-## 3. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 4. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 25,180 |
-| Forks | 1,613 |
-| Stars this week | 3,457 |
+| Stars | 26,191 |
+| Forks | 1,712 |
+| Stars this week | 4,558 |
 
 ---
 
-## 4. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 5,779 |
-| Forks | 972 |
-| Stars this week | 900 |
-
----
-
-## 5. [react/react](https://github.com/react/react)
-
-The library for web and native user interfaces.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 251,323 |
-| Forks | 51,538 |
-| Stars this week | 713 |
-
----
-
-## 6. [greensock/GSAP](https://github.com/greensock/GSAP)
-
-GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 29,440 |
-| Forks | 2,273 |
-| Stars this week | 380 |
-
----
-
-## 7. [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
-
-DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 3,063 |
-| Forks | 320 |
-| Stars this week | 427 |
-
----
-
-## 8. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 🆕
+## 5. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
 
 Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,318 |
-| Forks | 248 |
-| Stars this week | 692 |
+| Stars | 2,410 |
+| Forks | 256 |
+| Stars this week | 797 |
 
 ---
 
-## 9. [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)
+## 6. [react/react](https://github.com/react/react)
 
-把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。
+The library for web and native user interfaces.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,572 |
-| Forks | 62 |
-| Stars this week | 551 |
+| Stars | 251,455 |
+| Forks | 51,551 |
+| Stars this week | 809 |
+
+---
+
+## 7. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 🆕
+
+The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 53,784 |
+| Forks | 10,848 |
+| Stars this week | 117 |
+
+---
+
+## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 6,247 |
+| Forks | 1,019 |
+| Stars this week | 1,157 |
+
+---
+
+## 9. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 🆕
+
+Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 30,935 |
+| Forks | 5,701 |
+| Stars this week | 761 |
+
+---
+
+## 10. [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
+
+DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 3,124 |
+| Forks | 327 |
+| Stars this week | 420 |
+
+---
+
+## 11. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) 🆕
+
+The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 17,820 |
+| Forks | 972 |
+| Stars this week | 538 |
 
 ---

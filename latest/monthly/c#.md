@@ -1,7 +1,7 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-19T04:34:23Z
+**Snapshot Time:** 2026-10-20T04:43:49Z
 **Total Repositories:** 18
 **New Entries:** 3
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,681 |
-| Forks | 1,578 |
-| Stars this month | 1,173 |
+| Stars | 20,733 |
+| Forks | 1,580 |
+| Stars this month | 1,217 |
 
 ---
 
@@ -28,48 +28,48 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,713 |
-| Forks | 3,783 |
-| Stars this month | 652 |
+| Stars | 26,732 |
+| Forks | 3,785 |
+| Stars this month | 666 |
 
 ---
 
-## 3. [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
-
-Bring macOS “Quick Look” feature to Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 25,382 |
-| Forks | 1,348 |
-| Stars this month | 710 |
-
----
-
-## 4. [dotnet/runtime](https://github.com/dotnet/runtime)
-
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 18,367 |
-| Forks | 5,668 |
-| Stars this month | 138 |
-
----
-
-## 5. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) 🆕
+## 3. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
 
 Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,109 |
-| Forks | 1,672 |
-| Stars this month | 833 |
+| Stars | 15,204 |
+| Forks | 1,707 |
+| Stars this month | 889 |
+
+---
+
+## 4. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
+
+Smart PVR for newsgroup and bittorrent users.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 17,331 |
+| Forks | 2,047 |
+| Stars this month | 1,014 |
+
+---
+
+## 5. [dotnet/runtime](https://github.com/dotnet/runtime)
+
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 18,371 |
+| Forks | 5,682 |
+| Stars this month | 138 |
 
 ---
 
@@ -80,9 +80,9 @@ Open Source real-time strategy game engine for early Westwood games such as Comm
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,594 |
-| Forks | 3,076 |
-| Stars this month | 222 |
+| Stars | 17,605 |
+| Forks | 3,078 |
+| Stars this month | 230 |
 
 ---
 
@@ -93,35 +93,35 @@ B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,029 |
-| Forks | 1,922 |
-| Stars this month | 231 |
+| Stars | 9,045 |
+| Forks | 1,923 |
+| Stars this month | 246 |
 
 ---
 
-## 8. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
-
-Smart PVR for newsgroup and bittorrent users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,310 |
-| Forks | 2,046 |
-| Stars this month | 1,015 |
-
----
-
-## 9. [dotnet/roslyn](https://github.com/dotnet/roslyn)
+## 8. [dotnet/roslyn](https://github.com/dotnet/roslyn)
 
 The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,743 |
-| Forks | 4,352 |
-| Stars this month | 89 |
+| Stars | 20,745 |
+| Forks | 4,353 |
+| Stars this month | 91 |
+
+---
+
+## 9. [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
+
+Bring macOS “Quick Look” feature to Windows
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 25,408 |
+| Forks | 1,348 |
+| Stars this month | 679 |
 
 ---
 
@@ -132,9 +132,9 @@ The Roslyn .NET compiler provides C# and Visual Basic languages with rich code a
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,551 |
-| Forks | 153 |
-| Stars this month | 1,501 |
+| Stars | 5,601 |
+| Forks | 155 |
+| Stars this month | 1,522 |
 
 ---
 
@@ -145,26 +145,39 @@ Work-in-progress tool to reverse unity's IL2CPP toolchain.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,038 |
-| Forks | 401 |
-| Stars this month | 420 |
+| Stars | 3,040 |
+| Forks | 404 |
+| Stars this month | 419 |
 
 ---
 
-## 12. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
+## 12. [RayrenSX/iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) 🆕
 
-GUI application to analyze game files
+Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,681 |
-| Forks | 1,003 |
-| Stars this month | 336 |
+| Stars | 1,407 |
+| Forks | 103 |
+| Stars this month | 761 |
 
 ---
 
-## 13. [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) 🆕
+## 13. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+
+Download web video and audio
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,414 |
+| Forks | 357 |
+| Stars this month | 347 |
+
+---
+
+## 14. [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind)
 
 A robust, high-performance execution client for Ethereum node operators.
 
@@ -177,19 +190,6 @@ A robust, high-performance execution client for Ethereum node operators.
 
 ---
 
-## 14. [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin)
-
-Unity plugin for third-party agent platforms
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 431 |
-| Forks | 46 |
-| Stars this month | 133 |
-
----
-
 ## 15. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
 A Launcher that Downloads and Updates Applications from Github Releases
@@ -197,47 +197,47 @@ A Launcher that Downloads and Updates Applications from Github Releases
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,890 |
-| Forks | 57 |
-| Stars this month | 292 |
+| Stars | 1,909 |
+| Forks | 58 |
+| Stars this month | 311 |
 
 ---
 
-## 16. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+## 16. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
 
-Download web video and audio
+ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,401 |
-| Forks | 355 |
-| Stars this month | 352 |
+| Stars | 40,224 |
+| Forks | 3,978 |
+| Stars this month | 652 |
 
 ---
 
-## 17. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
+## 17. [2dust/v2rayN](https://github.com/2dust/v2rayN)
 
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 118,554 |
-| Forks | 16,116 |
-| Stars this month | 2,675 |
+| Stars | 118,618 |
+| Forks | 16,126 |
+| Stars this month | 2,688 |
 
 ---
 
-## 18. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
+## 18. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
 
-A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,125 |
-| Forks | 374 |
-| Stars this month | 2,414 |
+| Stars | 38,478 |
+| Forks | 14,112 |
+| Stars this month | 93 |
 
 ---

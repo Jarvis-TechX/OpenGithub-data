@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-19T04:34:16Z
-**Total Repositories:** 22
-**New Entries:** 4
+**Snapshot Time:** 2026-10-20T04:43:41Z
+**Total Repositories:** 21
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,640 |
-| Forks | 1,813 |
-| Stars this month | 7,995 |
+| Stars | 16,736 |
+| Forks | 1,819 |
+| Stars this month | 8,061 |
 
 ---
 
-## 2. [trycua/cua](https://github.com/trycua/cua)
+## 2. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
-Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
+The design language that makes your AI harness better at design.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 30,162 |
-| Forks | 2,169 |
-| Stars this month | 7,211 |
+| Stars | 83,318 |
+| Forks | 5,041 |
+| Stars this month | 14,255 |
 
 ---
 
@@ -41,48 +41,48 @@ Rust GUI components for building fantastic cross-platform desktop application by
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,150 |
-| Forks | 1,102 |
-| Stars this month | 3,632 |
+| Stars | 18,359 |
+| Forks | 1,112 |
+| Stars this month | 3,797 |
 
 ---
 
-## 4. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 4. [trycua/cua](https://github.com/trycua/cua)
 
-The design language that makes your AI harness better at design.
+Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 82,769 |
-| Forks | 5,006 |
-| Stars this month | 14,068 |
+| Stars | 30,257 |
+| Forks | 2,180 |
+| Stars this month | 6,340 |
 
 ---
 
-## 5. [cloudflare/quiche](https://github.com/cloudflare/quiche)
-
-🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 12,800 |
-| Forks | 1,179 |
-| Stars this month | 995 |
-
----
-
-## 6. [t8y2/dbx](https://github.com/t8y2/dbx)
+## 5. [t8y2/dbx](https://github.com/t8y2/dbx)
 
 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 27,169 |
-| Forks | 2,463 |
-| Stars this month | 7,204 |
+| Stars | 27,289 |
+| Forks | 2,479 |
+| Stars this month | 7,290 |
+
+---
+
+## 6. [cloudflare/quiche](https://github.com/cloudflare/quiche)
+
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 12,804 |
+| Forks | 1,179 |
+| Stars this month | 920 |
 
 ---
 
@@ -93,9 +93,9 @@ A refreshingly simple data-driven game engine built in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 49,122 |
-| Forks | 4,942 |
-| Stars this month | 960 |
+| Stars | 49,143 |
+| Forks | 4,948 |
+| Stars this month | 977 |
 
 ---
 
@@ -106,9 +106,9 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 152,328 |
-| Forks | 10,929 |
-| Stars this month | 7,716 |
+| Stars | 152,576 |
+| Forks | 10,951 |
+| Stars this month | 7,808 |
 
 ---
 
@@ -119,9 +119,9 @@ Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Ru
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 19,509 |
-| Forks | 674 |
-| Stars this month | 17,705 |
+| Stars | 19,716 |
+| Forks | 724 |
+| Stars this month | 17,899 |
 
 ---
 
@@ -132,9 +132,9 @@ HydraDB - fast graph database on object storage
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 13,066 |
-| Forks | 5,427 |
-| Stars this month | 9,987 |
+| Stars | 13,067 |
+| Forks | 5,424 |
+| Stars this month | 9,989 |
 
 ---
 
@@ -145,151 +145,138 @@ Policy-driven, layered isolation and containment
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,914 |
-| Forks | 157 |
-| Stars this month | 1,574 |
+| Stars | 2,930 |
+| Forks | 160 |
+| Stars this month | 1,591 |
 
 ---
 
-## 12. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+## 12. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) 🆕
+
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 11,501 |
+| Forks | 817 |
+| Stars this month | 3,957 |
+
+---
+
+## 13. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
 An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 126,262 |
-| Forks | 19,814 |
-| Stars this month | 2,841 |
+| Stars | 126,367 |
+| Forks | 19,847 |
+| Stars this month | 2,889 |
 
 ---
 
-## 13. [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh)
+## 14. [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh)
 
 Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,199 |
+| Stars | 1,206 |
 | Forks | 70 |
-| Stars this month | 480 |
+| Stars this month | 479 |
 
 ---
 
-## 14. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
+## 15. [xerj-org/xerj](https://github.com/xerj-org/xerj) 🆕
 
-A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,514 |
-| Forks | 527 |
-| Stars this month | 1,708 |
+| Stars | 10,643 |
+| Forks | 618 |
+| Stars this month | 7,469 |
 
 ---
 
-## 15. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+## 16. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
 
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,288 |
-| Forks | 380 |
-| Stars this month | 1,217 |
+| Stars | 3,332 |
+| Forks | 388 |
+| Stars this month | 1,247 |
 
 ---
 
-## 16. [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex)
-
-Give cloud AI agents a real development environment on your own machines.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,351 |
-| Forks | 317 |
-| Stars this month | 1,121 |
-
----
-
-## 17. [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 🆕
+## 17. [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
 
 Empowering everyone to host fast and efficient Minecraft servers
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,522 |
-| Forks | 935 |
-| Stars this month | 1,285 |
+| Stars | 12,538 |
+| Forks | 940 |
+| Stars this month | 1,302 |
 
 ---
 
-## 18. [zeronsh/zeron](https://github.com/zeronsh/zeron)
+## 18. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
 
-A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
+A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,299 |
-| Forks | 335 |
-| Stars this month | 1,692 |
+| Stars | 6,558 |
+| Forks | 527 |
+| Stars this month | 1,739 |
 
 ---
 
-## 19. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
+## 19. [pydantic/monty](https://github.com/pydantic/monty) 🆕
+
+A secure Python sandbox, written in Rust, for code written by AI.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 8,731 |
+| Forks | 465 |
+| Stars this month | 515 |
+
+---
+
+## 20. [rust-lang/rust](https://github.com/rust-lang/rust)
 
 Empowering everyone to build reliable and efficient software.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 120,542 |
-| Forks | 19,049 |
-| Stars this month | 2,537 |
+| Stars | 120,632 |
+| Forks | 19,117 |
+| Stars this month | 2,666 |
 
 ---
 
-## 20. [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown) 🆕
-
-Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 4,738 |
-| Forks | 274 |
-| Stars this month | 1,649 |
-
----
-
-## 21. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) 🆕
+## 21. [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 
 Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 45,359 |
-| Forks | 6,448 |
-| Stars this month | 1,932 |
-
----
-
-## 22. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
-
-Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 32,344 |
-| Forks | 3,485 |
-| Stars this month | 1,123 |
+| Stars | 45,374 |
+| Forks | 6,451 |
+| Stars this month | 1,947 |
 
 ---

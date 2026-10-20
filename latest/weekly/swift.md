@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-19T04:34:04Z
-**Total Repositories:** 13
-**New Entries:** 7
+**Snapshot Time:** 2026-10-20T04:43:28Z
+**Total Repositories:** 10
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,48 +15,48 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,743 |
-| Forks | 645 |
-| Stars this week | 5,720 |
+| Stars | 12,973 |
+| Forks | 661 |
+| Stars this week | 4,893 |
 
 ---
 
 ## 2. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
 
-Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 -https://x.com/fluidvoiceapp
+Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,283 |
-| Forks | 891 |
+| Stars | 12,308 |
+| Forks | 893 |
 | Stars this week | 295 |
 
 ---
 
-## 3. [wuwangzhang1216/ChinaTextbookStudyFree](https://github.com/wuwangzhang1216/ChinaTextbookStudyFree)
+## 3. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-给所有中国小学生打造的免费学习平台，从一年级到六年级所有的课本知识点全汇总。
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 879 |
-| Forks | 239 |
-| Stars this week | 475 |
+| Language | Swift |
+| Stars | 13,189 |
+| Forks | 1,200 |
+| Stars this week | 490 |
 
 ---
 
-## 4. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) 🆕
+## 4. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
 An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,107 |
+| Stars | 1,118 |
 | Forks | 90 |
-| Stars this week | 135 |
+| Stars this week | 117 |
 
 ---
 
@@ -67,78 +67,65 @@ AltStore is an alternative app store for non-jailbroken iOS devices.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,677 |
-| Forks | 1,630 |
-| Stars this week | 156 |
+| Stars | 14,691 |
+| Forks | 1,636 |
+| Stars this week | 159 |
 
 ---
 
-## 6. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 6. [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) 🆕
 
-Run iOS apps without actually installing them!
+macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,098 |
-| Forks | 1,191 |
-| Stars this week | 369 |
+| Stars | 8,927 |
+| Forks | 270 |
+| Stars this week | 55 |
 
 ---
 
-## 7. [StephenLovino/BetterCast](https://github.com/StephenLovino/BetterCast) 🆕
-
-Turn spare devices into real extra displays for your Mac or Windows PC — iPad, iPhone, Android, Windows, Linux, even an old 5K iMac. Free, open-source Sidecar/Duet/spacedesk alternative. No subscriptions, no cloud, no accounts.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 208 |
-| Forks | 19 |
-| Stars this week | 37 |
-
----
-
-## 8. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) 🆕
+## 7. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
 
 Manga reading app for iOS, iPadOS, and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,642 |
-| Forks | 309 |
-| Stars this week | 32 |
+| Stars | 4,645 |
+| Forks | 310 |
+| Stars this week | 30 |
 
 ---
 
-## 9. [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) 🆕
-
-Elegant HTTP Networking in Swift
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 42,392 |
-| Forks | 7,654 |
-| Stars this week | 6 |
-
----
-
-## 10. [pauljoda/Crest](https://github.com/pauljoda/Crest) 🆕
+## 8. [pauljoda/Crest](https://github.com/pauljoda/Crest)
 
 An open source browser for Mac, iPhone, and iPad.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 426 |
-| Forks | 22 |
-| Stars this week | 179 |
+| Stars | 437 |
+| Forks | 24 |
+| Stars this week | 129 |
 
 ---
 
-## 11. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
+## 9. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) 🆕
+
+A command-line tool and Xcode Extension for formatting Swift code
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 8,937 |
+| Forks | 722 |
+| Stars this week | 10 |
+
+---
+
+## 10. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
 
 A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
 
@@ -146,33 +133,7 @@ A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" 
 |--------|-------|
 | Language | Swift |
 | Stars | 399 |
-| Forks | 118 |
-| Stars this week | 32 |
-
----
-
-## 12. [claration/feather](https://github.com/claration/feather) 🆕
-
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,865 |
-| Forks | 444 |
-| Stars this week | 51 |
-
----
-
-## 13. [Clipy/Clipy](https://github.com/Clipy/Clipy) 🆕
-
-Clipboard extension app for macOS.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,927 |
-| Forks | 838 |
-| Stars this week | 23 |
+| Forks | 121 |
+| Stars this week | 27 |
 
 ---

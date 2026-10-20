@@ -1,8 +1,8 @@
 # GitHub Trending - Ruby
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-19T04:34:12Z
-**Total Repositories:** 21
+**Snapshot Time:** 2026-10-20T04:43:37Z
+**Total Repositories:** 22
 **New Entries:** 2
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ Ruby on Rails
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 58,849 |
-| Forks | 25,604 |
-| Stars this month | 171 |
+| Stars | 58,851 |
+| Forks | 25,676 |
+| Stars this month | 167 |
 
 ---
 
@@ -28,9 +28,9 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,581 |
-| Forks | 663 |
-| Stars this month | 642 |
+| Stars | 10,592 |
+| Forks | 671 |
+| Stars this month | 639 |
 
 ---
 
@@ -41,9 +41,9 @@ Your self-hosted, globally interconnected microblogging community
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,415 |
-| Forks | 7,523 |
-| Stars this month | 202 |
+| Stars | 50,421 |
+| Forks | 7,522 |
+| Stars this month | 203 |
 
 ---
 
@@ -54,22 +54,22 @@ See what sticks
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 9,969 |
-| Forks | 2,084 |
-| Stars this month | 308 |
+| Stars | 9,986 |
+| Forks | 2,088 |
+| Stars this month | 311 |
 
 ---
 
-## 5. [fastlane/fastlane](https://github.com/fastlane/fastlane)
+## 5. [ruby/ruby](https://github.com/ruby/ruby)
 
-🚀 The easiest way to automate building and releasing your iOS and Android apps
+The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 42,258 |
-| Forks | 6,039 |
-| Stars this month | 183 |
+| Stars | 23,780 |
+| Forks | 5,664 |
+| Stars this month | 79 |
 
 ---
 
@@ -82,20 +82,20 @@ Super simple group chat, without a subscription
 | Language | Ruby |
 | Stars | 4,790 |
 | Forks | 820 |
-| Stars this month | 166 |
+| Stars this month | 168 |
 
 ---
 
-## 7. [ruby/ruby](https://github.com/ruby/ruby)
+## 7. [fastlane/fastlane](https://github.com/fastlane/fastlane)
 
-The Ruby Programming Language
+🚀 The easiest way to automate building and releasing your iOS and Android apps
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,779 |
-| Forks | 5,658 |
-| Stars this month | 79 |
+| Stars | 42,264 |
+| Forks | 6,042 |
+| Stars this month | 184 |
 
 ---
 
@@ -106,9 +106,9 @@ Zammad is a web based open source helpdesk/customer support system.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 6,017 |
-| Forks | 1,077 |
-| Stars this month | 101 |
+| Stars | 6,019 |
+| Forks | 1,078 |
+| Stars this month | 100 |
 
 ---
 
@@ -119,9 +119,9 @@ Your favorite self-hostable alternative to Google Timeline (Google Location Hist
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,695 |
-| Forks | 399 |
-| Stars this month | 285 |
+| Stars | 10,699 |
+| Forks | 401 |
+| Stars this month | 284 |
 
 ---
 
@@ -132,9 +132,9 @@ Your favorite self-hostable alternative to Google Timeline (Google Location Hist
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,044 |
-| Forks | 11,384 |
-| Stars this month | 413 |
+| Stars | 50,058 |
+| Forks | 11,395 |
+| Stars this month | 417 |
 
 ---
 
@@ -147,111 +147,111 @@ A Ruby static code analyzer and formatter, based on the community Ruby style gui
 | Language | Ruby |
 | Stars | 12,914 |
 | Forks | 3,151 |
-| Stars this month | 21 |
+| Stars this month | 19 |
 
 ---
 
-## 12. [opf/openproject](https://github.com/opf/openproject)
+## 12. [crmne/ruby_llm](https://github.com/crmne/ruby_llm) 🆕
 
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
+The Ruby AI framework.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,459 |
-| Forks | 3,568 |
-| Stars this month | 346 |
+| Stars | 4,474 |
+| Forks | 516 |
+| Stars this month | 92 |
 
 ---
 
-## 13. [discourse/discourse](https://github.com/discourse/discourse)
-
-A platform for community discussion. Free, open, simple.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 47,993 |
-| Forks | 9,037 |
-| Stars this month | 197 |
-
----
-
-## 14. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+## 13. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
 
 🤖 Dependabot's core logic for creating update PRs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 5,805 |
-| Forks | 1,560 |
-| Stars this month | 45 |
+| Stars | 5,807 |
+| Forks | 1,561 |
+| Stars this month | 46 |
 
 ---
 
-## 15. [ruby/rubygems](https://github.com/ruby/rubygems)
+## 14. [discourse/discourse](https://github.com/discourse/discourse)
+
+A platform for community discussion. Free, open, simple.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 47,996 |
+| Forks | 9,040 |
+| Stars this month | 195 |
+
+---
+
+## 15. [opf/openproject](https://github.com/opf/openproject)
+
+OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 16,486 |
+| Forks | 3,572 |
+| Stars this month | 365 |
+
+---
+
+## 16. [ruby/rubygems](https://github.com/ruby/rubygems)
 
 Library packaging and distribution for Ruby.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,978 |
+| Stars | 3,979 |
 | Forks | 1,939 |
 | Stars this month | 20 |
 
 ---
 
-## 16. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 17. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,259 |
-| Forks | 12,008 |
-| Stars this month | 75 |
+| Stars | 22,261 |
+| Forks | 12,015 |
+| Stars this month | 74 |
 
 ---
 
-## 17. [forem/forem](https://github.com/forem/forem) 🆕
-
-For empowering community 🌱
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 22,799 |
-| Forks | 4,190 |
-| Stars this month | 47 |
-
----
-
-## 18. [jekyll/jekyll](https://github.com/jekyll/jekyll) 🆕
-
-🌐 Jekyll is a blog-aware static site generator in Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 51,716 |
-| Forks | 10,302 |
-| Stars this month | 101 |
-
----
-
-## 19. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+## 18. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 
 Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 12,316 |
+| Stars | 12,321 |
 | Forks | 595 |
-| Stars this month | 73 |
+| Stars this month | 72 |
+
+---
+
+## 19. [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) 🆕
+
+The Rails application that powers OpenStreetMap
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 2,853 |
+| Forks | 1,099 |
+| Stars this month | 28 |
 
 ---
 
@@ -264,11 +264,24 @@ The open LMS by Instructure, Inc.
 | Language | Ruby |
 | Stars | 6,878 |
 | Forks | 3,039 |
-| Stars this month | 61 |
+| Stars this month | 57 |
 
 ---
 
-## 21. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 21. [jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+🌐 Jekyll is a blog-aware static site generator in Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 51,721 |
+| Forks | 10,301 |
+| Stars this month | 103 |
+
+---
+
+## 22. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 

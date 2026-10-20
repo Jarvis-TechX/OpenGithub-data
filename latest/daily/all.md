@@ -1,10 +1,10 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-19T04:33:34Z
-**Total Repositories:** 13
-**New Entries:** 6
-**Quality Score:** 94.62/100
+**Snapshot Time:** 2026-10-20T04:42:56Z
+**Total Repositories:** 12
+**New Entries:** 4
+**Quality Score:** 96.67/100
 
 ---
 
@@ -15,48 +15,48 @@ The job search that runs on your machine. AI job application framework built on 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 53,896 |
-| Forks | 17,493 |
-| Stars today | 2,232 |
+| Stars | 57,869 |
+| Forks | 18,318 |
+| Stars today | 3,856 |
 
 ---
 
-## 2. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 42,819 |
-| Forks | 4,541 |
-| Stars today | 1,175 |
-
----
-
-## 3. [anomalyco/opencode](https://github.com/anomalyco/opencode) 🆕
+## 2. [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
 The open source coding agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 216,795 |
-| Forks | 29,020 |
-| Stars today | 1,414 |
+| Stars | 217,995 |
+| Forks | 29,132 |
+| Stars today | 1,311 |
 
 ---
 
-## 4. [cursor/plugins](https://github.com/cursor/plugins)
+## 3. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 
-Cursor plugin specification and official plugins
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 12,815 |
-| Forks | 1,260 |
-| Stars today | 350 |
+| Language | Rust |
+| Stars | 11,501 |
+| Forks | 817 |
+| Stars today | 666 |
+
+---
+
+## 4. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 139,940 |
+| Forks | 16,599 |
+| Stars today | 1,011 |
 
 ---
 
@@ -67,109 +67,97 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 76,644 |
-| Forks | 9,061 |
-| Stars today | 513 |
+| Stars | 77,318 |
+| Forks | 9,112 |
+| Stars today | 564 |
 
 ---
 
-## 6. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) 🆕
-
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 10,638 |
-| Forks | 754 |
-| Stars today | 512 |
-
----
-
-## 7. [stablyai/orca](https://github.com/stablyai/orca) 🆕
+## 6. [stablyai/orca](https://github.com/stablyai/orca)
 
 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 96,967 |
-| Forks | 6,193 |
-| Stars today | 1,146 |
+| Stars | 98,522 |
+| Forks | 6,286 |
+| Stars today | 1,590 |
 
 ---
 
-## 8. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+## 7. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) 🆕
 
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 54,719 |
-| Forks | 4,953 |
-| Stars today | 589 |
+| Stars | 76,345 |
+| Forks | 5,928 |
+| Stars today | 310 |
 
 ---
 
-## 9. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
 
 | Metric | Value |
 |--------|-------|
-| Language | Python |
-| Stars | 75,843 |
-| Forks | 8,304 |
-| Stars today | 2,082 |
+| Language | JavaScript |
+| Stars | 6,247 |
+| Forks | 1,019 |
+| Stars today | 284 |
 
 ---
 
-## 10. [android/skills](https://github.com/android/skills)
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 8,857 |
-| Forks | 568 |
-| Stars today | 375 |
-
----
-
-## 11. [mlabonne/llm-course](https://github.com/mlabonne/llm-course) 🆕
-
-Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-
-| Metric | Value |
-|--------|-------|
-| Stars | 84,153 |
-| Forks | 9,789 |
-| Stars today | 81 |
-
----
-
-## 12. [Kruk2/jasna](https://github.com/Kruk2/jasna) 🆕
+## 9. [Kruk2/jasna](https://github.com/Kruk2/jasna)
 
 Video restoration tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,522 |
-| Forks | 195 |
-| Stars today | 115 |
+| Stars | 3,005 |
+| Forks | 216 |
+| Stars today | 498 |
 
 ---
 
-## 13. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) 🆕
+## 10. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
-The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 138,801 |
-| Forks | 16,511 |
-| Stars today | 154 |
+| Stars | 55,362 |
+| Forks | 4,994 |
+| Stars today | 606 |
+
+---
+
+## 11. [anthropics/claude-code](https://github.com/anthropics/claude-code) 🆕
+
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 152,739 |
+| Forks | 27,146 |
+| Stars today | 167 |
+
+---
+
+## 12. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 🆕
+
+Kronos: A Foundation Model for the Language of Financial Markets
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 41,803 |
+| Forks | 6,938 |
+| Stars today | 363 |
 
 ---

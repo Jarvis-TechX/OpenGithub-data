@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-19T04:34:15Z
+**Snapshot Time:** 2026-10-20T04:43:40Z
 **Total Repositories:** 24
-**New Entries:** 5
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,526 |
-| Forks | 605 |
-| Stars this month | 3,533 |
+| Stars | 5,612 |
+| Forks | 607 |
+| Stars this month | 3,612 |
 
 ---
 
@@ -28,9 +28,9 @@ Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 34,641 |
-| Forks | 4,611 |
-| Stars this month | 7,906 |
+| Stars | 34,762 |
+| Forks | 4,635 |
+| Stars this month | 7,550 |
 
 ---
 
@@ -41,9 +41,9 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 78,134 |
-| Forks | 5,151 |
-| Stars this month | 2,452 |
+| Stars | 78,170 |
+| Forks | 5,163 |
+| Stars this month | 2,478 |
 
 ---
 
@@ -54,9 +54,9 @@ Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQL
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,441 |
-| Forks | 775 |
-| Stars this month | 772 |
+| Stars | 7,470 |
+| Forks | 779 |
+| Stars this month | 786 |
 
 ---
 
@@ -67,61 +67,61 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 183,771 |
-| Forks | 18,399 |
-| Stars this month | 3,254 |
+| Stars | 183,887 |
+| Forks | 18,422 |
+| Stars this month | 3,319 |
 
 ---
 
-## 6. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+## 6. [google/ax](https://github.com/google/ax) 🆕
+
+Agent Executor (AX) is Google's open agentic orchestration runtime
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 13,991 |
+| Forks | 724 |
+| Stars this month | 12,038 |
+
+---
+
+## 7. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 
 Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 31,164 |
-| Forks | 4,893 |
-| Stars this month | 6,583 |
+| Stars | 31,377 |
+| Forks | 4,982 |
+| Stars this month | 6,773 |
 
 ---
 
-## 7. [urfave/cli](https://github.com/urfave/cli)
+## 8. [urfave/cli](https://github.com/urfave/cli)
 
 A declarative, simple, fast, and fun package for building command line tools in Go
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 24,291 |
-| Forks | 1,913 |
-| Stars this month | 77 |
+| Stars | 24,294 |
+| Forks | 1,935 |
+| Stars this month | 78 |
 
 ---
 
-## 8. [docker/docker-agent](https://github.com/docker/docker-agent)
+## 9. [docker/docker-agent](https://github.com/docker/docker-agent)
 
 AI Agent Builder and Runtime by Docker Engineering
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,562 |
-| Forks | 520 |
-| Stars this month | 1,241 |
-
----
-
-## 9. [coder/coder](https://github.com/coder/coder)
-
-Secure environments for developers and their agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 17,092 |
-| Forks | 1,635 |
-| Stars this month | 2,023 |
+| Stars | 4,573 |
+| Forks | 523 |
+| Stars this month | 1,249 |
 
 ---
 
@@ -132,9 +132,9 @@ A terminal window manager that knows what your agents are doing. Tiling panes, w
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,487 |
-| Forks | 258 |
-| Stars this month | 1,831 |
+| Stars | 5,513 |
+| Forks | 256 |
+| Stars this month | 1,854 |
 
 ---
 
@@ -145,152 +145,152 @@ Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,018 |
-| Forks | 552 |
-| Stars this month | 525 |
+| Stars | 3,024 |
+| Forks | 557 |
+| Stars this month | 528 |
 
 ---
 
-## 12. [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) 🆕
-
-一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,473 |
-| Forks | 520 |
-| Stars this month | 1,110 |
-
----
-
-## 13. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+## 12. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 
 Find, verify, and analyze leaked credentials
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 28,577 |
-| Forks | 2,650 |
-| Stars this month | 664 |
+| Stars | 28,598 |
+| Forks | 2,652 |
+| Stars this month | 671 |
 
 ---
 
-## 14. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 15,212 |
-| Forks | 2,238 |
-| Stars this month | 260 |
-
----
-
-## 15. [github/gh-aw](https://github.com/github/gh-aw) 🆕
-
-GitHub Agentic Workflows
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,418 |
-| Forks | 595 |
-| Stars this month | 302 |
-
----
-
-## 16. [golang/go](https://github.com/golang/go)
-
-The Go programming language
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 139,356 |
-| Forks | 22,652 |
-| Stars this month | 1,389 |
-
----
-
-## 17. [openbao/openbao](https://github.com/openbao/openbao)
-
-OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,515 |
-| Forks | 633 |
-| Stars this month | 1,117 |
-
----
-
-## 18. [zitadel/zitadel](https://github.com/zitadel/zitadel)
-
-ZITADEL - Identity infrastructure, simplified for you.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 15,345 |
-| Forks | 1,387 |
-| Stars this month | 333 |
-
----
-
-## 19. [docker/compose](https://github.com/docker/compose)
-
-Define and run multi-container applications with Docker
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,399 |
-| Forks | 5,874 |
-| Stars this month | 396 |
-
----
-
-## 20. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) 🆕
-
-Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 42,186 |
-| Forks | 6,008 |
-| Stars this month | 641 |
-
----
-
-## 21. [prometheus/prometheus](https://github.com/prometheus/prometheus) 🆕
-
-The Prometheus monitoring system and time series database.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 66,636 |
-| Forks | 10,928 |
-| Stars this month | 815 |
-
----
-
-## 22. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) 🆕
+## 13. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 
 Production-Grade Container Scheduling and Management
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 128,410 |
-| Forks | 47,373 |
-| Stars this month | 1,256 |
+| Stars | 128,492 |
+| Forks | 47,475 |
+| Stars this month | 1,385 |
+
+---
+
+## 14. [github/gh-aw](https://github.com/github/gh-aw)
+
+GitHub Agentic Workflows
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 5,421 |
+| Forks | 596 |
+| Stars this month | 297 |
+
+---
+
+## 15. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+
+A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 15,216 |
+| Forks | 2,237 |
+| Stars this month | 257 |
+
+---
+
+## 16. [prometheus/prometheus](https://github.com/prometheus/prometheus)
+
+The Prometheus monitoring system and time series database.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 66,664 |
+| Forks | 10,931 |
+| Stars this month | 833 |
+
+---
+
+## 17. [golang/go](https://github.com/golang/go)
+
+The Go programming language
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 139,417 |
+| Forks | 22,735 |
+| Stars this month | 1,476 |
+
+---
+
+## 18. [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 42,209 |
+| Forks | 6,014 |
+| Stars this month | 658 |
+
+---
+
+## 19. [openbao/openbao](https://github.com/openbao/openbao)
+
+OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 8,587 |
+| Forks | 636 |
+| Stars this month | 1,147 |
+
+---
+
+## 20. [docker/compose](https://github.com/docker/compose)
+
+Define and run multi-container applications with Docker
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 38,409 |
+| Forks | 5,874 |
+| Stars this month | 398 |
+
+---
+
+## 21. [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl)
+
+一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 5,499 |
+| Forks | 522 |
+| Stars this month | 1,089 |
+
+---
+
+## 22. [zitadel/zitadel](https://github.com/zitadel/zitadel)
+
+ZITADEL - Identity infrastructure, simplified for you.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 15,350 |
+| Forks | 1,388 |
+| Stars this month | 331 |
 
 ---
 
@@ -301,9 +301,9 @@ Terraform enables you to safely and predictably create, change, and improve infr
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 49,976 |
-| Forks | 10,648 |
-| Stars this month | 501 |
+| Stars | 49,987 |
+| Forks | 10,652 |
+| Stars this month | 512 |
 
 ---
 
@@ -314,8 +314,8 @@ SeaweedFS is a distributed storage system for object storage (S3), file systems,
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 35,577 |
-| Forks | 3,072 |
-| Stars this month | 821 |
+| Stars | 35,611 |
+| Forks | 3,076 |
+| Stars this month | 833 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - All
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-19T04:34:06Z
-**Total Repositories:** 20
-**New Entries:** 2
-**Quality Score:** 96.00/100
+**Snapshot Time:** 2026-10-20T04:43:30Z
+**Total Repositories:** 21
+**New Entries:** 3
+**Quality Score:** 98.10/100
 
 ---
 
@@ -15,9 +15,9 @@ The open-source app everyone uses to manage agents at work
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 104,232 |
-| Forks | 17,408 |
-| Stars this month | 23,340 |
+| Stars | 104,841 |
+| Forks | 17,478 |
+| Stars this month | 23,845 |
 
 ---
 
@@ -28,9 +28,9 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 75,844 |
-| Forks | 8,305 |
-| Stars this month | 42,036 |
+| Stars | 77,802 |
+| Forks | 8,529 |
+| Stars this month | 44,161 |
 
 ---
 
@@ -41,33 +41,33 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 66,906 |
-| Forks | 6,065 |
-| Stars this month | 15,429 |
+| Stars | 67,805 |
+| Forks | 6,125 |
+| Stars this month | 16,049 |
 
 ---
 
-## 4. [anthropics/financial-services](https://github.com/anthropics/financial-services)
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 40,301 |
-| Forks | 5,652 |
-| Stars this month | 5,498 |
-
----
-
-## 5. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+## 4. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 
 Hindsight: Agent Memory That Learns
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 51,310 |
-| Forks | 6,154 |
-| Stars this month | 27,550 |
+| Stars | 51,729 |
+| Forks | 6,173 |
+| Stars this month | 27,932 |
+
+---
+
+## 5. [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 40,461 |
+| Forks | 5,658 |
+| Stars this month | 5,573 |
 
 ---
 
@@ -78,139 +78,139 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 31,230 |
-| Forks | 1,957 |
-| Stars this month | 19,109 |
+| Stars | 32,695 |
+| Forks | 2,043 |
+| Stars this month | 16,536 |
 
 ---
 
-## 7. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-
-Agent Substrate: the core system
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,526 |
-| Forks | 605 |
-| Stars this month | 3,533 |
-
----
-
-## 8. [mksglu/context-mode](https://github.com/mksglu/context-mode)
+## 7. [mksglu/context-mode](https://github.com/mksglu/context-mode)
 
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,825 |
-| Forks | 2,286 |
-| Stars this month | 7,319 |
+| Stars | 31,146 |
+| Forks | 2,336 |
+| Stars this month | 7,498 |
 
 ---
 
-## 9. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+## 8. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
 
 OpenShell is the safe, private runtime for autonomous AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,640 |
-| Forks | 1,813 |
-| Stars this month | 7,995 |
+| Stars | 16,736 |
+| Forks | 1,819 |
+| Stars this month | 8,061 |
 
 ---
 
-## 10. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 9. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+Agent Substrate: the core system
 
 | Metric | Value |
 |--------|-------|
-| Language | JavaScript |
-| Stars | 283,410 |
-| Forks | 42,100 |
-| Stars this month | 23,080 |
+| Language | Go |
+| Stars | 5,612 |
+| Forks | 607 |
+| Stars this month | 3,612 |
 
 ---
 
-## 11. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 10. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 37,162 |
-| Forks | 5,020 |
-| Stars this month | 10,063 |
+| Stars | 37,740 |
+| Forks | 5,095 |
+| Stars this month | 10,330 |
 
 ---
 
-## 12. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+## 11. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 
 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 30,253 |
-| Forks | 3,423 |
-| Stars this month | 5,493 |
+| Stars | 30,537 |
+| Forks | 3,448 |
+| Stars this month | 5,489 |
 
 ---
 
-## 13. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+## 12. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
-Ghidra is a software reverse engineering (SRE) framework
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
-| Language | Java |
-| Stars | 91,034 |
-| Forks | 10,188 |
-| Stars this month | 12,009 |
+| Language | JavaScript |
+| Stars | 284,242 |
+| Forks | 42,219 |
+| Stars this month | 22,807 |
 
 ---
 
-## 14. [cursor/plugins](https://github.com/cursor/plugins)
+## 13. [cursor/plugins](https://github.com/cursor/plugins)
 
 Cursor plugin specification and official plugins
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,815 |
-| Forks | 1,260 |
-| Stars this month | 4,507 |
+| Stars | 13,090 |
+| Forks | 1,287 |
+| Stars this month | 4,862 |
 
 ---
 
-## 15. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+## 14. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
-Learn AI Engineering! Learn it. Build it. Ship it for others.
+Ghidra is a software reverse engineering (SRE) framework
 
 | Metric | Value |
 |--------|-------|
-| Language | Python |
-| Stars | 71,102 |
-| Forks | 12,511 |
-| Stars this month | 16,300 |
+| Language | Java |
+| Stars | 91,696 |
+| Forks | 10,274 |
+| Stars this month | 12,523 |
 
 ---
 
-## 16. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) 🆕
+## 15. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 42,819 |
-| Forks | 4,541 |
-| Stars this month | 6,015 |
+| Stars | 43,222 |
+| Forks | 4,573 |
+| Stars this month | 6,772 |
+
+---
+
+## 16. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
+Learn AI Engineering! Learn it. Build it. Ship it for others.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 71,503 |
+| Forks | 12,576 |
+| Stars this month | 16,662 |
 
 ---
 
@@ -221,45 +221,60 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,941 |
-| Forks | 1,275 |
-| Stars this month | 6,138 |
+| Stars | 10,330 |
+| Forks | 1,315 |
+| Stars this month | 6,077 |
 
 ---
 
-## 18. [trycua/cua](https://github.com/trycua/cua)
+## 18. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) 🆕
 
-Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
+Give your agent CAD superpowers.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 21,788 |
+| Forks | 2,144 |
+| Stars this month | 5,595 |
+
+---
+
+## 19. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 🆕
+
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 55,362 |
+| Forks | 4,994 |
+| Stars this month | 5,545 |
+
+---
+
+## 20. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) 🆕
+
+The design language that makes your AI harness better at design.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 30,162 |
-| Forks | 2,169 |
-| Stars this month | 7,211 |
+| Stars | 83,318 |
+| Forks | 5,041 |
+| Stars this month | 14,255 |
 
 ---
 
-## 19. [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit)
+## 21. [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit)
 
 Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,150 |
-| Forks | 1,102 |
-| Stars this month | 3,632 |
-
----
-
-## 20. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 28,403 |
-| Forks | 7,584 |
-| Stars this month | 5,415 |
+| Stars | 18,359 |
+| Forks | 1,112 |
+| Stars this month | 3,797 |
 
 ---
