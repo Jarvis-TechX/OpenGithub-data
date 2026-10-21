@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-20T04:43:28Z
-**Total Repositories:** 17
+**Snapshot Time:** 2026-10-21T04:40:03Z
+**Total Repositories:** 18
 **New Entries:** 5
-**Quality Score:** 97.65/100
+**Quality Score:** 95.56/100
 
 ---
 
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,733 |
-| Forks | 1,580 |
-| Stars this week | 976 |
+| Stars | 20,777 |
+| Forks | 1,582 |
+| Stars this week | 859 |
 
 ---
 
@@ -28,9 +28,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,204 |
-| Forks | 1,707 |
-| Stars this week | 296 |
+| Stars | 15,249 |
+| Forks | 1,601 |
+| Stars this week | 346 |
 
 ---
 
@@ -41,46 +41,46 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 55,849 |
-| Forks | 8,501 |
-| Stars this week | 176 |
+| Stars | 55,879 |
+| Forks | 8,505 |
+| Stars this week | 198 |
 
 ---
 
-## 4. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) 🆕
+## 4. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,814 |
-| Forks | 240 |
-| Stars this week | 167 |
+| Stars | 7,860 |
+| Forks | 238 |
+| Stars this week | 198 |
 
 ---
 
-## 5. [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
-
-Application designed to optimize, customize and enhance your Windows experience.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,075 |
-| Forks | 666 |
-| Stars this week | 531 |
-
----
-
-## 6. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
+## 5. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
 
 A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,533 |
-| Forks | 59 |
-| Stars this week | 672 |
+| Stars | 2,659 |
+| Forks | 61 |
+| Stars this week | 791 |
+
+---
+
+## 6. [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
+
+Application designed to optimize, customize and enhance your Windows experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,144 |
+| Forks | 667 |
+| Stars this week | 557 |
 
 ---
 
@@ -91,138 +91,149 @@ A modern client-server application for the Soulseek file sharing network.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,146 |
+| Stars | 4,155 |
 | Forks | 184 |
-| Stars this week | 96 |
+| Stars this week | 102 |
 
 ---
 
-## 8. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
-
-.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 26,732 |
-| Forks | 3,785 |
-| Stars this week | 168 |
-
----
-
-## 9. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) 🆕
-
-Smart PVR for newsgroup and bittorrent users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,331 |
-| Forks | 2,047 |
-| Stars this week | 321 |
-
----
-
-## 10. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
-
-UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 26,671 |
-| Forks | 955 |
-| Stars this week | 164 |
-
----
-
-## 11. [madoiscool/LuaTools](https://github.com/madoiscool/LuaTools) 🆕
-
-AppID Manager for ST
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 783 |
-| Forks | 74 |
-| Stars this week | 88 |
-
----
-
-## 12. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 🆕
+## 8. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
 
 the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,634 |
+| Stars | 14,639 |
 | Forks | 1,336 |
-| Stars this week | 112 |
+| Stars this week | 106 |
 
 ---
 
-## 13. [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
+## 9. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
+
+Smart PVR for newsgroup and bittorrent users.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 17,342 |
+| Forks | 2,048 |
+| Stars this week | 282 |
+
+---
+
+## 10. [madoiscool/LuaTools](https://github.com/madoiscool/LuaTools)
+
+AppID Manager for ST
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 796 |
+| Forks | 76 |
+| Stars this week | 101 |
+
+---
+
+## 11. [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
 
 A manager for game achievements in Steam.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,266 |
-| Forks | 914 |
-| Stars this week | 47 |
+| Stars | 9,273 |
+| Forks | 916 |
+| Stars this week | 41 |
 
 ---
 
-## 14. [bitwarden/server](https://github.com/bitwarden/server)
+## 12. [dotnet/skills](https://github.com/dotnet/skills) 🆕
 
-Bitwarden infrastructure/backend (API, database, Docker, etc).
+Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,421 |
-| Forks | 1,805 |
-| Stars this week | 145 |
+| Stars | 5,690 |
+| Forks | 445 |
+| Stars this week | 69 |
 
 ---
 
-## 15. [QuantConnect/Lean](https://github.com/QuantConnect/Lean) 🆕
+## 13. [greenshot/greenshot](https://github.com/greenshot/greenshot) 🆕
 
-Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+Greenshot for Windows - for more information look here:
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,110 |
-| Forks | 5,333 |
-| Stars this week | 149 |
+| Stars | 5,201 |
+| Forks | 710 |
+| Stars this week | 29 |
 
 ---
 
-## 16. [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator)
+## 14. [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,469 |
+| Forks | 398 |
+| Stars this week | 68 |
+
+---
+
+## 15. [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator)
 
 Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,933 |
-| Forks | 278 |
-| Stars this week | 67 |
+| Stars | 3,942 |
+| Forks | 280 |
+| Stars this week | 61 |
 
 ---
 
-## 17. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
+## 16. [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) 🆕
 
-Work-in-progress tool to reverse unity's IL2CPP toolchain.
+Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,040 |
-| Forks | 404 |
-| Stars this week | 76 |
+| Stars | 14,294 |
+| Forks | 697 |
+| Stars this week | 102 |
+
+---
+
+## 17. [bitwarden/server](https://github.com/bitwarden/server)
+
+Bitwarden infrastructure/backend (API, database, Docker, etc).
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 20,431 |
+| Forks | 1,806 |
+| Stars this week | 141 |
+
+---
+
+## 18. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher) 🆕
+
+A Launcher that Downloads and Updates Applications from Github Releases
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 1,928 |
+| Forks | 59 |
+| Stars this week | 143 |
 
 ---

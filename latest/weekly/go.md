@@ -1,8 +1,8 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-20T04:43:21Z
-**Total Repositories:** 17
+**Snapshot Time:** 2026-10-21T04:39:56Z
+**Total Repositories:** 20
 **New Entries:** 6
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 31,377 |
-| Forks | 4,982 |
-| Stars this week | 5,051 |
+| Stars | 31,598 |
+| Forks | 4,875 |
+| Stars this week | 3,666 |
 
 ---
 
@@ -28,100 +28,100 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 183,887 |
-| Forks | 18,422 |
-| Stars this week | 1,117 |
+| Stars | 184,097 |
+| Forks | 18,460 |
+| Stars this week | 1,391 |
 
 ---
 
-## 3. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
-
-Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 3,024 |
-| Forks | 557 |
-| Stars this week | 176 |
-
----
-
-## 4. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
-
-📂 Web File Browser
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,825 |
-| Forks | 497 |
-| Stars this week | 167 |
-
----
-
-## 5. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 🆕
+## 3. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 113,704 |
-| Forks | 6,578 |
-| Stars this week | 2,606 |
+| Stars | 113,898 |
+| Forks | 6,571 |
+| Stars this week | 2,573 |
 
 ---
 
-## 6. [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS)
+## 4. [golang/go](https://github.com/golang/go) 🆕
 
-An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
+The Go programming language
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,204 |
-| Forks | 333 |
-| Stars this week | 128 |
+| Stars | 139,379 |
+| Forks | 22,254 |
+| Stars this week | 539 |
 
 ---
 
-## 7. [eugenioenko/ttt](https://github.com/eugenioenko/ttt)
+## 5. [google/agentmesh](https://github.com/google/agentmesh)
 
-TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
+Agent Mesh
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 627 |
-| Forks | 80 |
-| Stars this week | 91 |
+| Stars | 1,136 |
+| Forks | 184 |
+| Stars this week | 119 |
 
 ---
 
-## 8. [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
+## 6. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 
-ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
+📂 Web File Browser
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,977 |
-| Forks | 407 |
-| Stars this week | 151 |
+| Stars | 8,841 |
+| Forks | 498 |
+| Stars this week | 154 |
 
 ---
 
-## 9. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router)
+## 7. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router)
 
 llm-d Router: The intelligent entry point for inference requests
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 422 |
-| Forks | 472 |
-| Stars this week | 26 |
+| Stars | 424 |
+| Forks | 473 |
+| Stars this week | 25 |
+
+---
+
+## 8. [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
+
+Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,496 |
+| Forks | 782 |
+| Stars this week | 330 |
+
+---
+
+## 9. [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)
+
+Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 19,715 |
+| Forks | 3,079 |
+| Stars this week | 71 |
 
 ---
 
@@ -132,99 +132,138 @@ llm-d Router: The intelligent entry point for inference requests
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 386 |
-| Forks | 110 |
-| Stars this week | 134 |
+| Stars | 415 |
+| Forks | 112 |
+| Stars this week | 158 |
 
 ---
 
-## 11. [github/github-mcp-server](https://github.com/github/github-mcp-server)
-
-GitHub's official MCP Server
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 33,776 |
-| Forks | 5,377 |
-| Stars this week | 249 |
-
----
-
-## 12. [pearl-research-labs/pearl](https://github.com/pearl-research-labs/pearl) 🆕
+## 11. [pearl-research-labs/pearl](https://github.com/pearl-research-labs/pearl)
 
 Monorepo for the Pearl network 🐚
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 374 |
+| Stars | 379 |
 | Forks | 91 |
-| Stars this week | 18 |
+| Stars this week | 22 |
 
 ---
 
-## 13. [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) 🆕
+## 12. [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
 
-Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
+ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,470 |
-| Forks | 779 |
-| Stars this week | 323 |
+| Stars | 1,997 |
+| Forks | 413 |
+| Stars this week | 151 |
 
 ---
 
-## 14. [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) 🆕
+## 13. [github/github-mcp-server](https://github.com/github/github-mcp-server)
 
-Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages
+GitHub's official MCP Server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 19,705 |
-| Forks | 3,078 |
-| Stars this week | 88 |
+| Stars | 33,806 |
+| Forks | 5,229 |
+| Stars this week | 250 |
 
 ---
 
-## 15. [livekit/livekit](https://github.com/livekit/livekit) 🆕
+## 14. [go-gitea/gitea](https://github.com/go-gitea/gitea) 🆕
 
-End-to-end realtime stack for connecting humans and AI
+Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 21,674 |
-| Forks | 2,485 |
-| Stars this week | 274 |
+| Stars | 58,594 |
+| Forks | 7,309 |
+| Stars this week | 149 |
 
 ---
 
-## 16. [google/agentmesh](https://github.com/google/agentmesh)
+## 15. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) 🆕
 
-Agent Mesh
+Find secrets with Gitleaks 🔑
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,126 |
-| Forks | 184 |
-| Stars this week | 125 |
+| Stars | 30,175 |
+| Forks | 2,319 |
+| Stars this week | 278 |
 
 ---
 
-## 17. [gogs/gogs](https://github.com/gogs/gogs) 🆕
+## 16. [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) 🆕
+
+Linux Patch Management & Automation Platform
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 3,438 |
+| Forks | 195 |
+| Stars this week | 32 |
+
+---
+
+## 17. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+
+Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 3,029 |
+| Forks | 560 |
+| Stars this week | 102 |
+
+---
+
+## 18. [gogs/gogs](https://github.com/gogs/gogs)
 
 The painless way to host your own Git service
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,889 |
-| Forks | 5,079 |
-| Stars this week | 43 |
+| Stars | 47,890 |
+| Forks | 5,077 |
+| Stars this week | 42 |
+
+---
+
+## 19. [kenn-io/agentsview](https://github.com/kenn-io/agentsview) 🆕
+
+Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,219 |
+| Forks | 664 |
+| Stars this week | 137 |
+
+---
+
+## 20. [mudler/LocalAI](https://github.com/mudler/LocalAI) 🆕
+
+LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 49,806 |
+| Forks | 4,526 |
+| Stars this week | 300 |
 
 ---

@@ -1,124 +1,139 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-20T04:43:06Z
-**Total Repositories:** 9
-**New Entries:** 6
-**Quality Score:** 95.56/100
+**Snapshot Time:** 2026-10-21T04:39:42Z
+**Total Repositories:** 10
+**New Entries:** 9
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [openwrt/openwrt](https://github.com/openwrt/openwrt) 🆕
+## 1. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) 🆕
+
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,849 |
+| Forks | 10,224 |
+| Stars today | 9 |
+
+---
+
+## 2. [redis/redis](https://github.com/redis/redis) 🆕
+
+For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 77,031 |
+| Forks | 24,892 |
+| Stars today | 62 |
+
+---
+
+## 3. [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp) 🆕
+
+Build native apps in JS. Backend, frontend. ~5Mb.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 1,283 |
+| Forks | 45 |
+| Stars today | 43 |
+
+---
+
+## 4. [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) 🆕
+
+Eclipse Mosquitto - An open source MQTT broker
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 11,288 |
+| Forks | 2,653 |
+| Stars today | 2 |
+
+---
+
+## 5. [madler/zlib](https://github.com/madler/zlib) 🆕
+
+A massively spiffy yet delicately unobtrusive compression library.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 7,159 |
+| Forks | 2,877 |
+| Stars today | 5 |
+
+---
+
+## 6. [nginx/nginx](https://github.com/nginx/nginx) 🆕
+
+The official NGINX Open Source repository.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 31,917 |
+| Forks | 8,291 |
+| Stars today | 14 |
+
+---
+
+## 7. [tmux/tmux](https://github.com/tmux/tmux) 🆕
+
+tmux source code
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 49,947 |
+| Forks | 2,979 |
+| Stars today | 15 |
+
+---
+
+## 8. [php/php-src](https://github.com/php/php-src) 🆕
+
+The PHP Interpreter
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 40,455 |
+| Forks | 8,208 |
+| Stars today | 5 |
+
+---
+
+## 9. [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) 🆕
+
+Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 47,055 |
+| Forks | 3,864 |
+| Stars today | 104 |
+
+---
+
+## 10. [openwrt/openwrt](https://github.com/openwrt/openwrt)
 
 This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,830 |
-| Forks | 13,186 |
-| Stars today | 21 |
-
----
-
-## 2. [libsdl-org/SDL](https://github.com/libsdl-org/SDL)
-
-Simple DirectMedia Layer
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,837 |
-| Forks | 3,087 |
-| Stars today | 8 |
-
----
-
-## 3. [openssl/openssl](https://github.com/openssl/openssl) 🆕
-
-General purpose TLS and crypto library
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 30,991 |
-| Forks | 11,534 |
-| Stars today | 14 |
-
----
-
-## 4. [luka-dev/mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi) 🆕
-
-Better CarPlay for MHI2Q! Cluster Map, HUD Projection, Spatial Audio and more
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 359 |
-| Forks | 66 |
-| Stars today | 7 |
-
----
-
-## 5. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
-
-Static recompilation runtime libraries for PlayStation 3 titles.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 522 |
-| Forks | 69 |
-| Stars today | 20 |
-
----
-
-## 6. [raysan5/raylib](https://github.com/raysan5/raylib)
-
-A simple and easy-to-use library to enjoy videogames programming
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 35,331 |
-| Forks | 3,345 |
-| Stars today | 31 |
-
----
-
-## 7. [libarchive/libarchive](https://github.com/libarchive/libarchive) 🆕
-
-Multi-format archive and compression library
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 3,645 |
-| Forks | 1,042 |
-| Stars today | 2 |
-
----
-
-## 8. [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,097 |
-| Forks | 796 |
-| Stars today | 8 |
-
----
-
-## 9. [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) 🆕
-
-Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 7,480 |
-| Forks | 346 |
-| Stars today | 15 |
+| Stars | 28,843 |
+| Forks | 13,198 |
+| Stars today | 17 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-20T04:43:28Z
-**Total Repositories:** 10
-**New Entries:** 2
+**Snapshot Time:** 2026-10-21T04:40:04Z
+**Total Repositories:** 12
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,35 +15,35 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,973 |
-| Forks | 661 |
-| Stars this week | 4,893 |
+| Stars | 13,154 |
+| Forks | 674 |
+| Stars this week | 4,168 |
 
 ---
 
-## 2. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
-
-Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 12,308 |
-| Forks | 893 |
-| Stars this week | 295 |
-
----
-
-## 3. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 2. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
 Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,189 |
-| Forks | 1,200 |
-| Stars this week | 490 |
+| Stars | 13,246 |
+| Forks | 1,207 |
+| Stars this week | 541 |
+
+---
+
+## 3. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+
+Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 12,328 |
+| Forks | 896 |
+| Stars this week | 295 |
 
 ---
 
@@ -54,9 +54,9 @@ An an app that installs Sidestore on iOS 27, fully on-device
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,118 |
-| Forks | 90 |
-| Stars this week | 117 |
+| Stars | 1,130 |
+| Forks | 92 |
+| Stars this week | 109 |
 
 ---
 
@@ -67,52 +67,91 @@ AltStore is an alternative app store for non-jailbroken iOS devices.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,691 |
-| Forks | 1,636 |
+| Stars | 14,703 |
+| Forks | 1,640 |
 | Stars this week | 159 |
 
 ---
 
-## 6. [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) 🆕
+## 6. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
 
-macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,927 |
-| Forks | 270 |
-| Stars this week | 55 |
-
----
-
-## 7. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
-
-Manga reading app for iOS, iPadOS, and macOS
+Telegram-iOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,645 |
-| Forks | 310 |
-| Stars this week | 30 |
+| Stars | 9,322 |
+| Forks | 3,099 |
+| Stars this week | 114 |
 
 ---
 
-## 8. [pauljoda/Crest](https://github.com/pauljoda/Crest)
+## 7. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) 🆕
 
-An open source browser for Mac, iPhone, and iPad.
+Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 437 |
-| Forks | 24 |
-| Stars this week | 129 |
+| Stars | 28,312 |
+| Forks | 2,563 |
+| Stars this week | 207 |
 
 ---
 
-## 9. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) 🆕
+## 8. [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac) 🆕
+
+Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7)
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 269 |
+| Forks | 17 |
+| Stars this week | 117 |
+
+---
+
+## 9. [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) 🆕
+
+Straightforward, type-safe argument parsing for Swift
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,793 |
+| Forks | 429 |
+| Stars this week | 6 |
+
+---
+
+## 10. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA) 🆕
+
+A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,139 |
+| Forks | 188 |
+| Stars this week | 225 |
+
+---
+
+## 11. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) 🆕
+
+👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,587 |
+| Forks | 241 |
+| Stars this week | 168 |
+
+---
+
+## 12. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
 
 A command-line tool and Xcode Extension for formatting Swift code
 
@@ -122,18 +161,5 @@ A command-line tool and Xcode Extension for formatting Swift code
 | Stars | 8,937 |
 | Forks | 722 |
 | Stars this week | 10 |
-
----
-
-## 10. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
-
-A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 399 |
-| Forks | 121 |
-| Stars this week | 27 |
 
 ---

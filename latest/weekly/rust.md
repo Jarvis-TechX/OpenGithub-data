@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-20T04:43:21Z
-**Total Repositories:** 6
-**New Entries:** 2
+**Snapshot Time:** 2026-10-21T04:39:57Z
+**Total Repositories:** 10
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 33,866 |
-| Forks | 5,357 |
-| Stars this week | 13,572 |
+| Stars | 34,640 |
+| Forks | 5,485 |
+| Stars this week | 10,287 |
 
 ---
 
-## 2. [storytold/artcraftx](https://github.com/storytold/artcraftx) 🆕
+## 2. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 
-ArtCraft-X
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 963 |
-| Forks | 841 |
-| Stars this week | 251 |
+| Stars | 11,956 |
+| Forks | 849 |
+| Stars this week | 2,640 |
 
 ---
 
@@ -41,47 +41,99 @@ Local-first search engine and MCP server for AI agents. One Rust binary indexes 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 10,642 |
-| Forks | 618 |
-| Stars this week | 5,573 |
+| Stars | 12,481 |
+| Forks | 749 |
+| Stars this week | 8,074 |
 
 ---
 
-## 4. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) 🆕
-
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 11,501 |
-| Forks | 817 |
-| Stars this week | 1,976 |
-
----
-
-## 5. [trymirai/uzu](https://github.com/trymirai/uzu)
+## 4. [trymirai/uzu](https://github.com/trymirai/uzu)
 
 A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,426 |
-| Forks | 157 |
-| Stars this week | 197 |
+| Stars | 2,459 |
+| Forks | 148 |
+| Stars this week | 175 |
 
 ---
 
-## 6. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+## 5. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect) 🆕
+
+AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,346 |
+| Forks | 159 |
+| Stars this week | 372 |
+
+---
+
+## 6. [storytold/artcraftx](https://github.com/storytold/artcraftx)
+
+ArtCraft-X
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 984 |
+| Forks | 859 |
+| Stars this week | 226 |
+
+---
+
+## 7. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
 
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,332 |
-| Forks | 388 |
-| Stars this week | 438 |
+| Stars | 3,377 |
+| Forks | 396 |
+| Stars this week | 404 |
+
+---
+
+## 8. [vosen/ZLUDA](https://github.com/vosen/ZLUDA) 🆕
+
+CUDA on non-NVIDIA GPUs
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 15,118 |
+| Forks | 963 |
+| Stars this week | 116 |
+
+---
+
+## 9. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) 🆕
+
+Object-storage native graph database with branching and typed ontology
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,538 |
+| Forks | 235 |
+| Stars this week | 254 |
+
+---
+
+## 10. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
+
+Empowering everyone to build reliable and efficient software.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 120,615 |
+| Forks | 18,659 |
+| Stars this week | 1,273 |
 
 ---

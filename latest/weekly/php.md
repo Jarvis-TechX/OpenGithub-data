@@ -1,10 +1,10 @@
 # GitHub Trending - Php
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-20T04:43:19Z
-**Total Repositories:** 10
-**New Entries:** 2
-**Quality Score:** 96.00/100
+**Snapshot Time:** 2026-10-21T04:39:55Z
+**Total Repositories:** 12
+**New Entries:** 7
+**Quality Score:** 96.67/100
 
 ---
 
@@ -15,22 +15,22 @@ Free and open-source webshop solution for hostings
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,765 |
+| Stars | 2,768 |
 | Forks | 553 |
-| Stars this week | 149 |
+| Stars this week | 104 |
 
 ---
 
-## 2. [matomo-org/matomo](https://github.com/matomo-org/matomo)
+## 2. [guzzle/guzzle](https://github.com/guzzle/guzzle) 🆕
 
-Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
+Guzzle, an extensible PHP HTTP client
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 21,963 |
-| Forks | 2,918 |
-| Stars this week | 25 |
+| Stars | 23,445 |
+| Forks | 2,391 |
+| Stars this week | 3 |
 
 ---
 
@@ -41,22 +41,22 @@ The PHP Unit Testing framework.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 20,070 |
+| Stars | 20,069 |
 | Forks | 2,214 |
-| Stars this week | 13 |
+| Stars this week | 12 |
 
 ---
 
-## 4. [karatektus/pl_mail](https://github.com/karatektus/pl_mail)
+## 4. [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) 🆕
 
-Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
+A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 371 |
-| Forks | 29 |
-| Stars this week | 90 |
+| Stars | 8,691 |
+| Forks | 1,047 |
+| Stars this week | 29 |
 
 ---
 
@@ -67,52 +67,77 @@ Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 37,177 |
-| Forks | 5,287 |
-| Stars this week | 119 |
+| Stars | 37,183 |
+| Forks | 5,289 |
+| Stars this week | 112 |
 
 ---
 
-## 6. [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) 🆕
+## 6. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) 🆕
 
-A web interface for MySQL and MariaDB
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,956 |
-| Forks | 3,609 |
-| Stars this week | 6 |
+| Stars | 74,251 |
+| Forks | 25,160 |
+| Stars this week | 174 |
 
 ---
 
-## 7. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) 🆕
+## 7. [karatektus/pl_mail](https://github.com/karatektus/pl_mail)
 
-Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
+Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,752 |
-| Forks | 3,585 |
-| Stars this week | 32 |
+| Stars | 393 |
+| Forks | 31 |
+| Stars this week | 99 |
 
 ---
 
-## 8. [koel/koel](https://github.com/koel/koel)
+## 8. [laravel/framework](https://github.com/laravel/framework) 🆕
 
-Music streaming solution that works.
+Laravel is a web application framework with expressive, elegant syntax.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 17,279 |
-| Forks | 2,115 |
-| Stars this week | 12 |
+| Stars | 34,968 |
+| Forks | 12,024 |
+| Stars this week | 19 |
 
 ---
 
-## 9. [php-fig/container](https://github.com/php-fig/container)
+## 9. [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) 🆕
+
+The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 1,633 |
+| Forks | 184 |
+| Stars this week | 8 |
+
+---
+
+## 10. [guzzle/promises](https://github.com/guzzle/promises) 🆕
+
+Promises/A+ library for PHP with synchronous support
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,707 |
+| Forks | 131 |
+
+---
+
+## 11. [php-fig/container](https://github.com/php-fig/container)
 
 | Metric | Value |
 |--------|-------|
@@ -122,15 +147,15 @@ Music streaming solution that works.
 
 ---
 
-## 10. [laravel/prompts](https://github.com/laravel/prompts)
+## 12. [danog/MadelineProto](https://github.com/danog/MadelineProto) 🆕
 
-Beautiful and user-friendly forms for your command-line PHP applications.
+Async PHP client API for the telegram MTProto protocol
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 729 |
-| Forks | 143 |
-| Stars this week | 1 |
+| Stars | 3,540 |
+| Forks | 928 |
+| Stars this week | 11 |
 
 ---

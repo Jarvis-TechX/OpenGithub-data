@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-20T04:43:24Z
-**Total Repositories:** 14
-**New Entries:** 4
+**Snapshot Time:** 2026-10-21T04:40:00Z
+**Total Repositories:** 13
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,61 +15,61 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 44,641 |
-| Forks | 4,081 |
-| Stars this week | 12,389 |
+| Stars | 45,670 |
+| Forks | 4,194 |
+| Stars this week | 11,169 |
 
 ---
 
-## 2. [geode-sdk/geode](https://github.com/geode-sdk/geode) 🆕
+## 2. [geode-sdk/geode](https://github.com/geode-sdk/geode)
 
 The ultimate Geometry Dash modding framework
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,014 |
-| Forks | 595 |
-| Stars this week | 107 |
+| Stars | 3,031 |
+| Forks | 600 |
+| Stars this week | 113 |
 
 ---
 
-## 3. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
-
-Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,605 |
-| Forks | 197 |
-| Stars this week | 216 |
-
----
-
-## 4. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+## 3. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
 An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,573 |
-| Forks | 7,370 |
-| Stars this week | 806 |
+| Stars | 31,638 |
+| Forks | 7,394 |
+| Stars this week | 725 |
 
 ---
 
-## 5. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)
+## 4. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)
 
 Audio Plugin for Audio to MIDI transcription using deep learning.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,250 |
-| Forks | 234 |
-| Stars this week | 145 |
+| Stars | 3,258 |
+| Forks | 237 |
+| Stars this week | 144 |
+
+---
+
+## 5. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+
+Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,628 |
+| Forks | 202 |
+| Stars this week | 202 |
 
 ---
 
@@ -80,9 +80,9 @@ A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,167 |
-| Forks | 526 |
-| Stars this week | 200 |
+| Stars | 6,178 |
+| Forks | 528 |
+| Stars this week | 202 |
 
 ---
 
@@ -93,99 +93,86 @@ PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,781 |
-| Forks | 2,806 |
-| Stars this week | 351 |
+| Stars | 33,817 |
+| Forks | 2,814 |
+| Stars this week | 331 |
 
 ---
 
-## 8. [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
-
-An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 49,961 |
-| Forks | 2,881 |
-| Stars this week | 174 |
-
----
-
-## 9. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) 🆕
-
-G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 16,029 |
-| Forks | 3,276 |
-| Stars this week | 103 |
-
----
-
-## 10. [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) 🆕
-
-A tool for recompiling Xbox 360 games to native executables.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 6,577 |
-| Forks | 444 |
-| Stars this week | 51 |
-
----
-
-## 11. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+## 8. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,460 |
-| Forks | 2,553 |
-| Stars this week | 391 |
+| Stars | 55,487 |
+| Forks | 2,555 |
+| Stars this week | 365 |
 
 ---
 
-## 12. [microsoft/BitNet](https://github.com/microsoft/BitNet)
+## 9. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
 
-Official inference framework for 1-bit LLMs
+G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,209 |
-| Forks | 3,837 |
-| Stars this week | 432 |
+| Stars | 16,047 |
+| Forks | 3,282 |
+| Stars this week | 110 |
 
 ---
 
-## 13. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+## 10. [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
 
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,546 |
-| Forks | 6,236 |
-| Stars this week | 334 |
+| Stars | 49,976 |
+| Forks | 2,880 |
+| Stars this week | 158 |
 
 ---
 
-## 14. [juce-framework/JUCE](https://github.com/juce-framework/JUCE) 🆕
+## 11. [juce-framework/JUCE](https://github.com/juce-framework/JUCE)
 
 JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 9,029 |
-| Forks | 2,213 |
-| Stars this week | 65 |
+| Stars | 9,038 |
+| Forks | 2,214 |
+| Stars this week | 75 |
+
+---
+
+## 12. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) 🆕
+
+FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 32,817 |
+| Forks | 4,680 |
+| Stars this week | 373 |
+
+---
+
+## 13. [zeldaret/botw](https://github.com/zeldaret/botw) 🆕
+
+Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 2,315 |
+| Forks | 142 |
+| Stars this week | 92 |
 
 ---

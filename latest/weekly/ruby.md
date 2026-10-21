@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-20T04:43:18Z
+**Snapshot Time:** 2026-10-21T04:39:53Z
 **Total Repositories:** 15
-**New Entries:** 5
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,35 +15,35 @@ Your self-hosted, globally interconnected microblogging community
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,421 |
+| Stars | 50,424 |
 | Forks | 7,522 |
-| Stars this week | 71 |
+| Stars this week | 32 |
 
 ---
 
-## 2. [antiwork/gumroad](https://github.com/antiwork/gumroad)
+## 2. [ruby/ruby](https://github.com/ruby/ruby)
 
-See what sticks
+The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 9,986 |
-| Forks | 2,088 |
-| Stars this week | 137 |
+| Stars | 23,782 |
+| Forks | 5,669 |
+| Stars this week | 12 |
 
 ---
 
-## 3. [rails/rails](https://github.com/rails/rails)
+## 3. [jekyll/jekyll](https://github.com/jekyll/jekyll) 🆕
 
-Ruby on Rails
+🌐 Jekyll is a blog-aware static site generator in Ruby
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 58,851 |
-| Forks | 25,676 |
-| Stars this week | 55 |
+| Stars | 51,723 |
+| Forks | 10,301 |
+| Stars this week | 24 |
 
 ---
 
@@ -54,35 +54,35 @@ A platform for community discussion. Free, open, simple.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 47,996 |
-| Forks | 9,040 |
-| Stars this week | 55 |
+| Stars | 48,000 |
+| Forks | 9,045 |
+| Stars this week | 53 |
 
 ---
 
-## 5. [ruby/ruby](https://github.com/ruby/ruby)
+## 5. [rails/rails](https://github.com/rails/rails)
 
-The Ruby Programming Language
+Ruby on Rails
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,780 |
-| Forks | 5,664 |
-| Stars this week | 19 |
+| Stars | 58,839 |
+| Forks | 25,190 |
+| Stars this week | 29 |
 
 ---
 
-## 6. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+## 6. [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) 🆕
 
-A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+The Cocoa Dependency Manager.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 26,333 |
-| Forks | 3,228 |
-| Stars this week | 24 |
+| Stars | 14,834 |
+| Forks | 2,682 |
+| Stars this week | 2 |
 
 ---
 
@@ -98,106 +98,105 @@ A collection of RBS for gems.
 
 ---
 
-## 8. [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space)
+## 8. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
 
-🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
+A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,232 |
-| Forks | 223 |
-| Stars this week | 4 |
+| Stars | 26,335 |
+| Forks | 3,167 |
+| Stars this week | 25 |
 
 ---
 
-## 9. [docusealco/docuseal](https://github.com/docusealco/docuseal)
+## 9. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) 🆕
+
+A database of vulnerable Ruby Gems
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 1,075 |
+| Forks | 248 |
+| Stars this week | 1 |
+
+---
+
+## 10. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) 🆕
+
+🍻 Default casks (upstream binary packages) for the package manager for everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,264 |
+| Forks | 12,019 |
+| Stars this week | 18 |
+
+---
+
+## 11. [docusealco/docuseal](https://github.com/docusealco/docuseal)
 
 Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 18,752 |
+| Stars | 18,758 |
 | Forks | 1,896 |
-| Stars this week | 62 |
+| Stars this week | 56 |
 
 ---
 
-## 10. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) 🆕
+## 12. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 
 API Documentation Browser
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,561 |
+| Stars | 39,563 |
 | Forks | 2,656 |
 | Stars this week | 31 |
 
 ---
 
-## 11. [jordansissel/fpm](https://github.com/jordansissel/fpm) 🆕
+## 13. [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space)
 
-Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 11,513 |
-| Forks | 1,066 |
-| Stars this week | 2 |
-
----
-
-## 12. [opf/openproject](https://github.com/opf/openproject) 🆕
-
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
+🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,486 |
-| Forks | 3,572 |
-| Stars this week | 89 |
-
----
-
-## 13. [zammad/zammad](https://github.com/zammad/zammad) 🆕
-
-Zammad is a web based open source helpdesk/customer support system.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 6,019 |
-| Forks | 1,078 |
-| Stars this week | 19 |
-
----
-
-## 14. [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) 🆕
-
-⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 5,095 |
-| Forks | 853 |
+| Stars | 2,234 |
+| Forks | 217 |
 | Stars this week | 5 |
 
 ---
 
-## 15. [stripe/stripe-ruby](https://github.com/stripe/stripe-ruby)
+## 14. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) 🆕
 
-Ruby library for the Stripe API.
+🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,172 |
-| Forks | 696 |
-| Stars this week | 1 |
+| Stars | 15,632 |
+| Forks | 13,927 |
+| Stars this week | 18 |
+
+---
+
+## 15. [CMSgov/price-transparency-guide](https://github.com/CMSgov/price-transparency-guide) 🆕
+
+The technical implementation guide for the tri-departmental price transparency rule.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 460 |
+| Forks | 139 |
 
 ---

@@ -1,139 +1,178 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-20T04:43:05Z
-**Total Repositories:** 10
-**New Entries:** 7
+**Snapshot Time:** 2026-10-21T04:39:40Z
+**Total Repositories:** 13
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
-
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 11,501 |
-| Forks | 817 |
-| Stars today | 666 |
-
----
-
-## 2. [xerj-org/xerj](https://github.com/xerj-org/xerj)
+## 1. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
 Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 10,639 |
-| Forks | 618 |
-| Stars today | 671 |
+| Stars | 12,481 |
+| Forks | 749 |
+| Stars today | 2,660 |
 
 ---
 
-## 3. [smg-project/smg](https://github.com/smg-project/smg) 🆕
+## 2. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 
-Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM, TokenSpeed, SGLang, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 644 |
-| Forks | 196 |
-| Stars today | 10 |
+| Stars | 11,956 |
+| Forks | 849 |
+| Stars today | 810 |
 
 ---
 
-## 4. [oven-sh/bun](https://github.com/oven-sh/bun) 🆕
-
-Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 96,307 |
-| Forks | 5,152 |
-| Stars today | 27 |
-
----
-
-## 5. [leepokai/Codync](https://github.com/leepokai/Codync) 🆕
-
-The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 630 |
-| Forks | 81 |
-| Stars today | 51 |
-
----
-
-## 6. [Automattic/harper](https://github.com/Automattic/harper)
-
-Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 16,807 |
-| Forks | 858 |
-| Stars today | 72 |
-
----
-
-## 7. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) 🆕
-
-A WiFi security auditing software
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 4,514 |
-| Forks | 791 |
-| Stars today | 135 |
-
----
-
-## 8. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) 🆕
+## 3. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 The design language that makes your AI harness better at design.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 83,318 |
-| Forks | 5,041 |
-| Stars today | 422 |
+| Stars | 83,950 |
+| Forks | 5,029 |
+| Stars today | 601 |
 
 ---
 
-## 9. [confeden/Antigravity](https://github.com/confeden/Antigravity) 🆕
+## 4. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) 🆕
 
-Antigravity в России без VPN и смены региона аккаунта Google
+Object-storage native graph database with branching and typed ontology
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 930 |
-| Forks | 55 |
+| Stars | 1,538 |
+| Forks | 235 |
+| Stars today | 190 |
+
+---
+
+## 5. [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) 🆕
+
+Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,162 |
+| Forks | 161 |
+| Stars today | 56 |
+
+---
+
+## 6. [macro-inc/macro](https://github.com/macro-inc/macro) 🆕
+
+Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 4,785 |
+| Forks | 459 |
+| Stars today | 35 |
+
+---
+
+## 7. [Jamailar/Beav](https://github.com/Jamailar/Beav) 🆕
+
+小红书 AI 运营工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 2,099 |
+| Forks | 275 |
+| Stars today | 26 |
+
+---
+
+## 8. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) 🆕
+
+A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 146,904 |
+| Forks | 9,697 |
+| Stars today | 507 |
+
+---
+
+## 9. [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) 🆕
+
+Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 4,405 |
+| Forks | 296 |
+| Stars today | 77 |
+
+---
+
+## 10. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) 🆕
+
+The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 6,310 |
+| Forks | 551 |
+| Stars today | 28 |
+
+---
+
+## 11. [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) 🆕
+
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 18,431 |
+| Forks | 1,118 |
+| Stars today | 164 |
+
+---
+
+## 12. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) 🆕
+
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 9,343 |
+| Forks | 333 |
 | Stars today | 25 |
 
 ---
 
-## 10. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) 🆕
+## 13. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) 🆕
 
-The user-friendly command line shell.
+Next Generation Agentic Proxy for AI Agents and MCP servers
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 34,332 |
-| Forks | 2,399 |
+| Stars | 5,439 |
+| Forks | 961 |
 | Stars today | 15 |
 
 ---

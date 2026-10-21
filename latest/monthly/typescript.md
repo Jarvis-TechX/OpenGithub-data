@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-20T04:43:35Z
+**Snapshot Time:** 2026-10-21T04:40:11Z
 **Total Repositories:** 22
-**New Entries:** 2
+**New Entries:** 4
 **Quality Score:** 96.36/100
 
 ---
@@ -15,9 +15,9 @@ The open-source app everyone uses to manage agents at work
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 104,841 |
-| Forks | 17,478 |
-| Stars this month | 23,845 |
+| Stars | 105,306 |
+| Forks | 17,545 |
+| Stars this month | 24,372 |
 
 ---
 
@@ -28,9 +28,9 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 67,805 |
-| Forks | 6,125 |
-| Stars this month | 16,049 |
+| Stars | 68,620 |
+| Forks | 6,206 |
+| Stars this month | 16,644 |
 
 ---
 
@@ -41,9 +41,9 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,146 |
-| Forks | 2,336 |
-| Stars this month | 7,498 |
+| Stars | 31,411 |
+| Forks | 2,209 |
+| Stars this month | 7,699 |
 
 ---
 
@@ -54,9 +54,9 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 37,740 |
-| Forks | 5,095 |
-| Stars this month | 10,330 |
+| Stars | 38,430 |
+| Forks | 5,176 |
+| Stars this month | 10,683 |
 
 ---
 
@@ -67,9 +67,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,090 |
-| Forks | 1,287 |
-| Stars this month | 4,862 |
+| Stars | 13,273 |
+| Forks | 1,306 |
+| Stars this month | 5,033 |
 
 ---
 
@@ -78,9 +78,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 28,658 |
-| Forks | 7,682 |
-| Stars this month | 5,685 |
+| Stars | 28,906 |
+| Forks | 7,764 |
+| Stars this month | 5,793 |
 
 ---
 
@@ -91,48 +91,48 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 101,833 |
-| Forks | 8,961 |
-| Stars this month | 8,030 |
+| Stars | 101,995 |
+| Forks | 8,979 |
+| Stars this month | 8,127 |
 
 ---
 
-## 8. [Effect-TS/effect](https://github.com/Effect-TS/effect)
+## 8. [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) 🆕
+
+Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 8,885 |
+| Forks | 1,406 |
+| Stars this month | 1,541 |
+
+---
+
+## 9. [Effect-TS/effect](https://github.com/Effect-TS/effect)
 
 Build production-ready applications in TypeScript
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,333 |
-| Forks | 871 |
-| Stars this month | 1,262 |
+| Stars | 17,341 |
+| Forks | 873 |
+| Stars this month | 1,250 |
 
 ---
 
-## 9. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+## 10. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 
 🎥 Make videos programmatically with React
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 65,365 |
-| Forks | 5,204 |
-| Stars this month | 5,684 |
-
----
-
-## 10. [stablyai/orca](https://github.com/stablyai/orca)
-
-Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 98,523 |
-| Forks | 6,286 |
-| Stars this month | 26,076 |
+| Stars | 65,698 |
+| Forks | 5,249 |
+| Stars this month | 5,914 |
 
 ---
 
@@ -143,9 +143,9 @@ The open agent skills tool - npx skills
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 35,724 |
-| Forks | 3,049 |
-| Stars this month | 3,771 |
+| Stars | 35,872 |
+| Forks | 3,070 |
+| Stars this month | 3,886 |
 
 ---
 
@@ -156,136 +156,136 @@ Open-source Grok Bot alternative. Choose your own model and sandbox.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 4,815 |
-| Forks | 877 |
-| Stars this month | 2,045 |
+| Stars | 4,956 |
+| Forks | 897 |
+| Stars this month | 2,172 |
 
 ---
 
-## 13. [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
+## 13. [stablyai/orca](https://github.com/stablyai/orca)
 
-Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,749 |
-| Forks | 279 |
-| Stars this month | 719 |
+| Stars | 100,007 |
+| Forks | 6,342 |
+| Stars this month | 26,715 |
 
 ---
 
-## 14. [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 9,580 |
-| Forks | 2,214 |
-| Stars this month | 703 |
-
----
-
-## 15. [dream-num/univer](https://github.com/dream-num/univer)
+## 14. [dream-num/univer](https://github.com/dream-num/univer)
 
 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 22,686 |
-| Forks | 1,899 |
-| Stars this month | 8,425 |
+| Stars | 22,697 |
+| Forks | 1,904 |
+| Stars this month | 8,350 |
 
 ---
 
-## 16. [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
+## 15. [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
 
 yoink any video from your terminal. no shady ads.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,030 |
-| Forks | 510 |
-| Stars this month | 4,309 |
+| Stars | 6,090 |
+| Forks | 516 |
+| Stars this month | 4,346 |
 
 ---
 
-## 17. [anthropics/claude-code](https://github.com/anthropics/claude-code)
+## 16. [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
+
+Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 5,751 |
+| Forks | 279 |
+| Stars this month | 718 |
+
+---
+
+## 17. [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 9,593 |
+| Forks | 2,209 |
+| Stars this month | 712 |
+
+---
+
+## 18. [anthropics/claude-code](https://github.com/anthropics/claude-code)
 
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 152,739 |
-| Forks | 27,146 |
-| Stars this month | 6,639 |
+| Stars | 152,674 |
+| Forks | 26,667 |
+| Stars this month | 6,659 |
 
 ---
 
-## 18. [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
+## 19. [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
 
 Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,784 |
-| Forks | 869 |
-| Stars this month | 3,055 |
+| Stars | 9,830 |
+| Forks | 872 |
+| Stars this month | 3,092 |
 
 ---
 
-## 19. [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+## 20. [vega-org/vega-app](https://github.com/vega-org/vega-app) 🆕
 
-OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+A app to Play, Stream or Cast Media for andorid.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,375 |
-| Forks | 2,509 |
-| Stars this month | 4,658 |
+| Stars | 1,599 |
+| Forks | 228 |
+| Stars this month | 288 |
 
 ---
 
-## 20. [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+## 21. [thesysdev/openui](https://github.com/thesysdev/openui) 🆕
 
-A framework for building agentic apps
+The Open Standard for Generative UI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,450 |
-| Forks | 681 |
-| Stars this month | 2,596 |
+| Stars | 12,733 |
+| Forks | 862 |
+| Stars this month | 2,838 |
 
 ---
 
-## 21. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+## 22. [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) 🆕
 
-Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 40,608 |
-| Forks | 4,103 |
-| Stars this month | 3,542 |
-
----
-
-## 22. [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) 🆕
-
-Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 13,739 |
-| Forks | 1,507 |
-| Stars this month | 2,125 |
+| Stars | 3,107 |
+| Forks | 202 |
+| Stars this month | 2,379 |
 
 ---

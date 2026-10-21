@@ -1,36 +1,36 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-20T04:43:14Z
-**Total Repositories:** 13
-**New Entries:** 3
+**Snapshot Time:** 2026-10-21T04:39:50Z
+**Total Repositories:** 14
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 43,222 |
-| Forks | 4,573 |
-| Stars this week | 5,441 |
-
----
-
-## 2. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+## 1. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 57,869 |
-| Forks | 18,318 |
-| Stars this week | 9,073 |
+| Stars | 61,120 |
+| Forks | 19,002 |
+| Stars this week | 12,848 |
+
+---
+
+## 2. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 43,443 |
+| Forks | 4,585 |
+| Stars this week | 5,650 |
 
 ---
 
@@ -41,9 +41,9 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 52,998 |
-| Forks | 4,690 |
-| Stars this week | 4,355 |
+| Stars | 53,322 |
+| Forks | 4,710 |
+| Stars this week | 4,549 |
 
 ---
 
@@ -54,35 +54,35 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 77,801 |
-| Forks | 8,529 |
-| Stars this week | 17,291 |
+| Stars | 79,222 |
+| Forks | 8,715 |
+| Stars this week | 17,057 |
 
 ---
 
-## 5. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+## 5. [wshobson/agents](https://github.com/wshobson/agents) 🆕
+
+Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 41,318 |
+| Forks | 4,396 |
+| Stars this week | 665 |
+
+---
+
+## 6. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 55,362 |
-| Forks | 4,994 |
-| Stars this week | 3,129 |
-
----
-
-## 6. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-
-Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 61,959 |
-| Forks | 9,732 |
-| Stars this week | 3,418 |
+| Stars | 55,721 |
+| Forks | 5,025 |
+| Stars this week | 3,587 |
 
 ---
 
@@ -93,22 +93,22 @@ Give your agent CAD superpowers.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 21,788 |
-| Forks | 2,144 |
-| Stars this week | 2,147 |
+| Stars | 22,039 |
+| Forks | 2,160 |
+| Stars this week | 2,069 |
 
 ---
 
-## 8. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)
+## 8. [Kruk2/jasna](https://github.com/Kruk2/jasna)
 
-TokenSpeed is a speed-of-light LLM inference engine.
+Video restoration tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,717 |
-| Forks | 374 |
-| Stars this week | 506 |
+| Stars | 3,264 |
+| Forks | 244 |
+| Stars this week | 1,237 |
 
 ---
 
@@ -119,60 +119,73 @@ Independent Auditing of AI Agents. Run by human or the agent itself, to answer t
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 30,176 |
-| Forks | 1,677 |
-| Stars this week | 7,106 |
+| Stars | 30,728 |
+| Forks | 1,604 |
+| Stars this week | 5,712 |
 
 ---
 
-## 10. [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)
+## 10. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 
-let your agent control your phone
+Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,835 |
-| Forks | 408 |
-| Stars this week | 596 |
+| Stars | 62,239 |
+| Forks | 9,740 |
+| Stars this week | 2,235 |
 
 ---
 
-## 11. [Kruk2/jasna](https://github.com/Kruk2/jasna) 🆕
+## 11. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) 🆕
 
-Video restoration tool
+Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,005 |
-| Forks | 216 |
-| Stars this week | 808 |
+| Stars | 31,808 |
+| Forks | 2,907 |
+| Stars this week | 1,172 |
 
 ---
 
-## 12. [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) 🆕
+## 12. [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) 🆕
 
-PersonaPlex code.
+Open-source State-of-the-art TTS model which runs on a CPU 😻
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,244 |
-| Forks | 1,545 |
-| Stars this week | 270 |
+| Stars | 16,211 |
+| Forks | 968 |
+| Stars this week | 339 |
 
 ---
 
-## 13. [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) 🆕
+## 13. [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) 🆕
 
-See, hear, and interact on your local devices.
+Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 26,885 |
-| Forks | 2,110 |
-| Stars this week | 337 |
+| Stars | 13,285 |
+| Forks | 1,919 |
+| Stars this week | 282 |
+
+---
+
+## 14. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) 🆕
+
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 140,927 |
+| Forks | 16,674 |
+| Stars this week | 3,364 |
 
 ---

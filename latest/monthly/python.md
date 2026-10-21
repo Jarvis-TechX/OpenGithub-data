@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-20T04:43:32Z
+**Snapshot Time:** 2026-10-21T04:40:08Z
 **Total Repositories:** 19
-**New Entries:** 0
+**New Entries:** 2
 **Quality Score:** 97.89/100
 
 ---
@@ -15,9 +15,9 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 77,803 |
-| Forks | 8,529 |
-| Stars this month | 44,161 |
+| Stars | 79,222 |
+| Forks | 8,715 |
+| Stars this month | 45,470 |
 
 ---
 
@@ -28,9 +28,9 @@ Hindsight: Agent Memory That Learns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 51,729 |
-| Forks | 6,173 |
-| Stars this month | 27,932 |
+| Stars | 52,083 |
+| Forks | 6,192 |
+| Stars this month | 28,261 |
 
 ---
 
@@ -39,9 +39,9 @@ Hindsight: Agent Memory That Learns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 40,461 |
-| Forks | 5,658 |
-| Stars this month | 5,573 |
+| Stars | 40,575 |
+| Forks | 5,667 |
+| Stars this month | 5,457 |
 
 ---
 
@@ -52,9 +52,9 @@ Open source repository of plugins primarily intended for knowledge workers to us
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 30,537 |
-| Forks | 3,448 |
-| Stars this month | 5,489 |
+| Stars | 30,869 |
+| Forks | 3,466 |
+| Stars this month | 5,496 |
 
 ---
 
@@ -65,9 +65,9 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 43,222 |
-| Forks | 4,573 |
-| Stars this month | 6,772 |
+| Stars | 43,443 |
+| Forks | 4,585 |
+| Stars this month | 6,997 |
 
 ---
 
@@ -78,9 +78,9 @@ Learn AI Engineering! Learn it. Build it. Ship it for others.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,503 |
-| Forks | 12,576 |
-| Stars this month | 16,662 |
+| Stars | 71,855 |
+| Forks | 12,644 |
+| Stars this month | 16,986 |
 
 ---
 
@@ -91,9 +91,9 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 10,330 |
-| Forks | 1,315 |
-| Stars this month | 6,077 |
+| Stars | 10,512 |
+| Forks | 1,316 |
+| Stars this month | 6,143 |
 
 ---
 
@@ -104,9 +104,9 @@ Give your agent CAD superpowers.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 21,788 |
-| Forks | 2,144 |
-| Stars this month | 5,595 |
+| Stars | 22,039 |
+| Forks | 2,160 |
+| Stars this month | 5,836 |
 
 ---
 
@@ -117,9 +117,9 @@ Give your agent CAD superpowers.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 55,362 |
-| Forks | 4,994 |
-| Stars this month | 5,545 |
+| Stars | 55,721 |
+| Forks | 5,025 |
+| Stars this month | 6,135 |
 
 ---
 
@@ -130,9 +130,9 @@ Give your agent CAD superpowers.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 39,325 |
-| Forks | 3,419 |
-| Stars this month | 3,696 |
+| Stars | 39,397 |
+| Forks | 3,421 |
+| Stars this month | 3,715 |
 
 ---
 
@@ -143,112 +143,112 @@ CLI tool for configuring and monitoring Claude Code
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,769 |
-| Forks | 3,800 |
-| Stars this month | 2,094 |
+| Stars | 32,799 |
+| Forks | 3,776 |
+| Stars this month | 2,068 |
 
 ---
 
-## 12. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+## 12. [wshobson/agents](https://github.com/wshobson/agents) 🆕
 
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 99,825 |
-| Forks | 8,819 |
-| Stars this month | 16,719 |
+| Stars | 41,318 |
+| Forks | 4,396 |
+| Stars this month | 1,538 |
 
 ---
 
-## 13. [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk)
-
-Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,868 |
-| Forks | 1,399 |
-| Stars this month | 1,536 |
-
----
-
-## 14. [pytorch/pytorch](https://github.com/pytorch/pytorch)
+## 13. [pytorch/pytorch](https://github.com/pytorch/pytorch)
 
 Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 104,945 |
-| Forks | 32,921 |
-| Stars this month | 2,466 |
+| Stars | 104,938 |
+| Forks | 32,419 |
+| Stars this month | 2,532 |
 
 ---
 
-## 15. [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+## 14. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 
-A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,375 |
-| Forks | 757 |
-| Stars this month | 1,563 |
+| Stars | 100,362 |
+| Forks | 8,838 |
+| Stars this month | 17,031 |
 
 ---
 
-## 16. [superdesigndev/treg](https://github.com/superdesigndev/treg)
-
-OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 5,850 |
-| Forks | 490 |
-| Stars this month | 4,151 |
-
----
-
-## 17. [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
+## 15. [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
 
 Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,660 |
+| Stars | 8,702 |
 | Forks | 905 |
-| Stars this month | 1,248 |
+| Stars this month | 1,269 |
 
 ---
 
-## 18. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
+## 16. [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+
+A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 5,387 |
+| Forks | 761 |
+| Stars this month | 1,572 |
+
+---
+
+## 17. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
 
 Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 31,718 |
-| Forks | 2,991 |
-| Stars this month | 2,740 |
+| Stars | 31,808 |
+| Forks | 2,907 |
+| Stars this month | 2,793 |
 
 ---
 
-## 19. [topoteretes/cognee](https://github.com/topoteretes/cognee)
+## 18. [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free
+OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,561 |
-| Forks | 3,412 |
-| Stars this month | 1,869 |
+| Stars | 5,905 |
+| Forks | 501 |
+| Stars this month | 4,187 |
+
+---
+
+## 19. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) 🆕
+
+The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 61,120 |
+| Forks | 19,002 |
+| Stars this month | 16,802 |
 
 ---

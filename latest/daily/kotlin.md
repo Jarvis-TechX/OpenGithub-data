@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-20T04:43:09Z
-**Total Repositories:** 12
-**New Entries:** 9
-**Quality Score:** 96.67/100
+**Snapshot Time:** 2026-10-21T04:39:45Z
+**Total Repositories:** 13
+**New Entries:** 7
+**Quality Score:** 96.92/100
 
 ---
 
@@ -13,151 +13,164 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,997 |
-| Forks | 579 |
-| Stars today | 323 |
+| Stars | 9,075 |
+| Forks | 588 |
+| Stars today | 59 |
 
 ---
 
-## 2. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
-
-BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 3,731 |
-| Forks | 358 |
-| Stars today | 119 |
-
----
-
-## 3. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) 🆕
+## 2. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
 
 翻墙-科学上网
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 55,634 |
+| Stars | 55,664 |
 | Forks | 8,680 |
-| Stars today | 708 |
+| Stars today | 121 |
 
 ---
 
-## 4. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) 🆕
+## 3. [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) 🆕
 
-🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
+The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 898 |
-| Forks | 34 |
-| Stars today | 21 |
+| Stars | 6,931 |
+| Forks | 1,068 |
+| Stars today | 39 |
 
 ---
 
-## 5. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) 🆕
+## 4. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
 
-RikkaHub is an Android APP that supports for multiple LLM providers.
+BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,308 |
-| Forks | 793 |
-| Stars today | 47 |
+| Stars | 3,912 |
+| Forks | 382 |
+| Stars today | 191 |
 
 ---
 
-## 6. [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) 🆕
+## 5. [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile) 🆕
+
+DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 601 |
+| Forks | 56 |
+| Stars today | 22 |
+
+---
+
+## 6. [JetBrains/kotlin](https://github.com/JetBrains/kotlin) 🆕
+
+The Kotlin Programming Language.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 53,496 |
+| Forks | 6,449 |
+| Stars today | 5 |
+
+---
+
+## 7. [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server)
 
 First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 672 |
-| Forks | 102 |
-| Stars today | 26 |
+| Stars | 712 |
+| Forks | 112 |
+| Stars today | 46 |
 
 ---
 
-## 7. [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) 🆕
+## 8. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
 
-A free Minecraft hacked client (utility mod) for Fabric
+RikkaHub is an Android APP that supports for multiple LLM providers.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,418 |
-| Forks | 716 |
-| Stars today | 1 |
+| Stars | 8,346 |
+| Forks | 802 |
+| Stars today | 41 |
 
 ---
 
-## 8. [celzero/rethink-app](https://github.com/celzero/rethink-app) 🆕
+## 9. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) 🆕
 
-DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+使用 Material Design 3 全新设计的阅读 3.0
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,638 |
-| Forks | 357 |
-| Stars today | 21 |
+| Stars | 6,583 |
+| Forks | 750 |
+| Stars today | 24 |
 
 ---
 
-## 9. [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) 🆕
+## 10. [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music) 🆕
+
+Vivi-Music is an expressive Material 3–based YouTube Music client for Android.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,790 |
+| Forks | 141 |
+| Stars today | 42 |
+
+---
+
+## 11. [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
 
 Full-featured audio/video downloader for Android using yt-dlp
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,662 |
-| Forks | 495 |
-| Stars today | 27 |
+| Stars | 10,676 |
+| Forks | 498 |
+| Stars today | 14 |
 
 ---
 
-## 10. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
+## 12. [IacobIonut01/ReFra](https://github.com/IacobIonut01/ReFra) 🆕
 
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+Media Gallery app for Android made with Jetpack Compose
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,082 |
-| Forks | 2,052 |
-| Stars today | 55 |
+| Stars | 2,928 |
+| Forks | 173 |
+| Stars today | 5 |
 
 ---
 
-## 11. [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) 🆕
+## 13. [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) 🆕
 
-A Minecraft: Java Edition Launcher for Android
+A feature-rich weather app with good visualizations and more than 50 sources.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,060 |
-| Forks | 394 |
-| Stars today | 13 |
-
----
-
-## 12. [LegadoTeam/legado](https://github.com/LegadoTeam/legado)
-
-Legado 3.0 Book Reader with powerful controls
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,594 |
-| Forks | 370 |
-| Stars today | 28 |
+| Stars | 11,768 |
+| Forks | 420 |
+| Stars today | 9 |
 
 ---

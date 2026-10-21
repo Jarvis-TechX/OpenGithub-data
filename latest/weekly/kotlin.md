@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-20T04:43:26Z
-**Total Repositories:** 16
-**New Entries:** 2
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-10-21T04:40:02Z
+**Total Repositories:** 15
+**New Entries:** 3
+**Quality Score:** 97.33/100
 
 ---
 
@@ -13,35 +13,35 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,997 |
-| Forks | 579 |
-| Stars this week | 1,233 |
+| Stars | 9,075 |
+| Forks | 588 |
+| Stars this week | 1,255 |
 
 ---
 
-## 2. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
-
-Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,069 |
-| Forks | 104 |
-| Stars this week | 516 |
-
----
-
-## 3. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
+## 2. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
 
 DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,319 |
+| Stars | 4,334 |
 | Forks | 403 |
-| Stars this week | 439 |
+| Stars this week | 440 |
+
+---
+
+## 3. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
+
+Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,082 |
+| Forks | 105 |
+| Stars this week | 278 |
 
 ---
 
@@ -52,9 +52,9 @@ DroidDesk turns your Android phone into a real Linux desktop using Termux, Termu
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,944 |
-| Forks | 246 |
-| Stars this week | 769 |
+| Stars | 5,032 |
+| Forks | 251 |
+| Stars this week | 713 |
 
 ---
 
@@ -65,151 +65,138 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,731 |
-| Forks | 358 |
-| Stars this week | 698 |
+| Stars | 3,912 |
+| Forks | 382 |
+| Stars this week | 788 |
 
 ---
 
-## 6. [mihonapp/mihon](https://github.com/mihonapp/mihon)
-
-Free and open source manga reader for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 24,556 |
-| Forks | 1,642 |
-| Stars this week | 278 |
-
----
-
-## 7. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
-
-Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 11,449 |
-| Forks | 474 |
-| Stars this week | 265 |
-
----
-
-## 8. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
-
-Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 595 |
-| Forks | 140 |
-| Stars this week | 68 |
-
----
-
-## 9. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) 🆕
+## 6. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
 
 翻墙-科学上网
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 55,634 |
+| Stars | 55,664 |
 | Forks | 8,680 |
-| Stars this week | 1,544 |
+| Stars this week | 1,620 |
 
 ---
 
-## 10. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+## 7. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 12,216 |
-| Forks | 678 |
-| Stars this week | 288 |
+| Stars | 12,247 |
+| Forks | 683 |
+| Stars this week | 284 |
 
 ---
 
-## 11. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+## 8. [tiann/KernelSU](https://github.com/tiann/KernelSU)
 
 A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,437 |
-| Forks | 4,506 |
-| Stars this week | 355 |
+| Stars | 19,476 |
+| Forks | 4,542 |
+| Stars this week | 334 |
 
 ---
 
-## 12. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+## 9. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
+
+Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 11,474 |
+| Forks | 477 |
+| Stars this week | 238 |
+
+---
+
+## 10. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
 
 A V2Ray client for Android, support Xray core and v2fly core
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 64,318 |
-| Forks | 8,333 |
-| Stars this week | 502 |
+| Stars | 64,367 |
+| Forks | 8,348 |
+| Stars this week | 508 |
 
 ---
 
-## 13. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
+## 11. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,082 |
-| Forks | 2,052 |
-| Stars this week | 358 |
+| Stars | 43,136 |
+| Forks | 2,055 |
+| Stars this week | 375 |
 
 ---
 
-## 14. [Chethan616/ClearPDF](https://github.com/Chethan616/ClearPDF)
+## 12. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
 
-Open-source Android PDF and document toolkit with PDF tools, Office viewing, XLSX editing, scanning, and image editing. Built with Kotlin and Jetpack Compose.
+Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 367 |
-| Forks | 28 |
-| Stars this week | 111 |
+| Stars | 610 |
+| Forks | 140 |
+| Stars this week | 67 |
 
 ---
 
-## 15. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
+## 13. [celzero/rethink-app](https://github.com/celzero/rethink-app) 🆕
 
-Headunit App for displaying Android Auto
+DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,899 |
-| Forks | 251 |
-| Stars this week | 145 |
+| Stars | 5,651 |
+| Forks | 360 |
+| Stars this week | 75 |
 
 ---
 
-## 16. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
+## 14. [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) 🆕
 
-A Download Manager that speeds up your downloads
+A Minecraft: Java Edition Launcher for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,663 |
-| Forks | 963 |
-| Stars this week | 226 |
+| Stars | 2,069 |
+| Forks | 408 |
+| Stars this week | 51 |
+
+---
+
+## 15. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
+
+The Magic Mask for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 63,399 |
+| Forks | 18,974 |
+| Stars this week | 206 |
 
 ---
