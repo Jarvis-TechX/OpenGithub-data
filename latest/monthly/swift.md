@@ -1,36 +1,36 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-21T04:40:25Z
-**Total Repositories:** 17
-**New Entries:** 4
+**Snapshot Time:** 2026-10-22T04:37:50Z
+**Total Repositories:** 16
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
-
-Free and open-source macOS menu bar toolkit.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 28,555 |
-| Forks | 1,323 |
-| Stars this month | 8,466 |
-
----
-
-## 2. [openai/tart](https://github.com/openai/tart)
+## 1. [openai/tart](https://github.com/openai/tart)
 
 macOS and Linux VMs on Apple Silicon to use in CI and other automations
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,597 |
+| Stars | 7,608 |
 | Forks | 410 |
-| Stars this month | 795 |
+| Stars this month | 805 |
+
+---
+
+## 2. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+
+Free and open-source macOS menu bar toolkit.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 28,903 |
+| Forks | 1,348 |
+| Stars this month | 8,489 |
 
 ---
 
@@ -41,8 +41,8 @@ The Swift Programming Language
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 70,513 |
-| Forks | 10,866 |
+| Stars | 70,515 |
+| Forks | 10,867 |
 | Stars this month | 230 |
 
 ---
@@ -54,87 +54,87 @@ Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, vo
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,139 |
+| Stars | 3,159 |
 | Forks | 480 |
-| Stars this month | 375 |
+| Stars this month | 339 |
 
 ---
 
-## 5. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
-
-Telegram-iOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,322 |
-| Forks | 3,099 |
-| Stars this month | 360 |
-
----
-
-## 6. [iina/iina](https://github.com/iina/iina)
-
-The modern video player for macOS.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 46,855 |
-| Forks | 2,967 |
-| Stars this month | 520 |
-
----
-
-## 7. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+## 5. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 
 Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,312 |
-| Forks | 2,563 |
-| Stars this month | 1,222 |
+| Stars | 28,333 |
+| Forks | 2,567 |
+| Stars this month | 1,225 |
 
 ---
 
-## 8. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
+## 6. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
 
-Community fork of PlayCover
+Telegram-iOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,982 |
-| Forks | 1,011 |
-| Stars this month | 233 |
+| Stars | 9,325 |
+| Forks | 3,108 |
+| Stars this month | 363 |
 
 ---
 
-## 9. [f/textream](https://github.com/f/textream)
-
-Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,087 |
-| Forks | 284 |
-| Stars this month | 344 |
-
----
-
-## 10. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+## 7. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
 An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,130 |
+| Stars | 1,143 |
 | Forks | 92 |
-| Stars this month | 374 |
+| Stars this month | 371 |
+
+---
+
+## 8. [f/textream](https://github.com/f/textream)
+
+Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,106 |
+| Forks | 285 |
+| Stars this month | 366 |
+
+---
+
+## 9. [iina/iina](https://github.com/iina/iina)
+
+The modern video player for macOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 46,867 |
+| Forks | 2,969 |
+| Stars this month | 512 |
+
+---
+
+## 10. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
+
+Community fork of PlayCover
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 11,986 |
+| Forks | 1,011 |
+| Stars this month | 235 |
 
 ---
 
@@ -145,39 +145,26 @@ TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,089 |
-| Forks | 1,125 |
-| Stars this month | 357 |
+| Stars | 11,100 |
+| Forks | 1,127 |
+| Stars this month | 352 |
 
 ---
 
-## 12. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
+## 12. [utmapp/UTM](https://github.com/utmapp/UTM)
 
-Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+Virtual machines for iOS and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,154 |
-| Forks | 674 |
-| Stars this month | 7,630 |
+| Stars | 36,405 |
+| Forks | 1,879 |
+| Stars this month | 798 |
 
 ---
 
-## 13. [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack)
-
-Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 13,869 |
-| Forks | 694 |
-| Stars this month | 316 |
-
----
-
-## 14. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
+## 13. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
 
 AI coding assistant for Xcode
 
@@ -185,46 +172,46 @@ AI coding assistant for Xcode
 |--------|-------|
 | Language | Swift |
 | Stars | 6,349 |
-| Forks | 2,065 |
+| Forks | 2,064 |
 | Stars this month | 72 |
 
 ---
 
-## 15. [tisfeng/Easydict](https://github.com/tisfeng/Easydict) 🆕
+## 14. [xtool-org/xtool](https://github.com/xtool-org/xtool)
 
-一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 15,021 |
-| Forks | 787 |
-| Stars this month | 370 |
-
----
-
-## 16. [utmapp/UTM](https://github.com/utmapp/UTM)
-
-Virtual machines for iOS and macOS
+Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,029 |
-| Forks | 1,867 |
-| Stars this month | 535 |
+| Stars | 13,316 |
+| Forks | 705 |
+| Stars this month | 7,844 |
 
 ---
 
-## 17. [YangJiiii/3105](https://github.com/YangJiiii/3105) 🆕
+## 15. [YangJiiii/3105](https://github.com/YangJiiii/3105)
 
 Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 916 |
-| Forks | 167 |
-| Stars this month | 180 |
+| Stars | 919 |
+| Forks | 166 |
+| Stars this month | 171 |
+
+---
+
+## 16. [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) 🆕
+
+A Swift command line tool for generating your Xcode project
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 8,881 |
+| Forks | 919 |
+| Stars this month | 95 |
 
 ---

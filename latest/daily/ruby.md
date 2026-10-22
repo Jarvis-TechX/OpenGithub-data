@@ -1,62 +1,62 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-21T04:39:37Z
+**Snapshot Time:** 2026-10-22T04:36:57Z
 **Total Repositories:** 20
-**New Entries:** 9
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [Homebrew/brew](https://github.com/Homebrew/brew)
-
-🍺 The Package Manager for Everywhere
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,068 |
-| Forks | 11,399 |
-| Stars today | 16 |
-
----
-
-## 2. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-
-🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 15,632 |
-| Forks | 13,927 |
-| Stars today | 2 |
-
----
-
-## 3. [ruby/ruby](https://github.com/ruby/ruby)
-
-The Ruby Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 23,782 |
-| Forks | 5,669 |
-| Stars today | 2 |
-
----
-
-## 4. [opf/openproject](https://github.com/opf/openproject) 🆕
+## 1. [opf/openproject](https://github.com/opf/openproject)
 
 OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,525 |
-| Forks | 3,580 |
-| Stars today | 45 |
+| Stars | 16,545 |
+| Forks | 3,589 |
+| Stars today | 28 |
+
+---
+
+## 2. [Homebrew/brew](https://github.com/Homebrew/brew)
+
+🍺 The Package Manager for Everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,083 |
+| Forks | 11,402 |
+| Stars today | 14 |
+
+---
+
+## 3. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 38,077 |
+| Forks | 9,285 |
+| Stars today | 60 |
+
+---
+
+## 4. [ruby/ruby](https://github.com/ruby/ruby)
+
+The Ruby Programming Language
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 23,784 |
+| Forks | 5,672 |
+| Stars today | 21 |
 
 ---
 
@@ -67,76 +67,153 @@ A platform for community discussion. Free, open, simple.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 48,000 |
-| Forks | 9,045 |
+| Stars | 48,002 |
+| Forks | 9,049 |
+| Stars today | 7 |
+
+---
+
+## 6. [basecamp/kamal](https://github.com/basecamp/kamal) 🆕
+
+Deploy web apps anywhere.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 14,671 |
+| Forks | 763 |
+| Stars today | 5 |
+
+---
+
+## 7. [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) 🆕
+
+Next generation web scanner
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 6,903 |
+| Forks | 1,017 |
 | Stars today | 4 |
 
 ---
 
-## 6. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+## 8. [forem/forem](https://github.com/forem/forem) 🆕
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,805 |
+| Forks | 4,190 |
+| Stars today | 1 |
+
+---
+
+## 9. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+
+🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 15,636 |
+| Forks | 13,930 |
+| Stars today | 5 |
+
+---
+
+## 10. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 
 🌇 A collection of links for free stock photography, video and Illustration websites
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,622 |
-| Forks | 841 |
-| Stars today | 5 |
-
----
-
-## 7. [hashicorp/vagrant](https://github.com/hashicorp/vagrant) 🆕
-
-Vagrant is a tool for building and distributing development environments.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 27,219 |
-| Forks | 4,424 |
-
----
-
-## 8. [huginn/huginn](https://github.com/huginn/huginn) 🆕
-
-Create agents that monitor and act on your behalf. Your agents are standing by!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,085 |
-| Forks | 4,309 |
+| Stars | 14,624 |
+| Forks | 825 |
 | Stars today | 3 |
 
 ---
 
-## 9. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+## 11. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) 🆕
 
-Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 38,036 |
-| Forks | 9,277 |
-| Stars today | 58 |
+| Stars | 22,269 |
+| Forks | 12,023 |
+| Stars today | 5 |
 
 ---
 
-## 10. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) 🆕
+## 12. [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb) 🆕
+
+Datadog's client library for Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 417 |
+| Forks | 422 |
+
+---
+
+## 13. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) 🆕
+
+Metasploit Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,206 |
+| Forks | 14,999 |
+| Stars today | 10 |
+
+---
+
+## 14. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
 
 A database of vulnerable Ruby Gems
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 1,075 |
-| Forks | 248 |
+| Stars | 1,076 |
+| Forks | 249 |
+| Stars today | 1 |
 
 ---
 
-## 11. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection) 🆕
+## 15. [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
+
+Vagrant is a tool for building and distributing development environments.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 27,218 |
+| Forks | 4,428 |
+
+---
+
+## 16. [heartcombo/devise](https://github.com/heartcombo/devise) 🆕
+
+Flexible authentication solution for Rails with Warden.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 24,354 |
+| Forks | 5,470 |
+
+---
+
+## 17. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -144,122 +221,43 @@ A collection of RBS for gems.
 |--------|-------|
 | Language | Ruby |
 | Stars | 302 |
-| Forks | 138 |
+| Forks | 139 |
 
 ---
 
-## 12. [github/scientist](https://github.com/github/scientist) 🆕
+## 18. [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) 🆕
 
-🔬 A Ruby library for carefully refactoring critical paths.
+GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 7,772 |
-| Forks | 508 |
-| Stars today | 1 |
-
----
-
-## 13. [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot)
-
-A command line tool that draw plots on the terminal.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 4,873 |
-| Forks | 74 |
-| Stars today | 1 |
-
----
-
-## 14. [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb)
-
-Build LLM-powered applications in Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 2,005 |
-| Forks | 272 |
-| Stars today | 2 |
-
----
-
-## 15. [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) 🆕
-
-The Cocoa Dependency Manager.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 14,834 |
-| Forks | 2,682 |
-| Stars today | 1 |
-
----
-
-## 16. [ytti/oxidized](https://github.com/ytti/oxidized) 🆕
-
-Oxidized is a network device configuration backup tool. It's a RANCID replacement!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 3,619 |
-| Forks | 1,061 |
+| Stars | 24,534 |
+| Forks | 5,940 |
 | Stars today | 4 |
 
 ---
 
-## 17. [rubycdp/ferrum](https://github.com/rubycdp/ferrum) 🆕
+## 19. [jruby/jruby](https://github.com/jruby/jruby) 🆕
 
-Headless Chrome Ruby API
+JRuby, an implementation of Ruby on the JVM
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,067 |
-| Forks | 175 |
+| Stars | 3,923 |
+| Forks | 953 |
 
 ---
 
-## 18. [we-promise/sure](https://github.com/we-promise/sure)
+## 20. [thoughtbot/parity](https://github.com/thoughtbot/parity) 🆕
 
-The personal finance app for everyone (by everyone)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 10,601 |
-| Forks | 675 |
-| Stars today | 13 |
-
----
-
-## 19. [palkan/isolator](https://github.com/palkan/isolator)
-
-Detect non-atomic interactions within DB transactions
+Shell commands for development, staging, and production parity for Heroku apps
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 1,127 |
-| Forks | 35 |
-| Stars today | 1 |
-
----
-
-## 20. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
-
-A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 26,335 |
-| Forks | 3,167 |
-| Stars today | 2 |
+| Stars | 892 |
+| Forks | 55 |
 
 ---

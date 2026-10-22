@@ -1,240 +1,177 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-21T04:39:47Z
-**Total Repositories:** 18
-**New Entries:** 11
+**Snapshot Time:** 2026-10-22T04:37:09Z
+**Total Repositories:** 13
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+## 1. [apple/swift-nio](https://github.com/apple/swift-nio) 🆕
 
-Telegram-iOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,322 |
-| Forks | 3,099 |
-| Stars today | 30 |
-
----
-
-## 2. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
-
-AI coding assistant for Xcode
+Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,349 |
-| Forks | 2,065 |
-| Stars today | 3 |
+| Stars | 8,538 |
+| Forks | 816 |
 
 ---
 
-## 3. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
-
-Run a virtual iPhone on an Apple Silicon Mac.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 15,809 |
-| Forks | 1,859 |
-| Stars today | 74 |
-
----
-
-## 4. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
-
-A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,139 |
-| Forks | 188 |
-| Stars today | 29 |
-
----
-
-## 5. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use)
+## 2. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use)
 
 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,587 |
-| Forks | 241 |
-| Stars today | 43 |
+| Stars | 2,615 |
+| Forks | 244 |
+| Stars today | 31 |
 
 ---
 
-## 6. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+## 3. [rileytestut/Delta](https://github.com/rileytestut/Delta) 🆕
 
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,312 |
-| Forks | 2,563 |
-| Stars today | 19 |
-
----
-
-## 7. [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) 🆕
-
-Free Weather Forecast API for non-commercial use
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 6,422 |
-| Forks | 456 |
-| Stars today | 11 |
-
----
-
-## 8. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
-
-Run iOS apps without actually installing them!
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 13,246 |
-| Forks | 1,207 |
-| Stars today | 65 |
-
----
-
-## 9. [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
-
-A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 14,977 |
-| Forks | 1,680 |
+| Stars | 6,184 |
+| Forks | 489 |
 | Stars today | 2 |
 
 ---
 
-## 10. [p0deje/Maccy](https://github.com/p0deje/Maccy) 🆕
+## 4. [scosman/Biscotti](https://github.com/scosman/Biscotti) 🆕
 
-Lightweight clipboard manager for macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 22,010 |
-| Forks | 1,232 |
-| Stars today | 17 |
-
----
-
-## 11. [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) 🆕
-
-Elegant HTTP Networking in Swift
+Free private meeting transcription app for macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 42,393 |
-| Forks | 7,653 |
+| Stars | 391 |
+| Forks | 37 |
+| Stars today | 43 |
 
 ---
 
-## 12. [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) 🆕
+## 5. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
 
-Used to integrate the Facebook Platform with your iOS & tvOS apps.
+Telegram-iOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,110 |
-| Forks | 3,697 |
+| Stars | 9,325 |
+| Forks | 3,108 |
+| Stars today | 7 |
 
 ---
 
-## 13. [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) 🆕
-
-The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,129 |
-| Forks | 427 |
-
----
-
-## 14. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) 🆕
-
-bluetooth mesh chat, IRC vibes
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 36,660 |
-| Forks | 5,834 |
-| Stars today | 15 |
-
----
-
-## 15. [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) 🆕
-
-Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,448 |
-| Forks | 104 |
-| Stars today | 11 |
-
----
-
-## 16. [f/textream](https://github.com/f/textream) 🆕
+## 6. [f/textream](https://github.com/f/textream)
 
 Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,087 |
-| Forks | 284 |
-| Stars today | 16 |
+| Stars | 4,106 |
+| Forks | 285 |
+| Stars today | 22 |
 
 ---
 
-## 17. [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) 🆕
+## 7. [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) 🆕
 
-An iOS library to natively render After Effects vector animations
+Straightforward, type-safe argument parsing for Swift
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 26,906 |
-| Forks | 3,838 |
-| Stars today | 3 |
+| Stars | 3,794 |
+| Forks | 427 |
+| Stars today | 1 |
 
 ---
 
-## 18. [gnachman/iTerm2](https://github.com/gnachman/iTerm2) 🆕
+## 8. [iliyami/MacSai](https://github.com/iliyami/MacSai) 🆕
 
-iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 18,202 |
-| Forks | 1,528 |
-| Stars today | 6 |
+| Stars | 1,935 |
+| Forks | 115 |
+| Stars today | 17 |
+
+---
+
+## 9. [swiftlang/swift-syntax](https://github.com/swiftlang/swift-syntax) 🆕
+
+A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,712 |
+| Forks | 562 |
+| Stars today | 2 |
+
+---
+
+## 10. [utmapp/UTM](https://github.com/utmapp/UTM) 🆕
+
+Virtual machines for iOS and macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 36,405 |
+| Forks | 1,879 |
+| Stars today | 266 |
+
+---
+
+## 11. [missuo/kumone](https://github.com/missuo/kumone) 🆕
+
+雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,191 |
+| Forks | 97 |
+| Stars today | 12 |
+
+---
+
+## 12. [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)
+
+Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,471 |
+| Forks | 103 |
+| Stars today | 21 |
+
+---
+
+## 13. [stripe/stripe-ios](https://github.com/stripe/stripe-ios) 🆕
+
+Stripe iOS SDK
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,578 |
+| Forks | 1,075 |
+| Stars today | 1 |
 
 ---

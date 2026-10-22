@@ -1,75 +1,75 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-21T04:39:38Z
-**Total Repositories:** 20
-**New Entries:** 14
+**Snapshot Time:** 2026-10-22T04:36:59Z
+**Total Repositories:** 22
+**New Entries:** 15
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [ellite/Wallos](https://github.com/ellite/Wallos) 🆕
-
-Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 8,720 |
-| Forks | 447 |
-| Stars today | 7 |
-
----
-
-## 2. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) 🆕
+## 1. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
 A free, self-hostable news aggregator…
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 16,345 |
-| Forks | 1,314 |
-| Stars today | 18 |
+| Stars | 16,379 |
+| Forks | 1,315 |
+| Stars today | 22 |
 
 ---
 
-## 3. [laravel/framework](https://github.com/laravel/framework)
+## 2. [laravel/framework](https://github.com/laravel/framework)
 
 Laravel is a web application framework with expressive, elegant syntax.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 34,968 |
-| Forks | 12,024 |
-| Stars today | 5 |
+| Stars | 34,972 |
+| Forks | 12,023 |
+| Stars today | 4 |
 
 ---
 
-## 4. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+## 3. [pterodactyl/panel](https://github.com/pterodactyl/panel) 🆕
 
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 74,251 |
-| Forks | 25,160 |
-| Stars today | 27 |
+| Stars | 9,370 |
+| Forks | 2,733 |
+| Stars today | 6 |
 
 ---
 
-## 5. [MISP/MISP](https://github.com/MISP/MISP) 🆕
+## 4. [openemr/openemr](https://github.com/openemr/openemr) 🆕
 
-MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+The most popular open source electronic health records and medical practice management solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,609 |
-| Forks | 1,654 |
+| Stars | 5,539 |
+| Forks | 3,094 |
 | Stars today | 3 |
+
+---
+
+## 5. [opnsense/core](https://github.com/opnsense/core) 🆕
+
+OPNsense GUI, API and systems backend
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,754 |
+| Forks | 1,015 |
+| Stars today | 4 |
 
 ---
 
@@ -80,186 +80,216 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 63,306 |
-| Forks | 5,703 |
-| Stars today | 75 |
+| Stars | 63,386 |
+| Forks | 5,708 |
+| Stars today | 71 |
 
 ---
 
-## 7. [composer/composer](https://github.com/composer/composer) 🆕
-
-Dependency Manager for PHP
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 29,557 |
-| Forks | 4,849 |
-| Stars today | 3 |
-
----
-
-## 8. [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) 🆕
-
-The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,633 |
-| Forks | 184 |
-
----
-
-## 9. [cedar2025/Xboard](https://github.com/cedar2025/Xboard) 🆕
-
-High-performance panel based on V2board secondary development supporting new protocols and new features
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,787 |
-| Forks | 1,359 |
-| Stars today | 4 |
-
----
-
-## 10. [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)
-
-A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 8,691 |
-| Forks | 1,047 |
-| Stars today | 5 |
-
----
-
-## 11. [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) 🆕
-
-An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,866 |
-| Forks | 218 |
-| Stars today | 5 |
-
----
-
-## 12. [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) 🆕
-
-The RSS feed for websites missing it
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,299 |
-| Forks | 1,259 |
-| Stars today | 3 |
-
----
-
-## 13. [statamic/cms](https://github.com/statamic/cms) 🆕
-
-The core Laravel CMS Composer package
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,909 |
-| Forks | 650 |
-| Stars today | 2 |
-
----
-
-## 14. [nunomaduro/collision](https://github.com/nunomaduro/collision)
-
-💥 Collision is a beautiful error reporting tool for command-line applications
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,662 |
-| Forks | 187 |
-| Stars today | 1 |
-
----
-
-## 15. [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
+## 7. [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
 
 Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 24,036 |
+| Stars | 24,043 |
 | Forks | 1,672 |
-| Stars today | 7 |
+| Stars today | 11 |
 
 ---
 
-## 16. [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) 🆕
+## 8. [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) 🆕
+
+PrestaShop is the universal open-source software platform to build your e-commerce solution.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 9,229 |
+| Forks | 5,044 |
+| Stars today | 2 |
+
+---
+
+## 9. [Leantime/leantime](https://github.com/Leantime/leantime) 🆕
+
+Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 11,882 |
+| Forks | 1,155 |
+| Stars today | 9 |
+
+---
+
+## 10. [librenms/librenms](https://github.com/librenms/librenms) 🆕
+
+Community-based GPL-licensed network monitoring system
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,964 |
+| Forks | 2,842 |
+| Stars today | 1 |
+
+---
+
+## 11. [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php)
 
 Official repository of the AWS SDK for PHP (@awsforphp)
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,207 |
-| Forks | 1,252 |
+| Stars | 6,208 |
+| Forks | 1,253 |
+| Stars today | 1 |
 
 ---
 
-## 17. [guzzle/guzzle](https://github.com/guzzle/guzzle) 🆕
+## 12. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) 🆕
 
-Guzzle, an extensible PHP HTTP client
+WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 23,445 |
-| Forks | 2,391 |
+| Stars | 3,487 |
+| Forks | 3,735 |
+| Stars today | 3 |
 
 ---
 
-## 18. [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) 🆕
+## 13. [filamentphp/filament](https://github.com/filamentphp/filament) 🆕
+
+A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 32,311 |
+| Forks | 4,223 |
+| Stars today | 10 |
+
+---
+
+## 14. [glpi-project/glpi](https://github.com/glpi-project/glpi) 🆕
+
+GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 6,487 |
+| Forks | 1,838 |
+| Stars today | 5 |
+
+---
+
+## 15. [jez500/pricebuddy](https://github.com/jez500/pricebuddy) 🆕
+
+A self hostable app that tracks prices and sends you notifications when prices match your preferences
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 1,433 |
+| Forks | 87 |
+| Stars today | 4 |
+
+---
+
+## 16. [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) 🆕
+
+The classic email sending library for PHP
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 22,324 |
+| Forks | 9,769 |
+| Stars today | 4 |
+
+---
+
+## 17. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) 🆕
+
+The Roundcube Webmail suite
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,233 |
+| Forks | 1,798 |
+| Stars today | 5 |
+
+---
+
+## 18. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) 🆕
+
+📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 10,672 |
+| Forks | 1,115 |
+| Stars today | 6 |
+
+---
+
+## 19. [karatektus/pl_mail](https://github.com/karatektus/pl_mail) 🆕
+
+Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 404 |
+| Forks | 34 |
+| Stars today | 14 |
+
+---
+
+## 20. [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
 
 A pure PHP library for reading and writing spreadsheet files
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,997 |
-| Forks | 3,625 |
+| Stars | 14,002 |
+| Forks | 3,627 |
+| Stars today | 1 |
 
 ---
 
-## 19. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
+## 21. [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)
 
-A free open source IT asset/license management system
+A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,053 |
-| Forks | 4,023 |
+| Stars | 8,696 |
+| Forks | 1,050 |
 | Stars today | 3 |
 
 ---
 
-## 20. [elabftw/elabftw](https://github.com/elabftw/elabftw) 🆕
+## 22. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) 🆕
 
-📓 eLabFTW is the most popular open source electronic lab notebook for research labs.
+The PHP Unit Testing framework.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,458 |
-| Forks | 353 |
-| Stars today | 1 |
+| Stars | 20,072 |
+| Forks | 2,214 |
+| Stars today | 2 |
 
 ---

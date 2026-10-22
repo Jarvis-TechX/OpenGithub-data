@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-21T04:39:34Z
-**Total Repositories:** 7
-**New Entries:** 2
-**Quality Score:** 94.29/100
+**Snapshot Time:** 2026-10-22T04:36:54Z
+**Total Repositories:** 8
+**New Entries:** 5
+**Quality Score:** 95.00/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,545 |
-| Forks | 2,164 |
-| Stars today | 1,712 |
+| Stars | 37,019 |
+| Forks | 2,304 |
+| Stars today | 2,012 |
 
 ---
 
@@ -28,9 +28,9 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 170,063 |
-| Forks | 9,250 |
-| Stars today | 1,208 |
+| Stars | 171,966 |
+| Forks | 9,356 |
+| Stars today | 2,079 |
 
 ---
 
@@ -39,60 +39,73 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 6,726 |
-| Forks | 1,079 |
-| Stars today | 585 |
+| Stars | 7,093 |
+| Forks | 1,147 |
+| Stars today | 420 |
 
 ---
 
-## 4. [nodejs/node](https://github.com/nodejs/node) 🆕
+## 4. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) 🆕
 
-Node.js JavaScript runtime ✨🐢🚀✨
+The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 122,476 |
-| Forks | 39,836 |
-| Stars today | 62 |
+| Stars | 18,598 |
+| Forks | 1,021 |
+| Stars today | 394 |
 
 ---
 
-## 5. [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
+## 5. [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) 🆕
 
-💻 Vibe Coding 101｜Your First Course For AI Product Builders.
+Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 20,067 |
-| Forks | 1,940 |
-| Stars today | 31 |
+| Stars | 895 |
+| Forks | 101 |
+| Stars today | 8 |
 
 ---
 
-## 6. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 6. [tt-a1i/archify](https://github.com/tt-a1i/archify) 🆕
 
-一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 26,610 |
-| Forks | 1,751 |
-| Stars today | 501 |
+| Stars | 87,175 |
+| Forks | 5,874 |
+| Stars today | 744 |
 
 ---
 
-## 7. [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) 🆕
+## 7. [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) 🆕
 
-Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
+通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 5,141 |
-| Forks | 764 |
-| Stars today | 76 |
+| Stars | 2,291 |
+| Forks | 237 |
+| Stars today | 46 |
+
+---
+
+## 8. [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) 🆕
+
+把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 2,197 |
+| Forks | 97 |
+| Stars today | 215 |
 
 ---

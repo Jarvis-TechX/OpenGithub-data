@@ -1,23 +1,23 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-21T04:39:53Z
+**Snapshot Time:** 2026-10-22T04:37:16Z
 **Total Repositories:** 15
-**New Entries:** 6
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [mastodon/mastodon](https://github.com/mastodon/mastodon)
+## 1. [antiwork/gumroad](https://github.com/antiwork/gumroad) 🆕
 
-Your self-hosted, globally interconnected microblogging community
+See what sticks
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,424 |
-| Forks | 7,522 |
-| Stars this week | 32 |
+| Stars | 10,003 |
+| Forks | 2,094 |
+| Stars this week | 103 |
 
 ---
 
@@ -28,61 +28,61 @@ The Ruby Programming Language
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,782 |
-| Forks | 5,669 |
-| Stars this week | 12 |
+| Stars | 23,784 |
+| Forks | 5,672 |
+| Stars this week | 32 |
 
 ---
 
-## 3. [jekyll/jekyll](https://github.com/jekyll/jekyll) 🆕
-
-🌐 Jekyll is a blog-aware static site generator in Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 51,723 |
-| Forks | 10,301 |
-| Stars this week | 24 |
-
----
-
-## 4. [discourse/discourse](https://github.com/discourse/discourse)
+## 3. [discourse/discourse](https://github.com/discourse/discourse)
 
 A platform for community discussion. Free, open, simple.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 48,000 |
-| Forks | 9,045 |
-| Stars this week | 53 |
+| Stars | 48,002 |
+| Forks | 9,049 |
+| Stars this week | 52 |
 
 ---
 
-## 5. [rails/rails](https://github.com/rails/rails)
+## 4. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) 🆕
 
-Ruby on Rails
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 58,839 |
-| Forks | 25,190 |
-| Stars this week | 29 |
+| Stars | 38,076 |
+| Forks | 9,285 |
+| Stars this week | 309 |
 
 ---
 
-## 6. [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) 🆕
+## 5. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) 🆕
 
-The Cocoa Dependency Manager.
+Metasploit Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,834 |
-| Forks | 2,682 |
-| Stars this week | 2 |
+| Stars | 39,206 |
+| Forks | 14,999 |
+| Stars this week | 74 |
+
+---
+
+## 6. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+
+🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 15,636 |
+| Forks | 13,930 |
+| Stars this week | 18 |
 
 ---
 
@@ -94,7 +94,7 @@ A collection of RBS for gems.
 |--------|-------|
 | Language | Ruby |
 | Stars | 302 |
-| Forks | 138 |
+| Forks | 139 |
 
 ---
 
@@ -105,61 +105,61 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 26,335 |
-| Forks | 3,167 |
-| Stars this week | 25 |
+| Stars | 26,337 |
+| Forks | 3,150 |
+| Stars this week | 27 |
 
 ---
 
-## 9. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) 🆕
+## 9. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
 
 A database of vulnerable Ruby Gems
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 1,075 |
-| Forks | 248 |
-| Stars this week | 1 |
+| Stars | 1,076 |
+| Forks | 249 |
+| Stars this week | 2 |
 
 ---
 
-## 10. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) 🆕
-
-🍻 Default casks (upstream binary packages) for the package manager for everywhere
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 22,264 |
-| Forks | 12,019 |
-| Stars this week | 18 |
-
----
-
-## 11. [docusealco/docuseal](https://github.com/docusealco/docuseal)
-
-Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 18,758 |
-| Forks | 1,896 |
-| Stars this week | 56 |
-
----
-
-## 12. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
+## 10. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 
 API Documentation Browser
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,563 |
-| Forks | 2,656 |
-| Stars this week | 31 |
+| Stars | 39,565 |
+| Forks | 2,655 |
+| Stars this week | 28 |
+
+---
+
+## 11. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+
+🍻 Default casks (upstream binary packages) for the package manager for everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,269 |
+| Forks | 12,023 |
+| Stars this week | 19 |
+
+---
+
+## 12. [opf/openproject](https://github.com/opf/openproject) 🆕
+
+OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 16,545 |
+| Forks | 3,589 |
+| Stars this week | 134 |
 
 ---
 
@@ -171,25 +171,25 @@ API Documentation Browser
 |--------|-------|
 | Language | Ruby |
 | Stars | 2,234 |
-| Forks | 217 |
+| Forks | 216 |
 | Stars this week | 5 |
 
 ---
 
-## 14. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) 🆕
+## 14. [docusealco/docuseal](https://github.com/docusealco/docuseal)
 
-🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
+Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,632 |
-| Forks | 13,927 |
-| Stars this week | 18 |
+| Stars | 18,769 |
+| Forks | 1,897 |
+| Stars this week | 57 |
 
 ---
 
-## 15. [CMSgov/price-transparency-guide](https://github.com/CMSgov/price-transparency-guide) 🆕
+## 15. [CMSgov/price-transparency-guide](https://github.com/CMSgov/price-transparency-guide)
 
 The technical implementation guide for the tri-departmental price transparency rule.
 

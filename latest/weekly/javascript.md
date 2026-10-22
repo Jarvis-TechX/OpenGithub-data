@@ -1,7 +1,7 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-21T04:39:51Z
+**Snapshot Time:** 2026-10-22T04:37:13Z
 **Total Repositories:** 10
 **New Entries:** 1
 **Quality Score:** 96.00/100
@@ -10,14 +10,14 @@
 
 ## 1. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
 
-Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,196 |
+| Stars | 3,254 |
 | Forks | 301 |
-| Stars this week | 1,251 |
+| Stars this week | 1,255 |
 
 ---
 
@@ -28,110 +28,110 @@ Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of P
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 26,610 |
-| Forks | 1,751 |
-| Stars this week | 4,935 |
+| Stars | 26,945 |
+| Forks | 1,786 |
+| Stars this week | 4,714 |
 
 ---
 
-## 3. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
-
-Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 14,196 |
-| Forks | 1,807 |
-| Stars this week | 3,189 |
-
----
-
-## 4. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 6,726 |
-| Forks | 1,079 |
-| Stars this week | 1,753 |
-
----
-
-## 5. [react/react](https://github.com/react/react)
+## 3. [react/react](https://github.com/react/react)
 
 The library for web and native user interfaces.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 251,587 |
-| Forks | 51,563 |
-| Stars this week | 851 |
+| Stars | 251,626 |
+| Forks | 51,566 |
+| Stars this week | 844 |
 
 ---
 
-## 6. [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) 🆕
+## 4. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+
+Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 14,541 |
+| Forks | 1,867 |
+| Stars this week | 2,709 |
+
+---
+
+## 5. [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
 
 💻 Vibe Coding 101｜Your First Course For AI Product Builders.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 20,067 |
-| Forks | 1,940 |
-| Stars this week | 353 |
+| Stars | 20,097 |
+| Forks | 1,945 |
+| Stars this week | 384 |
 
 ---
 
-## 7. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+## 6. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 
 The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 18,252 |
-| Forks | 1,001 |
-| Stars this week | 835 |
+| Stars | 18,598 |
+| Forks | 1,021 |
+| Stars this week | 1,138 |
 
 ---
 
-## 8. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+## 7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
 
-Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,559 |
-| Forks | 253 |
-| Stars this week | 820 |
+| Stars | 171,967 |
+| Forks | 9,356 |
+| Stars this week | 8,137 |
 
 ---
 
-## 9. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+## 8. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 31,085 |
-| Forks | 5,732 |
-| Stars this week | 856 |
+| Stars | 31,188 |
+| Forks | 5,770 |
+| Stars this week | 842 |
 
 ---
 
-## 10. [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
+## 9. [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
 
 DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,209 |
-| Forks | 339 |
-| Stars this week | 445 |
+| Stars | 3,281 |
+| Forks | 364 |
+| Stars this week | 457 |
+
+---
+
+## 10. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 7,093 |
+| Forks | 1,147 |
+| Stars this week | 2,191 |
 
 ---

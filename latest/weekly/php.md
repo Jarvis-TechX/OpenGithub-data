@@ -1,27 +1,53 @@
 # GitHub Trending - Php
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-21T04:39:55Z
-**Total Repositories:** 12
+**Snapshot Time:** 2026-10-22T04:37:18Z
+**Total Repositories:** 15
 **New Entries:** 7
-**Quality Score:** 96.67/100
+**Quality Score:** 97.33/100
 
 ---
 
-## 1. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
+## 1. [karatektus/pl_mail](https://github.com/karatektus/pl_mail)
 
-Free and open-source webshop solution for hostings
+Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,768 |
-| Forks | 553 |
-| Stars this week | 104 |
+| Stars | 404 |
+| Forks | 34 |
+| Stars this week | 99 |
 
 ---
 
-## 2. [guzzle/guzzle](https://github.com/guzzle/guzzle) 🆕
+## 2. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)
+
+The PHP Unit Testing framework.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 20,072 |
+| Forks | 2,214 |
+| Stars this week | 13 |
+
+---
+
+## 3. [laravel/framework](https://github.com/laravel/framework)
+
+Laravel is a web application framework with expressive, elegant syntax.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 34,972 |
+| Forks | 12,023 |
+| Stars this week | 21 |
+
+---
+
+## 4. [guzzle/guzzle](https://github.com/guzzle/guzzle)
 
 Guzzle, an extensible PHP HTTP client
 
@@ -29,34 +55,8 @@ Guzzle, an extensible PHP HTTP client
 |--------|-------|
 | Language | PHP |
 | Stars | 23,445 |
-| Forks | 2,391 |
-| Stars this week | 3 |
-
----
-
-## 3. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)
-
-The PHP Unit Testing framework.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 20,069 |
-| Forks | 2,214 |
-| Stars this week | 12 |
-
----
-
-## 4. [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) 🆕
-
-A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 8,691 |
-| Forks | 1,047 |
-| Stars this week | 29 |
+| Forks | 2,392 |
+| Stars this week | 2 |
 
 ---
 
@@ -67,95 +67,135 @@ A minimalist, open source online pastebin where the server has zero knowledge of
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 37,183 |
-| Forks | 5,289 |
-| Stars this week | 112 |
+| Stars | 37,214 |
+| Forks | 5,291 |
+| Stars this week | 118 |
 
 ---
 
-## 6. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) 🆕
+## 6. [coollabsio/coolify](https://github.com/coollabsio/coolify) 🆕
 
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 74,251 |
-| Forks | 25,160 |
-| Stars this week | 174 |
+| Stars | 63,386 |
+| Forks | 5,708 |
+| Stars this week | 442 |
 
 ---
 
-## 7. [karatektus/pl_mail](https://github.com/karatektus/pl_mail)
+## 7. [pterodactyl/panel](https://github.com/pterodactyl/panel) 🆕
 
-Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
+Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 393 |
-| Forks | 31 |
-| Stars this week | 99 |
+| Stars | 9,370 |
+| Forks | 2,733 |
+| Stars this week | 40 |
 
 ---
 
-## 8. [laravel/framework](https://github.com/laravel/framework) 🆕
+## 8. [opnsense/core](https://github.com/opnsense/core) 🆕
 
-Laravel is a web application framework with expressive, elegant syntax.
+OPNsense GUI, API and systems backend
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 34,968 |
-| Forks | 12,024 |
-| Stars this week | 19 |
+| Stars | 4,754 |
+| Forks | 1,015 |
+| Stars this week | 26 |
 
 ---
 
-## 9. [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) 🆕
+## 9. [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) 🆕
 
-The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
+A self-hosted open source application for managing your invoices, clients and payments.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,633 |
-| Forks | 184 |
-| Stars this week | 8 |
+| Stars | 3,222 |
+| Forks | 883 |
+| Stars this week | 30 |
 
 ---
 
-## 10. [guzzle/promises](https://github.com/guzzle/promises) 🆕
+## 10. [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) 🆕
 
-Promises/A+ library for PHP with synchronous support
+Official repository of the AWS SDK for PHP (@awsforphp)
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,707 |
-| Forks | 131 |
+| Stars | 6,208 |
+| Forks | 1,253 |
+| Stars this week | 1 |
 
 ---
 
-## 11. [php-fig/container](https://github.com/php-fig/container)
+## 11. [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)
+
+A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,989 |
-| Forks | 54 |
+| Stars | 8,696 |
+| Forks | 1,050 |
+| Stars this week | 29 |
 
 ---
 
-## 12. [danog/MadelineProto](https://github.com/danog/MadelineProto) 🆕
+## 12. [opnsense/plugins](https://github.com/opnsense/plugins) 🆕
+
+OPNsense plugin collection
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 1,193 |
+| Forks | 891 |
+| Stars this week | 5 |
+
+---
+
+## 13. [danog/MadelineProto](https://github.com/danog/MadelineProto)
 
 Async PHP client API for the telegram MTProto protocol
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,540 |
-| Forks | 928 |
-| Stars this week | 11 |
+| Stars | 3,543 |
+| Forks | 929 |
+| Stars this week | 13 |
+
+---
+
+## 14. [aonez/Keka](https://github.com/aonez/Keka) 🆕
+
+The macOS & iOS file archiver
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,540 |
+| Forks | 302 |
+| Stars this week | 56 |
+
+---
+
+## 15. [php-fig/container](https://github.com/php-fig/container)
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 9,989 |
+| Forks | 54 |
 
 ---

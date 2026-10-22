@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-21T04:40:19Z
-**Total Repositories:** 19
-**New Entries:** 0
-**Quality Score:** 95.79/100
+**Snapshot Time:** 2026-10-22T04:37:42Z
+**Total Repositories:** 18
+**New Entries:** 1
+**Quality Score:** 95.56/100
 
 ---
 
@@ -15,9 +15,9 @@ Display and control your Android device
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 152,680 |
-| Forks | 13,994 |
-| Stars this month | 3,044 |
+| Stars | 152,782 |
+| Forks | 14,004 |
+| Stars this month | 3,079 |
 
 ---
 
@@ -28,9 +28,9 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,648 |
-| Forks | 340 |
-| Stars this month | 2,262 |
+| Stars | 2,687 |
+| Forks | 342 |
+| Stars this month | 2,281 |
 
 ---
 
@@ -41,9 +41,9 @@ A native, user-mode, multi-process, graphical debugger.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 8,616 |
-| Forks | 427 |
-| Stars this month | 1,126 |
+| Stars | 8,624 |
+| Forks | 426 |
+| Stars this month | 1,137 |
 
 ---
 
@@ -54,52 +54,13 @@ Xbox 360 Recompilation Runtime and Toolkit
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,137 |
-| Forks | 218 |
-| Stars this month | 253 |
+| Stars | 1,147 |
+| Forks | 220 |
+| Stars this month | 261 |
 
 ---
 
-## 5. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-
-An advanced Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,555 |
-| Forks | 1,203 |
-| Stars this month | 323 |
-
----
-
-## 6. [libuv/libuv](https://github.com/libuv/libuv)
-
-Cross-platform asynchronous I/O
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 27,273 |
-| Forks | 3,959 |
-| Stars this month | 123 |
-
----
-
-## 7. [systemd/systemd](https://github.com/systemd/systemd)
-
-The systemd System and Service Manager
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,874 |
-| Forks | 4,769 |
-| Stars this month | 196 |
-
----
-
-## 8. [redis/redis](https://github.com/redis/redis)
+## 5. [redis/redis](https://github.com/redis/redis)
 
 For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
@@ -107,146 +68,172 @@ For developers, who are building real-time data-driven applications, Redis is th
 |--------|-------|
 | Language | C |
 | Stars | 77,031 |
-| Forks | 24,892 |
-| Stars this month | 1,011 |
+| Forks | 24,903 |
+| Stars this month | 1,014 |
 
 ---
 
-## 9. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
+## 6. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+
+An advanced Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 5,703 |
-| Forks | 928 |
-| Stars this month | 274 |
+| Stars | 4,572 |
+| Forks | 1,205 |
+| Stars this month | 330 |
 
 ---
 
-## 10. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
-
-GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+## 7. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,792 |
-| Forks | 2,239 |
-| Stars this month | 200 |
+| Stars | 5,713 |
+| Forks | 931 |
+| Stars this month | 281 |
 
 ---
 
-## 11. [hathach/tinyusb](https://github.com/hathach/tinyusb)
-
-An open source cross-platform USB stack for embedded system
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 7,225 |
-| Forks | 1,560 |
-| Stars this month | 122 |
-
----
-
-## 12. [libsdl-org/SDL](https://github.com/libsdl-org/SDL)
-
-Simple DirectMedia Layer
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,843 |
-| Forks | 3,088 |
-| Stars this month | 261 |
-
----
-
-## 13. [raysan5/raylib](https://github.com/raysan5/raylib)
+## 8. [raysan5/raylib](https://github.com/raysan5/raylib)
 
 A simple and easy-to-use library to enjoy videogames programming
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 35,342 |
-| Forks | 3,348 |
-| Stars this month | 665 |
+| Stars | 35,362 |
+| Forks | 3,350 |
+| Stars this month | 668 |
 
 ---
 
-## 14. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+## 9. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
+GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 28,793 |
+| Forks | 2,240 |
+| Stars this month | 200 |
+
+---
+
+## 10. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 
 A new bootable USB solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 80,240 |
-| Forks | 5,002 |
-| Stars this month | 964 |
+| Stars | 80,259 |
+| Forks | 5,003 |
+| Stars this month | 960 |
 
 ---
 
-## 15. [openssl/openssl](https://github.com/openssl/openssl)
-
-General purpose TLS and crypto library
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 30,999 |
-| Forks | 11,536 |
-| Stars this month | 338 |
-
----
-
-## 16. [reactos/reactos](https://github.com/reactos/reactos)
+## 11. [reactos/reactos](https://github.com/reactos/reactos)
 
 A free Windows-compatible Operating System
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 18,302 |
-| Forks | 2,278 |
-| Stars this month | 227 |
+| Stars | 18,321 |
+| Forks | 2,280 |
+| Stars this month | 245 |
 
 ---
 
-## 17. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+## 12. [systemd/systemd](https://github.com/systemd/systemd)
 
-ehviewer，用爱发电，快乐前行
+The systemd System and Service Manager
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 27,963 |
-| Forks | 739 |
-| Stars this month | 1,039 |
+| Stars | 16,887 |
+| Forks | 4,773 |
+| Stars this month | 201 |
 
 ---
 
-## 18. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
+## 13. [libsdl-org/SDL](https://github.com/libsdl-org/SDL)
+
+Simple DirectMedia Layer
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 786 |
-| Forks | 60 |
-| Stars this month | 359 |
+| Stars | 16,844 |
+| Forks | 3,090 |
+| Stars this month | 254 |
 
 ---
 
-## 19. [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv)
+## 14. [hathach/tinyusb](https://github.com/hathach/tinyusb)
 
-Xv6 for RISC-V
+An open source cross-platform USB stack for embedded system
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 10,670 |
-| Forks | 4,427 |
-| Stars this month | 271 |
+| Stars | 7,227 |
+| Forks | 1,560 |
+| Stars this month | 122 |
+
+---
+
+## 15. [git/git](https://github.com/git/git) 🆕
+
+Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 63,933 |
+| Forks | 28,594 |
+| Stars this month | 1,044 |
+
+---
+
+## 16. [libuv/libuv](https://github.com/libuv/libuv)
+
+Cross-platform asynchronous I/O
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 27,277 |
+| Forks | 3,961 |
+| Stars this month | 126 |
+
+---
+
+## 17. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 796 |
+| Forks | 62 |
+| Stars this month | 357 |
+
+---
+
+## 18. [openssl/openssl](https://github.com/openssl/openssl)
+
+General purpose TLS and crypto library
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 31,010 |
+| Forks | 11,535 |
+| Stars this month | 342 |
 
 ---

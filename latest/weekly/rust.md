@@ -1,36 +1,36 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-21T04:39:57Z
-**Total Repositories:** 10
-**New Entries:** 4
+**Snapshot Time:** 2026-10-22T04:37:20Z
+**Total Repositories:** 11
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [storytold/artcraft](https://github.com/storytold/artcraft)
-
-ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 34,640 |
-| Forks | 5,485 |
-| Stars this week | 10,287 |
-
----
-
-## 2. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+## 1. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 
 Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,956 |
-| Forks | 849 |
-| Stars this week | 2,640 |
+| Stars | 12,455 |
+| Forks | 878 |
+| Stars this week | 2,833 |
+
+---
+
+## 2. [storytold/artcraft](https://github.com/storytold/artcraft)
+
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 35,239 |
+| Forks | 5,585 |
+| Stars this week | 8,079 |
 
 ---
 
@@ -41,99 +41,112 @@ Local-first search engine and MCP server for AI agents. One Rust binary indexes 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,481 |
-| Forks | 749 |
-| Stars this week | 8,074 |
+| Stars | 12,853 |
+| Forks | 817 |
+| Stars this week | 8,731 |
 
 ---
 
-## 4. [trymirai/uzu](https://github.com/trymirai/uzu)
+## 4. [oven-sh/bun](https://github.com/oven-sh/bun) 🆕
+
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 96,339 |
+| Forks | 5,129 |
+| Stars this week | 180 |
+
+---
+
+## 5. [trymirai/uzu](https://github.com/trymirai/uzu)
 
 A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,459 |
-| Forks | 148 |
-| Stars this week | 175 |
+| Stars | 2,523 |
+| Forks | 145 |
+| Stars this week | 151 |
 
 ---
 
-## 5. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect) 🆕
+## 6. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
 
 AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,346 |
-| Forks | 159 |
-| Stars this week | 372 |
+| Stars | 1,359 |
+| Forks | 160 |
+| Stars this week | 388 |
 
 ---
 
-## 6. [storytold/artcraftx](https://github.com/storytold/artcraftx)
+## 7. [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun) 🆕
 
-ArtCraft-X
+OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 984 |
-| Forks | 859 |
-| Stars this week | 226 |
+| Stars | 2,905 |
+| Forks | 276 |
+| Stars this week | 452 |
 
 ---
 
-## 7. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+## 8. [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) 🆕
 
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,377 |
-| Forks | 396 |
-| Stars this week | 404 |
+| Stars | 1,063 |
+| Forks | 108 |
+| Stars this week | 286 |
 
 ---
 
-## 8. [vosen/ZLUDA](https://github.com/vosen/ZLUDA) 🆕
+## 9. [koharu-rs/koharu](https://github.com/koharu-rs/koharu) 🆕
 
-CUDA on non-NVIDIA GPUs
+ML-powered manga translator, written in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,118 |
-| Forks | 963 |
-| Stars this week | 116 |
+| Stars | 6,449 |
+| Forks | 463 |
+| Stars this week | 192 |
 
 ---
 
-## 9. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) 🆕
+## 10. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
 
 Object-storage native graph database with branching and typed ontology
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,538 |
+| Stars | 1,625 |
 | Forks | 235 |
-| Stars this week | 254 |
+| Stars this week | 316 |
 
 ---
 
-## 10. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
+## 11. [googleworkspace/cli](https://github.com/googleworkspace/cli) 🆕
 
-Empowering everyone to build reliable and efficient software.
+Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 120,615 |
-| Forks | 18,659 |
-| Stars this week | 1,273 |
+| Stars | 31,767 |
+| Forks | 1,946 |
+| Stars this week | 278 |
 
 ---

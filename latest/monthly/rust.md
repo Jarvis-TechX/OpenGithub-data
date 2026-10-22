@@ -1,7 +1,7 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-21T04:40:17Z
+**Snapshot Time:** 2026-10-22T04:37:41Z
 **Total Repositories:** 21
 **New Entries:** 2
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,833 |
-| Forks | 1,792 |
-| Stars this month | 8,173 |
+| Stars | 17,042 |
+| Forks | 1,814 |
+| Stars this month | 8,303 |
 
 ---
 
@@ -28,9 +28,9 @@ The design language that makes your AI harness better at design.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 83,950 |
-| Forks | 5,029 |
-| Stars this month | 14,636 |
+| Stars | 84,531 |
+| Forks | 5,052 |
+| Stars this month | 15,078 |
 
 ---
 
@@ -41,9 +41,9 @@ Rust GUI components for building fantastic cross-platform desktop application by
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,431 |
-| Forks | 1,118 |
-| Stars this month | 3,937 |
+| Stars | 18,480 |
+| Forks | 1,123 |
+| Stars this month | 3,959 |
 
 ---
 
@@ -54,9 +54,9 @@ Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchma
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 30,459 |
-| Forks | 2,201 |
-| Stars this month | 5,579 |
+| Stars | 30,603 |
+| Forks | 2,216 |
+| Stars this month | 5,155 |
 
 ---
 
@@ -67,9 +67,9 @@ Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchma
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 27,399 |
+| Stars | 27,498 |
 | Forks | 2,455 |
-| Stars this month | 7,328 |
+| Stars this month | 7,295 |
 
 ---
 
@@ -80,9 +80,9 @@ A refreshingly simple data-driven game engine built in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 49,168 |
-| Forks | 4,951 |
-| Stars this month | 982 |
+| Stars | 49,195 |
+| Forks | 4,955 |
+| Stars this month | 992 |
 
 ---
 
@@ -93,74 +93,74 @@ Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Ru
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 19,918 |
-| Forks | 565 |
-| Stars this month | 18,093 |
+| Stars | 19,979 |
+| Forks | 532 |
+| Stars this month | 18,277 |
 
 ---
 
-## 8. [hydra-db/hydradb](https://github.com/hydra-db/hydradb)
-
-HydraDB - fast graph database on object storage
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 13,061 |
-| Forks | 5,417 |
-| Stars this month | 9,963 |
-
----
-
-## 9. [xerj-org/xerj](https://github.com/xerj-org/xerj)
+## 8. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
 Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,481 |
-| Forks | 749 |
-| Stars this month | 10,247 |
+| Stars | 12,853 |
+| Forks | 817 |
+| Stars this month | 10,966 |
 
 ---
 
-## 10. [microsoft/mxc](https://github.com/microsoft/mxc)
-
-Policy-driven, layered isolation and containment
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,941 |
-| Forks | 160 |
-| Stars this month | 1,599 |
-
----
-
-## 11. [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+## 9. [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
 A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 152,796 |
-| Forks | 10,969 |
-| Stars this month | 7,793 |
+| Stars | 153,040 |
+| Forks | 10,986 |
+| Stars this month | 7,600 |
 
 ---
 
-## 12. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+## 10. [hydra-db/hydradb](https://github.com/hydra-db/hydradb)
 
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+HydraDB - fast graph database on object storage
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,956 |
-| Forks | 849 |
-| Stars this month | 4,626 |
+| Stars | 13,062 |
+| Forks | 5,414 |
+| Stars this month | 9,523 |
+
+---
+
+## 11. [microsoft/mxc](https://github.com/microsoft/mxc)
+
+Policy-driven, layered isolation and containment
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 2,952 |
+| Forks | 161 |
+| Stars this month | 1,610 |
+
+---
+
+## 12. [trymirai/uzu](https://github.com/trymirai/uzu) 🆕
+
+A high-performance inference engine for AI models
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 2,523 |
+| Forks | 145 |
+| Stars this month | 668 |
 
 ---
 
@@ -171,61 +171,61 @@ An open-source remote desktop application designed for self-hosting, as an alter
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 126,470 |
-| Forks | 19,880 |
-| Stars this month | 2,902 |
+| Stars | 126,559 |
+| Forks | 19,905 |
+| Stars this month | 2,905 |
 
 ---
 
-## 14. [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh)
-
-Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 1,212 |
-| Forks | 69 |
-| Stars this month | 488 |
-
----
-
-## 15. [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
+## 14. [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
 
 Empowering everyone to host fast and efficient Minecraft servers
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,552 |
-| Forks | 940 |
-| Stars this month | 1,314 |
+| Stars | 12,569 |
+| Forks | 943 |
+| Stars this month | 1,315 |
 
 ---
 
-## 16. [rust-lang/rust](https://github.com/rust-lang/rust)
+## 15. [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh)
 
-Empowering everyone to build reliable and efficient software.
+Fast, open-source SSH client and server manager for macOS, Windows and Linux. Desktop GUI and terminal TUI with a live metrics dashboard, tabbed terminal, SFTP file manager, port forwarding, one-click SSH keys and snippets. Built in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 120,615 |
-| Forks | 18,659 |
-| Stars this month | 2,720 |
+| Stars | 1,216 |
+| Forks | 69 |
+| Stars this month | 488 |
 
 ---
 
-## 17. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
+## 16. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
 
 A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,610 |
-| Forks | 533 |
-| Stars this month | 1,764 |
+| Stars | 6,659 |
+| Forks | 538 |
+| Stars this month | 1,791 |
+
+---
+
+## 17. [rust-lang/rust](https://github.com/rust-lang/rust)
+
+Empowering everyone to build reliable and efficient software.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 120,648 |
+| Forks | 18,722 |
+| Stars this month | 2,751 |
 
 ---
 
@@ -236,47 +236,47 @@ A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-ac
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,377 |
-| Forks | 396 |
-| Stars this month | 1,247 |
+| Stars | 3,428 |
+| Forks | 402 |
+| Stars this month | 1,252 |
 
 ---
 
-## 19. [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+## 19. [pydantic/monty](https://github.com/pydantic/monty) 🆕
+
+A secure Python sandbox, written in Rust, for code written by AI.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 8,749 |
+| Forks | 468 |
+| Stars this month | 525 |
+
+---
+
+## 20. [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 
 Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 45,384 |
-| Forks | 6,453 |
-| Stars this month | 1,953 |
+| Stars | 45,395 |
+| Forks | 6,458 |
+| Stars this month | 1,942 |
 
 ---
 
-## 20. [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown) 🆕
+## 21. [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
 
 Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,821 |
-| Forks | 284 |
-| Stars this month | 1,732 |
-
----
-
-## 21. [confeden/Antigravity](https://github.com/confeden/Antigravity) 🆕
-
-Antigravity в России без VPN и смены региона аккаунта Google
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 953 |
-| Forks | 57 |
-| Stars this month | 388 |
+| Stars | 4,859 |
+| Forks | 286 |
+| Stars this month | 1,755 |
 
 ---

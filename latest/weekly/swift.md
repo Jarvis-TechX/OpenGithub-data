@@ -1,10 +1,10 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-21T04:40:04Z
-**Total Repositories:** 12
+**Snapshot Time:** 2026-10-22T04:37:28Z
+**Total Repositories:** 16
 **New Entries:** 6
-**Quality Score:** 100.00/100
+**Quality Score:** 97.50/100
 
 ---
 
@@ -15,9 +15,9 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,154 |
-| Forks | 674 |
-| Stars this week | 4,168 |
+| Stars | 13,316 |
+| Forks | 705 |
+| Stars this week | 2,898 |
 
 ---
 
@@ -28,9 +28,9 @@ Run iOS apps without actually installing them!
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,246 |
-| Forks | 1,207 |
-| Stars this week | 541 |
+| Stars | 13,291 |
+| Forks | 1,215 |
+| Stars this week | 548 |
 
 ---
 
@@ -41,125 +41,175 @@ Fastest and only macOS Dictation app with on-device STT and custom trained AI en
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,328 |
+| Stars | 12,359 |
 | Forks | 896 |
-| Stars this week | 295 |
+| Stars this week | 271 |
 
 ---
 
-## 4. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
-
-An an app that installs Sidestore on iOS 27, fully on-device
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,130 |
-| Forks | 92 |
-| Stars this week | 109 |
-
----
-
-## 5. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
-
-AltStore is an alternative app store for non-jailbroken iOS devices.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 14,703 |
-| Forks | 1,640 |
-| Stars this week | 159 |
-
----
-
-## 6. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
-
-Telegram-iOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,322 |
-| Forks | 3,099 |
-| Stars this week | 114 |
-
----
-
-## 7. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) 🆕
-
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 28,312 |
-| Forks | 2,563 |
-| Stars this week | 207 |
-
----
-
-## 8. [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac) 🆕
-
-Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7)
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 269 |
-| Forks | 17 |
-| Stars this week | 117 |
-
----
-
-## 9. [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) 🆕
-
-Straightforward, type-safe argument parsing for Swift
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 3,793 |
-| Forks | 429 |
-| Stars this week | 6 |
-
----
-
-## 10. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA) 🆕
-
-A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,139 |
-| Forks | 188 |
-| Stars this week | 225 |
-
----
-
-## 11. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) 🆕
+## 4. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use)
 
 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,587 |
-| Forks | 241 |
-| Stars this week | 168 |
+| Stars | 2,615 |
+| Forks | 244 |
+| Stars this week | 188 |
 
 ---
 
-## 12. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
+## 5. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
 
-A command-line tool and Xcode Extension for formatting Swift code
+Telegram-iOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,937 |
-| Forks | 722 |
-| Stars this week | 10 |
+| Stars | 9,325 |
+| Forks | 3,108 |
+| Stars this week | 116 |
+
+---
+
+## 6. [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac)
+
+Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7)
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 276 |
+| Forks | 17 |
+| Stars this week | 94 |
+
+---
+
+## 7. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
+
+AltStore is an alternative app store for non-jailbroken iOS devices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,708 |
+| Forks | 1,644 |
+| Stars this week | 143 |
+
+---
+
+## 8. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+
+An an app that installs Sidestore on iOS 27, fully on-device
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,143 |
+| Forks | 92 |
+| Stars this week | 99 |
+
+---
+
+## 9. [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) 🆕
+
+Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 5,836 |
+| Forks | 380 |
+| Stars this week | 504 |
+
+---
+
+## 10. [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser)
+
+Straightforward, type-safe argument parsing for Swift
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,794 |
+| Forks | 427 |
+| Stars this week | 6 |
+
+---
+
+## 11. [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,178 |
+| Forks | 153 |
+| Stars this week | 48 |
+
+---
+
+## 12. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) 🆕
+
+Manga reading app for iOS, iPadOS, and macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,652 |
+| Forks | 310 |
+| Stars this week | 35 |
+
+---
+
+## 13. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
+
+A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,152 |
+| Forks | 190 |
+| Stars this week | 243 |
+
+---
+
+## 14. [tisfeng/Easydict](https://github.com/tisfeng/Easydict) 🆕
+
+一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 15,029 |
+| Forks | 791 |
+| Stars this week | 85 |
+
+---
+
+## 15. [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) 🆕
+
+Elegant HTTP Networking in Swift
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 42,395 |
+| Forks | 7,653 |
+| Stars this week | 9 |
+
+---
+
+## 16. [sarensw/MacPacker](https://github.com/sarensw/MacPacker) 🆕
+
+Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,330 |
+| Forks | 55 |
+| Stars this week | 87 |
 
 ---
