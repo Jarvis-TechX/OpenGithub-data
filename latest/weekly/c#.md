@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-22T04:37:26Z
-**Total Repositories:** 21
-**New Entries:** 6
-**Quality Score:** 98.10/100
+**Snapshot Time:** 2026-10-23T04:42:56Z
+**Total Repositories:** 20
+**New Entries:** 3
+**Quality Score:** 98.00/100
 
 ---
 
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,822 |
-| Forks | 1,584 |
-| Stars this week | 684 |
+| Stars | 20,928 |
+| Forks | 1,596 |
+| Stars this week | 433 |
 
 ---
 
@@ -28,253 +28,240 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,291 |
-| Forks | 1,585 |
-| Stars this week | 350 |
+| Stars | 15,337 |
+| Forks | 1,590 |
+| Stars this week | 354 |
 
 ---
 
-## 3. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,879 |
-| Forks | 240 |
-| Stars this week | 212 |
-
----
-
-## 4. [slskd/slskd](https://github.com/slskd/slskd)
+## 3. [slskd/slskd](https://github.com/slskd/slskd)
 
 A modern client-server application for the Soulseek file sharing network.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,161 |
+| Stars | 4,173 |
 | Forks | 185 |
-| Stars this week | 102 |
+| Stars this week | 96 |
 
 ---
 
-## 5. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 4. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
 PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 55,897 |
-| Forks | 8,508 |
+| Stars | 55,919 |
+| Forks | 8,509 |
 | Stars this week | 196 |
 
 ---
 
-## 6. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) 🆕
-
-PCL 社区版 由社区开发者维护与管理
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,731 |
-| Forks | 345 |
-| Stars this week | 332 |
-
----
-
-## 7. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
+## 5. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
 
 A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,753 |
-| Forks | 65 |
-| Stars this week | 852 |
+| Stars | 2,847 |
+| Forks | 68 |
+| Stars this week | 908 |
 
 ---
 
-## 8. [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
-
-Application designed to optimize, customize and enhance your Windows experience.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,179 |
-| Forks | 667 |
-| Stars this week | 529 |
-
----
-
-## 9. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
+## 6. [ShareX/ShareX](https://github.com/ShareX/ShareX)
 
 ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,297 |
-| Forks | 3,987 |
-| Stars this week | 248 |
+| Stars | 40,328 |
+| Forks | 3,991 |
+| Stars this week | 252 |
 
 ---
 
-## 10. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 7. [ggml-org/Llama-Windows](https://github.com/ggml-org/Llama-Windows) 🆕
+
+Windows Llama App Companion
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 269 |
+| Forks | 28 |
+| Stars this week | 117 |
+
+---
+
+## 8. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,895 |
+| Forks | 242 |
+| Stars this week | 210 |
+
+---
+
+## 9. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
 A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,943 |
-| Forks | 60 |
-| Stars this week | 150 |
+| Stars | 1,956 |
+| Forks | 61 |
+| Stars this week | 146 |
 
 ---
 
-## 11. [bitwarden/server](https://github.com/bitwarden/server)
-
-Bitwarden infrastructure/backend (API, database, Docker, etc).
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 20,443 |
-| Forks | 1,811 |
-| Stars this week | 143 |
-
----
-
-## 12. [dotnet/skills](https://github.com/dotnet/skills)
-
-Repository for skills to assist AI coding agents with .NET and C#
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,697 |
-| Forks | 444 |
-| Stars this week | 65 |
-
----
-
-## 13. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+## 10. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
 
 the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,663 |
-| Forks | 1,339 |
-| Stars this week | 115 |
+| Stars | 14,683 |
+| Forks | 1,340 |
+| Stars this week | 114 |
 
 ---
 
-## 14. [madoiscool/LuaTools](https://github.com/madoiscool/LuaTools)
+## 11. [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
+
+Application designed to optimize, customize and enhance your Windows experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,228 |
+| Forks | 672 |
+| Stars this week | 500 |
+
+---
+
+## 12. [greenshot/greenshot](https://github.com/greenshot/greenshot) 🆕
+
+Greenshot for Windows - for more information look here:
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,205 |
+| Forks | 713 |
+| Stars this week | 32 |
+
+---
+
+## 13. [madoiscool/LuaTools](https://github.com/madoiscool/LuaTools)
 
 AppID Manager for ST
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 802 |
-| Forks | 76 |
-| Stars this week | 100 |
+| Stars | 807 |
+| Forks | 78 |
+| Stars this week | 98 |
 
 ---
 
-## 15. [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) 🆕
+## 14. [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node)
 
 Windows companion suite for OpenClaw
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,166 |
-| Forks | 321 |
-| Stars this week | 16 |
+| Stars | 2,170 |
+| Forks | 323 |
+| Stars this week | 21 |
 
 ---
 
-## 16. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) 🆕
-
-B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,068 |
-| Forks | 1,921 |
-| Stars this week | 70 |
-
----
-
-## 17. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
-
-Smart PVR for newsgroup and bittorrent users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,368 |
-| Forks | 2,050 |
-| Stars this week | 266 |
-
----
-
-## 18. [Tichau/FileConverter](https://github.com/Tichau/FileConverter) 🆕
+## 15. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
 
 File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,453 |
+| Stars | 15,472 |
 | Forks | 943 |
-| Stars this week | 89 |
+| Stars this week | 91 |
 
 ---
 
-## 19. [seerge/g-helper](https://github.com/seerge/g-helper) 🆕
+## 16. [seerge/g-helper](https://github.com/seerge/g-helper)
 
 Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,694 |
-| Forks | 635 |
-| Stars this week | 131 |
+| Stars | 15,701 |
+| Forks | 638 |
+| Stars this week | 125 |
 
 ---
 
-## 20. [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)
+## 17. [bitwarden/server](https://github.com/bitwarden/server)
 
-Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+Bitwarden infrastructure/backend (API, database, Docker, etc).
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,308 |
-| Forks | 697 |
-| Stars this week | 108 |
+| Stars | 20,456 |
+| Forks | 1,812 |
+| Stars this week | 145 |
 
 ---
 
-## 21. [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
+## 18. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
+
+Smart PVR for newsgroup and bittorrent users.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 17,381 |
+| Forks | 2,052 |
+| Stars this week | 251 |
+
+---
+
+## 19. [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
 
 A manager for game achievements in Steam.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,278 |
-| Forks | 916 |
+| Stars | 9,286 |
+| Forks | 917 |
 | Stars this week | 45 |
+
+---
+
+## 20. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
+
+Windows/macOS/Linux GUI client for GIT users
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,219 |
+| Forks | 556 |
+| Stars this week | 68 |
 
 ---

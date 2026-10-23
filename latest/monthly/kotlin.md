@@ -1,7 +1,7 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-22T04:37:47Z
+**Snapshot Time:** 2026-10-23T04:43:15Z
 **Total Repositories:** 16
 **New Entries:** 1
 **Quality Score:** 97.50/100
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,166 |
-| Forks | 591 |
-| Stars this month | 1,690 |
+| Stars | 9,274 |
+| Forks | 593 |
+| Stars this month | 1,783 |
 
 ---
 
@@ -26,9 +26,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,497 |
-| Forks | 4,596 |
-| Stars this month | 1,057 |
+| Stars | 19,526 |
+| Forks | 4,631 |
+| Stars this month | 1,072 |
 
 ---
 
@@ -39,9 +39,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,029 |
-| Forks | 390 |
-| Stars this month | 2,633 |
+| Stars | 4,122 |
+| Forks | 399 |
+| Stars this month | 2,715 |
 
 ---
 
@@ -52,9 +52,9 @@ GhostLock One-Tap Execution App (CVE-2026-43499)
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,158 |
-| Forks | 540 |
-| Stars this month | 1,162 |
+| Stars | 2,188 |
+| Forks | 547 |
+| Stars this month | 1,184 |
 
 ---
 
@@ -65,9 +65,9 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 25,060 |
-| Forks | 2,764 |
-| Stars this month | 374 |
+| Stars | 25,069 |
+| Forks | 2,765 |
+| Stars this month | 379 |
 
 ---
 
@@ -78,9 +78,9 @@ Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 665 |
-| Forks | 198 |
-| Stars this month | 320 |
+| Stars | 667 |
+| Forks | 200 |
+| Stars this month | 306 |
 
 ---
 
@@ -91,61 +91,61 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 12,273 |
-| Forks | 685 |
-| Stars this month | 962 |
+| Stars | 12,298 |
+| Forks | 688 |
+| Stars this month | 964 |
 
 ---
 
-## 8. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
-
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 43,170 |
-| Forks | 2,057 |
-| Stars this month | 1,242 |
-
----
-
-## 9. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
+## 8. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
 
 DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,355 |
-| Forks | 405 |
-| Stars this month | 725 |
+| Stars | 4,379 |
+| Forks | 406 |
+| Stars this month | 741 |
 
 ---
 
-## 10. [open-ani/animeko](https://github.com/open-ani/animeko)
+## 9. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
-集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 21,130 |
-| Forks | 622 |
-| Stars this month | 1,016 |
+| Stars | 43,230 |
+| Forks | 2,061 |
+| Stars this month | 1,272 |
 
 ---
 
-## 11. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) 🆕
+## 10. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
 
 Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 617 |
-| Forks | 145 |
-| Stars this month | 175 |
+| Stars | 626 |
+| Forks | 148 |
+| Stars this month | 183 |
+
+---
+
+## 11. [open-ani/animeko](https://github.com/open-ani/animeko)
+
+集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 21,152 |
+| Forks | 625 |
+| Stars this month | 1,018 |
 
 ---
 
@@ -156,9 +156,9 @@ A Download Manager that speeds up your downloads
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,724 |
-| Forks | 970 |
-| Stars this month | 796 |
+| Stars | 18,740 |
+| Forks | 973 |
+| Stars this month | 806 |
 
 ---
 
@@ -169,9 +169,9 @@ A V2Ray client for Android, support Xray core and v2fly core
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 64,423 |
-| Forks | 8,357 |
-| Stars this month | 1,717 |
+| Stars | 64,494 |
+| Forks | 8,370 |
+| Stars this month | 1,736 |
 
 ---
 
@@ -182,22 +182,22 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,618 |
-| Forks | 1,364 |
-| Stars this month | 351 |
+| Stars | 6,627 |
+| Forks | 1,367 |
+| Stars this month | 353 |
 
 ---
 
-## 15. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 15. [AndyShaman/BYDMate](https://github.com/AndyShaman/BYDMate) 🆕
 
-✨一个安卓网盘解析下载app✨
+BYD DiLink app (3.0/5.0/5.1, UI7): split screen 1/3+2/3, navigation on instrument cluster, Yandex Navigator on HUD, blind-spot cameras, Russian voice AI agent, real BMS consumption, trips/charges journal, automation, ABRP telemetry. EVs and DM-i/DM-o hybrids: Leopard 3 / Bao 3, Leopard 5, Sea Lion 07, Song, Song Pro DM-i, Atto 3.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,117 |
-| Forks | 255 |
-| Stars this month | 2,034 |
+| Stars | 437 |
+| Forks | 89 |
+| Stars this month | 131 |
 
 ---
 
@@ -208,8 +208,8 @@ A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 842 |
-| Forks | 142 |
-| Stars this month | 461 |
+| Stars | 866 |
+| Forks | 144 |
+| Stars this month | 464 |
 
 ---

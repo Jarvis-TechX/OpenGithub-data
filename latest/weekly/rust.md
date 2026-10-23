@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-22T04:37:20Z
-**Total Repositories:** 11
-**New Entries:** 5
+**Snapshot Time:** 2026-10-23T04:42:50Z
+**Total Repositories:** 10
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,138 +15,125 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,455 |
-| Forks | 878 |
-| Stars this week | 2,833 |
+| Stars | 12,831 |
+| Forks | 899 |
+| Stars this week | 3,322 |
 
 ---
 
-## 2. [storytold/artcraft](https://github.com/storytold/artcraft)
-
-ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 35,239 |
-| Forks | 5,585 |
-| Stars this week | 8,079 |
-
----
-
-## 3. [xerj-org/xerj](https://github.com/xerj-org/xerj)
+## 2. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
 Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,853 |
-| Forks | 817 |
-| Stars this week | 8,731 |
+| Stars | 13,171 |
+| Forks | 946 |
+| Stars this week | 8,064 |
 
 ---
 
-## 4. [oven-sh/bun](https://github.com/oven-sh/bun) 🆕
+## 3. [oven-sh/bun](https://github.com/oven-sh/bun)
 
 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 96,339 |
-| Forks | 5,129 |
-| Stars this week | 180 |
+| Stars | 96,357 |
+| Forks | 5,106 |
+| Stars this week | 191 |
 
 ---
 
-## 5. [trymirai/uzu](https://github.com/trymirai/uzu)
-
-A high-performance inference engine for AI models
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,523 |
-| Forks | 145 |
-| Stars this week | 151 |
-
----
-
-## 6. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
+## 4. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
 
 AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,359 |
-| Forks | 160 |
-| Stars this week | 388 |
+| Stars | 1,364 |
+| Forks | 163 |
+| Stars this week | 378 |
 
 ---
 
-## 7. [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun) 🆕
+## 5. [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun)
 
 OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,905 |
-| Forks | 276 |
-| Stars this week | 452 |
+| Stars | 3,054 |
+| Forks | 277 |
+| Stars this week | 639 |
 
 ---
 
-## 8. [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native) 🆕
+## 6. [trymirai/uzu](https://github.com/trymirai/uzu)
 
-Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
+A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,063 |
-| Forks | 108 |
-| Stars this week | 286 |
+| Stars | 2,543 |
+| Forks | 146 |
+| Stars this week | 198 |
 
 ---
 
-## 9. [koharu-rs/koharu](https://github.com/koharu-rs/koharu) 🆕
-
-ML-powered manga translator, written in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 6,449 |
-| Forks | 463 |
-| Stars this week | 192 |
-
----
-
-## 10. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
-
-Object-storage native graph database with branching and typed ontology
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 1,625 |
-| Forks | 235 |
-| Stars this week | 316 |
-
----
-
-## 11. [googleworkspace/cli](https://github.com/googleworkspace/cli) 🆕
+## 7. [googleworkspace/cli](https://github.com/googleworkspace/cli)
 
 Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,767 |
-| Forks | 1,946 |
-| Stars this week | 278 |
+| Stars | 31,800 |
+| Forks | 1,949 |
+| Stars this week | 275 |
+
+---
+
+## 8. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+
+Object-storage native graph database with branching and typed ontology
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,673 |
+| Forks | 237 |
+| Stars this week | 378 |
+
+---
+
+## 9. [storytold/artcraft](https://github.com/storytold/artcraft)
+
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 35,678 |
+| Forks | 5,643 |
+| Stars this week | 6,721 |
+
+---
+
+## 10. [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) 🆕
+
+The unified toolchain and entry point for web development.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 6,450 |
+| Forks | 296 |
+| Stars this week | 225 |
 
 ---

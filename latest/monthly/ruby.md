@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-22T04:37:36Z
-**Total Repositories:** 22
-**New Entries:** 3
+**Snapshot Time:** 2026-10-23T04:43:05Z
+**Total Repositories:** 21
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Ruby on Rails
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 58,841 |
-| Forks | 25,271 |
-| Stars this month | 179 |
+| Stars | 58,850 |
+| Forks | 25,283 |
+| Stars this month | 184 |
 
 ---
 
@@ -28,9 +28,9 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,620 |
-| Forks | 675 |
-| Stars this month | 654 |
+| Stars | 10,631 |
+| Forks | 678 |
+| Stars this month | 649 |
 
 ---
 
@@ -41,61 +41,61 @@ Your self-hosted, globally interconnected microblogging community
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,427 |
+| Stars | 50,432 |
 | Forks | 7,525 |
-| Stars this month | 208 |
+| Stars this month | 207 |
 
 ---
 
-## 4. [antiwork/gumroad](https://github.com/antiwork/gumroad) 🆕
-
-See what sticks
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 10,003 |
-| Forks | 2,094 |
-| Stars this month | 320 |
-
----
-
-## 5. [ruby/ruby](https://github.com/ruby/ruby)
+## 4. [ruby/ruby](https://github.com/ruby/ruby)
 
 The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,784 |
-| Forks | 5,672 |
-| Stars this month | 98 |
+| Stars | 23,791 |
+| Forks | 5,664 |
+| Stars this month | 104 |
 
 ---
 
-## 6. [zammad/zammad](https://github.com/zammad/zammad)
+## 5. [antiwork/gumroad](https://github.com/antiwork/gumroad)
 
-Zammad is a web based open source helpdesk/customer support system.
+See what sticks
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 6,025 |
-| Forks | 1,080 |
-| Stars this month | 100 |
+| Stars | 10,008 |
+| Forks | 2,095 |
+| Stars this month | 319 |
 
 ---
 
-## 7. [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
+## 6. [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
 
 Super simple group chat, without a subscription
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,797 |
-| Forks | 821 |
-| Stars this month | 171 |
+| Stars | 4,801 |
+| Forks | 822 |
+| Stars this month | 169 |
+
+---
+
+## 7. [crmne/ruby_llm](https://github.com/crmne/ruby_llm)
+
+The Ruby AI framework.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 4,483 |
+| Forks | 523 |
+| Stars this month | 88 |
 
 ---
 
@@ -106,22 +106,22 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,545 |
-| Forks | 3,589 |
-| Stars this month | 404 |
+| Stars | 16,571 |
+| Forks | 3,598 |
+| Stars this month | 416 |
 
 ---
 
-## 9. [fastlane/fastlane](https://github.com/fastlane/fastlane)
+## 9. [Homebrew/brew](https://github.com/Homebrew/brew)
 
-🚀 The easiest way to automate building and releasing your iOS and Android apps
+🍺 The Package Manager for Everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 42,278 |
-| Forks | 6,043 |
-| Stars this month | 184 |
+| Stars | 50,084 |
+| Forks | 11,396 |
+| Stars this month | 431 |
 
 ---
 
@@ -132,48 +132,48 @@ A platform for community discussion. Free, open, simple.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 48,002 |
-| Forks | 9,049 |
-| Stars this month | 201 |
+| Stars | 47,995 |
+| Forks | 9,050 |
+| Stars this month | 194 |
 
 ---
 
-## 11. [crmne/ruby_llm](https://github.com/crmne/ruby_llm)
+## 11. [fastlane/fastlane](https://github.com/fastlane/fastlane)
 
-The Ruby AI framework.
+🚀 The easiest way to automate building and releasing your iOS and Android apps
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,480 |
-| Forks | 522 |
-| Stars this month | 89 |
+| Stars | 42,286 |
+| Forks | 6,047 |
+| Stars this month | 190 |
 
 ---
 
-## 12. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 12. [zammad/zammad](https://github.com/zammad/zammad)
 
-🍻 Default casks (upstream binary packages) for the package manager for everywhere
+Zammad is a web based open source helpdesk/customer support system.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,269 |
-| Forks | 12,023 |
-| Stars this month | 76 |
+| Stars | 6,027 |
+| Forks | 1,080 |
+| Stars this month | 93 |
 
 ---
 
-## 13. [Homebrew/brew](https://github.com/Homebrew/brew)
+## 13. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 
-🍺 The Package Manager for Everywhere
+Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,083 |
-| Forks | 11,402 |
-| Stars this month | 427 |
+| Stars | 12,325 |
+| Forks | 595 |
+| Stars this month | 74 |
 
 ---
 
@@ -184,9 +184,9 @@ The Ruby AI framework.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 5,808 |
-| Forks | 1,564 |
-| Stars this month | 48 |
+| Stars | 5,810 |
+| Forks | 1,565 |
+| Stars this month | 47 |
 
 ---
 
@@ -197,39 +197,52 @@ Library packaging and distribution for Ruby.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,981 |
+| Stars | 3,982 |
 | Forks | 1,943 |
-| Stars this month | 22 |
+| Stars this month | 23 |
 
 ---
 
-## 16. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) 🆕
+## 16. [rubocop/rubocop](https://github.com/rubocop/rubocop) 🆕
 
-Metasploit Framework
+A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,206 |
-| Forks | 14,999 |
-| Stars this month | 242 |
+| Stars | 12,914 |
+| Forks | 3,153 |
+| Stars this month | 20 |
 
 ---
 
-## 17. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+## 17. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
-Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 12,322 |
-| Forks | 595 |
-| Stars this month | 72 |
+| Stars | 22,266 |
+| Forks | 12,025 |
+| Stars this month | 76 |
 
 ---
 
-## 18. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 18. [jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+🌐 Jekyll is a blog-aware static site generator in Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 51,729 |
+| Forks | 10,302 |
+| Stars this month | 106 |
+
+---
+
+## 19. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -241,20 +254,7 @@ A collection of RBS for gems.
 
 ---
 
-## 19. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
-
-A database of vulnerable Ruby Gems
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 1,076 |
-| Forks | 249 |
-| Stars this month | 5 |
-
----
-
-## 20. [CMSgov/price-transparency-guide](https://github.com/CMSgov/price-transparency-guide) 🆕
+## 20. [CMSgov/price-transparency-guide](https://github.com/CMSgov/price-transparency-guide)
 
 The technical implementation guide for the tri-departmental price transparency rule.
 
@@ -267,28 +267,15 @@ The technical implementation guide for the tri-departmental price transparency r
 
 ---
 
-## 21. [jekyll/jekyll](https://github.com/jekyll/jekyll)
+## 21. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
 
-🌐 Jekyll is a blog-aware static site generator in Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 51,724 |
-| Forks | 10,302 |
-| Stars this month | 102 |
-
----
-
-## 22. [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-
-The Rails application that powers OpenStreetMap
+A database of vulnerable Ruby Gems
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,859 |
-| Forks | 1,100 |
-| Stars this month | 32 |
+| Stars | 1,076 |
+| Forks | 249 |
+| Stars this month | 5 |
 
 ---

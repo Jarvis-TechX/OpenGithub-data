@@ -1,7 +1,7 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-22T04:37:33Z
+**Snapshot Time:** 2026-10-23T04:43:02Z
 **Total Repositories:** 18
 **New Entries:** 2
 **Quality Score:** 97.78/100
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 37,020 |
-| Forks | 2,304 |
-| Stars this month | 16,694 |
+| Stars | 39,920 |
+| Forks | 2,492 |
+| Stars this month | 18,566 |
 
 ---
 
@@ -28,9 +28,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 285,841 |
-| Forks | 42,400 |
-| Stars this month | 22,531 |
+| Stars | 286,650 |
+| Forks | 42,521 |
+| Stars this month | 22,715 |
 
 ---
 
@@ -41,22 +41,22 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 109,373 |
-| Forks | 11,408 |
-| Stars this month | 11,658 |
+| Stars | 109,708 |
+| Forks | 11,444 |
+| Stars this month | 11,681 |
 
 ---
 
-## 4. [vercel/next.js](https://github.com/vercel/next.js)
+## 4. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
 
-The React Framework
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 143,129 |
-| Forks | 34,887 |
-| Stars this month | 1,621 |
+| Stars | 101,216 |
+| Forks | 6,838 |
+| Stars this month | 12,311 |
 
 ---
 
@@ -67,9 +67,9 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 14,541 |
-| Forks | 1,867 |
-| Stars this month | 13,310 |
+| Stars | 14,983 |
+| Forks | 1,951 |
+| Stars this month | 13,705 |
 
 ---
 
@@ -80,162 +80,162 @@ Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent version
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,254 |
-| Forks | 301 |
-| Stars this month | 2,725 |
+| Stars | 3,310 |
+| Forks | 307 |
+| Stars this month | 2,773 |
 
 ---
 
-## 7. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
-
-List of Permanent Free LLM API (API Keys)
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 10,927 |
-| Forks | 1,221 |
-| Stars this month | 2,959 |
-
----
-
-## 8. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 7. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 26,945 |
-| Forks | 1,786 |
-| Stars this month | 6,378 |
+| Stars | 27,178 |
+| Forks | 1,804 |
+| Stars this month | 6,586 |
 
 ---
 
-## 9. [hughhowey/neo](https://github.com/hughhowey/neo)
+## 8. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
+
+List of Permanent Free LLM API (API Keys)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 11,013 |
+| Forks | 1,233 |
+| Stars this month | 2,950 |
+
+---
+
+## 9. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 7,229 |
+| Forks | 1,164 |
+| Stars this month | 2,716 |
+
+---
+
+## 10. [hughhowey/neo](https://github.com/hughhowey/neo)
 
 A novel-writing tool created by a novelist.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,543 |
-| Forks | 207 |
-| Stars this month | 1,102 |
+| Stars | 1,552 |
+| Forks | 209 |
+| Stars this month | 1,113 |
 
 ---
 
-## 10. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 7,093 |
-| Forks | 1,147 |
-| Stars this month | 2,478 |
-
----
-
-## 11. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
-
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 171,967 |
-| Forks | 9,356 |
-| Stars this month | 28,665 |
-
----
-
-## 12. [mrdoob/three.js](https://github.com/mrdoob/three.js)
+## 11. [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 JavaScript 3D Library.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 116,748 |
-| Forks | 36,728 |
-| Stars this month | 1,340 |
+| Stars | 116,803 |
+| Forks | 36,698 |
+| Stars this month | 1,342 |
 
 ---
 
-## 13. [byoungd/up](https://github.com/byoungd/up)
+## 12. [byoungd/up](https://github.com/byoungd/up)
 
-韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
+中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,135 |
-| Forks | 6,871 |
-| Stars this month | 6,056 |
+| Stars | 69,214 |
+| Forks | 6,874 |
+| Stars this month | 5,935 |
 
 ---
 
-## 14. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
+## 13. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
 
 Vercel's official collection of agent skills
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 32,781 |
-| Forks | 2,864 |
-| Stars this month | 1,431 |
+| Stars | 32,844 |
+| Forks | 2,872 |
+| Stars this month | 1,461 |
 
 ---
 
-## 15. [spicetify/cli](https://github.com/spicetify/cli)
+## 14. [vercel/next.js](https://github.com/vercel/next.js)
 
-Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
+The React Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 25,153 |
-| Forks | 988 |
-| Stars this month | 652 |
+| Stars | 143,194 |
+| Forks | 34,875 |
+| Stars this month | 1,667 |
 
 ---
 
-## 16. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free)
+## 15. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 
-免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,951 |
-| Forks | 906 |
-| Stars this month | 3,769 |
+| Stars | 173,782 |
+| Forks | 9,463 |
+| Stars this month | 30,058 |
 
 ---
 
-## 17. [qist/tvbox](https://github.com/qist/tvbox)
+## 16. [qist/tvbox](https://github.com/qist/tvbox)
 
 OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,179 |
-| Forks | 4,289 |
-| Stars this month | 807 |
+| Stars | 12,211 |
+| Forks | 4,301 |
+| Stars this month | 831 |
 
 ---
 
-## 18. [axios/axios](https://github.com/axios/axios) 🆕
+## 17. [spicetify/cli](https://github.com/spicetify/cli)
 
-Promise based HTTP client for the browser and node.js
+Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 109,303 |
-| Forks | 11,937 |
-| Stars this month | 378 |
+| Stars | 25,177 |
+| Forks | 993 |
+| Stars this month | 661 |
+
+---
+
+## 18. [nodejs/node](https://github.com/nodejs/node) 🆕
+
+Node.js JavaScript runtime ✨🐢🚀✨
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 122,574 |
+| Forks | 39,925 |
+| Stars this month | 1,580 |
 
 ---

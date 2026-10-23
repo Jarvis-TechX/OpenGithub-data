@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-22T04:37:13Z
-**Total Repositories:** 10
-**New Entries:** 1
-**Quality Score:** 96.00/100
+**Snapshot Time:** 2026-10-23T04:42:44Z
+**Total Repositories:** 9
+**New Entries:** 2
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,9 +15,9 @@ Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent version
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,254 |
-| Forks | 301 |
-| Stars this week | 1,255 |
+| Stars | 3,310 |
+| Forks | 307 |
+| Stars this week | 1,066 |
 
 ---
 
@@ -28,87 +28,87 @@ Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent version
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 26,945 |
-| Forks | 1,786 |
-| Stars this week | 4,714 |
+| Stars | 27,178 |
+| Forks | 1,804 |
+| Stars this week | 4,362 |
 
 ---
 
-## 3. [react/react](https://github.com/react/react)
-
-The library for web and native user interfaces.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 251,626 |
-| Forks | 51,566 |
-| Stars this week | 844 |
-
----
-
-## 4. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
-
-Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 14,541 |
-| Forks | 1,867 |
-| Stars this week | 2,709 |
-
----
-
-## 5. [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
-
-💻 Vibe Coding 101｜Your First Course For AI Product Builders.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 20,097 |
-| Forks | 1,945 |
-| Stars this week | 384 |
-
----
-
-## 6. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
-
-The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 18,598 |
-| Forks | 1,021 |
-| Stars this week | 1,138 |
-
----
-
-## 7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
+## 3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 171,967 |
-| Forks | 9,356 |
-| Stars this week | 8,137 |
+| Stars | 173,782 |
+| Forks | 9,463 |
+| Stars this week | 9,212 |
 
 ---
 
-## 8. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+## 4. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
 
-Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 31,188 |
-| Forks | 5,770 |
-| Stars this week | 842 |
+| Stars | 101,216 |
+| Forks | 6,838 |
+| Stars this week | 4,037 |
+
+---
+
+## 5. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+
+The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 18,850 |
+| Forks | 1,039 |
+| Stars this week | 1,370 |
+
+---
+
+## 6. [react/react](https://github.com/react/react)
+
+The library for web and native user interfaces.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 251,707 |
+| Forks | 51,563 |
+| Stars this week | 876 |
+
+---
+
+## 7. [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
+
+💻 Vibe Coding 101｜Your First Course For AI Product Builders.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 20,123 |
+| Forks | 1,946 |
+| Stars this week | 393 |
+
+---
+
+## 8. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) 🆕
+
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 39,919 |
+| Forks | 2,492 |
+| Stars this week | 9,270 |
 
 ---
 
@@ -119,19 +119,8 @@ DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大�
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,281 |
-| Forks | 364 |
-| Stars this week | 457 |
-
----
-
-## 10. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 7,093 |
-| Forks | 1,147 |
-| Stars this week | 2,191 |
+| Stars | 3,353 |
+| Forks | 387 |
+| Stars this week | 474 |
 
 ---

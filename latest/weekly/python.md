@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-22T04:37:12Z
-**Total Repositories:** 15
-**New Entries:** 5
+**Snapshot Time:** 2026-10-23T04:42:42Z
+**Total Repositories:** 16
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 43,690 |
-| Forks | 4,604 |
-| Stars this week | 5,703 |
+| Stars | 43,941 |
+| Forks | 4,626 |
+| Stars this week | 5,649 |
 
 ---
 
@@ -28,177 +28,190 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 53,644 |
-| Forks | 4,733 |
-| Stars this week | 4,719 |
+| Stars | 53,949 |
+| Forks | 4,761 |
+| Stars this week | 3,967 |
 
 ---
 
-## 3. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 80,673 |
-| Forks | 8,902 |
-| Stars this week | 15,125 |
-
----
-
-## 4. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+## 3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 56,004 |
-| Forks | 5,051 |
-| Stars this week | 3,681 |
+| Stars | 56,306 |
+| Forks | 5,066 |
+| Stars this week | 3,275 |
 
 ---
 
-## 5. [wshobson/agents](https://github.com/wshobson/agents)
+## 4. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
-Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 41,496 |
-| Forks | 4,405 |
-| Stars this week | 785 |
+| Stars | 81,969 |
+| Forks | 9,052 |
+| Stars this week | 13,581 |
 
 ---
 
-## 6. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-
-Give your agent CAD superpowers.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 22,337 |
-| Forks | 2,185 |
-| Stars this week | 2,000 |
-
----
-
-## 7. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+## 5. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 141,651 |
-| Forks | 16,736 |
-| Stars this week | 3,948 |
+| Stars | 142,071 |
+| Forks | 16,754 |
+| Stars this week | 4,375 |
 
 ---
 
-## 8. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
+## 6. [wshobson/agents](https://github.com/wshobson/agents)
 
-Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
+Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 31,921 |
-| Forks | 2,896 |
-| Stars this week | 1,122 |
+| Stars | 41,578 |
+| Forks | 4,410 |
+| Stars this week | 747 |
 
 ---
 
-## 9. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 🆕
-
-利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 133,831 |
-| Forks | 21,136 |
-| Stars this week | 3,129 |
-
----
-
-## 10. [ethanplusai/harvey](https://github.com/ethanplusai/harvey) 🆕
+## 7. [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
 
 Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,011 |
-| Forks | 402 |
-| Stars this week | 1,491 |
+| Stars | 2,163 |
+| Forks | 441 |
+| Stars this week | 1,300 |
 
 ---
 
-## 11. [Kruk2/jasna](https://github.com/Kruk2/jasna)
+## 8. [Kruk2/jasna](https://github.com/Kruk2/jasna)
 
 Video restoration tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,379 |
-| Forks | 255 |
-| Stars this week | 1,337 |
+| Stars | 3,455 |
+| Forks | 262 |
+| Stars this week | 1,422 |
 
 ---
 
-## 12. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) 🆕
+## 9. [sgl-project/sglang](https://github.com/sgl-project/sglang) 🆕
 
-TokenSpeed is a speed-of-light LLM inference engine.
+SGLang is a high-performance serving framework for large language models and multimodal models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,743 |
-| Forks | 364 |
-| Stars this week | 501 |
+| Stars | 37,639 |
+| Forks | 9,809 |
+| Stars this week | 505 |
 
 ---
 
-## 13. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 🆕
+## 10. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) 🆕
+
+A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 43,414 |
+| Forks | 5,405 |
+| Stars this week | 982 |
+
+---
+
+## 11. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+
+Give your agent CAD superpowers.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 22,585 |
+| Forks | 2,203 |
+| Stars this week | 1,917 |
+
+---
+
+## 12. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
+利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 134,317 |
+| Forks | 21,237 |
+| Stars this week | 2,907 |
+
+---
+
+## 13. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
 
 Kronos: A Foundation Model for the Language of Financial Markets
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 42,919 |
-| Forks | 7,079 |
-| Stars this week | 1,958 |
+| Stars | 43,241 |
+| Forks | 7,119 |
+| Stars this week | 2,410 |
 
 ---
 
-## 14. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) 🆕
+## 14. [vllm-project/vllm](https://github.com/vllm-project/vllm) 🆕
+
+A high-throughput and memory-efficient inference and serving engine for LLMs
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 95,170 |
+| Forks | 23,816 |
+| Stars this week | 1,341 |
+
+---
+
+## 15. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)
+
+TokenSpeed is a speed-of-light LLM inference engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 2,765 |
+| Forks | 368 |
+| Stars this week | 386 |
+
+---
+
+## 16. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 A feature-rich command-line audio/video downloader
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 200,177 |
-| Forks | 17,452 |
-| Stars this week | 2,330 |
-
----
-
-## 15. [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
-
-Open-source State-of-the-art TTS model which runs on a CPU 😻
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 16,255 |
-| Forks | 971 |
-| Stars this week | 283 |
+| Stars | 200,509 |
+| Forks | 17,485 |
+| Stars this week | 2,510 |
 
 ---

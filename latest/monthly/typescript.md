@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-22T04:37:34Z
-**Total Repositories:** 22
-**New Entries:** 3
-**Quality Score:** 96.36/100
+**Snapshot Time:** 2026-10-23T04:43:03Z
+**Total Repositories:** 20
+**New Entries:** 2
+**Quality Score:** 98.00/100
 
 ---
 
@@ -15,9 +15,9 @@ The open-source app everyone uses to manage agents at work
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 105,759 |
-| Forks | 17,597 |
-| Stars this month | 24,756 |
+| Stars | 106,244 |
+| Forks | 17,665 |
+| Stars this month | 25,127 |
 
 ---
 
@@ -28,9 +28,9 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 69,348 |
-| Forks | 6,284 |
-| Stars this month | 17,177 |
+| Stars | 70,136 |
+| Forks | 6,349 |
+| Stars this month | 17,770 |
 
 ---
 
@@ -41,9 +41,9 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,697 |
-| Forks | 2,182 |
-| Stars this month | 7,915 |
+| Stars | 31,857 |
+| Forks | 2,195 |
+| Stars this month | 8,015 |
 
 ---
 
@@ -54,9 +54,9 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 39,053 |
-| Forks | 5,265 |
-| Stars this month | 11,190 |
+| Stars | 39,700 |
+| Forks | 5,365 |
+| Stars this month | 11,569 |
 
 ---
 
@@ -67,9 +67,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,445 |
-| Forks | 1,337 |
-| Stars this month | 5,135 |
+| Stars | 13,646 |
+| Forks | 1,352 |
+| Stars this month | 5,217 |
 
 ---
 
@@ -78,9 +78,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,198 |
-| Forks | 7,836 |
-| Stars this month | 6,006 |
+| Stars | 29,481 |
+| Forks | 7,909 |
+| Stars this month | 6,208 |
 
 ---
 
@@ -91,22 +91,22 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 102,177 |
-| Forks | 9,001 |
-| Stars this month | 8,248 |
+| Stars | 102,354 |
+| Forks | 9,030 |
+| Stars this month | 8,339 |
 
 ---
 
-## 8. [Effect-TS/effect](https://github.com/Effect-TS/effect)
+## 8. [supabase/supabase](https://github.com/supabase/supabase)
 
-Build production-ready applications in TypeScript
+The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,355 |
-| Forks | 872 |
-| Stars this month | 1,247 |
+| Stars | 113,558 |
+| Forks | 17,009 |
+| Stars this month | 3,043 |
 
 ---
 
@@ -117,9 +117,9 @@ Build production-ready applications in TypeScript
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 66,112 |
-| Forks | 5,294 |
-| Stars this month | 6,232 |
+| Stars | 66,437 |
+| Forks | 5,331 |
+| Stars this month | 6,478 |
 
 ---
 
@@ -130,162 +130,138 @@ The open agent skills tool - npx skills
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 36,008 |
-| Forks | 3,088 |
-| Stars this month | 3,933 |
+| Stars | 36,177 |
+| Forks | 3,103 |
+| Stars this month | 4,002 |
 
 ---
 
-## 11. [supabase/supabase](https://github.com/supabase/supabase) 🆕
+## 11. [Effect-TS/effect](https://github.com/Effect-TS/effect)
 
-The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+Build production-ready applications in TypeScript
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 113,114 |
-| Forks | 16,961 |
-| Stars this month | 2,449 |
+| Stars | 17,360 |
+| Forks | 873 |
+| Stars this month | 1,237 |
 
 ---
 
-## 12. [stablyai/orca](https://github.com/stablyai/orca)
-
-Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 101,610 |
-| Forks | 6,425 |
-| Stars this month | 27,079 |
-
----
-
-## 13. [elie222/rakazo](https://github.com/elie222/rakazo)
+## 12. [elie222/rakazo](https://github.com/elie222/rakazo)
 
 Open-source Grok Bot alternative. Choose your own model and sandbox.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,134 |
-| Forks | 929 |
-| Stars this month | 2,314 |
+| Stars | 5,271 |
+| Forks | 943 |
+| Stars this month | 2,400 |
 
 ---
 
-## 14. [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk)
-
-Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,902 |
-| Forks | 1,405 |
-| Stars this month | 1,546 |
-
----
-
-## 15. [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed)
-
-Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 5,757 |
-| Forks | 278 |
-| Stars this month | 716 |
-
----
-
-## 16. [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) 🆕
+## 13. [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
 
 一分钟搭建影视站，支持Docker等部署方式
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,809 |
-| Forks | 29,690 |
-| Stars this month | 6,946 |
+| Stars | 21,186 |
+| Forks | 29,815 |
+| Stars this month | 7,345 |
 
 ---
 
-## 17. [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
+## 14. [pablostanley/yoinks](https://github.com/pablostanley/yoinks)
 
 yoink any video from your terminal. no shady ads.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,124 |
-| Forks | 517 |
-| Stars this month | 4,394 |
+| Stars | 6,150 |
+| Forks | 522 |
+| Stars this month | 4,423 |
 
 ---
 
-## 18. [dream-num/univer](https://github.com/dream-num/univer)
+## 15. [dream-num/univer](https://github.com/dream-num/univer)
 
 The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 22,708 |
-| Forks | 1,905 |
-| Stars this month | 8,184 |
+| Stars | 22,728 |
+| Forks | 1,907 |
+| Stars this month | 7,788 |
 
 ---
 
-## 19. [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
+## 16. [stablyai/orca](https://github.com/stablyai/orca)
+
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,606 |
-| Forks | 2,210 |
-| Stars this month | 720 |
+| Stars | 102,991 |
+| Forks | 6,502 |
+| Stars this month | 27,819 |
 
 ---
 
-## 20. [anthropics/claude-code](https://github.com/anthropics/claude-code)
-
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 152,775 |
-| Forks | 26,752 |
-| Stars this month | 6,381 |
-
----
-
-## 21. [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
+## 17. [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
 
 Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,870 |
-| Forks | 876 |
-| Stars this month | 3,107 |
+| Stars | 9,907 |
+| Forks | 881 |
+| Stars this month | 3,134 |
 
 ---
 
-## 22. [microsoft/playwright](https://github.com/microsoft/playwright) 🆕
+## 18. [anthropics/claude-code](https://github.com/anthropics/claude-code)
 
-Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 98,248 |
-| Forks | 6,667 |
-| Stars this month | 1,926 |
+| Stars | 152,933 |
+| Forks | 26,774 |
+| Stars this month | 6,380 |
+
+---
+
+## 19. [thesysdev/openui](https://github.com/thesysdev/openui) 🆕
+
+The Open Standard for Generative UI
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 13,118 |
+| Forks | 873 |
+| Stars this month | 3,305 |
+
+---
+
+## 20. [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) 🆕
+
+DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,573 |
+| Forks | 256 |
+| Stars this month | 2,844 |
 
 ---

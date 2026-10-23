@@ -1,111 +1,124 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-22T04:36:54Z
-**Total Repositories:** 8
-**New Entries:** 5
-**Quality Score:** 95.00/100
+**Snapshot Time:** 2026-10-23T04:42:26Z
+**Total Repositories:** 9
+**New Entries:** 4
+**Quality Score:** 95.56/100
 
 ---
 
-## 1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 37,019 |
-| Forks | 2,304 |
-| Stars today | 2,012 |
-
----
-
-## 2. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+## 1. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 171,966 |
-| Forks | 9,356 |
-| Stars today | 2,079 |
+| Stars | 173,781 |
+| Forks | 9,463 |
+| Stars today | 1,948 |
 
 ---
 
-## 3. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+## 2. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,093 |
-| Forks | 1,147 |
-| Stars today | 420 |
+| Stars | 39,919 |
+| Forks | 2,492 |
+| Stars today | 2,979 |
 
 ---
 
-## 4. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) 🆕
+## 3. [nodejs/node](https://github.com/nodejs/node) 🆕
+
+Node.js JavaScript runtime ✨🐢🚀✨
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 122,574 |
+| Forks | 39,925 |
+| Stars today | 76 |
+
+---
+
+## 4. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 
 The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 18,598 |
-| Forks | 1,021 |
-| Stars today | 394 |
+| Stars | 18,850 |
+| Forks | 1,039 |
+| Stars today | 311 |
 
 ---
 
-## 5. [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) 🆕
+## 5. [adobe/skills](https://github.com/adobe/skills) 🆕
 
-Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
+Adobe Skills for Agents
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 895 |
-| Forks | 101 |
-| Stars today | 8 |
+| Stars | 296 |
+| Forks | 91 |
+| Stars today | 7 |
 
 ---
 
-## 6. [tt-a1i/archify](https://github.com/tt-a1i/archify) 🆕
-
-Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+## 6. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 87,175 |
-| Forks | 5,874 |
-| Stars today | 744 |
+| Stars | 7,229 |
+| Forks | 1,164 |
+| Stars today | 250 |
 
 ---
 
-## 7. [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) 🆕
+## 7. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
 
-通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,291 |
-| Forks | 237 |
-| Stars today | 46 |
+| Stars | 101,216 |
+| Forks | 6,838 |
+| Stars today | 630 |
 
 ---
 
-## 8. [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) 🆕
+## 8. [mrdoob/three.js](https://github.com/mrdoob/three.js) 🆕
+
+JavaScript 3D Library.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 116,803 |
+| Forks | 36,698 |
+| Stars today | 53 |
+
+---
+
+## 9. [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket)
 
 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,197 |
-| Forks | 97 |
-| Stars today | 215 |
+| Stars | 2,257 |
+| Forks | 100 |
+| Stars today | 88 |
 
 ---

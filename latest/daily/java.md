@@ -1,178 +1,204 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-22T04:37:05Z
-**Total Repositories:** 13
-**New Entries:** 9
+**Snapshot Time:** 2026-10-23T04:42:36Z
+**Total Repositories:** 15
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) 🆕
-
-Mac.apk: Run Android apps natively on Apple Silicon Macs
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,085 |
-| Forks | 66 |
-| Stars today | 565 |
-
----
-
-## 2. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) 🆕
+## 1. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
 
 A Minecraft Launcher which is multi-functional, cross-platform and popular
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,548 |
-| Forks | 1,200 |
-| Stars today | 106 |
+| Stars | 10,588 |
+| Forks | 1,212 |
+| Stars today | 48 |
 
 ---
 
-## 3. [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
+## 2. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
 
-An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
+Mac.apk: Run Android apps natively on Apple Silicon Macs
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,607 |
-| Forks | 103 |
-| Stars today | 13 |
+| Stars | 2,491 |
+| Forks | 77 |
+| Stars today | 366 |
 
 ---
 
-## 4. [microg/GmsCore](https://github.com/microg/GmsCore) 🆕
-
-Free implementation of Play Services
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 15,023 |
-| Forks | 3,278 |
-| Stars today | 43 |
-
----
-
-## 5. [apache/doris](https://github.com/apache/doris) 🆕
-
-Apache Doris is a real-time analytics and hybrid search database for AI agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 16,124 |
-| Forks | 3,994 |
-| Stars today | 7 |
-
----
-
-## 6. [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui)
-
-Jetbrains Claude Code and Codex GUI Plugin
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 7,189 |
-| Forks | 689 |
-| Stars today | 28 |
-
----
-
-## 7. [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 🆕
-
-🔎 Open source distributed and RESTful search engine.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 13,894 |
-| Forks | 2,991 |
-| Stars today | 4 |
-
----
-
-## 8. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
-
-Build distributed, production-grade, long-running agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 6,079 |
-| Forks | 1,524 |
-| Stars today | 14 |
-
----
-
-## 9. [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
-
-[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,186 |
-| Forks | 355 |
-| Stars today | 11 |
-
----
-
-## 10. [conductor-oss/conductor](https://github.com/conductor-oss/conductor) 🆕
-
-Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 32,362 |
-| Forks | 1,036 |
-| Stars today | 17 |
-
----
-
-## 11. [iflytek/skillhub](https://github.com/iflytek/skillhub) 🆕
-
-Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,259 |
-| Forks | 804 |
-| Stars today | 12 |
-
----
-
-## 12. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+## 3. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
 
 A tool for reverse engineering Android apk files
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,485 |
-| Forks | 4,119 |
-| Stars today | 173 |
+| Stars | 26,553 |
+| Forks | 4,130 |
+| Stars today | 54 |
 
 ---
 
-## 13. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) 🆕
+## 4. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) 🆕
 
-Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,010 |
-| Forks | 351 |
-| Stars today | 13 |
+| Stars | 39,999 |
+| Forks | 8,610 |
+| Stars today | 25 |
+
+---
+
+## 5. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
+
+Free and Open Source, Distributed, RESTful Search Engine
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 78,347 |
+| Forks | 26,088 |
+| Stars today | 7 |
+
+---
+
+## 6. [trinodb/trino](https://github.com/trinodb/trino) 🆕
+
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,362 |
+| Forks | 3,838 |
+| Stars today | 3 |
+
+---
+
+## 7. [flowable/flowable-engine](https://github.com/flowable/flowable-engine) 🆕
+
+A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,611 |
+| Forks | 2,896 |
+| Stars today | 4 |
+
+---
+
+## 8. [questdb/questdb](https://github.com/questdb/questdb) 🆕
+
+QuestDB is a high performance, open-source, time-series database
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 17,462 |
+| Forks | 1,678 |
+| Stars today | 3 |
+
+---
+
+## 9. [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) 🆕
+
+基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 7,378 |
+| Forks | 2,122 |
+| Stars today | 2 |
+
+---
+
+## 10. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) 🆕
+
+Spring Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 60,294 |
+| Forks | 38,750 |
+| Stars today | 3 |
+
+---
+
+## 11. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
+
+Browse media content with your own rules on Android TV
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 35,363 |
+| Forks | 2,176 |
+| Stars today | 56 |
+
+---
+
+## 12. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) 🆕
+
+No clever tagline needed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,764 |
+| Forks | 1,751 |
+| Stars today | 12 |
+
+---
+
+## 13. [Card-Forge/forge](https://github.com/Card-Forge/forge) 🆕
+
+An unofficial rules engine for the world's greatest card game.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 2,837 |
+| Forks | 1,187 |
+| Stars today | 5 |
+
+---
+
+## 14. [apache/fineract](https://github.com/apache/fineract) 🆕
+
+Apache Fineract
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 2,571 |
+| Forks | 2,886 |
+| Stars today | 2 |
+
+---
+
+## 15. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) 🆕
+
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 81,763 |
+| Forks | 44,855 |
+| Stars today | 12 |
 
 ---

@@ -1,162 +1,139 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-22T04:37:07Z
-**Total Repositories:** 12
-**New Entries:** 8
-**Quality Score:** 96.67/100
+**Snapshot Time:** 2026-10-23T04:42:38Z
+**Total Repositories:** 10
+**New Entries:** 9
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) 🆕
+## 1. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
 
 PCL 社区版 由社区开发者维护与管理
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,731 |
-| Forks | 345 |
-| Stars today | 86 |
-
----
-
-## 2. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
-
-Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 15,291 |
-| Forks | 1,585 |
-| Stars today | 44 |
-
----
-
-## 3. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) 🆕
-
-PowerShell for every system!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 55,897 |
-| Forks | 8,508 |
-| Stars today | 31 |
-
----
-
-## 4. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,879 |
-| Forks | 240 |
-| Stars today | 34 |
-
----
-
-## 5. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
-
-A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 2,753 |
-| Forks | 65 |
-| Stars today | 105 |
-
----
-
-## 6. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
-
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 40,297 |
-| Forks | 3,987 |
-| Stars today | 33 |
-
----
-
-## 7. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
-
-Windows/macOS/Linux GUI client for GIT users
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,211 |
-| Forks | 553 |
-| Stars today | 12 |
-
----
-
-## 8. [empira/PDFsharp](https://github.com/empira/PDFsharp) 🆕
-
-PDFsharp and MigraDoc Foundation for .NET 6 and .NET Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 1,006 |
-| Forks | 275 |
-
----
-
-## 9. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) 🆕
-
-📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 16,402 |
-| Forks | 1,213 |
-| Stars today | 24 |
-
----
-
-## 10. [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) 🆕
-
-Bring macOS “Quick Look” feature to Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 25,454 |
-| Forks | 1,350 |
+| Stars | 4,751 |
+| Forks | 354 |
 | Stars today | 27 |
 
 ---
 
-## 11. [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) 🆕
+## 2. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
 
-A robust, high-performance execution client for Ethereum node operators.
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,623 |
-| Forks | 760 |
-| Stars today | 2 |
+| Stars | 38,482 |
+| Forks | 13,788 |
+| Stars today | 8 |
 
 ---
 
-## 12. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
+## 3. [dotnet/skills](https://github.com/dotnet/skills) 🆕
 
-File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,453 |
-| Forks | 943 |
-| Stars today | 13 |
+| Stars | 5,704 |
+| Forks | 446 |
+| Stars today | 6 |
+
+---
+
+## 4. [dotnet/eShop](https://github.com/dotnet/eShop) 🆕
+
+A reference .NET application implementing an eCommerce site
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 10,977 |
+| Forks | 3,882 |
+| Stars today | 5 |
+
+---
+
+## 5. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
+
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 18,376 |
+| Forks | 5,682 |
+| Stars today | 5 |
+
+---
+
+## 6. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
+
+Movie organizer/manager for usenet and torrent users.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,631 |
+| Forks | 1,246 |
+| Stars today | 12 |
+
+---
+
+## 7. [microsoft/aspire](https://github.com/microsoft/aspire) 🆕
+
+Aspire is the tool for code-first, extensible, observable dev and deploy.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,382 |
+| Forks | 1,021 |
+| Stars today | 3 |
+
+---
+
+## 8. [DataDog/dd-trace-dotnet](https://github.com/DataDog/dd-trace-dotnet) 🆕
+
+.NET Client Library for Datadog APM
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 573 |
+| Forks | 174 |
+| Stars today | 1 |
+
+---
+
+## 9. [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) 🆕
+
+Full Modular Monolith application with Domain-Driven Design approach.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,091 |
+| Forks | 2,188 |
+| Stars today | 7 |
+
+---
+
+## 10. [Azure/azure-powershell](https://github.com/Azure/azure-powershell) 🆕
+
+Microsoft Azure PowerShell
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,812 |
+| Forks | 4,276 |
+| Stars today | 5 |
 
 ---

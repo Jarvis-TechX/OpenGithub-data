@@ -1,113 +1,110 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-22T04:37:06Z
+**Snapshot Time:** 2026-10-23T04:42:37Z
 **Total Repositories:** 8
-**New Entries:** 3
-**Quality Score:** 100.00/100
+**New Entries:** 6
+**Quality Score:** 95.00/100
 
 ---
 
-## 1. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
-
-BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,028 |
-| Forks | 390 |
-| Stars today | 143 |
-
----
-
-## 2. [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server)
+## 1. [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server)
 
 First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 739 |
+| Stars | 764 |
 | Forks | 120 |
-| Stars today | 32 |
+| Stars today | 23 |
 
 ---
 
-## 3. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
+## 2. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) 🆕
 
-RikkaHub is an Android APP that supports for multiple LLM providers.
+使用 Material Design 3 全新设计的阅读 3.0
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,372 |
-| Forks | 808 |
-| Stars today | 26 |
+| Stars | 6,602 |
+| Forks | 756 |
+| Stars today | 7 |
 
 ---
 
-## 4. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
+## 3. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
 
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 443 |
-| Forks | 83 |
-| Stars today | 11 |
+| Stars | 4,122 |
+| Forks | 399 |
+| Stars today | 92 |
 
 ---
 
-## 5. [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music)
+## 4. [jieapi/AiCode](https://github.com/jieapi/AiCode) 🆕
 
-Vivi-Music is an expressive Material 3–based YouTube Music client for Android.
+在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,813 |
-| Forks | 142 |
-| Stars today | 25 |
+| Stars | 312 |
+| Forks | 55 |
+| Stars today | 6 |
 
 ---
 
-## 6. [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app)
+## 5. [celzero/rethink-app](https://github.com/celzero/rethink-app) 🆕
 
-The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone Ca: H2mNeSJV75VuQpGA9C11FwWoT9DU7sMCYUNVaMyQpump
+DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,967 |
-| Forks | 1,078 |
-| Stars today | 25 |
+| Stars | 5,729 |
+| Forks | 366 |
+| Stars today | 50 |
 
 ---
 
-## 7. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) 🆕
+## 6. [android/nowinandroid](https://github.com/android/nowinandroid) 🆕
 
-🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
+A fully functional Android app built entirely with Kotlin and Jetpack Compose
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 941 |
-| Forks | 35 |
-| Stars today | 26 |
+| Stars | 21,954 |
+| Forks | 4,688 |
+| Stars today | 5 |
 
 ---
 
-## 8. [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) 🆕
-
-Easy to use OpenStreetMap editor for Android and iOS
+## 7. [google/private-compute-services](https://github.com/google/private-compute-services) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,085 |
-| Forks | 472 |
-| Stars today | 11 |
+| Stars | 894 |
+| Forks | 353 |
+
+---
+
+## 8. [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) 🆕
+
+Tailscale Android Client
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,711 |
+| Forks | 761 |
+| Stars today | 3 |
 
 ---

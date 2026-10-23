@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-22T04:37:25Z
-**Total Repositories:** 16
-**New Entries:** 3
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-10-23T04:42:55Z
+**Total Repositories:** 15
+**New Entries:** 4
+**Quality Score:** 97.33/100
 
 ---
 
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,166 |
-| Forks | 591 |
-| Stars this week | 1,332 |
+| Stars | 9,274 |
+| Forks | 593 |
+| Stars this week | 1,384 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,029 |
-| Forks | 390 |
-| Stars this week | 842 |
+| Stars | 4,122 |
+| Forks | 399 |
+| Stars this week | 862 |
 
 ---
 
@@ -39,9 +39,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,117 |
-| Forks | 255 |
-| Stars this week | 734 |
+| Stars | 5,178 |
+| Forks | 261 |
+| Stars this week | 715 |
 
 ---
 
@@ -52,164 +52,151 @@ DroidDesk turns your Android phone into a real Linux desktop using Termux, Termu
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,355 |
-| Forks | 405 |
-| Stars this week | 452 |
+| Stars | 4,379 |
+| Forks | 406 |
+| Stars this week | 410 |
 
 ---
 
-## 5. [tiann/KernelSU](https://github.com/tiann/KernelSU)
-
-A Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 19,497 |
-| Forks | 4,596 |
-| Stars this week | 327 |
-
----
-
-## 6. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+## 5. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
 
 翻墙-科学上网
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 55,693 |
-| Forks | 8,682 |
-| Stars this week | 1,620 |
+| Stars | 55,746 |
+| Forks | 8,685 |
+| Stars this week | 1,633 |
 
 ---
 
-## 7. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+## 6. [tiann/KernelSU](https://github.com/tiann/KernelSU)
 
-A cross-platform music app using YouTube Music for backend
+A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 12,273 |
-| Forks | 685 |
-| Stars this week | 253 |
+| Stars | 19,526 |
+| Forks | 4,631 |
+| Stars this week | 308 |
 
 ---
 
-## 8. [celzero/rethink-app](https://github.com/celzero/rethink-app)
+## 7. [LegadoTeam/legado](https://github.com/LegadoTeam/legado) 🆕
 
-DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+Legado 3.0 Book Reader with powerful controls
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,692 |
-| Forks | 366 |
-| Stars this week | 79 |
+| Stars | 1,647 |
+| Forks | 382 |
+| Stars this week | 140 |
 
 ---
 
-## 9. [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2)
-
-A Minecraft: Java Edition Launcher for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,080 |
-| Forks | 417 |
-| Stars this week | 58 |
-
----
-
-## 10. [Spotui/Spotui](https://github.com/Spotui/Spotui) 🆕
-
-Spotify clone with deep integration
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 673 |
-| Forks | 50 |
-| Stars this week | 35 |
-
----
-
-## 11. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
-
-Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 11,488 |
-| Forks | 476 |
-| Stars this week | 200 |
-
----
-
-## 12. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-
-The Magic Mask for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 63,415 |
-| Forks | 18,985 |
-| Stars this week | 211 |
-
----
-
-## 13. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
+## 8. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
 
 Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 31,935 |
-| Forks | 3,400 |
-| Stars this week | 447 |
+| Stars | 31,993 |
+| Forks | 3,409 |
+| Stars this week | 438 |
 
 ---
 
-## 14. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+## 9. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+
+A cross-platform music app using YouTube Music for backend
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 12,298 |
+| Forks | 688 |
+| Stars this week | 247 |
+
+---
+
+## 10. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+
+The Magic Mask for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 63,434 |
+| Forks | 18,988 |
+| Stars this week | 210 |
+
+---
+
+## 11. [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) 🆕
+
+First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 764 |
+| Forks | 120 |
+| Stars this week | 154 |
+
+---
+
+## 12. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
 
 A V2Ray client for Android, support Xray core and v2fly core
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 64,423 |
-| Forks | 8,357 |
-| Stars this week | 498 |
+| Stars | 64,494 |
+| Forks | 8,370 |
+| Stars this week | 504 |
 
 ---
 
-## 15. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+## 13. [android/architecture-samples](https://github.com/android/architecture-samples) 🆕
 
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,170 |
-| Forks | 2,057 |
-| Stars this week | 379 |
+| Stars | 45,867 |
+| Forks | 11,852 |
+| Stars this week | 40 |
 
 ---
 
-## 16. [Lelonio/Square](https://github.com/Lelonio/Square) 🆕
+## 14. [celzero/rethink-app](https://github.com/celzero/rethink-app)
 
-Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
+DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 222 |
-| Forks | 22 |
-| Stars this week | 47 |
+| Stars | 5,729 |
+| Forks | 366 |
+| Stars this week | 140 |
+
+---
+
+## 15. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) 🆕
+
+A Download Manager that speeds up your downloads
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 18,740 |
+| Forks | 973 |
+| Stars this week | 216 |
 
 ---

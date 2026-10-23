@@ -1,36 +1,36 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-22T04:37:21Z
-**Total Repositories:** 10
-**New Entries:** 2
+**Snapshot Time:** 2026-10-23T04:42:52Z
+**Total Repositories:** 12
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
+## 1. [php/php-src](https://github.com/php/php-src) 🆕
+
+The PHP Interpreter
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 41,261 |
+| Forks | 8,323 |
+| Stars this week | 724 |
+
+---
+
+## 2. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
 
 Static recompilation runtime libraries for PlayStation 3 titles.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 549 |
-| Forks | 74 |
-| Stars this week | 119 |
-
----
-
-## 2. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
-
-Xbox 360 Recompilation Runtime and Toolkit
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 1,147 |
-| Forks | 220 |
-| Stars this week | 82 |
+| Stars | 556 |
+| Forks | 77 |
+| Stars this week | 109 |
 
 ---
 
@@ -41,9 +41,9 @@ Turn any Xbox game binary into a native Windows executable. No emulation. No int
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 280 |
-| Forks | 80 |
-| Stars this week | 71 |
+| Stars | 283 |
+| Forks | 81 |
+| Stars this week | 65 |
 
 ---
 
@@ -54,9 +54,9 @@ An advanced Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,572 |
-| Forks | 1,205 |
-| Stars this week | 123 |
+| Stars | 4,581 |
+| Forks | 1,210 |
+| Stars this week | 116 |
 
 ---
 
@@ -67,22 +67,22 @@ A simple and easy-to-use library to enjoy videogames programming
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 35,362 |
-| Forks | 3,350 |
-| Stars this week | 196 |
+| Stars | 35,374 |
+| Forks | 3,352 |
+| Stars this week | 193 |
 
 ---
 
-## 6. [FreeRTOS/FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) 🆕
+## 6. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
 
-FreeRTOS kernel files only, submoduled intohttps://github.com/FreeRTOS/FreeRTOSand various other repos.
+Xbox 360 Recompilation Runtime and Toolkit
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,598 |
-| Forks | 1,633 |
-| Stars this week | 35 |
+| Stars | 1,153 |
+| Forks | 225 |
+| Stars this week | 79 |
 
 ---
 
@@ -93,35 +93,35 @@ An open and affordable mini quadruped robot based on ESP32.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,783 |
-| Forks | 647 |
-| Stars this week | 114 |
+| Stars | 4,797 |
+| Forks | 648 |
+| Stars this week | 107 |
 
 ---
 
-## 8. [opa334/Dopamine](https://github.com/opa334/Dopamine) 🆕
+## 8. [SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) 🆕
 
-Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,015 |
-| Forks | 6,340 |
-| Stars this week | 97 |
+| Stars | 749 |
+| Forks | 56 |
+| Stars this week | 71 |
 
 ---
 
-## 9. [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp)
+## 9. [systemd/systemd](https://github.com/systemd/systemd) 🆕
 
-Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
+The systemd System and Service Manager
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,497 |
-| Forks | 349 |
-| Stars this week | 88 |
+| Stars | 16,893 |
+| Forks | 4,778 |
+| Stars this week | 62 |
 
 ---
 
@@ -132,8 +132,34 @@ Alternative firmware for ESP8266 and ESP32 based devices with easy configuration
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 24,896 |
+| Stars | 24,900 |
 | Forks | 5,203 |
-| Stars this week | 43 |
+| Stars this week | 45 |
+
+---
+
+## 11. [reactos/reactos](https://github.com/reactos/reactos) 🆕
+
+A free Windows-compatible Operating System
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 18,327 |
+| Forks | 2,288 |
+| Stars this week | 116 |
+
+---
+
+## 12. [opa334/Dopamine](https://github.com/opa334/Dopamine)
+
+Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 7,031 |
+| Forks | 6,341 |
+| Stars this week | 100 |
 
 ---

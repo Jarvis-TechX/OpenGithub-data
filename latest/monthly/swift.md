@@ -1,7 +1,7 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-22T04:37:50Z
+**Snapshot Time:** 2026-10-23T04:43:18Z
 **Total Repositories:** 16
 **New Entries:** 1
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ macOS and Linux VMs on Apple Silicon to use in CI and other automations
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,608 |
-| Forks | 410 |
-| Stars this month | 805 |
+| Stars | 7,621 |
+| Forks | 411 |
+| Stars this month | 795 |
 
 ---
 
@@ -28,9 +28,9 @@ Free and open-source macOS menu bar toolkit.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,903 |
-| Forks | 1,348 |
-| Stars this month | 8,489 |
+| Stars | 29,382 |
+| Forks | 1,365 |
+| Stars this month | 8,869 |
 
 ---
 
@@ -41,9 +41,9 @@ The Swift Programming Language
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 70,515 |
-| Forks | 10,867 |
-| Stars this month | 230 |
+| Stars | 70,516 |
+| Forks | 10,853 |
+| Stars this month | 222 |
 
 ---
 
@@ -54,65 +54,52 @@ Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, vo
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,159 |
-| Forks | 480 |
-| Stars this month | 339 |
+| Stars | 3,170 |
+| Forks | 486 |
+| Stars this month | 335 |
 
 ---
 
-## 5. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
-
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 28,333 |
-| Forks | 2,567 |
-| Stars this month | 1,225 |
-
----
-
-## 6. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+## 5. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
 
 Telegram-iOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,325 |
-| Forks | 3,108 |
-| Stars this month | 363 |
+| Stars | 9,330 |
+| Forks | 3,114 |
+| Stars this month | 365 |
 
 ---
 
-## 7. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+## 6. [utmapp/UTM](https://github.com/utmapp/UTM)
 
-An an app that installs Sidestore on iOS 27, fully on-device
+Virtual machines for iOS and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,143 |
-| Forks | 92 |
-| Stars this month | 371 |
+| Stars | 36,477 |
+| Forks | 1,880 |
+| Stars this month | 948 |
 
 ---
 
-## 8. [f/textream](https://github.com/f/textream)
+## 7. [f/textream](https://github.com/f/textream)
 
 Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,106 |
-| Forks | 285 |
-| Stars this month | 366 |
+| Stars | 4,112 |
+| Forks | 286 |
+| Stars this month | 368 |
 
 ---
 
-## 9. [iina/iina](https://github.com/iina/iina)
+## 8. [iina/iina](https://github.com/iina/iina)
 
 The modern video player for macOS.
 
@@ -120,8 +107,21 @@ The modern video player for macOS.
 |--------|-------|
 | Language | Swift |
 | Stars | 46,867 |
-| Forks | 2,969 |
+| Forks | 2,973 |
 | Stars this month | 512 |
+
+---
+
+## 9. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+
+Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 28,359 |
+| Forks | 2,570 |
+| Stars this month | 1,222 |
 
 ---
 
@@ -132,86 +132,86 @@ Community fork of PlayCover
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,986 |
-| Forks | 1,011 |
-| Stars this month | 235 |
+| Stars | 11,991 |
+| Forks | 1,012 |
+| Stars this month | 232 |
 
 ---
 
-## 11. [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
+## 11. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
-TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,100 |
-| Forks | 1,127 |
-| Stars this month | 352 |
+| Stars | 1,163 |
+| Forks | 94 |
+| Stars this month | 380 |
 
 ---
 
-## 12. [utmapp/UTM](https://github.com/utmapp/UTM)
-
-Virtual machines for iOS and macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 36,405 |
-| Forks | 1,879 |
-| Stars this month | 798 |
-
----
-
-## 13. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
+## 12. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
 
 AI coding assistant for Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,349 |
-| Forks | 2,064 |
-| Stars this month | 72 |
+| Stars | 6,351 |
+| Forks | 2,065 |
+| Stars this month | 73 |
 
 ---
 
-## 14. [xtool-org/xtool](https://github.com/xtool-org/xtool)
+## 13. [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
 
-Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,316 |
-| Forks | 705 |
-| Stars this month | 7,844 |
+| Stars | 11,113 |
+| Forks | 1,127 |
+| Stars this month | 355 |
 
 ---
 
-## 15. [YangJiiii/3105](https://github.com/YangJiiii/3105)
-
-Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 919 |
-| Forks | 166 |
-| Stars this month | 171 |
-
----
-
-## 16. [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) 🆕
+## 14. [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen)
 
 A Swift command line tool for generating your Xcode project
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,881 |
+| Stars | 8,882 |
 | Forks | 919 |
-| Stars this month | 95 |
+| Stars this month | 97 |
+
+---
+
+## 15. [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) 🆕
+
+Free Weather Forecast API for non-commercial use
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,448 |
+| Forks | 461 |
+| Stars this month | 229 |
+
+---
+
+## 16. [YangJiiii/3105](https://github.com/YangJiiii/3105)
+
+Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 923 |
+| Forks | 167 |
+| Stars this month | 165 |
 
 ---

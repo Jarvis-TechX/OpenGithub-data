@@ -1,10 +1,10 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-22T04:37:19Z
-**Total Repositories:** 18
-**New Entries:** 5
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-10-23T04:42:49Z
+**Total Repositories:** 20
+**New Entries:** 9
+**Quality Score:** 98.00/100
 
 ---
 
@@ -15,9 +15,9 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 184,225 |
-| Forks | 18,480 |
-| Stars this week | 1,408 |
+| Stars | 184,360 |
+| Forks | 18,483 |
+| Stars this week | 1,419 |
 
 ---
 
@@ -28,216 +28,240 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 31,809 |
-| Forks | 4,902 |
-| Stars this week | 2,665 |
+| Stars | 32,073 |
+| Forks | 4,960 |
+| Stars this week | 1,667 |
 
 ---
 
-## 3. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 114,173 |
-| Forks | 6,581 |
-| Stars this week | 2,419 |
-
----
-
-## 4. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+## 3. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 
 Find secrets with Gitleaks 🔑
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,203 |
-| Forks | 2,307 |
-| Stars this week | 282 |
+| Stars | 30,241 |
+| Forks | 2,312 |
+| Stars this week | 278 |
 
 ---
 
-## 5. [go-gitea/gitea](https://github.com/go-gitea/gitea)
-
-Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 58,619 |
-| Forks | 7,307 |
-| Stars this week | 148 |
-
----
-
-## 6. [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
-
-Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 7,519 |
-| Forks | 785 |
-| Stars this week | 331 |
-
----
-
-## 7. [superplanehq/superplane](https://github.com/superplanehq/superplane) 🆕
-
-Open source factory for one-shot engineering
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,124 |
-| Forks | 664 |
-| Stars this week | 454 |
-
----
-
-## 8. [mudler/LocalAI](https://github.com/mudler/LocalAI)
+## 4. [mudler/LocalAI](https://github.com/mudler/LocalAI)
 
 LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 49,845 |
-| Forks | 4,528 |
-| Stars this week | 332 |
+| Stars | 49,858 |
+| Forks | 4,531 |
+| Stars this week | 343 |
 
 ---
 
-## 9. [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API)
+## 5. [etcd-io/etcd](https://github.com/etcd-io/etcd) 🆕
 
-将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
+Distributed reliable key-value store for the most critical data of a distributed system
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 423 |
-| Forks | 114 |
-| Stars this week | 166 |
+| Stars | 52,421 |
+| Forks | 10,550 |
+| Stars this week | 89 |
 
 ---
 
-## 10. [tailscale/tailscale](https://github.com/tailscale/tailscale) 🆕
+## 6. [go-gitea/gitea](https://github.com/go-gitea/gitea)
 
-The easiest, most secure way to use WireGuard and 2FA.
+Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 37,903 |
-| Forks | 3,335 |
-| Stars this week | 405 |
+| Stars | 58,639 |
+| Forks | 7,298 |
+| Stars this week | 150 |
 
 ---
 
-## 11. [gin-gonic/gin](https://github.com/gin-gonic/gin) 🆕
+## 7. [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
 
-Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 89,408 |
-| Forks | 8,788 |
-| Stars this week | 113 |
+| Stars | 7,548 |
+| Forks | 788 |
+| Stars this week | 310 |
 
 ---
 
-## 12. [golang/go](https://github.com/golang/go)
-
-The Go programming language
+## 8. [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,394 |
-| Forks | 22,316 |
-| Stars this week | 442 |
+| Stars | 2,016 |
+| Forks | 295 |
+| Stars this week | 131 |
 
 ---
 
-## 13. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router)
+## 9. [helm/helm](https://github.com/helm/helm) 🆕
 
-llm-d Router: The intelligent entry point for inference requests
+The Kubernetes Package Manager
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 428 |
-| Forks | 477 |
-| Stars this week | 26 |
+| Stars | 30,359 |
+| Forks | 7,849 |
+| Stars this week | 36 |
 
 ---
 
-## 14. [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
-
-ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,006 |
-| Forks | 428 |
-| Stars this week | 156 |
-
----
-
-## 15. [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)
-
-Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 19,718 |
-| Forks | 3,080 |
-| Stars this week | 65 |
-
----
-
-## 16. [hashicorp/terraform](https://github.com/hashicorp/terraform) 🆕
-
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 50,008 |
-| Forks | 10,602 |
-| Stars this week | 127 |
-
----
-
-## 17. [istio/istio](https://github.com/istio/istio) 🆕
-
-Connect, secure, control, and observe services.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,461 |
-| Forks | 8,404 |
-| Stars this week | 24 |
-
----
-
-## 18. [github/github-mcp-server](https://github.com/github/github-mcp-server)
+## 10. [github/github-mcp-server](https://github.com/github/github-mcp-server)
 
 GitHub's official MCP Server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 33,836 |
-| Forks | 5,211 |
-| Stars this week | 247 |
+| Stars | 33,875 |
+| Forks | 5,219 |
+| Stars this week | 246 |
+
+---
+
+## 11. [php/frankenphp](https://github.com/php/frankenphp) 🆕
+
+🧟 The modern PHP app server
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 11,452 |
+| Forks | 499 |
+| Stars this week | 55 |
+
+---
+
+## 12. [moby/moby](https://github.com/moby/moby) 🆕
+
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 72,200 |
+| Forks | 19,193 |
+| Stars this week | 56 |
+
+---
+
+## 13. [cilium/cilium](https://github.com/cilium/cilium) 🆕
+
+eBPF-based Networking, Security, and Observability
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 25,710 |
+| Forks | 4,180 |
+| Stars this week | 52 |
+
+---
+
+## 14. [golang/go](https://github.com/golang/go)
+
+The Go programming language
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 139,485 |
+| Forks | 22,298 |
+| Stars this week | 500 |
+
+---
+
+## 15. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+
+🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 114,455 |
+| Forks | 6,596 |
+| Stars this week | 2,173 |
+
+---
+
+## 16. [hashicorp/terraform](https://github.com/hashicorp/terraform)
+
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 50,078 |
+| Forks | 10,595 |
+| Stars this week | 186 |
+
+---
+
+## 17. [pearl-research-labs/pearl](https://github.com/pearl-research-labs/pearl) 🆕
+
+Monorepo for the Pearl network 🐚
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 385 |
+| Forks | 94 |
+| Stars this week | 23 |
+
+---
+
+## 18. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) 🆕
+
+scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,763 |
+| Forks | 1,065 |
+| Stars this week | 273 |
+
+---
+
+## 19. [gin-gonic/gin](https://github.com/gin-gonic/gin)
+
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 89,416 |
+| Forks | 8,763 |
+| Stars this week | 106 |
+
+---
+
+## 20. [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) 🆕
+
+Linux Patch Management & Automation Platform
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 3,472 |
+| Forks | 196 |
+| Stars this week | 57 |
 
 ---

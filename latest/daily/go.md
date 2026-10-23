@@ -1,217 +1,217 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-22T04:37:00Z
+**Snapshot Time:** 2026-10-23T04:42:32Z
 **Total Repositories:** 16
-**New Entries:** 11
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [ollama/ollama](https://github.com/ollama/ollama) 🆕
+## 1. [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) 🆕
 
-Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 184,226 |
-| Forks | 18,480 |
-| Stars today | 168 |
+| Stars | 8,474 |
+| Forks | 1,238 |
+| Stars today | 31 |
 
 ---
 
-## 2. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) 🆕
+## 2. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) 🆕
+
+Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 48,090 |
+| Forks | 3,519 |
+| Stars today | 226 |
+
+---
+
+## 3. [microsoft/TypeScript](https://github.com/microsoft/TypeScript) 🆕
+
+TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 111,574 |
+| Forks | 16,777 |
+| Stars today | 25 |
+
+---
+
+## 4. [helm/helm](https://github.com/helm/helm) 🆕
+
+The Kubernetes Package Manager
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 30,359 |
+| Forks | 7,849 |
+| Stars today | 5 |
+
+---
+
+## 5. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
 
 The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,474 |
-| Forks | 224 |
-| Stars today | 443 |
+| Stars | 2,639 |
+| Forks | 240 |
+| Stars today | 245 |
 
 ---
 
-## 3. [hashicorp/vault](https://github.com/hashicorp/vault)
+## 6. [tailscale/tailscale](https://github.com/tailscale/tailscale) 🆕
 
-A tool for secrets management, encryption as a service, and privileged access management
+The easiest, most secure way to use WireGuard and 2FA.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 36,415 |
-| Forks | 4,796 |
-| Stars today | 6 |
+| Stars | 37,968 |
+| Forks | 3,343 |
+| Stars today | 68 |
 
 ---
 
-## 4. [mudler/LocalAI](https://github.com/mudler/LocalAI)
+## 7. [zitadel/zitadel](https://github.com/zitadel/zitadel) 🆕
 
-LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+ZITADEL - Identity infrastructure, simplified for you.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 49,846 |
-| Forks | 4,528 |
-| Stars today | 54 |
+| Stars | 15,397 |
+| Forks | 1,398 |
+| Stars today | 24 |
 
 ---
 
-## 5. [larksuite/cli](https://github.com/larksuite/cli)
+## 8. [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) 🆕
 
-The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
+Contrib repository for the OpenTelemetry Collector
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,771 |
-| Forks | 1,347 |
-| Stars today | 21 |
+| Stars | 5,014 |
+| Forks | 4,042 |
+| Stars today | 2 |
 
 ---
 
-## 6. [google/gvisor](https://github.com/google/gvisor) 🆕
+## 9. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
 
-Application Kernel for Containers
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 19,742 |
-| Forks | 2,025 |
-| Stars today | 16 |
+| Stars | 38,634 |
+| Forks | 794 |
+| Stars today | 46 |
 
 ---
 
-## 7. [gin-gonic/gin](https://github.com/gin-gonic/gin)
+## 10. [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) 🆕
 
-Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+🧑‍🎨 A collection of Golang agentic skills that works
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 89,408 |
-| Forks | 8,788 |
-| Stars today | 14 |
+| Stars | 3,584 |
+| Forks | 240 |
+| Stars today | 24 |
 
 ---
 
-## 8. [openbao/openbao](https://github.com/openbao/openbao) 🆕
-
-OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,632 |
-| Forks | 640 |
-| Stars today | 26 |
-
----
-
-## 9. [cloudwego/eino](https://github.com/cloudwego/eino) 🆕
-
-The ultimate LLM/AI application development framework in Go.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 13,392 |
-| Forks | 1,145 |
-| Stars today | 19 |
-
----
-
-## 10. [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-
-Declarative Continuous Deployment for Kubernetes
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 24,443 |
-| Forks | 7,970 |
-| Stars today | 11 |
-
----
-
-## 11. [harness/harness](https://github.com/harness/harness) 🆕
-
-Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,650 |
-| Forks | 3,433 |
-| Stars today | 30 |
-
----
-
-## 12. [ys-ll/uniterm](https://github.com/ys-ll/uniterm) 🆕
-
-All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 883 |
-| Forks | 135 |
-| Stars today | 7 |
-
----
-
-## 13. [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) 🆕
-
-GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 4,943 |
-| Forks | 1,199 |
-| Stars today | 7 |
-
----
-
-## 14. [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go) 🆕
-
-Datadog Go Library including APM tracing, profiling, and security monitoring.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 861 |
-| Forks | 558 |
-| Stars today | 4 |
-
----
-
-## 15. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
+## 11. [multica-ai/multica](https://github.com/multica-ai/multica)
 
 Make humans and AI agents work as one team — open-source and self-hostable.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 53,470 |
-| Forks | 7,020 |
-| Stars today | 131 |
+| Stars | 53,594 |
+| Forks | 7,033 |
+| Stars today | 145 |
 
 ---
 
-## 16. [zhoushoujianwork/easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent) 🆕
+## 12. [grafana/alloy](https://github.com/grafana/alloy) 🆕
 
-嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.
+OpenTelemetry Collector distribution with programmable pipelines
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 775 |
-| Forks | 95 |
-| Stars today | 26 |
+| Stars | 3,633 |
+| Forks | 745 |
+| Stars today | 3 |
+
+---
+
+## 13. [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) 🆕
+
+微信视频号下载器
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 10,044 |
+| Forks | 1,659 |
+| Stars today | 66 |
+
+---
+
+## 14. [golang/go](https://github.com/golang/go) 🆕
+
+The Go programming language
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 139,485 |
+| Forks | 22,298 |
+| Stars today | 88 |
+
+---
+
+## 15. [larksuite/cli](https://github.com/larksuite/cli)
+
+The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 17,799 |
+| Forks | 1,352 |
+| Stars today | 27 |
+
+---
+
+## 16. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) 🆕
+
+Production-Grade Container Scheduling and Management
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 128,562 |
+| Forks | 47,097 |
+| Stars today | 81 |
 
 ---

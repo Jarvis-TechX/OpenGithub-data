@@ -1,164 +1,188 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-22T04:37:04Z
-**Total Repositories:** 12
-**New Entries:** 9
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-10-23T04:42:35Z
+**Total Repositories:** 14
+**New Entries:** 11
+**Quality Score:** 97.14/100
 
 ---
 
-## 1. [microsoft/terminal](https://github.com/microsoft/terminal) 🆕
-
-The new Windows Terminal and the original Windows console host, all in the same place!
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 105,215 |
-| Forks | 9,671 |
-| Stars today | 15 |
-
----
-
-## 2. [duckdb/duckdb](https://github.com/duckdb/duckdb) 🆕
+## 1. [duckdb/duckdb](https://github.com/duckdb/duckdb)
 
 DuckDB is a high-performance analytical database system
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 42,369 |
-| Forks | 4,012 |
-| Stars today | 45 |
+| Stars | 42,421 |
+| Forks | 3,996 |
+| Stars today | 47 |
 
 ---
 
-## 3. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
-
-LLM inference in C/C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 131,961 |
-| Forks | 24,659 |
-| Stars today | 114 |
-
----
-
-## 4. [iliasHDZ/Bismuth](https://github.com/iliasHDZ/Bismuth)
-
-Optimization mod for Geometry Dash
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 96 |
-| Forks | 26 |
-| Stars today | 9 |
-
----
-
-## 5. [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) 🆕
-
-FlashMLA: Efficient Multi-head Latent Attention Kernels
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 13,151 |
-| Forks | 1,222 |
-| Stars today | 35 |
-
----
-
-## 6. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) 🆕
-
-ArduPlane, ArduCopter, ArduRover, ArduSub source
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 16,167 |
-| Forks | 21,647 |
-| Stars today | 20 |
-
----
-
-## 7. [opencv/opencv](https://github.com/opencv/opencv)
+## 2. [opencv/opencv](https://github.com/opencv/opencv)
 
 Open Source Computer Vision Library
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 91,282 |
-| Forks | 57,059 |
-| Stars today | 28 |
+| Stars | 91,299 |
+| Forks | 57,057 |
+| Stars today | 23 |
 
 ---
 
-## 8. [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) 🆕
+## 3. [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) 🆕
 
-A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+qBittorrent BitTorrent client
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 10,832 |
-| Forks | 1,631 |
-| Stars today | 45 |
+| Stars | 41,026 |
+| Forks | 4,949 |
+| Stars today | 39 |
 
 ---
 
-## 9. [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) 🆕
-
-Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
+## 4. [google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,859 |
-| Forks | 1,367 |
-| Stars today | 8 |
+| Stars | 654 |
+| Forks | 42 |
+| Stars today | 104 |
 
 ---
 
-## 10. [nlohmann/json](https://github.com/nlohmann/json) 🆕
+## 5. [electron/electron](https://github.com/electron/electron) 🆕
 
-JSON for Modern C++
+Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 50,791 |
-| Forks | 7,511 |
-| Stars today | 5 |
+| Stars | 123,488 |
+| Forks | 17,659 |
+| Stars today | 32 |
 
 ---
 
-## 11. [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) 🆕
+## 6. [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
 
-super repo for rocm systems projects
+FlashMLA: Efficient Multi-head Latent Attention Kernels
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 539 |
-| Forks | 463 |
+| Stars | 13,164 |
+| Forks | 1,229 |
+| Stars today | 11 |
 
 ---
 
-## 12. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+## 7. [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) 🆕
 
-Protocol Buffers - Google's data interchange format
+A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 72,124 |
-| Forks | 16,327 |
+| Stars | 10,352 |
+| Forks | 1,124 |
+| Stars today | 16 |
+
+---
+
+## 8. [NVIDIA/nccl](https://github.com/NVIDIA/nccl) 🆕
+
+Optimized primitives for collective multi-GPU communication
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 5,179 |
+| Forks | 1,450 |
+
+---
+
+## 9. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) 🆕
+
+CUDA Templates and Python DSLs for High-Performance Linear Algebra
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 10,647 |
+| Forks | 2,136 |
+| Stars today | 4 |
+
+---
+
+## 10. [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) 🆕
+
+OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 11,994 |
+| Forks | 560 |
+| Stars today | 44 |
+
+---
+
+## 11. [esphome/esphome](https://github.com/esphome/esphome) 🆕
+
+ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 11,944 |
+| Forks | 5,734 |
+| Stars today | 13 |
+
+---
+
+## 12. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) 🆕
+
+ClickHouse® is a real-time analytics database management system
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 50,550 |
+| Forks | 9,148 |
+| Stars today | 24 |
+
+---
+
+## 13. [google/perfetto](https://github.com/google/perfetto) 🆕
+
+Production-grade client-side tracing, profiling, and analysis for complex software systems.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 6,688 |
+| Forks | 907 |
 | Stars today | 2 |
+
+---
+
+## 14. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
+
+An Open Source Machine Learning Framework for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 201,192 |
+| Forks | 79,381 |
+| Stars today | 43 |
 
 ---
