@@ -1,217 +1,217 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-23T04:42:32Z
+**Snapshot Time:** 2026-10-24T04:30:18Z
 **Total Repositories:** 16
-**New Entries:** 13
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) 🆕
+## 1. [prometheus/prometheus](https://github.com/prometheus/prometheus) 🆕
 
-Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,474 |
-| Forks | 1,238 |
-| Stars today | 31 |
-
----
-
-## 2. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) 🆕
-
-Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+The Prometheus monitoring system and time series database.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 48,090 |
-| Forks | 3,519 |
-| Stars today | 226 |
+| Stars | 66,725 |
+| Forks | 10,912 |
+| Stars today | 34 |
 
 ---
 
-## 3. [microsoft/TypeScript](https://github.com/microsoft/TypeScript) 🆕
+## 2. [strelov1/freehire](https://github.com/strelov1/freehire) 🆕
 
-TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+freehire — the open-source search engine for job seekers
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 111,574 |
-| Forks | 16,777 |
-| Stars today | 25 |
+| Stars | 2,966 |
+| Forks | 293 |
+| Stars today | 186 |
 
 ---
 
-## 4. [helm/helm](https://github.com/helm/helm) 🆕
-
-The Kubernetes Package Manager
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 30,359 |
-| Forks | 7,849 |
-| Stars today | 5 |
-
----
-
-## 5. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
-
-The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,639 |
-| Forks | 240 |
-| Stars today | 245 |
-
----
-
-## 6. [tailscale/tailscale](https://github.com/tailscale/tailscale) 🆕
-
-The easiest, most secure way to use WireGuard and 2FA.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 37,968 |
-| Forks | 3,343 |
-| Stars today | 68 |
-
----
-
-## 7. [zitadel/zitadel](https://github.com/zitadel/zitadel) 🆕
-
-ZITADEL - Identity infrastructure, simplified for you.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 15,397 |
-| Forks | 1,398 |
-| Stars today | 24 |
-
----
-
-## 8. [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) 🆕
-
-Contrib repository for the OpenTelemetry Collector
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,014 |
-| Forks | 4,042 |
-| Stars today | 2 |
-
----
-
-## 9. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
+## 3. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,634 |
+| Stars | 38,675 |
 | Forks | 794 |
-| Stars today | 46 |
+| Stars today | 52 |
 
 ---
 
-## 10. [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) 🆕
+## 4. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
 
-🧑‍🎨 A collection of Golang agentic skills that works
+The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,584 |
-| Forks | 240 |
+| Stars | 2,714 |
+| Forks | 245 |
+| Stars today | 122 |
+
+---
+
+## 5. [fleetdm/fleet](https://github.com/fleetdm/fleet) 🆕
+
+Open device management
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,038 |
+| Forks | 1,081 |
+| Stars today | 10 |
+
+---
+
+## 6. [chaitin/SafeLine](https://github.com/chaitin/SafeLine) 🆕
+
+SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 22,923 |
+| Forks | 1,569 |
 | Stars today | 24 |
 
 ---
 
-## 11. [multica-ai/multica](https://github.com/multica-ai/multica)
+## 7. [php/frankenphp](https://github.com/php/frankenphp) 🆕
+
+🧟 The modern PHP app server
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 11,458 |
+| Forks | 502 |
+| Stars today | 7 |
+
+---
+
+## 8. [infiniflow/ragflow](https://github.com/infiniflow/ragflow) 🆕
+
+RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 92,775 |
+| Forks | 11,097 |
+| Stars today | 93 |
+
+---
+
+## 9. [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 🆕
+
+Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 13,023 |
+| Forks | 1,178 |
+| Stars today | 17 |
+
+---
+
+## 10. [multica-ai/multica](https://github.com/multica-ai/multica)
 
 Make humans and AI agents work as one team — open-source and self-hostable.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 53,594 |
-| Forks | 7,033 |
-| Stars today | 145 |
+| Stars | 53,681 |
+| Forks | 7,038 |
+| Stars today | 105 |
 
 ---
 
-## 12. [grafana/alloy](https://github.com/grafana/alloy) 🆕
-
-OpenTelemetry Collector distribution with programmable pipelines
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 3,633 |
-| Forks | 745 |
-| Stars today | 3 |
-
----
-
-## 13. [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) 🆕
+## 11. [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
 
 微信视频号下载器
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,044 |
-| Forks | 1,659 |
-| Stars today | 66 |
+| Stars | 10,075 |
+| Forks | 1,668 |
+| Stars today | 36 |
 
 ---
 
-## 14. [golang/go](https://github.com/golang/go) 🆕
+## 12. [QuantumNous/new-api](https://github.com/QuantumNous/new-api) 🆕
 
-The Go programming language
+A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,485 |
-| Forks | 22,298 |
-| Stars today | 88 |
+| Stars | 50,592 |
+| Forks | 12,238 |
+| Stars today | 104 |
 
 ---
 
-## 15. [larksuite/cli](https://github.com/larksuite/cli)
+## 13. [github/gh-stack](https://github.com/github/gh-stack) 🆕
 
-The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
+GitHub Stacked PRs
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,799 |
-| Forks | 1,352 |
-| Stars today | 27 |
+| Stars | 1,717 |
+| Forks | 86 |
+| Stars today | 3 |
 
 ---
 
-## 16. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) 🆕
+## 14. [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)
 
-Production-Grade Container Scheduling and Management
+🧑‍🎨 A collection of Golang agentic skills that works
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 128,562 |
-| Forks | 47,097 |
-| Stars today | 81 |
+| Stars | 3,602 |
+| Forks | 242 |
+| Stars today | 31 |
+
+---
+
+## 15. [chenyme/grok2api](https://github.com/chenyme/grok2api) 🆕
+
+Multi-account API gateway for Grok Build, Grok Web, and Grok Console
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,846 |
+| Forks | 2,343 |
+| Stars today | 10 |
+
+---
+
+## 16. [zitadel/zitadel](https://github.com/zitadel/zitadel)
+
+ZITADEL - Identity infrastructure, simplified for you.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 15,418 |
+| Forks | 1,399 |
+| Stars today | 20 |
 
 ---

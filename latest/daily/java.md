@@ -1,204 +1,203 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-23T04:42:36Z
+**Snapshot Time:** 2026-10-24T04:30:23Z
 **Total Repositories:** 15
-**New Entries:** 12
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
+## 1. [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) 🆕
 
-A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 10,588 |
-| Forks | 1,212 |
-| Stars today | 48 |
-
----
-
-## 2. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
-
-Mac.apk: Run Android apps natively on Apple Silicon Macs
+PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,491 |
-| Forks | 77 |
-| Stars today | 366 |
+| Stars | 29,983 |
+| Forks | 2,861 |
+| Stars today | 110 |
 
 ---
 
-## 3. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+## 2. [apache/doris](https://github.com/apache/doris) 🆕
 
-A tool for reverse engineering Android apk files
+Apache Doris is a real-time analytics and hybrid search database for AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,553 |
-| Forks | 4,130 |
-| Stars today | 54 |
+| Stars | 16,134 |
+| Forks | 3,996 |
+| Stars today | 4 |
 
 ---
 
-## 4. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) 🆕
+## 3. [bazelbuild/bazel](https://github.com/bazelbuild/bazel) 🆕
 
-🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+a fast, scalable, multi-language and extensible build system
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 39,999 |
-| Forks | 8,610 |
-| Stars today | 25 |
+| Stars | 25,984 |
+| Forks | 4,656 |
+| Stars today | 8 |
 
 ---
 
-## 5. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
+## 4. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
 Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,347 |
-| Forks | 26,088 |
-| Stars today | 7 |
+| Stars | 78,355 |
+| Forks | 26,096 |
+| Stars today | 17 |
 
 ---
 
-## 6. [trinodb/trino](https://github.com/trinodb/trino) 🆕
+## 5. [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) 🆕
 
-Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+All-in-one IoT Platform - Device management, data collection, processing and visualization.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,362 |
-| Forks | 3,838 |
-| Stars today | 3 |
-
----
-
-## 7. [flowable/flowable-engine](https://github.com/flowable/flowable-engine) 🆕
-
-A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 9,611 |
-| Forks | 2,896 |
-| Stars today | 4 |
-
----
-
-## 8. [questdb/questdb](https://github.com/questdb/questdb) 🆕
-
-QuestDB is a high performance, open-source, time-series database
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 17,462 |
-| Forks | 1,678 |
-| Stars today | 3 |
-
----
-
-## 9. [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) 🆕
-
-基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 7,378 |
-| Forks | 2,122 |
-| Stars today | 2 |
-
----
-
-## 10. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) 🆕
-
-Spring Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 60,294 |
-| Forks | 38,750 |
-| Stars today | 3 |
-
----
-
-## 11. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
-
-Browse media content with your own rules on Android TV
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 35,363 |
-| Forks | 2,176 |
-| Stars today | 56 |
-
----
-
-## 12. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) 🆕
-
-No clever tagline needed.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 13,764 |
-| Forks | 1,751 |
-| Stars today | 12 |
-
----
-
-## 13. [Card-Forge/forge](https://github.com/Card-Forge/forge) 🆕
-
-An unofficial rules engine for the world's greatest card game.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,837 |
-| Forks | 1,187 |
+| Stars | 22,599 |
+| Forks | 6,529 |
 | Stars today | 5 |
 
 ---
 
-## 14. [apache/fineract](https://github.com/apache/fineract) 🆕
+## 6. [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) 🆕
 
-Apache Fineract
+OpenRefine is a free, open source power tool for working with messy data and improving it
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,571 |
-| Forks | 2,886 |
+| Stars | 12,067 |
+| Forks | 2,190 |
+| Stars today | 8 |
+
+---
+
+## 7. [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) 🆕
+
+Universal File Online Preview Project based on Spring-Boot
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 14,795 |
+| Forks | 3,338 |
+| Stars today | 4 |
+
+---
+
+## 8. [iflytek/skillhub](https://github.com/iflytek/skillhub) 🆕
+
+Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,278 |
+| Forks | 810 |
+| Stars today | 17 |
+
+---
+
+## 9. [JabRef/jabref](https://github.com/JabRef/jabref) 🆕
+
+Desktop app for managing BibTeX and BibLaTeX (.bib) libraries
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 4,840 |
+| Forks | 3,670 |
+| Stars today | 3 |
+
+---
+
+## 10. [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) 🆕
+
+Design patterns implemented in Java
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 94,817 |
+| Forks | 27,346 |
+| Stars today | 4 |
+
+---
+
+## 11. [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) 🆕
+
+Jetbrains Claude Code and Codex GUI Plugin
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 7,235 |
+| Forks | 692 |
+| Stars today | 27 |
+
+---
+
+## 12. [apache/nifi](https://github.com/apache/nifi) 🆕
+
+Apache NiFi
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 6,274 |
+| Forks | 2,992 |
 | Stars today | 2 |
 
 ---
 
-## 15. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) 🆕
+## 13. [traccar/traccar](https://github.com/traccar/traccar) 🆕
 
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 81,763 |
-| Forks | 44,855 |
-| Stars today | 12 |
+| Stars | 7,910 |
+| Forks | 3,450 |
+| Stars today | 9 |
+
+---
+
+## 14. [apache/maven](https://github.com/apache/maven) 🆕
+
+Apache Maven core
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,371 |
+| Forks | 3,077 |
+
+---
+
+## 15. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
+
+Mac.apk: Run Android apps natively on Apple Silicon Macs
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 2,704 |
+| Forks | 94 |
+| Stars today | 350 |
 
 ---

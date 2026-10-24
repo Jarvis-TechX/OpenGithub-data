@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-23T04:43:12Z
+**Snapshot Time:** 2026-10-24T04:31:00Z
 **Total Repositories:** 19
-**New Entries:** 2
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,760 |
-| Forks | 889 |
-| Stars this month | 691 |
+| Stars | 7,768 |
+| Forks | 890 |
+| Stars this month | 671 |
 
 ---
 
-## 2. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)
+## 2. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) 🆕
 
-Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
+Tool for automatic PS5 executables porting to Linux and Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,844 |
-| Forks | 166 |
-| Stars this month | 1,276 |
+| Stars | 47,455 |
+| Forks | 4,413 |
+| Stars this month | 47,141 |
 
 ---
 
@@ -41,9 +41,9 @@ An MCP-based chatbot | 一个基于MCP的聊天机器人
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,775 |
-| Forks | 7,426 |
-| Stars this month | 1,684 |
+| Stars | 31,838 |
+| Forks | 7,447 |
+| Stars this month | 1,729 |
 
 ---
 
@@ -54,113 +54,113 @@ PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,869 |
-| Forks | 2,838 |
-| Stars this month | 1,043 |
+| Stars | 33,893 |
+| Forks | 2,846 |
+| Stars this month | 1,058 |
 
 ---
 
-## 5. [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) 🆕
+## 5. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)
+
+Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,853 |
+| Forks | 170 |
+| Stars this month | 1,184 |
+
+---
+
+## 6. [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
 
 Firebase SDK for Apple App Development
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,979 |
-| Forks | 1,823 |
-| Stars this month | 331 |
+| Stars | 6,975 |
+| Forks | 1,824 |
+| Stars this month | 334 |
 
 ---
 
-## 6. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+## 7. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
 
 Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,655 |
-| Forks | 211 |
-| Stars this month | 388 |
+| Stars | 3,667 |
+| Forks | 217 |
+| Stars this month | 403 |
 
 ---
 
-## 7. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-
-An Open Source Machine Learning Framework for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 201,192 |
-| Forks | 79,381 |
-| Stars this month | 1,723 |
-
----
-
-## 8. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
-
-Reimplementation of GTA:SA 1.0 US
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 1,141 |
-| Forks | 263 |
-| Stars this month | 237 |
-
----
-
-## 9. [microsoft/BitNet](https://github.com/microsoft/BitNet)
-
-Official inference framework for 1-bit LLMs
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 41,224 |
-| Forks | 3,837 |
-| Stars this month | 994 |
-
----
-
-## 10. [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
-
-Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 20,188 |
-| Forks | 1,511 |
-| Stars this month | 443 |
-
----
-
-## 11. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+## 8. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,518 |
-| Forks | 2,564 |
-| Stars this month | 727 |
+| Stars | 55,543 |
+| Forks | 2,567 |
+| Stars this month | 725 |
 
 ---
 
-## 12. [zeldaret/tww](https://github.com/zeldaret/tww) 🆕
+## 9. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 
-Decompilation of The Legend of Zelda: The Wind Waker
+An Open Source Machine Learning Framework for Everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,123 |
-| Forks | 174 |
-| Stars this month | 148 |
+| Stars | 201,204 |
+| Forks | 79,288 |
+| Stars this month | 1,712 |
+
+---
+
+## 10. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
+
+Reimplementation of GTA:SA 1.0 US
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,151 |
+| Forks | 263 |
+| Stars this month | 236 |
+
+---
+
+## 11. [microsoft/BitNet](https://github.com/microsoft/BitNet)
+
+Official inference framework for 1-bit LLMs
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 41,230 |
+| Forks | 3,836 |
+| Stars this month | 993 |
+
+---
+
+## 12. [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+
+Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 20,192 |
+| Forks | 1,514 |
+| Stars this month | 416 |
 
 ---
 
@@ -171,86 +171,86 @@ Official source code of FreeCAD, a free and opensource multiplatform 3D parametr
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,679 |
-| Forks | 6,261 |
-| Stars this month | 1,027 |
+| Stars | 34,715 |
+| Forks | 6,266 |
+| Stars this month | 1,053 |
 
 ---
 
-## 14. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
-
-Self-hosted game stream host for Moonlight.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 42,526 |
-| Forks | 2,279 |
-| Stars this month | 1,217 |
-
----
-
-## 15. [deskflow/deskflow](https://github.com/deskflow/deskflow)
-
-Share a single keyboard and mouse between multiple computers.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 30,040 |
-| Forks | 5,010 |
-| Stars this month | 1,051 |
-
----
-
-## 16. [qgis/QGIS](https://github.com/qgis/QGIS)
+## 14. [qgis/QGIS](https://github.com/qgis/QGIS)
 
 QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 14,691 |
-| Forks | 3,583 |
-| Stars this month | 282 |
+| Stars | 14,699 |
+| Forks | 3,586 |
+| Stars this month | 289 |
 
 ---
 
-## 17. [typesense/typesense](https://github.com/typesense/typesense)
+## 15. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
 
-Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+Self-hosted game stream host for Moonlight.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 27,032 |
-| Forks | 1,019 |
-| Stars this month | 476 |
+| Stars | 42,563 |
+| Forks | 2,286 |
+| Stars this month | 1,228 |
 
 ---
 
-## 18. [microsoft/WSL](https://github.com/microsoft/WSL)
+## 16. [microsoft/WSL](https://github.com/microsoft/WSL)
 
 Windows Subsystem for Linux
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,177 |
+| Stars | 34,189 |
 | Forks | 1,869 |
-| Stars this month | 499 |
+| Stars this month | 501 |
 
 ---
 
-## 19. [react/react-native](https://github.com/react/react-native)
+## 17. [react/react-native](https://github.com/react/react-native)
 
 A framework for building native applications using React
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 126,758 |
-| Forks | 25,347 |
-| Stars this month | 415 |
+| Stars | 126,775 |
+| Forks | 25,354 |
+| Stars this month | 421 |
+
+---
+
+## 18. [deskflow/deskflow](https://github.com/deskflow/deskflow)
+
+Share a single keyboard and mouse between multiple computers.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 30,093 |
+| Forks | 5,014 |
+| Stars this month | 1,075 |
+
+---
+
+## 19. [typesense/typesense](https://github.com/typesense/typesense)
+
+Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 27,035 |
+| Forks | 1,019 |
+| Stars this month | 484 |
 
 ---

@@ -1,7 +1,7 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-23T04:42:55Z
+**Snapshot Time:** 2026-10-24T04:30:43Z
 **Total Repositories:** 15
 **New Entries:** 4
 **Quality Score:** 97.33/100
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,274 |
-| Forks | 593 |
-| Stars this week | 1,384 |
+| Stars | 9,463 |
+| Forks | 607 |
+| Stars this week | 1,471 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,122 |
-| Forks | 399 |
-| Stars this week | 862 |
+| Stars | 4,264 |
+| Forks | 402 |
+| Stars this week | 868 |
 
 ---
 
@@ -39,35 +39,35 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,178 |
-| Forks | 261 |
-| Stars this week | 715 |
+| Stars | 5,287 |
+| Forks | 268 |
+| Stars this week | 688 |
 
 ---
 
-## 4. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
-
-DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,379 |
-| Forks | 406 |
-| Stars this week | 410 |
-
----
-
-## 5. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+## 4. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
 
 翻墙-科学上网
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 55,746 |
-| Forks | 8,685 |
-| Stars this week | 1,633 |
+| Stars | 55,783 |
+| Forks | 8,686 |
+| Stars this week | 1,642 |
+
+---
+
+## 5. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
+
+DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,409 |
+| Forks | 412 |
+| Stars this week | 364 |
 
 ---
 
@@ -78,125 +78,125 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,526 |
-| Forks | 4,631 |
-| Stars this week | 308 |
+| Stars | 19,568 |
+| Forks | 4,658 |
+| Stars this week | 302 |
 
 ---
 
-## 7. [LegadoTeam/legado](https://github.com/LegadoTeam/legado) 🆕
+## 7. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) 🆕
 
-Legado 3.0 Book Reader with powerful controls
+RikkaHub is an Android APP that supports for multiple LLM providers.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,647 |
-| Forks | 382 |
-| Stars this week | 140 |
+| Stars | 8,412 |
+| Forks | 816 |
+| Stars this week | 213 |
 
 ---
 
-## 8. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+## 8. [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) 🆕
 
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone Ca: H2mNeSJV75VuQpGA9C11FwWoT9DU7sMCYUNVaMyQpump
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 31,993 |
-| Forks | 3,409 |
-| Stars this week | 438 |
+| Stars | 7,016 |
+| Forks | 1,081 |
+| Stars this week | 205 |
 
 ---
 
-## 9. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-
-A cross-platform music app using YouTube Music for backend
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 12,298 |
-| Forks | 688 |
-| Stars this week | 247 |
-
----
-
-## 10. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-
-The Magic Mask for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 63,434 |
-| Forks | 18,988 |
-| Stars this week | 210 |
-
----
-
-## 11. [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server) 🆕
-
-First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 764 |
-| Forks | 120 |
-| Stars this week | 154 |
-
----
-
-## 12. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-
-A V2Ray client for Android, support Xray core and v2fly core
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 64,494 |
-| Forks | 8,370 |
-| Stars this week | 504 |
-
----
-
-## 13. [android/architecture-samples](https://github.com/android/architecture-samples) 🆕
-
-A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 45,867 |
-| Forks | 11,852 |
-| Stars this week | 40 |
-
----
-
-## 14. [celzero/rethink-app](https://github.com/celzero/rethink-app)
+## 9. [celzero/rethink-app](https://github.com/celzero/rethink-app)
 
 DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,729 |
+| Stars | 5,747 |
 | Forks | 366 |
-| Stars this week | 140 |
+| Stars this week | 152 |
 
 ---
 
-## 15. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) 🆕
+## 10. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) 🆕
 
-A Download Manager that speeds up your downloads
+Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,740 |
-| Forks | 973 |
-| Stars this week | 216 |
+| Stars | 6,643 |
+| Forks | 1,367 |
+| Stars this week | 102 |
+
+---
+
+## 11. [LegadoTeam/legado](https://github.com/LegadoTeam/legado)
+
+Legado 3.0 Book Reader with powerful controls
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,659 |
+| Forks | 384 |
+| Stars this week | 136 |
+
+---
+
+## 12. [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server)
+
+First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 786 |
+| Forks | 120 |
+| Stars this week | 174 |
+
+---
+
+## 13. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 32,047 |
+| Forks | 3,417 |
+| Stars this week | 443 |
+
+---
+
+## 14. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+
+A cross-platform music app using YouTube Music for backend
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 12,323 |
+| Forks | 691 |
+| Stars this week | 237 |
+
+---
+
+## 15. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
+
+基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 43,278 |
+| Forks | 2,067 |
+| Stars this week | 381 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-23T04:43:14Z
+**Snapshot Time:** 2026-10-24T04:31:02Z
 **Total Repositories:** 20
-**New Entries:** 1
+**New Entries:** 3
 **Quality Score:** 98.00/100
 
 ---
@@ -15,9 +15,9 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 93,250 |
-| Forks | 10,465 |
-| Stars this month | 13,804 |
+| Stars | 93,701 |
+| Forks | 10,525 |
+| Stars this month | 14,248 |
 
 ---
 
@@ -28,61 +28,61 @@ Spring Boot helps you to create Spring-powered, production-grade applications an
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 81,763 |
-| Forks | 44,855 |
-| Stars this month | 557 |
+| Stars | 81,773 |
+| Forks | 44,727 |
+| Stars this month | 565 |
 
 ---
 
-## 3. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
-
-A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 10,588 |
-| Forks | 1,212 |
-| Stars this month | 524 |
-
----
-
-## 4. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+## 3. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
 
 MCP Server for Ghidra
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 11,488 |
-| Forks | 1,207 |
-| Stars this month | 1,390 |
+| Stars | 11,505 |
+| Forks | 1,210 |
+| Stars this month | 1,396 |
 
 ---
 
-## 5. [termux/termux-app](https://github.com/termux/termux-app)
-
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 63,220 |
-| Forks | 7,988 |
-| Stars this month | 2,133 |
-
----
-
-## 6. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 4. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
 Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,347 |
-| Forks | 26,088 |
-| Stars this month | 537 |
+| Stars | 78,355 |
+| Forks | 26,096 |
+| Stars this month | 529 |
+
+---
+
+## 5. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
+
+A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 10,641 |
+| Forks | 1,246 |
+| Stars this month | 559 |
+
+---
+
+## 6. [termux/termux-app](https://github.com/termux/termux-app)
+
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 63,289 |
+| Forks | 8,000 |
+| Stars this month | 2,174 |
 
 ---
 
@@ -93,22 +93,22 @@ AndroidIDE is an IDE for Android to develop full featured Android apps.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,291 |
-| Forks | 735 |
+| Stars | 3,295 |
+| Forks | 736 |
 | Stars this month | 167 |
 
 ---
 
-## 8. [kestra-io/kestra](https://github.com/kestra-io/kestra)
+## 8. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
-Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+A libre lightweight streaming front-end for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 29,950 |
-| Forks | 3,462 |
-| Stars this month | 1,784 |
+| Stars | 40,266 |
+| Forks | 3,917 |
+| Stars this month | 620 |
 
 ---
 
@@ -119,9 +119,9 @@ Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plu
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,855 |
-| Forks | 346 |
-| Stars this month | 1,928 |
+| Stars | 5,883 |
+| Forks | 350 |
+| Stars this month | 1,948 |
 
 ---
 
@@ -132,35 +132,35 @@ A tool for reverse engineering Android apk files
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,553 |
-| Forks | 4,130 |
-| Stars this month | 936 |
+| Stars | 26,618 |
+| Forks | 4,137 |
+| Stars this month | 1,003 |
 
 ---
 
-## 11. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+## 11. [kestra-io/kestra](https://github.com/kestra-io/kestra)
 
-A libre lightweight streaming front-end for Android.
+Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,249 |
-| Forks | 3,915 |
-| Stars this month | 612 |
+| Stars | 29,967 |
+| Forks | 3,466 |
+| Stars this month | 1,750 |
 
 ---
 
-## 12. [skylot/jadx](https://github.com/skylot/jadx)
+## 12. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) 🆕
 
-Dex to Java decompiler
+Advanced Sentry Mode for BYD Vehicles
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 51,200 |
-| Forks | 5,819 |
-| Stars this month | 720 |
+| Stars | 385 |
+| Forks | 110 |
+| Stars this month | 114 |
 
 ---
 
@@ -169,13 +169,52 @@ Dex to Java decompiler
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,443 |
-| Forks | 220 |
-| Stars this month | 99 |
+| Stars | 1,447 |
+| Forks | 222 |
+| Stars this month | 101 |
 
 ---
 
-## 14. [MCRcortex/voxy](https://github.com/MCRcortex/voxy)
+## 14. [skylot/jadx](https://github.com/skylot/jadx)
+
+Dex to Java decompiler
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 51,222 |
+| Forks | 5,823 |
+| Stars this month | 720 |
+
+---
+
+## 15. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
+
+Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,029 |
+| Forks | 353 |
+| Stars this month | 290 |
+
+---
+
+## 16. [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+
+Digital logic design tool and simulator
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 7,823 |
+| Forks | 1,039 |
+| Stars this month | 191 |
+
+---
+
+## 17. [MCRcortex/voxy](https://github.com/MCRcortex/voxy)
 
 An LoD rendering mod for minecraft
 
@@ -183,85 +222,46 @@ An LoD rendering mod for minecraft
 |--------|-------|
 | Language | Java |
 | Stars | 1,347 |
-| Forks | 1,472 |
+| Forks | 1,477 |
 | Stars this month | 113 |
 
 ---
 
-## 15. [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)
-
-A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,929 |
-| Forks | 930 |
-| Stars this month | 131 |
-
----
-
-## 16. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
-
-Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,015 |
-| Forks | 352 |
-| Stars this month | 277 |
-
----
-
-## 17. [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
-
-Digital logic design tool and simulator
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 7,813 |
-| Forks | 1,038 |
-| Stars this month | 184 |
-
----
-
-## 18. [apache/flink](https://github.com/apache/flink) 🆕
+## 18. [apache/flink](https://github.com/apache/flink)
 
 Apache Flink
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,420 |
-| Forks | 14,065 |
-| Stars this month | 91 |
+| Stars | 26,421 |
+| Forks | 14,074 |
+| Stars this month | 93 |
 
 ---
 
-## 19. [freeok/so-novel](https://github.com/freeok/so-novel)
+## 19. [DrKLO/Telegram](https://github.com/DrKLO/Telegram) 🆕
 
-小说下载｜网文下载 | 网络小说
+Telegram for Android source
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 8,725 |
-| Forks | 742 |
-| Stars this month | 576 |
+| Stars | 30,144 |
+| Forks | 10,317 |
+| Stars this month | 282 |
 
 ---
 
-## 20. [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD)
+## 20. [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) 🆕
 
-The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.
+The main repository of Telegram X — official alternative Telegram client for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,143 |
-| Forks | 347 |
-| Stars this month | 170 |
+| Stars | 6,118 |
+| Forks | 1,159 |
+| Stars this month | 132 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-23T04:42:54Z
-**Total Repositories:** 17
-**New Entries:** 3
+**Snapshot Time:** 2026-10-24T04:30:41Z
+**Total Repositories:** 18
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 93,250 |
-| Forks | 10,465 |
-| Stars this week | 4,892 |
+| Stars | 93,701 |
+| Forks | 10,525 |
+| Stars this week | 4,221 |
 
 ---
 
@@ -28,9 +28,9 @@ A Minecraft Launcher which is multi-functional, cross-platform and popular
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,588 |
-| Forks | 1,212 |
-| Stars this week | 358 |
+| Stars | 10,641 |
+| Forks | 1,246 |
+| Stars this week | 399 |
 
 ---
 
@@ -41,9 +41,9 @@ A tool for reverse engineering Android apk files
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,553 |
-| Forks | 4,130 |
-| Stars this week | 599 |
+| Stars | 26,618 |
+| Forks | 4,137 |
+| Stars this week | 660 |
 
 ---
 
@@ -54,9 +54,9 @@ Dual pane Android file manager with focus on APKs
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 328 |
-| Forks | 37 |
-| Stars this week | 76 |
+| Stars | 354 |
+| Forks | 44 |
+| Stars this week | 74 |
 
 ---
 
@@ -67,48 +67,48 @@ The official Java SDK for Model Context Protocol servers and clients. Maintained
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,736 |
-| Forks | 1,111 |
-| Stars this week | 19 |
+| Stars | 3,738 |
+| Forks | 1,113 |
+| Stars this week | 17 |
 
 ---
 
-## 6. [freeok/so-novel](https://github.com/freeok/so-novel)
-
-小说下载｜网文下载 | 网络小说
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 8,725 |
-| Forks | 742 |
-| Stars this week | 237 |
-
----
-
-## 7. [apache/kafka](https://github.com/apache/kafka)
-
-Apache Kafka - A distributed event streaming platform
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 34,109 |
-| Forks | 15,618 |
-| Stars this week | 255 |
-
----
-
-## 8. [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
+## 6. [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
 
 An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,615 |
+| Stars | 1,617 |
 | Forks | 103 |
-| Stars this week | 90 |
+| Stars this week | 93 |
+
+---
+
+## 7. [freeok/so-novel](https://github.com/freeok/so-novel)
+
+小说下载｜网文下载 | 网络小说
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 8,744 |
+| Forks | 741 |
+| Stars this week | 165 |
+
+---
+
+## 8. [apache/kafka](https://github.com/apache/kafka)
+
+Apache Kafka - A distributed event streaming platform
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 34,108 |
+| Forks | 15,624 |
+| Stars this week | 190 |
 
 ---
 
@@ -119,9 +119,9 @@ Dex to Java decompiler
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 51,200 |
-| Forks | 5,819 |
-| Stars this week | 254 |
+| Stars | 51,222 |
+| Forks | 5,823 |
+| Stars this week | 248 |
 
 ---
 
@@ -132,9 +132,9 @@ Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,015 |
-| Forks | 352 |
-| Stars this week | 78 |
+| Stars | 5,029 |
+| Forks | 353 |
+| Stars this week | 82 |
 
 ---
 
@@ -145,86 +145,99 @@ Free universal database tool and SQL client
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 52,178 |
+| Stars | 52,184 |
 | Forks | 4,429 |
-| Stars this week | 127 |
+| Stars this week | 120 |
 
 ---
 
-## 12. [MojoLauncher/MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) 🆕
+## 12. [LiteLDev/LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) 🆕
 
-A Minecraft: Java Edition launcher, based on PojavLauncher
+A launcher designed for Minecraft Bedrock Edition on Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,044 |
-| Forks | 483 |
-| Stars this week | 17 |
+| Stars | 644 |
+| Forks | 162 |
+| Stars this week | 23 |
 
 ---
 
-## 13. [termux/termux-app](https://github.com/termux/termux-app)
+## 13. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release) 🆕
 
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
+Advanced Sentry Mode for BYD Vehicles
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 63,220 |
-| Forks | 7,988 |
-| Stars this week | 551 |
+| Stars | 385 |
+| Forks | 110 |
+| Stars this week | 18 |
 
 ---
 
-## 14. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) 🆕
-
-Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,099 |
-| Forks | 70 |
-| Stars this week | 46 |
-
----
-
-## 15. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java)
-
-Build distributed, production-grade, long-running agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 6,091 |
-| Forks | 1,525 |
-| Stars this week | 92 |
-
----
-
-## 16. [krahets/hello-algo](https://github.com/krahets/hello-algo)
-
-《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 130,915 |
-| Forks | 15,470 |
-| Stars this week | 243 |
-
----
-
-## 17. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) 🆕
+## 14. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 
 No clever tagline needed.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,764 |
-| Forks | 1,751 |
-| Stars this week | 62 |
+| Stars | 13,772 |
+| Forks | 1,748 |
+| Stars this week | 67 |
+
+---
+
+## 15. [MojoLauncher/MojoLauncher](https://github.com/MojoLauncher/MojoLauncher)
+
+A Minecraft: Java Edition launcher, based on PojavLauncher
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,048 |
+| Forks | 489 |
+| Stars this week | 19 |
+
+---
+
+## 16. [termux/termux-app](https://github.com/termux/termux-app)
+
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 63,289 |
+| Forks | 8,000 |
+| Stars this week | 571 |
+
+---
+
+## 17. [apache/cassandra](https://github.com/apache/cassandra) 🆕
+
+Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 10,118 |
+| Forks | 4,067 |
+| Stars this week | 13 |
+
+---
+
+## 18. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) 🆕
+
+Learn System Design concepts and prepare for interviews using free resources.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 42,781 |
+| Forks | 8,896 |
+| Stars this week | 387 |
 
 ---

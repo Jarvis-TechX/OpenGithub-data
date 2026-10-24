@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-23T04:42:50Z
-**Total Repositories:** 10
-**New Entries:** 1
+**Snapshot Time:** 2026-10-24T04:30:38Z
+**Total Repositories:** 15
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,831 |
-| Forks | 899 |
-| Stars this week | 3,322 |
+| Stars | 13,090 |
+| Forks | 912 |
+| Stars this week | 3,449 |
 
 ---
 
@@ -28,9 +28,9 @@ Local-first search engine and MCP server for AI agents. One Rust binary indexes 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 13,171 |
-| Forks | 946 |
-| Stars this week | 8,064 |
+| Stars | 14,249 |
+| Forks | 986 |
+| Stars this week | 7,783 |
 
 ---
 
@@ -41,9 +41,9 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager �
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 96,357 |
-| Forks | 5,106 |
-| Stars this week | 191 |
+| Stars | 96,366 |
+| Forks | 5,116 |
+| Stars this week | 197 |
 
 ---
 
@@ -54,9 +54,9 @@ AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binar
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,364 |
-| Forks | 163 |
-| Stars this week | 378 |
+| Stars | 1,385 |
+| Forks | 166 |
+| Stars this week | 265 |
 
 ---
 
@@ -67,73 +67,138 @@ OpenBitFun combines a high-performance agent runtime written in Rust with a poli
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,054 |
-| Forks | 277 |
-| Stars this week | 639 |
+| Stars | 3,102 |
+| Forks | 278 |
+| Stars this week | 452 |
 
 ---
 
-## 6. [trymirai/uzu](https://github.com/trymirai/uzu)
+## 6. [leepokai/Codync](https://github.com/leepokai/Codync) 🆕
+
+The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 764 |
+| Forks | 95 |
+| Stars this week | 304 |
+
+---
+
+## 7. [trymirai/uzu](https://github.com/trymirai/uzu)
 
 A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,543 |
+| Stars | 2,561 |
 | Forks | 146 |
-| Stars this week | 198 |
+| Stars this week | 192 |
 
 ---
 
-## 7. [googleworkspace/cli](https://github.com/googleworkspace/cli)
+## 8. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) 🆕
+
+A Tiny biped duck robot 🦆
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 10,529 |
+| Forks | 1,356 |
+| Stars this week | 936 |
+
+---
+
+## 9. [googleworkspace/cli](https://github.com/googleworkspace/cli)
 
 Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,800 |
-| Forks | 1,949 |
-| Stars this week | 275 |
+| Stars | 31,823 |
+| Forks | 1,952 |
+| Stars this week | 274 |
 
 ---
 
-## 8. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+## 10. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
 
 Object-storage native graph database with branching and typed ontology
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,673 |
-| Forks | 237 |
-| Stars this week | 378 |
+| Stars | 1,711 |
+| Forks | 239 |
+| Stars this week | 397 |
 
 ---
 
-## 9. [storytold/artcraft](https://github.com/storytold/artcraft)
+## 11. [claration/impactor](https://github.com/claration/impactor) 🆕
 
-ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 35,678 |
-| Forks | 5,643 |
-| Stars this week | 6,721 |
+| Stars | 3,585 |
+| Forks | 254 |
+| Stars this week | 93 |
 
 ---
 
-## 10. [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) 🆕
+## 12. [BrandonKowalski/slot](https://github.com/BrandonKowalski/slot) 🆕
 
-The unified toolchain and entry point for web development.
+A bespoke, Game Boy-centric CFW for the RG SP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,450 |
-| Forks | 296 |
-| Stars this week | 225 |
+| Stars | 246 |
+| Forks | 68 |
+| Stars this week | 63 |
+
+---
+
+## 13. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) 🆕
+
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,484 |
+| Forks | 412 |
+| Stars this week | 357 |
+
+---
+
+## 14. [oxc-project/oxc](https://github.com/oxc-project/oxc) 🆕
+
+⚓ A collection of high-performance JavaScript tools.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 23,205 |
+| Forks | 1,403 |
+| Stars this week | 133 |
+
+---
+
+## 15. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) 🆕
+
+A WiFi security auditing software
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 4,743 |
+| Forks | 795 |
+| Stars this week | 531 |
 
 ---

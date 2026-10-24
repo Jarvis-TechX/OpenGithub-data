@@ -1,110 +1,113 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-23T04:42:37Z
+**Snapshot Time:** 2026-10-24T04:30:24Z
 **Total Repositories:** 8
-**New Entries:** 6
-**Quality Score:** 95.00/100
+**New Entries:** 8
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [jqssun/android-airplay-server](https://github.com/jqssun/android-airplay-server)
+## 1. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
 
-First open-source AirPlay receiver implementation for Android with mirroring, video and audio support
+基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 764 |
-| Forks | 120 |
-| Stars today | 23 |
-
----
-
-## 2. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) 🆕
-
-使用 Material Design 3 全新设计的阅读 3.0
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,602 |
-| Forks | 756 |
-| Stars today | 7 |
-
----
-
-## 3. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
-
-BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,122 |
-| Forks | 399 |
-| Stars today | 92 |
-
----
-
-## 4. [jieapi/AiCode](https://github.com/jieapi/AiCode) 🆕
-
-在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 312 |
-| Forks | 55 |
-| Stars today | 6 |
-
----
-
-## 5. [celzero/rethink-app](https://github.com/celzero/rethink-app) 🆕
-
-DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 5,729 |
-| Forks | 366 |
+| Stars | 43,278 |
+| Forks | 2,067 |
 | Stars today | 50 |
 
 ---
 
-## 6. [android/nowinandroid](https://github.com/android/nowinandroid) 🆕
+## 2. [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) 🆕
 
-A fully functional Android app built entirely with Kotlin and Jetpack Compose
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 21,954 |
-| Forks | 4,688 |
-| Stars today | 5 |
-
----
-
-## 7. [google/private-compute-services](https://github.com/google/private-compute-services) 🆕
+The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone Ca: H2mNeSJV75VuQpGA9C11FwWoT9DU7sMCYUNVaMyQpump
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 894 |
-| Forks | 353 |
-
----
-
-## 8. [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) 🆕
-
-Tailscale Android Client
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,711 |
-| Forks | 761 |
+| Stars | 7,016 |
+| Forks | 1,081 |
 | Stars today | 3 |
+
+---
+
+## 3. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
+
+Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 516 |
+| Forks | 95 |
+| Stars today | 38 |
+
+---
+
+## 4. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
+
+A V2Ray client for Android, support Xray core and v2fly core
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 64,556 |
+| Forks | 8,379 |
+| Stars today | 85 |
+
+---
+
+## 5. [JetBrains/kotlin](https://github.com/JetBrains/kotlin) 🆕
+
+The Kotlin Programming Language.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 53,506 |
+| Forks | 6,448 |
+| Stars today | 11 |
+
+---
+
+## 6. [home-assistant/android](https://github.com/home-assistant/android) 🆕
+
+Home Assistant Companion for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,993 |
+| Forks | 1,106 |
+| Stars today | 3 |
+
+---
+
+## 7. [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) 🆕
+
+decentralized mesh chat
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,863 |
+| Forks | 1,943 |
+| Stars today | 18 |
+
+---
+
+## 8. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
+
+Headunit App for displaying Android Auto
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,973 |
+| Forks | 263 |
+| Stars today | 27 |
 
 ---

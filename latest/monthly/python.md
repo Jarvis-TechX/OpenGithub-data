@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-23T04:43:00Z
+**Snapshot Time:** 2026-10-24T04:30:48Z
 **Total Repositories:** 19
-**New Entries:** 1
+**New Entries:** 2
 **Quality Score:** 97.89/100
 
 ---
@@ -15,9 +15,9 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 81,969 |
-| Forks | 9,052 |
-| Stars this month | 47,620 |
+| Stars | 83,576 |
+| Forks | 9,220 |
+| Stars this month | 48,343 |
 
 ---
 
@@ -28,9 +28,9 @@ Hindsight: Agent Memory That Learns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 52,825 |
-| Forks | 6,213 |
-| Stars this month | 28,067 |
+| Stars | 53,192 |
+| Forks | 6,232 |
+| Stars this month | 28,115 |
 
 ---
 
@@ -41,9 +41,9 @@ Open source repository of plugins primarily intended for knowledge workers to us
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 31,727 |
-| Forks | 3,542 |
-| Stars this month | 6,026 |
+| Stars | 32,314 |
+| Forks | 3,576 |
+| Stars this month | 6,635 |
 
 ---
 
@@ -54,9 +54,9 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 43,941 |
-| Forks | 4,626 |
-| Stars this month | 7,380 |
+| Stars | 44,162 |
+| Forks | 4,643 |
+| Stars this month | 7,614 |
 
 ---
 
@@ -67,9 +67,9 @@ Give your agent CAD superpowers.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 22,585 |
-| Forks | 2,203 |
-| Stars this month | 6,334 |
+| Stars | 22,794 |
+| Forks | 2,221 |
+| Stars this month | 6,519 |
 
 ---
 
@@ -80,9 +80,9 @@ Learn AI Engineering! Learn it. Build it. Ship it for others.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 72,531 |
-| Forks | 12,756 |
-| Stars this month | 17,489 |
+| Stars | 72,850 |
+| Forks | 12,800 |
+| Stars this month | 17,479 |
 
 ---
 
@@ -93,9 +93,9 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 10,757 |
-| Forks | 1,375 |
-| Stars this month | 6,233 |
+| Stars | 10,878 |
+| Forks | 1,392 |
+| Stars this month | 6,225 |
 
 ---
 
@@ -106,9 +106,9 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 39,505 |
-| Forks | 3,428 |
-| Stars this month | 3,800 |
+| Stars | 39,584 |
+| Forks | 3,427 |
+| Stars this month | 3,867 |
 
 ---
 
@@ -119,20 +119,22 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 56,306 |
-| Forks | 5,066 |
-| Stars this month | 6,636 |
+| Stars | 56,652 |
+| Forks | 5,085 |
+| Stars this month | 6,906 |
 
 ---
 
-## 10. [anthropics/financial-services](https://github.com/anthropics/financial-services)
+## 10. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 40,700 |
-| Forks | 5,683 |
-| Stars this month | 4,692 |
+| Stars | 101,387 |
+| Forks | 8,940 |
+| Stars this month | 16,814 |
 
 ---
 
@@ -143,100 +145,98 @@ Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCod
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 41,578 |
-| Forks | 4,410 |
-| Stars this month | 1,804 |
+| Stars | 41,616 |
+| Forks | 4,411 |
+| Stars this month | 1,821 |
 
 ---
 
-## 12. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 101,084 |
-| Forks | 8,910 |
-| Stars this month | 16,831 |
-
----
-
-## 13. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed) 🆕
+## 12. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)
 
 TokenSpeed is a speed-of-light LLM inference engine.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,765 |
-| Forks | 368 |
-| Stars this month | 603 |
+| Stars | 2,774 |
+| Forks | 374 |
+| Stars this month | 617 |
 
 ---
 
-## 14. [pytorch/pytorch](https://github.com/pytorch/pytorch)
-
-Tensors and Dynamic neural networks in Python with strong GPU acceleration
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 104,990 |
-| Forks | 32,516 |
-| Stars this month | 2,550 |
-
----
-
-## 15. [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
-
-Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 8,746 |
-| Forks | 916 |
-| Stars this month | 1,306 |
-
----
-
-## 16. [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
-
-A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 5,416 |
-| Forks | 769 |
-| Stars this month | 1,589 |
-
----
-
-## 17. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+## 13. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
 World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 70,948 |
-| Forks | 9,170 |
-| Stars this month | 10,373 |
+| Stars | 71,224 |
+| Forks | 9,219 |
+| Stars this month | 10,478 |
 
 ---
 
-## 18. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+## 14. [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
 
-CLI tool for configuring and monitoring Claude Code
+Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,841 |
-| Forks | 3,778 |
-| Stars this month | 1,990 |
+| Stars | 8,755 |
+| Forks | 921 |
+| Stars this month | 1,312 |
+
+---
+
+## 15. [pytorch/pytorch](https://github.com/pytorch/pytorch)
+
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 105,022 |
+| Forks | 32,412 |
+| Stars this month | 2,549 |
+
+---
+
+## 16. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 🆕
+
+Kronos: A Foundation Model for the Language of Financial Markets
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 43,477 |
+| Forks | 7,173 |
+| Stars this month | 4,199 |
+
+---
+
+## 17. [fastapi/fastapi](https://github.com/fastapi/fastapi) 🆕
+
+FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 104,064 |
+| Forks | 10,112 |
+| Stars this month | 1,866 |
+
+---
+
+## 18. [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 40,734 |
+| Forks | 5,683 |
+| Stars this month | 4,147 |
 
 ---
 
@@ -247,8 +247,8 @@ Community plugin to control Blender 3D with any LLM of your choice. Not affiliat
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,049 |
-| Forks | 2,904 |
-| Stars this month | 2,915 |
+| Stars | 32,157 |
+| Forks | 2,914 |
+| Stars this month | 2,972 |
 
 ---

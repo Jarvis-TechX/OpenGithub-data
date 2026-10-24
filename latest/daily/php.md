@@ -1,209 +1,27 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-23T04:42:30Z
-**Total Repositories:** 24
-**New Entries:** 13
+**Snapshot Time:** 2026-10-24T04:30:17Z
+**Total Repositories:** 22
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+## 1. [kimai/kimai](https://github.com/kimai/kimai)
 
-A free, self-hostable news aggregator…
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 16,394 |
-| Forks | 1,318 |
-| Stars today | 27 |
-
----
-
-## 2. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
-
-📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,694 |
-| Forks | 1,119 |
-| Stars today | 64 |
-
----
-
-## 3. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
-
-A free open source IT asset/license management system
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 15,068 |
-| Forks | 4,033 |
-| Stars today | 7 |
-
----
-
-## 4. [shlinkio/shlink](https://github.com/shlinkio/shlink) 🆕
-
-The definitive self-hosted URL shortener
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,361 |
-| Forks | 435 |
-| Stars today | 6 |
-
----
-
-## 5. [glpi-project/glpi](https://github.com/glpi-project/glpi)
-
-GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 6,495 |
-| Forks | 1,839 |
-| Stars today | 9 |
-
----
-
-## 6. [coollabsio/coolify](https://github.com/coollabsio/coolify)
-
-An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 63,493 |
-| Forks | 5,714 |
-| Stars today | 102 |
-
----
-
-## 7. [nextcloud/server](https://github.com/nextcloud/server) 🆕
-
-☁️ Nextcloud server, a safe home for all your data
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 37,237 |
-| Forks | 5,300 |
-| Stars today | 36 |
-
----
-
-## 8. [opnsense/core](https://github.com/opnsense/core)
-
-OPNsense GUI, API and systems backend
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,754 |
-| Forks | 1,015 |
-| Stars today | 4 |
-
----
-
-## 9. [pterodactyl/panel](https://github.com/pterodactyl/panel)
-
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,397 |
-| Forks | 2,733 |
-| Stars today | 30 |
-
----
-
-## 10. [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos) 🆕
-
-Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,458 |
-| Forks | 2,642 |
-| Stars today | 2 |
-
----
-
-## 11. [4jean/lav_sms](https://github.com/4jean/lav_sms) 🆕
-
-Laravel School Management System (LAVSMS)
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,104 |
-| Forks | 674 |
-| Stars today | 4 |
-
----
-
-## 12. [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
-
-The classic email sending library for PHP
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 22,327 |
-| Forks | 9,770 |
+| Stars | 5,095 |
+| Forks | 868 |
 | Stars today | 5 |
 
 ---
 
-## 13. [cedar2025/Xboard](https://github.com/cedar2025/Xboard) 🆕
-
-High-performance panel based on V2board secondary development supporting new protocols and new features
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,798 |
-| Forks | 1,368 |
-| Stars today | 11 |
-
----
-
-## 14. [bagisto/bagisto](https://github.com/bagisto/bagisto) 🆕
-
-Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 28,269 |
-| Forks | 3,344 |
-| Stars today | 4 |
-
----
-
-## 15. [librenms/librenms](https://github.com/librenms/librenms)
-
-Community-based GPL-licensed network monitoring system
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,968 |
-| Forks | 2,846 |
-| Stars today | 4 |
-
----
-
-## 16. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)
+## 2. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)
 
 The Roundcube Webmail suite
 
@@ -211,103 +29,207 @@ The Roundcube Webmail suite
 |--------|-------|
 | Language | PHP |
 | Stars | 7,241 |
-| Forks | 1,801 |
-| Stars today | 8 |
+| Forks | 1,802 |
+| Stars today | 3 |
 
 ---
 
-## 17. [symfony/symfony](https://github.com/symfony/symfony) 🆕
+## 3. [nextcloud/server](https://github.com/nextcloud/server)
 
-The Symfony PHP framework
+☁️ Nextcloud server, a safe home for all your data
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,200 |
-| Forks | 9,916 |
-| Stars today | 13 |
+| Stars | 37,264 |
+| Forks | 5,301 |
+| Stars today | 29 |
 
 ---
 
-## 18. [danog/MadelineProto](https://github.com/danog/MadelineProto) 🆕
+## 4. [shlinkio/shlink](https://github.com/shlinkio/shlink)
 
-Async PHP client API for the telegram MTProto protocol
+The definitive self-hosted URL shortener
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,544 |
-| Forks | 929 |
-| Stars today | 1 |
-
----
-
-## 19. [kimai/kimai](https://github.com/kimai/kimai) 🆕
-
-Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,092 |
-| Forks | 865 |
+| Stars | 5,366 |
+| Forks | 438 |
 | Stars today | 4 |
 
 ---
 
-## 20. [laravel/framework](https://github.com/laravel/framework)
+## 5. [coollabsio/coolify](https://github.com/coollabsio/coolify)
+
+An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 63,614 |
+| Forks | 5,724 |
+| Stars today | 116 |
+
+---
+
+## 6. [MISP/MISP](https://github.com/MISP/MISP) 🆕
+
+MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 6,619 |
+| Forks | 1,656 |
+| Stars today | 2 |
+
+---
+
+## 7. [grokability/snipe-it](https://github.com/grokability/snipe-it)
+
+A free open source IT asset/license management system
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 15,077 |
+| Forks | 4,036 |
+| Stars today | 7 |
+
+---
+
+## 8. [cedar2025/Xboard](https://github.com/cedar2025/Xboard)
+
+High-performance panel based on V2board secondary development supporting new protocols and new features
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,799 |
+| Forks | 1,369 |
+| Stars today | 3 |
+
+---
+
+## 9. [librenms/librenms](https://github.com/librenms/librenms)
+
+Community-based GPL-licensed network monitoring system
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,969 |
+| Forks | 2,847 |
+| Stars today | 3 |
+
+---
+
+## 10. [laravel/framework](https://github.com/laravel/framework)
 
 Laravel is a web application framework with expressive, elegant syntax.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 34,973 |
-| Forks | 12,023 |
-| Stars today | 8 |
-
----
-
-## 21. [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) 🆕
-
-The RSS feed for websites missing it
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,312 |
-| Forks | 1,260 |
+| Stars | 34,975 |
+| Forks | 12,026 |
 | Stars today | 5 |
 
 ---
 
-## 22. [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop)
+## 11. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
-PrestaShop is the universal open-source software platform to build your e-commerce solution.
+A free, self-hostable news aggregator…
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,234 |
-| Forks | 5,047 |
-| Stars today | 3 |
+| Stars | 16,406 |
+| Forks | 1,321 |
+| Stars today | 18 |
 
 ---
 
-## 23. [elabftw/elabftw](https://github.com/elabftw/elabftw) 🆕
+## 12. [digininja/DVWA](https://github.com/digininja/DVWA) 🆕
 
-📓 eLabFTW is the most popular open source electronic lab notebook for research labs.
+Damn Vulnerable Web Application (DVWA)
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,464 |
-| Forks | 354 |
+| Stars | 13,894 |
+| Forks | 5,224 |
+| Stars today | 5 |
+
+---
+
+## 13. [filamentphp/filament](https://github.com/filamentphp/filament) 🆕
+
+A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 32,327 |
+| Forks | 4,224 |
+| Stars today | 13 |
+
+---
+
+## 14. [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) 🆕
+
+A web interface for MySQL and MariaDB
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,957 |
+| Forks | 3,616 |
+| Stars today | 1 |
+
+---
+
+## 15. [pterodactyl/panel](https://github.com/pterodactyl/panel)
+
+Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 9,403 |
+| Forks | 2,736 |
+| Stars today | 8 |
+
+---
+
+## 16. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
+
+📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 10,706 |
+| Forks | 1,121 |
+| Stars today | 14 |
+
+---
+
+## 17. [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) 🆕
+
+SuiteCRM - Open source CRM for the world
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,806 |
+| Forks | 2,431 |
 | Stars today | 2 |
 
 ---
 
-## 24. [magento/magento2](https://github.com/magento/magento2) 🆕
+## 18. [magento/magento2](https://github.com/magento/magento2)
 
 Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at:https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
 
@@ -316,6 +238,58 @@ Prior to making any Submission(s), you must sign an Adobe Contributor License Ag
 | Language | PHP |
 | Stars | 12,211 |
 | Forks | 9,361 |
-| Stars today | 3 |
+| Stars today | 1 |
+
+---
+
+## 19. [kanboard/kanboard](https://github.com/kanboard/kanboard) 🆕
+
+Kanban project management software
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 9,928 |
+| Forks | 2,009 |
+| Stars today | 4 |
+
+---
+
+## 20. [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) 🆕
+
+A self-hosted open source application for managing your invoices, clients and payments.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 3,245 |
+| Forks | 887 |
+| Stars today | 10 |
+
+---
+
+## 21. [openemr/openemr](https://github.com/openemr/openemr) 🆕
+
+The most popular open source electronic health records and medical practice management solution.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,540 |
+| Forks | 3,099 |
+| Stars today | 4 |
+
+---
+
+## 22. [glpi-project/glpi](https://github.com/glpi-project/glpi)
+
+GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 6,496 |
+| Forks | 1,840 |
+| Stars today | 5 |
 
 ---

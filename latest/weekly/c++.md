@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-23T04:42:53Z
+**Snapshot Time:** 2026-10-24T04:30:40Z
 **Total Repositories:** 10
-**New Entries:** 0
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ The ultimate Geometry Dash modding framework
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,055 |
-| Forks | 604 |
-| Stars this week | 130 |
+| Stars | 3,069 |
+| Forks | 609 |
+| Stars this week | 123 |
 
 ---
 
-## 2. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+## 2. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 
-An MCP-based chatbot | 一个基于MCP的聊天机器人
+🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,775 |
-| Forks | 7,426 |
-| Stars this week | 588 |
+| Stars | 55,543 |
+| Forks | 2,567 |
+| Stars this week | 274 |
 
 ---
 
@@ -41,48 +41,48 @@ PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,869 |
-| Forks | 2,838 |
-| Stars this week | 284 |
+| Stars | 33,893 |
+| Forks | 2,846 |
+| Stars this week | 276 |
 
 ---
 
-## 4. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+## 4. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
-Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,655 |
-| Forks | 211 |
-| Stars this week | 163 |
+| Stars | 31,838 |
+| Forks | 7,447 |
+| Stars this week | 578 |
 
 ---
 
-## 5. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+## 5. [juce-framework/JUCE](https://github.com/juce-framework/JUCE) 🆕
+
+JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 9,051 |
+| Forks | 2,213 |
+| Stars this week | 80 |
+
+---
+
+## 6. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
 
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,679 |
-| Forks | 6,261 |
-| Stars this week | 353 |
-
----
-
-## 6. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
-
-FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 32,932 |
-| Forks | 4,687 |
-| Stars this week | 417 |
+| Stars | 34,715 |
+| Forks | 6,266 |
+| Stars this week | 349 |
 
 ---
 
@@ -93,35 +93,35 @@ G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,079 |
-| Forks | 3,301 |
-| Stars this week | 113 |
+| Stars | 16,099 |
+| Forks | 3,311 |
+| Stars this week | 115 |
 
 ---
 
-## 8. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+## 8. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
 
-Tool for automatic PS5 executables porting to Linux and Windows
+Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 46,949 |
-| Forks | 4,350 |
-| Stars this week | 8,714 |
+| Stars | 3,667 |
+| Forks | 217 |
+| Stars this week | 134 |
 
 ---
 
-## 9. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+## 9. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
 
-🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,518 |
-| Forks | 2,564 |
-| Stars this week | 326 |
+| Stars | 32,985 |
+| Forks | 4,700 |
+| Stars this week | 418 |
 
 ---
 
@@ -132,8 +132,8 @@ Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,339 |
+| Stars | 2,357 |
 | Forks | 143 |
-| Stars this week | 102 |
+| Stars this week | 110 |
 
 ---

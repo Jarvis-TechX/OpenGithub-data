@@ -1,139 +1,204 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-23T04:42:38Z
-**Total Repositories:** 10
-**New Entries:** 9
+**Snapshot Time:** 2026-10-24T04:30:26Z
+**Total Repositories:** 15
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+## 1. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) 🆕
 
-PCL 社区版 由社区开发者维护与管理
+The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,751 |
-| Forks | 354 |
-| Stars today | 27 |
+| Stars | 58,474 |
+| Forks | 5,709 |
+| Stars today | 69 |
 
 ---
 
-## 2. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
+## 2. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,482 |
-| Forks | 13,788 |
-| Stars today | 8 |
+| Stars | 38,488 |
+| Forks | 13,656 |
+| Stars today | 11 |
 
 ---
 
-## 3. [dotnet/skills](https://github.com/dotnet/skills) 🆕
+## 3. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) 🆕
 
-Repository for skills to assist AI coding agents with .NET and C#
+A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,704 |
-| Forks | 446 |
-| Stars today | 6 |
+| Stars | 7,476 |
+| Forks | 392 |
+| Stars today | 87 |
 
 ---
 
-## 4. [dotnet/eShop](https://github.com/dotnet/eShop) 🆕
+## 4. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
 
-A reference .NET application implementing an eCommerce site
+OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,977 |
-| Forks | 3,882 |
-| Stars today | 5 |
+| Stars | 32,375 |
+| Forks | 2,204 |
+| Stars today | 41 |
 
 ---
 
-## 5. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
+## 5. [dotnet/runtime](https://github.com/dotnet/runtime)
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,376 |
+| Stars | 18,379 |
 | Forks | 5,682 |
-| Stars today | 5 |
+| Stars today | 8 |
 
 ---
 
-## 6. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
+## 6. [STranslate/STranslate](https://github.com/STranslate/STranslate) 🆕
 
-Movie organizer/manager for usenet and torrent users.
+A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,631 |
-| Forks | 1,246 |
-| Stars today | 12 |
+| Stars | 8,372 |
+| Forks | 439 |
+| Stars today | 20 |
 
 ---
 
-## 7. [microsoft/aspire](https://github.com/microsoft/aspire) 🆕
+## 7. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) 🆕
+
+A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 2,921 |
+| Forks | 71 |
+| Stars today | 87 |
+
+---
+
+## 8. [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) 🆕
+
+A Swiss Army knife for developers.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 32,103 |
+| Forks | 1,768 |
+| Stars today | 3 |
+
+---
+
+## 9. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 🆕
+
+WinUI app for building smaller, customized Windows 11 images.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 21,021 |
+| Forks | 1,608 |
+| Stars today | 113 |
+
+---
+
+## 10. [dotnet/skills](https://github.com/dotnet/skills)
+
+Repository for skills to assist AI coding agents with .NET and C#
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,716 |
+| Forks | 446 |
+| Stars today | 11 |
+
+---
+
+## 11. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🆕
+
+Integrate cutting-edge LLM technology quickly and easily into your apps
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 28,696 |
+| Forks | 4,837 |
+| Stars today | 5 |
+
+---
+
+## 12. [stride3d/stride](https://github.com/stride3d/stride) 🆕
+
+Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,914 |
+| Forks | 1,182 |
+| Stars today | 3 |
+
+---
+
+## 13. [microsoft/aspire](https://github.com/microsoft/aspire)
 
 Aspire is the tool for code-first, extensible, observable dev and deploy.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,382 |
-| Forks | 1,021 |
-| Stars today | 3 |
-
----
-
-## 8. [DataDog/dd-trace-dotnet](https://github.com/DataDog/dd-trace-dotnet) 🆕
-
-.NET Client Library for Datadog APM
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 573 |
-| Forks | 174 |
+| Stars | 6,383 |
+| Forks | 1,024 |
 | Stars today | 1 |
 
 ---
 
-## 9. [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) 🆕
+## 14. [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) 🆕
 
-Full Modular Monolith application with Domain-Driven Design approach.
+Windows companion suite for OpenClaw
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,091 |
-| Forks | 2,188 |
-| Stars today | 7 |
+| Stars | 2,171 |
+| Forks | 324 |
+| Stars today | 2 |
 
 ---
 
-## 10. [Azure/azure-powershell](https://github.com/Azure/azure-powershell) 🆕
+## 15. [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) 🆕
 
-Microsoft Azure PowerShell
+Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,812 |
-| Forks | 4,276 |
-| Stars today | 5 |
+| Stars | 7,427 |
+| Forks | 419 |
+| Stars today | 7 |
 
 ---

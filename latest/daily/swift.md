@@ -1,40 +1,79 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-23T04:42:39Z
-**Total Repositories:** 13
-**New Entries:** 9
+**Snapshot Time:** 2026-10-24T04:30:27Z
+**Total Repositories:** 15
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [utmapp/UTM](https://github.com/utmapp/UTM)
+## 1. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
+ This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 116,861 |
+| Forks | 9,656 |
+| Stars today | 84 |
+
+---
+
+## 2. [pauljoda/Crest](https://github.com/pauljoda/Crest) 🆕
+
+An open source browser for Mac, iPhone, and iPad.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 675 |
+| Forks | 42 |
+| Stars today | 181 |
+
+---
+
+## 3. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) 🆕
+
+bluetooth mesh chat, IRC vibes
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 36,750 |
+| Forks | 5,843 |
+| Stars today | 34 |
+
+---
+
+## 4. [utmapp/UTM](https://github.com/utmapp/UTM)
 
 Virtual machines for iOS and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,477 |
+| Stars | 36,498 |
 | Forks | 1,880 |
-| Stars today | 212 |
+| Stars today | 30 |
 
 ---
 
-## 2. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit) 🆕
+## 5. [apple/coreai-models](https://github.com/apple/coreai-models) 🆕
 
-Conduit — native SwiftUI iOS client for Hermes Agent
+Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 406 |
-| Forks | 53 |
-| Stars today | 19 |
+| Stars | 2,211 |
+| Forks | 237 |
+| Stars today | 2 |
 
 ---
 
-## 3. [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) 🆕
+## 6. [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
 
 An iOS library to natively render After Effects vector animations
 
@@ -42,135 +81,123 @@ An iOS library to natively render After Effects vector animations
 |--------|-------|
 | Language | Swift |
 | Stars | 26,917 |
-| Forks | 3,837 |
+| Forks | 3,838 |
+| Stars today | 7 |
+
+---
+
+## 7. [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) 🆕
+
+Apple TV Aerial Screensaver for Mac
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 21,042 |
+| Forks | 1,033 |
+| Stars today | 27 |
+
+---
+
+## 8. [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) 🆕
+
+A private messenger for iOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 12,301 |
+| Forks | 3,529 |
 | Stars today | 4 |
 
 ---
 
-## 4. [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) 🆕
+## 9. [ProxymanApp/TCPViewer](https://github.com/ProxymanApp/TCPViewer) 🆕
 
-Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,170 |
-| Forks | 486 |
+| Stars | 563 |
+| Forks | 34 |
 | Stars today | 10 |
 
 ---
 
-## 5. [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) 🆕
+## 10. [Shpigford/chops](https://github.com/Shpigford/chops) 🆕
 
-Elegant HTTP Networking in Swift
+Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 42,394 |
-| Forks | 7,652 |
+| Stars | 2,072 |
+| Forks | 132 |
+| Stars today | 30 |
 
 ---
 
-## 6. [apple/swift-nio](https://github.com/apple/swift-nio)
+## 11. [sw33tLie/macshot](https://github.com/sw33tLie/macshot) 🆕
 
-Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,538 |
-| Forks | 818 |
+| Stars | 3,892 |
+| Forks | 243 |
+| Stars today | 10 |
 
 ---
 
-## 7. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) 🆕
+## 12. [exelban/stats](https://github.com/exelban/stats) 🆕
 
- This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+macOS system monitor in your menu bar
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 116,780 |
-| Forks | 9,627 |
-| Stars today | 98 |
+| Stars | 42,770 |
+| Forks | 1,588 |
+| Stars today | 29 |
 
 ---
 
-## 8. [f/textream](https://github.com/f/textream)
+## 13. [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) 🆕
 
-Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.
+A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,112 |
-| Forks | 286 |
-| Stars today | 11 |
+| Stars | 14,985 |
+| Forks | 1,680 |
+| Stars today | 2 |
 
 ---
 
-## 9. [p0deje/Maccy](https://github.com/p0deje/Maccy) 🆕
+## 14. [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) 🆕
 
-Lightweight clipboard manager for macOS
+The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 22,035 |
-| Forks | 1,243 |
-| Stars today | 17 |
+| Stars | 1,131 |
+| Forks | 430 |
 
 ---
 
-## 10. [mrkai77/Loop](https://github.com/mrkai77/Loop) 🆕
+## 15. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) 🆕
 
-Window management made elegant.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 11,847 |
-| Forks | 283 |
-| Stars today | 12 |
-
----
-
-## 11. [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) 🆕
-
-macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
+A command-line tool and Xcode Extension for formatting Swift code
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,984 |
-| Forks | 274 |
-| Stars today | 17 |
-
----
-
-## 12. [rime/squirrel](https://github.com/rime/squirrel) 🆕
-
-【鼠鬚管】Rime for macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 6,465 |
-| Forks | 571 |
-| Stars today | 3 |
-
----
-
-## 13. [iliyami/MacSai](https://github.com/iliyami/MacSai)
-
-Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,949 |
-| Forks | 116 |
-| Stars today | 12 |
+| Stars | 8,945 |
+| Forks | 725 |
+| Stars today | 2 |
 
 ---

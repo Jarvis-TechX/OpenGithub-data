@@ -1,126 +1,113 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-23T04:42:23Z
-**Total Repositories:** 9
+**Snapshot Time:** 2026-10-24T04:30:10Z
+**Total Repositories:** 8
 **New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [php/php-src](https://github.com/php/php-src) 🆕
-
-The PHP Interpreter
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 41,259 |
-| Forks | 8,323 |
-| Stars today | 287 |
-
----
-
-## 2. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) 🆕
-
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 31,727 |
-| Forks | 3,542 |
-| Stars today | 303 |
-
----
-
-## 3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 173,779 |
-| Forks | 9,463 |
-| Stars today | 1,948 |
-
----
-
-## 4. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+## 1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 39,917 |
-| Forks | 2,492 |
-| Stars today | 2,979 |
+| Stars | 42,416 |
+| Forks | 2,650 |
+| Stars today | 2,716 |
 
 ---
 
-## 5. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+## 2. [php/php-src](https://github.com/php/php-src)
 
-Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+The PHP Interpreter
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 41,593 |
+| Forks | 8,362 |
+| Stars today | 716 |
+
+---
+
+## 3. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 133,167 |
-| Forks | 12,734 |
-| Stars today | 1,408 |
+| Stars | 32,314 |
+| Forks | 3,576 |
+| Stars today | 635 |
 
 ---
 
-## 6. [supabase/supabase](https://github.com/supabase/supabase)
+## 4. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) 🆕
 
-The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+OpenShell is the safe, private runtime for autonomous AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 18,904 |
+| Forks | 1,888 |
+| Stars today | 1,119 |
+
+---
+
+## 5. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 🆕
+
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 113,558 |
-| Forks | 17,009 |
-| Stars today | 693 |
+| Stars | 6,986 |
+| Forks | 1,427 |
+| Stars today | 546 |
 
 ---
 
-## 7. [fastapi/fastapi](https://github.com/fastapi/fastapi) 🆕
+## 6. [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) 🆕
 
-FastAPI framework, high performance, easy to learn, fast to code, ready for production
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 103,867 |
-| Forks | 10,093 |
-| Stars today | 101 |
+| Stars | 8,593 |
+| Forks | 1,106 |
+| Stars today | 226 |
 
 ---
 
-## 8. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) 🆕
+## 7. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) 🆕
 
-A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 43,412 |
-| Forks | 5,405 |
-| Stars today | 177 |
+| Stars | 40,338 |
+| Forks | 4,582 |
+| Stars today | 150 |
 
 ---
 
-## 9. [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) 🆕
+## 8. [nodejs/node](https://github.com/nodejs/node) 🆕
 
-Minecraft 启动器 Plain Craft Launcher（PCL）。
+Node.js JavaScript runtime ✨🐢🚀✨
 
 | Metric | Value |
 |--------|-------|
-| Language | Visual Basic .NET |
-| Stars | 8,756 |
-| Forks | 1,211 |
-| Stars today | 119 |
+| Language | JavaScript |
+| Stars | 122,930 |
+| Forks | 39,837 |
+| Stars today | 66 |
 
 ---

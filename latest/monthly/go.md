@@ -1,166 +1,166 @@
 # GitHub Trending - Go
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-23T04:43:08Z
+**Snapshot Time:** 2026-10-24T04:30:56Z
 **Total Repositories:** 23
-**New Entries:** 1
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [google/ax](https://github.com/google/ax)
-
-Agent Executor (AX) is Google's open agentic orchestration runtime
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 14,045 |
-| Forks | 732 |
-| Stars this month | 6,957 |
-
----
-
-## 2. [caddyserver/caddy](https://github.com/caddyserver/caddy)
+## 1. [caddyserver/caddy](https://github.com/caddyserver/caddy)
 
 Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 78,284 |
-| Forks | 5,165 |
-| Stars this month | 2,466 |
+| Stars | 78,330 |
+| Forks | 5,168 |
+| Stars this month | 2,477 |
 
 ---
 
-## 3. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-
-Agent Substrate: the core system
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,736 |
-| Forks | 621 |
-| Stars this month | 2,939 |
-
----
-
-## 4. [openbao/openbao](https://github.com/openbao/openbao)
-
-OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,656 |
-| Forks | 643 |
-| Stars this month | 1,218 |
-
----
-
-## 5. [ollama/ollama](https://github.com/ollama/ollama)
+## 2. [ollama/ollama](https://github.com/ollama/ollama)
 
 Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 184,360 |
-| Forks | 18,483 |
-| Stars this month | 3,815 |
+| Stars | 184,509 |
+| Forks | 18,512 |
+| Stars this month | 3,933 |
 
 ---
 
-## 6. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+## 3. [openbao/openbao](https://github.com/openbao/openbao)
+
+OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 8,677 |
+| Forks | 644 |
+| Stars this month | 1,225 |
+
+---
+
+## 4. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 
 Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 32,073 |
-| Forks | 4,960 |
-| Stars this month | 7,347 |
+| Stars | 32,186 |
+| Forks | 4,995 |
+| Stars this month | 7,489 |
 
 ---
 
-## 7. [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
+## 5. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+
+Agent Substrate: the core system
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 5,759 |
+| Forks | 624 |
+| Stars this month | 2,420 |
+
+---
+
+## 6. [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram)
 
 Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,548 |
-| Forks | 788 |
-| Stars this month | 815 |
+| Stars | 7,578 |
+| Forks | 791 |
+| Stars this month | 833 |
 
 ---
 
-## 8. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-
-Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 35,124 |
-| Forks | 4,712 |
-| Stars this month | 6,382 |
-
----
-
-## 9. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
-
-A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,567 |
-| Forks | 259 |
-| Stars this month | 1,905 |
-
----
-
-## 10. [urfave/cli](https://github.com/urfave/cli)
-
-A declarative, simple, fast, and fun package for building command line tools in Go
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 24,301 |
-| Forks | 1,850 |
-| Stars this month | 84 |
-
----
-
-## 11. [docker/docker-agent](https://github.com/docker/docker-agent)
+## 7. [docker/docker-agent](https://github.com/docker/docker-agent)
 
 AI Agent Builder and Runtime by Docker Engineering
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,600 |
-| Forks | 526 |
-| Stars this month | 1,265 |
+| Stars | 4,602 |
+| Forks | 527 |
+| Stars this month | 1,267 |
 
 ---
 
-## 12. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+## 8. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
+
+A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 5,672 |
+| Forks | 265 |
+| Stars this month | 1,954 |
+
+---
+
+## 9. [urfave/cli](https://github.com/urfave/cli)
+
+A declarative, simple, fast, and fun package for building command line tools in Go
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 24,304 |
+| Forks | 1,850 |
+| Stars this month | 88 |
+
+---
+
+## 10. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+
+Find, verify, and analyze leaked credentials
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 28,676 |
+| Forks | 2,659 |
+| Stars this month | 718 |
+
+---
+
+## 11. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
 
 The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,639 |
-| Forks | 240 |
-| Stars this month | 1,563 |
+| Stars | 2,714 |
+| Forks | 245 |
+| Stars this month | 1,495 |
+
+---
+
+## 12. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 35,244 |
+| Forks | 4,740 |
+| Stars this month | 6,101 |
 
 ---
 
@@ -171,74 +171,74 @@ Production-Grade Container Scheduling and Management
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 128,562 |
-| Forks | 47,097 |
-| Stars this month | 1,518 |
+| Stars | 128,591 |
+| Forks | 46,977 |
+| Stars this month | 1,523 |
 
 ---
 
-## 14. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
-
-Find, verify, and analyze leaked credentials
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 28,654 |
-| Forks | 2,656 |
-| Stars this month | 693 |
-
----
-
-## 15. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+## 14. [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
 
 Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,042 |
-| Forks | 561 |
-| Stars this month | 507 |
+| Stars | 3,046 |
+| Forks | 560 |
+| Stars this month | 512 |
 
 ---
 
-## 16. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) 🆕
+## 15. [zitadel/zitadel](https://github.com/zitadel/zitadel)
 
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+ZITADEL - Identity infrastructure, simplified for you.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 15,232 |
-| Forks | 2,242 |
-| Stars this month | 263 |
+| Stars | 15,418 |
+| Forks | 1,399 |
+| Stars this month | 359 |
 
 ---
 
-## 17. [golang/go](https://github.com/golang/go)
+## 16. [golang/go](https://github.com/golang/go)
 
 The Go programming language
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,485 |
-| Forks | 22,298 |
-| Stars this month | 1,606 |
+| Stars | 139,506 |
+| Forks | 22,190 |
+| Stars this month | 1,617 |
 
 ---
 
-## 18. [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+## 17. [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
 
 SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 35,694 |
-| Forks | 3,089 |
-| Stars this month | 847 |
+| Stars | 35,710 |
+| Forks | 3,090 |
+| Stars this month | 853 |
+
+---
+
+## 18. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
+
+WhatsApp MCP server
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,705 |
+| Forks | 1,439 |
+| Stars this month | 418 |
 
 ---
 
@@ -249,60 +249,60 @@ GitHub Agentic Workflows
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,441 |
-| Forks | 596 |
+| Stars | 5,450 |
+| Forks | 597 |
 | Stars this month | 304 |
 
 ---
 
-## 20. [hashicorp/terraform](https://github.com/hashicorp/terraform)
+## 20. [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) 🆕
+
+一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 5,569 |
+| Forks | 529 |
+| Stars this month | 873 |
+
+---
+
+## 21. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
+
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 38,675 |
+| Forks | 794 |
+| Stars this month | 688 |
+
+---
+
+## 22. [hashicorp/terraform](https://github.com/hashicorp/terraform)
 
 Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 50,078 |
-| Forks | 10,595 |
-| Stars this month | 591 |
+| Stars | 50,098 |
+| Forks | 10,598 |
+| Stars this month | 608 |
 
 ---
 
-## 21. [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+## 23. [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
 
 Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 42,256 |
-| Forks | 6,031 |
-| Stars this month | 658 |
-
----
-
-## 22. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
-
-WhatsApp MCP server
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 6,699 |
-| Forks | 1,437 |
-| Stars this month | 414 |
-
----
-
-## 23. [zitadel/zitadel](https://github.com/zitadel/zitadel)
-
-ZITADEL - Identity infrastructure, simplified for you.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 15,397 |
-| Forks | 1,398 |
-| Stars this month | 345 |
+| Stars | 42,280 |
+| Forks | 6,035 |
+| Stars this month | 663 |
 
 ---
