@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-24T04:30:38Z
-**Total Repositories:** 15
-**New Entries:** 7
+**Snapshot Time:** 2026-10-25T04:35:13Z
+**Total Repositories:** 14
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 13,090 |
-| Forks | 912 |
-| Stars this week | 3,449 |
+| Stars | 13,315 |
+| Forks | 940 |
+| Stars this week | 3,541 |
 
 ---
 
@@ -28,177 +28,164 @@ Local-first search engine and MCP server for AI agents. One Rust binary indexes 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 14,249 |
-| Forks | 986 |
-| Stars this week | 7,783 |
+| Stars | 15,341 |
+| Forks | 1,077 |
+| Stars this week | 8,080 |
 
 ---
 
-## 3. [oven-sh/bun](https://github.com/oven-sh/bun)
-
-Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 96,366 |
-| Forks | 5,116 |
-| Stars this week | 197 |
-
----
-
-## 4. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
-
-AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 1,385 |
-| Forks | 166 |
-| Stars this week | 265 |
-
----
-
-## 5. [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun)
-
-OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,102 |
-| Forks | 278 |
-| Stars this week | 452 |
-
----
-
-## 6. [leepokai/Codync](https://github.com/leepokai/Codync) 🆕
-
-The open-source Grok Bot alternative: message Claude Code, Codex, Cursor, Gemini and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Free. Also a Muse and Dots alternative. Built in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 764 |
-| Forks | 95 |
-| Stars this week | 304 |
-
----
-
-## 7. [trymirai/uzu](https://github.com/trymirai/uzu)
-
-A high-performance inference engine for AI models
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,561 |
-| Forks | 146 |
-| Stars this week | 192 |
-
----
-
-## 8. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) 🆕
+## 3. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
 
 A Tiny biped duck robot 🦆
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 10,529 |
-| Forks | 1,356 |
-| Stars this week | 936 |
+| Stars | 11,081 |
+| Forks | 1,418 |
+| Stars this week | 1,263 |
 
 ---
 
-## 9. [googleworkspace/cli](https://github.com/googleworkspace/cli)
+## 4. [oven-sh/bun](https://github.com/oven-sh/bun)
 
-Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,823 |
-| Forks | 1,952 |
-| Stars this week | 274 |
+| Stars | 96,387 |
+| Forks | 5,123 |
+| Stars this week | 207 |
 
 ---
 
-## 10. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+## 5. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) 🆕
 
-Object-storage native graph database with branching and typed ontology
+The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,711 |
-| Forks | 239 |
-| Stars this week | 397 |
+| Stars | 6,603 |
+| Forks | 576 |
+| Stars this week | 360 |
 
 ---
 
-## 11. [claration/impactor](https://github.com/claration/impactor) 🆕
+## 6. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
 
-Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
+AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,585 |
-| Forks | 254 |
-| Stars this week | 93 |
+| Stars | 1,401 |
+| Forks | 167 |
+| Stars this week | 165 |
 
 ---
 
-## 12. [BrandonKowalski/slot](https://github.com/BrandonKowalski/slot) 🆕
+## 7. [leepokai/Codync](https://github.com/leepokai/Codync)
 
-A bespoke, Game Boy-centric CFW for the RG SP.
+Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic, free, open source. The Grok Bot, Muse and Dots alternative. Built in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 246 |
-| Forks | 68 |
-| Stars this week | 63 |
+| Stars | 798 |
+| Forks | 97 |
+| Stars this week | 304 |
 
 ---
 
-## 13. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) 🆕
+## 8. [macro-inc/macro](https://github.com/macro-inc/macro) 🆕
 
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,484 |
-| Forks | 412 |
-| Stars this week | 357 |
+| Stars | 4,904 |
+| Forks | 477 |
+| Stars this week | 207 |
 
 ---
 
-## 14. [oxc-project/oxc](https://github.com/oxc-project/oxc) 🆕
+## 9. [Automattic/harper](https://github.com/Automattic/harper) 🆕
+
+Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 17,098 |
+| Forks | 768 |
+| Stars this week | 491 |
+
+---
+
+## 10. [trymirai/uzu](https://github.com/trymirai/uzu)
+
+A high-performance inference engine for AI models
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 2,571 |
+| Forks | 148 |
+| Stars this week | 191 |
+
+---
+
+## 11. [oxc-project/oxc](https://github.com/oxc-project/oxc)
 
 ⚓ A collection of high-performance JavaScript tools.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 23,205 |
-| Forks | 1,403 |
-| Stars this week | 133 |
+| Stars | 23,216 |
+| Forks | 1,404 |
+| Stars this week | 129 |
 
 ---
 
-## 15. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) 🆕
+## 12. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+
+Object-storage native graph database with branching and typed ontology
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,737 |
+| Forks | 243 |
+| Stars this week | 426 |
+
+---
+
+## 13. [googleworkspace/cli](https://github.com/googleworkspace/cli)
+
+Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 31,860 |
+| Forks | 1,953 |
+| Stars this week | 262 |
+
+---
+
+## 14. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)
 
 A WiFi security auditing software
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,743 |
-| Forks | 795 |
-| Stars this week | 531 |
+| Stars | 4,761 |
+| Forks | 799 |
+| Stars this week | 542 |
 
 ---

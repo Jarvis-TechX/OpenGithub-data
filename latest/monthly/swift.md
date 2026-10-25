@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-24T04:31:06Z
+**Snapshot Time:** 2026-10-25T04:35:38Z
 **Total Repositories:** 17
-**New Entries:** 4
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ macOS and Linux VMs on Apple Silicon to use in CI and other automations
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,641 |
-| Forks | 412 |
-| Stars this month | 806 |
+| Stars | 7,652 |
+| Forks | 414 |
+| Stars this month | 803 |
 
 ---
 
@@ -28,35 +28,35 @@ Free and open-source macOS menu bar toolkit.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 29,602 |
-| Forks | 1,392 |
-| Stars this month | 8,690 |
+| Stars | 29,783 |
+| Forks | 1,411 |
+| Stars this month | 8,669 |
 
 ---
 
-## 3. [swiftlang/swift](https://github.com/swiftlang/swift)
-
-The Swift Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 70,519 |
-| Forks | 10,856 |
-| Stars this month | 215 |
-
----
-
-## 4. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+## 3. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
 
 Telegram-iOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,337 |
-| Forks | 3,121 |
-| Stars this month | 372 |
+| Stars | 9,345 |
+| Forks | 3,127 |
+| Stars this month | 376 |
+
+---
+
+## 4. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+
+Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 28,390 |
+| Forks | 2,576 |
+| Stars this month | 1,199 |
 
 ---
 
@@ -67,9 +67,9 @@ Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, vo
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,178 |
-| Forks | 488 |
-| Stars this month | 342 |
+| Stars | 3,185 |
+| Forks | 490 |
+| Stars this month | 322 |
 
 ---
 
@@ -80,22 +80,22 @@ Virtual machines for iOS and macOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,498 |
-| Forks | 1,880 |
-| Stars this month | 965 |
+| Stars | 36,518 |
+| Forks | 1,881 |
+| Stars this month | 977 |
 
 ---
 
-## 7. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+## 7. [swiftlang/swift](https://github.com/swiftlang/swift)
 
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+The Swift Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,379 |
-| Forks | 2,573 |
-| Stars this month | 1,217 |
+| Stars | 70,523 |
+| Forks | 10,861 |
+| Stars this month | 213 |
 
 ---
 
@@ -106,125 +106,125 @@ The modern video player for macOS.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 46,884 |
-| Forks | 2,977 |
-| Stars this month | 515 |
+| Stars | 46,898 |
+| Forks | 2,978 |
+| Stars this month | 521 |
 
 ---
 
-## 9. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
-
-An an app that installs Sidestore on iOS 27, fully on-device
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,169 |
-| Forks | 96 |
-| Stars this month | 386 |
-
----
-
-## 10. [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball) 🆕
+## 9. [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball)
 
 Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,831 |
-| Forks | 78 |
-| Stars this month | 796 |
+| Stars | 1,871 |
+| Forks | 77 |
+| Stars this month | 807 |
 
 ---
 
-## 11. [f/textream](https://github.com/f/textream)
+## 10. [f/textream](https://github.com/f/textream)
 
 Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,115 |
+| Stars | 4,119 |
 | Forks | 288 |
-| Stars this month | 367 |
+| Stars this month | 364 |
 
 ---
 
-## 12. [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo)
-
-Free Weather Forecast API for non-commercial use
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 6,453 |
-| Forks | 459 |
-| Stars this month | 228 |
-
----
-
-## 13. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
-
-AI coding assistant for Xcode
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 6,350 |
-| Forks | 2,065 |
-| Stars this month | 74 |
-
----
-
-## 14. [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
-
-TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 11,124 |
-| Forks | 1,130 |
-| Stars this month | 355 |
-
----
-
-## 15. [altstoreio/AltStore](https://github.com/altstoreio/AltStore) 🆕
+## 11. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
 
 AltStore is an alternative app store for non-jailbroken iOS devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,742 |
-| Forks | 1,657 |
-| Stars this month | 335 |
+| Stars | 14,748 |
+| Forks | 1,663 |
+| Stars this month | 340 |
 
 ---
 
-## 16. [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) 🆕
+## 12. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
-Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
+An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,875 |
-| Forks | 694 |
-| Stars this month | 320 |
+| Stars | 1,186 |
+| Forks | 97 |
+| Stars this month | 371 |
 
 ---
 
-## 17. [ejbills/DockDoor](https://github.com/ejbills/DockDoor) 🆕
+## 13. [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo)
 
-Window peeking, alt-tab and other enhancements for macOS
+Free Weather Forecast API for non-commercial use
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,416 |
-| Forks | 241 |
-| Stars this month | 339 |
+| Stars | 6,463 |
+| Forks | 459 |
+| Stars this month | 233 |
+
+---
+
+## 14. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
+
+AI coding assistant for Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,351 |
+| Forks | 2,068 |
+| Stars this month | 72 |
+
+---
+
+## 15. [tisfeng/Easydict](https://github.com/tisfeng/Easydict) 🆕
+
+一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 15,069 |
+| Forks | 795 |
+| Stars this month | 357 |
+
+---
+
+## 16. [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
+
+TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 11,130 |
+| Forks | 1,133 |
+| Stars this month | 343 |
+
+---
+
+## 17. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) 🆕
+
+Community fork of PlayCover
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 12,005 |
+| Forks | 1,015 |
+| Stars this month | 237 |
 
 ---

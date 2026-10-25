@@ -1,86 +1,88 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-24T04:30:28Z
+**Snapshot Time:** 2026-10-25T04:35:04Z
 **Total Repositories:** 15
-**New Entries:** 1
+**New Entries:** 4
 **Quality Score:** 97.33/100
 
 ---
 
-## 1. [morluto/rea](https://github.com/morluto/rea)
+## 1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) 🆕
+
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 44,937 |
+| Forks | 2,788 |
+| Stars this week | 12,680 |
+
+---
+
+## 2. [morluto/rea](https://github.com/morluto/rea)
 
 Reverse engineer anything with agents, from app behavior down to native binaries.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 373,943 |
-| Forks | 93,525 |
-| Stars this week | 88,243 |
+| Stars | 379,495 |
+| Forks | 94,841 |
+| Stars this week | 78,562 |
 
 ---
 
-## 2. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+## 3. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 44,162 |
-| Forks | 4,643 |
-| Stars this week | 4,250 |
+| Stars | 44,386 |
+| Forks | 4,656 |
+| Stars this week | 3,232 |
 
 ---
 
-## 3. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+## 4. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 78,822 |
-| Forks | 9,254 |
-| Stars this week | 3,349 |
+| Stars | 79,079 |
+| Forks | 9,285 |
+| Stars this week | 3,241 |
 
 ---
 
-## 4. [android/skills](https://github.com/android/skills)
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 9,463 |
-| Forks | 607 |
-| Stars this week | 1,471 |
-
----
-
-## 5. [anomalyco/opencode](https://github.com/anomalyco/opencode)
-
-The open source coding agent.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 220,689 |
-| Forks | 29,511 |
-| Stars this week | 6,765 |
-
----
-
-## 6. [stablyai/orca](https://github.com/stablyai/orca)
+## 5. [stablyai/orca](https://github.com/stablyai/orca)
 
 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 104,048 |
-| Forks | 6,574 |
-| Stars this week | 9,545 |
+| Stars | 105,057 |
+| Forks | 6,634 |
+| Stars this week | 9,828 |
+
+---
+
+## 6. [anomalyco/opencode](https://github.com/anomalyco/opencode)
+
+The open source coding agent.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 221,178 |
+| Forks | 29,592 |
+| Stars this week | 6,857 |
 
 ---
 
@@ -91,112 +93,110 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,806 |
-| Forks | 1,364 |
-| Stars this week | 1,946 |
+| Stars | 13,925 |
+| Forks | 1,388 |
+| Stars this week | 1,729 |
 
 ---
 
-## 8. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
-
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+## 8. [android/skills](https://github.com/android/skills)
 
 | Metric | Value |
 |--------|-------|
-| Language | Rust |
-| Stars | 13,090 |
-| Forks | 912 |
-| Stars this week | 3,449 |
+| Language | Kotlin |
+| Stars | 9,614 |
+| Forks | 620 |
+| Stars this week | 1,317 |
 
 ---
 
-## 9. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+## 9. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) 🆕
 
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 56,652 |
-| Forks | 5,085 |
-| Stars this week | 3,303 |
-
----
-
-## 10. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
-
-The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 142,397 |
-| Forks | 16,790 |
-| Stars this week | 4,531 |
+| Stars | 32,694 |
+| Forks | 3,612 |
+| Stars this week | 2,631 |
 
 ---
 
-## 11. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 83,576 |
-| Forks | 9,220 |
-| Stars this week | 12,526 |
-
----
-
-## 12. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 10. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
 Write HTML. Render video. Built for agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 70,906 |
-| Forks | 6,413 |
-| Stars this week | 5,553 |
+| Stars | 71,573 |
+| Forks | 6,468 |
+| Stars this week | 5,633 |
 
 ---
 
-## 13. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+## 11. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 54,275 |
-| Forks | 4,786 |
-| Stars this week | 3,077 |
+| Stars | 142,674 |
+| Forks | 16,830 |
+| Stars this week | 4,648 |
 
 ---
 
-## 14. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+## 12. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 
-Ghidra is a software reverse engineering (SRE) framework
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 | Metric | Value |
 |--------|-------|
-| Language | Java |
-| Stars | 93,701 |
-| Forks | 10,525 |
-| Stars this week | 4,221 |
+| Language | Rust |
+| Stars | 13,315 |
+| Forks | 940 |
+| Stars this week | 3,541 |
 
 ---
 
-## 15. [elie222/rakazo](https://github.com/elie222/rakazo) 🆕
+## 13. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) 🆕
 
-Open-source Grok Bot alternative. Choose your own model and sandbox.
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 5,481 |
-| Forks | 963 |
-| Stars this week | 1,094 |
+| Language | Python |
+| Stars | 134,548 |
+| Forks | 12,841 |
+| Stars this week | 6,868 |
+
+---
+
+## 14. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 56,881 |
+| Forks | 5,100 |
+| Stars this week | 3,069 |
+
+---
+
+## 15. [vllm-project/vllm](https://github.com/vllm-project/vllm) 🆕
+
+A high-throughput and memory-efficient inference and serving engine for LLMs
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 95,373 |
+| Forks | 23,908 |
+| Stars this week | 1,371 |
 
 ---

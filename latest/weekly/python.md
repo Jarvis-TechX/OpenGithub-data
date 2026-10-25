@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-24T04:30:30Z
-**Total Repositories:** 15
-**New Entries:** 1
+**Snapshot Time:** 2026-10-25T04:35:06Z
+**Total Repositories:** 16
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 44,162 |
-| Forks | 4,643 |
-| Stars this week | 4,250 |
+| Stars | 44,386 |
+| Forks | 4,656 |
+| Stars this week | 3,232 |
 
 ---
 
-## 2. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+## 2. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) 🆕
 
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 56,652 |
-| Forks | 5,085 |
-| Stars this week | 3,303 |
+| Stars | 32,694 |
+| Forks | 3,612 |
+| Stars this week | 2,631 |
 
 ---
 
@@ -41,35 +41,35 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 142,397 |
-| Forks | 16,790 |
-| Stars this week | 4,531 |
+| Stars | 142,674 |
+| Forks | 16,830 |
+| Stars this week | 4,648 |
 
 ---
 
-## 4. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+## 4. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) 🆕
 
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 83,576 |
-| Forks | 9,220 |
-| Stars this week | 12,526 |
+| Stars | 134,548 |
+| Forks | 12,841 |
+| Stars this week | 6,868 |
 
 ---
 
-## 5. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+## 5. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 54,275 |
-| Forks | 4,786 |
-| Stars this week | 3,077 |
+| Stars | 56,881 |
+| Forks | 5,100 |
+| Stars this week | 3,069 |
 
 ---
 
@@ -80,87 +80,87 @@ A high-throughput and memory-efficient inference and serving engine for LLMs
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 95,261 |
-| Forks | 23,865 |
-| Stars this week | 1,363 |
+| Stars | 95,373 |
+| Forks | 23,908 |
+| Stars this week | 1,371 |
 
 ---
 
-## 7. [wshobson/agents](https://github.com/wshobson/agents)
+## 7. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
-Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 41,616 |
-| Forks | 4,411 |
-| Stars this week | 732 |
+| Stars | 85,196 |
+| Forks | 9,428 |
+| Stars this week | 12,237 |
 
 ---
 
-## 8. [fastapi/fastapi](https://github.com/fastapi/fastapi) 🆕
+## 8. [fastapi/fastapi](https://github.com/fastapi/fastapi)
 
 FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 104,064 |
-| Forks | 10,112 |
-| Stars this week | 1,013 |
+| Stars | 104,100 |
+| Forks | 10,117 |
+| Stars this week | 1,012 |
 
 ---
 
-## 9. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+## 9. [wshobson/agents](https://github.com/wshobson/agents)
+
+Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 41,653 |
+| Forks | 4,414 |
+| Stars this week | 703 |
+
+---
+
+## 10. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 44,047 |
-| Forks | 5,457 |
-| Stars this week | 2,012 |
+| Stars | 44,661 |
+| Forks | 5,497 |
+| Stars this week | 2,435 |
 
 ---
 
-## 10. [Kruk2/jasna](https://github.com/Kruk2/jasna)
+## 11. [Kruk2/jasna](https://github.com/Kruk2/jasna)
 
 Video restoration tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,530 |
-| Forks | 273 |
-| Stars this week | 1,469 |
+| Stars | 3,605 |
+| Forks | 278 |
+| Stars this week | 1,476 |
 
 ---
 
-## 11. [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
+## 12. [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
 
 Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,351 |
-| Forks | 485 |
-| Stars this week | 1,283 |
-
----
-
-## 12. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-
-Give your agent CAD superpowers.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 22,794 |
-| Forks | 2,221 |
-| Stars this week | 1,837 |
+| Stars | 2,468 |
+| Forks | 511 |
+| Stars this week | 1,249 |
 
 ---
 
@@ -171,9 +171,9 @@ Kronos: A Foundation Model for the Language of Financial Markets
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 43,477 |
-| Forks | 7,173 |
-| Stars this week | 2,653 |
+| Stars | 43,616 |
+| Forks | 7,201 |
+| Stars this week | 2,732 |
 
 ---
 
@@ -184,21 +184,34 @@ SGLang is a high-performance serving framework for large language models and mul
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 37,682 |
-| Forks | 9,846 |
-| Stars this week | 511 |
+| Stars | 37,994 |
+| Forks | 9,872 |
+| Stars this week | 535 |
 
 ---
 
-## 15. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+## 15. [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) 🆕
 
-A feature-rich command-line audio/video downloader
+Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 201,073 |
-| Forks | 17,553 |
-| Stars this week | 2,540 |
+| Stars | 13,352 |
+| Forks | 1,926 |
+| Stars this week | 338 |
+
+---
+
+## 16. [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) 🆕
+
+An open-source OpusClip alternative
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 1,847 |
+| Forks | 441 |
+| Stars this week | 341 |
 
 ---

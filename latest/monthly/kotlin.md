@@ -1,7 +1,7 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-24T04:31:03Z
+**Snapshot Time:** 2026-10-25T04:35:35Z
 **Total Repositories:** 15
 **New Entries:** 2
 **Quality Score:** 97.33/100
@@ -13,35 +13,35 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,463 |
-| Forks | 607 |
-| Stars this month | 1,941 |
+| Stars | 9,614 |
+| Forks | 620 |
+| Stars this month | 2,118 |
 
 ---
 
-## 2. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
-
-BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,264 |
-| Forks | 402 |
-| Stars this month | 2,809 |
-
----
-
-## 3. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+## 2. [tiann/KernelSU](https://github.com/tiann/KernelSU)
 
 A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,568 |
-| Forks | 4,657 |
-| Stars this month | 1,094 |
+| Stars | 19,620 |
+| Forks | 4,682 |
+| Stars this month | 1,121 |
+
+---
+
+## 3. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
+
+BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,366 |
+| Forks | 416 |
+| Stars this month | 2,896 |
 
 ---
 
@@ -52,9 +52,9 @@ GhostLock One-Tap Execution App (CVE-2026-43499)
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,223 |
-| Forks | 552 |
-| Stars this month | 1,200 |
+| Stars | 2,251 |
+| Forks | 553 |
+| Stars this month | 1,207 |
 
 ---
 
@@ -65,48 +65,48 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 25,077 |
-| Forks | 2,768 |
-| Stars this month | 384 |
+| Stars | 25,101 |
+| Forks | 2,776 |
+| Stars this month | 394 |
 
 ---
 
-## 6. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-
-A cross-platform music app using YouTube Music for backend
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 12,323 |
-| Forks | 691 |
-| Stars this month | 978 |
-
----
-
-## 7. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
+## 6. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
 
 DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,409 |
-| Forks | 412 |
-| Stars this month | 766 |
+| Stars | 4,434 |
+| Forks | 411 |
+| Stars this month | 790 |
 
 ---
 
-## 8. [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness)
+## 7. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
-Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.
+A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 671 |
-| Forks | 201 |
-| Stars this month | 294 |
+| Stars | 12,341 |
+| Forks | 694 |
+| Stars this month | 974 |
+
+---
+
+## 8. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+
+Kernel-based Android Root Solution & KPM
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,663 |
+| Forks | 1,372 |
+| Stars this month | 366 |
 
 ---
 
@@ -117,86 +117,86 @@ Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,278 |
-| Forks | 2,067 |
-| Stars this month | 1,271 |
+| Stars | 43,317 |
+| Forks | 2,068 |
+| Stars this month | 1,268 |
 
 ---
 
-## 10. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+## 10. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) 🆕
 
-Kernel-based Android Root Solution & KPM
+Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,643 |
-| Forks | 1,367 |
-| Stars this month | 356 |
+| Stars | 653 |
+| Forks | 151 |
+| Stars this month | 203 |
 
 ---
 
-## 11. [open-ani/animeko](https://github.com/open-ani/animeko)
-
-集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 21,176 |
-| Forks | 627 |
-| Stars this month | 1,032 |
-
----
-
-## 12. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+## 11. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
 
 A V2Ray client for Android, support Xray core and v2fly core
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 64,556 |
-| Forks | 8,378 |
-| Stars this month | 1,772 |
+| Stars | 64,631 |
+| Forks | 8,385 |
+| Stars this month | 1,797 |
 
 ---
 
-## 13. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
+## 12. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
 A Download Manager that speeds up your downloads
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,762 |
-| Forks | 974 |
-| Stars this month | 815 |
+| Stars | 18,774 |
+| Forks | 975 |
+| Stars this month | 817 |
 
 ---
 
-## 14. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
+## 13. [open-ani/animeko](https://github.com/open-ani/animeko)
+
+集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 21,209 |
+| Forks | 628 |
+| Stars this month | 1,043 |
+
+---
+
+## 14. [CYQawa/YunX](https://github.com/CYQawa/YunX)
 
 ✨一个安卓网盘解析下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,287 |
-| Forks | 268 |
-| Stars this month | 2,099 |
+| Stars | 5,485 |
+| Forks | 279 |
+| Stars this month | 2,279 |
 
 ---
 
-## 15. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
+## 15. [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) 🆕
 
-The Magic Mask for Android
+Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 63,448 |
-| Forks | 18,995 |
-| Stars this month | 743 |
+| Stars | 11,528 |
+| Forks | 481 |
+| Stars this month | 856 |
 
 ---

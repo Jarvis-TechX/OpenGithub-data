@@ -1,9 +1,9 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-24T04:30:10Z
-**Total Repositories:** 8
-**New Entries:** 5
+**Snapshot Time:** 2026-10-25T04:34:49Z
+**Total Repositories:** 10
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
@@ -15,99 +15,125 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 42,416 |
-| Forks | 2,650 |
-| Stars today | 2,716 |
+| Stars | 44,936 |
+| Forks | 2,788 |
+| Stars today | 2,264 |
 
 ---
 
-## 2. [php/php-src](https://github.com/php/php-src)
-
-The PHP Interpreter
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 41,593 |
-| Forks | 8,362 |
-| Stars today | 716 |
-
----
-
-## 3. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 32,314 |
-| Forks | 3,576 |
-| Stars today | 635 |
-
----
-
-## 4. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) 🆕
+## 2. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
 
 OpenShell is the safe, private runtime for autonomous AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,904 |
-| Forks | 1,888 |
-| Stars today | 1,119 |
+| Stars | 19,565 |
+| Forks | 1,937 |
+| Stars today | 896 |
 
 ---
 
-## 5. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 🆕
+## 3. [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) 🆕
 
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 3,176 |
+| Forks | 401 |
+| Stars today | 13 |
+
+---
+
+## 4. [Nutlope/hallmark](https://github.com/Nutlope/hallmark) 🆕
+
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+
+| Metric | Value |
+|--------|-------|
+| Language | CSS |
+| Stars | 32,321 |
+| Forks | 1,659 |
+| Stars today | 455 |
+
+---
+
+## 5. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) 🆕
+
+A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 44,660 |
+| Forks | 5,497 |
+| Stars today | 392 |
+
+---
+
+## 6. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) 🆕
+
+The design language that makes your AI harness better at design.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 86,566 |
+| Forks | 5,165 |
+| Stars today | 619 |
+
+---
+
+## 7. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) 🆕
+
+A Tiny biped duck robot 🦆
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 11,081 |
+| Forks | 1,418 |
+| Stars today | 319 |
+
+---
+
+## 8. [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🆕
+
+An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,986 |
-| Forks | 1,427 |
-| Stars today | 546 |
+| Stars | 108,162 |
+| Forks | 14,816 |
+| Stars today | 44 |
 
 ---
 
-## 6. [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) 🆕
+## 9. [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) 🆕
 
-claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,593 |
-| Forks | 1,106 |
-| Stars today | 226 |
+| Stars | 22,763 |
+| Forks | 3,197 |
+| Stars today | 227 |
 
 ---
 
-## 7. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) 🆕
+## 10. [makecindy/cindy](https://github.com/makecindy/cindy) 🆕
 
-VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 40,338 |
-| Forks | 4,582 |
-| Stars today | 150 |
-
----
-
-## 8. [nodejs/node](https://github.com/nodejs/node) 🆕
-
-Node.js JavaScript runtime ✨🐢🚀✨
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
 | Metric | Value |
 |--------|-------|
-| Language | JavaScript |
-| Stars | 122,930 |
-| Forks | 39,837 |
-| Stars today | 66 |
+| Language | TypeScript |
+| Stars | 4,193 |
+| Forks | 603 |
+| Stars today | 477 |
 
 ---

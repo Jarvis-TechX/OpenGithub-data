@@ -1,10 +1,10 @@
 # GitHub Trending - Python
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-24T04:30:48Z
-**Total Repositories:** 19
-**New Entries:** 2
-**Quality Score:** 97.89/100
+**Snapshot Time:** 2026-10-25T04:35:22Z
+**Total Repositories:** 18
+**New Entries:** 0
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,35 +15,35 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 83,576 |
-| Forks | 9,220 |
-| Stars this month | 48,343 |
+| Stars | 85,197 |
+| Forks | 9,428 |
+| Stars this month | 49,780 |
 
 ---
 
-## 2. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
-
-Hindsight: Agent Memory That Learns
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 53,192 |
-| Forks | 6,232 |
-| Stars this month | 28,115 |
-
----
-
-## 3. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+## 2. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 
 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,314 |
-| Forks | 3,576 |
-| Stars this month | 6,635 |
+| Stars | 32,694 |
+| Forks | 3,612 |
+| Stars this month | 7,138 |
+
+---
+
+## 3. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+
+Hindsight: Agent Memory That Learns
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 53,486 |
+| Forks | 6,238 |
+| Stars this month | 26,766 |
 
 ---
 
@@ -54,9 +54,9 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 44,162 |
-| Forks | 4,643 |
-| Stars this month | 7,614 |
+| Stars | 44,386 |
+| Forks | 4,656 |
+| Stars this month | 7,817 |
 
 ---
 
@@ -67,9 +67,9 @@ Give your agent CAD superpowers.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 22,794 |
-| Forks | 2,221 |
-| Stars this month | 6,519 |
+| Stars | 22,970 |
+| Forks | 2,237 |
+| Stars this month | 6,675 |
 
 ---
 
@@ -80,9 +80,9 @@ Learn AI Engineering! Learn it. Build it. Ship it for others.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 72,850 |
-| Forks | 12,800 |
-| Stars this month | 17,479 |
+| Stars | 73,369 |
+| Forks | 12,865 |
+| Stars this month | 17,406 |
 
 ---
 
@@ -93,9 +93,9 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 10,878 |
-| Forks | 1,392 |
-| Stars this month | 6,225 |
+| Stars | 10,945 |
+| Forks | 1,409 |
+| Stars this month | 6,206 |
 
 ---
 
@@ -106,9 +106,9 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 39,584 |
+| Stars | 39,643 |
 | Forks | 3,427 |
-| Stars this month | 3,867 |
+| Stars this month | 3,908 |
 
 ---
 
@@ -119,9 +119,9 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 56,652 |
-| Forks | 5,085 |
-| Stars this month | 6,906 |
+| Stars | 56,881 |
+| Forks | 5,100 |
+| Stars this month | 6,811 |
 
 ---
 
@@ -132,9 +132,9 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 101,387 |
-| Forks | 8,940 |
-| Stars this month | 16,814 |
+| Stars | 101,875 |
+| Forks | 9,005 |
+| Stars this month | 16,998 |
 
 ---
 
@@ -145,9 +145,9 @@ Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCod
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 41,616 |
-| Forks | 4,411 |
-| Stars this month | 1,821 |
+| Stars | 41,653 |
+| Forks | 4,414 |
+| Stars this month | 1,839 |
 
 ---
 
@@ -158,9 +158,9 @@ TokenSpeed is a speed-of-light LLM inference engine.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,774 |
+| Stars | 2,779 |
 | Forks | 374 |
-| Stars this month | 617 |
+| Stars this month | 619 |
 
 ---
 
@@ -171,9 +171,9 @@ World's first open-source, agentic video production system. 12 production pipeli
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,224 |
-| Forks | 9,219 |
-| Stars this month | 10,478 |
+| Stars | 71,642 |
+| Forks | 9,288 |
+| Stars this month | 10,740 |
 
 ---
 
@@ -184,71 +184,60 @@ Domain-specific language designed to streamline the development of high-performa
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,755 |
-| Forks | 921 |
-| Stars this month | 1,312 |
+| Stars | 8,760 |
+| Forks | 922 |
+| Stars this month | 1,310 |
 
 ---
 
-## 15. [pytorch/pytorch](https://github.com/pytorch/pytorch)
-
-Tensors and Dynamic neural networks in Python with strong GPU acceleration
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 105,022 |
-| Forks | 32,412 |
-| Stars this month | 2,549 |
-
----
-
-## 16. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 🆕
+## 15. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
 
 Kronos: A Foundation Model for the Language of Financial Markets
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 43,477 |
-| Forks | 7,173 |
-| Stars this month | 4,199 |
+| Stars | 43,616 |
+| Forks | 7,201 |
+| Stars this month | 4,320 |
 
 ---
 
-## 17. [fastapi/fastapi](https://github.com/fastapi/fastapi) 🆕
+## 16. [fastapi/fastapi](https://github.com/fastapi/fastapi)
 
 FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 104,064 |
-| Forks | 10,112 |
-| Stars this month | 1,866 |
+| Stars | 104,100 |
+| Forks | 10,117 |
+| Stars this month | 1,882 |
 
 ---
 
-## 18. [anthropics/financial-services](https://github.com/anthropics/financial-services)
+## 17. [pytorch/pytorch](https://github.com/pytorch/pytorch)
+
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 40,734 |
-| Forks | 5,683 |
-| Stars this month | 4,147 |
+| Stars | 105,049 |
+| Forks | 32,180 |
+| Stars this month | 2,535 |
 
 ---
 
-## 19. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
+## 18. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
 
 Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,157 |
-| Forks | 2,914 |
-| Stars this month | 2,972 |
+| Stars | 32,275 |
+| Forks | 2,920 |
+| Stars this month | 3,042 |
 
 ---

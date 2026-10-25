@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-24T04:31:04Z
+**Snapshot Time:** 2026-10-25T04:35:37Z
 **Total Repositories:** 21
-**New Entries:** 3
+**New Entries:** 1
 **Quality Score:** 98.10/100
 
 ---
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,021 |
-| Forks | 1,608 |
-| Stars this month | 1,478 |
+| Stars | 21,082 |
+| Forks | 1,616 |
+| Stars this month | 1,539 |
 
 ---
 
@@ -28,9 +28,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,362 |
-| Forks | 1,591 |
-| Stars this month | 981 |
+| Stars | 15,385 |
+| Forks | 1,592 |
+| Stars this month | 978 |
 
 ---
 
@@ -41,9 +41,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,795 |
-| Forks | 3,787 |
-| Stars this month | 710 |
+| Stars | 26,805 |
+| Forks | 3,788 |
+| Stars this month | 706 |
 
 ---
 
@@ -54,9 +54,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,379 |
-| Forks | 5,682 |
-| Stars this month | 144 |
+| Stars | 18,384 |
+| Forks | 5,690 |
+| Stars this month | 141 |
 
 ---
 
@@ -67,9 +67,9 @@ A modern launcher for downloading, installing, and running apps from GitHub and 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,921 |
-| Forks | 71 |
-| Stars this month | 2,513 |
+| Stars | 2,970 |
+| Forks | 77 |
+| Stars this month | 2,546 |
 
 ---
 
@@ -80,9 +80,9 @@ B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,085 |
-| Forks | 1,921 |
-| Stars this month | 284 |
+| Stars | 9,095 |
+| Forks | 1,922 |
+| Stars this month | 292 |
 
 ---
 
@@ -93,9 +93,9 @@ Smart PVR for newsgroup and bittorrent users.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,398 |
-| Forks | 2,060 |
-| Stars this month | 967 |
+| Stars | 17,411 |
+| Forks | 2,065 |
+| Stars this month | 970 |
 
 ---
 
@@ -106,9 +106,9 @@ PCL 社区版 由社区开发者维护与管理
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,805 |
-| Forks | 385 |
-| Stars this month | 491 |
+| Stars | 4,860 |
+| Forks | 407 |
+| Stars this month | 545 |
 
 ---
 
@@ -120,8 +120,8 @@ Work-in-progress tool to reverse unity's IL2CPP toolchain.
 |--------|-------|
 | Language | C# |
 | Stars | 3,058 |
-| Forks | 403 |
-| Stars this month | 434 |
+| Forks | 402 |
+| Stars this month | 435 |
 
 ---
 
@@ -132,9 +132,9 @@ A Launcher that Downloads and Updates Applications from Github Releases
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,965 |
-| Forks | 63 |
-| Stars this month | 356 |
+| Stars | 1,974 |
+| Forks | 64 |
+| Stars this month | 361 |
 
 ---
 
@@ -145,9 +145,9 @@ Open Source real-time strategy game engine for early Westwood games such as Comm
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,636 |
-| Forks | 3,086 |
-| Stars this month | 240 |
+| Stars | 17,643 |
+| Forks | 3,090 |
+| Stars this month | 231 |
 
 ---
 
@@ -158,22 +158,22 @@ Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, mul
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,481 |
-| Forks | 106 |
-| Stars this month | 752 |
+| Stars | 1,494 |
+| Forks | 108 |
+| Stars this month | 747 |
 
 ---
 
-## 13. [stride3d/stride](https://github.com/stride3d/stride)
+## 13. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
-Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,914 |
-| Forks | 1,182 |
-| Stars this month | 102 |
+| Stars | 38,489 |
+| Forks | 13,421 |
+| Stars this month | 105 |
 
 ---
 
@@ -182,9 +182,9 @@ Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,902 |
-| Forks | 244 |
-| Stars this month | 445 |
+| Stars | 7,917 |
+| Forks | 246 |
+| Stars this month | 456 |
 
 ---
 
@@ -195,61 +195,61 @@ Bring macOS “Quick Look” feature to Windows
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 25,480 |
+| Stars | 25,496 |
 | Forks | 1,352 |
-| Stars this month | 614 |
+| Stars this month | 624 |
 
 ---
 
-## 16. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
-
-the subtitle editor :)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,694 |
-| Forks | 1,341 |
-| Stars this month | 428 |
-
----
-
-## 17. [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) 🆕
-
-A robust, high-performance execution client for Ethereum node operators.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 1,625 |
-| Forks | 760 |
-| Stars this month | 24 |
-
----
-
-## 18. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
-
-Download web video and audio
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,442 |
-| Forks | 357 |
-| Stars this month | 350 |
-
----
-
-## 19. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
+## 16. [ShareX/ShareX](https://github.com/ShareX/ShareX)
 
 ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,358 |
+| Stars | 40,394 |
 | Forks | 3,998 |
-| Stars this month | 727 |
+| Stars this month | 734 |
+
+---
+
+## 17. [stride3d/stride](https://github.com/stride3d/stride)
+
+Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,918 |
+| Forks | 1,181 |
+| Stars this month | 108 |
+
+---
+
+## 18. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+
+the subtitle editor :)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,707 |
+| Forks | 1,342 |
+| Stars this month | 429 |
+
+---
+
+## 19. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+
+Download web video and audio
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,449 |
+| Forks | 358 |
+| Stars this month | 342 |
 
 ---
 
@@ -260,21 +260,21 @@ The Roslyn .NET compiler provides C# and Visual Basic languages with rich code a
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,751 |
+| Stars | 20,754 |
 | Forks | 4,358 |
-| Stars this month | 93 |
+| Stars this month | 91 |
 
 ---
 
-## 21. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
+## 21. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) 🆕
 
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+GUI application to analyze game files
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,488 |
-| Forks | 13,656 |
-| Stars this month | 108 |
+| Stars | 8,729 |
+| Forks | 1,026 |
+| Stars this month | 345 |
 
 ---

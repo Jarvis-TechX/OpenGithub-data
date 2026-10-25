@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-24T04:30:39Z
-**Total Repositories:** 9
-**New Entries:** 3
-**Quality Score:** 91.11/100
+**Snapshot Time:** 2026-10-25T04:35:14Z
+**Total Repositories:** 11
+**New Entries:** 4
+**Quality Score:** 92.73/100
 
 ---
 
@@ -15,9 +15,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,593 |
-| Forks | 8,362 |
-| Stars this week | 1,096 |
+| Stars | 41,648 |
+| Forks | 8,388 |
+| Stars this week | 1,245 |
 
 ---
 
@@ -28,95 +28,121 @@ Static recompilation runtime libraries for PlayStation 3 titles.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 564 |
-| Forks | 81 |
-| Stars this week | 107 |
+| Stars | 575 |
+| Forks | 82 |
+| Stars this week | 100 |
 
 ---
 
-## 3. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+## 3. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) 🆕
+
+ehviewer，用爱发电，快乐前行
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 28,177 |
+| Forks | 751 |
+| Stars this week | 354 |
+
+---
+
+## 4. [Yokimitsuro/khdays-port](https://github.com/Yokimitsuro/khdays-port) 🆕
+
+Experimental native PC runtime for Kingdom Hearts 358/2 Days, developed alongside the matching Nintendo DS decompilation. No copyrighted game data included.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 201 |
+| Forks | 17 |
+| Stars this week | 93 |
+
+---
+
+## 5. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 
 An advanced Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,593 |
-| Forks | 1,212 |
-| Stars this week | 112 |
+| Stars | 4,606 |
+| Forks | 1,215 |
+| Stars this week | 108 |
 
 ---
 
-## 4. [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp)
+## 6. [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp)
 
 Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 286 |
-| Forks | 83 |
-| Stars this week | 63 |
+| Stars | 291 |
+| Forks | 86 |
+| Stars this week | 56 |
 
 ---
 
-## 5. [xemu-project/xemu](https://github.com/xemu-project/xemu) 🆕
+## 7. [xemu-project/xemu](https://github.com/xemu-project/xemu)
 
 Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,213 |
-| Forks | 564 |
-| Stars this week | 35 |
+| Stars | 4,215 |
+| Forks | 566 |
+| Stars this week | 29 |
 
 ---
 
-## 6. [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) 🆕
+## 8. [espressif/esp-idf](https://github.com/espressif/esp-idf) 🆕
+
+Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 5,128 |
+| Stars | 19,337 |
+| Forks | 8,565 |
+| Stars this week | 80 |
+
+---
+
+## 9. [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 5,135 |
 | Forks | 799 |
-| Stars this week | 64 |
+| Stars this week | 63 |
 
 ---
 
-## 7. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
+## 10. [opa334/Dopamine](https://github.com/opa334/Dopamine) 🆕
 
-Xbox 360 Recompilation Runtime and Toolkit
+Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,159 |
-| Forks | 228 |
-| Stars this week | 73 |
+| Stars | 7,056 |
+| Forks | 6,418 |
+| Stars this week | 111 |
 
 ---
 
-## 8. [arendst/Tasmota](https://github.com/arendst/Tasmota)
-
-Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+## 11. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 24,909 |
-| Forks | 5,204 |
-| Stars this week | 46 |
-
----
-
-## 9. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,738 |
-| Forks | 940 |
-| Stars this week | 106 |
+| Stars | 5,750 |
+| Forks | 947 |
+| Stars this week | 102 |
 
 ---

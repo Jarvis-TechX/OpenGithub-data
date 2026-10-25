@@ -1,217 +1,217 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-24T04:30:18Z
+**Snapshot Time:** 2026-10-25T04:34:56Z
 **Total Repositories:** 16
-**New Entries:** 10
+**New Entries:** 14
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [prometheus/prometheus](https://github.com/prometheus/prometheus) 🆕
+## 1. [github/gh-aw](https://github.com/github/gh-aw) 🆕
 
-The Prometheus monitoring system and time series database.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 66,725 |
-| Forks | 10,912 |
-| Stars today | 34 |
-
----
-
-## 2. [strelov1/freehire](https://github.com/strelov1/freehire) 🆕
-
-freehire — the open-source search engine for job seekers
+GitHub Agentic Workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,966 |
-| Forks | 293 |
-| Stars today | 186 |
+| Stars | 5,462 |
+| Forks | 600 |
+| Stars today | 7 |
 
 ---
 
-## 3. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+## 2. [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) 🆕
 
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,675 |
-| Forks | 794 |
-| Stars today | 52 |
+| Stars | 7,999 |
+| Forks | 862 |
+| Stars today | 30 |
 
 ---
 
-## 4. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+## 3. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) 🆕
 
-The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
+A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,714 |
-| Forks | 245 |
-| Stars today | 122 |
+| Stars | 5,836 |
+| Forks | 272 |
+| Stars today | 131 |
 
 ---
 
-## 5. [fleetdm/fleet](https://github.com/fleetdm/fleet) 🆕
+## 4. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) 🆕
 
-Open device management
+Awesome list of 300+ agentic AI resources
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,038 |
-| Forks | 1,081 |
-| Stars today | 10 |
+| Stars | 2,665 |
+| Forks | 697 |
+| Stars today | 44 |
 
 ---
 
-## 6. [chaitin/SafeLine](https://github.com/chaitin/SafeLine) 🆕
+## 5. [chaitin/SafeLine](https://github.com/chaitin/SafeLine)
 
 SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 22,923 |
-| Forks | 1,569 |
-| Stars today | 24 |
+| Stars | 22,941 |
+| Forks | 1,571 |
+| Stars today | 15 |
 
 ---
 
-## 7. [php/frankenphp](https://github.com/php/frankenphp) 🆕
+## 6. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 🆕
 
-🧟 The modern PHP app server
+🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,458 |
-| Forks | 502 |
-| Stars today | 7 |
+| Stars | 114,845 |
+| Forks | 6,622 |
+| Stars today | 229 |
 
 ---
 
-## 8. [infiniflow/ragflow](https://github.com/infiniflow/ragflow) 🆕
+## 7. [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) 🆕
 
-RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 92,775 |
-| Forks | 11,097 |
-| Stars today | 93 |
+| Stars | 32,295 |
+| Forks | 3,941 |
+| Stars today | 28 |
 
 ---
 
-## 9. [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 🆕
+## 8. [caddyserver/caddy](https://github.com/caddyserver/caddy) 🆕
 
-Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 13,023 |
-| Forks | 1,178 |
-| Stars today | 17 |
+| Stars | 78,371 |
+| Forks | 5,175 |
+| Stars today | 45 |
 
 ---
 
-## 10. [multica-ai/multica](https://github.com/multica-ai/multica)
+## 9. [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 🆕
 
-Make humans and AI agents work as one team — open-source and self-hostable.
+Release engineering, simplified
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 53,681 |
-| Forks | 7,038 |
-| Stars today | 105 |
+| Stars | 16,122 |
+| Forks | 1,133 |
+| Stars today | 3 |
 
 ---
 
-## 11. [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
+## 10. [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) 🆕
 
-微信视频号下载器
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,075 |
-| Forks | 1,668 |
-| Stars today | 36 |
+| Stars | 44,415 |
+| Forks | 4,317 |
+| Stars today | 13 |
 
 ---
 
-## 12. [QuantumNous/new-api](https://github.com/QuantumNous/new-api) 🆕
+## 11. [gastownhall/beads](https://github.com/gastownhall/beads) 🆕
+
+Beads - A memory upgrade for your coding agent
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 28,191 |
+| Forks | 1,900 |
+| Stars today | 30 |
+
+---
+
+## 12. [henrygd/beszel](https://github.com/henrygd/beszel) 🆕
+
+Lightweight server monitoring with historical data, docker stats, and alerts.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 26,511 |
+| Forks | 1,114 |
+| Stars today | 23 |
+
+---
+
+## 13. [grafana/alloy](https://github.com/grafana/alloy) 🆕
+
+OpenTelemetry Collector distribution with programmable pipelines
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 3,639 |
+| Forks | 746 |
+| Stars today | 3 |
+
+---
+
+## 14. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
 
 A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 50,592 |
-| Forks | 12,238 |
-| Stars today | 104 |
+| Stars | 50,635 |
+| Forks | 12,248 |
+| Stars today | 51 |
 
 ---
 
-## 13. [github/gh-stack](https://github.com/github/gh-stack) 🆕
+## 15. [traefik/traefik](https://github.com/traefik/traefik) 🆕
 
-GitHub Stacked PRs
+The Cloud Native Application Proxy
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,717 |
-| Forks | 86 |
-| Stars today | 3 |
+| Stars | 65,355 |
+| Forks | 6,266 |
+| Stars today | 17 |
 
 ---
 
-## 14. [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)
+## 16. [Tencent/WeKnora](https://github.com/Tencent/WeKnora) 🆕
 
-🧑‍🎨 A collection of Golang agentic skills that works
+Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,602 |
-| Forks | 242 |
-| Stars today | 31 |
-
----
-
-## 15. [chenyme/grok2api](https://github.com/chenyme/grok2api) 🆕
-
-Multi-account API gateway for Grok Build, Grok Web, and Grok Console
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 7,846 |
-| Forks | 2,343 |
-| Stars today | 10 |
-
----
-
-## 16. [zitadel/zitadel](https://github.com/zitadel/zitadel)
-
-ZITADEL - Identity infrastructure, simplified for you.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 15,418 |
-| Forks | 1,399 |
-| Stars today | 20 |
+| Stars | 35,319 |
+| Forks | 4,754 |
+| Stars today | 94 |
 
 ---

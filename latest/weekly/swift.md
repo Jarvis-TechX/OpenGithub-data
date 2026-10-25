@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-24T04:30:45Z
-**Total Repositories:** 15
-**New Entries:** 3
+**Snapshot Time:** 2026-10-25T04:35:20Z
+**Total Repositories:** 17
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Run iOS apps without actually installing them!
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,353 |
-| Forks | 1,223 |
-| Stars this week | 545 |
+| Stars | 13,384 |
+| Forks | 1,227 |
+| Stars this week | 521 |
 
 ---
 
@@ -28,35 +28,35 @@ Virtual machines for iOS and macOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,498 |
-| Forks | 1,880 |
-| Stars this week | 583 |
+| Stars | 36,518 |
+| Forks | 1,881 |
+| Stars this week | 587 |
 
 ---
 
-## 3. [xtool-org/xtool](https://github.com/xtool-org/xtool)
+## 3. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
-Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+Run a virtual iPhone on an Apple Silicon Mac.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,487 |
-| Forks | 717 |
-| Stars this week | 1,581 |
+| Stars | 15,985 |
+| Forks | 1,894 |
+| Stars this week | 503 |
 
 ---
 
-## 4. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
+## 4. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
 
-A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
+A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 409 |
-| Forks | 129 |
-| Stars this week | 18 |
+| Stars | 2,187 |
+| Forks | 193 |
+| Stars this week | 232 |
 
 ---
 
@@ -67,138 +67,164 @@ Telegram-iOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,337 |
-| Forks | 3,121 |
-| Stars this week | 111 |
+| Stars | 9,345 |
+| Forks | 3,127 |
+| Stars this week | 113 |
 
 ---
 
-## 6. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) 🆕
+## 6. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
 
-Run a virtual iPhone on an Apple Silicon Mac.
+A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,959 |
-| Forks | 1,890 |
-| Stars this week | 593 |
+| Stars | 411 |
+| Forks | 132 |
+| Stars this week | 20 |
 
 ---
 
-## 7. [OpenBMB/MiniCPM-V-Apps](https://github.com/OpenBMB/MiniCPM-V-Apps) 🆕
+## 7. [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) 🆕
 
-MiniCPM-V apps — fully offline multimodal chat on iOS / Android / HarmonyOS
+macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 484 |
-| Forks | 93 |
-| Stars this week | 27 |
+| Stars | 9,008 |
+| Forks | 276 |
+| Stars this week | 93 |
 
 ---
 
-## 8. [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
-
-一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 15,059 |
-| Forks | 794 |
-| Stars this week | 87 |
-
----
-
-## 9. [claration/feather](https://github.com/claration/feather)
-
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,911 |
-| Forks | 450 |
-| Stars this week | 64 |
-
----
-
-## 10. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
-
-A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,180 |
-| Forks | 194 |
-| Stars this week | 231 |
-
----
-
-## 11. [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser)
-
-Straightforward, type-safe argument parsing for Swift
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 3,797 |
-| Forks | 430 |
-| Stars this week | 5 |
-
----
-
-## 12. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
+## 8. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
 
 AltStore is an alternative app store for non-jailbroken iOS devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,742 |
-| Forks | 1,657 |
-| Stars this week | 147 |
+| Stars | 14,748 |
+| Forks | 1,663 |
+| Stars this week | 112 |
 
 ---
 
-## 13. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use)
-
-👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,657 |
-| Forks | 246 |
-| Stars this week | 207 |
-
----
-
-## 14. [momenbasel/PureMac](https://github.com/momenbasel/PureMac) 🆕
+## 9. [momenbasel/PureMac](https://github.com/momenbasel/PureMac)
 
 Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,366 |
-| Forks | 423 |
-| Stars this week | 212 |
+| Stars | 7,390 |
+| Forks | 427 |
+| Stars this week | 203 |
 
 ---
 
-## 15. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+## 10. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use)
 
-An an app that installs Sidestore on iOS 27, fully on-device
+👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,169 |
-| Forks | 96 |
-| Stars this week | 100 |
+| Stars | 2,676 |
+| Forks | 247 |
+| Stars this week | 199 |
+
+---
+
+## 11. [xtool-org/xtool](https://github.com/xtool-org/xtool)
+
+Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 13,583 |
+| Forks | 724 |
+| Stars this week | 1,287 |
+
+---
+
+## 12. [claration/feather](https://github.com/claration/feather)
+
+Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,920 |
+| Forks | 448 |
+| Stars this week | 73 |
+
+---
+
+## 13. [pauljoda/Crest](https://github.com/pauljoda/Crest) 🆕
+
+An open source browser for Mac, iPhone, and iPad.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 748 |
+| Forks | 54 |
+| Stars this week | 327 |
+
+---
+
+## 14. [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser)
+
+Straightforward, type-safe argument parsing for Swift
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,798 |
+| Forks | 430 |
+| Stars this week | 8 |
+
+---
+
+## 15. [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) 🆕
+
+Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,482 |
+| Forks | 106 |
+| Stars this week | 59 |
+
+---
+
+## 16. [OpenBMB/MiniCPM-V-Apps](https://github.com/OpenBMB/MiniCPM-V-Apps)
+
+MiniCPM-V apps — fully offline multimodal chat on iOS / Android / HarmonyOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 487 |
+| Forks | 93 |
+| Stars this week | 27 |
+
+---
+
+## 17. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) 🆕
+
+bluetooth mesh chat, IRC vibes
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 36,804 |
+| Forks | 5,849 |
+| Stars this week | 206 |
 
 ---
