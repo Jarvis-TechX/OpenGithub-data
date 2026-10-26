@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-25T04:34:51Z
-**Total Repositories:** 12
-**New Entries:** 8
+**Snapshot Time:** 2026-10-26T04:39:51Z
+**Total Repositories:** 7
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,151 +15,86 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 44,936 |
-| Forks | 2,788 |
-| Stars today | 2,264 |
+| Stars | 47,221 |
+| Forks | 2,929 |
+| Stars today | 2,878 |
 
 ---
 
-## 2. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) 🆕
+## 2. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
 
-免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 13,465 |
-| Forks | 946 |
-| Stars today | 133 |
+| Stars | 288,967 |
+| Forks | 42,833 |
+| Stars today | 853 |
 
 ---
 
-## 3. [tt-a1i/archify](https://github.com/tt-a1i/archify) 🆕
+## 3. [is-a-dev/register](https://github.com/is-a-dev/register) 🆕
 
-Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+Grab your own sweet-looking '.is-a.dev' subdomain.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 88,818 |
-| Forks | 6,004 |
-| Stars today | 452 |
+| Stars | 11,638 |
+| Forks | 33,509 |
+| Stars today | 22 |
 
 ---
 
-## 4. [nodejs/node](https://github.com/nodejs/node)
+## 4. [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) 🆕
 
-Node.js JavaScript runtime ✨🐢🚀✨
+GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 123,066 |
-| Forks | 39,619 |
-| Stars today | 372 |
+| Stars | 36,671 |
+| Forks | 2,042 |
+| Stars today | 121 |
 
 ---
 
-## 5. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) 🆕
+## 5. [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) 🆕
 
-A fancy self-hosted monitoring tool
+One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid. No tracking, MIT.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 92,875 |
-| Forks | 8,606 |
-| Stars today | 58 |
+| Stars | 2,008 |
+| Forks | 188 |
+| Stars today | 116 |
 
 ---
 
-## 6. [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+## 6. [WebKit/WebKit](https://github.com/WebKit/WebKit) 🆕
 
-Community curated list of templates for the nuclei engine to find security vulnerabilities.
+Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 13,219 |
-| Forks | 3,708 |
-| Stars today | 18 |
+| Stars | 10,276 |
+| Forks | 2,284 |
+| Stars today | 9 |
 
 ---
 
-## 7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+## 7. [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) 🆕
 
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 175,613 |
-| Forks | 9,577 |
-| Stars today | 785 |
-
----
-
-## 8. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
-
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 56,394 |
-| Forks | 8,338 |
-| Stars today | 156 |
-
----
-
-## 9. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) 🆕
-
-Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 9,914 |
-| Forks | 1,273 |
-| Stars today | 62 |
-
----
-
-## 10. [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) 🆕
-
-Modular SenseNova skills for building AI-powered office assistants and productivity workflows
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 5,903 |
-| Forks | 424 |
-| Stars today | 19 |
-
----
-
-## 11. [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) 🆕
-
-A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 6,290 |
-| Forks | 620 |
-| Stars today | 19 |
-
----
-
-## 12. [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) 🆕
-
-Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 1,005 |
-| Forks | 113 |
-| Stars today | 28 |
+| Stars | 6,946 |
+| Forks | 2,853 |
+| Stars today | 14 |
 
 ---

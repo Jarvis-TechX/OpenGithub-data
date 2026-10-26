@@ -1,139 +1,177 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-25T04:35:01Z
-**Total Repositories:** 10
-**New Entries:** 6
+**Snapshot Time:** 2026-10-26T04:40:02Z
+**Total Repositories:** 13
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [Lelonio/Square](https://github.com/Lelonio/Square) 🆕
+## 1. [Lelonio/Square](https://github.com/Lelonio/Square)
 
 Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 365 |
-| Forks | 33 |
-| Stars today | 96 |
+| Stars | 391 |
+| Forks | 37 |
+| Stars today | 29 |
 
 ---
 
-## 2. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android)
+## 2. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
 
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+✨一个安卓网盘解析下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 539 |
-| Forks | 98 |
-| Stars today | 34 |
+| Stars | 5,570 |
+| Forks | 284 |
+| Stars today | 112 |
 
 ---
 
-## 3. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-
-A V2Ray client for Android, support Xray core and v2fly core
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 64,631 |
-| Forks | 8,385 |
-| Stars today | 69 |
-
----
-
-## 4. [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)
-
-decentralized mesh chat
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,873 |
-| Forks | 1,948 |
-| Stars today | 17 |
-
----
-
-## 5. [ExTV/Podroid](https://github.com/ExTV/Podroid) 🆕
-
-A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 3,609 |
-| Forks | 236 |
-| Stars today | 5 |
-
----
-
-## 6. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) 🆕
+## 3. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 
 Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,663 |
-| Forks | 1,372 |
-| Stars today | 19 |
+| Stars | 6,677 |
+| Forks | 1,374 |
+| Stars today | 23 |
 
 ---
 
-## 7. [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+## 4. [theothernt/AerialViews](https://github.com/theothernt/AerialViews) 🆕
 
-The Kotlin Programming Language.
+A screensaver for Android TV devices including Google TV, Nvidia Shield, and Fire TV. Inspired by Apple TV's video screensaver.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 53,512 |
-| Forks | 6,451 |
-| Stars today | 4 |
+| Stars | 1,124 |
+| Forks | 86 |
 
 ---
 
-## 8. [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) 🆕
+## 5. [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) 🆕
 
-Painless E2E Automation for Mobile and Web
+An YouTube Music Client
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 16,204 |
-| Forks | 1,003 |
-| Stars today | 11 |
+| Stars | 2,082 |
+| Forks | 203 |
+| Stars today | 32 |
 
 ---
 
-## 9. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) 🆕
+## 6. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV) 🆕
 
-Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
+StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,300 |
-| Forks | 130 |
-| Stars today | 33 |
+| Stars | 870 |
+| Forks | 149 |
+| Stars today | 8 |
 
 ---
 
-## 10. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) 🆕
+## 7. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
 
-Android app for streaming and downloading media.
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,062 |
-| Forks | 1,156 |
+| Stars | 32,168 |
+| Forks | 3,442 |
+| Stars today | 55 |
+
+---
+
+## 8. [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) 🆕
+
+A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 25,106 |
+| Forks | 2,777 |
+| Stars today | 18 |
+
+---
+
+## 9. [subhra74/xdm](https://github.com/subhra74/xdm) 🆕
+
+Fast, reliable download accelerator and video downloader, trusted for 13+ years
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 8,073 |
+| Forks | 1,201 |
+| Stars today | 14 |
+
+---
+
+## 10. [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) 🆕
+
+Android feed reader app
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,096 |
+| Forks | 223 |
+| Stars today | 1 |
+
+---
+
+## 11. [Mahmud0808/TeleDrive](https://github.com/Mahmud0808/TeleDrive) 🆕
+
+Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optional E2E encryption, built-in file manager and player.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 377 |
+| Forks | 40 |
+| Stars today | 12 |
+
+---
+
+## 12. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android)
+
+Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 553 |
+| Forks | 100 |
+| Stars today | 15 |
+
+---
+
+## 13. [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)
+
+decentralized mesh chat
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,884 |
+| Forks | 1,953 |
 | Stars today | 11 |
 
 ---

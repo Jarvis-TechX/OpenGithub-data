@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-25T04:35:37Z
-**Total Repositories:** 21
+**Snapshot Time:** 2026-10-26T04:40:41Z
+**Total Repositories:** 18
 **New Entries:** 1
-**Quality Score:** 98.10/100
+**Quality Score:** 97.78/100
 
 ---
 
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,082 |
-| Forks | 1,616 |
-| Stars this month | 1,539 |
+| Stars | 21,144 |
+| Forks | 1,621 |
+| Stars this month | 1,594 |
 
 ---
 
@@ -28,9 +28,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,385 |
-| Forks | 1,592 |
-| Stars this month | 978 |
+| Stars | 15,420 |
+| Forks | 1,598 |
+| Stars this month | 989 |
 
 ---
 
@@ -41,9 +41,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,805 |
-| Forks | 3,788 |
-| Stars this month | 706 |
+| Stars | 26,816 |
+| Forks | 3,786 |
+| Stars this month | 716 |
 
 ---
 
@@ -54,9 +54,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,384 |
-| Forks | 5,690 |
-| Stars this month | 141 |
+| Stars | 18,390 |
+| Forks | 5,705 |
+| Stars this month | 149 |
 
 ---
 
@@ -67,214 +67,175 @@ A modern launcher for downloading, installing, and running apps from GitHub and 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,970 |
-| Forks | 77 |
-| Stars this month | 2,546 |
+| Stars | 3,108 |
+| Forks | 80 |
+| Stars this month | 2,634 |
 
 ---
 
-## 6. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
-
-B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,095 |
-| Forks | 1,922 |
-| Stars this month | 292 |
-
----
-
-## 7. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
-
-Smart PVR for newsgroup and bittorrent users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,411 |
-| Forks | 2,065 |
-| Stars this month | 970 |
-
----
-
-## 8. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+## 6. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
 
 PCL 社区版 由社区开发者维护与管理
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,860 |
-| Forks | 407 |
-| Stars this month | 545 |
+| Stars | 4,907 |
+| Forks | 424 |
+| Stars this month | 597 |
 
 ---
 
-## 9. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
+## 7. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
 
 Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,058 |
-| Forks | 402 |
-| Stars this month | 435 |
+| Stars | 3,063 |
+| Forks | 404 |
+| Stars this month | 434 |
 
 ---
 
-## 10. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 8. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
 A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,974 |
+| Stars | 1,978 |
 | Forks | 64 |
-| Stars this month | 361 |
+| Stars this month | 371 |
 
 ---
 
-## 11. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
-
-Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,643 |
-| Forks | 3,090 |
-| Stars this month | 231 |
-
----
-
-## 12. [RayrenSX/iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror)
-
-Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 1,494 |
-| Forks | 108 |
-| Stars this month | 747 |
-
----
-
-## 13. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 9. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,489 |
-| Forks | 13,421 |
-| Stars this month | 105 |
+| Stars | 38,495 |
+| Forks | 12,994 |
+| Stars this month | 111 |
 
 ---
 
-## 14. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
+## 10. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,917 |
-| Forks | 246 |
-| Stars this month | 456 |
+| Stars | 7,947 |
+| Forks | 248 |
+| Stars this month | 479 |
 
 ---
 
-## 15. [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
+## 11. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
 
-Bring macOS “Quick Look” feature to Windows
+Smart PVR for newsgroup and bittorrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 25,496 |
-| Forks | 1,352 |
-| Stars this month | 624 |
+| Stars | 17,430 |
+| Forks | 2,066 |
+| Stars this month | 967 |
 
 ---
 
-## 16. [ShareX/ShareX](https://github.com/ShareX/ShareX)
+## 12. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+
+B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,099 |
+| Forks | 1,923 |
+| Stars this month | 296 |
+
+---
+
+## 13. [ShareX/ShareX](https://github.com/ShareX/ShareX)
 
 ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,394 |
-| Forks | 3,998 |
-| Stars this month | 734 |
+| Stars | 40,414 |
+| Forks | 4,000 |
+| Stars this month | 754 |
 
 ---
 
-## 17. [stride3d/stride](https://github.com/stride3d/stride)
+## 14. [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
 
-Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
+Bring macOS “Quick Look” feature to Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,918 |
-| Forks | 1,181 |
-| Stars this month | 108 |
+| Stars | 25,520 |
+| Forks | 1,352 |
+| Stars this month | 642 |
 
 ---
 
-## 18. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+## 15. [greenshot/greenshot](https://github.com/greenshot/greenshot) 🆕
+
+Greenshot for Windows - for more information look here:
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,211 |
+| Forks | 718 |
+| Stars this month | 91 |
+
+---
+
+## 16. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
 
 the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,707 |
-| Forks | 1,342 |
-| Stars this month | 429 |
+| Stars | 14,726 |
+| Forks | 1,345 |
+| Stars this month | 431 |
 
 ---
 
-## 19. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
-
-Download web video and audio
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,449 |
-| Forks | 358 |
-| Stars this month | 342 |
-
----
-
-## 20. [dotnet/roslyn](https://github.com/dotnet/roslyn)
+## 17. [dotnet/roslyn](https://github.com/dotnet/roslyn)
 
 The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,754 |
+| Stars | 20,755 |
 | Forks | 4,358 |
-| Stars this month | 91 |
+| Stars this month | 94 |
 
 ---
 
-## 21. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) 🆕
+## 18. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
 
-GUI application to analyze game files
+Download web video and audio
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,729 |
-| Forks | 1,026 |
-| Stars this month | 345 |
+| Stars | 7,462 |
+| Forks | 359 |
+| Stars this month | 346 |
 
 ---

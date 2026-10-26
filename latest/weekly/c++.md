@@ -1,10 +1,10 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-25T04:35:15Z
-**Total Repositories:** 8
+**Snapshot Time:** 2026-10-26T04:40:17Z
+**Total Repositories:** 6
 **New Entries:** 3
-**Quality Score:** 95.00/100
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,33 +15,35 @@ The ultimate Geometry Dash modding framework
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,101 |
-| Forks | 615 |
-| Stars this week | 115 |
+| Stars | 3,120 |
+| Forks | 619 |
+| Stars this week | 116 |
 
 ---
 
-## 2. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+## 2. [jamro/tiny-engineer](https://github.com/jamro/tiny-engineer) 🆕
 
-🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,557 |
-| Forks | 2,571 |
-| Stars this week | 208 |
+| Stars | 894 |
+| Forks | 113 |
+| Stars this week | 176 |
 
 ---
 
-## 3. [mzzvxm/LARecomp](https://github.com/mzzvxm/LARecomp) 🆕
+## 3. [duckdb/duckdb](https://github.com/duckdb/duckdb)
+
+DuckDB is a high-performance analytical database system
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 201 |
-| Forks | 17 |
-| Stars this week | 58 |
+| Stars | 42,556 |
+| Forks | 4,029 |
+| Stars this week | 304 |
 
 ---
 
@@ -52,60 +54,34 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,055 |
-| Forks | 4,712 |
-| Stars this week | 422 |
+| Stars | 33,123 |
+| Forks | 4,726 |
+| Stars this week | 434 |
 
 ---
 
-## 5. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+## 5. [godotengine/godot](https://github.com/godotengine/godot) 🆕
 
-An MCP-based chatbot | 一个基于MCP的聊天机器人
+Godot Engine – Multi-platform 2D and 3D game engine
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,891 |
-| Forks | 7,467 |
-| Stars this week | 550 |
+| Stars | 119,079 |
+| Forks | 27,204 |
+| Stars this week | 489 |
 
 ---
 
-## 6. [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) 🆕
+## 6. [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) 🆕
 
-A free and strong UCI chess engine
+OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,088 |
-| Forks | 3,109 |
-| Stars this week | 153 |
-
----
-
-## 7. [duckdb/duckdb](https://github.com/duckdb/duckdb) 🆕
-
-DuckDB is a high-performance analytical database system
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 42,503 |
-| Forks | 4,013 |
-| Stars this week | 286 |
-
----
-
-## 8. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
-
-PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 33,909 |
-| Forks | 2,850 |
-| Stars this week | 251 |
+| Stars | 12,097 |
+| Forks | 566 |
+| Stars this week | 266 |
 
 ---

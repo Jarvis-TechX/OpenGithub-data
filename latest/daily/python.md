@@ -1,152 +1,191 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-25T04:34:50Z
-**Total Repositories:** 11
-**New Entries:** 7
+**Snapshot Time:** 2026-10-26T04:39:50Z
+**Total Repositories:** 14
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) 🆕
+## 1. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) 🆕
 
-Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 3,176 |
-| Forks | 401 |
-| Stars today | 13 |
-
----
-
-## 2. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
-
-A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 44,660 |
-| Forks | 5,497 |
-| Stars today | 392 |
+| Stars | 87,181 |
+| Forks | 9,643 |
+| Stars today | 1,592 |
 
 ---
 
-## 3. [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) 🆕
-
-欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 22,763 |
-| Forks | 3,197 |
-| Stars today | 227 |
-
----
-
-## 4. [pollen-robotics/microduck_rl](https://github.com/pollen-robotics/microduck_rl) 🆕
-
-RL training environments for Microduck (mjlab)
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 2,619 |
-| Forks | 609 |
-| Stars today | 34 |
-
----
-
-## 5. [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
-
-claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 8,867 |
-| Forks | 1,144 |
-| Stars today | 630 |
-
----
-
-## 6. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 32,694 |
-| Forks | 3,612 |
-| Stars today | 524 |
-
----
-
-## 7. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+## 2. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 113,739 |
-| Forks | 22,032 |
-| Stars today | 309 |
+| Stars | 114,832 |
+| Forks | 22,148 |
+| Stars today | 381 |
 
 ---
 
-## 8. [agentskills/agentskills](https://github.com/agentskills/agentskills) 🆕
+## 3. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) 🆕
 
-Specification and documentation for Agent Skills
+Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 26,582 |
-| Forks | 1,957 |
-| Stars today | 53 |
+| Stars | 21,152 |
+| Forks | 2,966 |
+| Stars today | 197 |
 
 ---
 
-## 9. [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) 🆕
+## 4. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) 🆕
 
-Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 60,074 |
-| Forks | 8,868 |
-| Stars today | 35 |
+| Stars | 143,068 |
+| Forks | 21,045 |
+| Stars today | 111 |
 
 ---
 
-## 10. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🆕
+## 5. [browser-use/video-use](https://github.com/browser-use/video-use) 🆕
 
-Hindsight: Agent Memory That Learns
+Edit videos with coding agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 53,486 |
-| Forks | 6,238 |
-| Stars today | 329 |
+| Stars | 29,843 |
+| Forks | 3,463 |
+| Stars today | 97 |
 
 ---
 
-## 11. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🆕
+## 6. [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) 🆕
 
-A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+Making a mini version of the BDX droid.https://discord.gg/UtJZsgfQGe
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 77,857 |
-| Forks | 9,318 |
-| Stars today | 79 |
+| Stars | 4,493 |
+| Forks | 569 |
+| Stars today | 37 |
+
+---
+
+## 7. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) 🆕
+
+DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 42,777 |
+| Forks | 5,425 |
+| Stars today | 176 |
+
+---
+
+## 8. [unslothai/unsloth](https://github.com/unslothai/unsloth) 🆕
+
+Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 78,568 |
+| Forks | 7,291 |
+| Stars today | 47 |
+
+---
+
+## 9. [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 🆕
+
+分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 184,498 |
+| Forks | 13,099 |
+| Stars today | 276 |
+
+---
+
+## 10. [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) 🆕
+
+小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 68,594 |
+| Forks | 13,051 |
+| Stars today | 350 |
+
+---
+
+## 11. [experientiallabs/experiential](https://github.com/experientiallabs/experiential) 🆕
+
+Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 12,942 |
+| Forks | 264 |
+| Stars today | 1,117 |
+
+---
+
+## 12. [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
+
+Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 3,276 |
+| Forks | 406 |
+| Stars today | 245 |
+
+---
+
+## 13. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) 🆕
+
+AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 43,519 |
+| Forks | 3,195 |
+| Stars today | 208 |
+
+---
+
+## 14. [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 9,127 |
+| Forks | 1,207 |
+| Stars today | 186 |
 
 ---

@@ -1,217 +1,191 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-25T04:34:56Z
-**Total Repositories:** 16
-**New Entries:** 14
+**Snapshot Time:** 2026-10-26T04:39:57Z
+**Total Repositories:** 14
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [github/gh-aw](https://github.com/github/gh-aw) 🆕
-
-GitHub Agentic Workflows
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,462 |
-| Forks | 600 |
-| Stars today | 7 |
-
----
-
-## 2. [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) 🆕
-
-Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 7,999 |
-| Forks | 862 |
-| Stars today | 30 |
-
----
-
-## 3. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) 🆕
+## 1. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
 
 A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,836 |
-| Forks | 272 |
-| Stars today | 131 |
+| Stars | 6,017 |
+| Forks | 275 |
+| Stars today | 190 |
 
 ---
 
-## 4. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) 🆕
+## 2. [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) 🆕
+
+git push no-mistakes
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 8,961 |
+| Forks | 930 |
+| Stars today | 21 |
+
+---
+
+## 3. [charmbracelet/crush](https://github.com/charmbracelet/crush) 🆕
+
+Glamourous agentic coding for all 💘
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 28,815 |
+| Forks | 2,327 |
+| Stars today | 22 |
+
+---
+
+## 4. [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) 🆕
+
+Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 48,576 |
+| Forks | 12,506 |
+| Stars today | 53 |
+
+---
+
+## 5. [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
+
+Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 8,017 |
+| Forks | 865 |
+| Stars today | 26 |
+
+---
+
+## 6. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
 
 Awesome list of 300+ agentic AI resources
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,665 |
-| Forks | 697 |
-| Stars today | 44 |
+| Stars | 2,711 |
+| Forks | 707 |
+| Stars today | 48 |
 
 ---
 
-## 5. [chaitin/SafeLine](https://github.com/chaitin/SafeLine)
+## 7. [kdlbs/kandev](https://github.com/kdlbs/kandev) 🆕
 
-SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 22,941 |
-| Forks | 1,571 |
-| Stars today | 15 |
+| Stars | 1,018 |
+| Forks | 167 |
+| Stars today | 10 |
 
 ---
 
-## 6. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 🆕
+## 8. [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) 🆕
+
+Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,082 |
+| Forks | 521 |
+| Stars today | 9 |
+
+---
+
+## 9. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 114,845 |
-| Forks | 6,622 |
-| Stars today | 229 |
+| Stars | 115,092 |
+| Forks | 6,636 |
+| Stars today | 208 |
 
 ---
 
-## 7. [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) 🆕
+## 10. [github/gh-aw](https://github.com/github/gh-aw)
 
-Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+GitHub Agentic Workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 32,295 |
-| Forks | 3,941 |
-| Stars today | 28 |
+| Stars | 5,471 |
+| Forks | 602 |
+| Stars today | 15 |
 
 ---
 
-## 8. [caddyserver/caddy](https://github.com/caddyserver/caddy) 🆕
+## 11. [encoredev/encore](https://github.com/encoredev/encore) 🆕
 
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+Infrastructure orchestration from local to your cloud
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 78,371 |
-| Forks | 5,175 |
-| Stars today | 45 |
+| Stars | 12,587 |
+| Forks | 646 |
+| Stars today | 22 |
 
 ---
 
-## 9. [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 🆕
+## 12. [ollama/ollama](https://github.com/ollama/ollama) 🆕
 
-Release engineering, simplified
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,122 |
-| Forks | 1,133 |
-| Stars today | 3 |
+| Stars | 184,780 |
+| Forks | 18,581 |
+| Stars today | 132 |
 
 ---
 
-## 10. [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) 🆕
+## 13. [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) 🆕
 
-Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+A new AList Fork to Anti Trust Crisis
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 44,415 |
-| Forks | 4,317 |
-| Stars today | 13 |
+| Stars | 25,276 |
+| Forks | 2,417 |
+| Stars today | 41 |
 
 ---
 
-## 11. [gastownhall/beads](https://github.com/gastownhall/beads) 🆕
+## 14. [dagger/dagger](https://github.com/dagger/dagger) 🆕
 
-Beads - A memory upgrade for your coding agent
+Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 28,191 |
-| Forks | 1,900 |
-| Stars today | 30 |
-
----
-
-## 12. [henrygd/beszel](https://github.com/henrygd/beszel) 🆕
-
-Lightweight server monitoring with historical data, docker stats, and alerts.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 26,511 |
-| Forks | 1,114 |
-| Stars today | 23 |
-
----
-
-## 13. [grafana/alloy](https://github.com/grafana/alloy) 🆕
-
-OpenTelemetry Collector distribution with programmable pipelines
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 3,639 |
-| Forks | 746 |
-| Stars today | 3 |
-
----
-
-## 14. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
-
-A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 50,635 |
-| Forks | 12,248 |
-| Stars today | 51 |
-
----
-
-## 15. [traefik/traefik](https://github.com/traefik/traefik) 🆕
-
-The Cloud Native Application Proxy
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 65,355 |
-| Forks | 6,266 |
-| Stars today | 17 |
-
----
-
-## 16. [Tencent/WeKnora](https://github.com/Tencent/WeKnora) 🆕
-
-Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 35,319 |
-| Forks | 4,754 |
-| Stars today | 94 |
+| Stars | 16,506 |
+| Forks | 938 |
+| Stars today | 34 |
 
 ---

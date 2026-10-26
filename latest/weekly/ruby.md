@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-25T04:35:10Z
+**Snapshot Time:** 2026-10-26T04:40:12Z
 **Total Repositories:** 19
-**New Entries:** 7
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 38,194 |
-| Forks | 9,325 |
-| Stars this week | 301 |
+| Stars | 38,293 |
+| Forks | 9,342 |
+| Stars this week | 370 |
 
 ---
 
-## 2. [Homebrew/brew](https://github.com/Homebrew/brew)
+## 2. [opf/openproject](https://github.com/opf/openproject)
 
-🍺 The Package Manager for Everywhere
+OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,097 |
-| Forks | 11,396 |
-| Stars this week | 94 |
+| Stars | 16,676 |
+| Forks | 3,619 |
+| Stars this week | 220 |
 
 ---
 
@@ -43,33 +43,33 @@ The Ruby Programming Language
 | Language | Ruby |
 | Stars | 23,795 |
 | Forks | 5,670 |
-| Stars this week | 37 |
+| Stars this week | 40 |
 
 ---
 
-## 4. [opf/openproject](https://github.com/opf/openproject)
+## 4. [Homebrew/brew](https://github.com/Homebrew/brew)
 
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
+🍺 The Package Manager for Everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,631 |
-| Forks | 3,615 |
-| Stars this week | 173 |
+| Stars | 50,107 |
+| Forks | 11,396 |
+| Stars this week | 101 |
 
 ---
 
-## 5. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+## 5. [huginn/huginn](https://github.com/huginn/huginn) 🆕
 
-Metasploit Framework
+Create agents that monitor and act on your behalf. Your agents are standing by!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,231 |
-| Forks | 14,993 |
-| Stars this week | 79 |
+| Stars | 50,138 |
+| Forks | 4,317 |
+| Stars this week | 83 |
 
 ---
 
@@ -80,39 +80,65 @@ Metasploit Framework
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,640 |
-| Forks | 13,938 |
-| Stars this week | 17 |
+| Stars | 15,642 |
+| Forks | 13,940 |
+| Stars this week | 19 |
 
 ---
 
-## 7. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) 🆕
+## 7. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+
+Metasploit Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,238 |
+| Forks | 14,994 |
+| Stars this week | 74 |
+
+---
+
+## 8. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 
 🌇 A collection of links for free stock photography, video and Illustration websites
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,635 |
-| Forks | 827 |
-| Stars this week | 30 |
+| Stars | 14,641 |
+| Forks | 828 |
+| Stars this week | 31 |
 
 ---
 
-## 8. [discourse/discourse](https://github.com/discourse/discourse)
+## 9. [github/explore](https://github.com/github/explore) 🆕
 
-A platform for community discussion. Free, open, simple.
+Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 48,006 |
-| Forks | 9,054 |
-| Stars this week | 43 |
+| Stars | 4,929 |
+| Forks | 14,653 |
+| Stars this week | 18 |
 
 ---
 
-## 9. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 10. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) 🆕
+
+Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 12,345 |
+| Forks | 598 |
+| Stars this week | 33 |
+
+---
+
+## 11. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -124,7 +150,7 @@ A collection of RBS for gems.
 
 ---
 
-## 10. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) 🆕
+## 12. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
 
 A database of vulnerable Ruby Gems
 
@@ -133,11 +159,37 @@ A database of vulnerable Ruby Gems
 | Language | Ruby |
 | Stars | 1,076 |
 | Forks | 249 |
-| Stars this week | 2 |
+| Stars this week | 1 |
 
 ---
 
-## 11. [jruby/jruby](https://github.com/jruby/jruby)
+## 13. [forem/forem](https://github.com/forem/forem) 🆕
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,809 |
+| Forks | 4,192 |
+| Stars this week | 11 |
+
+---
+
+## 14. [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) 🆕
+
+Build LLM-powered applications in Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 2,006 |
+| Forks | 268 |
+| Stars this week | 3 |
+
+---
+
+## 15. [jruby/jruby](https://github.com/jruby/jruby)
 
 JRuby, an implementation of Ruby on the JVM
 
@@ -150,105 +202,54 @@ JRuby, an implementation of Ruby on the JVM
 
 ---
 
-## 12. [antiwork/gumroad](https://github.com/antiwork/gumroad) 🆕
+## 16. [fastlane/fastlane](https://github.com/fastlane/fastlane) 🆕
 
-See what sticks
+🚀 The easiest way to automate building and releasing your iOS and Android apps
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,014 |
-| Forks | 2,096 |
-| Stars this week | 63 |
+| Stars | 42,305 |
+| Forks | 6,047 |
+| Stars this week | 55 |
 
 ---
 
-## 13. [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
+## 17. [theforeman/foreman](https://github.com/theforeman/foreman) 🆕
 
-Vagrant is a tool for building and distributing development environments.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 27,218 |
-| Forks | 4,405 |
-| Stars this week | 6 |
-
----
-
-## 14. [otwcode/otwarchive](https://github.com/otwcode/otwarchive)
-
-The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
+an application that automates the lifecycle of servers
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,279 |
-| Forks | 868 |
+| Stars | 2,997 |
+| Forks | 1,061 |
 | Stars this week | 7 |
 
 ---
 
-## 15. [mastodon/mastodon](https://github.com/mastodon/mastodon) 🆕
+## 18. [mastodon/mastodon](https://github.com/mastodon/mastodon)
 
 Your self-hosted, globally interconnected microblogging community
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,448 |
+| Stars | 50,451 |
 | Forks | 7,523 |
-| Stars this week | 41 |
+| Stars this week | 46 |
 
 ---
 
-## 16. [postalserver/postal](https://github.com/postalserver/postal)
+## 19. [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) 🆕
 
-📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+The Cocoa Dependency Manager.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,891 |
-| Forks | 1,315 |
-| Stars this week | 21 |
-
----
-
-## 17. [fluent/fluentd](https://github.com/fluent/fluentd) 🆕
-
-Fluentd: Unified Logging Layer (project under CNCF)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 13,611 |
-| Forks | 1,405 |
-| Stars this week | 2 |
-
----
-
-## 18. [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) 🆕
-
-🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 2,234 |
-| Forks | 217 |
-| Stars this week | 3 |
-
----
-
-## 19. [CMSgov/price-transparency-guide](https://github.com/CMSgov/price-transparency-guide) 🆕
-
-The technical implementation guide for the tri-departmental price transparency rule.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 460 |
-| Forks | 139 |
+| Stars | 14,838 |
+| Forks | 2,684 |
+| Stars this week | 5 |
 
 ---

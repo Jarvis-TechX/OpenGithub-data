@@ -1,191 +1,191 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-25T04:34:57Z
+**Snapshot Time:** 2026-10-26T04:39:58Z
 **Total Repositories:** 14
-**New Entries:** 7
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-
-OpenShell is the safe, private runtime for autonomous AI agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 19,565 |
-| Forks | 1,937 |
-| Stars today | 896 |
-
----
-
-## 2. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 1. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 The design language that makes your AI harness better at design.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 86,566 |
-| Forks | 5,165 |
-| Stars today | 619 |
+| Stars | 87,951 |
+| Forks | 5,254 |
+| Stars today | 1,092 |
 
 ---
 
-## 3. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
+## 2. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
 
 A Tiny biped duck robot 🦆
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,081 |
-| Forks | 1,418 |
-| Stars today | 319 |
+| Stars | 11,823 |
+| Forks | 1,500 |
+| Stars today | 647 |
 
 ---
 
-## 4. [redlib-org/redlib](https://github.com/redlib-org/redlib)
-
-Private front-end for Reddit
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,919 |
-| Forks | 307 |
-| Stars today | 20 |
-
----
-
-## 5. [macro-inc/macro](https://github.com/macro-inc/macro)
-
-Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 4,904 |
-| Forks | 477 |
-| Stars today | 33 |
-
----
-
-## 6. [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🆕
+## 3. [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 
 Open source Loom alternative. Beautiful, shareable screen recordings.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 23,711 |
-| Forks | 2,148 |
-| Stars today | 94 |
+| Stars | 23,787 |
+| Forks | 2,155 |
+| Stars today | 82 |
 
 ---
 
-## 7. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+## 4. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
 
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+OpenShell is the safe, private runtime for autonomous AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,458 |
-| Forks | 336 |
-| Stars today | 31 |
+| Stars | 19,916 |
+| Forks | 1,971 |
+| Stars today | 600 |
 
 ---
 
-## 8. [herdrdev/herdr](https://github.com/herdrdev/herdr) 🆕
+## 5. [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) 🆕
 
-the runtime your coding agents live on
+The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 45,726 |
-| Forks | 3,637 |
-| Stars today | 144 |
+| Stars | 42,341 |
+| Forks | 4,184 |
+| Stars today | 42 |
 
 ---
 
-## 9. [aaif-goose/goose](https://github.com/aaif-goose/goose) 🆕
+## 6. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) 🆕
+
+A batteries-included framework for building web apps
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 6,219 |
+| Forks | 220 |
+| Stars today | 18 |
+
+---
+
+## 7. [aaif-goose/goose](https://github.com/aaif-goose/goose)
 
 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 55,666 |
-| Forks | 6,444 |
-| Stars today | 56 |
+| Stars | 55,718 |
+| Forks | 6,453 |
+| Stars today | 69 |
 
 ---
 
-## 10. [cjpais/Handy](https://github.com/cjpais/Handy) 🆕
+## 8. [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 🆕
 
-A free, open source, and extensible speech-to-text application that works completely offline.
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 34,558 |
-| Forks | 3,284 |
-| Stars today | 88 |
+| Stars | 21,855 |
+| Forks | 1,035 |
+| Stars today | 7 |
 
 ---
 
-## 11. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 🆕
+## 9. [claration/impactor](https://github.com/claration/impactor) 🆕
 
-Browser automation CLI for AI agents
+Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 44,552 |
-| Forks | 3,056 |
-| Stars today | 55 |
+| Stars | 3,613 |
+| Forks | 257 |
+| Stars today | 5 |
 
 ---
 
-## 12. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
+## 10. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
 The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,603 |
-| Forks | 576 |
-| Stars today | 100 |
+| Stars | 6,678 |
+| Forks | 582 |
+| Stars today | 133 |
 
 ---
 
-## 13. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) 🆕
+## 11. [biomejs/biome](https://github.com/biomejs/biome) 🆕
 
-A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,792 |
-| Forks | 549 |
-| Stars today | 33 |
+| Stars | 25,995 |
+| Forks | 1,293 |
+| Stars today | 8 |
 
 ---
 
-## 14. [apache/iggy](https://github.com/apache/iggy) 🆕
+## 12. [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) 🆕
 
-Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
+A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,194 |
-| Forks | 491 |
-| Stars today | 6 |
+| Stars | 18,772 |
+| Forks | 1,892 |
+| Stars today | 11 |
+
+---
+
+## 13. [block/buzz](https://github.com/block/buzz) 🆕
+
+A hive mind communication platform
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 36,465 |
+| Forks | 4,822 |
+| Stars today | 65 |
+
+---
+
+## 14. [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) 🆕
+
+🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 24,216 |
+| Forks | 1,210 |
+| Stars today | 45 |
 
 ---

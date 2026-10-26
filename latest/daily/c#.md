@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-25T04:35:02Z
-**Total Repositories:** 11
-**New Entries:** 6
+**Snapshot Time:** 2026-10-26T04:40:03Z
+**Total Repositories:** 22
+**New Entries:** 17
 **Quality Score:** 100.00/100
 
 ---
@@ -15,137 +15,280 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,082 |
-| Forks | 1,616 |
-| Stars today | 85 |
+| Stars | 21,144 |
+| Forks | 1,621 |
+| Stars today | 66 |
 
 ---
 
-## 2. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-
-The Free Software Media System - Server Backend & API
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 58,542 |
-| Forks | 5,710 |
-| Stars today | 68 |
-
----
-
-## 3. [dotnet/skills](https://github.com/dotnet/skills)
-
-Repository for skills to assist AI coding agents with .NET and C#
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,722 |
-| Forks | 447 |
-| Stars today | 14 |
-
----
-
-## 4. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) 🆕
-
-Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,402 |
-| Forks | 2,961 |
-| Stars today | 3 |
-
----
-
-## 5. [Azure/azure-powershell](https://github.com/Azure/azure-powershell) 🆕
-
-Microsoft Azure PowerShell
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,809 |
-| Forks | 4,278 |
-
----
-
-## 6. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
-
-A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,540 |
-| Forks | 398 |
-| Stars today | 77 |
-
----
-
-## 7. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
-
-Integrate cutting-edge LLM technology quickly and easily into your apps
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 28,695 |
-| Forks | 4,839 |
-| Stars today | 3 |
-
----
-
-## 8. [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) 🆕
+## 2. [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox)
 
 LibVLC-based media player for the Universal Windows Platform
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,615 |
+| Stars | 4,624 |
 | Forks | 217 |
-| Stars today | 28 |
+| Stars today | 10 |
 
 ---
 
-## 9. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) 🆕
+## 3. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) 🆕
+
+📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 16,836 |
+| Forks | 1,243 |
+| Stars today | 255 |
+
+---
+
+## 4. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) 🆕
+
+PCL 社区版 由社区开发者维护与管理
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,907 |
+| Forks | 424 |
+| Stars today | 55 |
+
+---
+
+## 5. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
+
+A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,622 |
+| Forks | 405 |
+| Stars today | 68 |
+
+---
+
+## 6. [Jackett/Jackett](https://github.com/Jackett/Jackett) 🆕
+
+API Support for your favorite torrent trackers
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 16,261 |
+| Forks | 1,595 |
+| Stars today | 11 |
+
+---
+
+## 7. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+
+The Free Software Media System - Server Backend & API
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 58,601 |
+| Forks | 5,715 |
+| Stars today | 69 |
+
+---
+
+## 8. [zqq-699/BlockHelm-Launcher](https://github.com/zqq-699/BlockHelm-Launcher) 🆕
+
+简洁现代的 Minecraft Java 版启动器，支持实例、资源与账户管理。
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 264 |
+| Forks | 12 |
+| Stars today | 11 |
+
+---
+
+## 9. [LorisYounger/VPet](https://github.com/LorisYounger/VPet) 🆕
+
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,043 |
+| Forks | 701 |
+| Stars today | 8 |
+
+---
+
+## 10. [stride3d/stride](https://github.com/stride3d/stride) 🆕
+
+Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,926 |
+| Forks | 1,181 |
+| Stars today | 4 |
+
+---
+
+## 11. [QuantConnect/Lean](https://github.com/QuantConnect/Lean) 🆕
+
+Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 22,237 |
+| Forks | 5,344 |
+| Stars today | 31 |
+
+---
+
+## 12. [Goob-Station/Goob-Station](https://github.com/Goob-Station/Goob-Station) 🆕
+
+We're not even close to "Wizden, but random" at this point. Super chud SS14 fork. By chuds, for chuds.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 244 |
+| Forks | 1,502 |
+| Stars today | 1 |
+
+---
+
+## 13. [ss14Starlight/space-station-14](https://github.com/ss14Starlight/space-station-14) 🆕
+
+An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 133 |
+| Forks | 682 |
+
+---
+
+## 14. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
 
 Advanced UX and interoperability extension for Wand (WeMod) app
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 32,886 |
-| Forks | 84,980 |
-| Stars today | 135 |
+| Stars | 32,995 |
+| Forks | 85,275 |
+| Stars today | 152 |
 
 ---
 
-## 10. [ANYNC/TaskbarLyrics](https://github.com/ANYNC/TaskbarLyrics) 🆕
+## 15. [Kareadita/Kavita](https://github.com/Kareadita/Kavita) 🆕
 
-Windows 任务栏歌词工具
+Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 560 |
-| Forks | 20 |
-| Stars today | 24 |
+| Stars | 11,939 |
+| Forks | 684 |
+| Stars today | 15 |
 
 ---
 
-## 11. [dotnet/roslyn](https://github.com/dotnet/roslyn) 🆕
+## 16. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) 🆕
 
-The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,754 |
-| Forks | 4,358 |
-| Stars today | 1 |
+| Stars | 19,800 |
+| Forks | 4,515 |
+| Stars today | 4 |
+
+---
+
+## 17. [openutau/OpenUtau](https://github.com/openutau/OpenUtau) 🆕
+
+Open singing synthesis platform / Open source UTAU successor
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,475 |
+| Forks | 581 |
+| Stars today | 7 |
+
+---
+
+## 18. [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) 🆕
+
+The main repository for the development of the evolution game Thrive.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 3,790 |
+| Forks | 636 |
+| Stars today | 3 |
+
+---
+
+## 19. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
+
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 18,390 |
+| Forks | 5,705 |
+| Stars today | 6 |
+
+---
+
+## 20. [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) 🆕
+
+A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 3,888 |
+| Forks | 5,822 |
+| Stars today | 2 |
+
+---
+
+## 21. [ArduPilot/MissionPlanner](https://github.com/ArduPilot/MissionPlanner) 🆕
+
+Mission Planner Ground Control Station for ArduPilot (c# .net)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 2,407 |
+| Forks | 2,896 |
+| Stars today | 3 |
+
+---
+
+## 22. [0x7c13/Notepads](https://github.com/0x7c13/Notepads) 🆕
+
+A modern, lightweight text editor with a minimalist design.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 10,296 |
+| Forks | 559 |
+| Stars today | 10 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-25T04:35:13Z
-**Total Repositories:** 14
-**New Entries:** 3
+**Snapshot Time:** 2026-10-26T04:40:16Z
+**Total Repositories:** 16
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 13,315 |
-| Forks | 940 |
-| Stars this week | 3,541 |
+| Stars | 13,562 |
+| Forks | 960 |
+| Stars this week | 3,254 |
 
 ---
 
@@ -28,9 +28,9 @@ Local-first search engine and MCP server for AI agents. One Rust binary indexes 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,341 |
-| Forks | 1,077 |
-| Stars this week | 8,080 |
+| Stars | 15,620 |
+| Forks | 1,145 |
+| Stars this week | 7,637 |
 
 ---
 
@@ -41,151 +41,177 @@ A Tiny biped duck robot 🦆
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,081 |
-| Forks | 1,418 |
-| Stars this week | 1,263 |
+| Stars | 11,823 |
+| Forks | 1,500 |
+| Stars this week | 1,876 |
 
 ---
 
-## 4. [oven-sh/bun](https://github.com/oven-sh/bun)
+## 4. [jub0t/Concat](https://github.com/jub0t/Concat) 🆕
+
+The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 11,573 |
+| Forks | 1,421 |
+| Stars this week | 2,616 |
+
+---
+
+## 5. [oven-sh/bun](https://github.com/oven-sh/bun)
 
 Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 96,387 |
-| Forks | 5,123 |
-| Stars this week | 207 |
+| Stars | 96,413 |
+| Forks | 5,140 |
+| Stars this week | 205 |
 
 ---
 
-## 5. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) 🆕
+## 6. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
 The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,603 |
-| Forks | 576 |
-| Stars this week | 360 |
+| Stars | 6,678 |
+| Forks | 582 |
+| Stars this week | 452 |
 
 ---
 
-## 6. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
-
-AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 1,401 |
-| Forks | 167 |
-| Stars this week | 165 |
-
----
-
-## 7. [leepokai/Codync](https://github.com/leepokai/Codync)
-
-Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic, free, open source. The Grok Bot, Muse and Dots alternative. Built in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 798 |
-| Forks | 97 |
-| Stars this week | 304 |
-
----
-
-## 8. [macro-inc/macro](https://github.com/macro-inc/macro) 🆕
-
-Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 4,904 |
-| Forks | 477 |
-| Stars this week | 207 |
-
----
-
-## 9. [Automattic/harper](https://github.com/Automattic/harper) 🆕
+## 7. [Automattic/harper](https://github.com/Automattic/harper)
 
 Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 17,098 |
+| Stars | 17,127 |
 | Forks | 768 |
-| Stars this week | 491 |
+| Stars this week | 441 |
 
 ---
 
-## 10. [trymirai/uzu](https://github.com/trymirai/uzu)
+## 8. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) 🆕
 
-A high-performance inference engine for AI models
+The design language that makes your AI harness better at design.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,571 |
-| Forks | 148 |
-| Stars this week | 191 |
+| Stars | 87,953 |
+| Forks | 5,254 |
+| Stars this week | 4,741 |
 
 ---
 
-## 11. [oxc-project/oxc](https://github.com/oxc-project/oxc)
+## 9. [macro-inc/macro](https://github.com/macro-inc/macro)
 
-⚓ A collection of high-performance JavaScript tools.
+Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 23,216 |
-| Forks | 1,404 |
-| Stars this week | 129 |
+| Stars | 4,933 |
+| Forks | 480 |
+| Stars this week | 217 |
 
 ---
 
-## 12. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+## 10. [leepokai/Codync](https://github.com/leepokai/Codync)
+
+Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 873 |
+| Forks | 103 |
+| Stars this week | 279 |
+
+---
+
+## 11. [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk) 🆕
+
+Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 4,791 |
+| Forks | 328 |
+| Stars this week | 549 |
+
+---
+
+## 12. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) 🆕
+
+OpenShell is the safe, private runtime for autonomous AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 19,916 |
+| Forks | 1,971 |
+| Stars this week | 3,233 |
+
+---
+
+## 13. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
 
 Object-storage native graph database with branching and typed ontology
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,737 |
-| Forks | 243 |
-| Stars this week | 426 |
+| Stars | 1,755 |
+| Forks | 245 |
+| Stars this week | 436 |
 
 ---
 
-## 13. [googleworkspace/cli](https://github.com/googleworkspace/cli)
+## 14. [claration/impactor](https://github.com/claration/impactor) 🆕
 
-Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,860 |
-| Forks | 1,953 |
-| Stars this week | 262 |
+| Stars | 3,613 |
+| Forks | 257 |
+| Stars this week | 102 |
 
 ---
 
-## 14. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)
+## 15. [trymirai/uzu](https://github.com/trymirai/uzu)
 
-A WiFi security auditing software
+A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,761 |
-| Forks | 799 |
-| Stars this week | 542 |
+| Stars | 2,577 |
+| Forks | 148 |
+| Stars this week | 191 |
+
+---
+
+## 16. [redlib-org/redlib](https://github.com/redlib-org/redlib) 🆕
+
+Private front-end for Reddit
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,928 |
+| Forks | 310 |
+| Stars this week | 82 |
 
 ---

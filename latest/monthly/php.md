@@ -1,9 +1,9 @@
 # GitHub Trending - Php
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-25T04:35:28Z
+**Snapshot Time:** 2026-10-26T04:40:31Z
 **Total Repositories:** 23
-**New Entries:** 3
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Pterodactyl® is a free, open-source game server management panel built with PHP
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,411 |
-| Forks | 2,737 |
-| Stars this month | 194 |
+| Stars | 9,419 |
+| Forks | 2,739 |
+| Stars this month | 200 |
 
 ---
 
@@ -28,35 +28,35 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 63,754 |
-| Forks | 5,743 |
-| Stars this month | 1,673 |
+| Stars | 64,557 |
+| Forks | 5,800 |
+| Stars this month | 2,096 |
 
 ---
 
-## 3. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-
-A free, self-hostable news aggregator…
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 16,414 |
-| Forks | 1,323 |
-| Stars this month | 324 |
-
----
-
-## 4. [ellite/Wallos](https://github.com/ellite/Wallos)
+## 3. [ellite/Wallos](https://github.com/ellite/Wallos)
 
 Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 8,736 |
-| Forks | 456 |
-| Stars this month | 203 |
+| Stars | 8,741 |
+| Forks | 455 |
+| Stars this month | 202 |
+
+---
+
+## 4. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+
+A free, self-hostable news aggregator…
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 16,420 |
+| Forks | 1,325 |
+| Stars this month | 322 |
 
 ---
 
@@ -67,7 +67,7 @@ The Roundcube Webmail suite
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,243 |
+| Stars | 7,242 |
 | Forks | 1,804 |
 | Stars this month | 68 |
 
@@ -80,13 +80,26 @@ The Roundcube Webmail suite
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,713 |
-| Forks | 1,121 |
-| Stars this month | 253 |
+| Stars | 10,721 |
+| Forks | 1,122 |
+| Stars this month | 257 |
 
 ---
 
-## 7. [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
+## 7. [metadist/synaplan](https://github.com/metadist/synaplan) 🆕
+
+Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 267 |
+| Forks | 34 |
+| Stars this month | 96 |
+
+---
+
+## 8. [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
 
 Photo Sharing. For Everyone.
 
@@ -99,55 +112,42 @@ Photo Sharing. For Everyone.
 
 ---
 
-## 8. [koel/koel](https://github.com/koel/koel)
+## 9. [koel/koel](https://github.com/koel/koel)
 
 Music streaming solution that works.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 17,311 |
-| Forks | 2,115 |
-| Stars this month | 68 |
+| Stars | 17,314 |
+| Forks | 2,116 |
+| Stars this month | 76 |
 
 ---
 
-## 9. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
+## 10. [symfony/symfony](https://github.com/symfony/symfony)
 
-Free and open-source webshop solution for hostings
+The Symfony PHP framework
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,789 |
-| Forks | 558 |
-| Stars this month | 490 |
+| Stars | 31,204 |
+| Forks | 9,922 |
+| Stars this month | 96 |
 
 ---
 
-## 10. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
+## 11. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
 
 A source-available invoice, quote, project and time-tracking app built with Laravel
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,315 |
-| Forks | 2,765 |
-| Stars this month | 221 |
-
----
-
-## 11. [digininja/DVWA](https://github.com/digininja/DVWA)
-
-Damn Vulnerable Web Application (DVWA)
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 13,899 |
-| Forks | 5,226 |
-| Stars this month | 191 |
+| Stars | 10,323 |
+| Forks | 2,766 |
+| Stars this month | 225 |
 
 ---
 
@@ -158,117 +158,104 @@ A customizable, open-source ecommerce platform built on WordPress. Build any com
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,566 |
-| Forks | 10,668 |
-| Stars this month | 45 |
+| Stars | 10,568 |
+| Forks | 10,665 |
+| Stars this month | 49 |
 
 ---
 
-## 13. [glpi-project/glpi](https://github.com/glpi-project/glpi)
+## 13. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
+
+Free and open-source webshop solution for hostings
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 2,796 |
+| Forks | 559 |
+| Stars this month | 496 |
+
+---
+
+## 14. [glpi-project/glpi](https://github.com/glpi-project/glpi)
 
 GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,502 |
+| Stars | 6,508 |
 | Forks | 1,841 |
 | Stars this month | 126 |
 
 ---
 
-## 14. [kimai/kimai](https://github.com/kimai/kimai)
+## 15. [digininja/DVWA](https://github.com/digininja/DVWA)
 
-Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,096 |
-| Forks | 868 |
-| Stars this month | 66 |
-
----
-
-## 15. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
-
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+Damn Vulnerable Web Application (DVWA)
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 74,334 |
-| Forks | 25,160 |
-| Stars this month | 824 |
+| Stars | 13,904 |
+| Forks | 5,227 |
+| Stars this month | 196 |
 
 ---
 
-## 16. [grokability/snipe-it](https://github.com/grokability/snipe-it)
+## 16. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+
+Firefly III: a personal finances manager
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 24,994 |
+| Forks | 2,352 |
+| Stars this month | 334 |
+
+---
+
+## 17. [nextcloud/server](https://github.com/nextcloud/server) 🆕
+
+☁️ Nextcloud server, a safe home for all your data
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 37,298 |
+| Forks | 5,308 |
+| Stars this month | 438 |
+
+---
+
+## 18. [grokability/snipe-it](https://github.com/grokability/snipe-it)
 
 A free open source IT asset/license management system
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,087 |
+| Stars | 15,089 |
 | Forks | 4,037 |
 | Stars this month | 136 |
 
 ---
 
-## 17. [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin)
-
-A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 8,706 |
-| Forks | 1,052 |
-| Stars this month | 110 |
-
----
-
-## 18. [symfony/symfony](https://github.com/symfony/symfony)
-
-The Symfony PHP framework
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 31,202 |
-| Forks | 9,921 |
-| Stars this month | 95 |
-
----
-
-## 19. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) 🆕
+## 19. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
 
 WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,490 |
-| Forks | 3,739 |
+| Stars | 3,491 |
+| Forks | 3,744 |
 | Stars this month | 43 |
 
 ---
 
-## 20. [Seldaek/monolog](https://github.com/Seldaek/monolog)
-
-Sends your logs to files, sockets, inboxes, databases and various web services
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 21,403 |
-| Forks | 1,920 |
-| Stars this month | 22 |
-
----
-
-## 21. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)
+## 20. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)
 
 The PHP Unit Testing framework.
 
@@ -277,32 +264,45 @@ The PHP Unit Testing framework.
 | Language | PHP |
 | Stars | 20,073 |
 | Forks | 2,213 |
-| Stars this month | 31 |
+| Stars this month | 32 |
 
 ---
 
-## 22. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) 🆕
+## 21. [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) 🆕
 
-Firefly III: a personal finances manager
+PHP Secure Communications Library
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 24,986 |
-| Forks | 2,351 |
-| Stars this month | 332 |
+| Stars | 5,602 |
+| Forks | 909 |
+| Stars this month | 15 |
 
 ---
 
-## 23. [shlinkio/shlink](https://github.com/shlinkio/shlink) 🆕
+## 22. [opencart/opencart](https://github.com/opencart/opencart) 🆕
 
-The definitive self-hosted URL shortener
+A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,367 |
-| Forks | 438 |
-| Stars this month | 75 |
+| Stars | 8,221 |
+| Forks | 5,058 |
+| Stars this month | 29 |
+
+---
+
+## 23. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 74,352 |
+| Forks | 25,164 |
+| Stars this month | 827 |
 
 ---

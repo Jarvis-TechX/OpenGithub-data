@@ -1,23 +1,23 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-25T04:35:16Z
+**Snapshot Time:** 2026-10-26T04:40:19Z
 **Total Repositories:** 16
-**New Entries:** 1
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+## 1. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
 
-Ghidra is a software reverse engineering (SRE) framework
+A Minecraft Launcher which is multi-functional, cross-platform and popular
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 94,021 |
-| Forks | 10,558 |
-| Stars this week | 4,008 |
+| Stars | 10,730 |
+| Forks | 1,274 |
+| Stars this week | 492 |
 
 ---
 
@@ -28,126 +28,126 @@ A tool for reverse engineering Android apk files
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,664 |
-| Forks | 4,142 |
-| Stars this week | 687 |
+| Stars | 26,691 |
+| Forks | 4,148 |
+| Stars this week | 689 |
 
 ---
 
-## 3. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
+## 3. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
-A Minecraft Launcher which is multi-functional, cross-platform and popular
+Ghidra is a software reverse engineering (SRE) framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,694 |
-| Forks | 1,265 |
-| Stars this week | 440 |
+| Stars | 94,376 |
+| Forks | 10,601 |
+| Stars this week | 3,706 |
 
 ---
 
-## 4. [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
-
-An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,627 |
-| Forks | 103 |
-| Stars this week | 95 |
-
----
-
-## 5. [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)
-
-The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,743 |
-| Forks | 1,115 |
-| Stars this week | 18 |
-
----
-
-## 6. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
+## 4. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
 
 Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,048 |
-| Forks | 355 |
-| Stars this week | 92 |
+| Stars | 5,062 |
+| Forks | 356 |
+| Stars this week | 94 |
 
 ---
 
-## 7. [skylot/jadx](https://github.com/skylot/jadx)
+## 5. [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
 
-Dex to Java decompiler
+An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 51,244 |
-| Forks | 5,825 |
-| Stars this week | 235 |
+| Stars | 1,632 |
+| Forks | 103 |
+| Stars this week | 97 |
 
 ---
 
-## 8. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
-
-Learn System Design concepts and prepare for interviews using free resources.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 42,806 |
-| Forks | 8,900 |
-| Stars this week | 327 |
-
----
-
-## 9. [freeok/so-novel](https://github.com/freeok/so-novel)
-
-小说下载｜网文下载 | 网络小说
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 8,754 |
-| Forks | 742 |
-| Stars this week | 137 |
-
----
-
-## 10. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
-
-Dual pane Android file manager with focus on APKs
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 379 |
-| Forks | 47 |
-| Stars this week | 87 |
-
----
-
-## 11. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+## 6. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 
 No clever tagline needed.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,776 |
-| Forks | 1,753 |
-| Stars this week | 69 |
+| Stars | 13,783 |
+| Forks | 1,758 |
+| Stars this week | 70 |
+
+---
+
+## 7. [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) 🆕
+
+PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 30,003 |
+| Forks | 2,863 |
+| Stars this week | 281 |
+
+---
+
+## 8. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
+
+Dual pane Android file manager with focus on APKs
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 399 |
+| Forks | 51 |
+| Stars this week | 98 |
+
+---
+
+## 9. [skylot/jadx](https://github.com/skylot/jadx)
+
+Dex to Java decompiler
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 51,271 |
+| Forks | 5,829 |
+| Stars this week | 240 |
+
+---
+
+## 10. [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)
+
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,744 |
+| Forks | 1,114 |
+| Stars this week | 22 |
+
+---
+
+## 11. [LiteLDev/LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
+
+A launcher designed for Minecraft Bedrock Edition on Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 651 |
+| Forks | 169 |
+| Stars this week | 25 |
 
 ---
 
@@ -158,60 +158,60 @@ A Minecraft: Java Edition launcher, based on PojavLauncher
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,049 |
-| Forks | 492 |
+| Stars | 1,051 |
+| Forks | 493 |
 | Stars this week | 14 |
 
 ---
 
-## 13. [LiteLDev/LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
-
-A launcher designed for Minecraft Bedrock Edition on Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 648 |
-| Forks | 166 |
-| Stars this week | 22 |
-
----
-
-## 14. [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) 🆕
-
-聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘等. 支持文件夹分享解析. 体验地址:https://lz.qaiu.tophttps://189.qaiu.top
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,400 |
-| Forks | 292 |
-| Stars this week | 51 |
-
----
-
-## 15. [apache/cassandra](https://github.com/apache/cassandra)
+## 13. [apache/cassandra](https://github.com/apache/cassandra)
 
 Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,117 |
+| Stars | 10,118 |
 | Forks | 4,070 |
-| Stars this week | 10 |
+| Stars this week | 11 |
 
 ---
 
-## 16. [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
+## 14. [apache/beam](https://github.com/apache/beam) 🆕
 
-Free universal database tool and SQL client
+Apache Beam is a unified programming model for Batch and Streaming data processing.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 52,193 |
-| Forks | 4,432 |
-| Stars this week | 122 |
+| Stars | 8,693 |
+| Forks | 4,710 |
+| Stars this week | 7 |
+
+---
+
+## 15. [apache/kafka](https://github.com/apache/kafka) 🆕
+
+Apache Kafka - A distributed event streaming platform
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 34,120 |
+| Forks | 15,626 |
+| Stars this week | 185 |
+
+---
+
+## 16. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
+
+Browse media content with your own rules on Android TV
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 35,546 |
+| Forks | 2,201 |
+| Stars this week | 431 |
 
 ---

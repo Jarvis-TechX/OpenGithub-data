@@ -1,177 +1,177 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-25T04:35:19Z
+**Snapshot Time:** 2026-10-26T04:40:21Z
 **Total Repositories:** 19
-**New Entries:** 1
+**New Entries:** 3
 **Quality Score:** 97.89/100
 
 ---
 
-## 1. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
-
-PCL 社区版 由社区开发者维护与管理
+## 1. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,860 |
-| Forks | 407 |
-| Stars this week | 450 |
+| Stars | 7,947 |
+| Forks | 248 |
+| Stars this week | 211 |
 
 ---
 
-## 2. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,916 |
-| Forks | 246 |
-| Stars this week | 205 |
-
----
-
-## 3. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
-
-WinUI app for building smaller, customized Windows 11 images.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 21,082 |
-| Forks | 1,616 |
-| Stars this week | 471 |
-
----
-
-## 4. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-
-The Free Software Media System - Server Backend & API
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 58,542 |
-| Forks | 5,710 |
-| Stars this week | 372 |
-
----
-
-## 5. [ggml-org/Llama-Windows](https://github.com/ggml-org/Llama-Windows)
-
-Windows Llama App Companion
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 280 |
-| Forks | 29 |
-| Stars this week | 61 |
-
----
-
-## 6. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 2. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
 A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,974 |
+| Stars | 1,978 |
 | Forks | 64 |
-| Stars this week | 125 |
+| Stars this week | 102 |
 
 ---
 
-## 7. [madoiscool/LuaTools](https://github.com/madoiscool/LuaTools)
+## 3. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
-AppID Manager for ST
+The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 819 |
-| Forks | 83 |
-| Stars this week | 98 |
+| Stars | 58,601 |
+| Forks | 5,715 |
+| Stars this week | 398 |
 
 ---
 
-## 8. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
+## 4. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
 
 Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,385 |
-| Forks | 1,592 |
-| Stars this week | 345 |
+| Stars | 15,420 |
+| Forks | 1,598 |
+| Stars this week | 333 |
 
 ---
 
-## 9. [ShareX/ShareX](https://github.com/ShareX/ShareX)
-
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 40,394 |
-| Forks | 3,998 |
-| Stars this week | 255 |
-
----
-
-## 10. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
+## 5. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
 
 A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,970 |
-| Forks | 77 |
-| Stars this week | 741 |
+| Stars | 3,108 |
+| Forks | 80 |
+| Stars this week | 749 |
 
 ---
 
-## 11. [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
+## 6. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+
+PCL 社区版 由社区开发者维护与管理
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,907 |
+| Forks | 424 |
+| Stars this week | 505 |
+
+---
+
+## 7. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+
+WinUI app for building smaller, customized Windows 11 images.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 21,144 |
+| Forks | 1,621 |
+| Stars this week | 485 |
+
+---
+
+## 8. [ShareX/ShareX](https://github.com/ShareX/ShareX)
+
+ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 40,414 |
+| Forks | 4,000 |
+| Stars this week | 261 |
+
+---
+
+## 9. [memstechtips/Winhance](https://github.com/memstechtips/Winhance)
 
 Application designed to optimize, customize and enhance your Windows experience.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,307 |
-| Forks | 675 |
-| Stars this week | 420 |
+| Stars | 14,362 |
+| Forks | 677 |
+| Stars this week | 429 |
 
 ---
 
-## 12. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+## 10. [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
 
-the subtitle editor :)
+This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,707 |
-| Forks | 1,342 |
-| Stars this week | 125 |
+| Stars | 1,250 |
+| Forks | 662 |
+| Stars this week | 32 |
 
 ---
 
-## 13. [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)
+## 11. [madoiscool/LuaTools](https://github.com/madoiscool/LuaTools)
 
-Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+AppID Manager for ST
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,349 |
-| Forks | 700 |
-| Stars this week | 126 |
+| Stars | 835 |
+| Forks | 83 |
+| Stars this week | 75 |
+
+---
+
+## 12. [roflmuffin/CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) 🆕
+
+CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 1,381 |
+| Forks | 246 |
+| Stars this week | 8 |
+
+---
+
+## 13. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
+
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 38,495 |
+| Forks | 12,994 |
+| Stars this week | 40 |
 
 ---
 
@@ -182,61 +182,61 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 55,951 |
-| Forks | 8,513 |
-| Stars this week | 183 |
+| Stars | 55,975 |
+| Forks | 8,516 |
+| Stars this week | 193 |
 
 ---
 
-## 15. [Matteo842/CrashBandicoot-Launcher](https://github.com/Matteo842/CrashBandicoot-Launcher) 🆕
+## 15. [STranslate/STranslate](https://github.com/STranslate/STranslate) 🆕
+
+A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 8,399 |
+| Forks | 441 |
+| Stars this week | 124 |
+
+---
+
+## 16. [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)
+
+Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,356 |
+| Forks | 701 |
+| Stars this week | 119 |
+
+---
+
+## 17. [Matteo842/CrashBandicoot-Launcher](https://github.com/Matteo842/CrashBandicoot-Launcher)
 
 CrashBandicoot native pc port
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 296 |
+| Stars | 297 |
 | Forks | 14 |
-| Stars this week | 24 |
+| Stars this week | 20 |
 
 ---
 
-## 16. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
+## 18. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
 
 File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,502 |
+| Stars | 15,518 |
 | Forks | 945 |
-| Stars this week | 108 |
-
----
-
-## 17. [greenshot/greenshot](https://github.com/greenshot/greenshot)
-
-Greenshot for Windows - for more information look here:
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,208 |
-| Forks | 718 |
-| Stars this week | 23 |
-
----
-
-## 18. [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-
-This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 1,249 |
-| Forks | 661 |
-| Stars this week | 29 |
+| Stars this week | 114 |
 
 ---
 
@@ -247,8 +247,8 @@ Libre Hardware Monitor is free software that can monitor the temperature sensors
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,273 |
-| Forks | 1,040 |
-| Stars this week | 54 |
+| Stars | 9,278 |
+| Forks | 1,042 |
+| Stars this week | 53 |
 
 ---
