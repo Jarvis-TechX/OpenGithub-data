@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-26T04:40:36Z
-**Total Repositories:** 19
-**New Entries:** 3
-**Quality Score:** 95.79/100
+**Snapshot Time:** 2026-10-27T04:58:29Z
+**Total Repositories:** 18
+**New Entries:** 0
+**Quality Score:** 95.56/100
 
 ---
 
@@ -15,9 +15,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,666 |
-| Forks | 8,406 |
-| Stars this month | 1,347 |
+| Stars | 41,686 |
+| Forks | 8,428 |
+| Stars this month | 1,369 |
 
 ---
 
@@ -28,9 +28,9 @@ Display and control your Android device
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 153,144 |
-| Forks | 14,039 |
-| Stars this month | 3,222 |
+| Stars | 153,243 |
+| Forks | 14,061 |
+| Stars this month | 3,262 |
 
 ---
 
@@ -41,9 +41,9 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,812 |
-| Forks | 351 |
-| Stars this month | 2,375 |
+| Stars | 2,865 |
+| Forks | 356 |
+| Stars this month | 2,243 |
 
 ---
 
@@ -54,9 +54,9 @@ A native, user-mode, multi-process, graphical debugger.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 8,663 |
+| Stars | 8,680 |
 | Forks | 431 |
-| Stars this month | 1,165 |
+| Stars this month | 1,171 |
 
 ---
 
@@ -67,22 +67,22 @@ Xbox 360 Recompilation Runtime and Toolkit
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,175 |
-| Forks | 234 |
-| Stars this month | 279 |
+| Stars | 1,182 |
+| Forks | 240 |
+| Stars this month | 283 |
 
 ---
 
-## 6. [matz/spinel](https://github.com/matz/spinel) 🆕
+## 6. [matz/spinel](https://github.com/matz/spinel)
 
 Ruby AOT compiler
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,281 |
-| Forks | 164 |
-| Stars this month | 339 |
+| Stars | 2,284 |
+| Forks | 166 |
+| Stars this month | 337 |
 
 ---
 
@@ -93,9 +93,9 @@ An advanced Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,619 |
-| Forks | 1,219 |
-| Stars this month | 351 |
+| Stars | 4,630 |
+| Forks | 1,228 |
+| Stars this month | 362 |
 
 ---
 
@@ -106,22 +106,22 @@ ehviewer，用爱发电，快乐前行
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,228 |
+| Stars | 28,292 |
 | Forks | 753 |
-| Stars this month | 1,228 |
+| Stars this month | 1,264 |
 
 ---
 
-## 9. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+## 9. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
-A new bootable USB solution.
+OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 80,352 |
-| Forks | 5,007 |
-| Stars this month | 947 |
+| Stars | 78,301 |
+| Forks | 10,888 |
+| Stars this month | 1,810 |
 
 ---
 
@@ -132,121 +132,108 @@ For developers, who are building real-time data-driven applications, Redis is th
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 77,108 |
-| Forks | 24,903 |
-| Stars this month | 1,042 |
+| Stars | 77,130 |
+| Forks | 24,925 |
+| Stars this month | 1,048 |
 
 ---
 
-## 11. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+## 11. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 
-GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+A new bootable USB solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,801 |
-| Forks | 2,243 |
-| Stars this month | 202 |
+| Stars | 80,373 |
+| Forks | 5,010 |
+| Stars this month | 960 |
 
 ---
 
-## 12. [obsproject/obs-studio](https://github.com/obsproject/obs-studio) 🆕
-
-OBS Studio - Free and open source software for live streaming and screen recording
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 78,217 |
-| Forks | 10,862 |
-| Stars this month | 1,769 |
-
----
-
-## 13. [openssl/openssl](https://github.com/openssl/openssl)
-
-General purpose TLS and crypto library
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 31,069 |
-| Forks | 11,549 |
-| Stars this month | 378 |
-
----
-
-## 14. [raysan5/raylib](https://github.com/raysan5/raylib)
+## 12. [raysan5/raylib](https://github.com/raysan5/raylib)
 
 A simple and easy-to-use library to enjoy videogames programming
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 35,422 |
-| Forks | 3,357 |
-| Stars this month | 686 |
+| Stars | 35,433 |
+| Forks | 3,358 |
+| Stars this month | 690 |
 
 ---
 
-## 15. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
+## 13. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+
+GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 5,763 |
-| Forks | 953 |
-| Stars this month | 305 |
+| Stars | 28,806 |
+| Forks | 2,244 |
+| Stars this month | 203 |
 
 ---
 
-## 16. [luka-dev/mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi)
-
-Better CarPlay for MHI2Q! Cluster Map, HUD Projection, Spatial Audio and more
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 393 |
-| Forks | 67 |
-| Stars this month | 170 |
-
----
-
-## 17. [systemd/systemd](https://github.com/systemd/systemd) 🆕
+## 14. [systemd/systemd](https://github.com/systemd/systemd)
 
 The systemd System and Service Manager
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,933 |
-| Forks | 4,785 |
-| Stars this month | 204 |
+| Stars | 16,947 |
+| Forks | 4,786 |
+| Stars this month | 226 |
 
 ---
 
-## 18. [hathach/tinyusb](https://github.com/hathach/tinyusb)
+## 15. [openssl/openssl](https://github.com/openssl/openssl)
+
+General purpose TLS and crypto library
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 31,090 |
+| Forks | 11,551 |
+| Stars this month | 389 |
+
+---
+
+## 16. [hathach/tinyusb](https://github.com/hathach/tinyusb)
 
 An open source cross-platform USB stack for embedded system
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,238 |
+| Stars | 7,240 |
 | Forks | 1,565 |
 | Stars this month | 122 |
 
 ---
 
-## 19. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
+## 17. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 818 |
-| Forks | 63 |
-| Stars this month | 359 |
+| Stars | 824 |
+| Forks | 64 |
+| Stars this month | 363 |
+
+---
+
+## 18. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 5,771 |
+| Forks | 955 |
+| Stars this month | 311 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-26T04:40:04Z
-**Total Repositories:** 8
-**New Entries:** 3
+**Snapshot Time:** 2026-10-27T04:57:53Z
+**Total Repositories:** 14
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
@@ -15,99 +15,176 @@ bluetooth mesh chat, IRC vibes
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,832 |
-| Forks | 5,857 |
-| Stars today | 45 |
+| Stars | 36,883 |
+| Forks | 5,869 |
+| Stars today | 43 |
 
 ---
 
-## 2. [pauljoda/Crest](https://github.com/pauljoda/Crest)
+## 2. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) 🆕
+
+Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 28,537 |
+| Forks | 2,586 |
+| Stars today | 92 |
+
+---
+
+## 3. [pauljoda/Crest](https://github.com/pauljoda/Crest)
 
 An open source browser for Mac, iPhone, and iPad.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 812 |
-| Forks | 62 |
-| Stars today | 60 |
+| Stars | 872 |
+| Forks | 73 |
+| Stars today | 69 |
 
 ---
 
-## 3. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+## 4. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) 🆕
+
+macOS video editor built for AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,635 |
+| Forks | 1,150 |
+| Stars today | 1 |
+
+---
+
+## 5. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
+
+Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 13,835 |
+| Forks | 748 |
+| Stars today | 115 |
+
+---
+
+## 6. [LoopKit/Loop](https://github.com/LoopKit/Loop) 🆕
+
+An automated insulin delivery app for iOS, built on LoopKit
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,749 |
+| Forks | 1,448 |
+
+---
+
+## 7. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 117,037 |
-| Forks | 9,700 |
-| Stars today | 96 |
+| Stars | 117,129 |
+| Forks | 9,735 |
+| Stars today | 110 |
 
 ---
 
-## 4. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) 🆕
+## 8. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) 🆕
 
-An an app that installs Sidestore on iOS 27, fully on-device
+Manga reading app for iOS, iPadOS, and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,197 |
-| Forks | 98 |
-| Stars today | 19 |
+| Stars | 4,669 |
+| Forks | 316 |
+| Stars today | 6 |
 
 ---
 
-## 5. [zachlatta/freeflow](https://github.com/zachlatta/freeflow) 🆕
+## 9. [slopus/happy](https://github.com/slopus/happy) 🆕
 
-Free & fast alternative to Wispr Flow
+Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,972 |
-| Forks | 302 |
-| Stars today | 9 |
+| Stars | 24,337 |
+| Forks | 2,091 |
+| Stars today | 22 |
 
 ---
 
-## 6. [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
+## 10. [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) 🆕
+
+Dynamic Island for macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 5,072 |
+| Forks | 353 |
+| Stars today | 17 |
+
+---
+
+## 11. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
+
+AI coding assistant for Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,357 |
+| Forks | 2,074 |
+| Stars today | 4 |
+
+---
+
+## 12. [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac) 🆕
+
+Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7)
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 294 |
+| Forks | 26 |
+| Stars today | 1 |
+
+---
+
+## 13. [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
 
 Apple TV Aerial Screensaver for Mac
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 21,087 |
-| Forks | 1,038 |
-| Stars today | 22 |
+| Stars | 21,111 |
+| Forks | 1,043 |
+| Stars today | 33 |
 
 ---
 
-## 7. [YangJiiii/3105](https://github.com/YangJiiii/3105)
+## 14. [zachlatta/freeflow](https://github.com/zachlatta/freeflow)
 
-Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
+Free & fast alternative to Wispr Flow
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 940 |
-| Forks | 175 |
-| Stars today | 6 |
-
----
-
-## 8. [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) 🆕
-
-Windows alt-tab on macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 16,438 |
-| Forks | 913 |
-| Stars today | 6 |
+| Stars | 2,987 |
+| Forks | 305 |
+| Stars today | 11 |
 
 ---

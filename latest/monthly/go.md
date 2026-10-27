@@ -1,8 +1,8 @@
 # GitHub Trending - Go
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-26T04:40:33Z
-**Total Repositories:** 23
+**Snapshot Time:** 2026-10-27T04:58:26Z
+**Total Repositories:** 22
 **New Entries:** 2
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ A terminal window manager that knows what your agents are doing. Tiling panes, w
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,018 |
-| Forks | 275 |
-| Stars this month | 2,223 |
+| Stars | 6,111 |
+| Forks | 281 |
+| Stars this month | 2,403 |
 
 ---
 
@@ -28,9 +28,9 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 78,415 |
-| Forks | 5,180 |
-| Stars this month | 2,511 |
+| Stars | 78,453 |
+| Forks | 5,184 |
+| Stars this month | 2,525 |
 
 ---
 
@@ -41,9 +41,9 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 184,780 |
-| Forks | 18,581 |
-| Stars this month | 4,052 |
+| Stars | 184,919 |
+| Forks | 18,629 |
+| Stars this month | 4,153 |
 
 ---
 
@@ -54,22 +54,22 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 32,436 |
-| Forks | 5,038 |
-| Stars this month | 7,655 |
+| Stars | 32,528 |
+| Forks | 5,059 |
+| Stars this month | 7,733 |
 
 ---
 
-## 5. [urfave/cli](https://github.com/urfave/cli)
+## 5. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
 
-A declarative, simple, fast, and fun package for building command line tools in Go
+The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 24,306 |
-| Forks | 1,851 |
-| Stars this month | 89 |
+| Stars | 2,867 |
+| Forks | 259 |
+| Stars this month | 1,310 |
 
 ---
 
@@ -80,22 +80,22 @@ Find, verify, and analyze leaked credentials
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 28,702 |
-| Forks | 2,665 |
-| Stars this month | 721 |
+| Stars | 28,719 |
+| Forks | 2,667 |
+| Stars this month | 720 |
 
 ---
 
-## 7. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+## 7. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 
-The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
+WhatsApp MCP server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,812 |
-| Forks | 255 |
-| Stars this month | 1,281 |
+| Stars | 6,738 |
+| Forks | 1,446 |
+| Stars this month | 443 |
 
 ---
 
@@ -106,9 +106,9 @@ Production-Grade Container Scheduling and Management
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 128,695 |
-| Forks | 46,352 |
-| Stars this month | 1,566 |
+| Stars | 128,725 |
+| Forks | 46,363 |
+| Stars this month | 1,564 |
 
 ---
 
@@ -119,22 +119,22 @@ Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQL
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,612 |
-| Forks | 798 |
-| Stars this month | 817 |
+| Stars | 7,635 |
+| Forks | 799 |
+| Stars this month | 800 |
 
 ---
 
-## 10. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
+## 10. [urfave/cli](https://github.com/urfave/cli)
 
-WhatsApp MCP server
+A declarative, simple, fast, and fun package for building command line tools in Go
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,724 |
-| Forks | 1,444 |
-| Stars this month | 427 |
+| Stars | 24,307 |
+| Forks | 1,853 |
+| Stars this month | 88 |
 
 ---
 
@@ -145,9 +145,9 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,717 |
-| Forks | 798 |
-| Stars this month | 707 |
+| Stars | 38,749 |
+| Forks | 802 |
+| Stars this month | 726 |
 
 ---
 
@@ -158,35 +158,35 @@ Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,049 |
-| Forks | 559 |
-| Stars this month | 472 |
+| Stars | 3,057 |
+| Forks | 561 |
+| Stars this month | 462 |
 
 ---
 
-## 13. [openbao/openbao](https://github.com/openbao/openbao)
+## 13. [github/gh-aw](https://github.com/github/gh-aw)
 
-OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+GitHub Agentic Workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,703 |
-| Forks | 649 |
-| Stars this month | 1,134 |
+| Stars | 5,477 |
+| Forks | 604 |
+| Stars this month | 316 |
 
 ---
 
-## 14. [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl)
+## 14. [golang/go](https://github.com/golang/go)
 
-一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923
+The Go programming language
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,637 |
-| Forks | 533 |
-| Stars this month | 891 |
+| Stars | 139,628 |
+| Forks | 21,562 |
+| Stars this month | 1,683 |
 
 ---
 
@@ -197,112 +197,99 @@ Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 42,325 |
-| Forks | 6,039 |
-| Stars this month | 673 |
+| Stars | 42,355 |
+| Forks | 6,045 |
+| Stars this month | 688 |
 
 ---
 
-## 16. [github/gh-aw](https://github.com/github/gh-aw)
-
-GitHub Agentic Workflows
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,471 |
-| Forks | 602 |
-| Stars this month | 317 |
-
----
-
-## 17. [zitadel/zitadel](https://github.com/zitadel/zitadel)
-
-ZITADEL - Identity infrastructure, simplified for you.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 15,436 |
-| Forks | 1,402 |
-| Stars this month | 363 |
-
----
-
-## 18. [golang/go](https://github.com/golang/go)
-
-The Go programming language
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 139,596 |
-| Forks | 21,538 |
-| Stars this month | 1,665 |
-
----
-
-## 19. [hashicorp/terraform](https://github.com/hashicorp/terraform)
-
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 50,186 |
-| Forks | 10,599 |
-| Stars this month | 661 |
-
----
-
-## 20. [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-
-SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 35,731 |
-| Forks | 3,092 |
-| Stars this month | 830 |
-
----
-
-## 21. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-
-Agent Substrate: the core system
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,803 |
-| Forks | 627 |
-| Stars this month | 2,040 |
-
----
-
-## 22. [keploy/keploy](https://github.com/keploy/keploy) 🆕
-
-Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 18,752 |
-| Forks | 2,429 |
-| Stars this month | 373 |
-
----
-
-## 23. [strelov1/freehire](https://github.com/strelov1/freehire) 🆕
+## 16. [strelov1/freehire](https://github.com/strelov1/freehire)
 
 freehire — the open-source search engine for job seekers
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,062 |
-| Forks | 308 |
-| Stars this month | 2,458 |
+| Stars | 3,176 |
+| Forks | 327 |
+| Stars this month | 2,567 |
+
+---
+
+## 17. [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+
+SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 35,752 |
+| Forks | 3,092 |
+| Stars this month | 833 |
+
+---
+
+## 18. [zitadel/zitadel](https://github.com/zitadel/zitadel)
+
+ZITADEL - Identity infrastructure, simplified for you.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 15,447 |
+| Forks | 1,405 |
+| Stars this month | 374 |
+
+---
+
+## 19. [rclone/rclone](https://github.com/rclone/rclone) 🆕
+
+"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 60,561 |
+| Forks | 5,596 |
+| Stars this month | 695 |
+
+---
+
+## 20. [hashicorp/terraform](https://github.com/hashicorp/terraform)
+
+Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 50,202 |
+| Forks | 10,600 |
+| Stars this month | 675 |
+
+---
+
+## 21. [keploy/keploy](https://github.com/keploy/keploy)
+
+Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 18,782 |
+| Forks | 2,430 |
+| Stars this month | 399 |
+
+---
+
+## 22. [docker/docker-agent](https://github.com/docker/docker-agent) 🆕
+
+AI Agent Builder and Runtime by Docker Engineering
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 4,610 |
+| Forks | 533 |
+| Stars this month | 1,272 |
 
 ---

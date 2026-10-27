@@ -1,8 +1,8 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-26T04:39:58Z
-**Total Repositories:** 14
+**Snapshot Time:** 2026-10-27T04:57:44Z
+**Total Repositories:** 12
 **New Entries:** 8
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ The design language that makes your AI harness better at design.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 87,951 |
-| Forks | 5,254 |
-| Stars today | 1,092 |
+| Stars | 89,430 |
+| Forks | 5,323 |
+| Stars today | 1,506 |
 
 ---
 
@@ -28,164 +28,138 @@ A Tiny biped duck robot 🦆
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,823 |
-| Forks | 1,500 |
-| Stars today | 647 |
+| Stars | 12,508 |
+| Forks | 1,554 |
+| Stars today | 843 |
 
 ---
 
-## 3. [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+## 3. [cjpais/Handy](https://github.com/cjpais/Handy) 🆕
+
+A free, open source, and extensible speech-to-text application that works completely offline.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 34,812 |
+| Forks | 3,306 |
+| Stars today | 140 |
+
+---
+
+## 4. [samwhosung/benilla](https://github.com/samwhosung/benilla) 🆕
+
+A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 838 |
+| Forks | 185 |
+| Stars today | 19 |
+
+---
+
+## 5. [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 
 Open source Loom alternative. Beautiful, shareable screen recordings.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 23,787 |
-| Forks | 2,155 |
-| Stars today | 82 |
+| Stars | 23,850 |
+| Forks | 2,171 |
+| Stars today | 77 |
 
 ---
 
-## 4. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+## 6. [ruvnet/RuView](https://github.com/ruvnet/RuView) 🆕
 
-OpenShell is the safe, private runtime for autonomous AI agents.
+π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 19,916 |
-| Forks | 1,971 |
-| Stars today | 600 |
+| Stars | 99,812 |
+| Forks | 13,057 |
+| Stars today | 211 |
 
 ---
 
-## 5. [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) 🆕
+## 7. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) 🆕
+
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 127,199 |
+| Forks | 20,062 |
+| Stars today | 190 |
+
+---
+
+## 8. [malisper/pgrust](https://github.com/malisper/pgrust) 🆕
+
+Postgres rewritten in Rust, now faster than Postgres and Clickhouse
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 5,558 |
+| Forks | 214 |
+| Stars today | 81 |
+
+---
+
+## 9. [JayWebtech/autoshorts](https://github.com/JayWebtech/autoshorts) 🆕
+
+AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,352 |
+| Forks | 263 |
+| Stars today | 19 |
+
+---
+
+## 10. [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) 🆕
+
+Production-grade Rust-native trading engine with deterministic event-driven architecture
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 30,911 |
+| Forks | 4,164 |
+| Stars today | 82 |
+
+---
+
+## 11. [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
 
 The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 42,341 |
-| Forks | 4,184 |
-| Stars today | 42 |
+| Stars | 42,362 |
+| Forks | 4,190 |
+| Stars today | 27 |
 
 ---
 
-## 6. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) 🆕
+## 12. [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) 🆕
 
-A batteries-included framework for building web apps
+Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,219 |
-| Forks | 220 |
-| Stars today | 18 |
-
----
-
-## 7. [aaif-goose/goose](https://github.com/aaif-goose/goose)
-
-an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 55,718 |
-| Forks | 6,453 |
-| Stars today | 69 |
-
----
-
-## 8. [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 🆕
-
-The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 21,855 |
-| Forks | 1,035 |
-| Stars today | 7 |
-
----
-
-## 9. [claration/impactor](https://github.com/claration/impactor) 🆕
-
-Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,613 |
-| Forks | 257 |
-| Stars today | 5 |
-
----
-
-## 10. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
-
-The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 6,678 |
-| Forks | 582 |
-| Stars today | 133 |
-
----
-
-## 11. [biomejs/biome](https://github.com/biomejs/biome) 🆕
-
-A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 25,995 |
-| Forks | 1,293 |
-| Stars today | 8 |
-
----
-
-## 12. [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) 🆕
-
-A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 18,772 |
-| Forks | 1,892 |
-| Stars today | 11 |
-
----
-
-## 13. [block/buzz](https://github.com/block/buzz) 🆕
-
-A hive mind communication platform
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 36,465 |
-| Forks | 4,822 |
-| Stars today | 65 |
-
----
-
-## 14. [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) 🆕
-
-🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 24,216 |
-| Forks | 1,210 |
-| Stars today | 45 |
+| Stars | 2,649 |
+| Forks | 319 |
+| Stars today | 29 |
 
 ---

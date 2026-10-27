@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-26T04:40:10Z
-**Total Repositories:** 20
-**New Entries:** 7
-**Quality Score:** 98.00/100
+**Snapshot Time:** 2026-10-27T04:57:59Z
+**Total Repositories:** 18
+**New Entries:** 4
+**Quality Score:** 97.78/100
 
 ---
 
@@ -15,9 +15,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 79,321 |
-| Forks | 9,313 |
-| Stars this week | 2,987 |
+| Stars | 79,597 |
+| Forks | 9,347 |
+| Stars this week | 2,683 |
 
 ---
 
@@ -28,9 +28,9 @@ The open source coding agent.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 221,595 |
-| Forks | 29,631 |
-| Stars this week | 5,921 |
+| Stars | 222,041 |
+| Forks | 29,704 |
+| Stars this week | 5,070 |
 
 ---
 
@@ -41,9 +41,9 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 106,050 |
-| Forks | 6,711 |
-| Stars this week | 9,622 |
+| Stars | 107,256 |
+| Forks | 6,765 |
+| Stars this week | 9,241 |
 
 ---
 
@@ -54,9 +54,9 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 72,309 |
-| Forks | 6,532 |
-| Stars this week | 5,612 |
+| Stars | 73,260 |
+| Forks | 6,631 |
+| Stars this week | 5,540 |
 
 ---
 
@@ -65,35 +65,35 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,197 |
-| Forks | 8,091 |
-| Stars this week | 1,770 |
+| Stars | 30,547 |
+| Forks | 8,165 |
+| Stars this week | 1,881 |
 
 ---
 
-## 6. [elie222/rakazo](https://github.com/elie222/rakazo)
+## 6. [makecindy/cindy](https://github.com/makecindy/cindy)
 
-Open-source Grok Bot alternative. Choose your own model and sandbox.
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,812 |
-| Forks | 1,025 |
-| Stars this week | 1,214 |
+| Stars | 6,745 |
+| Forks | 816 |
+| Stars this week | 2,913 |
 
 ---
 
-## 7. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 7. [vercel-labs/skills](https://github.com/vercel-labs/skills)
 
-7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+The open agent skills tool - npx skills
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 41,657 |
-| Forks | 5,613 |
-| Stars this week | 4,597 |
+| Stars | 36,734 |
+| Forks | 3,162 |
+| Stars this week | 1,076 |
 
 ---
 
@@ -104,164 +104,138 @@ Open-source Grok Bot alternative. Choose your own model and sandbox.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,838 |
-| Forks | 1,580 |
-| Stars this week | 2,354 |
+| Stars | 8,268 |
+| Forks | 1,662 |
+| Stars this week | 3,009 |
 
 ---
 
-## 9. [makecindy/cindy](https://github.com/makecindy/cindy)
+## 9. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,146 |
-| Forks | 688 |
-| Stars this week | 1,514 |
+| Stars | 42,272 |
+| Forks | 5,704 |
+| Stars this week | 4,664 |
 
 ---
 
-## 10. [thesysdev/openui](https://github.com/thesysdev/openui)
-
-The Open Standard for Generative UI
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 14,028 |
-| Forks | 924 |
-| Stars this week | 2,149 |
-
----
-
-## 11. [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) 🆕
-
-DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 4,154 |
-| Forks | 315 |
-| Stars this week | 2,283 |
-
----
-
-## 12. [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) 🆕
-
-面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 9,140 |
-| Forks | 2,139 |
-| Stars this week | 1,389 |
-
----
-
-## 13. [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) 🆕
+## 10. [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
 
 Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,102 |
-| Forks | 565 |
-| Stars this week | 780 |
+| Stars | 5,248 |
+| Forks | 590 |
+| Stars this week | 949 |
 
 ---
 
-## 14. [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
+## 11. [elie222/rakazo](https://github.com/elie222/rakazo)
 
-一分钟搭建影视站，支持Docker等部署方式
+Open-source Grok Bot alternative. Choose your own model and sandbox.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 21,907 |
-| Forks | 30,095 |
-| Stars this week | 2,314 |
+| Stars | 5,952 |
+| Forks | 1,051 |
+| Stars this week | 1,195 |
 
 ---
 
-## 15. [vercel-labs/skills](https://github.com/vercel-labs/skills) 🆕
+## 12. [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) 🆕
 
-The open agent skills tool - npx skills
+A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 36,580 |
-| Forks | 3,147 |
-| Stars this week | 1,078 |
+| Stars | 6,706 |
+| Forks | 592 |
+| Stars this week | 1,085 |
 
 ---
 
-## 16. [cursor/plugins](https://github.com/cursor/plugins)
+## 13. [thesysdev/openui](https://github.com/thesysdev/openui)
 
-Cursor plugin specification and official plugins
+The Open Standard for Generative UI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,072 |
-| Forks | 1,407 |
-| Stars this week | 1,390 |
+| Stars | 14,214 |
+| Forks | 933 |
+| Stars this week | 2,053 |
 
 ---
 
-## 17. [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) 🆕
+## 14. [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet)
 
-Modern protocol-side framework based on NTQQ
+DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,537 |
-| Forks | 838 |
-| Stars this week | 502 |
+| Stars | 4,370 |
+| Forks | 334 |
+| Stars this week | 1,594 |
 
 ---
 
-## 18. [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🆕
+## 15. [croffasia/itsaplan](https://github.com/croffasia/itsaplan) 🆕
+
+⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 2,008 |
+| Forks | 261 |
+| Stars this week | 575 |
+
+---
+
+## 16. [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 
 An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 108,388 |
-| Forks | 14,837 |
-| Stars this week | 1,092 |
+| Stars | 108,557 |
+| Forks | 14,850 |
+| Stars this week | 1,097 |
 
 ---
 
-## 19. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+## 17. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 🆕
 
-A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 2,861 |
-| Forks | 238 |
-| Stars this week | 951 |
+| Stars | 13,889 |
+| Forks | 1,276 |
+| Stars this week | 1,297 |
 
 ---
 
-## 20. [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) 🆕
+## 18. [iptv-org/iptv](https://github.com/iptv-org/iptv) 🆕
 
-The best way to get AI coding agents to solve hard problems in complex codebases.
+Collection of publicly available IPTV channels from all over the world
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,513 |
-| Forks | 1,019 |
-| Stars this week | 782 |
+| Stars | 142,481 |
+| Forks | 8,415 |
+| Stars this week | 1,043 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-26T04:40:20Z
-**Total Repositories:** 13
-**New Entries:** 4
-**Quality Score:** 96.92/100
+**Snapshot Time:** 2026-10-27T04:58:11Z
+**Total Repositories:** 12
+**New Entries:** 1
+**Quality Score:** 96.67/100
 
 ---
 
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,741 |
-| Forks | 628 |
-| Stars this week | 1,070 |
+| Stars | 9,853 |
+| Forks | 637 |
+| Stars this week | 823 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,513 |
-| Forks | 433 |
-| Stars this week | 949 |
+| Stars | 4,626 |
+| Forks | 448 |
+| Stars this week | 952 |
 
 ---
 
@@ -39,74 +39,74 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 55,861 |
-| Forks | 8,687 |
-| Stars this week | 996 |
+| Stars | 55,917 |
+| Forks | 8,697 |
+| Stars this week | 439 |
 
 ---
 
-## 4. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 4. [bjzhou/PhotonCamera](https://github.com/bjzhou/PhotonCamera) 🆕
+
+Open-source Android camera application focused on static photography
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 588 |
+| Forks | 56 |
+| Stars this week | 75 |
+
+---
+
+## 5. [CYQawa/YunX](https://github.com/CYQawa/YunX)
 
 ✨一个安卓网盘解析下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,570 |
-| Forks | 284 |
-| Stars this week | 784 |
+| Stars | 5,657 |
+| Forks | 289 |
+| Stars this week | 734 |
 
 ---
 
-## 5. [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) 🆕
-
-The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone Ca: H2mNeSJV75VuQpGA9C11FwWoT9DU7sMCYUNVaMyQpump
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,034 |
-| Forks | 1,089 |
-| Stars this week | 209 |
-
----
-
-## 6. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) 🆕
-
-RikkaHub is an Android APP that supports for multiple LLM providers.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 8,470 |
-| Forks | 819 |
-| Stars this week | 220 |
-
----
-
-## 7. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
+## 6. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
 
 StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 870 |
-| Forks | 149 |
-| Stars this week | 54 |
+| Stars | 872 |
+| Forks | 151 |
+| Stars this week | 52 |
 
 ---
 
-## 8. [Lelonio/Square](https://github.com/Lelonio/Square) 🆕
+## 7. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+
+A Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 19,696 |
+| Forks | 4,755 |
+| Stars this week | 297 |
+
+---
+
+## 8. [Lelonio/Square](https://github.com/Lelonio/Square)
 
 Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 391 |
-| Forks | 37 |
-| Stars this week | 177 |
+| Stars | 421 |
+| Forks | 40 |
+| Stars this week | 205 |
 
 ---
 
@@ -117,8 +117,8 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,677 |
-| Forks | 1,374 |
+| Stars | 6,694 |
+| Forks | 1,378 |
 | Stars this week | 115 |
 
 ---
@@ -130,47 +130,34 @@ First open-source AirPlay receiver implementation for Android with mirroring, vi
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 826 |
-| Forks | 129 |
-| Stars this week | 202 |
+| Stars | 840 |
+| Forks | 133 |
+| Stars this week | 187 |
 
 ---
 
-## 11. [celzero/rethink-app](https://github.com/celzero/rethink-app)
+## 11. [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app)
 
-DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,781 |
-| Forks | 368 |
-| Stars this week | 164 |
+| Stars | 7,039 |
+| Forks | 1,092 |
+| Stars this week | 172 |
 
 ---
 
-## 12. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
+## 12. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android)
 
 Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 553 |
-| Forks | 100 |
-| Stars this week | 141 |
-
----
-
-## 13. [tiann/KernelSU](https://github.com/tiann/KernelSU)
-
-A Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 19,657 |
-| Forks | 4,716 |
-| Stars this week | 298 |
+| Stars | 561 |
+| Forks | 101 |
+| Stars this week | 145 |
 
 ---

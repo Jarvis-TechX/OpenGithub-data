@@ -1,88 +1,88 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-26T04:39:53Z
-**Total Repositories:** 20
-**New Entries:** 11
+**Snapshot Time:** 2026-10-27T04:57:38Z
+**Total Repositories:** 18
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [makecindy/cindy](https://github.com/makecindy/cindy)
-
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 5,146 |
-| Forks | 688 |
-| Stars today | 675 |
-
----
-
-## 2. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 7,837 |
-| Forks | 1,580 |
-| Stars today | 199 |
-
----
-
-## 3. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) 🆕
+## 1. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
 
 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,967 |
-| Forks | 111 |
-| Stars today | 51 |
+| Stars | 3,137 |
+| Forks | 173 |
+| Stars today | 1,173 |
 
 ---
 
-## 4. [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+## 2. [makecindy/cindy](https://github.com/makecindy/cindy)
 
-An open-source AI agent that brings the power of Gemini directly into your terminal.
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 108,388 |
-| Forks | 14,837 |
-| Stars today | 658 |
+| Stars | 6,745 |
+| Forks | 816 |
+| Stars today | 1,296 |
 
 ---
 
-## 5. [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime)
+## 3. [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
 
-A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,630 |
-| Forks | 586 |
-| Stars today | 202 |
+| Stars | 1,623 |
+| Forks | 199 |
+| Stars today | 176 |
 
 ---
 
-## 6. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) 🆕
+## 4. [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) 🆕
 
-A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+📨 The ultimate agentic social media scheduling tool 🤖
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,595 |
-| Forks | 1,051 |
-| Stars today | 19 |
+| Stars | 38,612 |
+| Forks | 7,464 |
+| Stars today | 188 |
+
+---
+
+## 5. [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) 🆕
+
+Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 5,248 |
+| Forks | 590 |
+| Stars today | 203 |
+
+---
+
+## 6. [calcom/cal.diy](https://github.com/calcom/cal.diy) 🆕
+
+Scheduling infrastructure for absolutely everyone.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 49,404 |
+| Forks | 15,448 |
+| Stars today | 60 |
 
 ---
 
@@ -93,177 +93,151 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 103,166 |
-| Forks | 9,110 |
-| Stars today | 301 |
+| Stars | 103,486 |
+| Forks | 9,133 |
+| Stars today | 318 |
 
 ---
 
-## 8. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
-
-7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 41,657 |
-| Forks | 5,613 |
-| Stars today | 675 |
-
----
-
-## 9. [mantrakp04/ardia](https://github.com/mantrakp04/ardia) 🆕
-
-A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 833 |
-| Forks | 87 |
-| Stars today | 97 |
-
----
-
-## 10. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
-
-🎥 Make videos programmatically with React
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 67,509 |
-| Forks | 5,450 |
-| Stars today | 356 |
-
----
-
-## 11. [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) 🆕
-
-Kimi Code CLI — The Starting Point for Next-Gen Agents
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,019 |
-| Forks | 1,314 |
-| Stars today | 16 |
-
----
-
-## 12. [nightly-labs/openbot](https://github.com/nightly-labs/openbot) 🆕
-
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 1,006 |
-| Forks | 158 |
-| Stars today | 86 |
-
----
-
-## 13. [google/brotli](https://github.com/google/brotli)
-
-Brotli compression format
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 15,015 |
-| Forks | 1,381 |
-| Stars today | 20 |
-
----
-
-## 14. [moeru-ai/airi](https://github.com/moeru-ai/airi) 🆕
-
-💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 50,715 |
-| Forks | 5,107 |
-| Stars today | 44 |
-
----
-
-## 15. [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)
-
-面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 9,140 |
-| Forks | 2,139 |
-| Stars today | 153 |
-
----
-
-## 16. [garrytan/gstack](https://github.com/garrytan/gstack) 🆕
+## 8. [garrytan/gstack](https://github.com/garrytan/gstack)
 
 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 137,734 |
-| Forks | 20,419 |
-| Stars today | 189 |
+| Stars | 137,849 |
+| Forks | 20,438 |
+| Stars today | 167 |
 
 ---
 
-## 17. [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) 🆕
+## 9. [ed0ard/CS2-Bot-Improver](https://github.com/ed0ard/CS2-Bot-Improver) 🆕
 
-Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co
+CS2-Bot-Improver is a plugin for Counter-Strike 2 that improves bots' aim, movement, nade throwing, personalities, strategies, etc. Aims to enhance your experience when playing against bots offline or with friends. It can be installed on both clients and servers.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,600 |
-| Forks | 1,298 |
-| Stars today | 30 |
+| Stars | 1,317 |
+| Forks | 64 |
+| Stars today | 13 |
 
 ---
 
-## 18. [garrytan/gbrain](https://github.com/garrytan/gbrain) 🆕
+## 10. [CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) 🆕
 
-Garry's Opinionated OpenClaw/Hermes Agent Brain
+The free coding agent
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,225 |
-| Forks | 4,664 |
-| Stars today | 33 |
+| Stars | 13,787 |
+| Forks | 1,470 |
+| Stars today | 29 |
 
 ---
 
-## 19. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) 🆕
+## 11. [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) 🆕
 
-Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+Desktop app to manage markdown knowledge bases
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 195,381 |
-| Forks | 10,306 |
-| Stars today | 377 |
+| Stars | 20,355 |
+| Forks | 1,399 |
+| Stars today | 61 |
 
 ---
 
-## 20. [every-app/open-seo](https://github.com/every-app/open-seo) 🆕
+## 12. [Narcooo/inkos](https://github.com/Narcooo/inkos) 🆕
+
+Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 10,844 |
+| Forks | 1,978 |
+| Stars today | 78 |
+
+---
+
+## 13. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) 🆕
+
+A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 2,991 |
+| Forks | 251 |
+| Stars today | 176 |
+
+---
+
+## 14. [thesysdev/openui](https://github.com/thesysdev/openui) 🆕
+
+The Open Standard for Generative UI
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 14,214 |
+| Forks | 933 |
+| Stars today | 331 |
+
+---
+
+## 15. [every-app/open-seo](https://github.com/every-app/open-seo)
 
 Open source alternative to Semrush and Ahrefs
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 24,987 |
-| Forks | 3,410 |
-| Stars today | 133 |
+| Stars | 25,156 |
+| Forks | 3,431 |
+| Stars today | 138 |
+
+---
+
+## 16. [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) 🆕
+
+Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 4,077 |
+| Forks | 830 |
+| Stars today | 30 |
+
+---
+
+## 17. [laurent22/joplin](https://github.com/laurent22/joplin) 🆕
+
+Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 56,892 |
+| Forks | 6,373 |
+| Stars today | 18 |
+
+---
+
+## 18. [vega-org/vega-app](https://github.com/vega-org/vega-app) 🆕
+
+A app to Play, Stream or Cast Media for andorid.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 1,633 |
+| Forks | 239 |
+| Stars today | 11 |
 
 ---

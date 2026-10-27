@@ -1,178 +1,179 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-26T04:40:03Z
-**Total Repositories:** 22
-**New Entries:** 17
+**Snapshot Time:** 2026-10-27T04:57:51Z
+**Total Repositories:** 17
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
-
-WinUI app for building smaller, customized Windows 11 images.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 21,144 |
-| Forks | 1,621 |
-| Stars today | 66 |
-
----
-
-## 2. [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox)
-
-LibVLC-based media player for the Universal Windows Platform
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,624 |
-| Forks | 217 |
-| Stars today | 10 |
-
----
-
-## 3. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) 🆕
+## 1. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
 
 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 16,836 |
-| Forks | 1,243 |
-| Stars today | 255 |
+| Stars | 17,051 |
+| Forks | 1,260 |
+| Stars today | 226 |
 
 ---
 
-## 4. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) 🆕
+## 2. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) 🆕
 
-PCL 社区版 由社区开发者维护与管理
+PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,907 |
-| Forks | 424 |
-| Stars today | 55 |
+| Stars | 56,001 |
+| Forks | 8,520 |
+| Stars today | 30 |
 
 ---
 
-## 5. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
+## 3. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) 🆕
 
-A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
+Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,622 |
-| Forks | 405 |
-| Stars today | 68 |
+| Stars | 7,858 |
+| Forks | 2,048 |
+| Stars today | 23 |
 
 ---
 
-## 6. [Jackett/Jackett](https://github.com/Jackett/Jackett) 🆕
+## 4. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) 🆕
 
-API Support for your favorite torrent trackers
+A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 16,261 |
-| Forks | 1,595 |
-| Stars today | 11 |
+| Stars | 3,192 |
+| Forks | 81 |
+| Stars today | 122 |
 
 ---
 
-## 7. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+## 5. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
 The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 58,601 |
-| Forks | 5,715 |
-| Stars today | 69 |
+| Stars | 58,661 |
+| Forks | 5,719 |
+| Stars today | 56 |
 
 ---
 
-## 8. [zqq-699/BlockHelm-Launcher](https://github.com/zqq-699/BlockHelm-Launcher) 🆕
+## 6. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) 🆕
 
-简洁现代的 Minecraft Java 版启动器，支持实例、资源与账户管理。
+Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 264 |
-| Forks | 12 |
-| Stars today | 11 |
+| Stars | 17,666 |
+| Forks | 3,093 |
+| Stars today | 14 |
 
 ---
 
-## 9. [LorisYounger/VPet](https://github.com/LorisYounger/VPet) 🆕
+## 7. [files-community/Files](https://github.com/files-community/Files) 🆕
 
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+A modern file manager that helps users organize their files and folders.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,043 |
-| Forks | 701 |
-| Stars today | 8 |
+| Stars | 46,236 |
+| Forks | 2,988 |
+| Stars today | 23 |
 
 ---
 
-## 10. [stride3d/stride](https://github.com/stride3d/stride) 🆕
+## 8. [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled) 🆕
 
-Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
+Wiicompiled
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,926 |
-| Forks | 1,181 |
-| Stars today | 4 |
+| Stars | 1,286 |
+| Forks | 118 |
+| Stars today | 14 |
 
 ---
 
-## 11. [QuantConnect/Lean](https://github.com/QuantConnect/Lean) 🆕
+## 9. [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) 🆕
 
-Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,237 |
-| Forks | 5,344 |
-| Stars today | 31 |
-
----
-
-## 12. [Goob-Station/Goob-Station](https://github.com/Goob-Station/Goob-Station) 🆕
-
-We're not even close to "Wizden, but random" at this point. Super chud SS14 fork. By chuds, for chuds.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 244 |
-| Forks | 1,502 |
+| Stars | 6,503 |
+| Forks | 692 |
 | Stars today | 1 |
 
 ---
 
-## 13. [ss14Starlight/space-station-14](https://github.com/ss14Starlight/space-station-14) 🆕
+## 10. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
 
-An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14
+Movie organizer/manager for usenet and torrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 133 |
-| Forks | 682 |
+| Stars | 14,657 |
+| Forks | 1,245 |
+| Stars today | 11 |
+
+---
+
+## 11. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
+
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 119,192 |
+| Forks | 16,178 |
+| Stars today | 93 |
+
+---
+
+## 12. [dotnet/runtime](https://github.com/dotnet/runtime)
+
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 18,394 |
+| Forks | 5,723 |
+| Stars today | 5 |
+
+---
+
+## 13. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+
+WinUI app for building smaller, customized Windows 11 images.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 21,223 |
+| Forks | 1,630 |
+| Stars today | 70 |
 
 ---
 
@@ -183,112 +184,46 @@ Advanced UX and interoperability extension for Wand (WeMod) app
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 32,995 |
-| Forks | 85,275 |
-| Stars today | 152 |
+| Stars | 33,077 |
+| Forks | 85,508 |
+| Stars today | 107 |
 
 ---
 
-## 15. [Kareadita/Kavita](https://github.com/Kareadita/Kavita) 🆕
+## 15. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 🆕
 
-Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,939 |
-| Forks | 684 |
-| Stars today | 15 |
+| Stars | 14,740 |
+| Forks | 1,348 |
+| Stars today | 21 |
 
 ---
 
-## 16. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) 🆕
+## 16. [cyanfish/naps2](https://github.com/cyanfish/naps2) 🆕
 
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+Scan documents to PDF and more, as simply as possible.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,800 |
-| Forks | 4,515 |
-| Stars today | 4 |
-
----
-
-## 17. [openutau/OpenUtau](https://github.com/openutau/OpenUtau) 🆕
-
-Open singing synthesis platform / Open source UTAU successor
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,475 |
-| Forks | 581 |
-| Stars today | 7 |
-
----
-
-## 18. [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) 🆕
-
-The main repository for the development of the evolution game Thrive.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,790 |
-| Forks | 636 |
-| Stars today | 3 |
-
----
-
-## 19. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
-
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 18,390 |
-| Forks | 5,705 |
-| Stars today | 6 |
-
----
-
-## 20. [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) 🆕
-
-A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,888 |
-| Forks | 5,822 |
-| Stars today | 2 |
-
----
-
-## 21. [ArduPilot/MissionPlanner](https://github.com/ArduPilot/MissionPlanner) 🆕
-
-Mission Planner Ground Control Station for ArduPilot (c# .net)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 2,407 |
-| Forks | 2,896 |
-| Stars today | 3 |
-
----
-
-## 22. [0x7c13/Notepads](https://github.com/0x7c13/Notepads) 🆕
-
-A modern, lightweight text editor with a minimalist design.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 10,296 |
-| Forks | 559 |
+| Stars | 4,700 |
+| Forks | 476 |
 | Stars today | 10 |
+
+---
+
+## 17. [microsoft/calculator](https://github.com/microsoft/calculator) 🆕
+
+Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 31,081 |
+| Forks | 5,824 |
 
 ---

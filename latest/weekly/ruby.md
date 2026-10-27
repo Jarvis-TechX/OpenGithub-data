@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-26T04:40:12Z
+**Snapshot Time:** 2026-10-27T04:58:01Z
 **Total Repositories:** 19
-**New Entries:** 8
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 38,293 |
-| Forks | 9,342 |
-| Stars this week | 370 |
+| Stars | 38,370 |
+| Forks | 9,352 |
+| Stars this week | 417 |
 
 ---
 
@@ -28,48 +28,48 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,676 |
-| Forks | 3,619 |
-| Stars this week | 220 |
+| Stars | 16,702 |
+| Forks | 3,626 |
+| Stars this week | 229 |
 
 ---
 
-## 3. [ruby/ruby](https://github.com/ruby/ruby)
-
-The Ruby Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 23,795 |
-| Forks | 5,670 |
-| Stars this week | 40 |
-
----
-
-## 4. [Homebrew/brew](https://github.com/Homebrew/brew)
-
-🍺 The Package Manager for Everywhere
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,107 |
-| Forks | 11,396 |
-| Stars this week | 101 |
-
----
-
-## 5. [huginn/huginn](https://github.com/huginn/huginn) 🆕
+## 3. [huginn/huginn](https://github.com/huginn/huginn)
 
 Create agents that monitor and act on your behalf. Your agents are standing by!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,138 |
-| Forks | 4,317 |
-| Stars this week | 83 |
+| Stars | 50,154 |
+| Forks | 4,318 |
+| Stars this week | 89 |
+
+---
+
+## 4. [ruby/ruby](https://github.com/ruby/ruby)
+
+The Ruby Programming Language
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 23,796 |
+| Forks | 5,672 |
+| Stars this week | 39 |
+
+---
+
+## 5. [Homebrew/brew](https://github.com/Homebrew/brew)
+
+🍺 The Package Manager for Everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,118 |
+| Forks | 11,400 |
+| Stars this week | 102 |
 
 ---
 
@@ -80,65 +80,130 @@ Create agents that monitor and act on your behalf. Your agents are standing by!
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,642 |
-| Forks | 13,940 |
-| Stars this week | 19 |
+| Stars | 15,645 |
+| Forks | 13,946 |
+| Stars this week | 21 |
 
 ---
 
-## 7. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
-
-Metasploit Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 39,238 |
-| Forks | 14,994 |
-| Stars this week | 74 |
-
----
-
-## 8. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
-
-🌇 A collection of links for free stock photography, video and Illustration websites
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 14,641 |
-| Forks | 828 |
-| Stars this week | 31 |
-
----
-
-## 9. [github/explore](https://github.com/github/explore) 🆕
+## 7. [github/explore](https://github.com/github/explore)
 
 Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,929 |
-| Forks | 14,653 |
-| Stars this week | 18 |
+| Stars | 4,934 |
+| Forks | 14,662 |
+| Stars this week | 17 |
 
 ---
 
-## 10. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) 🆕
+## 8. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+
+Metasploit Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,242 |
+| Forks | 14,996 |
+| Stars this week | 74 |
+
+---
+
+## 9. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+
+🌇 A collection of links for free stock photography, video and Illustration websites
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 14,646 |
+| Forks | 828 |
+| Stars this week | 31 |
+
+---
+
+## 10. [forem/forem](https://github.com/forem/forem)
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,811 |
+| Forks | 4,194 |
+| Stars this week | 10 |
+
+---
+
+## 11. [basecamp/kamal](https://github.com/basecamp/kamal) 🆕
+
+Deploy web apps anywhere.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 14,689 |
+| Forks | 767 |
+| Stars this week | 32 |
+
+---
+
+## 12. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 
 Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 12,345 |
-| Forks | 598 |
-| Stars this week | 33 |
+| Stars | 12,353 |
+| Forks | 599 |
+| Stars this week | 35 |
 
 ---
 
-## 11. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 13. [fastlane/fastlane](https://github.com/fastlane/fastlane)
+
+🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 42,313 |
+| Forks | 6,047 |
+| Stars this week | 60 |
+
+---
+
+## 14. [theforeman/foreman](https://github.com/theforeman/foreman)
+
+an application that automates the lifecycle of servers
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 2,998 |
+| Forks | 1,061 |
+| Stars this week | 6 |
+
+---
+
+## 15. [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) 🆕
+
+Next generation web scanner
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 6,921 |
+| Forks | 1,018 |
+| Stars this week | 24 |
+
+---
+
+## 16. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -146,50 +211,24 @@ A collection of RBS for gems.
 |--------|-------|
 | Language | Ruby |
 | Stars | 302 |
-| Forks | 140 |
+| Forks | 141 |
 
 ---
 
-## 12. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+## 17. [dependabot/demo](https://github.com/dependabot/demo) 🆕
 
-A database of vulnerable Ruby Gems
+🤖 Fork me to try out Dependabot
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 1,076 |
-| Forks | 249 |
-| Stars this week | 1 |
-
----
-
-## 13. [forem/forem](https://github.com/forem/forem) 🆕
-
-For empowering community 🌱
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 22,809 |
-| Forks | 4,192 |
-| Stars this week | 11 |
-
----
-
-## 14. [patterns-ai-core/langchainrb](https://github.com/patterns-ai-core/langchainrb) 🆕
-
-Build LLM-powered applications in Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 2,006 |
-| Forks | 268 |
+| Stars | 343 |
+| Forks | 5,055 |
 | Stars this week | 3 |
 
 ---
 
-## 15. [jruby/jruby](https://github.com/jruby/jruby)
+## 18. [jruby/jruby](https://github.com/jruby/jruby)
 
 JRuby, an implementation of Ruby on the JVM
 
@@ -202,54 +241,15 @@ JRuby, an implementation of Ruby on the JVM
 
 ---
 
-## 16. [fastlane/fastlane](https://github.com/fastlane/fastlane) 🆕
+## 19. [spree/spree](https://github.com/spree/spree) 🆕
 
-🚀 The easiest way to automate building and releasing your iOS and Android apps
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 42,305 |
-| Forks | 6,047 |
-| Stars this week | 55 |
-
----
-
-## 17. [theforeman/foreman](https://github.com/theforeman/foreman) 🆕
-
-an application that automates the lifecycle of servers
+Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,997 |
-| Forks | 1,061 |
-| Stars this week | 7 |
-
----
-
-## 18. [mastodon/mastodon](https://github.com/mastodon/mastodon)
-
-Your self-hosted, globally interconnected microblogging community
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,451 |
-| Forks | 7,523 |
-| Stars this week | 46 |
-
----
-
-## 19. [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) 🆕
-
-The Cocoa Dependency Manager.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 14,838 |
-| Forks | 2,684 |
-| Stars this week | 5 |
+| Stars | 15,779 |
+| Forks | 5,315 |
+| Stars this week | 18 |
 
 ---

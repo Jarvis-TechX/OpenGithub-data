@@ -1,165 +1,166 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-26T04:40:02Z
+**Snapshot Time:** 2026-10-27T04:57:50Z
 **Total Repositories:** 13
 **New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [Lelonio/Square](https://github.com/Lelonio/Square)
-
-Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 391 |
-| Forks | 37 |
-| Stars today | 29 |
-
----
-
-## 2. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
-
-✨一个安卓网盘解析下载app✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 5,570 |
-| Forks | 284 |
-| Stars today | 112 |
-
----
-
-## 3. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
-
-Kernel-based Android Root Solution & KPM
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,677 |
-| Forks | 1,374 |
-| Stars today | 23 |
-
----
-
-## 4. [theothernt/AerialViews](https://github.com/theothernt/AerialViews) 🆕
-
-A screensaver for Android TV devices including Google TV, Nvidia Shield, and Fire TV. Inspired by Apple TV's video screensaver.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,124 |
-| Forks | 86 |
-
----
-
-## 5. [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) 🆕
-
-An YouTube Music Client
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,082 |
-| Forks | 203 |
-| Stars today | 32 |
-
----
-
-## 6. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV) 🆕
-
-StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 870 |
-| Forks | 149 |
-| Stars today | 8 |
-
----
-
-## 7. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 32,168 |
-| Forks | 3,442 |
-| Stars today | 55 |
-
----
-
-## 8. [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) 🆕
-
-A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 25,106 |
-| Forks | 2,777 |
-| Stars today | 18 |
-
----
-
-## 9. [subhra74/xdm](https://github.com/subhra74/xdm) 🆕
+## 1. [subhra74/xdm](https://github.com/subhra74/xdm)
 
 Fast, reliable download accelerator and video downloader, trusted for 13+ years
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,073 |
-| Forks | 1,201 |
-| Stars today | 14 |
+| Stars | 8,111 |
+| Forks | 1,204 |
+| Stars today | 34 |
 
 ---
 
-## 10. [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) 🆕
+## 2. [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) 🆕
 
-Android feed reader app
+New mask, same task. All patches answer to Doom.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,096 |
-| Forks | 223 |
+| Stars | 950 |
+| Forks | 64 |
+| Stars today | 13 |
+
+---
+
+## 3. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
+
+The Magic Mask for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 63,523 |
+| Forks | 19,047 |
+| Stars today | 35 |
+
+---
+
+## 4. [mihonapp/mihon](https://github.com/mihonapp/mihon) 🆕
+
+Free and open source manga reader for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 24,754 |
+| Forks | 1,688 |
+| Stars today | 31 |
+
+---
+
+## 5. [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) 🆕
+
+Android TV Client for Jellyfin
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,664 |
+| Forks | 1,029 |
+| Stars today | 7 |
+
+---
+
+## 6. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
+
+Headunit App for displaying Android Auto
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,044 |
+| Forks | 274 |
+| Stars today | 24 |
+
+---
+
+## 7. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+
+Kernel-based Android Root Solution & KPM
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,694 |
+| Forks | 1,378 |
+| Stars today | 18 |
+
+---
+
+## 8. [tiann/KernelSU](https://github.com/tiann/KernelSU) 🆕
+
+A Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 19,696 |
+| Forks | 4,755 |
+| Stars today | 38 |
+
+---
+
+## 9. [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) 🆕
+
+Opensource automated insulin delivery system (closed loop)
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,229 |
+| Forks | 7,339 |
 | Stars today | 1 |
 
 ---
 
-## 11. [Mahmud0808/TeleDrive](https://github.com/Mahmud0808/TeleDrive) 🆕
+## 10. [Lelonio/Square](https://github.com/Lelonio/Square)
 
-Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optional E2E encryption, built-in file manager and player.
+Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 377 |
+| Stars | 421 |
 | Forks | 40 |
-| Stars today | 12 |
+| Stars today | 34 |
 
 ---
 
-## 12. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android)
+## 11. [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) 🆕
 
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+A private messenger for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 553 |
-| Forks | 100 |
-| Stars today | 15 |
+| Stars | 29,539 |
+| Forks | 6,933 |
+| Stars today | 9 |
+
+---
+
+## 12. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) 🆕
+
+Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 674 |
+| Forks | 161 |
+| Stars today | 13 |
 
 ---
 
@@ -170,8 +171,8 @@ decentralized mesh chat
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,884 |
-| Forks | 1,953 |
-| Stars today | 11 |
+| Stars | 7,895 |
+| Forks | 1,957 |
+| Stars today | 9 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-26T04:40:17Z
-**Total Repositories:** 11
-**New Entries:** 1
-**Quality Score:** 96.36/100
+**Snapshot Time:** 2026-10-27T04:58:07Z
+**Total Repositories:** 9
+**New Entries:** 2
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,136 +15,112 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,666 |
-| Forks | 8,406 |
-| Stars this week | 1,266 |
+| Stars | 41,686 |
+| Forks | 8,428 |
+| Stars this week | 1,286 |
 
 ---
 
-## 2. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
-
-Static recompilation runtime libraries for PlayStation 3 titles.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 577 |
-| Forks | 85 |
-| Stars this week | 85 |
-
----
-
-## 3. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+## 2. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
 
 ehviewer，用爱发电，快乐前行
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,228 |
+| Stars | 28,292 |
 | Forks | 753 |
-| Stars this week | 370 |
+| Stars this week | 390 |
 
 ---
 
-## 4. [opa334/Dopamine](https://github.com/opa334/Dopamine)
+## 3. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
 
-Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+Static recompilation runtime libraries for PlayStation 3 titles.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,081 |
-| Forks | 6,487 |
-| Stars this week | 118 |
+| Stars | 586 |
+| Forks | 84 |
+| Stars this week | 69 |
 
 ---
 
-## 5. [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,140 |
-| Forks | 798 |
-| Stars this week | 57 |
-
----
-
-## 6. [obsproject/obs-studio](https://github.com/obsproject/obs-studio) 🆕
+## 4. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 78,217 |
-| Forks | 10,862 |
-| Stars this week | 532 |
+| Stars | 78,301 |
+| Forks | 10,888 |
+| Stars this week | 552 |
 
 ---
 
-## 7. [espressif/esp-idf](https://github.com/espressif/esp-idf)
+## 5. [opa334/Dopamine](https://github.com/opa334/Dopamine)
 
-Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 19,342 |
-| Forks | 8,565 |
-| Stars this week | 78 |
+| Stars | 7,093 |
+| Forks | 6,489 |
+| Stars this week | 124 |
 
 ---
 
-## 8. [Yokimitsuro/khdays-port](https://github.com/Yokimitsuro/khdays-port)
-
-Experimental native PC runtime for Kingdom Hearts 358/2 Days, developed alongside the matching Nintendo DS decompilation. No copyrighted game data included.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 208 |
-| Forks | 19 |
-| Stars this week | 74 |
-
----
-
-## 9. [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp)
-
-Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 299 |
-| Forks | 89 |
-| Stars this week | 49 |
-
----
-
-## 10. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+## 6. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 
 An advanced Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,619 |
-| Forks | 1,219 |
-| Stars this week | 106 |
+| Stars | 4,630 |
+| Forks | 1,228 |
+| Stars this week | 94 |
 
 ---
 
-## 11. [xemu-project/xemu](https://github.com/xemu-project/xemu)
+## 7. [Yokimitsuro/khdays-port](https://github.com/Yokimitsuro/khdays-port)
 
-Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
+Experimental native PC runtime for Kingdom Hearts 358/2 Days, developed alongside the matching Nintendo DS decompilation. No copyrighted game data included.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,217 |
-| Forks | 568 |
-| Stars this week | 29 |
+| Stars | 213 |
+| Forks | 19 |
+| Stars this week | 75 |
+
+---
+
+## 8. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) 🆕
+
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,911 |
+| Forks | 10,275 |
+| Stars this week | 81 |
+
+---
+
+## 9. [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) 🆕
+
+Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 75,496 |
+| Forks | 4,953 |
+| Stars this week | 1,047 |
 
 ---

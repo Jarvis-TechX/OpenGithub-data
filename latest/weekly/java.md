@@ -1,217 +1,217 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-26T04:40:19Z
+**Snapshot Time:** 2026-10-27T04:58:09Z
 **Total Repositories:** 16
-**New Entries:** 4
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
-
-A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 10,730 |
-| Forks | 1,274 |
-| Stars this week | 492 |
-
----
-
-## 2. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+## 1. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
 
 A tool for reverse engineering Android apk files
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,691 |
-| Forks | 4,148 |
-| Stars this week | 689 |
+| Stars | 26,719 |
+| Forks | 4,151 |
+| Stars this week | 502 |
 
 ---
 
-## 3. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+## 2. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
+
+A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 10,759 |
+| Forks | 1,283 |
+| Stars this week | 519 |
+
+---
+
+## 3. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) 🆕
+
+All Algorithms implemented in Java
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 66,572 |
+| Forks | 21,321 |
+| Stars this week | 140 |
+
+---
+
+## 4. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 Ghidra is a software reverse engineering (SRE) framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 94,376 |
-| Forks | 10,601 |
-| Stars this week | 3,706 |
+| Stars | 94,791 |
+| Forks | 10,655 |
+| Stars this week | 3,283 |
 
 ---
 
-## 4. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
+## 5. [krahets/hello-algo](https://github.com/krahets/hello-algo) 🆕
 
-Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,062 |
-| Forks | 356 |
-| Stars this week | 94 |
+| Stars | 131,436 |
+| Forks | 15,549 |
+| Stars this week | 493 |
 
 ---
 
-## 5. [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
+## 6. [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
 
 An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,632 |
+| Stars | 1,635 |
 | Forks | 103 |
-| Stars this week | 97 |
+| Stars this week | 90 |
 
 ---
 
-## 6. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
-
-No clever tagline needed.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 13,783 |
-| Forks | 1,758 |
-| Stars this week | 70 |
-
----
-
-## 7. [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) 🆕
+## 7. [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
 PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,003 |
-| Forks | 2,863 |
-| Stars this week | 281 |
+| Stars | 30,054 |
+| Forks | 2,872 |
+| Stars this week | 315 |
 
 ---
 
-## 8. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
+## 8. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
+
+Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,070 |
+| Forks | 357 |
+| Stars this week | 99 |
+
+---
+
+## 9. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
 
 Dual pane Android file manager with focus on APKs
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 399 |
-| Forks | 51 |
-| Stars this week | 98 |
+| Stars | 421 |
+| Forks | 53 |
+| Stars this week | 102 |
 
 ---
 
-## 9. [skylot/jadx](https://github.com/skylot/jadx)
+## 10. [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) 🆕
+
+A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded byhttps://github.com/AngelAuraMC/Amethyst-Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,468 |
+| Forks | 2,477 |
+| Stars this week | 37 |
+
+---
+
+## 11. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+
+No clever tagline needed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,789 |
+| Forks | 1,760 |
+| Stars this week | 72 |
+
+---
+
+## 12. [skylot/jadx](https://github.com/skylot/jadx)
 
 Dex to Java decompiler
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 51,271 |
-| Forks | 5,829 |
-| Stars this week | 240 |
+| Stars | 51,286 |
+| Forks | 5,833 |
+| Stars this week | 212 |
 
 ---
 
-## 10. [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)
+## 13. [halo-dev/halo](https://github.com/halo-dev/halo) 🆕
 
-The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,744 |
-| Forks | 1,114 |
-| Stars this week | 22 |
+| Stars | 40,044 |
+| Forks | 10,318 |
+| Stars this week | 107 |
 
 ---
 
-## 11. [LiteLDev/LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid)
-
-A launcher designed for Minecraft Bedrock Edition on Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 651 |
-| Forks | 169 |
-| Stars this week | 25 |
-
----
-
-## 12. [MojoLauncher/MojoLauncher](https://github.com/MojoLauncher/MojoLauncher)
-
-A Minecraft: Java Edition launcher, based on PojavLauncher
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,051 |
-| Forks | 493 |
-| Stars this week | 14 |
-
----
-
-## 13. [apache/cassandra](https://github.com/apache/cassandra)
-
-Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 10,118 |
-| Forks | 4,070 |
-| Stars this week | 11 |
-
----
-
-## 14. [apache/beam](https://github.com/apache/beam) 🆕
-
-Apache Beam is a unified programming model for Batch and Streaming data processing.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 8,693 |
-| Forks | 4,710 |
-| Stars this week | 7 |
-
----
-
-## 15. [apache/kafka](https://github.com/apache/kafka) 🆕
-
-Apache Kafka - A distributed event streaming platform
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 34,120 |
-| Forks | 15,626 |
-| Stars this week | 185 |
-
----
-
-## 16. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
+## 14. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
 
 Browse media content with your own rules on Android TV
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 35,546 |
-| Forks | 2,201 |
-| Stars this week | 431 |
+| Stars | 35,594 |
+| Forks | 2,206 |
+| Stars this week | 448 |
+
+---
+
+## 15. [kdn251/interviews](https://github.com/kdn251/interviews) 🆕
+
+Everything you need to know to get the job.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 65,511 |
+| Forks | 12,925 |
+| Stars this week | 221 |
+
+---
+
+## 16. [apache/flink](https://github.com/apache/flink) 🆕
+
+Apache Flink
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 26,427 |
+| Forks | 14,110 |
+| Stars this week | 20 |
 
 ---

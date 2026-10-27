@@ -1,87 +1,165 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-26T04:39:59Z
-**Total Repositories:** 6
-**New Entries:** 4
+**Snapshot Time:** 2026-10-27T04:57:45Z
+**Total Repositories:** 12
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [obsproject/obs-studio](https://github.com/obsproject/obs-studio) 🆕
+## 1. [hashcat/hashcat](https://github.com/hashcat/hashcat) 🆕
 
-OBS Studio - Free and open source software for live streaming and screen recording
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 78,217 |
-| Forks | 10,862 |
-| Stars today | 93 |
-
----
-
-## 2. [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-
-Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+World's fastest and most advanced password recovery utility
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 75,346 |
-| Forks | 4,939 |
-| Stars today | 101 |
+| Stars | 27,146 |
+| Forks | 3,594 |
+| Stars today | 78 |
 
 ---
 
-## 3. [systemd/systemd](https://github.com/systemd/systemd) 🆕
+## 2. [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) 🆕
 
-The systemd System and Service Manager
+YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,933 |
-| Forks | 4,785 |
-| Stars today | 13 |
+| Stars | 10,632 |
+| Forks | 1,396 |
+| Stars today | 4 |
 
 ---
 
-## 4. [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) 🆕
+## 3. [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) 🆕
 
-An opensource OpenWrt variant for mainland China users.
+Open-source keyboard firmware for Atmel AVR and Arm USB families
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 11,793 |
-| Forks | 4,035 |
-| Stars today | 10 |
+| Stars | 20,783 |
+| Forks | 44,385 |
+| Stars today | 4 |
 
 ---
 
-## 5. [semgrep/semgrep](https://github.com/semgrep/semgrep)
+## 4. [reactos/reactos](https://github.com/reactos/reactos) 🆕
 
-Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+A free Windows-compatible Operating System
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,273 |
-| Forks | 1,130 |
-| Stars today | 26 |
+| Stars | 18,369 |
+| Forks | 2,299 |
+| Stars today | 15 |
 
 ---
 
-## 6. [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) 🆕
+## 5. [libretro/RetroArch](https://github.com/libretro/RetroArch) 🆕
+
+Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 14,451 |
+| Forks | 2,323 |
+| Stars today | 22 |
+
+---
+
+## 6. [curl/curl](https://github.com/curl/curl) 🆕
+
+A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 43,291 |
+| Forks | 7,461 |
+| Stars today | 32 |
+
+---
+
+## 7. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) 🆕
+
+ehviewer，用爱发电，快乐前行
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 28,292 |
+| Forks | 753 |
+| Stars today | 63 |
+
+---
+
+## 8. [JustVugg/colibri](https://github.com/JustVugg/colibri) 🆕
+
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 44,089 |
+| Forks | 5,012 |
+| Stars today | 210 |
+
+---
+
+## 9. [radareorg/radare2](https://github.com/radareorg/radare2) 🆕
+
+UNIX-like reverse engineering framework and command-line toolset
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 25,166 |
+| Forks | 3,383 |
+| Stars today | 8 |
+
+---
+
+## 10. [fifthBro/mh2p-cluster](https://github.com/fifthBro/mh2p-cluster) 🆕
+
+Bridge Android Auto and CarPlay navigation from Porsche PCM5 / MH2P to instrument cluster displays.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 120 |
+| Forks | 21 |
+| Stars today | 5 |
+
+---
+
+## 11. [microsoft/PowerToys](https://github.com/microsoft/PowerToys) 🆕
+
+Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 140,009 |
+| Forks | 8,645 |
+| Stars today | 89 |
+
+---
+
+## 12. [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash)
 
 Extremely fast non-cryptographic hash algorithm
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 11,373 |
-| Forks | 940 |
-| Stars today | 7 |
+| Stars | 11,374 |
+| Forks | 941 |
+| Stars today | 4 |
 
 ---
