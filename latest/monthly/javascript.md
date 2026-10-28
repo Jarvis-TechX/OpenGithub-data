@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-27T04:58:19Z
-**Total Repositories:** 17
+**Snapshot Time:** 2026-10-28T05:33:39Z
+**Total Repositories:** 16
 **New Entries:** 0
-**Quality Score:** 97.65/100
+**Quality Score:** 97.50/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 48,800 |
-| Forks | 3,042 |
-| Stars this month | 26,289 |
+| Stars | 50,476 |
+| Forks | 3,182 |
+| Stars this month | 27,415 |
 
 ---
 
@@ -28,9 +28,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 290,004 |
-| Forks | 42,978 |
-| Stars this month | 23,245 |
+| Stars | 291,063 |
+| Forks | 43,091 |
+| Stars this month | 23,998 |
 
 ---
 
@@ -41,35 +41,35 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 177,345 |
-| Forks | 9,695 |
-| Stars this month | 31,644 |
+| Stars | 178,361 |
+| Forks | 9,762 |
+| Stars this month | 32,214 |
 
 ---
 
-## 4. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+## 4. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
+Production-grade engineering skills for AI coding agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 111,226 |
+| Forks | 11,638 |
+| Stars this month | 12,128 |
+
+---
+
+## 5. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
 
 Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 16,317 |
-| Forks | 2,134 |
-| Stars this month | 14,777 |
-
----
-
-## 5. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
-
-Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 3,496 |
-| Forks | 326 |
-| Stars this month | 2,864 |
+| Stars | 16,747 |
+| Forks | 2,179 |
+| Stars this month | 15,159 |
 
 ---
 
@@ -80,46 +80,46 @@ Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent version
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 31,043 |
-| Forks | 2,147 |
-| Stars this month | 8,782 |
+| Stars | 33,386 |
+| Forks | 2,342 |
+| Stars this month | 12,285 |
 
 ---
 
-## 7. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+## 7. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
+
+Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,532 |
+| Forks | 329 |
+| Stars this month | 2,892 |
+
+---
+
+## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,388 |
-| Forks | 1,194 |
-| Stars this month | 2,876 |
+| Stars | 7,425 |
+| Forks | 1,200 |
+| Stars this month | 2,901 |
 
 ---
 
-## 8. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
+## 9. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
 
 List of Permanent Free LLM API (API Keys)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 11,362 |
-| Forks | 1,292 |
-| Stars this month | 3,002 |
-
----
-
-## 9. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-
-Production-grade engineering skills for AI coding agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 110,863 |
-| Forks | 11,593 |
-| Stars this month | 12,002 |
+| Stars | 11,438 |
+| Forks | 1,303 |
+| Stars this month | 3,021 |
 
 ---
 
@@ -130,35 +130,35 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,629 |
-| Forks | 332 |
-| Stars this month | 1,033 |
+| Stars | 1,638 |
+| Forks | 336 |
+| Stars this month | 977 |
 
 ---
 
-## 11. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
-
-Vercel's official collection of agent skills
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 33,066 |
-| Forks | 2,893 |
-| Stars this month | 1,580 |
-
----
-
-## 12. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+## 11. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 56,731 |
-| Forks | 8,384 |
-| Stars this month | 5,293 |
+| Stars | 56,948 |
+| Forks | 8,408 |
+| Stars this month | 5,422 |
+
+---
+
+## 12. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+
+Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 3,038 |
+| Forks | 292 |
+| Stars this month | 1,582 |
 
 ---
 
@@ -169,22 +169,22 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,010 |
-| Forks | 36,752 |
-| Stars this month | 1,375 |
+| Stars | 117,093 |
+| Forks | 36,775 |
+| Stars this month | 1,409 |
 
 ---
 
-## 14. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+## 14. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
 
-Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
+Vercel's official collection of agent skills
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,030 |
-| Forks | 291 |
-| Stars this month | 1,572 |
+| Stars | 33,121 |
+| Forks | 2,899 |
+| Stars this month | 1,585 |
 
 ---
 
@@ -195,34 +195,21 @@ Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,491 |
-| Forks | 6,898 |
-| Stars this month | 5,968 |
+| Stars | 69,589 |
+| Forks | 6,917 |
+| Stars this month | 5,823 |
 
 ---
 
-## 16. [hughhowey/neo](https://github.com/hughhowey/neo)
-
-A novel-writing tool created by a novelist.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 1,575 |
-| Forks | 216 |
-| Stars this month | 953 |
-
----
-
-## 17. [spicetify/cli](https://github.com/spicetify/cli)
+## 16. [spicetify/cli](https://github.com/spicetify/cli)
 
 Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 25,258 |
+| Stars | 25,280 |
 | Forks | 995 |
-| Stars this month | 684 |
+| Stars this month | 695 |
 
 ---

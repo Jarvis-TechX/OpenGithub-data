@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-27T04:58:01Z
-**Total Repositories:** 19
-**New Entries:** 4
+**Snapshot Time:** 2026-10-28T05:33:21Z
+**Total Repositories:** 21
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 38,370 |
-| Forks | 9,352 |
-| Stars this week | 417 |
+| Stars | 38,457 |
+| Forks | 9,362 |
+| Stars this week | 442 |
 
 ---
 
@@ -28,182 +28,195 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,702 |
-| Forks | 3,626 |
-| Stars this week | 229 |
+| Stars | 16,752 |
+| Forks | 3,631 |
+| Stars this week | 230 |
 
 ---
 
-## 3. [huginn/huginn](https://github.com/huginn/huginn)
-
-Create agents that monitor and act on your behalf. Your agents are standing by!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,154 |
-| Forks | 4,318 |
-| Stars this week | 89 |
-
----
-
-## 4. [ruby/ruby](https://github.com/ruby/ruby)
+## 3. [ruby/ruby](https://github.com/ruby/ruby)
 
 The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,796 |
-| Forks | 5,672 |
-| Stars this week | 39 |
+| Stars | 23,797 |
+| Forks | 5,673 |
+| Stars this week | 40 |
 
 ---
 
-## 5. [Homebrew/brew](https://github.com/Homebrew/brew)
+## 4. [Homebrew/brew](https://github.com/Homebrew/brew)
 
 🍺 The Package Manager for Everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,118 |
-| Forks | 11,400 |
-| Stars this week | 102 |
+| Stars | 50,132 |
+| Forks | 11,399 |
+| Stars this week | 108 |
 
 ---
 
-## 6. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+## 5. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 
 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,645 |
-| Forks | 13,946 |
-| Stars this week | 21 |
+| Stars | 15,644 |
+| Forks | 13,942 |
+| Stars this week | 18 |
 
 ---
 
-## 7. [github/explore](https://github.com/github/explore)
+## 6. [huginn/huginn](https://github.com/huginn/huginn)
 
-Community-curated topic and collection pages on GitHub
+Create agents that monitor and act on your behalf. Your agents are standing by!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,934 |
-| Forks | 14,662 |
-| Stars this week | 17 |
+| Stars | 50,160 |
+| Forks | 4,320 |
+| Stars this week | 100 |
 
 ---
 
-## 8. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+## 7. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 
 Metasploit Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,242 |
-| Forks | 14,996 |
-| Stars this week | 74 |
+| Stars | 39,253 |
+| Forks | 15,000 |
+| Stars this week | 75 |
 
 ---
 
-## 9. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+## 8. [github/explore](https://github.com/github/explore)
 
-🌇 A collection of links for free stock photography, video and Illustration websites
+Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,646 |
-| Forks | 828 |
-| Stars this week | 31 |
+| Stars | 4,937 |
+| Forks | 14,670 |
+| Stars this week | 19 |
 
 ---
 
-## 10. [forem/forem](https://github.com/forem/forem)
+## 9. [hashicorp/vagrant](https://github.com/hashicorp/vagrant) 🆕
 
-For empowering community 🌱
+Vagrant is a tool for building and distributing development environments.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,811 |
-| Forks | 4,194 |
-| Stars this week | 10 |
+| Stars | 27,214 |
+| Forks | 4,449 |
+| Stars this week | 11 |
 
 ---
 
-## 11. [basecamp/kamal](https://github.com/basecamp/kamal) 🆕
+## 10. [instructure/canvas-lms](https://github.com/instructure/canvas-lms) 🆕
 
-Deploy web apps anywhere.
+The open LMS by Instructure, Inc.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,689 |
-| Forks | 767 |
-| Stars this week | 32 |
+| Stars | 6,889 |
+| Forks | 3,054 |
+| Stars this week | 15 |
 
 ---
 
-## 12. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+## 11. [docusealco/docuseal](https://github.com/docusealco/docuseal) 🆕
 
-Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 12,353 |
-| Forks | 599 |
-| Stars this week | 35 |
+| Stars | 18,860 |
+| Forks | 1,914 |
+| Stars this week | 89 |
 
 ---
 
-## 13. [fastlane/fastlane](https://github.com/fastlane/fastlane)
+## 12. [fastlane/fastlane](https://github.com/fastlane/fastlane)
 
 🚀 The easiest way to automate building and releasing your iOS and Android apps
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 42,313 |
-| Forks | 6,047 |
-| Stars this week | 60 |
+| Stars | 42,318 |
+| Forks | 6,046 |
+| Stars this week | 56 |
 
 ---
 
-## 14. [theforeman/foreman](https://github.com/theforeman/foreman)
+## 13. [forem/forem](https://github.com/forem/forem)
 
-an application that automates the lifecycle of servers
+For empowering community 🌱
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,998 |
-| Forks | 1,061 |
-| Stars this week | 6 |
+| Stars | 22,812 |
+| Forks | 4,193 |
+| Stars this week | 11 |
 
 ---
 
-## 15. [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) 🆕
+## 14. [rails/rails](https://github.com/rails/rails) 🆕
+
+Ruby on Rails
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 58,857 |
+| Forks | 24,512 |
+| Stars this week | 56 |
+
+---
+
+## 15. [basecamp/kamal](https://github.com/basecamp/kamal)
+
+Deploy web apps anywhere.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 14,692 |
+| Forks | 767 |
+| Stars this week | 30 |
+
+---
+
+## 16. [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
 
 Next generation web scanner
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 6,921 |
+| Stars | 6,925 |
 | Forks | 1,018 |
-| Stars this week | 24 |
+| Stars this week | 26 |
 
 ---
 
-## 16. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 17. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -215,41 +228,54 @@ A collection of RBS for gems.
 
 ---
 
-## 17. [dependabot/demo](https://github.com/dependabot/demo) 🆕
+## 18. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) 🆕
 
-🤖 Fork me to try out Dependabot
+A database of vulnerable Ruby Gems
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 343 |
-| Forks | 5,055 |
-| Stars this week | 3 |
+| Stars | 1,077 |
+| Forks | 248 |
+| Stars this week | 2 |
 
 ---
 
-## 18. [jruby/jruby](https://github.com/jruby/jruby)
+## 19. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 
-JRuby, an implementation of Ruby on the JVM
+Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,923 |
-| Forks | 954 |
-| Stars this week | 1 |
+| Stars | 12,354 |
+| Forks | 600 |
+| Stars this week | 33 |
 
 ---
 
-## 19. [spree/spree](https://github.com/spree/spree) 🆕
+## 20. [mastodon/mastodon](https://github.com/mastodon/mastodon) 🆕
 
-Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
+Your self-hosted, globally interconnected microblogging community
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,779 |
-| Forks | 5,315 |
-| Stars this week | 18 |
+| Stars | 50,454 |
+| Forks | 7,525 |
+| Stars this week | 42 |
+
+---
+
+## 21. [jekyll/jekyll](https://github.com/jekyll/jekyll) 🆕
+
+🌐 Jekyll is a blog-aware static site generator in Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 51,738 |
+| Forks | 10,304 |
+| Stars this week | 35 |
 
 ---

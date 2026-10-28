@@ -1,9 +1,9 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-27T04:57:41Z
-**Total Repositories:** 19
-**New Entries:** 12
+**Snapshot Time:** 2026-10-28T05:33:03Z
+**Total Repositories:** 14
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
@@ -15,242 +15,175 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 64,975 |
-| Forks | 5,829 |
-| Stars today | 945 |
+| Stars | 65,090 |
+| Forks | 5,845 |
+| Stars today | 136 |
 
 ---
 
-## 2. [4jean/lav_sms](https://github.com/4jean/lav_sms) 🆕
-
-Laravel School Management System (LAVSMS)
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,137 |
-| Forks | 691 |
-| Stars today | 19 |
-
----
-
-## 3. [metadist/synaplan-nextcloud](https://github.com/metadist/synaplan-nextcloud)
-
-Synaplan AI integration into nextcloud for RAG powered discussions, translations and summaries. Run your own AI platform next to your nextcloud!
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 203 |
-| Forks | 18 |
-| Stars today | 24 |
-
----
-
-## 4. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr)
-
-Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 7,791 |
-| Forks | 3,591 |
-| Stars today | 9 |
-
----
-
-## 5. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) 🆕
-
-WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 3,492 |
-| Forks | 3,745 |
-| Stars today | 1 |
-
----
-
-## 6. [openemr/openemr](https://github.com/openemr/openemr) 🆕
-
-The most popular open source electronic health records and medical practice management solution.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,551 |
-| Forks | 3,105 |
-| Stars today | 3 |
-
----
-
-## 7. [MISP/MISP](https://github.com/MISP/MISP) 🆕
-
-MISP (core software) - Open Source Threat Intelligence and Sharing Platform
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 6,623 |
-| Forks | 1,660 |
-| Stars today | 1 |
-
----
-
-## 8. [symfony/symfony](https://github.com/symfony/symfony) 🆕
-
-The Symfony PHP framework
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 31,210 |
-| Forks | 9,922 |
-| Stars today | 13 |
-
----
-
-## 9. [laravel/framework](https://github.com/laravel/framework) 🆕
-
-Laravel is a web application framework with expressive, elegant syntax.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 34,986 |
-| Forks | 12,023 |
-| Stars today | 5 |
-
----
-
-## 10. [pterodactyl/panel](https://github.com/pterodactyl/panel) 🆕
-
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,423 |
-| Forks | 2,742 |
-| Stars today | 4 |
-
----
-
-## 11. [coollabsio/shoutrrr](https://github.com/coollabsio/shoutrrr) 🆕
-
-An open-source alternative to Buffer, Typefully, and Hootsuite. Write once and schedule everywhere.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 464 |
-| Forks | 66 |
-| Stars today | 5 |
-
----
-
-## 12. [matomo-org/matomo](https://github.com/matomo-org/matomo)
-
-Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 21,985 |
-| Forks | 2,923 |
-| Stars today | 2 |
-
----
-
-## 13. [nextcloud/server](https://github.com/nextcloud/server)
-
-☁️ Nextcloud server, a safe home for all your data
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 37,308 |
-| Forks | 5,310 |
-| Stars today | 17 |
-
----
-
-## 14. [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) 🆕
-
-Open Source PHP Framework (originally from EllisLab)
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,991 |
-| Forks | 2,003 |
-| Stars today | 1 |
-
----
-
-## 15. [akaunting/akaunting](https://github.com/akaunting/akaunting)
-
-Online Accounting Software
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,221 |
-| Forks | 3,005 |
-| Stars today | 7 |
-
----
-
-## 16. [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) 🆕
-
-SuiteCRM - Open source CRM for the world
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,814 |
-| Forks | 2,432 |
-| Stars today | 1 |
-
----
-
-## 17. [metadist/synaplan](https://github.com/metadist/synaplan)
+## 2. [metadist/synaplan](https://github.com/metadist/synaplan)
 
 Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 287 |
-| Forks | 37 |
-| Stars today | 23 |
+| Stars | 321 |
+| Forks | 42 |
+| Stars today | 26 |
 
 ---
 
-## 18. [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 🆕
+## 3. [symfony/symfony](https://github.com/symfony/symfony)
 
-🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+The Symfony PHP framework
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,186 |
-| Forks | 1,801 |
-| Stars today | 2 |
+| Stars | 31,211 |
+| Forks | 9,918 |
+| Stars today | 3 |
 
 ---
 
-## 19. [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) 🆕
+## 4. [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) 🆕
+
+Modern open-source time-tracking app
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 9,053 |
+| Forks | 524 |
+| Stars today | 13 |
+
+---
+
+## 5. [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 
 ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,473 |
-| Forks | 1,628 |
+| Stars | 9,475 |
+| Forks | 1,627 |
+
+---
+
+## 6. [glpi-project/glpi](https://github.com/glpi-project/glpi) 🆕
+
+GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 6,520 |
+| Forks | 1,845 |
+| Stars today | 7 |
+
+---
+
+## 7. [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) 🆕
+
+A pure PHP library for reading and writing spreadsheet files
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 14,003 |
+| Forks | 3,633 |
+| Stars today | 1 |
+
+---
+
+## 8. [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) 🆕
+
+The classic email sending library for PHP
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 22,336 |
+| Forks | 9,769 |
 | Stars today | 5 |
+
+---
+
+## 9. [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault) 🆕
+
+openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,035 |
+| Forks | 614 |
+| Stars today | 8 |
+
+---
+
+## 10. [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) 🆕
+
+Free and Open Source ERP software
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 12,124 |
+| Forks | 608 |
+| Stars today | 8 |
+
+---
+
+## 11. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) 🆕
+
+Free and open-source webshop solution for hostings
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 2,809 |
+| Forks | 560 |
+| Stars today | 5 |
+
+---
+
+## 12. [Qloapps/QloApps](https://github.com/Qloapps/QloApps) 🆕
+
+QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 14,451 |
+| Forks | 824 |
+| Stars today | 3 |
+
+---
+
+## 13. [livewire/livewire](https://github.com/livewire/livewire) 🆕
+
+A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 23,580 |
+| Forks | 1,761 |
+
+---
+
+## 14. [filamentphp/filament](https://github.com/filamentphp/filament) 🆕
+
+A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 32,354 |
+| Forks | 4,227 |
+| Stars today | 11 |
 
 ---

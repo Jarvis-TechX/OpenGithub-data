@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-27T04:58:36Z
-**Total Repositories:** 18
-**New Entries:** 4
-**Quality Score:** 97.78/100
+**Snapshot Time:** 2026-10-28T05:33:55Z
+**Total Repositories:** 19
+**New Entries:** 3
+**Quality Score:** 97.89/100
 
 ---
 
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,223 |
-| Forks | 1,630 |
-| Stars this month | 1,650 |
+| Stars | 21,295 |
+| Forks | 1,635 |
+| Stars this month | 1,738 |
 
 ---
 
@@ -28,9 +28,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,452 |
-| Forks | 1,605 |
-| Stars this month | 1,004 |
+| Stars | 15,482 |
+| Forks | 1,607 |
+| Stars this month | 1,005 |
 
 ---
 
@@ -41,9 +41,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,823 |
-| Forks | 3,786 |
-| Stars this month | 714 |
+| Stars | 26,840 |
+| Forks | 3,788 |
+| Stars this month | 721 |
 
 ---
 
@@ -54,9 +54,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,394 |
-| Forks | 5,723 |
-| Stars this month | 152 |
+| Stars | 18,395 |
+| Forks | 5,741 |
+| Stars this month | 150 |
 
 ---
 
@@ -67,102 +67,141 @@ A modern launcher for downloading, installing, and running apps from GitHub and 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,192 |
-| Forks | 81 |
-| Stars this month | 2,732 |
+| Stars | 3,279 |
+| Forks | 89 |
+| Stars this month | 2,808 |
 
 ---
 
-## 6. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
-
-PCL 社区版 由社区开发者维护与管理
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,938 |
-| Forks | 432 |
-| Stars this month | 635 |
-
----
-
-## 7. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,960 |
-| Forks | 248 |
-| Stars this month | 480 |
-
----
-
-## 8. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 6. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,497 |
-| Forks | 12,989 |
-| Stars this month | 110 |
+| Stars | 38,499 |
+| Forks | 12,983 |
+| Stars this month | 112 |
 
 ---
 
-## 9. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 7. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
 
-A Launcher that Downloads and Updates Applications from Github Releases
+PCL 社区版 由社区开发者维护与管理
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,994 |
-| Forks | 64 |
-| Stars this month | 378 |
+| Stars | 4,961 |
+| Forks | 438 |
+| Stars this month | 656 |
 
 ---
 
-## 10. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
+## 8. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,976 |
+| Forks | 250 |
+| Stars this month | 479 |
+
+---
+
+## 9. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
 
 Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,067 |
-| Forks | 405 |
-| Stars this month | 435 |
+| Stars | 3,070 |
+| Forks | 407 |
+| Stars this month | 439 |
 
 ---
 
-## 11. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) 🆕
+## 10. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
-Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,666 |
-| Forks | 3,093 |
-| Stars this month | 245 |
+| Stars | 2,014 |
+| Forks | 66 |
+| Stars this month | 398 |
 
 ---
 
-## 12. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+## 11. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+
+the subtitle editor :)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,753 |
+| Forks | 1,348 |
+| Stars this month | 436 |
+
+---
+
+## 12. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) 🆕
+
+📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 17,217 |
+| Forks | 1,272 |
+| Stars this month | 1,503 |
+
+---
+
+## 13. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
 
 B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,105 |
-| Forks | 1,925 |
-| Stars this month | 302 |
+| Stars | 9,110 |
+| Forks | 1,926 |
+| Stars this month | 293 |
 
 ---
 
-## 13. [stride3d/stride](https://github.com/stride3d/stride) 🆕
+## 14. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+
+Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 17,675 |
+| Forks | 3,095 |
+| Stars this month | 255 |
+
+---
+
+## 15. [2dust/v2rayN](https://github.com/2dust/v2rayN)
+
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 119,291 |
+| Forks | 16,190 |
+| Stars this month | 2,746 |
+
+---
+
+## 16. [stride3d/stride](https://github.com/stride3d/stride)
 
 Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
 
@@ -175,67 +214,41 @@ Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
 
 ---
 
-## 14. [ShareX/ShareX](https://github.com/ShareX/ShareX)
-
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 40,442 |
-| Forks | 4,003 |
-| Stars this month | 764 |
-
----
-
-## 15. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
-
-the subtitle editor :)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,740 |
-| Forks | 1,348 |
-| Stars this month | 430 |
-
----
-
-## 16. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
-
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 119,192 |
-| Forks | 16,178 |
-| Stars this month | 2,725 |
-
----
-
-## 17. [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) 🆕
+## 17. [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin)
 
 Unity plugin for third-party agent platforms
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 566 |
+| Stars | 574 |
 | Forks | 62 |
-| Stars this month | 212 |
+| Stars this month | 213 |
 
 ---
 
-## 18. [greenshot/greenshot](https://github.com/greenshot/greenshot)
+## 18. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) 🆕
 
-Greenshot for Windows - for more information look here:
+PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,213 |
-| Forks | 719 |
-| Stars this month | 93 |
+| Stars | 56,009 |
+| Forks | 8,520 |
+| Stars this month | 609 |
+
+---
+
+## 19. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
+
+Movie organizer/manager for usenet and torrent users.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,665 |
+| Forks | 1,245 |
+| Stars this month | 258 |
 
 ---

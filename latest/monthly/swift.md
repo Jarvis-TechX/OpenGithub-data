@@ -1,7 +1,7 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-27T04:58:37Z
+**Snapshot Time:** 2026-10-28T05:33:56Z
 **Total Repositories:** 17
 **New Entries:** 2
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Free and open-source macOS menu bar toolkit.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 30,150 |
-| Forks | 1,443 |
-| Stars this month | 8,811 |
+| Stars | 30,318 |
+| Forks | 1,452 |
+| Stars this month | 8,804 |
 
 ---
 
@@ -28,22 +28,22 @@ Telegram-iOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,355 |
-| Forks | 3,139 |
-| Stars this month | 381 |
+| Stars | 9,361 |
+| Forks | 3,145 |
+| Stars this month | 383 |
 
 ---
 
-## 3. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+## 3. [utmapp/UTM](https://github.com/utmapp/UTM)
 
-An an app that installs Sidestore on iOS 27, fully on-device
+Virtual machines for iOS and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,207 |
-| Forks | 101 |
-| Stars this month | 385 |
+| Stars | 36,574 |
+| Forks | 1,886 |
+| Stars this month | 983 |
 
 ---
 
@@ -54,61 +54,61 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,537 |
-| Forks | 2,586 |
-| Stars this month | 1,310 |
+| Stars | 28,563 |
+| Forks | 2,593 |
+| Stars this month | 1,324 |
 
 ---
 
-## 5. [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
-
-Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 3,209 |
-| Forks | 494 |
-| Stars this month | 314 |
-
----
-
-## 6. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
+## 5. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
 
 AltStore is an alternative app store for non-jailbroken iOS devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,776 |
-| Forks | 1,671 |
-| Stars this month | 355 |
+| Stars | 14,786 |
+| Forks | 1,673 |
+| Stars this month | 366 |
 
 ---
 
-## 7. [iina/iina](https://github.com/iina/iina)
+## 6. [iliyami/MacSai](https://github.com/iliyami/MacSai) 🆕
 
-The modern video player for macOS.
+Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 46,921 |
-| Forks | 2,984 |
-| Stars this month | 524 |
+| Stars | 2,001 |
+| Forks | 123 |
+| Stars this month | 393 |
 
 ---
 
-## 8. [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball)
+## 7. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
-Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.
+An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,938 |
-| Forks | 81 |
-| Stars this month | 854 |
+| Stars | 1,217 |
+| Forks | 102 |
+| Stars this month | 392 |
+
+---
+
+## 8. [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
+
+Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,220 |
+| Forks | 494 |
+| Stars this month | 316 |
 
 ---
 
@@ -119,39 +119,52 @@ Textream is a free macOS teleprompter app for streamers, interviewers, and prese
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,142 |
-| Forks | 292 |
-| Stars this month | 379 |
+| Stars | 4,151 |
+| Forks | 295 |
+| Stars this month | 387 |
 
 ---
 
-## 10. [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) 🆕
+## 10. [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball)
 
-Free Weather Forecast API for non-commercial use
+Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,537 |
-| Forks | 461 |
-| Stars this month | 302 |
+| Stars | 1,956 |
+| Forks | 82 |
+| Stars this month | 866 |
 
 ---
 
-## 11. [utmapp/UTM](https://github.com/utmapp/UTM)
+## 11. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
 
-Virtual machines for iOS and macOS
+Community fork of PlayCover
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,550 |
-| Forks | 1,885 |
-| Stars this month | 972 |
+| Stars | 12,027 |
+| Forks | 1,018 |
+| Stars this month | 245 |
 
 ---
 
-## 12. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
+## 12. [iina/iina](https://github.com/iina/iina)
+
+The modern video player for macOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 46,932 |
+| Forks | 2,986 |
+| Stars this month | 521 |
+
+---
+
+## 13. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
 
 AI coding assistant for Xcode
 
@@ -160,71 +173,58 @@ AI coding assistant for Xcode
 | Language | Swift |
 | Stars | 6,357 |
 | Forks | 2,074 |
-| Stars this month | 78 |
+| Stars this month | 79 |
 
 ---
 
-## 13. [xtool-org/xtool](https://github.com/xtool-org/xtool)
+## 14. [xtool-org/xtool](https://github.com/xtool-org/xtool)
 
 Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,835 |
-| Forks | 748 |
-| Stars this month | 8,346 |
+| Stars | 13,959 |
+| Forks | 758 |
+| Stars this month | 8,433 |
 
 ---
 
-## 14. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
+## 15. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
 
-Community fork of PlayCover
+The Swift Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,017 |
-| Forks | 1,018 |
-| Stars this month | 242 |
+| Stars | 70,521 |
+| Forks | 10,871 |
+| Stars this month | 180 |
 
 ---
 
-## 15. [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
-
-一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 15,091 |
-| Forks | 799 |
-| Stars this month | 360 |
-
----
-
-## 16. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) 🆕
-
-👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,724 |
-| Forks | 250 |
-| Stars this month | 484 |
-
----
-
-## 17. [openai/tart](https://github.com/openai/tart)
+## 16. [openai/tart](https://github.com/openai/tart)
 
 macOS and Linux VMs on Apple Silicon to use in CI and other automations
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,683 |
+| Stars | 7,695 |
 | Forks | 417 |
-| Stars this month | 809 |
+| Stars this month | 719 |
+
+---
+
+## 17. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use)
+
+👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,742 |
+| Forks | 250 |
+| Stars this month | 497 |
 
 ---

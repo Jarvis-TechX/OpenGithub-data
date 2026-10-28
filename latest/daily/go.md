@@ -1,203 +1,268 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-27T04:57:43Z
-**Total Repositories:** 15
-**New Entries:** 9
+**Snapshot Time:** 2026-10-28T05:33:04Z
+**Total Repositories:** 20
+**New Entries:** 17
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
+## 1. [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) 🆕
 
-Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 48,654 |
-| Forks | 12,519 |
-| Stars today | 82 |
-
----
-
-## 2. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
-
-Awesome list of 300+ agentic AI resources
+OpenTelemetry Collector
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,738 |
-| Forks | 712 |
-| Stars today | 28 |
+| Stars | 7,712 |
+| Forks | 2,320 |
+| Stars today | 11 |
 
 ---
 
-## 3. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+## 2. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 115,357 |
-| Forks | 6,653 |
-| Stars today | 277 |
+| Stars | 115,588 |
+| Forks | 6,668 |
+| Stars today | 275 |
 
 ---
 
-## 4. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
+## 3. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
 
 A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,111 |
-| Forks | 281 |
-| Stars today | 175 |
+| Stars | 6,167 |
+| Forks | 285 |
+| Stars today | 50 |
 
 ---
 
-## 5. [evcc-io/evcc](https://github.com/evcc-io/evcc) 🆕
+## 4. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 🆕
 
-smart charging ☀️🚘
+Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,426 |
-| Forks | 1,585 |
+| Stars | 56,697 |
+| Forks | 8,673 |
+| Stars today | 257 |
+
+---
+
+## 5. [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) 🆕
+
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 17,929 |
+| Forks | 1,787 |
 | Stars today | 5 |
 
 ---
 
-## 6. [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) 🆕
+## 6. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
 
-CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 32,587 |
-| Forks | 4,172 |
-| Stars today | 3 |
-
----
-
-## 7. [majd/ipatool](https://github.com/majd/ipatool) 🆕
-
-Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+Make humans and AI agents work as one team — open-source and self-hostable.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 12,009 |
-| Forks | 1,051 |
-| Stars today | 56 |
+| Stars | 54,035 |
+| Forks | 7,109 |
+| Stars today | 129 |
 
 ---
 
-## 8. [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
+## 7. [kopia/kopia](https://github.com/kopia/kopia) 🆕
+
+Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 14,508 |
+| Forks | 776 |
+| Stars today | 29 |
+
+---
+
+## 8. [moby/moby](https://github.com/moby/moby) 🆕
+
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 72,216 |
+| Forks | 19,245 |
+| Stars today | 10 |
+
+---
+
+## 9. [nats-io/nats-server](https://github.com/nats-io/nats-server) 🆕
+
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 20,945 |
+| Forks | 2,018 |
+| Stars today | 11 |
+
+---
+
+## 10. [wailsapp/wails](https://github.com/wailsapp/wails) 🆕
+
+Create beautiful applications using Go
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 36,775 |
+| Forks | 1,910 |
+| Stars today | 46 |
+
+---
+
+## 11. [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) 🆕
+
+Cloudflare Tunnel client
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 16,313 |
+| Forks | 1,502 |
+| Stars today | 44 |
+
+---
+
+## 12. [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
 
 git push no-mistakes
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,983 |
-| Forks | 936 |
-| Stars today | 24 |
+| Stars | 8,996 |
+| Forks | 939 |
+| Stars today | 13 |
 
 ---
 
-## 9. [gohugoio/hugo](https://github.com/gohugoio/hugo) 🆕
+## 13. [Tencent/WeKnora](https://github.com/Tencent/WeKnora) 🆕
 
-The world’s fastest framework for building websites.
+Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 90,255 |
-| Forks | 8,415 |
-| Stars today | 19 |
+| Stars | 35,701 |
+| Forks | 4,830 |
+| Stars today | 124 |
 
 ---
 
-## 10. [go-git/go-git](https://github.com/go-git/go-git) 🆕
+## 14. [encoredev/encore](https://github.com/encoredev/encore) 🆕
 
-A highly extensible Git implementation in pure Go.
+Infrastructure orchestration from local to your cloud
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,832 |
-| Forks | 1,073 |
+| Stars | 12,635 |
+| Forks | 651 |
+| Stars today | 21 |
 
 ---
 
-## 11. [golang/go](https://github.com/golang/go) 🆕
+## 15. [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) 🆕
 
-The Go programming language
+Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,628 |
-| Forks | 21,562 |
-| Stars today | 61 |
+| Stars | 8,067 |
+| Forks | 698 |
+| Stars today | 14 |
 
 ---
 
-## 12. [github/gh-aw](https://github.com/github/gh-aw)
+## 16. [glanceapp/glance](https://github.com/glanceapp/glance) 🆕
 
-GitHub Agentic Workflows
+A self-hosted dashboard that puts all your feeds in one place
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,477 |
-| Forks | 604 |
+| Stars | 37,795 |
+| Forks | 1,496 |
+| Stars today | 62 |
+
+---
+
+## 17. [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) 🆕
+
+OpenTelemetry Go API and SDK
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,584 |
+| Forks | 1,526 |
+
+---
+
+## 18. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) 🆕
+
+Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 48,697 |
+| Forks | 3,564 |
+| Stars today | 169 |
+
+---
+
+## 19. [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🆕
+
+MCP server for Grafana
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 3,617 |
+| Forks | 479 |
 | Stars today | 9 |
 
 ---
 
-## 13. [kedacore/keda](https://github.com/kedacore/keda) 🆕
+## 20. [klauspost/compress](https://github.com/klauspost/compress) 🆕
 
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+Optimized Go Compression Packages
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,674 |
-| Forks | 1,564 |
+| Stars | 5,706 |
+| Forks | 422 |
 | Stars today | 3 |
-
----
-
-## 14. [YouROK/TorrServer](https://github.com/YouROK/TorrServer) 🆕
-
-Torrent stream server
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 3,162 |
-| Forks | 376 |
-| Stars today | 7 |
-
----
-
-## 15. [benbjohnson/litestream](https://github.com/benbjohnson/litestream) 🆕
-
-Streaming replication for SQLite.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 14,545 |
-| Forks | 448 |
-| Stars today | 9 |
 
 ---

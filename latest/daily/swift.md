@@ -1,143 +1,118 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-27T04:57:53Z
+**Snapshot Time:** 2026-10-28T05:33:13Z
 **Total Repositories:** 14
-**New Entries:** 9
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
-
-bluetooth mesh chat, IRC vibes
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 36,883 |
-| Forks | 5,869 |
-| Stars today | 43 |
-
----
-
-## 2. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) 🆕
-
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 28,537 |
-| Forks | 2,586 |
-| Stars today | 92 |
-
----
-
-## 3. [pauljoda/Crest](https://github.com/pauljoda/Crest)
+## 1. [pauljoda/Crest](https://github.com/pauljoda/Crest)
 
 An open source browser for Mac, iPhone, and iPad.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 872 |
-| Forks | 73 |
-| Stars today | 69 |
+| Stars | 924 |
+| Forks | 80 |
+| Stars today | 54 |
 
 ---
 
-## 4. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) 🆕
-
-macOS video editor built for AI
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 14,635 |
-| Forks | 1,150 |
-| Stars today | 1 |
-
----
-
-## 5. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
-
-Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 13,835 |
-| Forks | 748 |
-| Stars today | 115 |
-
----
-
-## 6. [LoopKit/Loop](https://github.com/LoopKit/Loop) 🆕
-
-An automated insulin delivery app for iOS, built on LoopKit
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,749 |
-| Forks | 1,448 |
-
----
-
-## 7. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+## 2. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 117,129 |
-| Forks | 9,735 |
-| Stars today | 110 |
+| Stars | 117,211 |
+| Forks | 9,772 |
+| Stars today | 93 |
 
 ---
 
-## 8. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) 🆕
+## 3. [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
 
-Manga reading app for iOS, iPadOS, and macOS
+Apple TV Aerial Screensaver for Mac
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,669 |
-| Forks | 316 |
-| Stars today | 6 |
+| Stars | 21,132 |
+| Forks | 1,043 |
+| Stars today | 18 |
 
 ---
 
-## 9. [slopus/happy](https://github.com/slopus/happy) 🆕
+## 4. [zachlatta/freeflow](https://github.com/zachlatta/freeflow)
 
-Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
+Free & fast alternative to Wispr Flow
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 24,337 |
-| Forks | 2,091 |
-| Stars today | 22 |
+| Stars | 2,992 |
+| Forks | 307 |
+| Stars today | 10 |
 
 ---
 
-## 10. [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) 🆕
+## 5. [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll)
 
 Dynamic Island for macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,072 |
-| Forks | 353 |
-| Stars today | 17 |
+| Stars | 5,080 |
+| Forks | 355 |
+| Stars today | 18 |
 
 ---
 
-## 11. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
+## 6. [swiftlang/swift-syntax](https://github.com/swiftlang/swift-syntax) 🆕
+
+A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,714 |
+| Forks | 565 |
+| Stars today | 1 |
+
+---
+
+## 7. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
+
+The Swift Programming Language
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 70,521 |
+| Forks | 10,871 |
+| Stars today | 3 |
+
+---
+
+## 8. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+
+Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 28,563 |
+| Forks | 2,593 |
+| Stars today | 31 |
+
+---
+
+## 9. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
 
 AI coding assistant for Xcode
 
@@ -146,45 +121,70 @@ AI coding assistant for Xcode
 | Language | Swift |
 | Stars | 6,357 |
 | Forks | 2,074 |
-| Stars today | 4 |
-
----
-
-## 12. [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac) 🆕
-
-Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7)
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 294 |
-| Forks | 26 |
 | Stars today | 1 |
 
 ---
 
-## 13. [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
+## 10. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 
-Apple TV Aerial Screensaver for Mac
+bluetooth mesh chat, IRC vibes
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 21,111 |
-| Forks | 1,043 |
-| Stars today | 33 |
+| Stars | 36,946 |
+| Forks | 5,878 |
+| Stars today | 53 |
 
 ---
 
-## 14. [zachlatta/freeflow](https://github.com/zachlatta/freeflow)
+## 11. [apple/swift-collections](https://github.com/apple/swift-collections) 🆕
 
-Free & fast alternative to Wispr Flow
+Commonly used data structures for Swift
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,987 |
-| Forks | 305 |
-| Stars today | 11 |
+| Stars | 4,527 |
+| Forks | 426 |
+
+---
+
+## 12. [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) 🆕
+
+The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,135 |
+| Forks | 432 |
+| Stars today | 1 |
+
+---
+
+## 13. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
+
+Telegram-iOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,361 |
+| Forks | 3,145 |
+| Stars today | 5 |
+
+---
+
+## 14. [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) 🆕
+
+FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,908 |
+| Forks | 387 |
+| Stars today | 12 |
 
 ---

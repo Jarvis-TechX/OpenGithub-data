@@ -1,165 +1,137 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-27T04:57:45Z
-**Total Repositories:** 12
-**New Entries:** 11
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-10-28T05:33:07Z
+**Total Repositories:** 10
+**New Entries:** 7
+**Quality Score:** 96.00/100
 
 ---
 
-## 1. [hashcat/hashcat](https://github.com/hashcat/hashcat) 🆕
+## 1. [hashcat/hashcat](https://github.com/hashcat/hashcat)
 
 World's fastest and most advanced password recovery utility
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 27,146 |
-| Forks | 3,594 |
-| Stars today | 78 |
+| Stars | 27,161 |
+| Forks | 3,599 |
+| Stars today | 28 |
 
 ---
 
-## 2. [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) 🆕
+## 2. [redis/redis](https://github.com/redis/redis) 🆕
 
-YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 10,632 |
-| Forks | 1,396 |
+| Stars | 77,140 |
+| Forks | 24,943 |
+| Stars today | 26 |
+
+---
+
+## 3. [snesrev/zelda3](https://github.com/snesrev/zelda3) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 4,928 |
+| Forks | 462 |
 | Stars today | 4 |
 
 ---
 
-## 3. [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) 🆕
+## 4. [git/git](https://github.com/git/git) 🆕
 
-Open-source keyboard firmware for Atmel AVR and Arm USB families
+Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 20,783 |
-| Forks | 44,385 |
-| Stars today | 4 |
+| Stars | 64,058 |
+| Forks | 28,639 |
+| Stars today | 31 |
 
 ---
 
-## 4. [reactos/reactos](https://github.com/reactos/reactos) 🆕
+## 5. [martanne/vis](https://github.com/martanne/vis) 🆕
 
-A free Windows-compatible Operating System
+A vi-like editor based on Plan 9's structural regular expressions
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 18,369 |
-| Forks | 2,299 |
+| Stars | 5,224 |
+| Forks | 303 |
+| Stars today | 6 |
+
+---
+
+## 6. [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) 🆕
+
+Unlock vGPU functionality for consumer grade GPUs.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 5,368 |
+| Forks | 478 |
+| Stars today | 12 |
+
+---
+
+## 7. [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) 🆕
+
+Disk encryption with strong security based on TrueCrypt
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 11,985 |
+| Forks | 1,381 |
+| Stars today | 23 |
+
+---
+
+## 8. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) 🆕
+
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,930 |
+| Forks | 10,285 |
 | Stars today | 15 |
 
 ---
 
-## 5. [libretro/RetroArch](https://github.com/libretro/RetroArch) 🆕
-
-Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 14,451 |
-| Forks | 2,323 |
-| Stars today | 22 |
-
----
-
-## 6. [curl/curl](https://github.com/curl/curl) 🆕
-
-A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 43,291 |
-| Forks | 7,461 |
-| Stars today | 32 |
-
----
-
-## 7. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) 🆕
-
-ehviewer，用爱发电，快乐前行
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 28,292 |
-| Forks | 753 |
-| Stars today | 63 |
-
----
-
-## 8. [JustVugg/colibri](https://github.com/JustVugg/colibri) 🆕
-
-Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 44,089 |
-| Forks | 5,012 |
-| Stars today | 210 |
-
----
-
-## 9. [radareorg/radare2](https://github.com/radareorg/radare2) 🆕
+## 9. [radareorg/radare2](https://github.com/radareorg/radare2)
 
 UNIX-like reverse engineering framework and command-line toolset
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 25,166 |
-| Forks | 3,383 |
-| Stars today | 8 |
+| Stars | 25,186 |
+| Forks | 3,385 |
+| Stars today | 15 |
 
 ---
 
-## 10. [fifthBro/mh2p-cluster](https://github.com/fifthBro/mh2p-cluster) 🆕
+## 10. [JustVugg/colibri](https://github.com/JustVugg/colibri)
 
-Bridge Android Auto and CarPlay navigation from Porsche PCM5 / MH2P to instrument cluster displays.
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 120 |
-| Forks | 21 |
-| Stars today | 5 |
-
----
-
-## 11. [microsoft/PowerToys](https://github.com/microsoft/PowerToys) 🆕
-
-Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 140,009 |
-| Forks | 8,645 |
-| Stars today | 89 |
-
----
-
-## 12. [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash)
-
-Extremely fast non-cryptographic hash algorithm
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 11,374 |
-| Forks | 941 |
-| Stars today | 4 |
+| Stars | 44,408 |
+| Forks | 5,048 |
+| Stars today | 163 |
 
 ---

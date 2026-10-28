@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-27T04:57:51Z
-**Total Repositories:** 17
-**New Entries:** 12
+**Snapshot Time:** 2026-10-28T05:33:12Z
+**Total Repositories:** 14
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
@@ -15,215 +15,177 @@
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,051 |
-| Forks | 1,260 |
-| Stars today | 226 |
+| Stars | 17,217 |
+| Forks | 1,272 |
+| Stars today | 188 |
 
 ---
 
-## 2. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) 🆕
+## 2. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
 
-PowerShell for every system!
+OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,001 |
-| Forks | 8,520 |
-| Stars today | 30 |
+| Stars | 32,640 |
+| Forks | 2,220 |
+| Stars today | 51 |
 
 ---
 
-## 3. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) 🆕
+## 3. [LorisYounger/VPet](https://github.com/LorisYounger/VPet) 🆕
 
-Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,858 |
-| Forks | 2,048 |
-| Stars today | 23 |
-
----
-
-## 4. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) 🆕
-
-A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,192 |
-| Forks | 81 |
-| Stars today | 122 |
-
----
-
-## 5. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-
-The Free Software Media System - Server Backend & API
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 58,661 |
-| Forks | 5,719 |
-| Stars today | 56 |
-
----
-
-## 6. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) 🆕
-
-Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,666 |
-| Forks | 3,093 |
+| Stars | 7,069 |
+| Forks | 706 |
 | Stars today | 14 |
 
 ---
 
-## 7. [files-community/Files](https://github.com/files-community/Files) 🆕
+## 4. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
 
-A modern file manager that helps users organize their files and folders.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 46,236 |
-| Forks | 2,988 |
-| Stars today | 23 |
-
----
-
-## 8. [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled) 🆕
-
-Wiicompiled
+Windows/macOS/Linux GUI client for GIT users
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,286 |
-| Forks | 118 |
-| Stars today | 14 |
+| Stars | 6,264 |
+| Forks | 569 |
+| Stars today | 13 |
 
 ---
 
-## 9. [Facepunch/sbox-public](https://github.com/Facepunch/sbox-public) 🆕
+## 5. [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) 🆕
 
-s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
+Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,503 |
-| Forks | 692 |
-| Stars today | 1 |
+| Stars | 31,725 |
+| Forks | 2,869 |
+| Stars today | 5 |
 
 ---
 
-## 10. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
-
-Movie organizer/manager for usenet and torrent users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,657 |
-| Forks | 1,245 |
-| Stars today | 11 |
-
----
-
-## 11. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
-
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 119,192 |
-| Forks | 16,178 |
-| Stars today | 93 |
-
----
-
-## 12. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 6. [dotnet/runtime](https://github.com/dotnet/runtime)
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,394 |
-| Forks | 5,723 |
-| Stars today | 5 |
+| Stars | 18,395 |
+| Forks | 5,741 |
+| Stars today | 4 |
 
 ---
 
-## 13. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+## 7. [dotnet/skills](https://github.com/dotnet/skills) 🆕
 
-WinUI app for building smaller, customized Windows 11 images.
+Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,223 |
-| Forks | 1,630 |
-| Stars today | 70 |
+| Stars | 5,752 |
+| Forks | 453 |
+| Stars today | 13 |
 
 ---
 
-## 14. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
+## 8. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
-Advanced UX and interoperability extension for Wand (WeMod) app
+PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 33,077 |
-| Forks | 85,508 |
-| Stars today | 107 |
+| Stars | 56,009 |
+| Forks | 8,520 |
+| Stars today | 22 |
 
 ---
 
-## 15. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 🆕
+## 9. [unoplatform/uno](https://github.com/unoplatform/uno) 🆕
 
-the subtitle editor :)
+Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills built for modern .NET workflows. 200M+ NuGet downloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,740 |
-| Forks | 1,348 |
-| Stars today | 21 |
+| Stars | 10,092 |
+| Forks | 917 |
+| Stars today | 3 |
 
 ---
 
-## 16. [cyanfish/naps2](https://github.com/cyanfish/naps2) 🆕
+## 10. [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) 🆕
 
-Scan documents to PDF and more, as simply as possible.
+This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,700 |
-| Forks | 476 |
-| Stars today | 10 |
+| Stars | 6,075 |
+| Forks | 5,216 |
+| Stars today | 1 |
 
 ---
 
-## 17. [microsoft/calculator](https://github.com/microsoft/calculator) 🆕
+## 11. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🆕
 
-Windows Calculator: A simple yet powerful calculator that ships with Windows
+Integrate cutting-edge LLM technology quickly and easily into your apps
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 31,081 |
-| Forks | 5,824 |
+| Stars | 28,709 |
+| Forks | 4,840 |
+| Stars today | 13 |
+
+---
+
+## 12. [actions/runner](https://github.com/actions/runner) 🆕
+
+The Runner for GitHub Actions 🚀
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,363 |
+| Forks | 1,468 |
+| Stars today | 3 |
+
+---
+
+## 13. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) 🆕
+
+Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,410 |
+| Forks | 2,963 |
+| Stars today | 2 |
+
+---
+
+## 14. [ppy/osu](https://github.com/ppy/osu) 🆕
+
+rhythm is just a *click* away!
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 19,337 |
+| Forks | 2,861 |
+| Stars today | 4 |
 
 ---

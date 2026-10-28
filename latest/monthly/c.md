@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-27T04:58:29Z
-**Total Repositories:** 18
-**New Entries:** 0
-**Quality Score:** 95.56/100
+**Snapshot Time:** 2026-10-28T05:33:48Z
+**Total Repositories:** 16
+**New Entries:** 1
+**Quality Score:** 97.50/100
 
 ---
 
@@ -15,9 +15,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,686 |
-| Forks | 8,428 |
-| Stars this month | 1,369 |
+| Stars | 41,696 |
+| Forks | 8,454 |
+| Stars this month | 1,374 |
 
 ---
 
@@ -28,9 +28,9 @@ Display and control your Android device
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 153,243 |
-| Forks | 14,061 |
-| Stars this month | 3,262 |
+| Stars | 153,343 |
+| Forks | 14,074 |
+| Stars this month | 3,297 |
 
 ---
 
@@ -41,9 +41,9 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,865 |
-| Forks | 356 |
-| Stars this month | 2,243 |
+| Stars | 2,911 |
+| Forks | 364 |
+| Stars this month | 2,179 |
 
 ---
 
@@ -54,9 +54,9 @@ A native, user-mode, multi-process, graphical debugger.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 8,680 |
-| Forks | 431 |
-| Stars this month | 1,171 |
+| Stars | 8,694 |
+| Forks | 432 |
+| Stars this month | 1,189 |
 
 ---
 
@@ -67,35 +67,35 @@ Xbox 360 Recompilation Runtime and Toolkit
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,182 |
-| Forks | 240 |
+| Stars | 1,187 |
+| Forks | 243 |
 | Stars this month | 283 |
 
 ---
 
-## 6. [matz/spinel](https://github.com/matz/spinel)
-
-Ruby AOT compiler
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 2,284 |
-| Forks | 166 |
-| Stars this month | 337 |
-
----
-
-## 7. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+## 6. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 
 An advanced Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,630 |
-| Forks | 1,228 |
-| Stars this month | 362 |
+| Stars | 4,635 |
+| Forks | 1,233 |
+| Stars this month | 363 |
+
+---
+
+## 7. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+
+OBS Studio - Free and open source software for live streaming and screen recording
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 78,418 |
+| Forks | 10,916 |
+| Stars this month | 1,860 |
 
 ---
 
@@ -106,48 +106,48 @@ ehviewer，用爱发电，快乐前行
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,292 |
-| Forks | 753 |
-| Stars this month | 1,264 |
+| Stars | 28,325 |
+| Forks | 755 |
+| Stars this month | 1,278 |
 
 ---
 
-## 9. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-
-OBS Studio - Free and open source software for live streaming and screen recording
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 78,301 |
-| Forks | 10,888 |
-| Stars this month | 1,810 |
-
----
-
-## 10. [redis/redis](https://github.com/redis/redis)
-
-For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 77,130 |
-| Forks | 24,925 |
-| Stars this month | 1,048 |
-
----
-
-## 11. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+## 9. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 
 A new bootable USB solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 80,373 |
-| Forks | 5,010 |
-| Stars this month | 960 |
+| Stars | 80,406 |
+| Forks | 5,013 |
+| Stars this month | 969 |
+
+---
+
+## 10. [systemd/systemd](https://github.com/systemd/systemd)
+
+The systemd System and Service Manager
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,953 |
+| Forks | 4,788 |
+| Stars this month | 230 |
+
+---
+
+## 11. [redis/redis](https://github.com/redis/redis)
+
+For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 77,140 |
+| Forks | 24,943 |
+| Stars this month | 1,051 |
 
 ---
 
@@ -158,9 +158,9 @@ A simple and easy-to-use library to enjoy videogames programming
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 35,433 |
-| Forks | 3,358 |
-| Stars this month | 690 |
+| Stars | 35,453 |
+| Forks | 3,360 |
+| Stars this month | 691 |
 
 ---
 
@@ -171,69 +171,45 @@ GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,806 |
-| Forks | 2,244 |
-| Stars this month | 203 |
+| Stars | 28,809 |
+| Forks | 2,241 |
+| Stars this month | 202 |
 
 ---
 
-## 14. [systemd/systemd](https://github.com/systemd/systemd)
-
-The systemd System and Service Manager
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,947 |
-| Forks | 4,786 |
-| Stars this month | 226 |
-
----
-
-## 15. [openssl/openssl](https://github.com/openssl/openssl)
+## 14. [openssl/openssl](https://github.com/openssl/openssl)
 
 General purpose TLS and crypto library
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,090 |
-| Forks | 11,551 |
-| Stars this month | 389 |
+| Stars | 31,100 |
+| Forks | 11,558 |
+| Stars this month | 405 |
 
 ---
 
-## 16. [hathach/tinyusb](https://github.com/hathach/tinyusb)
+## 15. [coop-deluxe/sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) 🆕
 
-An open source cross-platform USB stack for embedded system
+An official continuation ofhttps://github.com/djoslin0/sm64ex-coopon sm64coopdx for the enhancements and progress it already has.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,240 |
-| Forks | 1,565 |
-| Stars this month | 122 |
+| Stars | 1,494 |
+| Forks | 375 |
+| Stars this month | 121 |
 
 ---
 
-## 17. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
+## 16. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 824 |
-| Forks | 64 |
-| Stars this month | 363 |
-
----
-
-## 18. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,771 |
-| Forks | 955 |
-| Stars this month | 311 |
+| Stars | 832 |
+| Forks | 65 |
+| Stars this month | 371 |
 
 ---

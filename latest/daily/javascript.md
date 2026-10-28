@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-27T04:57:37Z
-**Total Repositories:** 11
-**New Entries:** 7
+**Snapshot Time:** 2026-10-28T05:32:59Z
+**Total Repositories:** 14
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
@@ -15,138 +15,177 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 290,003 |
-| Forks | 42,978 |
-| Stars today | 896 |
+| Stars | 291,063 |
+| Forks | 43,091 |
+| Stars today | 1,165 |
 
 ---
 
-## 2. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+## 2. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) 🆕
 
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 48,800 |
-| Forks | 3,042 |
-| Stars today | 1,860 |
+| Stars | 33,385 |
+| Forks | 2,342 |
+| Stars today | 3,209 |
 
 ---
 
-## 3. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 🆕
+## 3. [tt-a1i/archify](https://github.com/tt-a1i/archify) 🆕
+
+Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 90,593 |
+| Forks | 6,150 |
+| Stars today | 659 |
+
+---
+
+## 4. [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) 🆕
+
+DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 11,325 |
+| Forks | 2,395 |
+| Stars today | 1,201 |
+
+---
+
+## 5. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🆕
+
+🎆Interactive Online Platform that Visualizes Algorithms from Code
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 49,216 |
+| Forks | 7,635 |
+| Stars today | 78 |
+
+---
+
+## 6. [hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia) 🆕
+
+视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 1,138 |
+| Forks | 155 |
+| Stars today | 20 |
+
+---
+
+## 7. [processing/p5.js](https://github.com/processing/p5.js) 🆕
+
+p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0?http://beta.p5js.org
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 24,246 |
+| Forks | 3,885 |
+| Stars today | 40 |
+
+---
+
+## 8. [juliangarnier/anime](https://github.com/juliangarnier/anime) 🆕
+
+JavaScript animation engine
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 73,968 |
+| Forks | 5,010 |
+| Stars today | 64 |
+
+---
+
+## 9. [byoungd/up](https://github.com/byoungd/up) 🆕
+
+韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 69,589 |
+| Forks | 6,917 |
+| Stars today | 93 |
+
+---
+
+## 10. [mrdoob/three.js](https://github.com/mrdoob/three.js) 🆕
+
+JavaScript 3D Library.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 117,093 |
+| Forks | 36,775 |
+| Stars today | 82 |
+
+---
+
+## 11. [QCYTSN/dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu) 🆕
+
+Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 529 |
+| Forks | 46 |
+| Stars today | 20 |
+
+---
+
+## 12. [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 🆕
+
+The iconic SVG, font, and CSS toolkit
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 77,002 |
+| Forks | 12,156 |
+| Stars today | 5 |
+
+---
+
+## 13. [github/awesome-copilot](https://github.com/github/awesome-copilot) 🆕
+
+Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 40,479 |
+| Forks | 5,225 |
+| Stars today | 37 |
+
+---
+
+## 14. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 110,863 |
-| Forks | 11,593 |
-| Stars today | 326 |
-
----
-
-## 4. [is-a-dev/register](https://github.com/is-a-dev/register)
-
-Grab your own sweet-looking '.is-a.dev' subdomain.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 11,649 |
-| Forks | 33,596 |
-| Stars today | 7 |
-
----
-
-## 5. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) 🆕
-
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 60,471 |
-| Forks | 11,798 |
-| Stars today | 400 |
-
----
-
-## 6. [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) 🆕
-
-通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 2,635 |
-| Forks | 263 |
-| Stars today | 109 |
-
----
-
-## 7. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) 🆕
-
-Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 10,068 |
-| Forks | 1,292 |
-| Stars today | 74 |
-
----
-
-## 8. [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) 🆕
-
-🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 4,735 |
-| Forks | 1,516 |
-| Stars today | 51 |
-
----
-
-## 9. [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi)
-
-One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid. No tracking, MIT.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 2,049 |
-| Forks | 189 |
-| Stars today | 49 |
-
----
-
-## 10. [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) 🆕
-
-An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 10,064 |
-| Forks | 867 |
-| Stars today | 86 |
-
----
-
-## 11. [babalae/bettergi-scripts-list](https://github.com/babalae/bettergi-scripts-list) 🆕
-
-BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 660 |
-| Forks | 475 |
-| Stars today | 20 |
+| Stars | 111,226 |
+| Forks | 11,638 |
+| Stars today | 346 |
 
 ---

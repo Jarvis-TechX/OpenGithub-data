@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-27T04:58:05Z
-**Total Repositories:** 17
-**New Entries:** 3
+**Snapshot Time:** 2026-10-28T05:33:25Z
+**Total Repositories:** 16
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 13,866 |
-| Forks | 986 |
-| Stars this week | 2,838 |
+| Stars | 14,135 |
+| Forks | 1,007 |
+| Stars this week | 2,239 |
 
 ---
 
 ## 2. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
-The design language that makes your AI harness better at design.
+The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 89,430 |
-| Forks | 5,323 |
-| Stars this week | 5,863 |
+| Stars | 90,886 |
+| Forks | 5,388 |
+| Stars this week | 6,713 |
 
 ---
 
@@ -41,100 +41,100 @@ A Tiny biped duck robot 🦆
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,508 |
-| Forks | 1,554 |
-| Stars this week | 2,666 |
+| Stars | 12,804 |
+| Forks | 1,582 |
+| Stars this week | 3,114 |
 
 ---
 
 ## 4. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
-Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
+AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,891 |
-| Forks | 1,182 |
-| Stars this week | 8,261 |
+| Stars | 17,169 |
+| Forks | 1,252 |
+| Stars this week | 5,091 |
 
 ---
 
-## 5. [oven-sh/bun](https://github.com/oven-sh/bun)
-
-Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 96,433 |
-| Forks | 5,164 |
-| Stars this week | 210 |
-
----
-
-## 6. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
+## 5. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
 The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,710 |
-| Forks | 587 |
-| Stars this week | 435 |
+| Stars | 6,741 |
+| Forks | 588 |
+| Stars this week | 441 |
 
 ---
 
-## 7. [jub0t/Concat](https://github.com/jub0t/Concat)
+## 6. [oven-sh/bun](https://github.com/oven-sh/bun)
 
-The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,818 |
-| Forks | 1,451 |
-| Stars this week | 2,376 |
+| Stars | 96,444 |
+| Forks | 5,183 |
+| Stars this week | 213 |
 
 ---
 
-## 8. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+## 7. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
 
 OpenShell is the safe, private runtime for autonomous AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 20,120 |
-| Forks | 1,985 |
-| Stars this week | 3,405 |
+| Stars | 20,345 |
+| Forks | 2,001 |
+| Stars this week | 3,483 |
 
 ---
 
-## 9. [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) 🆕
+## 8. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) 🆕
+
+Next Generation Agentic Proxy for AI Agents and MCP servers
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 5,691 |
+| Forks | 1,005 |
+| Stars this week | 261 |
+
+---
+
+## 9. [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+
+Open source Loom alternative. Beautiful, shareable screen recordings.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 23,965 |
+| Forks | 2,181 |
+| Stars this week | 471 |
+
+---
+
+## 10. [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
 Production-grade Rust-native trading engine with deterministic event-driven architecture
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 30,911 |
-| Forks | 4,164 |
-| Stars this week | 573 |
-
----
-
-## 10. [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk)
-
-Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 4,867 |
-| Forks | 331 |
-| Stars this week | 546 |
+| Stars | 30,967 |
+| Forks | 4,172 |
+| Stars this week | 598 |
 
 ---
 
@@ -145,9 +145,9 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,969 |
-| Forks | 484 |
-| Stars this week | 216 |
+| Stars | 5,149 |
+| Forks | 505 |
+| Stars this week | 346 |
 
 ---
 
@@ -158,73 +158,60 @@ Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,633 |
-| Forks | 257 |
-| Stars this week | 109 |
+| Stars | 3,652 |
+| Forks | 261 |
+| Stars this week | 116 |
 
 ---
 
-## 13. [oxc-project/oxc](https://github.com/oxc-project/oxc) 🆕
+## 13. [harry0703/MangoDisk](https://github.com/harry0703/MangoDisk)
 
-⚓ A collection of high-performance JavaScript tools.
+Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 23,247 |
-| Forks | 1,409 |
-| Stars this week | 131 |
+| Stars | 4,930 |
+| Forks | 338 |
+| Stars this week | 542 |
 
 ---
 
-## 14. [CapSoftware/Cap](https://github.com/CapSoftware/Cap) 🆕
-
-Open source Loom alternative. Beautiful, shareable screen recordings.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 23,850 |
-| Forks | 2,171 |
-| Stars this week | 414 |
-
----
-
-## 15. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+## 14. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
 
 Object-storage native graph database with branching and typed ontology
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,782 |
+| Stars | 1,790 |
 | Forks | 250 |
-| Stars this week | 449 |
+| Stars this week | 269 |
 
 ---
 
-## 16. [redlib-org/redlib](https://github.com/redlib-org/redlib)
+## 15. [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) 🆕
 
-Private front-end for Reddit
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,935 |
-| Forks | 310 |
-| Stars this week | 88 |
+| Stars | 15,430 |
+| Forks | 1,023 |
+| Stars this week | 222 |
 
 ---
 
-## 17. [Automattic/harper](https://github.com/Automattic/harper)
+## 16. [jub0t/Concat](https://github.com/jub0t/Concat)
 
-Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 17,153 |
-| Forks | 767 |
-| Stars this week | 408 |
+| Stars | 12,164 |
+| Forks | 1,494 |
+| Stars this week | 2,213 |
 
 ---
