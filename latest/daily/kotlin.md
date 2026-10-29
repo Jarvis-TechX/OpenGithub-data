@@ -1,152 +1,152 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-28T05:33:10Z
+**Snapshot Time:** 2026-10-29T05:41:09Z
 **Total Repositories:** 11
-**New Entries:** 7
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [Lelonio/Square](https://github.com/Lelonio/Square)
+## 1. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music) 🆕
 
-Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
+A modern sleek music player.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 430 |
-| Forks | 42 |
-| Stars today | 15 |
+| Stars | 313 |
+| Forks | 22 |
+| Stars today | 40 |
 
 ---
 
-## 2. [subhra74/xdm](https://github.com/subhra74/xdm)
+## 2. [damontecres/Wholphin](https://github.com/damontecres/Wholphin) 🆕
 
-Fast, reliable download accelerator and video downloader since 2013
+An OSS Android TV client for Jellyfin
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,124 |
-| Forks | 1,205 |
-| Stars today | 22 |
+| Stars | 3,183 |
+| Forks | 209 |
+| Stars today | 8 |
 
 ---
 
-## 3. [aquamarine5/ChaoxingSignFaker](https://github.com/aquamarine5/ChaoxingSignFaker) 🆕
+## 3. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
 
-伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsifying the signing activity of Chaoxing, supporting slide captcha and signing out, and location-signing by custom position, selecting a picture from gallery for photo-signing and all types. Also supported signing for infinite accounts in only one device
+The Magic Mask for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 882 |
-| Forks | 67 |
-| Stars today | 11 |
+| Stars | 63,571 |
+| Forks | 19,079 |
+| Stars today | 38 |
 
 ---
 
-## 4. [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv)
+## 4. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) 🆕
 
-Android TV Client for Jellyfin
+Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,667 |
-| Forks | 1,035 |
+| Stars | 2,262 |
+| Forks | 117 |
+| Stars today | 53 |
+
+---
+
+## 5. [carlelieser/shizzi](https://github.com/carlelieser/shizzi) 🆕
+
+Rootless wifi-tethering bypass for Android with Shizuku.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 227 |
+| Forks | 23 |
+| Stars today | 1 |
+
+---
+
+## 6. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland) 🆕
+
+Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 343 |
+| Forks | 51 |
 | Stars today | 6 |
 
 ---
 
-## 5. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 32,289 |
-| Forks | 3,459 |
-| Stars today | 57 |
-
----
-
-## 6. [nextcloud/android](https://github.com/nextcloud/android) 🆕
-
-📱 Nextcloud Android app
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 5,652 |
-| Forks | 2,049 |
-| Stars today | 3 |
-
----
-
-## 7. [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS)
-
-Opensource automated insulin delivery system (closed loop)
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,231 |
-| Forks | 7,350 |
-| Stars today | 3 |
-
----
-
-## 8. [jieapi/AiCode](https://github.com/jieapi/AiCode) 🆕
-
-在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 339 |
-| Forks | 60 |
-| Stars today | 3 |
-
----
-
-## 9. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
+## 7. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,533 |
-| Forks | 2,080 |
+| Stars | 43,604 |
+| Forks | 2,082 |
+| Stars today | 75 |
+
+---
+
+## 8. [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) 🆕
+
+A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,971 |
+| Forks | 151 |
+| Stars today | 34 |
+
+---
+
+## 9. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
+
+A V2Ray client for Android, support Xray core and v2fly core
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 64,895 |
+| Forks | 8,434 |
 | Stars today | 81 |
 
 ---
 
-## 10. [xororz/local-dream](https://github.com/xororz/local-dream) 🆕
+## 10. [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) 🆕
 
-Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.
+Painless E2E Automation for Mobile and Web
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,818 |
-| Forks | 272 |
-| Stars today | 10 |
+| Stars | 16,253 |
+| Forks | 1,010 |
+| Stars today | 14 |
 
 ---
 
-## 11. [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) 🆕
+## 11. [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) 🆕
 
-DataBackup for Android 7.0+
+A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,500 |
-| Forks | 338 |
-| Stars today | 9 |
+| Stars | 3,609 |
+| Forks | 319 |
+| Stars today | 1 |
 
 ---

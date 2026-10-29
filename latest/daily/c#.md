@@ -1,191 +1,216 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-28T05:33:12Z
-**Total Repositories:** 14
+**Snapshot Time:** 2026-10-29T05:41:11Z
+**Total Repositories:** 16
 **New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
-
-📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,217 |
-| Forks | 1,272 |
-| Stars today | 188 |
-
----
-
-## 2. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
-
-OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 32,640 |
-| Forks | 2,220 |
-| Stars today | 51 |
-
----
-
-## 3. [LorisYounger/VPet](https://github.com/LorisYounger/VPet) 🆕
-
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,069 |
-| Forks | 706 |
-| Stars today | 14 |
-
----
-
-## 4. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
-
-Windows/macOS/Linux GUI client for GIT users
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,264 |
-| Forks | 569 |
-| Stars today | 13 |
-
----
-
-## 5. [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) 🆕
-
-Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 31,725 |
-| Forks | 2,869 |
-| Stars today | 5 |
-
----
-
-## 6. [dotnet/runtime](https://github.com/dotnet/runtime)
-
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 18,395 |
-| Forks | 5,741 |
-| Stars today | 4 |
-
----
-
-## 7. [dotnet/skills](https://github.com/dotnet/skills) 🆕
+## 1. [dotnet/skills](https://github.com/dotnet/skills)
 
 Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,752 |
-| Forks | 453 |
-| Stars today | 13 |
+| Stars | 5,760 |
+| Forks | 451 |
+| Stars today | 10 |
 
 ---
 
-## 8. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 2. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
 
-PowerShell for every system!
+📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,009 |
-| Forks | 8,520 |
-| Stars today | 22 |
+| Stars | 17,313 |
+| Forks | 1,280 |
+| Stars today | 124 |
 
 ---
 
-## 9. [unoplatform/uno](https://github.com/unoplatform/uno) 🆕
+## 3. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) 🆕
 
-Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills built for modern .NET workflows. 200M+ NuGet downloads.
+The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,092 |
-| Forks | 917 |
-| Stars today | 3 |
+| Stars | 58,763 |
+| Forks | 5,735 |
+| Stars today | 57 |
 
 ---
 
-## 10. [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) 🆕
-
-This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,075 |
-| Forks | 5,216 |
-| Stars today | 1 |
-
----
-
-## 11. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🆕
+## 4. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
 
 Integrate cutting-edge LLM technology quickly and easily into your apps
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 28,709 |
+| Stars | 28,715 |
 | Forks | 4,840 |
-| Stars today | 13 |
+| Stars today | 4 |
 
 ---
 
-## 12. [actions/runner](https://github.com/actions/runner) 🆕
+## 5. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 
-The Runner for GitHub Actions 🚀
+OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,363 |
-| Forks | 1,468 |
-| Stars today | 3 |
+| Stars | 32,727 |
+| Forks | 2,222 |
+| Stars today | 158 |
 
 ---
 
-## 13. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) 🆕
+## 6. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
-Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+Windows/macOS/Linux GUI client for GIT users
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,410 |
-| Forks | 2,963 |
+| Stars | 6,278 |
+| Forks | 572 |
+| Stars today | 11 |
+
+---
+
+## 7. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher) 🆕
+
+A Launcher that Downloads and Updates Applications from Github Releases
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 2,026 |
+| Forks | 67 |
+| Stars today | 15 |
+
+---
+
+## 8. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) 🆕
+
+.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 26,857 |
+| Forks | 3,790 |
+| Stars today | 19 |
+
+---
+
+## 9. [cyanfish/naps2](https://github.com/cyanfish/naps2) 🆕
+
+Scan documents to PDF and more, as simply as possible.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,710 |
+| Forks | 481 |
+| Stars today | 4 |
+
+---
+
+## 10. [microsoft/mcp](https://github.com/microsoft/mcp) 🆕
+
+Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 3,806 |
+| Forks | 665 |
 | Stars today | 2 |
 
 ---
 
-## 14. [ppy/osu](https://github.com/ppy/osu) 🆕
+## 11. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
 
-rhythm is just a *click* away!
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,337 |
-| Forks | 2,861 |
+| Stars | 119,387 |
+| Forks | 16,194 |
+| Stars today | 127 |
+
+---
+
+## 12. [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) 🆕
+
+Source code for Unturned, a free open-world zombie survival sandbox game.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,006 |
+| Forks | 580 |
 | Stars today | 4 |
+
+---
+
+## 13. [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 🆕
+
+🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 27,869 |
+| Forks | 2,380 |
+| Stars today | 11 |
+
+---
+
+## 14. [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) 🆕
+
+A clean, modern and robust overlay for Monster Hunter games.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 1,320 |
+| Forks | 129 |
+| Stars today | 3 |
+
+---
+
+## 15. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) 🆕
+
+Advanced UX and interoperability extension for Wand (WeMod) app
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 33,238 |
+| Forks | 85,934 |
+| Stars today | 107 |
+
+---
+
+## 16. [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) 🆕
+
+Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,845 |
+| Forks | 16,552 |
 
 ---

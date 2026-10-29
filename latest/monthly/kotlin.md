@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-28T05:33:53Z
+**Snapshot Time:** 2026-10-29T05:41:50Z
 **Total Repositories:** 15
-**New Entries:** 0
+**New Entries:** 1
 **Quality Score:** 97.33/100
 
 ---
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,931 |
-| Forks | 641 |
-| Stars this month | 2,361 |
+| Stars | 9,996 |
+| Forks | 648 |
+| Stars this month | 2,429 |
 
 ---
 
@@ -26,35 +26,35 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,707 |
-| Forks | 459 |
-| Stars this month | 2,780 |
+| Stars | 4,798 |
+| Forks | 474 |
+| Stars this month | 2,797 |
 
 ---
 
-## 3. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android)
-
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 571 |
-| Forks | 101 |
-| Stars this month | 436 |
-
----
-
-## 4. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+## 3. [tiann/KernelSU](https://github.com/tiann/KernelSU)
 
 A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 19,728 |
-| Forks | 4,772 |
-| Stars this month | 1,182 |
+| Stars | 19,781 |
+| Forks | 4,792 |
+| Stars this month | 1,209 |
+
+---
+
+## 4. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android)
+
+Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 583 |
+| Forks | 102 |
+| Stars this month | 434 |
 
 ---
 
@@ -65,35 +65,35 @@ GhostLock One-Tap Execution App (CVE-2026-43499)
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,343 |
-| Forks | 575 |
-| Stars this month | 1,208 |
+| Stars | 2,385 |
+| Forks | 582 |
+| Stars this month | 1,224 |
 
 ---
 
-## 6. [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
-
-A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 25,130 |
-| Forks | 2,785 |
-| Stars this month | 405 |
-
----
-
-## 7. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
+## 6. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
 
 DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,510 |
+| Stars | 4,541 |
 | Forks | 417 |
-| Stars this month | 829 |
+| Stars this month | 844 |
+
+---
+
+## 7. [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
+
+A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 25,139 |
+| Forks | 2,785 |
+| Stars this month | 401 |
 
 ---
 
@@ -104,9 +104,9 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,707 |
-| Forks | 1,384 |
-| Stars this month | 384 |
+| Stars | 6,717 |
+| Forks | 1,387 |
+| Stars this month | 392 |
 
 ---
 
@@ -117,61 +117,61 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,766 |
-| Forks | 294 |
-| Stars this month | 2,456 |
+| Stars | 5,862 |
+| Forks | 300 |
+| Stars this month | 2,524 |
 
 ---
 
-## 10. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
-
-Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 680 |
-| Forks | 164 |
-| Stars this month | 227 |
-
----
-
-## 11. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-
-A V2Ray client for Android, support Xray core and v2fly core
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 64,828 |
-| Forks | 8,422 |
-| Stars this month | 1,880 |
-
----
-
-## 12. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-
-A cross-platform music app using YouTube Music for backend
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 12,465 |
-| Forks | 701 |
-| Stars this month | 1,021 |
-
----
-
-## 13. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+## 10. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,533 |
-| Forks | 2,080 |
-| Stars this month | 1,397 |
+| Stars | 43,604 |
+| Forks | 2,082 |
+| Stars this month | 1,423 |
+
+---
+
+## 11. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
+
+Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 695 |
+| Forks | 163 |
+| Stars this month | 232 |
+
+---
+
+## 12. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+
+A V2Ray client for Android, support Xray core and v2fly core
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 64,896 |
+| Forks | 8,434 |
+| Stars this month | 1,902 |
+
+---
+
+## 13. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) 🆕
+
+🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,017 |
+| Forks | 40 |
+| Stars this month | 445 |
 
 ---
 
@@ -182,21 +182,21 @@ A Download Manager that speeds up your downloads
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,839 |
-| Forks | 980 |
-| Stars this month | 824 |
+| Stars | 18,790 |
+| Forks | 982 |
+| Stars this month | 833 |
 
 ---
 
-## 15. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+## 15. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
-The Magic Mask for Android
+A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 63,549 |
-| Forks | 19,058 |
-| Stars this month | 794 |
+| Stars | 12,492 |
+| Forks | 704 |
+| Stars this month | 1,026 |
 
 ---

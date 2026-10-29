@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-28T05:33:50Z
+**Snapshot Time:** 2026-10-29T05:41:47Z
 **Total Repositories:** 20
-**New Entries:** 2
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 49,078 |
-| Forks | 4,631 |
-| Stars this month | 47,484 |
+| Stars | 49,350 |
+| Forks | 4,665 |
+| Stars this month | 47,399 |
 
 ---
 
@@ -28,9 +28,9 @@ An MCP-based chatbot | 一个基于MCP的聊天机器人
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 32,111 |
-| Forks | 7,528 |
-| Stars this month | 1,905 |
+| Stars | 32,188 |
+| Forks | 7,554 |
+| Stars this month | 1,964 |
 
 ---
 
@@ -41,9 +41,9 @@ PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,944 |
-| Forks | 2,870 |
-| Stars this month | 1,086 |
+| Stars | 33,950 |
+| Forks | 2,871 |
+| Stars this month | 1,076 |
 
 ---
 
@@ -54,139 +54,139 @@ Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,720 |
-| Forks | 223 |
-| Stars this month | 443 |
+| Stars | 3,730 |
+| Forks | 227 |
+| Stars this month | 445 |
 
 ---
 
-## 5. [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps) 🆕
-
-Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 6,408 |
-| Forks | 410 |
-| Stars this month | 1,354 |
-
----
-
-## 6. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+## 5. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,617 |
-| Forks | 2,573 |
-| Stars this month | 762 |
+| Stars | 55,637 |
+| Forks | 2,581 |
+| Stars this month | 779 |
 
 ---
 
-## 7. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)
-
-Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 1,971 |
-| Forks | 184 |
-| Stars this month | 885 |
-
----
-
-## 8. [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
-
-Firebase SDK for Apple App Development
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 6,978 |
-| Forks | 1,825 |
-| Stars this month | 325 |
-
----
-
-## 9. [microsoft/BitNet](https://github.com/microsoft/BitNet)
-
-Official inference framework for 1-bit LLMs
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 41,264 |
-| Forks | 3,840 |
-| Stars this month | 1,007 |
-
----
-
-## 10. [typesense/typesense](https://github.com/typesense/typesense)
-
-Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 27,058 |
-| Forks | 1,020 |
-| Stars this month | 494 |
-
----
-
-## 11. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+## 6. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
 
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,863 |
-| Forks | 6,299 |
-| Stars this month | 1,131 |
+| Stars | 34,901 |
+| Forks | 6,302 |
+| Stars this month | 1,154 |
 
 ---
 
-## 12. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+## 7. [typesense/typesense](https://github.com/typesense/typesense)
 
-An Open Source Machine Learning Framework for Everyone
+Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 201,318 |
-| Forks | 78,722 |
-| Stars this month | 1,532 |
+| Stars | 27,063 |
+| Forks | 1,022 |
+| Stars this month | 497 |
 
 ---
 
-## 13. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
+## 8. [microsoft/BitNet](https://github.com/microsoft/BitNet)
+
+Official inference framework for 1-bit LLMs
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 41,275 |
+| Forks | 3,844 |
+| Stars this month | 1,029 |
+
+---
+
+## 9. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)
+
+Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 2,002 |
+| Forks | 186 |
+| Stars this month | 850 |
+
+---
+
+## 10. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
 
 Reimplementation of GTA:SA 1.0 US
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,176 |
+| Stars | 1,180 |
 | Forks | 269 |
-| Stars this month | 244 |
+| Stars this month | 245 |
 
 ---
 
-## 14. [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
+## 11. [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps)
+
+Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 6,442 |
+| Forks | 414 |
+| Stars this month | 1,247 |
+
+---
+
+## 12. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
+
+Easily download and manage single-player game cheats for your convenience
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 15,771 |
+| Forks | 571 |
+| Stars this month | 956 |
+
+---
+
+## 13. [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
 
 FlashMLA: Efficient Multi-head Latent Attention Kernels
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 13,210 |
-| Forks | 1,244 |
-| Stars this month | 269 |
+| Stars | 13,215 |
+| Forks | 1,246 |
+| Stars this month | 279 |
+
+---
+
+## 14. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+
+An Open Source Machine Learning Framework for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 201,289 |
+| Forks | 78,732 |
+| Stars this month | 1,523 |
 
 ---
 
@@ -197,35 +197,35 @@ Windows Subsystem for Linux
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,243 |
+| Stars | 34,251 |
 | Forks | 1,874 |
-| Stars this month | 534 |
+| Stars this month | 539 |
 
 ---
 
-## 16. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
+## 16. [react/react-native](https://github.com/react/react-native)
 
-Easily download and manage single-player game cheats for your convenience
+A framework for building native applications using React
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 15,743 |
-| Forks | 571 |
-| Stars this month | 915 |
+| Stars | 126,814 |
+| Forks | 25,428 |
+| Stars this month | 420 |
 
 ---
 
-## 17. [zeldaret/tww](https://github.com/zeldaret/tww)
+## 17. [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) 🆕
 
-Decompilation of The Legend of Zelda: The Wind Waker
+Experimental PlayStation Vita emulator
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,131 |
-| Forks | 174 |
-| Stars this month | 148 |
+| Stars | 5,903 |
+| Forks | 673 |
+| Stars this month | 167 |
 
 ---
 
@@ -236,34 +236,34 @@ Share a single keyboard and mouse between multiple computers.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 30,249 |
-| Forks | 5,038 |
-| Stars this month | 1,095 |
+| Stars | 30,304 |
+| Forks | 5,046 |
+| Stars this month | 1,110 |
 
 ---
 
-## 19. [aydencharles/onionHEN](https://github.com/aydencharles/onionHEN) 🆕
+## 19. [zeldaret/tww](https://github.com/zeldaret/tww)
+
+Decompilation of The Legend of Zelda: The Wind Waker
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,131 |
+| Forks | 174 |
+| Stars this month | 142 |
+
+---
+
+## 20. [aydencharles/onionHEN](https://github.com/aydencharles/onionHEN)
 
 Yet another HEN enabler for jailbroken PS5
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 476 |
+| Stars | 480 |
 | Forks | 53 |
-| Stars this month | 251 |
-
----
-
-## 20. [react/react-native](https://github.com/react/react-native)
-
-A framework for building native applications using React
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 126,804 |
-| Forks | 25,412 |
-| Stars this month | 420 |
+| Stars this month | 252 |
 
 ---

@@ -1,268 +1,243 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-28T05:33:04Z
-**Total Repositories:** 20
-**New Entries:** 17
+**Snapshot Time:** 2026-10-29T05:41:03Z
+**Total Repositories:** 18
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) 🆕
-
-OpenTelemetry Collector
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 7,712 |
-| Forks | 2,320 |
-| Stars today | 11 |
-
----
-
-## 2. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 115,588 |
-| Forks | 6,668 |
-| Stars today | 275 |
-
----
-
-## 3. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
-
-A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 6,167 |
-| Forks | 285 |
-| Stars today | 50 |
-
----
-
-## 4. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 🆕
-
-Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 56,697 |
-| Forks | 8,673 |
-| Stars today | 257 |
-
----
-
-## 5. [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) 🆕
-
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 17,929 |
-| Forks | 1,787 |
-| Stars today | 5 |
-
----
-
-## 6. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
-
-Make humans and AI agents work as one team — open-source and self-hostable.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 54,035 |
-| Forks | 7,109 |
-| Stars today | 129 |
-
----
-
-## 7. [kopia/kopia](https://github.com/kopia/kopia) 🆕
-
-Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 14,508 |
-| Forks | 776 |
-| Stars today | 29 |
-
----
-
-## 8. [moby/moby](https://github.com/moby/moby) 🆕
-
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 72,216 |
-| Forks | 19,245 |
-| Stars today | 10 |
-
----
-
-## 9. [nats-io/nats-server](https://github.com/nats-io/nats-server) 🆕
-
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 20,945 |
-| Forks | 2,018 |
-| Stars today | 11 |
-
----
-
-## 10. [wailsapp/wails](https://github.com/wailsapp/wails) 🆕
-
-Create beautiful applications using Go
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 36,775 |
-| Forks | 1,910 |
-| Stars today | 46 |
-
----
-
-## 11. [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) 🆕
+## 1. [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 
 Cloudflare Tunnel client
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,313 |
-| Forks | 1,502 |
-| Stars today | 44 |
+| Stars | 16,331 |
+| Forks | 1,506 |
+| Stars today | 31 |
 
 ---
 
-## 12. [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
+## 2. [superplanehq/superplane](https://github.com/superplanehq/superplane) 🆕
 
-git push no-mistakes
+Open source factory for one-shot engineering
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,996 |
-| Forks | 939 |
-| Stars today | 13 |
+| Stars | 8,366 |
+| Forks | 680 |
+| Stars today | 69 |
 
 ---
 
-## 13. [Tencent/WeKnora](https://github.com/Tencent/WeKnora) 🆕
-
-Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 35,701 |
-| Forks | 4,830 |
-| Stars today | 124 |
-
----
-
-## 14. [encoredev/encore](https://github.com/encoredev/encore) 🆕
-
-Infrastructure orchestration from local to your cloud
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 12,635 |
-| Forks | 651 |
-| Stars today | 21 |
-
----
-
-## 15. [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) 🆕
-
-Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,067 |
-| Forks | 698 |
-| Stars today | 14 |
-
----
-
-## 16. [glanceapp/glance](https://github.com/glanceapp/glance) 🆕
-
-A self-hosted dashboard that puts all your feeds in one place
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 37,795 |
-| Forks | 1,496 |
-| Stars today | 62 |
-
----
-
-## 17. [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) 🆕
-
-OpenTelemetry Go API and SDK
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 6,584 |
-| Forks | 1,526 |
-
----
-
-## 18. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) 🆕
+## 3. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 
 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 48,697 |
-| Forks | 3,564 |
-| Stars today | 169 |
+| Stars | 48,872 |
+| Forks | 3,572 |
+| Stars today | 310 |
 
 ---
 
-## 19. [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🆕
+## 4. [multica-ai/multica](https://github.com/multica-ai/multica)
 
-MCP server for Grafana
+Make humans and AI agents work as one team — open-source and self-hostable.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,617 |
-| Forks | 479 |
+| Stars | 54,168 |
+| Forks | 7,128 |
+| Stars today | 137 |
+
+---
+
+## 5. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+
+Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 56,818 |
+| Forks | 8,700 |
+| Stars today | 162 |
+
+---
+
+## 6. [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) 🆕
+
+Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 48,804 |
+| Forks | 12,553 |
+| Stars today | 86 |
+
+---
+
+## 7. [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) 🆕
+
+Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 4,869 |
+| Forks | 531 |
 | Stars today | 9 |
 
 ---
 
-## 20. [klauspost/compress](https://github.com/klauspost/compress) 🆕
+## 8. [tulir/whatsmeow](https://github.com/tulir/whatsmeow) 🆕
 
-Optimized Go Compression Packages
+Go library for the WhatsApp web multidevice API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,706 |
-| Forks | 422 |
-| Stars today | 3 |
+| Stars | 7,695 |
+| Forks | 1,288 |
+| Stars today | 9 |
+
+---
+
+## 9. [chaitin/SafeLine](https://github.com/chaitin/SafeLine) 🆕
+
+SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 23,080 |
+| Forks | 1,583 |
+| Stars today | 43 |
+
+---
+
+## 10. [github/gh-stack](https://github.com/github/gh-stack) 🆕
+
+GitHub Stacked PRs
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,725 |
+| Forks | 92 |
+| Stars today | 2 |
+
+---
+
+## 11. [fleetdm/fleet](https://github.com/fleetdm/fleet) 🆕
+
+Open device management
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,070 |
+| Forks | 1,092 |
+| Stars today | 8 |
+
+---
+
+## 12. [wailsapp/wails](https://github.com/wailsapp/wails)
+
+Create beautiful applications using Go
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 36,799 |
+| Forks | 1,914 |
+| Stars today | 35 |
+
+---
+
+## 13. [plandex-ai/plandex](https://github.com/plandex-ai/plandex) 🆕
+
+Open source AI coding agent. Designed for large projects and real world tasks.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 15,840 |
+| Forks | 1,183 |
+| Stars today | 13 |
+
+---
+
+## 14. [anchore/syft](https://github.com/anchore/syft) 🆕
+
+CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 9,785 |
+| Forks | 1,026 |
+| Stars today | 15 |
+
+---
+
+## 15. [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) 🆕
+
+Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 19,784 |
+| Forks | 3,088 |
+| Stars today | 9 |
+
+---
+
+## 16. [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) 🆕
+
+Workflow Engine for Kubernetes
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 17,066 |
+| Forks | 3,717 |
+| Stars today | 6 |
+
+---
+
+## 17. [ollama/ollama](https://github.com/ollama/ollama) 🆕
+
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 185,160 |
+| Forks | 18,705 |
+| Stars today | 134 |
+
+---
+
+## 18. [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) 🆕
+
+agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 4,437 |
+| Forks | 587 |
+| Stars today | 15 |
 
 ---

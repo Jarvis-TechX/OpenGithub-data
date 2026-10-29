@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-28T05:33:30Z
-**Total Repositories:** 15
-**New Entries:** 6
+**Snapshot Time:** 2026-10-29T05:41:27Z
+**Total Repositories:** 14
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,48 +15,48 @@
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 131,552 |
-| Forks | 15,558 |
-| Stars this week | 716 |
+| Stars | 131,642 |
+| Forks | 15,569 |
+| Stars this week | 794 |
 
 ---
 
-## 2. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+## 2. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
 
-A tool for reverse engineering Android apk files
+Mac.apk: Run Android apps natively on Apple Silicon Macs
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,746 |
-| Forks | 4,154 |
-| Stars this week | 430 |
+| Stars | 3,600 |
+| Forks | 134 |
+| Stars this week | 1,679 |
 
 ---
 
-## 3. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
-
-All Algorithms implemented in Java
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 66,604 |
-| Forks | 21,330 |
-| Stars this week | 236 |
-
----
-
-## 4. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
+## 3. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
 
 A Minecraft Launcher which is multi-functional, cross-platform and popular
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,776 |
-| Forks | 1,282 |
-| Stars this week | 346 |
+| Stars | 10,797 |
+| Forks | 1,285 |
+| Stars this week | 279 |
+
+---
+
+## 4. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+
+A tool for reverse engineering Android apk files
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 26,774 |
+| Forks | 4,161 |
+| Stars this week | 320 |
 
 ---
 
@@ -67,113 +67,113 @@ Halo 是一款强大易用的开源建站工具，从个人博客、知识库，
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,066 |
-| Forks | 10,315 |
-| Stars this week | 128 |
+| Stars | 40,075 |
+| Forks | 10,316 |
+| Stars this week | 142 |
 
 ---
 
-## 6. [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+## 6. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
-PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,090 |
-| Forks | 2,879 |
-| Stars this week | 341 |
+| Stars | 66,614 |
+| Forks | 21,351 |
+| Stars this week | 245 |
 
 ---
 
-## 7. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
+## 7. [DrKLO/Telegram](https://github.com/DrKLO/Telegram) 🆕
 
-Free and Open Source, Distributed, RESTful Search Engine
+Telegram for Android source
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,421 |
-| Forks | 26,146 |
-| Stars this week | 116 |
+| Stars | 30,185 |
+| Forks | 10,378 |
+| Stars this week | 75 |
 
 ---
 
-## 8. [ReSo7200/InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
-
-An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,637 |
-| Forks | 104 |
-| Stars this week | 48 |
-
----
-
-## 9. [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
-
-A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded byhttps://github.com/AngelAuraMC/Amethyst-Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 9,473 |
-| Forks | 2,483 |
-| Stars this week | 33 |
-
----
-
-## 10. [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) 🆕
-
-A browser automation framework and ecosystem.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 34,568 |
-| Forks | 8,729 |
-| Stars this week | 19 |
-
----
-
-## 11. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) 🆕
+## 8. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
 
 Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,368 |
-| Forks | 842 |
-| Stars this week | 48 |
+| Stars | 4,377 |
+| Forks | 844 |
+| Stars this week | 54 |
 
 ---
 
-## 12. [google/guava](https://github.com/google/guava) 🆕
+## 9. [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
 
-Google core libraries for Java
+PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 51,917 |
-| Forks | 11,219 |
-| Stars this week | 16 |
+| Stars | 30,111 |
+| Forks | 2,880 |
+| Stars this week | 372 |
 
 ---
 
-## 13. [niedev/RTranslator](https://github.com/niedev/RTranslator) 🆕
+## 10. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
-Open source real-time translation app for Android that runs locally
+Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,576 |
-| Forks | 960 |
-| Stars this week | 58 |
+| Stars | 78,427 |
+| Forks | 26,163 |
+| Stars this week | 113 |
+
+---
+
+## 11. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
+
+Browse media content with your own rules on Android TV
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 35,679 |
+| Forks | 2,224 |
+| Stars this week | 413 |
+
+---
+
+## 12. [kdn251/interviews](https://github.com/kdn251/interviews) 🆕
+
+Everything you need to know to get the job.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 65,528 |
+| Forks | 12,927 |
+| Stars this week | 230 |
+
+---
+
+## 13. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) 🆕
+
+Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,083 |
+| Forks | 359 |
+| Stars this week | 83 |
 
 ---
 
@@ -184,21 +184,8 @@ Dual pane Android file manager with focus on APKs
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 437 |
-| Forks | 58 |
-| Stars this week | 125 |
-
----
-
-## 15. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) 🆕
-
-Mac.apk: Run Android apps natively on Apple Silicon Macs
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,537 |
-| Forks | 127 |
-| Stars this week | 2,060 |
+| Stars | 445 |
+| Forks | 61 |
+| Stars this week | 127 |
 
 ---

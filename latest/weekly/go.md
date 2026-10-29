@@ -1,8 +1,8 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-28T05:33:24Z
-**Total Repositories:** 18
+**Snapshot Time:** 2026-10-29T05:41:23Z
+**Total Repositories:** 19
 **New Entries:** 6
 **Quality Score:** 100.00/100
 
@@ -15,100 +15,100 @@ freehire — the open-source search engine for job seekers
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,256 |
-| Forks | 337 |
-| Stars this week | 1,486 |
+| Stars | 3,303 |
+| Forks | 342 |
+| Stars this week | 1,229 |
 
 ---
 
-## 2. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
-
-The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,880 |
-| Forks | 262 |
-| Stars this week | 946 |
-
----
-
-## 3. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
+## 2. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
 
 Awesome list of 300+ agentic AI resources
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,758 |
-| Forks | 717 |
-| Stars this week | 274 |
+| Stars | 2,768 |
+| Forks | 718 |
+| Stars this week | 277 |
 
 ---
 
-## 4. [chaitin/SafeLine](https://github.com/chaitin/SafeLine)
-
-SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 23,056 |
-| Forks | 1,581 |
-| Stars this week | 242 |
-
----
-
-## 5. [gin-gonic/gin](https://github.com/gin-gonic/gin)
-
-Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 89,443 |
-| Forks | 8,828 |
-| Stars this week | 94 |
-
----
-
-## 6. [ollama/ollama](https://github.com/ollama/ollama)
-
-Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 185,053 |
-| Forks | 18,667 |
-| Stars this week | 1,173 |
-
----
-
-## 7. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
+## 3. [multica-ai/multica](https://github.com/multica-ai/multica)
 
 Make humans and AI agents work as one team — open-source and self-hostable.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 54,035 |
-| Forks | 7,109 |
-| Stars this week | 735 |
+| Stars | 54,169 |
+| Forks | 7,128 |
+| Stars this week | 733 |
 
 ---
 
-## 8. [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) 🆕
+## 4. [ollama/ollama](https://github.com/ollama/ollama)
+
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 185,159 |
+| Forks | 18,705 |
+| Stars this week | 1,140 |
+
+---
+
+## 5. [tailscale/tailscale](https://github.com/tailscale/tailscale) 🆕
+
+The easiest, most secure way to use WireGuard and 2FA.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 38,261 |
+| Forks | 3,375 |
+| Stars this week | 378 |
+
+---
+
+## 6. [eugenioenko/ttt](https://github.com/eugenioenko/ttt)
+
+TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 952 |
+| Forks | 113 |
+| Stars this week | 302 |
+
+---
+
+## 7. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 38,820 |
+| Forks | 806 |
+| Stars this week | 257 |
+
+---
+
+## 8. [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)
 
 🧑‍🎨 A collection of Golang agentic skills that works
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,696 |
-| Forks | 247 |
-| Stars this week | 172 |
+| Stars | 3,714 |
+| Forks | 249 |
+| Stars this week | 171 |
 
 ---
 
@@ -119,125 +119,138 @@ LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 50,014 |
-| Forks | 4,554 |
-| Stars this week | 275 |
+| Stars | 50,034 |
+| Forks | 4,558 |
+| Stars this week | 245 |
 
 ---
 
-## 10. [pearl-research-labs/pearl](https://github.com/pearl-research-labs/pearl)
+## 10. [wailsapp/wails](https://github.com/wailsapp/wails) 🆕
+
+Create beautiful applications using Go
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 36,799 |
+| Forks | 1,914 |
+| Stars this week | 176 |
+
+---
+
+## 11. [pearl-research-labs/pearl](https://github.com/pearl-research-labs/pearl)
 
 Monorepo for the Pearl network 🐚
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 419 |
-| Forks | 100 |
-| Stars this week | 41 |
+| Stars | 426 |
+| Forks | 101 |
+| Stars this week | 45 |
 
 ---
 
-## 11. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+## 12. [php/frankenphp](https://github.com/php/frankenphp) 🆕
 
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+🧟 The modern PHP app server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,791 |
-| Forks | 804 |
-| Stars this week | 248 |
+| Stars | 11,494 |
+| Forks | 503 |
+| Stars this week | 69 |
 
 ---
 
-## 12. [eugenioenko/ttt](https://github.com/eugenioenko/ttt)
+## 13. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
 
-TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.
+The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 924 |
-| Forks | 110 |
-| Stars this week | 287 |
+| Stars | 2,911 |
+| Forks | 261 |
+| Stars this week | 560 |
 
 ---
 
-## 13. [helm/helm](https://github.com/helm/helm)
+## 14. [dagger/dagger](https://github.com/dagger/dagger) 🆕
 
-The Kubernetes Package Manager
+Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,380 |
-| Forks | 7,904 |
-| Stars this week | 33 |
+| Stars | 16,540 |
+| Forks | 942 |
+| Stars this week | 178 |
 
 ---
 
-## 14. [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
+## 15. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
 
-ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
+Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,171 |
-| Forks | 488 |
-| Stars this week | 185 |
+| Stars | 50,914 |
+| Forks | 12,334 |
+| Stars this week | 549 |
 
 ---
 
-## 15. [QuantumNous/new-api](https://github.com/QuantumNous/new-api) 🆕
+## 16. [superplanehq/superplane](https://github.com/superplanehq/superplane) 🆕
 
-A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
+Open source factory for one-shot engineering
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 50,832 |
-| Forks | 12,311 |
-| Stars this week | 547 |
+| Stars | 8,366 |
+| Forks | 680 |
+| Stars this week | 282 |
 
 ---
 
-## 16. [grafana/loki](https://github.com/grafana/loki) 🆕
-
-Like Prometheus, but for logs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 29,082 |
-| Forks | 4,160 |
-| Stars this week | 30 |
-
----
-
-## 17. [infiniflow/ragflow](https://github.com/infiniflow/ragflow) 🆕
+## 17. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
 RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 92,985 |
-| Forks | 11,129 |
-| Stars this week | 484 |
+| Stars | 93,041 |
+| Forks | 11,146 |
+| Stars this week | 471 |
 
 ---
 
-## 18. [encoredev/encore](https://github.com/encoredev/encore) 🆕
+## 18. [moby/moby](https://github.com/moby/moby) 🆕
 
-Infrastructure orchestration from local to your cloud
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 12,635 |
-| Forks | 651 |
-| Stars this week | 157 |
+| Stars | 72,223 |
+| Forks | 19,262 |
+| Stars this week | 62 |
+
+---
+
+## 19. [chaitin/SafeLine](https://github.com/chaitin/SafeLine)
+
+SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 23,080 |
+| Forks | 1,583 |
+| Stars this week | 255 |
 
 ---

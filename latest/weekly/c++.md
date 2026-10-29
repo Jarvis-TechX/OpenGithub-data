@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-28T05:33:28Z
-**Total Repositories:** 6
-**New Entries:** 0
+**Snapshot Time:** 2026-10-29T05:41:26Z
+**Total Repositories:** 8
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,61 +15,61 @@ The ultimate Geometry Dash modding framework
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,147 |
-| Forks | 624 |
-| Stars this week | 118 |
+| Stars | 3,156 |
+| Forks | 627 |
+| Stars this week | 117 |
 
 ---
 
-## 2. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
-
-FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 33,211 |
-| Forks | 4,738 |
-| Stars this week | 425 |
-
----
-
-## 3. [godotengine/godot](https://github.com/godotengine/godot)
+## 2. [godotengine/godot](https://github.com/godotengine/godot)
 
 Godot Engine – Multi-platform 2D and 3D game engine
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 119,180 |
-| Forks | 27,240 |
+| Stars | 119,243 |
+| Forks | 27,258 |
 | Stars this week | 475 |
 
 ---
 
-## 4. [duckdb/duckdb](https://github.com/duckdb/duckdb)
+## 3. [MariaDB/server](https://github.com/MariaDB/server) 🆕
+
+MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 8,475 |
+| Forks | 2,216 |
+| Stars this week | 73 |
+
+---
+
+## 4. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+
+FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 33,235 |
+| Forks | 4,739 |
+| Stars this week | 400 |
+
+---
+
+## 5. [duckdb/duckdb](https://github.com/duckdb/duckdb)
 
 DuckDB is a high-performance analytical database system
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 42,646 |
-| Forks | 4,072 |
-| Stars this week | 335 |
-
----
-
-## 5. [jamro/tiny-engineer](https://github.com/jamro/tiny-engineer)
-
-A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 936 |
-| Forks | 118 |
-| Stars this week | 183 |
+| Stars | 42,678 |
+| Forks | 4,089 |
+| Stars this week | 336 |
 
 ---
 
@@ -80,8 +80,34 @@ A free and strong UCI chess engine
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,125 |
-| Forks | 3,116 |
-| Stars this week | 135 |
+| Stars | 17,146 |
+| Forks | 3,119 |
+| Stars this week | 120 |
+
+---
+
+## 7. [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps) 🆕
+
+Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 6,442 |
+| Forks | 414 |
+| Stars this week | 431 |
+
+---
+
+## 8. [zen-browser/desktop](https://github.com/zen-browser/desktop) 🆕
+
+Welcome to a calmer internet
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 45,396 |
+| Forks | 1,925 |
+| Stars this week | 379 |
 
 ---

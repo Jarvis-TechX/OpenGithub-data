@@ -1,36 +1,36 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-28T05:33:05Z
-**Total Repositories:** 9
-**New Entries:** 5
+**Snapshot Time:** 2026-10-29T05:41:04Z
+**Total Repositories:** 12
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 1. [macro-inc/macro](https://github.com/macro-inc/macro) 🆕
+
+Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 5,520 |
+| Forks | 525 |
+| Stars today | 117 |
+
+---
+
+## 2. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 90,886 |
-| Forks | 5,388 |
-| Stars today | 1,449 |
-
----
-
-## 2. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
-
-A Tiny biped duck robot 🦆
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 12,804 |
-| Forks | 1,582 |
-| Stars today | 599 |
+| Stars | 93,298 |
+| Forks | 5,507 |
+| Stars today | 1,472 |
 
 ---
 
@@ -41,86 +41,125 @@ A Tiny biped duck robot 🦆
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 100,412 |
-| Forks | 13,115 |
-| Stars today | 415 |
+| Stars | 101,231 |
+| Forks | 13,171 |
+| Stars today | 557 |
 
 ---
 
-## 4. [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) 🆕
+## 4. [openai/codex](https://github.com/openai/codex) 🆕
 
-Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.
+Lightweight coding agent that runs in your terminal
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,828 |
-| Forks | 227 |
-| Stars today | 343 |
+| Stars | 131,472 |
+| Forks | 20,766 |
+| Stars today | 284 |
 
 ---
 
-## 5. [ShayanAbbas1/dbdelve](https://github.com/ShayanAbbas1/dbdelve) 🆕
+## 5. [t8y2/dbx](https://github.com/t8y2/dbx) 🆕
 
-Fast and lightweight DB Client made in Rust and GPUI.
+25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 585 |
-| Forks | 34 |
-| Stars today | 25 |
+| Stars | 28,098 |
+| Forks | 2,550 |
+| Stars today | 108 |
 
 ---
 
-## 6. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+## 6. [trymirai/uzu](https://github.com/trymirai/uzu) 🆕
 
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 127,329 |
-| Forks | 20,075 |
-| Stars today | 137 |
+| Stars | 3,006 |
+| Forks | 183 |
+| Stars today | 260 |
 
 ---
 
-## 7. [zeronsh/zeron](https://github.com/zeronsh/zeron) 🆕
+## 7. [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) 🆕
 
-A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
+⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,408 |
-| Forks | 350 |
-| Stars today | 30 |
+| Stars | 24,505 |
+| Forks | 870 |
+| Stars today | 161 |
 
 ---
 
-## 8. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) 🆕
-
-Next Generation Agentic Proxy for AI Agents and MCP servers
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 5,691 |
-| Forks | 1,005 |
-| Stars today | 24 |
-
----
-
-## 9. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) 🆕
+## 8. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 
 Algorithm powering the For You feed on X
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 33,845 |
-| Forks | 5,471 |
-| Stars today | 40 |
+| Stars | 33,883 |
+| Forks | 5,478 |
+| Stars today | 37 |
+
+---
+
+## 9. [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) 🆕
+
+Incremental engine for long horizon agents 🌟 Star if you like it!
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 11,778 |
+| Forks | 922 |
+| Stars today | 5 |
+
+---
+
+## 10. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 🆕
+
+Browser automation CLI for AI agents
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 44,797 |
+| Forks | 3,068 |
+| Stars today | 71 |
+
+---
+
+## 11. [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) 🆕
+
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 15,474 |
+| Forks | 1,027 |
+| Stars today | 61 |
+
+---
+
+## 12. [zed-industries/zed](https://github.com/zed-industries/zed) 🆕
+
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 92,363 |
+| Forks | 11,261 |
+| Stars today | 65 |
 
 ---

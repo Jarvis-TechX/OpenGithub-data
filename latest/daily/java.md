@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-28T05:33:09Z
-**Total Repositories:** 17
-**New Entries:** 11
+**Snapshot Time:** 2026-10-29T05:41:08Z
+**Total Repositories:** 16
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 131,552 |
-| Forks | 15,558 |
-| Stars today | 263 |
+| Stars | 131,642 |
+| Forks | 15,569 |
+| Stars today | 113 |
 
 ---
 
@@ -28,9 +28,9 @@ All Algorithms implemented in Java
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 66,604 |
-| Forks | 21,330 |
-| Stars today | 114 |
+| Stars | 66,614 |
+| Forks | 21,351 |
+| Stars today | 19 |
 
 ---
 
@@ -41,190 +41,177 @@ Free and Open Source, Distributed, RESTful Search Engine
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,421 |
-| Forks | 26,146 |
-| Stars today | 18 |
+| Stars | 78,427 |
+| Forks | 26,163 |
+| Stars today | 20 |
 
 ---
 
-## 4. [apache/beam](https://github.com/apache/beam) 🆕
-
-Apache Beam is a unified programming model for Batch and Streaming data processing.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 8,697 |
-| Forks | 4,742 |
-| Stars today | 2 |
-
----
-
-## 5. [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) 🆕
-
-An Application Framework for AI Engineering
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 9,597 |
-| Forks | 3,006 |
-| Stars today | 8 |
-
----
-
-## 6. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) 🆕
-
-Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 4,368 |
-| Forks | 842 |
-| Stars today | 14 |
-
----
-
-## 7. [niedev/RTranslator](https://github.com/niedev/RTranslator)
+## 4. [niedev/RTranslator](https://github.com/niedev/RTranslator)
 
 Open source real-time translation app for Android that runs locally
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,576 |
+| Stars | 10,582 |
 | Forks | 960 |
-| Stars today | 12 |
+| Stars today | 5 |
 
 ---
 
-## 8. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) 🆕
+## 5. [traccar/traccar](https://github.com/traccar/traccar) 🆕
 
-A libre lightweight streaming front-end for Android.
+Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,331 |
-| Forks | 3,930 |
-| Stars today | 26 |
+| Stars | 7,978 |
+| Forks | 3,463 |
+| Stars today | 15 |
 
 ---
 
-## 9. [apache/flink](https://github.com/apache/flink)
+## 6. [crimera/piko](https://github.com/crimera/piko) 🆕
 
-Apache Flink
+morphe patches for twitter and instagram
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,431 |
-| Forks | 14,123 |
-| Stars today | 4 |
+| Stars | 5,833 |
+| Forks | 254 |
+| Stars today | 11 |
 
 ---
 
-## 10. [trinodb/trino](https://github.com/trinodb/trino) 🆕
+## 7. [trinodb/trino](https://github.com/trinodb/trino)
 
 Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,378 |
-| Forks | 3,844 |
-| Stars today | 5 |
-
----
-
-## 11. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
-
-Build distributed, production-grade, long-running agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 6,147 |
-| Forks | 1,537 |
-| Stars today | 12 |
-
----
-
-## 12. [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) 🆕
-
-Free universal database tool and SQL client
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 52,224 |
-| Forks | 4,431 |
-| Stars today | 15 |
-
----
-
-## 13. [openjdk/jdk](https://github.com/openjdk/jdk) 🆕
-
-JDK main-line developmenthttps://openjdk.org/projects/jdk
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 23,476 |
-| Forks | 6,549 |
+| Stars | 13,383 |
+| Forks | 3,847 |
 | Stars today | 8 |
 
 ---
 
-## 14. [floci-io/floci](https://github.com/floci-io/floci)
+## 8. [quarkusio/quarkus](https://github.com/quarkusio/quarkus) 🆕
 
-Light, fluffy, and always free - The AWS Local Emulator alternative
+Quarkus: Supersonic Subatomic Java.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 27,197 |
-| Forks | 2,995 |
-| Stars today | 31 |
+| Stars | 15,970 |
+| Forks | 3,349 |
+| Stars today | 2 |
 
 ---
 
-## 15. [Anuken/Mindustry](https://github.com/Anuken/Mindustry) 🆕
+## 9. [kekingcn/kkFileView](https://github.com/kekingcn/kkFileView) 🆕
 
-The automation tower defense RTS
+Universal File Online Preview Project based on Spring-Boot
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 29,498 |
-| Forks | 3,826 |
-| Stars today | 14 |
+| Stars | 14,812 |
+| Forks | 3,341 |
+| Stars today | 2 |
 
 ---
 
-## 16. [alibaba/nacos](https://github.com/alibaba/nacos) 🆕
+## 10. [keycloak/keycloak](https://github.com/keycloak/keycloak) 🆕
 
-an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+Open Source Identity and Access Management For Modern Applications and Services
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 33,490 |
-| Forks | 13,282 |
-| Stars today | 4 |
+| Stars | 37,585 |
+| Forks | 9,114 |
+| Stars today | 24 |
 
 ---
 
-## 17. [vespa-engine/vespa](https://github.com/vespa-engine/vespa) 🆕
+## 11. [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) 🆕
 
-The AI search platform
+【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 7,149 |
-| Forks | 749 |
-| Stars today | 4 |
+| Stars | 48,317 |
+| Forks | 16,222 |
+| Stars today | 18 |
+
+---
+
+## 12. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
+
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 4,377 |
+| Forks | 844 |
+| Stars today | 13 |
+
+---
+
+## 13. [github/copilot-sdk](https://github.com/github/copilot-sdk) 🆕
+
+Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 10,602 |
+| Forks | 1,514 |
+| Stars today | 3 |
+
+---
+
+## 14. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) 🆕
+
+Dual pane Android file manager with focus on APKs
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 445 |
+| Forks | 61 |
+| Stars today | 6 |
+
+---
+
+## 15. [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) 🆕
+
+一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 11,664 |
+| Forks | 1,331 |
+| Stars today | 13 |
+
+---
+
+## 16. [apache/iceberg](https://github.com/apache/iceberg) 🆕
+
+Apache Iceberg
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,382 |
+| Forks | 3,636 |
+| Stars today | 6 |
 
 ---

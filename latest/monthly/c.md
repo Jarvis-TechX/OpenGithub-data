@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-28T05:33:48Z
-**Total Repositories:** 16
-**New Entries:** 1
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-10-29T05:41:46Z
+**Total Repositories:** 17
+**New Entries:** 3
+**Quality Score:** 97.65/100
 
 ---
 
@@ -15,35 +15,35 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,696 |
-| Forks | 8,454 |
-| Stars this month | 1,374 |
+| Stars | 41,707 |
+| Forks | 8,474 |
+| Stars this month | 1,376 |
 
 ---
 
-## 2. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-
-Display and control your Android device
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 153,343 |
-| Forks | 14,074 |
-| Stars this month | 3,297 |
-
----
-
-## 3. [willfaust/Madeira](https://github.com/willfaust/Madeira)
+## 2. [willfaust/Madeira](https://github.com/willfaust/Madeira)
 
 Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,911 |
-| Forks | 364 |
-| Stars this month | 2,179 |
+| Stars | 2,943 |
+| Forks | 369 |
+| Stars this month | 1,980 |
+
+---
+
+## 3. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+
+Display and control your Android device
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 153,429 |
+| Forks | 14,082 |
+| Stars this month | 3,333 |
 
 ---
 
@@ -54,9 +54,9 @@ A native, user-mode, multi-process, graphical debugger.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 8,694 |
-| Forks | 432 |
-| Stars this month | 1,189 |
+| Stars | 8,704 |
+| Forks | 435 |
+| Stars this month | 1,200 |
 
 ---
 
@@ -67,139 +67,139 @@ Xbox 360 Recompilation Runtime and Toolkit
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,187 |
-| Forks | 243 |
-| Stars this month | 283 |
+| Stars | 1,202 |
+| Forks | 248 |
+| Stars this month | 285 |
 
 ---
 
-## 6. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-
-An advanced Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,635 |
-| Forks | 1,233 |
-| Stars this month | 363 |
-
----
-
-## 7. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+## 6. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 78,418 |
-| Forks | 10,916 |
-| Stars this month | 1,860 |
+| Stars | 78,522 |
+| Forks | 10,936 |
+| Stars this month | 1,928 |
 
 ---
 
-## 8. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+## 7. [matz/spinel](https://github.com/matz/spinel) 🆕
+
+Ruby AOT compiler
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 2,286 |
+| Forks | 166 |
+| Stars this month | 307 |
+
+---
+
+## 8. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+
+An advanced Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 4,651 |
+| Forks | 1,234 |
+| Stars this month | 377 |
+
+---
+
+## 9. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
 
 ehviewer，用爱发电，快乐前行
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,325 |
+| Stars | 28,373 |
 | Forks | 755 |
-| Stars this month | 1,278 |
+| Stars this month | 1,281 |
 
 ---
 
-## 9. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+## 10. [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 
 A new bootable USB solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 80,406 |
-| Forks | 5,013 |
-| Stars this month | 969 |
+| Stars | 80,427 |
+| Forks | 5,016 |
+| Stars this month | 978 |
 
 ---
 
-## 10. [systemd/systemd](https://github.com/systemd/systemd)
-
-The systemd System and Service Manager
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,953 |
-| Forks | 4,788 |
-| Stars this month | 230 |
-
----
-
-## 11. [redis/redis](https://github.com/redis/redis)
-
-For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 77,140 |
-| Forks | 24,943 |
-| Stars this month | 1,051 |
-
----
-
-## 12. [raysan5/raylib](https://github.com/raysan5/raylib)
+## 11. [raysan5/raylib](https://github.com/raysan5/raylib)
 
 A simple and easy-to-use library to enjoy videogames programming
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 35,453 |
+| Stars | 35,465 |
 | Forks | 3,360 |
-| Stars this month | 691 |
+| Stars this month | 705 |
 
 ---
 
-## 13. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+## 12. [redis/redis](https://github.com/redis/redis)
+
+For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 77,154 |
+| Forks | 24,957 |
+| Stars this month | 1,058 |
+
+---
+
+## 13. [systemd/systemd](https://github.com/systemd/systemd)
+
+The systemd System and Service Manager
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,957 |
+| Forks | 4,788 |
+| Stars this month | 233 |
+
+---
+
+## 14. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 
 GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,809 |
+| Stars | 28,815 |
 | Forks | 2,241 |
-| Stars this month | 202 |
+| Stars this month | 205 |
 
 ---
 
-## 14. [openssl/openssl](https://github.com/openssl/openssl)
+## 15. [reactos/reactos](https://github.com/reactos/reactos) 🆕
 
-General purpose TLS and crypto library
+A free Windows-compatible Operating System
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,100 |
-| Forks | 11,558 |
-| Stars this month | 405 |
-
----
-
-## 15. [coop-deluxe/sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) 🆕
-
-An official continuation ofhttps://github.com/djoslin0/sm64ex-coopon sm64coopdx for the enhancements and progress it already has.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 1,494 |
-| Forks | 375 |
-| Stars this month | 121 |
+| Stars | 18,390 |
+| Forks | 2,311 |
+| Stars this month | 279 |
 
 ---
 
@@ -208,8 +208,21 @@ An official continuation ofhttps://github.com/djoslin0/sm64ex-coopon sm64coopdx 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 832 |
+| Stars | 842 |
 | Forks | 65 |
-| Stars this month | 371 |
+| Stars this month | 379 |
+
+---
+
+## 17. [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) 🆕
+
+YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 10,636 |
+| Forks | 1,432 |
+| Stars this month | 85 |
 
 ---

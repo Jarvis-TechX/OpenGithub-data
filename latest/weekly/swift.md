@@ -1,178 +1,230 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-28T05:33:33Z
-**Total Repositories:** 13
-**New Entries:** 4
+**Snapshot Time:** 2026-10-29T05:41:31Z
+**Total Repositories:** 17
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [pauljoda/Crest](https://github.com/pauljoda/Crest)
-
-An open source browser for Mac, iPhone, and iPad.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 924 |
-| Forks | 80 |
-| Stars this week | 465 |
-
----
-
-## 2. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+## 1. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 
 bluetooth mesh chat, IRC vibes
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,946 |
-| Forks | 5,878 |
-| Stars this week | 284 |
+| Stars | 36,975 |
+| Forks | 5,879 |
+| Stars this week | 331 |
 
 ---
 
-## 3. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 2. [pauljoda/Crest](https://github.com/pauljoda/Crest)
 
-Run iOS apps without actually installing them!
+An open source browser for Mac, iPhone, and iPad.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,474 |
-| Forks | 1,242 |
-| Stars this week | 265 |
+| Stars | 964 |
+| Forks | 86 |
+| Stars this week | 504 |
 
 ---
 
-## 4. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
+## 3. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
 
 AltStore is an alternative app store for non-jailbroken iOS devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,786 |
-| Forks | 1,673 |
-| Stars this week | 97 |
+| Stars | 14,790 |
+| Forks | 1,680 |
+| Stars this week | 99 |
 
 ---
 
-## 5. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
+## 4. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
 
 Conduit — native SwiftUI iOS client for Hermes Agent
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 472 |
-| Forks | 61 |
-| Stars this week | 140 |
+| Stars | 478 |
+| Forks | 64 |
+| Stars this week | 102 |
 
 ---
 
-## 6. [utmapp/UTM](https://github.com/utmapp/UTM)
+## 5. [utmapp/UTM](https://github.com/utmapp/UTM)
 
 Virtual machines for iOS and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,574 |
-| Forks | 1,886 |
-| Stars this week | 566 |
+| Stars | 36,583 |
+| Forks | 1,887 |
+| Stars this week | 348 |
 
 ---
 
-## 7. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use)
-
-👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,742 |
-| Forks | 250 |
-| Stars this week | 169 |
-
----
-
-## 8. [scosman/Biscotti](https://github.com/scosman/Biscotti) 🆕
-
-Free private meeting transcription app for macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 419 |
-| Forks | 48 |
-| Stars this week | 78 |
-
----
-
-## 9. [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball) 🆕
-
-Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,956 |
-| Forks | 82 |
-| Stars this week | 239 |
-
----
-
-## 10. [momenbasel/PureMac](https://github.com/momenbasel/PureMac)
+## 6. [momenbasel/PureMac](https://github.com/momenbasel/PureMac)
 
 Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,443 |
-| Forks | 432 |
-| Stars this week | 188 |
+| Stars | 7,459 |
+| Forks | 433 |
+| Stars this week | 181 |
 
 ---
 
-## 11. [milika/SmartTubeIOS](https://github.com/milika/SmartTubeIOS) 🆕
+## 7. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+
+Run iOS apps without actually installing them!
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 13,506 |
+| Forks | 1,245 |
+| Stars this week | 235 |
+
+---
+
+## 8. [milika/SmartTubeIOS](https://github.com/milika/SmartTubeIOS)
 
 Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac — ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K. Open source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 503 |
-| Forks | 76 |
-| Stars this week | 89 |
+| Stars | 519 |
+| Forks | 78 |
+| Stars this week | 96 |
 
 ---
 
-## 12. [LoopKit/Loop](https://github.com/LoopKit/Loop) 🆕
+## 9. [carloslfu/slotstream](https://github.com/carloslfu/slotstream) 🆕
+
+Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and Metal. Offline, no Python. CLI, Swift library, and Ollama/OpenAI/Anthropic APIs. Works with Claude Code and Codex.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 608 |
+| Forks | 50 |
+| Stars this week | 126 |
+
+---
+
+## 10. [fayazara/Screendrop](https://github.com/fayazara/Screendrop) 🆕
+
+A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,329 |
+| Forks | 129 |
+| Stars this week | 113 |
+
+---
+
+## 11. [LoopKit/Loop](https://github.com/LoopKit/Loop)
 
 An automated insulin delivery app for iOS, built on LoopKit
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,748 |
-| Forks | 1,448 |
-| Stars this week | 4 |
+| Stars | 1,749 |
+| Forks | 1,449 |
+| Stars this week | 3 |
 
 ---
 
-## 13. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
+## 12. [slopus/happy](https://github.com/slopus/happy) 🆕
 
-A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
+Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 416 |
-| Forks | 133 |
-| Stars this week | 19 |
+| Stars | 24,388 |
+| Forks | 2,096 |
+| Stars this week | 155 |
+
+---
+
+## 13. [groue/GRDB.swift](https://github.com/groue/GRDB.swift) 🆕
+
+A toolkit for SQLite databases, with a focus on application development
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 8,715 |
+| Forks | 1,092 |
+| Stars this week | 14 |
+
+---
+
+## 14. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) 🆕
+
+macOS video editor built for AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,645 |
+| Forks | 1,152 |
+| Stars this week | 40 |
+
+---
+
+## 15. [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) 🆕
+
+Free Weather Forecast API for non-commercial use
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,550 |
+| Forks | 462 |
+| Stars this week | 123 |
+
+---
+
+## 16. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) 🆕
+
+ This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 117,290 |
+| Forks | 9,815 |
+| Stars this week | 669 |
+
+---
+
+## 17. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) 🆕
+
+Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 12,586 |
+| Forks | 916 |
+| Stars this week | 239 |
 
 ---

@@ -1,204 +1,139 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-28T05:32:58Z
-**Total Repositories:** 15
-**New Entries:** 9
+**Snapshot Time:** 2026-10-29T05:40:56Z
+**Total Repositories:** 10
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) 🆕
+## 1. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 46,430 |
-| Forks | 5,808 |
-| Stars today | 1,598 |
+| Stars | 48,449 |
+| Forks | 6,006 |
+| Stars today | 2,371 |
 
 ---
 
-## 2. [superdesigndev/treg](https://github.com/superdesigndev/treg) 🆕
-
-OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 6,411 |
-| Forks | 547 |
-| Stars today | 212 |
-
----
-
-## 3. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
-
-Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 22,854 |
-| Forks | 3,106 |
-| Stars today | 711 |
-
----
-
-## 4. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 105,084 |
-| Forks | 9,315 |
-| Stars today | 1,632 |
-
----
-
-## 5. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-
-TradingAgents: Multi-Agents LLM Financial Trading Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 117,456 |
-| Forks | 22,484 |
-| Stars today | 1,735 |
-
----
-
-## 6. [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) 🆕
-
-claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 9,642 |
-| Forks | 1,300 |
-| Stars today | 243 |
-
----
-
-## 7. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
-
-Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 22,786 |
-| Forks | 1,974 |
-| Stars today | 953 |
-
----
-
-## 8. [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
-
-SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 23,917 |
-| Forks | 3,881 |
-| Stars today | 41 |
-
----
-
-## 9. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+## 2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 91,729 |
-| Forks | 10,153 |
-| Stars today | 2,621 |
+| Stars | 93,266 |
+| Forks | 10,316 |
+| Stars today | 1,793 |
 
 ---
 
-## 10. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 🆕
+## 3. [p-e-w/heretic](https://github.com/p-e-w/heretic) 🆕
 
-Learn AI Engineering! Learn it. Build it. Ship it for others.
+Fully automatic censorship removal for language models
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 74,768 |
-| Forks | 13,116 |
-| Stars today | 424 |
+| Stars | 37,017 |
+| Forks | 4,207 |
+| Stars today | 307 |
 
 ---
 
-## 11. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) 🆕
+## 4. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
 
-A skill to stop your coding agent from burying the answer. ADHD-friendly output.
+Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 59,093 |
-| Forks | 3,428 |
-| Stars today | 195 |
+| Stars | 23,503 |
+| Forks | 3,168 |
+| Stars today | 581 |
 
 ---
 
-## 12. [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm) 🆕
+## 5. [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) 🆕
 
-AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more)
+Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,041 |
-| Forks | 369 |
-| Stars today | 33 |
+| Stars | 29,595 |
+| Forks | 3,156 |
+| Stars today | 429 |
 
 ---
 
-## 13. [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) 🆕
+## 6. [github/spec-kit](https://github.com/github/spec-kit) 🆕
 
-Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
+💫 Toolkit to help you get started with SDD or any other process!
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 48,195 |
-| Forks | 3,268 |
-| Stars today | 21 |
+| Stars | 143,722 |
+| Forks | 12,873 |
+| Stars today | 361 |
 
 ---
 
-## 14. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) 🆕
+## 7. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 
-Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
+TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 387 |
-| Forks | 50 |
-| Stars today | 80 |
+| Stars | 117,988 |
+| Forks | 22,568 |
+| Stars today | 654 |
 
 ---
 
-## 15. [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 🆕
+## 8. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 
-分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 185,098 |
-| Forks | 13,121 |
-| Stars today | 296 |
+| Stars | 23,150 |
+| Forks | 2,001 |
+| Stars today | 298 |
+
+---
+
+## 9. [shitagaki-lab/see-through](https://github.com/shitagaki-lab/see-through) 🆕
+
+"Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026 Conference Paper)
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 5,113 |
+| Forks | 450 |
+| Stars today | 74 |
+
+---
+
+## 10. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) 🆕
+
+Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 64,697 |
+| Forks | 10,079 |
+| Stars today | 400 |
 
 ---

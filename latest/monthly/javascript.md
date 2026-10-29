@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-28T05:33:39Z
+**Snapshot Time:** 2026-10-29T05:41:36Z
 **Total Repositories:** 16
-**New Entries:** 0
+**New Entries:** 3
 **Quality Score:** 97.50/100
 
 ---
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 50,476 |
-| Forks | 3,182 |
-| Stars this month | 27,415 |
+| Stars | 51,906 |
+| Forks | 3,311 |
+| Stars this month | 28,617 |
 
 ---
 
@@ -28,35 +28,35 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 291,063 |
-| Forks | 43,091 |
-| Stars this month | 23,998 |
+| Stars | 291,933 |
+| Forks | 43,215 |
+| Stars this month | 24,428 |
 
 ---
 
-## 3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+## 3. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
+
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 104,732 |
+| Forks | 7,083 |
+| Stars this month | 13,933 |
+
+---
+
+## 4. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 178,361 |
-| Forks | 9,762 |
-| Stars this month | 32,214 |
-
----
-
-## 4. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-
-Production-grade engineering skills for AI coding agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 111,226 |
-| Forks | 11,638 |
-| Stars this month | 12,128 |
+| Stars | 179,385 |
+| Forks | 9,834 |
+| Stars this month | 32,691 |
 
 ---
 
@@ -67,35 +67,35 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 16,747 |
-| Forks | 2,179 |
-| Stars this month | 15,159 |
+| Stars | 17,106 |
+| Forks | 2,230 |
+| Stars this month | 15,583 |
 
 ---
 
-## 6. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 6. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 57,158 |
+| Forks | 8,432 |
+| Stars this month | 5,528 |
+
+---
+
+## 7. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 33,386 |
-| Forks | 2,342 |
-| Stars this month | 12,285 |
-
----
-
-## 7. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
-
-Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 3,532 |
-| Forks | 329 |
-| Stars this month | 2,892 |
+| Stars | 35,375 |
+| Forks | 2,509 |
+| Stars this month | 13,651 |
 
 ---
 
@@ -104,9 +104,9 @@ Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent version
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,425 |
-| Forks | 1,200 |
-| Stars this month | 2,901 |
+| Stars | 7,439 |
+| Forks | 1,206 |
+| Stars this month | 2,922 |
 
 ---
 
@@ -117,8 +117,8 @@ List of Permanent Free LLM API (API Keys)
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 11,438 |
-| Forks | 1,303 |
+| Stars | 11,546 |
+| Forks | 1,321 |
 | Stars this month | 3,021 |
 
 ---
@@ -130,74 +130,74 @@ A living pixel-art station where real AI agents do real work. Local-first deskto
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,638 |
-| Forks | 336 |
-| Stars this month | 977 |
+| Stars | 1,648 |
+| Forks | 338 |
+| Stars this month | 952 |
 
 ---
 
-## 11. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+## 11. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 56,948 |
-| Forks | 8,408 |
-| Stars this month | 5,422 |
+| Stars | 111,513 |
+| Forks | 11,657 |
+| Stars this month | 12,260 |
 
 ---
 
-## 12. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
-
-Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 3,038 |
-| Forks | 292 |
-| Stars this month | 1,582 |
-
----
-
-## 13. [mrdoob/three.js](https://github.com/mrdoob/three.js)
+## 12. [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 JavaScript 3D Library.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,093 |
-| Forks | 36,775 |
-| Stars this month | 1,409 |
+| Stars | 117,156 |
+| Forks | 36,795 |
+| Stars this month | 1,444 |
 
 ---
 
-## 14. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
+## 13. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
 
-Vercel's official collection of agent skills
+Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 33,121 |
-| Forks | 2,899 |
+| Stars | 3,052 |
+| Forks | 293 |
 | Stars this month | 1,585 |
 
 ---
 
-## 15. [byoungd/up](https://github.com/byoungd/up)
+## 14. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🆕
 
-韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
+🎆Interactive Online Platform that Visualizes Algorithms from Code
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,589 |
-| Forks | 6,917 |
-| Stars this month | 5,823 |
+| Stars | 49,227 |
+| Forks | 7,639 |
+| Stars this month | 438 |
+
+---
+
+## 15. [qist/tvbox](https://github.com/qist/tvbox) 🆕
+
+OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 12,412 |
+| Forks | 4,344 |
+| Stars this month | 925 |
 
 ---
 
@@ -208,8 +208,8 @@ Command-line tool to customize Spotify client. Supports Windows, macOS, and Linu
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 25,280 |
-| Forks | 995 |
-| Stars this month | 695 |
+| Stars | 25,288 |
+| Forks | 994 |
+| Stars this month | 705 |
 
 ---

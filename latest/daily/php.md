@@ -1,189 +1,227 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-28T05:33:03Z
-**Total Repositories:** 14
-**New Entries:** 10
+**Snapshot Time:** 2026-10-29T05:41:01Z
+**Total Repositories:** 17
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [coollabsio/coolify](https://github.com/coollabsio/coolify)
+## 1. [akaunting/akaunting](https://github.com/akaunting/akaunting) 🆕
 
-An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 65,090 |
-| Forks | 5,845 |
-| Stars today | 136 |
-
----
-
-## 2. [metadist/synaplan](https://github.com/metadist/synaplan)
-
-Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0.
+Online Accounting Software
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 321 |
-| Forks | 42 |
-| Stars today | 26 |
+| Stars | 10,248 |
+| Forks | 3,011 |
+| Stars today | 6 |
 
 ---
 
-## 3. [symfony/symfony](https://github.com/symfony/symfony)
-
-The Symfony PHP framework
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 31,211 |
-| Forks | 9,918 |
-| Stars today | 3 |
-
----
-
-## 4. [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) 🆕
-
-Modern open-source time-tracking app
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,053 |
-| Forks | 524 |
-| Stars today | 13 |
-
----
-
-## 5. [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-
-⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,475 |
-| Forks | 1,627 |
-
----
-
-## 6. [glpi-project/glpi](https://github.com/glpi-project/glpi) 🆕
+## 2. [glpi-project/glpi](https://github.com/glpi-project/glpi)
 
 GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,520 |
-| Forks | 1,845 |
+| Stars | 6,526 |
+| Forks | 1,846 |
 | Stars today | 7 |
 
 ---
 
-## 7. [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) 🆕
+## 3. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) 🆕
 
-A pure PHP library for reading and writing spreadsheet files
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 14,003 |
-| Forks | 3,633 |
-| Stars today | 1 |
+| Stars | 74,422 |
+| Forks | 25,169 |
+| Stars today | 29 |
 
 ---
 
-## 8. [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) 🆕
+## 4. [metadist/synaplan](https://github.com/metadist/synaplan)
+
+Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 359 |
+| Forks | 48 |
+| Stars today | 27 |
+
+---
+
+## 5. [digininja/DVWA](https://github.com/digininja/DVWA) 🆕
+
+Damn Vulnerable Web Application (DVWA)
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 13,914 |
+| Forks | 5,233 |
+| Stars today | 6 |
+
+---
+
+## 6. [metadist/synaplan-nextcloud](https://github.com/metadist/synaplan-nextcloud) 🆕
+
+Synaplan AI integration into nextcloud for RAG powered discussions, translations and summaries. Run your own AI platform next to your nextcloud!
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 250 |
+| Forks | 26 |
+| Stars today | 34 |
+
+---
+
+## 7. [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
 The classic email sending library for PHP
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 22,336 |
-| Forks | 9,769 |
+| Stars | 22,339 |
+| Forks | 9,768 |
+| Stars today | 2 |
+
+---
+
+## 8. [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) 🆕
+
+An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 1,888 |
+| Forks | 227 |
+| Stars today | 2 |
+
+---
+
+## 9. [DataDog/dd-trace-php](https://github.com/DataDog/dd-trace-php) 🆕
+
+Datadog PHP Clients
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 558 |
+| Forks | 192 |
+
+---
+
+## 10. [laravel/framework](https://github.com/laravel/framework) 🆕
+
+Laravel is a web application framework with expressive, elegant syntax.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 34,985 |
+| Forks | 12,022 |
 | Stars today | 5 |
 
 ---
 
-## 9. [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault) 🆕
+## 11. [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
 
 openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,035 |
-| Forks | 614 |
-| Stars today | 8 |
+| Stars | 7,042 |
+| Forks | 615 |
+| Stars today | 9 |
 
 ---
 
-## 10. [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) 🆕
+## 12. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
 
-Free and Open Source ERP software
+A free open source IT asset/license management system
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 12,124 |
-| Forks | 608 |
-| Stars today | 8 |
+| Stars | 15,111 |
+| Forks | 4,047 |
+| Stars today | 10 |
 
 ---
 
-## 11. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter) 🆕
+## 13. [composer/composer](https://github.com/composer/composer) 🆕
 
-Free and open-source webshop solution for hostings
+Dependency Manager for PHP
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,809 |
-| Forks | 560 |
+| Stars | 29,565 |
+| Forks | 4,860 |
 | Stars today | 5 |
 
 ---
 
-## 12. [Qloapps/QloApps](https://github.com/Qloapps/QloApps) 🆕
-
-QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 14,451 |
-| Forks | 824 |
-| Stars today | 3 |
-
----
-
-## 13. [livewire/livewire](https://github.com/livewire/livewire) 🆕
-
-A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 23,580 |
-| Forks | 1,761 |
-
----
-
-## 14. [filamentphp/filament](https://github.com/filamentphp/filament) 🆕
+## 14. [filamentphp/filament](https://github.com/filamentphp/filament)
 
 A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 32,354 |
-| Forks | 4,227 |
-| Stars today | 11 |
+| Stars | 32,366 |
+| Forks | 4,231 |
+| Stars today | 16 |
+
+---
+
+## 15. [mpdf/mpdf](https://github.com/mpdf/mpdf) 🆕
+
+PHP library generating PDF files from UTF-8 encoded HTML
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,703 |
+| Forks | 1,114 |
+
+---
+
+## 16. [TheHostingTool/TheHostingTool](https://github.com/TheHostingTool/TheHostingTool) 🆕
+
+A PHP-based, open-source, client management script geared towards free web hosting providers.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 75 |
+| Forks | 45 |
+
+---
+
+## 17. [Qloapps/QloApps](https://github.com/Qloapps/QloApps)
+
+QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 14,452 |
+| Forks | 825 |
+| Stars today | 1 |
 
 ---

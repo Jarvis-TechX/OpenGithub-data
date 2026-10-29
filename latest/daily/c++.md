@@ -1,139 +1,217 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-28T05:33:08Z
-**Total Repositories:** 10
-**New Entries:** 9
+**Snapshot Time:** 2026-10-29T05:41:07Z
+**Total Repositories:** 16
+**New Entries:** 15
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)
+## 1. [meta/rocksdb](https://github.com/meta/rocksdb) 🆕
+
+A library that provides an embeddable, persistent key-value store for fast storage.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 32,232 |
+| Forks | 6,991 |
+| Stars today | 6 |
+
+---
+
+## 2. [microsoft/BitNet](https://github.com/microsoft/BitNet) 🆕
+
+Official inference framework for 1-bit LLMs
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 41,275 |
+| Forks | 3,844 |
+| Stars today | 18 |
+
+---
+
+## 3. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)
 
 Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,971 |
-| Forks | 184 |
-| Stars today | 43 |
+| Stars | 2,002 |
+| Forks | 186 |
+| Stars today | 38 |
 
 ---
 
-## 2. [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) 🆕
+## 4. [wazuh/wazuh](https://github.com/wazuh/wazuh) 🆕
 
-Bitcoin Core integration/staging tree
+Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 90,523 |
-| Forks | 39,409 |
-| Stars today | 20 |
+| Stars | 17,481 |
+| Forks | 2,569 |
+| Stars today | 23 |
 
 ---
 
-## 3. [react/react-native](https://github.com/react/react-native) 🆕
+## 5. [oceanbase/seekdb](https://github.com/oceanbase/seekdb) 🆕
 
-A framework for building native applications using React
+The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one database makes agents smarter, easier to run, and more stable.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 126,804 |
-| Forks | 25,412 |
-| Stars today | 18 |
+| Stars | 3,202 |
+| Forks | 1,051 |
+| Stars today | 6 |
 
 ---
 
-## 4. [isl-org/Open3D](https://github.com/isl-org/Open3D) 🆕
+## 6. [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) 🆕
 
-Open3D: A Modern Library for 3D Data Processing
+Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 14,132 |
-| Forks | 2,646 |
+| Stars | 6,910 |
+| Forks | 1,394 |
+| Stars today | 10 |
+
+---
+
+## 7. [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) 🆕
+
+☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,794 |
+| Forks | 224 |
+| Stars today | 33 |
+
+---
+
+## 8. [wolfpld/tracy](https://github.com/wolfpld/tracy) 🆕
+
+Frame profiler
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 17,042 |
+| Forks | 1,227 |
+| Stars today | 13 |
+
+---
+
+## 9. [google/googletest](https://github.com/google/googletest) 🆕
+
+GoogleTest - Google Testing and Mocking Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 39,680 |
+| Forks | 10,925 |
 | Stars today | 5 |
 
 ---
 
-## 5. [ossrs/srs](https://github.com/ossrs/srs) 🆕
+## 10. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) 🆕
 
-SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.
+Protocol Buffers - Google's data interchange format
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 29,383 |
-| Forks | 5,704 |
+| Stars | 72,139 |
+| Forks | 16,336 |
+| Stars today | 7 |
+
+---
+
+## 11. [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) 🆕
+
+Tesseract Open Source OCR Engine (main repository)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 77,223 |
+| Forks | 10,869 |
+| Stars today | 23 |
+
+---
+
+## 12. [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) 🆕
+
+An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,836 |
+| Forks | 464 |
+| Stars today | 30 |
+
+---
+
+## 13. [google/perfetto](https://github.com/google/perfetto) 🆕
+
+Production-grade client-side tracing, profiling, and analysis for complex software systems.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 6,714 |
+| Forks | 920 |
+| Stars today | 2 |
+
+---
+
+## 14. [RxNaison/Epson-Waste-Reset](https://github.com/RxNaison/Epson-Waste-Reset) 🆕
+
+A free, native, and completely open-source utility to reset the "Waste Ink Pad" counter on Epson printers
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 430 |
+| Forks | 76 |
+| Stars today | 3 |
+
+---
+
+## 15. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
+
+An Open Source Machine Learning Framework for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 201,289 |
+| Forks | 78,732 |
+| Stars today | 33 |
+
+---
+
+## 16. [colmap/colmap](https://github.com/colmap/colmap) 🆕
+
+COLMAP - Structure-from-Motion and Multi-View Stereo
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 13,093 |
+| Forks | 2,205 |
 | Stars today | 6 |
-
----
-
-## 6. [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) 🆕
-
-A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 6,254 |
-| Forks | 541 |
-| Stars today | 16 |
-
----
-
-## 7. [apache/arrow](https://github.com/apache/arrow) 🆕
-
-Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 17,238 |
-| Forks | 4,404 |
-| Stars today | 6 |
-
----
-
-## 8. [argotorg/solidity](https://github.com/argotorg/solidity) 🆕
-
-Solidity, the Smart Contract Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 25,761 |
-| Forks | 6,177 |
-| Stars today | 6 |
-
----
-
-## 9. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) 🆕
-
-OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 11,080 |
-| Forks | 3,495 |
-| Stars today | 8 |
-
----
-
-## 10. [MariaDB/server](https://github.com/MariaDB/server) 🆕
-
-MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 8,463 |
-| Forks | 2,200 |
-| Stars today | 10 |
 
 ---
