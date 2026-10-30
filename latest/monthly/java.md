@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-29T05:41:49Z
+**Snapshot Time:** 2026-10-30T05:41:06Z
 **Total Repositories:** 20
-**New Entries:** 1
+**New Entries:** 2
 **Quality Score:** 98.00/100
 
 ---
@@ -15,9 +15,9 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 95,593 |
-| Forks | 10,771 |
-| Stars this month | 15,700 |
+| Stars | 95,938 |
+| Forks | 10,819 |
+| Stars this month | 16,113 |
 
 ---
 
@@ -28,9 +28,9 @@ Spring Boot helps you to create Spring-powered, production-grade applications an
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 81,777 |
-| Forks | 44,067 |
-| Stars this month | 532 |
+| Stars | 81,711 |
+| Forks | 44,051 |
+| Stars this month | 533 |
 
 ---
 
@@ -41,9 +41,9 @@ A Minecraft Launcher which is multi-functional, cross-platform and popular
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,797 |
-| Forks | 1,285 |
-| Stars this month | 702 |
+| Stars | 10,814 |
+| Forks | 1,288 |
+| Stars this month | 715 |
 
 ---
 
@@ -54,35 +54,35 @@ Free and Open Source, Distributed, RESTful Search Engine
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,427 |
-| Forks | 26,163 |
-| Stars this month | 539 |
+| Stars | 78,416 |
+| Forks | 26,186 |
+| Stars this month | 482 |
 
 ---
 
-## 5. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
-
-MCP Server for Ghidra
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 11,617 |
-| Forks | 1,238 |
-| Stars this month | 1,457 |
-
----
-
-## 6. [krahets/hello-algo](https://github.com/krahets/hello-algo)
+## 5. [krahets/hello-algo](https://github.com/krahets/hello-algo)
 
 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 131,642 |
-| Forks | 15,569 |
-| Stars this month | 1,578 |
+| Stars | 131,703 |
+| Forks | 15,571 |
+| Stars this month | 1,633 |
+
+---
+
+## 6. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+
+MCP Server for Ghidra
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 11,647 |
+| Forks | 1,243 |
+| Stars this month | 1,468 |
 
 ---
 
@@ -93,9 +93,9 @@ A tool for reverse engineering Android apk files
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,774 |
-| Forks | 4,161 |
-| Stars this month | 1,134 |
+| Stars | 26,820 |
+| Forks | 4,179 |
+| Stars this month | 1,161 |
 
 ---
 
@@ -106,9 +106,9 @@ Termux - a terminal emulator application for Android OS extendible by variety of
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 63,633 |
-| Forks | 8,069 |
-| Stars this month | 2,210 |
+| Stars | 63,698 |
+| Forks | 8,079 |
+| Stars this month | 2,217 |
 
 ---
 
@@ -119,124 +119,124 @@ Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,083 |
+| Stars | 5,088 |
 | Forks | 359 |
-| Stars this month | 321 |
+| Stars this month | 317 |
 
 ---
 
-## 10. [kestra-io/kestra](https://github.com/kestra-io/kestra)
-
-Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 30,054 |
-| Forks | 3,487 |
-| Stars this month | 1,732 |
-
----
-
-## 11. [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
-
-AndroidIDE is an IDE for Android to develop full featured Android apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,321 |
-| Forks | 746 |
-| Stars this month | 170 |
-
----
-
-## 12. [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,462 |
-| Forks | 227 |
-| Stars this month | 106 |
-
----
-
-## 13. [skylot/jadx](https://github.com/skylot/jadx)
-
-Dex to Java decompiler
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 51,351 |
-| Forks | 5,841 |
-| Stars this month | 771 |
-
----
-
-## 14. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
+## 10. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
 
 Advanced Sentry Mode for BYD Vehicles
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 401 |
+| Stars | 402 |
 | Forks | 116 |
-| Stars this month | 121 |
+| Stars this month | 117 |
 
 ---
 
-## 15. [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+## 11. [kestra-io/kestra](https://github.com/kestra-io/kestra)
+
+Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 30,067 |
+| Forks | 3,488 |
+| Stars this month | 1,665 |
+
+---
+
+## 12. [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
+
+AndroidIDE is an IDE for Android to develop full featured Android apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,324 |
+| Forks | 747 |
+| Stars this month | 176 |
+
+---
+
+## 13. [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
 
 Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,972 |
-| Forks | 362 |
-| Stars this month | 1,962 |
+| Stars | 6,008 |
+| Forks | 367 |
+| Stars this month | 1,974 |
 
 ---
 
-## 16. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-
-A libre lightweight streaming front-end for Android.
+## 14. [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,341 |
-| Forks | 3,937 |
-| Stars this month | 665 |
+| Stars | 1,468 |
+| Forks | 228 |
+| Stars this month | 104 |
 
 ---
 
-## 17. [apache/flink](https://github.com/apache/flink)
+## 15. [skylot/jadx](https://github.com/skylot/jadx)
 
-Apache Flink
+Dex to Java decompiler
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,436 |
-| Forks | 14,142 |
-| Stars this month | 94 |
+| Stars | 51,375 |
+| Forks | 5,845 |
+| Stars this month | 792 |
 
 ---
 
-## 18. [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD) 🆕
+## 16. [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD)
 
 The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,174 |
+| Stars | 3,184 |
 | Forks | 348 |
-| Stars this month | 180 |
+| Stars this month | 182 |
+
+---
+
+## 17. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+
+A libre lightweight streaming front-end for Android.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 40,358 |
+| Forks | 3,940 |
+| Stars this month | 662 |
+
+---
+
+## 18. [trinodb/trino](https://github.com/trinodb/trino) 🆕
+
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,385 |
+| Forks | 3,847 |
+| Stars this month | 113 |
 
 ---
 
@@ -247,21 +247,21 @@ Everything you need to know to get the job.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,528 |
+| Stars | 65,532 |
 | Forks | 12,927 |
-| Stars this month | 326 |
+| Stars this month | 331 |
 
 ---
 
-## 20. [MCRcortex/voxy](https://github.com/MCRcortex/voxy)
+## 20. [DrKLO/Telegram](https://github.com/DrKLO/Telegram) 🆕
 
-An LoD rendering mod for minecraft
+Telegram for Android source
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,353 |
-| Forks | 1,506 |
-| Stars this month | 100 |
+| Stars | 30,187 |
+| Forks | 10,392 |
+| Stars this month | 296 |
 
 ---

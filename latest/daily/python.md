@@ -1,7 +1,7 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-29T05:40:56Z
+**Snapshot Time:** 2026-10-30T05:40:15Z
 **Total Repositories:** 10
 **New Entries:** 5
 **Quality Score:** 100.00/100
@@ -15,125 +15,125 @@ DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 48,449 |
-| Forks | 6,006 |
-| Stars today | 2,371 |
+| Stars | 50,616 |
+| Forks | 6,232 |
+| Stars today | 1,930 |
 
 ---
 
-## 2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 93,266 |
-| Forks | 10,316 |
-| Stars today | 1,793 |
-
----
-
-## 3. [p-e-w/heretic](https://github.com/p-e-w/heretic) 🆕
-
-Fully automatic censorship removal for language models
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 37,017 |
-| Forks | 4,207 |
-| Stars today | 307 |
-
----
-
-## 4. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
-
-Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 23,503 |
-| Forks | 3,168 |
-| Stars today | 581 |
-
----
-
-## 5. [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) 🆕
-
-Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 29,595 |
-| Forks | 3,156 |
-| Stars today | 429 |
-
----
-
-## 6. [github/spec-kit](https://github.com/github/spec-kit) 🆕
+## 2. [github/spec-kit](https://github.com/github/spec-kit)
 
 💫 Toolkit to help you get started with SDD or any other process!
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 143,722 |
-| Forks | 12,873 |
-| Stars today | 361 |
+| Stars | 143,967 |
+| Forks | 12,892 |
+| Stars today | 335 |
 
 ---
 
-## 7. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+## 3. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 🆕
 
-TradingAgents: Multi-Agents LLM Financial Trading Framework
+Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 117,988 |
-| Forks | 22,568 |
-| Stars today | 654 |
+| Stars | 75,623 |
+| Forks | 13,314 |
+| Stars today | 443 |
 
 ---
 
-## 8. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+## 4. [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
 
-Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 23,150 |
-| Forks | 2,001 |
-| Stars today | 298 |
+| Stars | 29,796 |
+| Forks | 3,175 |
+| Stars today | 247 |
 
 ---
 
-## 9. [shitagaki-lab/see-through](https://github.com/shitagaki-lab/see-through) 🆕
+## 5. [p-e-w/heretic](https://github.com/p-e-w/heretic)
 
-"Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026 Conference Paper)
+Fully automatic censorship removal for language models
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,113 |
-| Forks | 450 |
-| Stars today | 74 |
+| Stars | 37,134 |
+| Forks | 4,224 |
+| Stars today | 152 |
 
 ---
 
-## 10. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) 🆕
+## 6. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🆕
 
-Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+Hindsight: Agent Memory That Learns
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 64,697 |
-| Forks | 10,079 |
-| Stars today | 400 |
+| Stars | 56,279 |
+| Forks | 6,739 |
+| Stars today | 1,454 |
+
+---
+
+## 7. [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) 🆕
+
+⚚ The coding harness with Hermes Agent wired into IDE.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 4,881 |
+| Forks | 388 |
+| Stars today | 267 |
+
+---
+
+## 8. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
+
+Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 24,097 |
+| Forks | 3,230 |
+| Stars today | 682 |
+
+---
+
+## 9. [volcengine/OpenViking](https://github.com/volcengine/OpenViking) 🆕
+
+Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 41,169 |
+| Forks | 3,339 |
+| Stars today | 88 |
+
+---
+
+## 10. [ansible/ansible](https://github.com/ansible/ansible) 🆕
+
+Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 71,158 |
+| Forks | 24,421 |
+| Stars today | 22 |
 
 ---

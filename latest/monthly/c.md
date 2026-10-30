@@ -1,9 +1,9 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-29T05:41:46Z
+**Snapshot Time:** 2026-10-30T05:41:03Z
 **Total Repositories:** 17
-**New Entries:** 3
+**New Entries:** 0
 **Quality Score:** 97.65/100
 
 ---
@@ -15,9 +15,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,707 |
-| Forks | 8,474 |
-| Stars this month | 1,376 |
+| Stars | 41,726 |
+| Forks | 8,493 |
+| Stars this month | 1,388 |
 
 ---
 
@@ -28,9 +28,9 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,943 |
-| Forks | 369 |
-| Stars this month | 1,980 |
+| Stars | 2,969 |
+| Forks | 373 |
+| Stars this month | 1,926 |
 
 ---
 
@@ -41,9 +41,9 @@ Display and control your Android device
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 153,429 |
-| Forks | 14,082 |
-| Stars this month | 3,333 |
+| Stars | 153,535 |
+| Forks | 14,092 |
+| Stars this month | 3,372 |
 
 ---
 
@@ -54,74 +54,74 @@ A native, user-mode, multi-process, graphical debugger.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 8,704 |
-| Forks | 435 |
-| Stars this month | 1,200 |
+| Stars | 8,715 |
+| Forks | 439 |
+| Stars this month | 1,209 |
 
 ---
 
-## 5. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
-
-Xbox 360 Recompilation Runtime and Toolkit
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 1,202 |
-| Forks | 248 |
-| Stars this month | 285 |
-
----
-
-## 6. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+## 5. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 78,522 |
-| Forks | 10,936 |
-| Stars this month | 1,928 |
+| Stars | 78,589 |
+| Forks | 10,957 |
+| Stars this month | 1,977 |
 
 ---
 
-## 7. [matz/spinel](https://github.com/matz/spinel) 🆕
+## 6. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
 
-Ruby AOT compiler
+Xbox 360 Recompilation Runtime and Toolkit
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,286 |
-| Forks | 166 |
-| Stars this month | 307 |
+| Stars | 1,205 |
+| Forks | 250 |
+| Stars this month | 286 |
 
 ---
 
-## 8. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+## 7. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 
 An advanced Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,651 |
-| Forks | 1,234 |
-| Stars this month | 377 |
+| Stars | 4,658 |
+| Forks | 1,237 |
+| Stars this month | 379 |
 
 ---
 
-## 9. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+## 8. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
 
 ehviewer，用爱发电，快乐前行
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,373 |
-| Forks | 755 |
-| Stars this month | 1,281 |
+| Stars | 28,405 |
+| Forks | 758 |
+| Stars this month | 1,296 |
+
+---
+
+## 9. [systemd/systemd](https://github.com/systemd/systemd)
+
+The systemd System and Service Manager
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,956 |
+| Forks | 4,792 |
+| Stars this month | 226 |
 
 ---
 
@@ -132,9 +132,9 @@ A new bootable USB solution.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 80,427 |
-| Forks | 5,016 |
-| Stars this month | 978 |
+| Stars | 80,457 |
+| Forks | 5,019 |
+| Stars this month | 987 |
 
 ---
 
@@ -145,9 +145,9 @@ A simple and easy-to-use library to enjoy videogames programming
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 35,465 |
-| Forks | 3,360 |
-| Stars this month | 705 |
+| Stars | 35,474 |
+| Forks | 3,361 |
+| Stars this month | 702 |
 
 ---
 
@@ -158,48 +158,48 @@ For developers, who are building real-time data-driven applications, Redis is th
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 77,154 |
-| Forks | 24,957 |
-| Stars this month | 1,058 |
+| Stars | 77,091 |
+| Forks | 24,979 |
+| Stars this month | 1,049 |
 
 ---
 
-## 13. [systemd/systemd](https://github.com/systemd/systemd)
-
-The systemd System and Service Manager
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,957 |
-| Forks | 4,788 |
-| Stars this month | 233 |
-
----
-
-## 14. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+## 13. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 
 GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,815 |
-| Forks | 2,241 |
-| Stars this month | 205 |
+| Stars | 28,818 |
+| Forks | 2,243 |
+| Stars this month | 204 |
 
 ---
 
-## 15. [reactos/reactos](https://github.com/reactos/reactos) 🆕
+## 14. [matz/spinel](https://github.com/matz/spinel)
+
+Ruby AOT compiler
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 2,289 |
+| Forks | 168 |
+| Stars this month | 289 |
+
+---
+
+## 15. [reactos/reactos](https://github.com/reactos/reactos)
 
 A free Windows-compatible Operating System
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 18,390 |
-| Forks | 2,311 |
-| Stars this month | 279 |
+| Stars | 18,400 |
+| Forks | 2,315 |
+| Stars this month | 289 |
 
 ---
 
@@ -208,21 +208,21 @@ A free Windows-compatible Operating System
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 842 |
+| Stars | 849 |
 | Forks | 65 |
-| Stars this month | 379 |
+| Stars this month | 376 |
 
 ---
 
-## 17. [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) 🆕
+## 17. [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
 
 YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 10,636 |
-| Forks | 1,432 |
-| Stars this month | 85 |
+| Stars | 10,637 |
+| Forks | 1,448 |
+| Stars this month | 84 |
 
 ---

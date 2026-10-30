@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-29T05:40:59Z
-**Total Repositories:** 14
-**New Entries:** 7
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-10-30T05:40:17Z
+**Total Repositories:** 17
+**New Entries:** 12
+**Quality Score:** 97.65/100
 
 ---
 
@@ -15,22 +15,22 @@ Vibe code with pi in a lightweight, real IDE that customises itself around the w
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,308 |
-| Forks | 271 |
-| Stars today | 1,068 |
+| Stars | 6,144 |
+| Forks | 334 |
+| Stars today | 1,117 |
 
 ---
 
-## 2. [makecindy/cindy](https://github.com/makecindy/cindy)
+## 2. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) 🆕
 
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+Open-source Grok Bot alternative with a virtual machine that bots can use
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,261 |
-| Forks | 965 |
-| Stars today | 728 |
+| Stars | 7,647 |
+| Forks | 1,129 |
+| Stars today | 1,199 |
 
 ---
 
@@ -41,9 +41,9 @@ A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,411 |
-| Forks | 328 |
-| Stars today | 1,054 |
+| Stars | 3,996 |
+| Forks | 367 |
+| Stars today | 709 |
 
 ---
 
@@ -54,138 +54,175 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 104,097 |
-| Forks | 9,182 |
-| Stars today | 324 |
+| Stars | 105,011 |
+| Forks | 9,257 |
+| Stars today | 336 |
 
 ---
 
-## 5. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 🆕
+## 5. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) 🆕
 
-Teams-first Multi-agent orchestration for Claude Code
+Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 40,373 |
-| Forks | 3,606 |
-| Stars today | 40 |
+| Stars | 8,287 |
+| Forks | 1,054 |
+| Stars today | 247 |
 
 ---
 
-## 6. [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) 🆕
+## 6. [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 🆕
 
-Infrastructure as Effects
+Clone any website with one command using AI coding agents
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,792 |
-| Forks | 263 |
-| Stars today | 19 |
-
----
-
-## 7. [n8n-io/n8n](https://github.com/n8n-io/n8n) 🆕
-
-Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 208,944 |
-| Forks | 61,294 |
+| Stars | 37,970 |
+| Forks | 5,576 |
 | Stars today | 156 |
 
 ---
 
-## 8. [every-app/open-seo](https://github.com/every-app/open-seo) 🆕
+## 7. [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) 🆕
 
-Open source alternative to Semrush and Ahrefs
+The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 25,537 |
-| Forks | 3,481 |
-| Stars today | 200 |
+| Stars | 3,037 |
+| Forks | 499 |
+| Stars today | 111 |
 
 ---
 
-## 9. [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) 🆕
+## 8. [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) 🆕
 
-Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 50,212 |
-| Forks | 5,770 |
-| Stars today | 476 |
-
----
-
-## 10. [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) 🆕
-
-Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 15,699 |
-| Forks | 1,402 |
+| Stars | 38,376 |
+| Forks | 4,792 |
 | Stars today | 48 |
 
 ---
 
-## 11. [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+## 9. [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) 🆕
+
+Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 36,948 |
+| Forks | 3,241 |
+| Stars today | 152 |
+
+---
+
+## 10. [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
 
 📨 The ultimate agentic social media scheduling tool 🤖
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 40,009 |
-| Forks | 7,583 |
-| Stars today | 893 |
+| Stars | 40,138 |
+| Forks | 7,617 |
+| Stars today | 199 |
 
 ---
 
-## 12. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+## 11. [microsoft/playwright](https://github.com/microsoft/playwright) 🆕
 
-Chrome DevTools for coding agents
+Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 54,379 |
-| Forks | 5,898 |
-| Stars today | 95 |
+| Stars | 98,839 |
+| Forks | 6,737 |
+| Stars today | 82 |
 
 ---
 
-## 13. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 12. [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 
-Write HTML. Render video. Built for agents.
+Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 74,898 |
-| Forks | 6,805 |
-| Stars today | 846 |
+| Stars | 50,451 |
+| Forks | 5,805 |
+| Stars today | 334 |
 
 ---
 
-## 14. [upscayl/upscayl](https://github.com/upscayl/upscayl) 🆕
+## 13. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) 🆕
 
-🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 51,241 |
-| Forks | 2,661 |
-| Stars today | 61 |
+| Stars | 10,249 |
+| Forks | 1,130 |
+| Stars today | 203 |
+
+---
+
+## 14. [openobserve/openobserve](https://github.com/openobserve/openobserve) 🆕
+
+Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 22,601 |
+| Forks | 1,162 |
+| Stars today | 34 |
+
+---
+
+## 15. [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) 🆕
+
+An Open Source implementation of Notebook LM with more flexibility and features
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 40,955 |
+| Forks | 4,700 |
+| Stars today | 220 |
+
+---
+
+## 16. [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 9,712 |
+| Forks | 2,233 |
+| Stars today | 17 |
+
+---
+
+## 17. [prisma/orm](https://github.com/prisma/orm) 🆕
+
+The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 47,666 |
+| Forks | 2,584 |
+| Stars today | 5 |
 
 ---

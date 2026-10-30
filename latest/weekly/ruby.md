@@ -1,36 +1,36 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-29T05:41:20Z
+**Snapshot Time:** 2026-10-30T05:40:38Z
 **Total Repositories:** 22
-**New Entries:** 4
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [huginn/huginn](https://github.com/huginn/huginn)
-
-Create agents that monitor and act on your behalf. Your agents are standing by!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,169 |
-| Forks | 4,323 |
-| Stars this week | 101 |
-
----
-
-## 2. [opf/openproject](https://github.com/opf/openproject)
+## 1. [opf/openproject](https://github.com/opf/openproject)
 
 OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,787 |
-| Forks | 3,636 |
-| Stars this week | 247 |
+| Stars | 16,825 |
+| Forks | 3,651 |
+| Stars this week | 262 |
+
+---
+
+## 2. [huginn/huginn](https://github.com/huginn/huginn)
+
+Create agents that monitor and act on your behalf. Your agents are standing by!
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,194 |
+| Forks | 4,324 |
+| Stars this week | 96 |
 
 ---
 
@@ -41,22 +41,22 @@ Open source DocuSign alternative. Create, fill, and sign digital documents ✍�
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 18,918 |
-| Forks | 1,919 |
-| Stars this week | 145 |
+| Stars | 18,940 |
+| Forks | 1,921 |
+| Stars this week | 166 |
 
 ---
 
-## 4. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+## 4. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
 
-Metasploit Framework
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,261 |
-| Forks | 14,997 |
-| Stars this week | 78 |
+| Stars | 38,598 |
+| Forks | 9,395 |
+| Stars this week | 496 |
 
 ---
 
@@ -67,35 +67,35 @@ Metasploit Framework
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,647 |
-| Forks | 13,941 |
-| Stars this week | 19 |
+| Stars | 15,651 |
+| Forks | 13,942 |
+| Stars this week | 17 |
 
 ---
 
-## 6. [Homebrew/brew](https://github.com/Homebrew/brew)
+## 6. [jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-🍺 The Package Manager for Everywhere
+🌐 Jekyll is a blog-aware static site generator in Ruby
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,138 |
-| Forks | 11,399 |
-| Stars this week | 98 |
+| Stars | 51,739 |
+| Forks | 10,307 |
+| Stars this week | 36 |
 
 ---
 
-## 7. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+## 7. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 
-Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+Metasploit Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 38,524 |
-| Forks | 9,377 |
-| Stars this week | 452 |
+| Stars | 39,267 |
+| Forks | 15,001 |
+| Stars this week | 78 |
 
 ---
 
@@ -106,9 +106,9 @@ Vagrant is a tool for building and distributing development environments.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 27,215 |
-| Forks | 4,463 |
-| Stars this week | 13 |
+| Stars | 27,214 |
+| Forks | 4,480 |
+| Stars this week | 12 |
 
 ---
 
@@ -119,78 +119,26 @@ Community-curated topic and collection pages on GitHub
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,938 |
-| Forks | 14,674 |
-| Stars this week | 21 |
+| Stars | 4,940 |
+| Forks | 14,676 |
+| Stars this week | 24 |
 
 ---
 
-## 10. [jekyll/jekyll](https://github.com/jekyll/jekyll)
+## 10. [basecamp/kamal](https://github.com/basecamp/kamal)
 
-🌐 Jekyll is a blog-aware static site generator in Ruby
+Deploy web apps anywhere.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 51,738 |
-| Forks | 10,308 |
-| Stars this week | 37 |
+| Stars | 14,696 |
+| Forks | 767 |
+| Stars this week | 25 |
 
 ---
 
-## 11. [rails/rails](https://github.com/rails/rails)
-
-Ruby on Rails
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 58,855 |
-| Forks | 24,511 |
-| Stars this week | 49 |
-
----
-
-## 12. [ruby/ruby](https://github.com/ruby/ruby)
-
-The Ruby Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 23,795 |
-| Forks | 5,674 |
-| Stars this week | 18 |
-
----
-
-## 13. [forem/forem](https://github.com/forem/forem)
-
-For empowering community 🌱
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 22,811 |
-| Forks | 4,195 |
-| Stars this week | 11 |
-
----
-
-## 14. [github-linguist/linguist](https://github.com/github-linguist/linguist) 🆕
-
-Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 13,752 |
-| Forks | 5,513 |
-| Stars this week | 18 |
-
----
-
-## 15. [instructure/canvas-lms](https://github.com/instructure/canvas-lms)
+## 11. [instructure/canvas-lms](https://github.com/instructure/canvas-lms)
 
 The open LMS by Instructure, Inc.
 
@@ -199,50 +147,128 @@ The open LMS by Instructure, Inc.
 | Language | Ruby |
 | Stars | 6,890 |
 | Forks | 3,057 |
-| Stars this week | 14 |
+| Stars this week | 12 |
 
 ---
 
-## 16. [mastodon/mastodon](https://github.com/mastodon/mastodon)
+## 12. [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🆕
 
-Your self-hosted, globally interconnected microblogging community
+A curated list of engineering blogs
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,456 |
-| Forks | 7,527 |
-| Stars this week | 42 |
+| Stars | 38,836 |
+| Forks | 2,056 |
+| Stars this week | 48 |
 
 ---
 
-## 17. [postalserver/postal](https://github.com/postalserver/postal) 🆕
+## 13. [fastlane/fastlane](https://github.com/fastlane/fastlane) 🆕
+
+🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 42,322 |
+| Forks | 6,049 |
+| Stars this week | 52 |
+
+---
+
+## 14. [rails/rails](https://github.com/rails/rails)
+
+Ruby on Rails
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 58,855 |
+| Forks | 24,491 |
+| Stars this week | 35 |
+
+---
+
+## 15. [Homebrew/brew](https://github.com/Homebrew/brew)
+
+🍺 The Package Manager for Everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,155 |
+| Forks | 11,404 |
+| Stars this week | 97 |
+
+---
+
+## 16. [zammad/zammad](https://github.com/zammad/zammad) 🆕
+
+Zammad is a web based open source helpdesk/customer support system.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 6,056 |
+| Forks | 1,090 |
+| Stars this week | 30 |
+
+---
+
+## 17. [github-linguist/linguist](https://github.com/github-linguist/linguist)
+
+Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 13,756 |
+| Forks | 5,515 |
+| Stars this week | 18 |
+
+---
+
+## 18. [forem/forem](https://github.com/forem/forem)
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,814 |
+| Forks | 4,195 |
+| Stars this week | 13 |
+
+---
+
+## 19. [postalserver/postal](https://github.com/postalserver/postal)
 
 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,899 |
-| Forks | 1,317 |
-| Stars this week | 23 |
+| Stars | 16,901 |
+| Forks | 1,318 |
+| Stars this week | 19 |
 
 ---
 
-## 18. [basecamp/kamal](https://github.com/basecamp/kamal)
+## 20. [rubocop/rubocop](https://github.com/rubocop/rubocop)
 
-Deploy web apps anywhere.
+A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,696 |
-| Forks | 768 |
-| Stars this week | 30 |
+| Stars | 12,919 |
+| Forks | 3,159 |
+| Stars this week | 9 |
 
 ---
 
-## 19. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+## 21. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
 
 A database of vulnerable Ruby Gems
 
@@ -255,7 +281,7 @@ A database of vulnerable Ruby Gems
 
 ---
 
-## 20. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 22. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -264,31 +290,5 @@ A collection of RBS for gems.
 | Language | Ruby |
 | Stars | 302 |
 | Forks | 141 |
-
----
-
-## 21. [rubocop/rubocop](https://github.com/rubocop/rubocop) 🆕
-
-A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 12,918 |
-| Forks | 3,156 |
-| Stars this week | 8 |
-
----
-
-## 22. [dependabot/demo](https://github.com/dependabot/demo) 🆕
-
-🤖 Fork me to try out Dependabot
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 344 |
-| Forks | 5,071 |
-| Stars this week | 4 |
 
 ---

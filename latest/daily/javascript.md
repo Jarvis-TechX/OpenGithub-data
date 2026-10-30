@@ -1,23 +1,23 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-29T05:40:57Z
-**Total Repositories:** 10
-**New Entries:** 6
+**Snapshot Time:** 2026-10-30T05:40:16Z
+**Total Repositories:** 9
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 1. [react/react](https://github.com/react/react) 🆕
 
-一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+The library for web and native user interfaces.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 35,375 |
-| Forks | 2,509 |
-| Stars today | 1,616 |
+| Stars | 251,751 |
+| Forks | 51,595 |
+| Stars today | 52 |
 
 ---
 
@@ -28,112 +28,99 @@ DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,413 |
-| Forks | 2,737 |
-| Stars today | 1,128 |
+| Stars | 13,252 |
+| Forks | 2,986 |
+| Stars today | 954 |
 
 ---
 
-## 3. [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) 🆕
+## 3. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
-The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
+一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 50,552 |
-| Forks | 2,510 |
-| Stars today | 101 |
+| Stars | 36,365 |
+| Forks | 2,584 |
+| Stars today | 2,058 |
 
 ---
 
-## 4. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) 🆕
-
-The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 20,476 |
-| Forks | 1,148 |
-| Stars today | 256 |
-
----
-
-## 5. [affaan-m/ECC](https://github.com/affaan-m/ECC)
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 291,933 |
-| Forks | 43,215 |
-| Stars today | 999 |
-
----
-
-## 6. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
-
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 57,158 |
-| Forks | 8,432 |
-| Stars today | 222 |
-
----
-
-## 7. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-
-Production-grade engineering skills for AI coding agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 111,513 |
-| Forks | 11,657 |
-| Stars today | 347 |
-
----
-
-## 8. [decolua/9router](https://github.com/decolua/9router) 🆕
-
-Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 31,598 |
-| Forks | 6,138 |
-| Stars today | 67 |
-
----
-
-## 9. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
+## 4. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 104,732 |
-| Forks | 7,083 |
-| Stars today | 709 |
+| Stars | 105,715 |
+| Forks | 7,143 |
+| Stars today | 1,131 |
 
 ---
 
-## 10. [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) 🆕
+## 5. [webpack/webpack](https://github.com/webpack/webpack) 🆕
 
-The official repository of Mozilla's Firefox web browser.
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 13,639 |
-| Forks | 1,702 |
-| Stars today | 21 |
+| Stars | 65,968 |
+| Forks | 9,564 |
+| Stars today | 2 |
+
+---
+
+## 6. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 292,842 |
+| Forks | 43,334 |
+| Stars today | 987 |
+
+---
+
+## 7. [usebruno/bruno](https://github.com/usebruno/bruno) 🆕
+
+Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 47,935 |
+| Forks | 3,054 |
+| Stars today | 27 |
+
+---
+
+## 8. [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) 🆕
+
+A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 1,083 |
+| Forks | 217 |
+| Stars today | 8 |
+
+---
+
+## 9. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
+Production-grade engineering skills for AI coding agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 111,800 |
+| Forks | 11,704 |
+| Stars today | 305 |
 
 ---

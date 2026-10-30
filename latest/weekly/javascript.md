@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-29T05:41:17Z
-**Total Repositories:** 10
-**New Entries:** 2
-**Quality Score:** 96.00/100
+**Snapshot Time:** 2026-10-30T05:40:35Z
+**Total Repositories:** 12
+**New Entries:** 5
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,35 +15,35 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 51,906 |
-| Forks | 3,311 |
-| Stars this week | 16,002 |
+| Stars | 53,076 |
+| Forks | 3,407 |
+| Stars this week | 14,320 |
 
 ---
 
-## 2. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
+## 2. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 104,732 |
-| Forks | 7,083 |
-| Stars this week | 3,940 |
+| Stars | 105,715 |
+| Forks | 7,143 |
+| Stars this week | 4,359 |
 
 ---
 
-## 3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+## 3. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 179,385 |
-| Forks | 9,834 |
-| Stars this week | 8,192 |
+| Stars | 292,842 |
+| Forks | 43,334 |
+| Stars this week | 6,594 |
 
 ---
 
@@ -54,84 +54,112 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 35,375 |
-| Forks | 2,509 |
-| Stars this week | 7,257 |
+| Stars | 36,366 |
+| Forks | 2,584 |
+| Stars this week | 9,296 |
 
 ---
 
-## 5. [affaan-m/ECC](https://github.com/affaan-m/ECC)
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 291,933 |
-| Forks | 43,215 |
-| Stars this week | 6,555 |
-
----
-
-## 6. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+## 5. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 
 The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 20,476 |
-| Forks | 1,148 |
-| Stars this week | 1,905 |
+| Stars | 20,729 |
+| Forks | 1,164 |
+| Stars this week | 1,897 |
 
 ---
 
-## 7. [nodejs/node](https://github.com/nodejs/node)
+## 6. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 180,363 |
+| Forks | 9,901 |
+| Stars this week | 7,147 |
+
+---
+
+## 7. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) 🆕
+
+Create beautiful slides on the web using a coding agent's frontend skills
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 31,576 |
+| Forks | 2,418 |
+| Stars this week | 477 |
+
+---
+
+## 8. [nodejs/node](https://github.com/nodejs/node)
 
 Node.js JavaScript runtime ✨🐢🚀✨
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 123,158 |
-| Forks | 39,290 |
-| Stars this week | 781 |
+| Stars | 123,093 |
+| Forks | 39,308 |
+| Stars this week | 748 |
 
 ---
 
-## 8. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+## 9. [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) 🆕
 
-Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
+One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid. No tracking, MIT.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,052 |
-| Forks | 293 |
-| Stars this week | 426 |
+| Stars | 2,137 |
+| Forks | 198 |
+| Stars this week | 387 |
 
 ---
 
-## 9. [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) 🆕
+## 10. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) 🆕
 
-Community curated list of templates for the nuclei engine to find security vulnerabilities.
+Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 13,246 |
-| Forks | 3,722 |
-| Stars this week | 102 |
+| Stars | 10,335 |
+| Forks | 1,338 |
+| Stars this week | 555 |
 
 ---
 
-## 10. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+## 11. [reisxd/TizenTube](https://github.com/reisxd/TizenTube) 🆕
+
+A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,439 |
-| Forks | 1,206 |
-| Stars this week | 533 |
+| Stars | 2,401 |
+| Forks | 229 |
+| Stars this week | 74 |
+
+---
+
+## 12. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
+
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 57,371 |
+| Forks | 8,459 |
+| Stars this week | 1,363 |
 
 ---

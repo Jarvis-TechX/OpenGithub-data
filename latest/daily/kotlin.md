@@ -1,152 +1,113 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-29T05:41:09Z
-**Total Repositories:** 11
-**New Entries:** 10
+**Snapshot Time:** 2026-10-30T05:40:28Z
+**Total Repositories:** 8
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music) 🆕
+## 1. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music)
 
 A modern sleek music player.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 313 |
-| Forks | 22 |
-| Stars today | 40 |
+| Stars | 358 |
+| Forks | 26 |
+| Stars today | 68 |
 
 ---
 
-## 2. [damontecres/Wholphin](https://github.com/damontecres/Wholphin) 🆕
+## 2. [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) 🆕
 
-An OSS Android TV client for Jellyfin
+The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,183 |
-| Forks | 209 |
-| Stars today | 8 |
+| Stars | 7,133 |
+| Forks | 1,113 |
+| Stars today | 44 |
 
 ---
 
-## 3. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
-
-The Magic Mask for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 63,571 |
-| Forks | 19,079 |
-| Stars today | 38 |
-
----
-
-## 4. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) 🆕
+## 3. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
 
 Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,262 |
+| Stars | 2,282 |
 | Forks | 117 |
-| Stars today | 53 |
+| Stars today | 24 |
 
 ---
 
-## 5. [carlelieser/shizzi](https://github.com/carlelieser/shizzi) 🆕
+## 4. [mossyhub/openautolink](https://github.com/mossyhub/openautolink) 🆕
 
-Rootless wifi-tethering bypass for Android with Shizuku.
+Android Auto and CarPlay for GM EV AAOS head units with cluster/HUD support and EV range in Maps
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 227 |
-| Forks | 23 |
-| Stars today | 1 |
+| Stars | 176 |
+| Forks | 27 |
+| Stars today | 3 |
 
 ---
 
-## 6. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland) 🆕
+## 5. [JetBrains/koog](https://github.com/JetBrains/koog) 🆕
 
-Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
+Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 343 |
-| Forks | 51 |
-| Stars today | 6 |
+| Stars | 4,645 |
+| Forks | 501 |
+| Stars today | 5 |
 
 ---
 
-## 7. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+## 6. [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) 🆕
 
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,604 |
-| Forks | 2,082 |
-| Stars today | 75 |
+| Stars | 5,957 |
+| Forks | 1,068 |
+| Stars today | 7 |
 
 ---
 
-## 8. [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) 🆕
+## 7. [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) 🆕
 
-A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
+Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,971 |
-| Forks | 151 |
-| Stars today | 34 |
+| Stars | 730 |
+| Forks | 211 |
+| Stars today | 8 |
 
 ---
 
-## 9. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
+## 8. [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) 🆕
 
-A V2Ray client for Android, support Xray core and v2fly core
+A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 64,895 |
-| Forks | 8,434 |
-| Stars today | 81 |
-
----
-
-## 10. [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) 🆕
-
-Painless E2E Automation for Mobile and Web
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 16,253 |
-| Forks | 1,010 |
-| Stars today | 14 |
-
----
-
-## 11. [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) 🆕
-
-A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 3,609 |
-| Forks | 319 |
-| Stars today | 1 |
+| Stars | 3,806 |
+| Forks | 252 |
+| Stars today | 15 |
 
 ---

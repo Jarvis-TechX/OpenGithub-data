@@ -1,88 +1,88 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-29T05:41:30Z
-**Total Repositories:** 18
-**New Entries:** 3
-**Quality Score:** 97.78/100
+**Snapshot Time:** 2026-10-30T05:40:49Z
+**Total Repositories:** 16
+**New Entries:** 5
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-
-The Free Software Media System - Server Backend & API
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 58,763 |
-| Forks | 5,735 |
-| Stars this week | 444 |
-
----
-
-## 2. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+## 1. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
 WinUI app for building smaller, customized Windows 11 images.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,348 |
-| Forks | 1,635 |
-| Stars this week | 557 |
+| Stars | 21,390 |
+| Forks | 1,637 |
+| Stars this week | 519 |
 
 ---
 
-## 3. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 2. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
-PowerShell for every system!
+The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 55,948 |
-| Forks | 8,521 |
-| Stars this week | 163 |
+| Stars | 58,798 |
+| Forks | 5,737 |
+| Stars this week | 431 |
 
 ---
 
-## 4. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
-
-PCL 社区版 由社区开发者维护与管理
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,977 |
-| Forks | 444 |
-| Stars this week | 276 |
-
----
-
-## 5. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
+## 3. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
 
 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,313 |
-| Forks | 1,280 |
-| Stars this week | 938 |
+| Stars | 17,379 |
+| Forks | 1,283 |
+| Stars this week | 986 |
 
 ---
 
-## 6. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 4. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
 
-A Launcher that Downloads and Updates Applications from Github Releases
+A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,026 |
-| Forks | 67 |
-| Stars this week | 90 |
+| Stars | 3,550 |
+| Forks | 104 |
+| Stars this week | 702 |
+
+---
+
+## 5. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+
+PCL 社区版 由社区开发者维护与管理
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,990 |
+| Forks | 446 |
+| Stars this week | 264 |
+
+---
+
+## 6. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+
+PowerShell for every system!
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 55,958 |
+| Forks | 8,522 |
+| Stars this week | 153 |
 
 ---
 
@@ -93,9 +93,9 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,500 |
-| Forks | 12,981 |
-| Stars this week | 38 |
+| Stars | 38,496 |
+| Forks | 12,957 |
+| Stars this week | 32 |
 
 ---
 
@@ -106,136 +106,112 @@ Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment proces
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,861 |
+| Stars | 7,866 |
 | Forks | 2,050 |
-| Stars this week | 50 |
+| Stars this week | 49 |
 
 ---
 
-## 9. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
+## 9. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
+
+OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,990 |
-| Forks | 250 |
-| Stars this week | 118 |
+| Stars | 32,787 |
+| Forks | 2,227 |
+| Stars this week | 453 |
 
 ---
 
-## 10. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
-
-A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,406 |
-| Forks | 95 |
-| Stars this week | 612 |
-
----
-
-## 11. [STranslate/STranslate](https://github.com/STranslate/STranslate)
-
-A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,433 |
-| Forks | 446 |
-| Stars this week | 124 |
-
----
-
-## 12. [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
-
-This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 1,261 |
-| Forks | 665 |
-| Stars this week | 22 |
-
----
-
-## 13. [dotnet/skills](https://github.com/dotnet/skills)
-
-Repository for skills to assist AI coding agents with .NET and C#
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,760 |
-| Forks | 451 |
-| Stars this week | 67 |
-
----
-
-## 14. [LorisYounger/VPet](https://github.com/LorisYounger/VPet) 🆕
+## 10. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
 
 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,085 |
-| Forks | 707 |
-| Stars this week | 83 |
+| Stars | 7,102 |
+| Forks | 709 |
+| Stars this week | 93 |
 
 ---
 
-## 15. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 11. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
+
+ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 40,516 |
+| Forks | 4,013 |
+| Stars this week | 214 |
+
+---
+
+## 12. [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) 🆕
+
+ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 10,172 |
+| Forks | 6,046 |
+| Stars this week | 11 |
+
+---
+
+## 13. [dotnet/runtime](https://github.com/dotnet/runtime)
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,397 |
-| Forks | 5,753 |
-| Stars this week | 35 |
+| Stars | 18,395 |
+| Forks | 5,771 |
+| Stars this week | 32 |
 
 ---
 
-## 16. [dotnet/dotnet](https://github.com/dotnet/dotnet)
+## 14. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
-Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.
+A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,312 |
-| Forks | 349 |
-| Stars this week | 13 |
+| Stars | 2,040 |
+| Forks | 67 |
+| Stars this week | 91 |
 
 ---
 
-## 17. [dotnet/efcore](https://github.com/dotnet/efcore) 🆕
+## 15. [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) 🆕
 
-EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
+Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,812 |
-| Forks | 3,442 |
-| Stars this week | 8 |
+| Stars | 7,468 |
+| Forks | 424 |
+| Stars this week | 49 |
 
 ---
 
-## 18. [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) 🆕
+## 16. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
 
-A Swiss Army knife for developers.
+Windows/macOS/Linux GUI client for GIT users
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 32,126 |
-| Forks | 1,773 |
-| Stars this week | 52 |
+| Stars | 6,287 |
+| Forks | 572 |
+| Stars this week | 71 |
 
 ---

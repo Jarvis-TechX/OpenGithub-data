@@ -1,165 +1,217 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-29T05:41:04Z
-**Total Repositories:** 12
-**New Entries:** 9
+**Snapshot Time:** 2026-10-30T05:40:23Z
+**Total Repositories:** 16
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [macro-inc/macro](https://github.com/macro-inc/macro) 🆕
-
-Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 5,520 |
-| Forks | 525 |
-| Stars today | 117 |
-
----
-
-## 2. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 1. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 93,298 |
-| Forks | 5,507 |
-| Stars today | 1,472 |
+| Stars | 95,784 |
+| Forks | 5,643 |
+| Stars today | 2,870 |
 
 ---
 
-## 3. [ruvnet/RuView](https://github.com/ruvnet/RuView)
+## 2. [ruvnet/RuView](https://github.com/ruvnet/RuView)
 
 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 101,231 |
-| Forks | 13,171 |
-| Stars today | 557 |
+| Stars | 101,631 |
+| Forks | 13,204 |
+| Stars today | 849 |
 
 ---
 
-## 4. [openai/codex](https://github.com/openai/codex) 🆕
+## 3. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) 🆕
 
-Lightweight coding agent that runs in your terminal
+Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 131,472 |
-| Forks | 20,766 |
-| Stars today | 284 |
+| Stars | 45,562 |
+| Forks | 6,559 |
+| Stars today | 128 |
 
 ---
 
-## 5. [t8y2/dbx](https://github.com/t8y2/dbx) 🆕
-
-25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 28,098 |
-| Forks | 2,550 |
-| Stars today | 108 |
-
----
-
-## 6. [trymirai/uzu](https://github.com/trymirai/uzu) 🆕
+## 4. [trymirai/uzu](https://github.com/trymirai/uzu)
 
 A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,006 |
-| Forks | 183 |
-| Stars today | 260 |
+| Stars | 3,045 |
+| Forks | 190 |
+| Stars today | 59 |
 
 ---
 
-## 7. [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) 🆕
+## 5. [macro-inc/macro](https://github.com/macro-inc/macro)
 
-⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 24,505 |
-| Forks | 870 |
-| Stars today | 161 |
+| Stars | 5,659 |
+| Forks | 534 |
+| Stars today | 379 |
 
 ---
 
-## 8. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+## 6. [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust) 🆕
 
-Algorithm powering the For You feed on X
+NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 33,883 |
-| Forks | 5,478 |
-| Stars today | 37 |
+| Stars | 3,897 |
+| Forks | 349 |
+| Stars today | 38 |
 
 ---
 
-## 9. [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) 🆕
+## 7. [t8y2/dbx](https://github.com/t8y2/dbx)
 
-Incremental engine for long horizon agents 🌟 Star if you like it!
+25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,778 |
-| Forks | 922 |
-| Stars today | 5 |
+| Stars | 28,202 |
+| Forks | 2,568 |
+| Stars today | 143 |
 
 ---
 
-## 10. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 🆕
+## 8. [jub0t/Concat](https://github.com/jub0t/Concat) 🆕
 
-Browser automation CLI for AI agents
+The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 44,797 |
-| Forks | 3,068 |
-| Stars today | 71 |
+| Stars | 12,692 |
+| Forks | 1,560 |
+| Stars today | 224 |
 
 ---
 
-## 11. [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) 🆕
+## 9. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) 🆕
 
-All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+Next Generation Agentic Proxy for AI Agents and MCP servers
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,474 |
-| Forks | 1,027 |
-| Stars today | 61 |
+| Stars | 5,787 |
+| Forks | 1,026 |
+| Stars today | 63 |
 
 ---
 
-## 12. [zed-industries/zed](https://github.com/zed-industries/zed) 🆕
+## 10. [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) 🆕
 
-Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 92,363 |
-| Forks | 11,261 |
-| Stars today | 65 |
+| Stars | 7,575 |
+| Forks | 540 |
+| Stars today | 141 |
+
+---
+
+## 11. [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) 🆕
+
+Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,651 |
+| Forks | 475 |
+| Stars today | 51 |
+
+---
+
+## 12. [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 🆕
+
+A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 154,993 |
+| Forks | 11,137 |
+| Stars today | 295 |
+
+---
+
+## 13. [hydro-project/infinity](https://github.com/hydro-project/infinity) 🆕
+
+An agent runtime and tool protocol for principled agent concurrency
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 394 |
+| Forks | 37 |
+| Stars today | 180 |
+
+---
+
+## 14. [nearai/ironclaw](https://github.com/nearai/ironclaw) 🆕
+
+IronClaw is an Agent OS focused on privacy, security and extensibility
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 12,692 |
+| Forks | 1,490 |
+| Stars today | 15 |
+
+---
+
+## 15. [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) 🆕
+
+YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 22,166 |
+| Forks | 2,261 |
+| Stars today | 31 |
+
+---
+
+## 16. [nyakang/nyaterm](https://github.com/nyakang/nyaterm) 🆕
+
+A modern remote terminal workspace
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 2,129 |
+| Forks | 201 |
+| Stars today | 169 |
 
 ---
