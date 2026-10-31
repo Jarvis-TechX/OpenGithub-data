@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-30T05:41:09Z
-**Total Repositories:** 19
+**Snapshot Time:** 2026-10-31T05:32:54Z
+**Total Repositories:** 18
 **New Entries:** 1
-**Quality Score:** 97.89/100
+**Quality Score:** 97.78/100
 
 ---
 
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,390 |
-| Forks | 1,637 |
-| Stars this month | 1,824 |
+| Stars | 21,418 |
+| Forks | 1,640 |
+| Stars this month | 1,867 |
 
 ---
 
@@ -28,9 +28,9 @@ A modern launcher for downloading, installing, and running apps from GitHub and 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,550 |
-| Forks | 104 |
-| Stars this month | 2,557 |
+| Stars | 3,613 |
+| Forks | 106 |
+| Stars this month | 2,646 |
 
 ---
 
@@ -41,9 +41,9 @@ A modern launcher for downloading, installing, and running apps from GitHub and 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,869 |
-| Forks | 3,792 |
-| Stars this month | 737 |
+| Stars | 26,887 |
+| Forks | 3,793 |
+| Stars this month | 756 |
 
 ---
 
@@ -54,9 +54,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,545 |
-| Forks | 1,612 |
-| Stars this month | 1,008 |
+| Stars | 15,572 |
+| Forks | 1,615 |
+| Stars this month | 1,038 |
 
 ---
 
@@ -67,9 +67,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,395 |
-| Forks | 5,771 |
-| Stars this month | 143 |
+| Stars | 18,397 |
+| Forks | 5,784 |
+| Stars this month | 142 |
 
 ---
 
@@ -80,35 +80,35 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,379 |
-| Forks | 1,283 |
-| Stars this month | 1,653 |
+| Stars | 17,441 |
+| Forks | 1,289 |
+| Stars this month | 1,721 |
 
 ---
 
-## 7. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 38,496 |
-| Forks | 12,957 |
-| Stars this month | 112 |
-
----
-
-## 8. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+## 7. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
 
 PCL 社区版 由社区开发者维护与管理
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,990 |
-| Forks | 446 |
-| Stars this month | 683 |
+| Stars | 5,009 |
+| Forks | 456 |
+| Stars this month | 698 |
+
+---
+
+## 8. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 38,497 |
+| Forks | 12,950 |
+| Stars this month | 113 |
 
 ---
 
@@ -119,9 +119,9 @@ Work-in-progress tool to reverse unity's IL2CPP toolchain.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,072 |
-| Forks | 409 |
-| Stars this month | 439 |
+| Stars | 3,076 |
+| Forks | 410 |
+| Stars this month | 442 |
 
 ---
 
@@ -132,59 +132,59 @@ A Launcher that Downloads and Updates Applications from Github Releases
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,040 |
+| Stars | 2,043 |
 | Forks | 67 |
-| Stars this month | 412 |
+| Stars this month | 420 |
 
 ---
 
-## 11. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,999 |
-| Forks | 251 |
-| Stars this month | 488 |
-
----
-
-## 12. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 11. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
 PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 55,958 |
+| Stars | 55,966 |
 | Forks | 8,522 |
-| Stars this month | 621 |
+| Stars this month | 635 |
 
 ---
 
-## 13. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+## 12. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 8,003 |
+| Forks | 252 |
+| Stars this month | 494 |
+
+---
+
+## 13. [greenshot/greenshot](https://github.com/greenshot/greenshot)
+
+Greenshot for Windows - for more information look here:
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,224 |
+| Forks | 719 |
+| Stars this month | 101 |
+
+---
+
+## 14. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
 
 Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,688 |
-| Forks | 3,097 |
-| Stars this month | 249 |
-
----
-
-## 14. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 19,809 |
-| Forks | 4,512 |
-| Stars this month | 124 |
+| Stars | 17,695 |
+| Forks | 3,102 |
+| Stars this month | 258 |
 
 ---
 
@@ -195,22 +195,22 @@ the subtitle editor :)
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,781 |
-| Forks | 1,351 |
-| Stars this month | 440 |
+| Stars | 14,790 |
+| Forks | 1,352 |
+| Stars this month | 455 |
 
 ---
 
-## 16. [dotnet/roslyn](https://github.com/dotnet/roslyn) 🆕
+## 16. [2dust/v2rayN](https://github.com/2dust/v2rayN)
 
-The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,759 |
-| Forks | 4,363 |
-| Stars this month | 94 |
+| Stars | 119,584 |
+| Forks | 16,223 |
+| Stars this month | 2,910 |
 
 ---
 
@@ -221,34 +221,21 @@ B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,124 |
+| Stars | 9,130 |
 | Forks | 1,926 |
-| Stars this month | 272 |
+| Stars this month | 279 |
 
 ---
 
-## 18. [2dust/v2rayN](https://github.com/2dust/v2rayN)
+## 18. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) 🆕
 
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+Download web video and audio
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 119,490 |
-| Forks | 16,211 |
-| Stars this month | 2,797 |
-
----
-
-## 19. [greenshot/greenshot](https://github.com/greenshot/greenshot)
-
-Greenshot for Windows - for more information look here:
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,223 |
-| Forks | 720 |
-| Stars this month | 99 |
+| Stars | 7,497 |
+| Forks | 363 |
+| Stars this month | 359 |
 
 ---

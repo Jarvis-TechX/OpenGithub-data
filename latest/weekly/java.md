@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-30T05:40:46Z
-**Total Repositories:** 14
-**New Entries:** 4
+**Snapshot Time:** 2026-10-31T05:32:30Z
+**Total Repositories:** 16
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -14,36 +14,36 @@
 
 | Metric | Value |
 |--------|-------|
-| Language | Java |
-| Stars | 131,703 |
-| Forks | 15,571 |
-| Stars this week | 851 |
+| Language | Swift |
+| Stars | 131,798 |
+| Forks | 15,583 |
+| Stars this week | 889 |
 
 ---
 
-## 2. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
-
-Mac.apk: Run Android apps natively on Apple Silicon Macs
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,681 |
-| Forks | 141 |
-| Stars this week | 1,347 |
-
----
-
-## 3. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+## 2. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 66,628 |
-| Forks | 21,398 |
-| Stars this week | 254 |
+| Stars | 66,676 |
+| Forks | 21,456 |
+| Stars this week | 302 |
+
+---
+
+## 3. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
+
+Mac.apk: Run Android apps natively on Apple Silicon Macs
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,767 |
+| Forks | 146 |
+| Stars this week | 1,096 |
 
 ---
 
@@ -54,48 +54,48 @@ A Minecraft Launcher which is multi-functional, cross-platform and popular
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,814 |
-| Forks | 1,288 |
-| Stars this week | 251 |
+| Stars | 10,830 |
+| Forks | 1,291 |
+| Stars this week | 213 |
 
 ---
 
-## 5. [halo-dev/halo](https://github.com/halo-dev/halo)
-
-Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 40,085 |
-| Forks | 10,314 |
-| Stars this week | 145 |
-
----
-
-## 6. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
+## 5. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
 
 Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,385 |
-| Forks | 847 |
-| Stars this week | 55 |
+| Stars | 4,390 |
+| Forks | 850 |
+| Stars this week | 57 |
 
 ---
 
-## 7. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) 🆕
+## 6. [halo-dev/halo](https://github.com/halo-dev/halo)
 
-Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
+Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 518 |
-| Forks | 103 |
-| Stars this week | 38 |
+| Stars | 40,087 |
+| Forks | 10,312 |
+| Stars this week | 134 |
+
+---
+
+## 7. [alibaba/nacos](https://github.com/alibaba/nacos) 🆕
+
+an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 33,490 |
+| Forks | 13,284 |
+| Stars this week | 35 |
 
 ---
 
@@ -106,86 +106,112 @@ A tool for reverse engineering Android apk files
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,820 |
-| Forks | 4,179 |
-| Stars this week | 299 |
+| Stars | 26,848 |
+| Forks | 4,184 |
+| Stars this week | 248 |
 
 ---
 
-## 9. [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+## 9. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) 🆕
 
-PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+Spring Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,119 |
-| Forks | 2,882 |
-| Stars this week | 253 |
+| Stars | 60,303 |
+| Forks | 38,747 |
+| Stars this week | 27 |
 
 ---
 
-## 10. [PaperMC/Paper](https://github.com/PaperMC/Paper) 🆕
-
-The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 12,781 |
-| Forks | 3,560 |
-| Stars this week | 32 |
-
----
-
-## 11. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 10. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
 Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,416 |
-| Forks | 26,186 |
-| Stars this week | 121 |
+| Stars | 78,427 |
+| Forks | 26,195 |
+| Stars this week | 115 |
 
 ---
 
-## 12. [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) 🆕
+## 11. [apache/flink](https://github.com/apache/flink) 🆕
+
+Apache Flink
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 26,441 |
+| Forks | 14,169 |
+| Stars this week | 23 |
+
+---
+
+## 12. [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator)
 
 Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 16,381 |
-| Forks | 1,494 |
-| Stars this week | 63 |
-
----
-
-## 13. [apache/kafka](https://github.com/apache/kafka) 🆕
-
-Apache Kafka - A distributed event streaming platform
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 34,098 |
-| Forks | 15,639 |
+| Stars | 16,390 |
+| Forks | 1,496 |
 | Stars this week | 69 |
 
 ---
 
-## 14. [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
+## 13. [bazelbuild/bazel](https://github.com/bazelbuild/bazel) 🆕
 
-Telegram for Android source
+a fast, scalable, multi-language and extensible build system
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,187 |
-| Forks | 10,392 |
-| Stars this week | 72 |
+| Stars | 26,021 |
+| Forks | 4,669 |
+| Stars this week | 44 |
+
+---
+
+## 14. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) 🆕
+
+LSPosed Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 25,263 |
+| Forks | 3,599 |
+| Stars this week | 132 |
+
+---
+
+## 15. [openjdk/jdk](https://github.com/openjdk/jdk) 🆕
+
+JDK main-line developmenthttps://openjdk.org/projects/jdk
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 23,483 |
+| Forks | 6,591 |
+| Stars this week | 34 |
+
+---
+
+## 16. [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+
+PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 30,129 |
+| Forks | 2,881 |
+| Stars this week | 168 |
 
 ---

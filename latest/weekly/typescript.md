@@ -1,99 +1,99 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-30T05:40:37Z
-**Total Repositories:** 18
-**New Entries:** 1
-**Quality Score:** 97.78/100
+**Snapshot Time:** 2026-10-31T05:32:20Z
+**Total Repositories:** 19
+**New Entries:** 4
+**Quality Score:** 97.89/100
 
 ---
 
-## 1. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+## 1. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 32,965 |
+| Forks | 8,675 |
+| Stars this week | 2,775 |
+
+---
+
+## 2. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 80,176 |
-| Forks | 9,402 |
-| Stars this week | 1,854 |
+| Stars | 80,329 |
+| Forks | 9,416 |
+| Stars this week | 1,723 |
 
 ---
 
-## 2. [anomalyco/opencode](https://github.com/anomalyco/opencode)
+## 3. [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+
+📨 The ultimate agentic social media scheduling tool 🤖
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 40,253 |
+| Forks | 7,645 |
+| Stars this week | 2,615 |
+
+---
+
+## 4. [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
 The open source coding agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 223,127 |
-| Forks | 29,925 |
-| Stars this week | 3,292 |
+| Stars | 223,380 |
+| Forks | 29,983 |
+| Stars this week | 3,106 |
 
 ---
 
-## 3. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 32,056 |
-| Forks | 8,512 |
-| Stars this week | 2,142 |
-
----
-
-## 4. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-
-Write HTML. Render video. Built for agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 75,578 |
-| Forks | 6,877 |
-| Stars this week | 5,647 |
-
----
-
-## 5. [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime)
-
-A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 6,861 |
-| Forks | 607 |
-| Stars this week | 1,218 |
-
----
-
-## 6. [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+## 5. [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 
 An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 108,624 |
-| Forks | 14,876 |
-| Stars this week | 1,236 |
+| Stars | 108,640 |
+| Forks | 14,890 |
+| Stars this week | 1,204 |
 
 ---
 
-## 7. [makecindy/cindy](https://github.com/makecindy/cindy)
+## 6. [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime)
 
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,615 |
-| Forks | 1,017 |
-| Stars this week | 5,329 |
+| Stars | 6,885 |
+| Forks | 610 |
+| Stars this week | 1,093 |
+
+---
+
+## 7. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+
+Write HTML. Render video. Built for agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 76,137 |
+| Forks | 6,945 |
+| Stars this week | 5,469 |
 
 ---
 
@@ -104,22 +104,22 @@ Vibe code with pi in a lightweight, real IDE that customises itself around the w
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,144 |
-| Forks | 334 |
-| Stars this week | 4,850 |
+| Stars | 6,660 |
+| Forks | 360 |
+| Stars this week | 5,495 |
 
 ---
 
-## 9. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+## 9. [makecindy/cindy](https://github.com/makecindy/cindy)
 
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,424 |
-| Forks | 2,080 |
-| Stars this week | 3,823 |
+| Stars | 8,735 |
+| Forks | 1,038 |
+| Stars this week | 5,366 |
 
 ---
 
@@ -130,9 +130,9 @@ Desktop app that records your on-screen work session and uses the GitHub Copilot
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,551 |
-| Forks | 636 |
-| Stars this week | 1,295 |
+| Stars | 5,582 |
+| Forks | 638 |
+| Stars this week | 1,320 |
 
 ---
 
@@ -143,99 +143,112 @@ A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,996 |
-| Forks | 367 |
-| Stars this week | 2,961 |
+| Stars | 4,260 |
+| Forks | 405 |
+| Stars this week | 3,410 |
 
 ---
 
-## 12. [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+## 12. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 
-📨 The ultimate agentic social media scheduling tool 🤖
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 40,138 |
-| Forks | 7,617 |
-| Stars this week | 2,555 |
+| Stars | 11,471 |
+| Forks | 2,275 |
+| Stars this week | 4,382 |
 
 ---
 
-## 13. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 13. [langfuse/langfuse](https://github.com/langfuse/langfuse) 🆕
 
-7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 44,143 |
-| Forks | 5,987 |
-| Stars this week | 4,541 |
+| Stars | 36,776 |
+| Forks | 4,130 |
+| Stars this week | 509 |
 
 ---
 
-## 14. [vercel-labs/skills](https://github.com/vercel-labs/skills)
+## 14. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) 🆕
 
-The open agent skills tool - npx skills
+Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 37,174 |
-| Forks | 3,203 |
-| Stars this week | 1,055 |
+| Stars | 8,901 |
+| Forks | 1,114 |
+| Stars this week | 1,653 |
 
 ---
 
-## 15. [stablyai/orca](https://github.com/stablyai/orca)
-
-Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 110,374 |
-| Forks | 6,974 |
-| Stars this week | 7,669 |
-
----
-
-## 16. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+## 15. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 
 🎥 Make videos programmatically with React
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 68,949 |
-| Forks | 5,641 |
-| Stars this week | 2,583 |
+| Stars | 69,188 |
+| Forks | 5,671 |
+| Stars this week | 2,507 |
 
 ---
 
-## 17. [google/brotli](https://github.com/google/brotli)
+## 16. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+
+7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 44,772 |
+| Forks | 6,094 |
+| Stars this week | 4,531 |
+
+---
+
+## 17. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) 🆕
+
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 106,580 |
+| Forks | 9,380 |
+| Stars this week | 3,518 |
+
+---
+
+## 18. [google/brotli](https://github.com/google/brotli)
 
 Brotli compression format
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 15,061 |
-| Forks | 1,393 |
-| Stars this week | 106 |
+| Stars | 15,070 |
+| Forks | 1,394 |
+| Stars this week | 100 |
 
 ---
 
-## 18. [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) 🆕
+## 19. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) 🆕
 
-Desktop app to manage markdown knowledge bases
+Open-source Grok Bot alternative with a virtual machine that bots can use
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,398 |
-| Forks | 1,405 |
-| Stars this week | 288 |
+| Stars | 8,870 |
+| Forks | 1,222 |
+| Stars this week | 2,863 |
 
 ---

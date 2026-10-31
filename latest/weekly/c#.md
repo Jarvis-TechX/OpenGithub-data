@@ -1,36 +1,36 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-30T05:40:49Z
-**Total Repositories:** 16
-**New Entries:** 5
+**Snapshot Time:** 2026-10-31T05:32:32Z
+**Total Repositories:** 15
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+## 1. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
+
+A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 3,613 |
+| Forks | 106 |
+| Stars this week | 716 |
+
+---
+
+## 2. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
 WinUI app for building smaller, customized Windows 11 images.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,390 |
-| Forks | 1,637 |
-| Stars this week | 519 |
-
----
-
-## 2. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-
-The Free Software Media System - Server Backend & API
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 58,798 |
-| Forks | 5,737 |
-| Stars this week | 431 |
+| Stars | 21,418 |
+| Forks | 1,640 |
+| Stars this week | 456 |
 
 ---
 
@@ -41,22 +41,22 @@ The Free Software Media System - Server Backend & API
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,379 |
-| Forks | 1,283 |
-| Stars this week | 986 |
+| Stars | 17,441 |
+| Forks | 1,289 |
+| Stars this week | 1,033 |
 
 ---
 
-## 4. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
+## 4. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
-A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
+The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,550 |
-| Forks | 104 |
-| Stars this week | 702 |
+| Stars | 58,846 |
+| Forks | 5,742 |
+| Stars this week | 402 |
 
 ---
 
@@ -67,9 +67,9 @@ PCL 社区版 由社区开发者维护与管理
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,990 |
-| Forks | 446 |
-| Stars this week | 264 |
+| Stars | 5,009 |
+| Forks | 456 |
+| Stars this week | 236 |
 
 ---
 
@@ -80,22 +80,22 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 55,958 |
+| Stars | 55,966 |
 | Forks | 8,522 |
-| Stars this week | 153 |
+| Stars this week | 139 |
 
 ---
 
-## 7. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 7. [dotnet/runtime](https://github.com/dotnet/runtime)
 
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,496 |
-| Forks | 12,957 |
-| Stars this week | 32 |
+| Stars | 18,397 |
+| Forks | 5,784 |
+| Stars this week | 25 |
 
 ---
 
@@ -106,112 +106,99 @@ Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment proces
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,866 |
-| Forks | 2,050 |
-| Stars this week | 49 |
+| Stars | 7,872 |
+| Forks | 2,053 |
+| Stars this week | 54 |
 
 ---
 
-## 9. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
-
-OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 32,787 |
-| Forks | 2,227 |
-| Stars this week | 453 |
-
----
-
-## 10. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
+## 9. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
 
 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,102 |
-| Forks | 709 |
-| Stars this week | 93 |
+| Stars | 7,116 |
+| Forks | 710 |
+| Stars this week | 102 |
 
 ---
 
-## 11. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
+## 10. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,516 |
-| Forks | 4,013 |
-| Stars this week | 214 |
+| Stars | 32,844 |
+| Forks | 2,233 |
+| Stars this week | 488 |
 
 ---
 
-## 12. [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) 🆕
+## 11. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
 
-ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,172 |
-| Forks | 6,046 |
-| Stars this week | 11 |
+| Stars | 119,584 |
+| Forks | 16,223 |
+| Stars this week | 717 |
 
 ---
 
-## 13. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 12. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,395 |
-| Forks | 5,771 |
-| Stars this week | 32 |
+| Stars | 38,497 |
+| Forks | 12,950 |
+| Stars this week | 23 |
 
 ---
 
-## 14. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 13. [seerge/g-helper](https://github.com/seerge/g-helper) 🆕
 
-A Launcher that Downloads and Updates Applications from Github Releases
+Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,040 |
-| Forks | 67 |
-| Stars this week | 91 |
+| Stars | 15,821 |
+| Forks | 659 |
+| Stars this week | 114 |
 
 ---
 
-## 15. [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) 🆕
+## 14. [files-community/Files](https://github.com/files-community/Files) 🆕
 
-Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+A modern file manager that helps users organize their files and folders.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,468 |
-| Forks | 424 |
-| Stars this week | 49 |
+| Stars | 46,389 |
+| Forks | 3,001 |
+| Stars this week | 258 |
 
 ---
 
-## 16. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
+## 15. [actions/runner](https://github.com/actions/runner) 🆕
 
-Windows/macOS/Linux GUI client for GIT users
+The Runner for GitHub Actions 🚀
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,287 |
-| Forks | 572 |
-| Stars this week | 71 |
+| Stars | 6,369 |
+| Forks | 1,473 |
+| Stars this week | 17 |
 
 ---

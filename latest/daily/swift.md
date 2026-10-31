@@ -1,189 +1,152 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-30T05:40:30Z
-**Total Repositories:** 14
-**New Entries:** 9
+**Snapshot Time:** 2026-10-31T05:32:13Z
+**Total Repositories:** 11
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA) 🆕
+## 1. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
 
 A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,372 |
-| Forks | 208 |
-| Stars today | 69 |
+| Stars | 2,406 |
+| Forks | 211 |
+| Stars today | 45 |
 
 ---
 
-## 2. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) 🆕
+## 2. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) 🆕
 
-无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
-
-| Metric | Value |
-|--------|-------|
-| Language | HTML |
-| Stars | 2,179 |
-| Forks | 237 |
-| Stars today | 32 |
-
----
-
-## 3. [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS)
-
-A cosy home for your LLMs.
+Run a virtual iPhone on an Apple Silicon Mac.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,709 |
-| Forks | 138 |
+| Stars | 16,290 |
+| Forks | 1,930 |
+| Stars today | 89 |
+
+---
+
+## 3. [farzaa/clicky](https://github.com/farzaa/clicky) 🆕
+
+The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 7,849 |
+| Forks | 1,567 |
+| Stars today | 29 |
+
+---
+
+## 4. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) 🆕
+
+macOS video editor built for AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,668 |
+| Forks | 1,154 |
 | Stars today | 8 |
 
 ---
 
-## 4. [nook-browser/Nook](https://github.com/nook-browser/Nook) 🆕
+## 5. [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) 🆕
 
-A new browser, not owned by Atlassian.
+TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,023 |
-| Forks | 92 |
-| Stars today | 3 |
+| Stars | 11,206 |
+| Forks | 1,166 |
+| Stars today | 21 |
 
 ---
 
-## 5. [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
+## 6. [momenbasel/PureMac](https://github.com/momenbasel/PureMac) 🆕
+
+Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 7,534 |
+| Forks | 441 |
+| Stars today | 35 |
+
+---
+
+## 7. [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
 
 A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,999 |
-| Forks | 1,683 |
-| Stars today | 3 |
-
----
-
-## 6. [groue/GRDB.swift](https://github.com/groue/GRDB.swift) 🆕
-
-A toolkit for SQLite databases, with a focus on application development
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,717 |
-| Forks | 1,094 |
+| Stars | 15,000 |
+| Forks | 1,682 |
 | Stars today | 2 |
 
 ---
 
-## 7. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+## 8. [apple/container](https://github.com/apple/container) 🆕
 
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 28,610 |
-| Forks | 2,603 |
-| Stars today | 32 |
-
----
-
-## 8. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
-
-Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
+A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,601 |
-| Forks | 919 |
-| Stars today | 23 |
+| Stars | 50,987 |
+| Forks | 1,802 |
+| Stars today | 18 |
 
 ---
 
-## 9. [robinebers/openusage](https://github.com/robinebers/openusage)
+## 9. [steipete/CodexBar](https://github.com/steipete/CodexBar) 🆕
 
-Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,487 |
-| Forks | 519 |
-| Stars today | 9 |
+| Stars | 22,906 |
+| Forks | 2,177 |
+| Stars today | 19 |
 
 ---
 
-## 10. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) 🆕
-
-Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,932 |
-| Forks | 538 |
-| Stars today | 21 |
-
----
-
-## 11. [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) 🆕
+## 10. [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
 
 The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,137 |
+| Stars | 1,138 |
 | Forks | 432 |
+| Stars today | 2 |
 
 ---
 
-## 12. [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) 🆕
+## 11. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
 
-Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
+The Swift Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 16,619 |
-| Forks | 2,440 |
-| Stars today | 1 |
-
----
-
-## 13. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
-
-Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 14,191 |
-| Forks | 778 |
-| Stars today | 110 |
-
----
-
-## 14. [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) 🆕
-
-📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,038 |
-| Forks | 762 |
+| Stars | 70,529 |
+| Forks | 10,878 |
+| Stars today | 6 |
 
 ---

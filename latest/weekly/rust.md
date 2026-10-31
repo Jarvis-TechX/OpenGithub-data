@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-30T05:40:43Z
-**Total Repositories:** 17
-**New Entries:** 3
+**Snapshot Time:** 2026-10-31T05:32:26Z
+**Total Repositories:** 18
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 95,784 |
-| Forks | 5,643 |
-| Stars this week | 9,713 |
+| Stars | 97,304 |
+| Forks | 5,731 |
+| Stars this week | 11,323 |
 
 ---
 
@@ -28,139 +28,139 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 14,472 |
-| Forks | 1,040 |
-| Stars this week | 1,750 |
+| Stars | 14,627 |
+| Forks | 1,051 |
+| Stars this week | 1,669 |
 
 ---
 
-## 3. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
-
-A Tiny biped duck robot 🦆
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 13,111 |
-| Forks | 1,627 |
-| Stars this week | 3,106 |
-
----
-
-## 4. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
+## 3. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
 
 Next Generation Agentic Proxy for AI Agents and MCP servers
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,787 |
-| Forks | 1,026 |
-| Stars this week | 289 |
+| Stars | 5,814 |
+| Forks | 1,029 |
+| Stars this week | 291 |
 
 ---
 
-## 5. [xerj-org/xerj](https://github.com/xerj-org/xerj)
+## 4. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
 
-AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
+A Tiny biped duck robot 🦆
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 17,602 |
-| Forks | 1,352 |
-| Stars this week | 4,823 |
+| Stars | 13,178 |
+| Forks | 1,643 |
+| Stars this week | 2,800 |
 
 ---
 
-## 6. [macro-inc/macro](https://github.com/macro-inc/macro)
+## 5. [macro-inc/macro](https://github.com/macro-inc/macro)
 
 Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,659 |
-| Forks | 534 |
-| Stars this week | 807 |
+| Stars | 5,927 |
+| Forks | 541 |
+| Stars this week | 892 |
 
 ---
 
-## 7. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
+## 6. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
-The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
+AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,964 |
-| Forks | 605 |
-| Stars this week | 582 |
+| Stars | 17,781 |
+| Forks | 1,378 |
+| Stars this week | 4,227 |
 
 ---
 
-## 8. [ruvnet/RuView](https://github.com/ruvnet/RuView) 🆕
+## 7. [ruvnet/RuView](https://github.com/ruvnet/RuView)
 
 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 101,631 |
-| Forks | 13,204 |
-| Stars this week | 2,479 |
+| Stars | 101,788 |
+| Forks | 13,221 |
+| Stars this week | 2,551 |
 
 ---
 
-## 9. [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
+## 8. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
-All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,510 |
-| Forks | 1,027 |
-| Stars this week | 260 |
+| Stars | 6,989 |
+| Forks | 606 |
+| Stars this week | 564 |
 
 ---
 
-## 10. [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+## 9. [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
 
 Open source Loom alternative. Beautiful, shareable screen recordings.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 24,098 |
-| Forks | 2,211 |
-| Stars this week | 525 |
+| Stars | 24,158 |
+| Forks | 2,218 |
+| Stars this week | 568 |
 
 ---
 
-## 11. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+## 10. [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
 
-OpenShell is the safe, private runtime for autonomous AI agents.
+All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 20,707 |
-| Forks | 2,029 |
-| Stars this week | 3,563 |
+| Stars | 15,554 |
+| Forks | 1,030 |
+| Stars this week | 286 |
 
 ---
 
-## 12. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+## 11. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 
 Algorithm powering the For You feed on X
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 33,902 |
-| Forks | 5,479 |
-| Stars this week | 195 |
+| Stars | 33,958 |
+| Forks | 5,490 |
+| Stars this week | 187 |
+
+---
+
+## 12. [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust)
+
+NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,914 |
+| Forks | 351 |
+| Stars this week | 124 |
 
 ---
 
@@ -171,60 +171,73 @@ A high-performance inference engine for AI models
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,045 |
-| Forks | 190 |
-| Stars this week | 496 |
+| Stars | 3,117 |
+| Forks | 203 |
+| Stars this week | 534 |
 
 ---
 
-## 14. [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust) 🆕
+## 14. [nyakang/nyaterm](https://github.com/nyakang/nyaterm) 🆕
 
-NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.
+A modern remote terminal workspace
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,897 |
-| Forks | 349 |
-| Stars this week | 106 |
+| Stars | 2,180 |
+| Forks | 203 |
+| Stars this week | 283 |
 
 ---
 
-## 15. [claration/impactor](https://github.com/claration/impactor)
+## 15. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
 
-Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
+OpenShell is the safe, private runtime for autonomous AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,677 |
-| Forks | 264 |
-| Stars this week | 122 |
+| Stars | 20,779 |
+| Forks | 2,040 |
+| Stars this week | 2,352 |
 
 ---
 
-## 16. [oven-sh/bun](https://github.com/oven-sh/bun)
+## 16. [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) 🆕
 
-Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+The Open Runtime for AI Agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 96,464 |
-| Forks | 5,229 |
-| Stars this week | 180 |
+| Stars | 10,816 |
+| Forks | 2,711 |
+| Stars this week | 1,217 |
 
 ---
 
-## 17. [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) 🆕
+## 17. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) 🆕
 
-Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,157 |
-| Forks | 249 |
-| Stars this week | 861 |
+| Stars | 127,643 |
+| Forks | 20,196 |
+| Stars this week | 1,024 |
+
+---
+
+## 18. [aaif-goose/goose](https://github.com/aaif-goose/goose) 🆕
+
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 55,995 |
+| Forks | 6,505 |
+| Stars this week | 429 |
 
 ---

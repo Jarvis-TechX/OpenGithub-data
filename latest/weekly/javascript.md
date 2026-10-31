@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-30T05:40:35Z
-**Total Repositories:** 12
-**New Entries:** 5
+**Snapshot Time:** 2026-10-31T05:32:18Z
+**Total Repositories:** 10
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 53,076 |
-| Forks | 3,407 |
-| Stars this week | 14,320 |
+| Stars | 54,334 |
+| Forks | 3,520 |
+| Stars this week | 12,838 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 105,715 |
-| Forks | 7,143 |
-| Stars this week | 4,359 |
+| Stars | 106,455 |
+| Forks | 7,203 |
+| Stars this week | 4,712 |
 
 ---
 
@@ -41,9 +41,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 292,842 |
-| Forks | 43,334 |
-| Stars this week | 6,594 |
+| Stars | 293,511 |
+| Forks | 43,434 |
+| Stars this week | 6,506 |
 
 ---
 
@@ -54,9 +54,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 36,366 |
-| Forks | 2,584 |
-| Stars this week | 9,296 |
+| Stars | 36,719 |
+| Forks | 2,613 |
+| Stars this week | 9,480 |
 
 ---
 
@@ -67,99 +67,73 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 20,729 |
-| Forks | 1,164 |
-| Stars this week | 1,897 |
+| Stars | 20,893 |
+| Forks | 1,169 |
+| Stars this week | 1,867 |
 
 ---
 
-## 6. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 180,363 |
-| Forks | 9,901 |
-| Stars this week | 7,147 |
-
----
-
-## 7. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) 🆕
-
-Create beautiful slides on the web using a coding agent's frontend skills
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 31,576 |
-| Forks | 2,418 |
-| Stars this week | 477 |
-
----
-
-## 8. [nodejs/node](https://github.com/nodejs/node)
-
-Node.js JavaScript runtime ✨🐢🚀✨
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 123,093 |
-| Forks | 39,308 |
-| Stars this week | 748 |
-
----
-
-## 9. [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) 🆕
-
-One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid. No tracking, MIT.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 2,137 |
-| Forks | 198 |
-| Stars this week | 387 |
-
----
-
-## 10. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) 🆕
+## 6. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)
 
 Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,335 |
-| Forks | 1,338 |
-| Stars this week | 555 |
+| Stars | 10,405 |
+| Forks | 1,347 |
+| Stars this week | 563 |
 
 ---
 
-## 11. [reisxd/TizenTube](https://github.com/reisxd/TizenTube) 🆕
+## 7. [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) 🆕
 
-A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
+한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,401 |
-| Forks | 229 |
-| Stars this week | 74 |
+| Stars | 8,221 |
+| Forks | 996 |
+| Stars this week | 158 |
 
 ---
 
-## 12. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
+## 8. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 57,371 |
-| Forks | 8,459 |
-| Stars this week | 1,363 |
+| Stars | 57,549 |
+| Forks | 8,481 |
+| Stars this week | 1,330 |
+
+---
+
+## 9. [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi)
+
+One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid. No tracking, MIT.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 2,154 |
+| Forks | 199 |
+| Stars this week | 415 |
+
+---
+
+## 10. [nodejs/node](https://github.com/nodejs/node)
+
+Node.js JavaScript runtime ✨🐢🚀✨
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 123,126 |
+| Forks | 39,318 |
+| Stars this week | 592 |
 
 ---

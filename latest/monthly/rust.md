@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-30T05:41:02Z
-**Total Repositories:** 18
-**New Entries:** 1
+**Snapshot Time:** 2026-10-31T05:32:47Z
+**Total Repositories:** 20
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 95,784 |
-| Forks | 5,643 |
-| Stars this month | 22,473 |
+| Stars | 97,304 |
+| Forks | 5,732 |
+| Stars this month | 24,624 |
 
 ---
 
@@ -28,87 +28,87 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 20,707 |
-| Forks | 2,029 |
-| Stars this month | 10,562 |
+| Stars | 20,779 |
+| Forks | 2,040 |
+| Stars this month | 10,707 |
 
 ---
 
-## 3. [crmne/spotifast](https://github.com/crmne/spotifast)
-
-Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 9,393 |
-| Forks | 554 |
-| Stars this month | 4,681 |
-
----
-
-## 4. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+## 3. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
 
 Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 14,472 |
-| Forks | 1,040 |
-| Stars this month | 5,864 |
+| Stars | 14,627 |
+| Forks | 1,051 |
+| Stars this month | 6,040 |
 
 ---
 
-## 5. [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit)
+## 4. [crmne/spotifast](https://github.com/crmne/spotifast)
 
-Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,785 |
-| Forks | 1,169 |
-| Stars this month | 3,819 |
+| Stars | 9,427 |
+| Forks | 557 |
+| Stars this month | 4,717 |
 
 ---
 
-## 6. [xerj-org/xerj](https://github.com/xerj-org/xerj)
+## 5. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
 AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 17,602 |
-| Forks | 1,352 |
-| Stars this month | 15,790 |
+| Stars | 17,781 |
+| Forks | 1,378 |
+| Stars this month | 15,951 |
 
 ---
 
-## 7. [lexmount/moli](https://github.com/lexmount/moli)
+## 6. [lexmount/moli](https://github.com/lexmount/moli)
 
 Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 21,595 |
-| Forks | 582 |
-| Stars this month | 19,569 |
+| Stars | 21,767 |
+| Forks | 584 |
+| Stars this month | 19,787 |
 
 ---
 
-## 8. [jub0t/Concat](https://github.com/jub0t/Concat)
+## 7. [jub0t/Concat](https://github.com/jub0t/Concat)
 
 The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,692 |
-| Forks | 1,560 |
-| Stars this month | 8,784 |
+| Stars | 12,886 |
+| Forks | 1,584 |
+| Stars this month | 8,993 |
+
+---
+
+## 8. [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit)
+
+Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 18,814 |
+| Forks | 1,174 |
+| Stars this month | 3,858 |
 
 ---
 
@@ -119,35 +119,35 @@ A refreshingly simple data-driven game engine built in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 49,377 |
-| Forks | 4,996 |
-| Stars this month | 1,027 |
+| Stars | 49,401 |
+| Forks | 5,000 |
+| Stars this month | 1,055 |
 
 ---
 
-## 10. [crmne/zapfast](https://github.com/crmne/zapfast) 🆕
-
-ZapFast: a fast, native WhatsApp client in Rust and egui
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,301 |
-| Forks | 268 |
-| Stars this month | 1,384 |
-
----
-
-## 11. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+## 10. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
 An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 127,542 |
-| Forks | 20,161 |
-| Stars this month | 3,322 |
+| Stars | 127,643 |
+| Forks | 20,196 |
+| Stars this month | 3,440 |
+
+---
+
+## 11. [crmne/zapfast](https://github.com/crmne/zapfast)
+
+ZapFast: a fast, native WhatsApp client in Rust and egui
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 2,316 |
+| Forks | 270 |
+| Stars this month | 1,403 |
 
 ---
 
@@ -158,9 +158,9 @@ A lightweight desktop app to manage, sync, and organize AI agent skills across 5
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 7,053 |
-| Forks | 571 |
-| Stars this month | 1,844 |
+| Stars | 7,091 |
+| Forks | 575 |
+| Stars this month | 1,891 |
 
 ---
 
@@ -171,73 +171,99 @@ A high-performance inference engine for AI models
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,045 |
-| Forks | 190 |
-| Stars this month | 1,222 |
+| Stars | 3,117 |
+| Forks | 203 |
+| Stars this month | 1,269 |
 
 ---
 
-## 14. [microsoft/mxc](https://github.com/microsoft/mxc)
+## 14. [denoland/deno](https://github.com/denoland/deno) 🆕
 
-Policy-driven, layered isolation and containment
+A modern runtime for JavaScript and TypeScript.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,046 |
-| Forks | 168 |
-| Stars this month | 1,673 |
+| Stars | 108,780 |
+| Forks | 6,475 |
+| Stars this month | 865 |
 
 ---
 
-## 15. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,690 |
-| Forks | 431 |
-| Stars this month | 1,353 |
-
----
-
-## 16. [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
-
-Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 5,163 |
-| Forks | 303 |
-| Stars this month | 1,947 |
-
----
-
-## 17. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
+## 15. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
 
 AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,435 |
-| Forks | 196 |
-| Stars this month | 612 |
+| Stars | 1,436 |
+| Forks | 199 |
+| Stars this month | 615 |
 
 ---
 
-## 18. [emilk/egui](https://github.com/emilk/egui)
+## 16. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,710 |
+| Forks | 436 |
+| Stars this month | 1,380 |
+
+---
+
+## 17. [microsoft/mxc](https://github.com/microsoft/mxc)
+
+Policy-driven, layered isolation and containment
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,052 |
+| Forks | 169 |
+| Stars this month | 1,684 |
+
+---
+
+## 18. [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
+
+Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 5,194 |
+| Forks | 308 |
+| Stars this month | 1,978 |
+
+---
+
+## 19. [emilk/egui](https://github.com/emilk/egui)
 
 egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,859 |
-| Forks | 2,280 |
-| Stars this month | 1,179 |
+| Stars | 31,877 |
+| Forks | 2,288 |
+| Stars this month | 1,199 |
+
+---
+
+## 20. [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) 🆕
+
+WorkBuddy、CodeBuddy 账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,639 |
+| Forks | 222 |
+| Stars this month | 723 |
 
 ---

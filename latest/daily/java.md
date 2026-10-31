@@ -1,75 +1,75 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-30T05:40:27Z
-**Total Repositories:** 18
-**New Entries:** 15
+**Snapshot Time:** 2026-10-31T05:32:09Z
+**Total Repositories:** 24
+**New Entries:** 16
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) 🆕
+## 1. [quarkusio/quarkus](https://github.com/quarkusio/quarkus) 🆕
 
-Ghidra is a software reverse engineering (SRE) framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 95,938 |
-| Forks | 10,819 |
-| Stars today | 435 |
-
----
-
-## 2. [floci-io/floci](https://github.com/floci-io/floci) 🆕
-
-Light, fluffy, and always free - The AWS Local Emulator alternative
+Quarkus: Supersonic Subatomic Java.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 27,297 |
-| Forks | 3,014 |
-| Stars today | 47 |
+| Stars | 15,971 |
+| Forks | 3,354 |
+| Stars today | 2 |
 
 ---
 
-## 3. [github/copilot-sdk](https://github.com/github/copilot-sdk)
+## 2. [apache/iceberg](https://github.com/apache/iceberg) 🆕
 
-Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+Apache Iceberg
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,616 |
-| Forks | 1,515 |
-| Stars today | 29 |
+| Stars | 9,390 |
+| Forks | 3,641 |
+| Stars today | 5 |
 
 ---
 
-## 4. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
-
-Build distributed, production-grade, long-running agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 6,189 |
-| Forks | 1,546 |
-| Stars today | 21 |
-
----
-
-## 5. [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 🆕
+## 3. [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
 
 🔎 Open source distributed and RESTful search engine.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,933 |
-| Forks | 3,066 |
-| Stars today | 9 |
+| Stars | 13,937 |
+| Forks | 3,078 |
+| Stars today | 3 |
+
+---
+
+## 4. [floci-io/floci](https://github.com/floci-io/floci)
+
+Light, fluffy, and always free - The AWS Local Emulator alternative
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 27,388 |
+| Forks | 3,022 |
+| Stars today | 73 |
+
+---
+
+## 5. [openjdk/jdk](https://github.com/openjdk/jdk) 🆕
+
+JDK main-line developmenthttps://openjdk.org/projects/jdk
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 23,483 |
+| Forks | 6,591 |
+| Stars today | 6 |
 
 ---
 
@@ -80,163 +80,241 @@ Open Source Identity and Access Management For Modern Applications and Services
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 37,596 |
-| Forks | 9,116 |
-| Stars today | 21 |
+| Stars | 37,618 |
+| Forks | 9,121 |
+| Stars today | 24 |
 
 ---
 
-## 7. [neo4j/neo4j](https://github.com/neo4j/neo4j) 🆕
-
-Graphs for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 17,379 |
-| Forks | 2,785 |
-| Stars today | 8 |
-
----
-
-## 8. [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) 🆕
-
-A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,946 |
-| Forks | 937 |
-| Stars today | 3 |
-
----
-
-## 9. [StarRocks/starrocks](https://github.com/StarRocks/starrocks) 🆕
-
-The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 12,218 |
-| Forks | 2,641 |
-| Stars today | 2 |
-
----
-
-## 10. [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) 🆕
-
-This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 24,081 |
-| Forks | 13,606 |
-| Stars today | 4 |
-
----
-
-## 11. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) 🆕
+## 7. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
 
 Spring Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 60,300 |
-| Forks | 38,742 |
-| Stars today | 6 |
-
----
-
-## 12. [PaperMC/Paper](https://github.com/PaperMC/Paper) 🆕
-
-The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 12,781 |
-| Forks | 3,560 |
+| Stars | 60,303 |
+| Forks | 38,747 |
 | Stars today | 3 |
 
 ---
 
-## 13. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) 🆕
+## 8. [apache/seatunnel](https://github.com/apache/seatunnel) 🆕
+
+SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,777 |
+| Forks | 2,451 |
+| Stars today | 2 |
+
+---
+
+## 9. [trinodb/trino](https://github.com/trinodb/trino) 🆕
+
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,386 |
+| Forks | 3,847 |
+| Stars today | 1 |
+
+---
+
+## 10. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java)
+
+Build distributed, production-grade, long-running agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 6,201 |
+| Forks | 1,548 |
+| Stars today | 16 |
+
+---
+
+## 11. [github/copilot-sdk](https://github.com/github/copilot-sdk)
+
+Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 10,641 |
+| Forks | 1,518 |
+| Stars today | 23 |
+
+---
+
+## 12. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
+
+Free and Open Source, Distributed, RESTful Search Engine
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 78,427 |
+| Forks | 26,195 |
+| Stars today | 14 |
+
+---
+
+## 13. [bazelbuild/bazel](https://github.com/bazelbuild/bazel) 🆕
+
+a fast, scalable, multi-language and extensible build system
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 26,021 |
+| Forks | 4,669 |
+| Stars today | 6 |
+
+---
+
+## 14. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
 
 Jenkins automation server
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,704 |
-| Forks | 9,813 |
-| Stars today | 6 |
+| Stars | 26,709 |
+| Forks | 9,814 |
+| Stars today | 5 |
 
 ---
 
-## 14. [spring-projects/spring-security](https://github.com/spring-projects/spring-security) 🆕
+## 15. [apache/doris](https://github.com/apache/doris) 🆕
+
+Apache Doris is a real-time analytics and hybrid search database for AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 16,159 |
+| Forks | 4,005 |
+| Stars today | 4 |
+
+---
+
+## 16. [openrewrite/rewrite](https://github.com/openrewrite/rewrite) 🆕
+
+Automated mass refactoring of source code.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,836 |
+| Forks | 588 |
+| Stars today | 8 |
+
+---
+
+## 17. [androidx/media](https://github.com/androidx/media) 🆕
+
+Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,060 |
+| Forks | 1,001 |
+| Stars today | 3 |
+
+---
+
+## 18. [camunda/camunda](https://github.com/camunda/camunda) 🆕
+
+Agentic Orchestration Platform
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 4,343 |
+| Forks | 840 |
+| Stars today | 2 |
+
+---
+
+## 19. [apache/druid](https://github.com/apache/druid) 🆕
+
+Apache Druid: a high performance real-time analytics database.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 14,092 |
+| Forks | 3,811 |
+| Stars today | 1 |
+
+---
+
+## 20. [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) 🆕
+
+Free universal database tool and SQL client
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 52,251 |
+| Forks | 4,437 |
+| Stars today | 11 |
+
+---
+
+## 21. [FasterXML/jackson-databind](https://github.com/FasterXML/jackson-databind) 🆕
+
+General data-binding package for Jackson: works on streaming API (core) implementation(s)
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,755 |
+| Forks | 1,542 |
+
+---
+
+## 22. [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
 
 Spring Security
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 9,656 |
-| Forks | 6,371 |
+| Stars | 9,658 |
+| Forks | 6,374 |
+| Stars today | 1 |
+
+---
+
+## 23. [openmrs/openmrs-core](https://github.com/openmrs/openmrs-core) 🆕
+
+OpenMRS API and web application code
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,957 |
+| Forks | 4,458 |
 | Stars today | 2 |
 
 ---
 
-## 15. [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) 🆕
+## 24. [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) 🆕
 
-Jetbrains Claude Code and Codex GUI Plugin
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 7,360 |
-| Forks | 694 |
-| Stars today | 30 |
-
----
-
-## 16. [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) 🆕
-
-Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+An Application Framework for AI Engineering
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 14,540 |
-| Forks | 5,123 |
-
----
-
-## 17. [apache/fineract](https://github.com/apache/fineract) 🆕
-
-Apache Fineract
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,585 |
-| Forks | 2,910 |
-| Stars today | 4 |
-
----
-
-## 18. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
-
-Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 4,385 |
-| Forks | 847 |
-| Stars today | 5 |
+| Stars | 9,608 |
+| Forks | 3,015 |
+| Stars today | 2 |
 
 ---

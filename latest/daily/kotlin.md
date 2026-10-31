@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-30T05:40:28Z
-**Total Repositories:** 8
-**New Entries:** 6
+**Snapshot Time:** 2026-10-31T05:32:10Z
+**Total Repositories:** 13
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
@@ -15,99 +15,162 @@ A modern sleek music player.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 358 |
-| Forks | 26 |
-| Stars today | 68 |
+| Stars | 372 |
+| Forks | 28 |
+| Stars today | 26 |
 
 ---
 
-## 2. [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) 🆕
+## 2. [home-assistant/android](https://github.com/home-assistant/android) 🆕
 
-The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone
+Home Assistant Companion for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,133 |
-| Forks | 1,113 |
-| Stars today | 44 |
-
----
-
-## 3. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
-
-Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,282 |
-| Forks | 117 |
-| Stars today | 24 |
-
----
-
-## 4. [mossyhub/openautolink](https://github.com/mossyhub/openautolink) 🆕
-
-Android Auto and CarPlay for GM EV AAOS head units with cluster/HUD support and EV range in Maps
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 176 |
-| Forks | 27 |
+| Stars | 4,012 |
+| Forks | 1,124 |
 | Stars today | 3 |
 
 ---
 
-## 5. [JetBrains/koog](https://github.com/JetBrains/koog) 🆕
+## 3. [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) 🆕
+
+Easy to use OpenStreetMap editor for Android and iOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 5,128 |
+| Forks | 477 |
+
+---
+
+## 4. [JetBrains/kotlin](https://github.com/JetBrains/kotlin) 🆕
+
+The Kotlin Programming Language.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 53,526 |
+| Forks | 6,454 |
+| Stars today | 5 |
+
+---
+
+## 5. [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) 🆕
+
+Tailscale Android Client
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,769 |
+| Forks | 773 |
+| Stars today | 13 |
+
+---
+
+## 6. [ximeiorg/Xime](https://github.com/ximeiorg/Xime) 🆕
+
+我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,302 |
+| Forks | 97 |
+| Stars today | 3 |
+
+---
+
+## 7. [JetBrains/koog](https://github.com/JetBrains/koog)
 
 Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,645 |
-| Forks | 501 |
-| Stars today | 5 |
+| Stars | 4,647 |
+| Forks | 505 |
 
 ---
 
-## 6. [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) 🆕
+## 8. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
 
-The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
+Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,957 |
-| Forks | 1,068 |
-| Stars today | 7 |
+| Stars | 2,290 |
+| Forks | 118 |
+| Stars today | 16 |
 
 ---
 
-## 7. [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) 🆕
+## 9. [GlassHaven/Haven](https://github.com/GlassHaven/Haven) 🆕
 
-Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.
+Free SSH, VNC, RDP & SFTP client for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 730 |
-| Forks | 211 |
+| Stars | 1,392 |
+| Forks | 105 |
+| Stars today | 6 |
+
+---
+
+## 10. [duckduckgo/Android](https://github.com/duckduckgo/Android) 🆕
+
+DuckDuckGo Android App
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,882 |
+| Forks | 1,423 |
+| Stars today | 2 |
+
+---
+
+## 11. [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) 🆕
+
+💊 Application to use ReVanced on Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 30,011 |
+| Forks | 1,183 |
+| Stars today | 17 |
+
+---
+
+## 12. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
+
+The Magic Mask for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 63,635 |
+| Forks | 19,110 |
+| Stars today | 36 |
+
+---
+
+## 13. [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) 🆕
+
+KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,513 |
+| Forks | 302 |
 | Stars today | 8 |
-
----
-
-## 8. [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) 🆕
-
-A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 3,806 |
-| Forks | 252 |
-| Stars today | 15 |
 
 ---

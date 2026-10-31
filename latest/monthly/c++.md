@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-30T05:41:05Z
+**Snapshot Time:** 2026-10-31T05:32:50Z
 **Total Repositories:** 17
-**New Entries:** 1
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 49,614 |
-| Forks | 4,688 |
-| Stars this month | 47,350 |
+| Stars | 49,897 |
+| Forks | 4,724 |
+| Stars this month | 47,634 |
 
 ---
 
@@ -28,9 +28,9 @@ An MCP-based chatbot | 一个基于MCP的聊天机器人
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 32,254 |
-| Forks | 7,570 |
-| Stars this month | 2,006 |
+| Stars | 32,305 |
+| Forks | 7,593 |
+| Stars this month | 2,076 |
 
 ---
 
@@ -41,9 +41,9 @@ Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,738 |
-| Forks | 228 |
-| Stars this month | 450 |
+| Stars | 3,742 |
+| Forks | 231 |
+| Stars this month | 458 |
 
 ---
 
@@ -54,9 +54,9 @@ PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,963 |
-| Forks | 2,874 |
-| Stars this month | 1,075 |
+| Stars | 33,985 |
+| Forks | 2,877 |
+| Stars this month | 1,100 |
 
 ---
 
@@ -67,9 +67,9 @@ PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,656 |
-| Forks | 2,585 |
-| Stars this month | 794 |
+| Stars | 55,671 |
+| Forks | 2,586 |
+| Stars this month | 818 |
 
 ---
 
@@ -80,78 +80,104 @@ Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,468 |
-| Forks | 415 |
-| Stars this month | 1,197 |
+| Stars | 6,494 |
+| Forks | 417 |
+| Stars this month | 1,225 |
 
 ---
 
-## 7. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 34,934 |
-| Forks | 6,310 |
-| Stars this month | 1,162 |
-
----
-
-## 8. [typesense/typesense](https://github.com/typesense/typesense)
-
-Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 27,064 |
-| Forks | 1,023 |
-| Stars this month | 496 |
-
----
-
-## 9. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
-
-Easily download and manage single-player game cheats for your convenience
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 15,807 |
-| Forks | 571 |
-| Stars this month | 973 |
-
----
-
-## 10. [microsoft/BitNet](https://github.com/microsoft/BitNet)
+## 7. [microsoft/BitNet](https://github.com/microsoft/BitNet)
 
 Official inference framework for 1-bit LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,341 |
-| Forks | 3,849 |
-| Stars this month | 1,051 |
+| Stars | 41,381 |
+| Forks | 3,856 |
+| Stars this month | 1,114 |
 
 ---
 
-## 11. [react/react-native](https://github.com/react/react-native)
+## 8. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+
+Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 34,973 |
+| Forks | 6,314 |
+| Stars this month | 1,203 |
+
+---
+
+## 9. [typesense/typesense](https://github.com/typesense/typesense)
+
+Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 27,066 |
+| Forks | 1,024 |
+| Stars this month | 497 |
+
+---
+
+## 10. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
+
+Easily download and manage single-player game cheats for your convenience
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 15,838 |
+| Forks | 576 |
+| Stars this month | 1,002 |
+
+---
+
+## 11. [deskflow/deskflow](https://github.com/deskflow/deskflow)
+
+Share a single keyboard and mouse between multiple computers.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 30,394 |
+| Forks | 5,055 |
+| Stars this month | 1,174 |
+
+---
+
+## 12. [react/react-native](https://github.com/react/react-native)
 
 A framework for building native applications using React
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 126,825 |
-| Forks | 25,445 |
-| Stars this month | 424 |
+| Stars | 126,839 |
+| Forks | 25,465 |
+| Stars this month | 442 |
 
 ---
 
-## 12. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
+## 13. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+
+An Open Source Machine Learning Framework for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 201,236 |
+| Forks | 78,754 |
+| Stars this month | 1,542 |
+
+---
+
+## 14. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
 
 Reimplementation of GTA:SA 1.0 US
 
@@ -159,72 +185,46 @@ Reimplementation of GTA:SA 1.0 US
 |--------|-------|
 | Language | C++ |
 | Stars | 1,186 |
-| Forks | 269 |
-| Stars this month | 245 |
+| Forks | 270 |
+| Stars this month | 250 |
 
 ---
 
-## 13. [deskflow/deskflow](https://github.com/deskflow/deskflow)
-
-Share a single keyboard and mouse between multiple computers.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 30,353 |
-| Forks | 5,051 |
-| Stars this month | 1,126 |
-
----
-
-## 14. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-
-An Open Source Machine Learning Framework for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 201,212 |
-| Forks | 78,733 |
-| Stars this month | 1,517 |
-
----
-
-## 15. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) 🆕
+## 15. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
 
 G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,223 |
-| Forks | 3,360 |
-| Stars this month | 439 |
+| Stars | 16,238 |
+| Forks | 3,372 |
+| Stars this month | 459 |
 
 ---
 
-## 16. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio)
+## 16. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) 🆕
 
-Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
+KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,024 |
-| Forks | 188 |
-| Stars this month | 801 |
+| Stars | 29,630 |
+| Forks | 2,001 |
+| Stars this month | 696 |
 
 ---
 
-## 17. [microsoft/WSL](https://github.com/microsoft/WSL)
+## 17. [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) 🆕
 
-Windows Subsystem for Linux
+Diablo build for modern operating systems
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 34,259 |
-| Forks | 1,875 |
-| Stars this month | 545 |
+| Stars | 9,970 |
+| Forks | 1,083 |
+| Stars this month | 212 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-30T05:40:32Z
-**Total Repositories:** 12
+**Snapshot Time:** 2026-10-31T05:32:15Z
+**Total Repositories:** 13
 **New Entries:** 3
-**Quality Score:** 97.50/100
+**Quality Score:** 94.62/100
 
 ---
 
@@ -15,150 +15,161 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 53,076 |
-| Forks | 3,407 |
-| Stars this week | 14,320 |
+| Stars | 54,334 |
+| Forks | 3,520 |
+| Stars this week | 12,838 |
 
 ---
 
-## 2. [php/php-src](https://github.com/php/php-src) 🆕
-
-The PHP Interpreter
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 41,726 |
-| Forks | 8,493 |
-| Stars this week | 960 |
-
----
-
-## 3. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
+## 2. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
 
 Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 24,097 |
-| Forks | 3,230 |
-| Stars this week | 4,110 |
+| Stars | 24,613 |
+| Forks | 3,275 |
+| Stars this week | 4,478 |
 
 ---
 
-## 4. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 3. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 95,784 |
-| Forks | 5,643 |
-| Stars this week | 9,713 |
+| Stars | 97,304 |
+| Forks | 5,731 |
+| Stars this week | 11,323 |
 
 ---
 
-## 5. [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-
-A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-
-| Metric | Value |
-|--------|-------|
-| Stars | 226,528 |
-| Forks | 22,621 |
-| Stars this week | 4,250 |
-
----
-
-## 6. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-
-TradingAgents: Multi-Agents LLM Financial Trading Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 118,416 |
-| Forks | 22,647 |
-| Stars this week | 5,557 |
-
----
-
-## 7. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) 🆕
-
-AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 70,979 |
-| Forks | 5,536 |
-| Stars this week | 4,980 |
-
----
-
-## 8. [obra/superpowers](https://github.com/obra/superpowers) 🆕
+## 4. [obra/superpowers](https://github.com/obra/superpowers)
 
 An agentic skills framework & software development methodology that works.
 
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 308,778 |
-| Forks | 27,468 |
-| Stars this week | 4,894 |
+| Stars | 309,543 |
+| Forks | 27,544 |
+| Stars this week | 5,474 |
 
 ---
 
-## 9. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+## 5. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 33,891 |
-| Forks | 3,726 |
-| Stars this week | 2,504 |
+| Stars | 118,769 |
+| Forks | 22,703 |
+| Stars this week | 5,490 |
 
 ---
 
-## 10. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+## 6. [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+
+A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+| Metric | Value |
+|--------|-------|
+| Stars | 226,979 |
+| Forks | 22,662 |
+| Stars this week | 4,178 |
+
+---
+
+## 7. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 105,715 |
-| Forks | 7,143 |
-| Stars this week | 4,359 |
+| Stars | 106,455 |
+| Forks | 7,203 |
+| Stars this week | 4,712 |
 
 ---
 
-## 11. [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
+## 8. [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
 
 A collection of agent skills that help you build great interfaces.
 
 | Metric | Value |
 |--------|-------|
 | Language | Markdown |
-| Stars | 9,215 |
-| Forks | 349 |
-| Stars this week | 980 |
+| Stars | 9,411 |
+| Forks | 359 |
+| Stars this week | 1,107 |
 
 ---
 
-## 12. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+## 9. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 32,965 |
+| Forks | 8,675 |
+| Stars this week | 2,775 |
+
+---
+
+## 10. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 34,071 |
+| Forks | 3,756 |
+| Stars this week | 2,083 |
+
+---
+
+## 11. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 293,511 |
+| Forks | 43,434 |
+| Stars this week | 6,506 |
+
+---
+
+## 12. [anthropics/skills](https://github.com/anthropics/skills) 🆕
+
+Public repository for Agent Skills
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 185,460 |
+| Forks | 21,903 |
+| Stars this week | 1,888 |
+
+---
+
+## 13. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 80,176 |
-| Forks | 9,402 |
-| Stars this week | 1,854 |
+| Stars | 80,329 |
+| Forks | 9,416 |
+| Stars this week | 1,723 |
 
 ---

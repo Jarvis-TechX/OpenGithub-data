@@ -1,40 +1,27 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-30T05:40:26Z
-**Total Repositories:** 17
-**New Entries:** 14
+**Snapshot Time:** 2026-10-31T05:32:08Z
+**Total Repositories:** 14
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [electron/electron](https://github.com/electron/electron) 🆕
+## 1. [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) 🆕
 
-Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 123,635 |
-| Forks | 17,835 |
-| Stars today | 29 |
-
----
-
-## 2. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) 🆕
-
-G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+Mesh optimization library that makes meshes smaller and faster to render
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,223 |
-| Forks | 3,360 |
-| Stars today | 28 |
+| Stars | 8,735 |
+| Forks | 744 |
+| Stars today | 62 |
 
 ---
 
-## 3. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+## 2. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 
 Protocol Buffers - Google's data interchange format
 
@@ -42,189 +29,163 @@ Protocol Buffers - Google's data interchange format
 |--------|-------|
 | Language | C++ |
 | Stars | 72,138 |
-| Forks | 16,345 |
+| Forks | 16,350 |
 | Stars today | 5 |
 
 ---
 
-## 4. [apache/arrow](https://github.com/apache/arrow) 🆕
+## 3. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) 🆕
 
-Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 17,256 |
-| Forks | 4,420 |
-| Stars today | 4 |
-
----
-
-## 5. [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd) 🆕
-
-Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN capture, steering mode + more. Works via OBD-II or X179 connector.
+Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,186 |
-| Forks | 419 |
-| Stars today | 7 |
+| Stars | 39,075 |
+| Forks | 2,102 |
+| Stars today | 35 |
 
 ---
 
-## 6. [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) 🆕
+## 4. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) 🆕
+
+Amnezia VPN Client (Desktop+Mobile)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 15,619 |
+| Forks | 1,232 |
+| Stars today | 18 |
+
+---
+
+## 5. [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) 🆕
+
+A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 11,986 |
+| Forks | 983 |
+| Stars today | 157 |
+
+---
+
+## 6. [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D) 🆕
+
+A high performance, editable terrain system for Godot 4.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 4,602 |
+| Forks | 347 |
+| Stars today | 100 |
+
+---
+
+## 7. [google/perfetto](https://github.com/google/perfetto) 🆕
+
+Production-grade client-side tracing, profiling, and analysis for complex software systems.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 6,721 |
+| Forks | 926 |
+| Stars today | 5 |
+
+---
+
+## 8. [microsoft/BitNet](https://github.com/microsoft/BitNet) 🆕
+
+Official inference framework for 1-bit LLMs
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 41,381 |
+| Forks | 3,856 |
+| Stars today | 70 |
+
+---
+
+## 9. [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade)
 
 Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord:https://discord.gg/5xXzkMu8Zk
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,025 |
-| Forks | 544 |
-| Stars today | 10 |
+| Stars | 6,030 |
+| Forks | 545 |
+| Stars today | 9 |
 
 ---
 
-## 7. [google/googletest](https://github.com/google/googletest)
+## 10. [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) 🆕
 
-GoogleTest - Google Testing and Mocking Framework
+NVIDIA Inference Xfer Library (NIXL)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 39,678 |
-| Forks | 10,927 |
-| Stars today | 8 |
+| Stars | 1,345 |
+| Forks | 508 |
+| Stars today | 3 |
 
 ---
 
-## 8. [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) 🆕
+## 11. [dmlc/xgboost](https://github.com/dmlc/xgboost) 🆕
 
-super repo for rocm systems projects
+Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 547 |
-| Forks | 475 |
-| Stars today | 1 |
+| Stars | 28,928 |
+| Forks | 8,957 |
+| Stars today | 4 |
 
 ---
 
-## 9. [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) 🆕
+## 12. [nextcloud/desktop](https://github.com/nextcloud/desktop) 🆕
 
-ROS 2 Navigation Framework and System
+💻 Desktop sync client for Nextcloud
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 4,951 |
-| Forks | 1,998 |
-| Stars today | 17 |
+| Stars | 3,936 |
+| Forks | 1,042 |
+| Stars today | 4 |
 
 ---
 
-## 10. [ocornut/imgui](https://github.com/ocornut/imgui) 🆕
+## 13. [openxla/xla](https://github.com/openxla/xla) 🆕
 
-Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+A machine learning compiler for GPUs, CPUs, and ML accelerators
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 76,880 |
-| Forks | 12,092 |
-| Stars today | 21 |
+| Stars | 4,634 |
+| Forks | 994 |
+| Stars today | 3 |
 
 ---
 
-## 11. [defold/defold](https://github.com/defold/defold) 🆕
+## 14. [electron/electron](https://github.com/electron/electron)
 
-Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
+Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,433 |
-| Forks | 467 |
-| Stars today | 5 |
-
----
-
-## 12. [grpc/grpc](https://github.com/grpc/grpc) 🆕
-
-C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 45,406 |
-| Forks | 11,330 |
-| Stars today | 6 |
-
----
-
-## 13. [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)
-
-An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,857 |
-| Forks | 467 |
-| Stars today | 18 |
-
----
-
-## 14. [google/or-tools](https://github.com/google/or-tools) 🆕
-
-Google's Operations Research tools:
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 14,301 |
-| Forks | 2,537 |
-| Stars today | 5 |
-
----
-
-## 15. [dji-sdk/Cloud-API-2](https://github.com/dji-sdk/Cloud-API-2) 🆕
-
-DJI Cloud API 2 Official Repository — a free PaaS for DJI docks and drones.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 168 |
-| Forks | 28 |
-| Stars today | 1 |
-
----
-
-## 16. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
-
-An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 32,254 |
-| Forks | 7,570 |
-| Stars today | 69 |
-
----
-
-## 17. [godotengine/godot](https://github.com/godotengine/godot) 🆕
-
-Godot Engine – Multi-platform 2D and 3D game engine
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 119,272 |
-| Forks | 27,274 |
-| Stars today | 66 |
+| Stars | 123,660 |
+| Forks | 17,857 |
+| Stars today | 36 |
 
 ---
