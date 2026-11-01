@@ -1,10 +1,10 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:31:55Z
-**Total Repositories:** 15
-**New Entries:** 7
-**Quality Score:** 95.33/100
+**Snapshot Time:** 2026-11-01T05:56:06Z
+**Total Repositories:** 14
+**New Entries:** 5
+**Quality Score:** 97.14/100
 
 ---
 
@@ -15,111 +15,111 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 106,580 |
-| Forks | 9,380 |
-| Stars today | 1,140 |
+| Stars | 108,135 |
+| Forks | 9,487 |
+| Stars today | 1,723 |
 
 ---
 
-## 2. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-
-Open-source Grok Bot alternative with a virtual machine that bots can use
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,869 |
-| Forks | 1,222 |
-| Stars today | 895 |
-
----
-
-## 3. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-
-The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 97,304 |
-| Forks | 5,731 |
-| Stars today | 2,300 |
-
----
-
-## 4. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
-
-Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,901 |
-| Forks | 1,114 |
-| Stars today | 706 |
-
----
-
-## 5. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 🆕
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 11,471 |
-| Forks | 2,275 |
-| Stars today | 1,126 |
-
----
-
-## 6. [expo/skills](https://github.com/expo/skills) 🆕
-
-A collection of AI agent skills for working with Expo projects and Expo Application Services
-
-| Metric | Value |
-|--------|-------|
-| Language | Shell |
-| Stars | 3,923 |
-| Forks | 248 |
-| Stars today | 38 |
-
----
-
-## 7. [macro-inc/macro](https://github.com/macro-inc/macro) 🆕
-
-Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 5,927 |
-| Forks | 541 |
-| Stars today | 57 |
-
----
-
-## 8. [mattpocock/skills](https://github.com/mattpocock/skills) 🆕
+## 2. [mattpocock/skills](https://github.com/mattpocock/skills)
 
 Skills for Real Engineers. Straight from my .agents directory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 307,622 |
-| Forks | 25,896 |
-| Stars today | 876 |
+| Stars | 308,605 |
+| Forks | 25,975 |
+| Stars today | 883 |
 
 ---
 
-## 9. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 🆕
+## 3. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) 🆕
+
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+
+| Metric | Value |
+|--------|-------|
+| Language | Shell |
+| Stars | 31,337 |
+| Forks | 4,292 |
+| Stars today | 742 |
+
+---
+
+## 4. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 32,965 |
-| Forks | 8,675 |
-| Stars today | 930 |
+| Stars | 35,980 |
+| Forks | 8,810 |
+| Stars today | 1,148 |
+
+---
+
+## 5. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 12,478 |
+| Forks | 2,446 |
+| Stars today | 1,092 |
+
+---
+
+## 6. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+
+Open-source Grok Bot alternative with a virtual machine that bots can use
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 9,856 |
+| Forks | 1,369 |
+| Stars today | 1,303 |
+
+---
+
+## 7. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+
+The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 98,497 |
+| Forks | 5,814 |
+| Stars today | 1,338 |
+
+---
+
+## 8. [obra/superpowers](https://github.com/obra/superpowers)
+
+An agentic skills framework & software development methodology that works.
+
+| Metric | Value |
+|--------|-------|
+| Language | Shell |
+| Stars | 310,190 |
+| Forks | 27,605 |
+| Stars today | 665 |
+
+---
+
+## 9. [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+
+Lightpanda: the headless browser designed for AI and automation
+
+| Metric | Value |
+|--------|-------|
+| Language | Zig |
+| Stars | 39,389 |
+| Forks | 1,918 |
+| Stars today | 929 |
 
 ---
 
@@ -130,72 +130,60 @@ DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 51,949 |
-| Forks | 6,368 |
-| Stars today | 2,282 |
+| Stars | 53,051 |
+| Forks | 6,495 |
+| Stars today | 1,034 |
 
 ---
 
-## 11. [anthropics/skills](https://github.com/anthropics/skills) 🆕
+## 11. [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) 🆕
 
-Public repository for Agent Skills
+Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
 
 | Metric | Value |
 |--------|-------|
-| Language | Python |
-| Stars | 185,460 |
-| Forks | 21,903 |
-| Stars today | 295 |
+| Language | JavaScript |
+| Stars | 6,786 |
+| Forks | 411 |
+| Stars today | 1,044 |
 
 ---
 
-## 12. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+## 12. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 🆕
 
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,660 |
-| Forks | 360 |
-| Stars today | 722 |
+| Stars | 42,268 |
+| Forks | 6,520 |
+| Stars today | 116 |
 
 ---
 
-## 13. [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+## 13. [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) 🆕
 
-LIST OF ALL MY JAILBREAKS
+Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 | Metric | Value |
 |--------|-------|
-| Stars | 11,438 |
-| Forks | 1,670 |
-| Stars today | 2,055 |
+| Language | Python |
+| Stars | 86,105 |
+| Forks | 20,558 |
+| Stars today | 342 |
 
 ---
 
-## 14. [obra/superpowers](https://github.com/obra/superpowers)
+## 14. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) 🆕
 
-An agentic skills framework & software development methodology that works.
-
-| Metric | Value |
-|--------|-------|
-| Language | Shell |
-| Stars | 309,543 |
-| Forks | 27,544 |
-| Stars today | 1,259 |
-
----
-
-## 15. [lightpanda-io/browser](https://github.com/lightpanda-io/browser) 🆕
-
-Lightpanda: the headless browser designed for AI and automation
+Free and open-source macOS menu bar toolkit.
 
 | Metric | Value |
 |--------|-------|
-| Language | Zig |
-| Stars | 38,562 |
-| Forks | 1,877 |
-| Stars today | 626 |
+| Language | Swift |
+| Stars | 32,035 |
+| Forks | 1,544 |
+| Stars today | 501 |
 
 ---

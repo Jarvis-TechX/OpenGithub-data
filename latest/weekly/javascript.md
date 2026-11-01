@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-31T05:32:18Z
-**Total Repositories:** 10
-**New Entries:** 1
+**Snapshot Time:** 2026-11-01T05:56:25Z
+**Total Repositories:** 11
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 54,334 |
-| Forks | 3,520 |
-| Stars this week | 12,838 |
+| Stars | 55,538 |
+| Forks | 3,621 |
+| Stars this week | 11,908 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 106,455 |
-| Forks | 7,203 |
-| Stars this week | 4,712 |
+| Stars | 107,190 |
+| Forks | 7,249 |
+| Stars this week | 4,975 |
 
 ---
 
@@ -41,99 +41,112 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 293,511 |
-| Forks | 43,434 |
-| Stars this week | 6,506 |
+| Stars | 294,209 |
+| Forks | 43,557 |
+| Stars this week | 6,380 |
 
 ---
 
-## 4. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 4. [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) 🆕
+
+DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 14,753 |
+| Forks | 3,414 |
+| Stars this week | 6,641 |
+
+---
+
+## 5. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 36,719 |
-| Forks | 2,613 |
-| Stars this week | 9,480 |
+| Stars | 36,993 |
+| Forks | 2,636 |
+| Stars this week | 9,516 |
 
 ---
 
-## 5. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+## 6. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 
 The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 20,893 |
-| Forks | 1,169 |
-| Stars this week | 1,867 |
+| Stars | 21,036 |
+| Forks | 1,177 |
+| Stars this week | 1,819 |
 
 ---
 
-## 6. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)
+## 7. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) 🆕
 
-Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
+Create beautiful slides on the web using a coding agent's frontend skills
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,405 |
-| Forks | 1,347 |
-| Stars this week | 563 |
+| Stars | 31,660 |
+| Forks | 2,426 |
+| Stars this week | 468 |
 
 ---
 
-## 7. [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) 🆕
+## 8. [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill)
 
 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 8,221 |
-| Forks | 996 |
-| Stars this week | 158 |
+| Stars | 8,225 |
+| Forks | 995 |
+| Stars this week | 142 |
 
 ---
 
-## 8. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+## 9. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)
+
+Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 10,468 |
+| Forks | 1,360 |
+| Stars this week | 583 |
+
+---
+
+## 10. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 57,549 |
-| Forks | 8,481 |
-| Stars this week | 1,330 |
+| Stars | 57,718 |
+| Forks | 8,495 |
+| Stars this week | 1,347 |
 
 ---
 
-## 9. [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi)
+## 11. [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi)
 
 One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid. No tracking, MIT.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,154 |
-| Forks | 199 |
-| Stars this week | 415 |
-
----
-
-## 10. [nodejs/node](https://github.com/nodejs/node)
-
-Node.js JavaScript runtime ✨🐢🚀✨
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 123,126 |
-| Forks | 39,318 |
-| Stars this week | 592 |
+| Stars | 2,185 |
+| Forks | 202 |
+| Stars this week | 332 |
 
 ---

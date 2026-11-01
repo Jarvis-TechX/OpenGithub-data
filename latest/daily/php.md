@@ -1,49 +1,49 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:32:02Z
-**Total Repositories:** 21
-**New Entries:** 9
+**Snapshot Time:** 2026-11-01T05:56:12Z
+**Total Repositories:** 20
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [metadist/synaplan](https://github.com/metadist/synaplan)
+## 1. [bagisto/bagisto](https://github.com/bagisto/bagisto) 🆕
 
-Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0.
+Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 414 |
-| Forks | 49 |
-| Stars today | 35 |
+| Stars | 28,315 |
+| Forks | 3,356 |
+| Stars today | 15 |
 
 ---
 
-## 2. [openemr/openemr](https://github.com/openemr/openemr) 🆕
+## 2. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) 🆕
 
-The most popular open source electronic health records and medical practice management solution.
+A free, self-hostable news aggregator…
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,561 |
-| Forks | 3,111 |
-| Stars today | 1 |
+| Stars | 16,472 |
+| Forks | 1,332 |
+| Stars today | 14 |
 
 ---
 
-## 3. [laravel/framework](https://github.com/laravel/framework)
+## 3. [digininja/DVWA](https://github.com/digininja/DVWA) 🆕
 
-Laravel is a web application framework with expressive, elegant syntax.
+Damn Vulnerable Web Application (DVWA)
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 34,991 |
-| Forks | 12,024 |
-| Stars today | 7 |
+| Stars | 13,939 |
+| Forks | 5,239 |
+| Stars today | 4 |
 
 ---
 
@@ -54,156 +54,167 @@ A source-available invoice, quote, project and time-tracking app built with Lara
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,412 |
-| Forks | 2,785 |
-| Stars today | 33 |
+| Stars | 10,431 |
+| Forks | 2,788 |
+| Stars today | 22 |
 
 ---
 
-## 5. [symfony/symfony](https://github.com/symfony/symfony)
+## 5. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) 🆕
 
-The Symfony PHP framework
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,218 |
-| Forks | 9,924 |
-| Stars today | 3 |
+| Stars | 74,457 |
+| Forks | 25,194 |
+| Stars today | 11 |
 
 ---
 
-## 6. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
+## 6. [Leantime/leantime](https://github.com/Leantime/leantime) 🆕
 
-A free open source IT asset/license management system
+Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,133 |
-| Forks | 4,050 |
+| Stars | 11,942 |
+| Forks | 1,167 |
 | Stars today | 7 |
 
 ---
 
-## 7. [mautic/mautic](https://github.com/mautic/mautic) 🆕
+## 7. [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) 🆕
+
+A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,813 |
+| Forks | 473 |
+
+---
+
+## 8. [mautic/mautic](https://github.com/mautic/mautic)
 
 Mautic: Open Source Marketing Automation Software.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,882 |
+| Stars | 10,887 |
 | Forks | 3,516 |
-| Stars today | 11 |
+| Stars today | 4 |
 
 ---
 
-## 8. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
+## 9. [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) 🆕
+
+An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 1,894 |
+| Forks | 229 |
+| Stars today | 1 |
+
+---
+
+## 10. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
 
 WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,500 |
+| Stars | 3,501 |
 | Forks | 3,758 |
-| Stars today | 3 |
-
----
-
-## 9. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) 🆕
-
-Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 7,811 |
-| Forks | 3,602 |
-| Stars today | 6 |
-
----
-
-## 10. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
-
-A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,574 |
-| Forks | 10,653 |
 | Stars today | 4 |
 
 ---
 
-## 11. [elabftw/elabftw](https://github.com/elabftw/elabftw) 🆕
-
-📓 eLabFTW is the most popular open source electronic lab notebook for research labs.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,472 |
-| Forks | 360 |
-| Stars today | 1 |
-
----
-
-## 12. [composer/composer](https://github.com/composer/composer)
+## 11. [composer/composer](https://github.com/composer/composer)
 
 Dependency Manager for PHP
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 29,570 |
+| Stars | 29,571 |
 | Forks | 4,861 |
-| Stars today | 4 |
+| Stars today | 3 |
 
 ---
 
-## 13. [filamentphp/filament](https://github.com/filamentphp/filament)
+## 12. [cakephp/cakephp](https://github.com/cakephp/cakephp) 🆕
 
-A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+CakePHP: The Rapid Development Framework for PHP - Official Repository
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 32,388 |
-| Forks | 4,233 |
-| Stars today | 15 |
-
----
-
-## 14. [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)
-
-SuiteCRM - Open source CRM for the world
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,824 |
-| Forks | 2,436 |
-| Stars today | 2 |
-
----
-
-## 15. [shopware/shopware](https://github.com/shopware/shopware)
-
-Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 3,463 |
-| Forks | 1,218 |
+| Stars | 8,789 |
+| Forks | 3,352 |
 | Stars today | 1 |
 
 ---
 
-## 16. [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos) 🆕
+## 13. [librenms/librenms](https://github.com/librenms/librenms) 🆕
+
+Community-based GPL-licensed network monitoring system
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,980 |
+| Forks | 2,855 |
+| Stars today | 1 |
+
+---
+
+## 14. [cedar2025/Xboard](https://github.com/cedar2025/Xboard) 🆕
+
+High-performance panel based on V2board secondary development supporting new protocols and new features
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,838 |
+| Forks | 1,383 |
+| Stars today | 8 |
+
+---
+
+## 15. [matomo-org/matomo](https://github.com/matomo-org/matomo) 🆕
+
+Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 21,992 |
+| Forks | 2,927 |
+| Stars today | 4 |
+
+---
+
+## 16. [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop)
+
+PrestaShop is the universal open-source software platform to build your e-commerce solution.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 9,240 |
+| Forks | 5,056 |
+
+---
+
+## 17. [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos)
 
 Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.
 
@@ -212,70 +223,45 @@ Open Source Point of Sale is a web based point of sale application written in PH
 | Language | PHP |
 | Stars | 4,470 |
 | Forks | 2,650 |
-| Stars today | 1 |
+| Stars today | 2 |
 
 ---
 
-## 17. [monicahq/monica](https://github.com/monicahq/monica) 🆕
+## 18. [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) 🆕
+
+The classic email sending library for PHP
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 22,341 |
+| Forks | 9,765 |
+| Stars today | 2 |
+
+---
+
+## 19. [monicahq/monica](https://github.com/monicahq/monica)
 
 Personal CRM. Remember everything about your friends, family and business relationships.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 25,551 |
-| Forks | 2,627 |
-| Stars today | 7 |
-
----
-
-## 18. [api-platform/core](https://github.com/api-platform/core) 🆕
-
-The server component of API Platform: hypermedia and GraphQL APIs in minutes
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 2,580 |
-| Forks | 985 |
-
----
-
-## 19. [glpi-project/glpi](https://github.com/glpi-project/glpi)
-
-GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 6,540 |
-| Forks | 1,848 |
+| Stars | 25,558 |
+| Forks | 2,628 |
 | Stars today | 6 |
 
 ---
 
-## 20. [phpstan/phpstan](https://github.com/phpstan/phpstan) 🆕
+## 20. [symfony/symfony](https://github.com/symfony/symfony)
 
-PHP Static Analysis Tool - discover bugs in your code without running it!
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 14,145 |
-| Forks | 970 |
-| Stars today | 5 |
-
----
-
-## 21. [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop)
-
-PrestaShop is the universal open-source software platform to build your e-commerce solution.
+The Symfony PHP framework
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,239 |
-| Forks | 5,054 |
-| Stars today | 1 |
+| Stars | 31,220 |
+| Forks | 9,927 |
+| Stars today | 3 |
 
 ---

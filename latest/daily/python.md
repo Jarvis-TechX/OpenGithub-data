@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:31:56Z
-**Total Repositories:** 8
-**New Entries:** 6
+**Snapshot Time:** 2026-11-01T05:56:08Z
+**Total Repositories:** 14
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
@@ -15,99 +15,177 @@ DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 51,949 |
-| Forks | 6,368 |
-| Stars today | 2,282 |
+| Stars | 53,051 |
+| Forks | 6,495 |
+| Stars today | 1,034 |
 
 ---
 
-## 2. [anthropics/skills](https://github.com/anthropics/skills) 🆕
+## 2. [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) 🆕
+
+Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 86,105 |
+| Forks | 20,558 |
+| Stars today | 342 |
+
+---
+
+## 3. [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) 🆕
+
+Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 4,791 |
+| Forks | 473 |
+| Stars today | 45 |
+
+---
+
+## 4. [anthropics/skills](https://github.com/anthropics/skills)
 
 Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 185,460 |
-| Forks | 21,903 |
-| Stars today | 295 |
+| Stars | 185,988 |
+| Forks | 21,957 |
+| Stars today | 754 |
 
 ---
 
-## 3. [MemPalace/mempalace](https://github.com/MemPalace/mempalace) 🆕
+## 5. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) 🆕
+
+World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 74,070 |
+| Forks | 9,712 |
+| Stars today | 583 |
+
+---
+
+## 6. [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) 🆕
+
+real time face swap and one-click video deepfake with only a single image
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 97,485 |
+| Forks | 14,214 |
+| Stars today | 41 |
+
+---
+
+## 7. [github/spec-kit](https://github.com/github/spec-kit) 🆕
+
+💫 Toolkit to help you get started with SDD or any other process!
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 144,529 |
+| Forks | 12,947 |
+| Stars today | 154 |
+
+---
+
+## 8. [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) 🆕
+
+A community-supported supercharged document management system: scan, index and archive all your documents
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 47,473 |
+| Forks | 3,320 |
+| Stars today | 80 |
+
+---
+
+## 9. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) 🆕
+
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 140,119 |
+| Forks | 13,372 |
+| Stars today | 660 |
+
+---
+
+## 10. [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
 
 The best-benchmarked open-source AI memory system. And it's free.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 60,169 |
-| Forks | 7,624 |
-| Stars today | 258 |
+| Stars | 60,204 |
+| Forks | 7,627 |
+| Stars today | 49 |
 
 ---
 
-## 4. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+## 11. [superdesigndev/treg](https://github.com/superdesigndev/treg) 🆕
 
-Hindsight: Agent Memory That Learns
+OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 56,721 |
-| Forks | 6,822 |
-| Stars today | 411 |
+| Stars | 6,882 |
+| Forks | 602 |
+| Stars today | 266 |
 
 ---
 
-## 5. [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) 🆕
+## 12. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) 🆕
 
-The batteries-included agent harness.
+🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 30,814 |
-| Forks | 4,331 |
-| Stars today | 46 |
+| Stars | 13,849 |
+| Forks | 2,031 |
+| Stars today | 122 |
 
 ---
 
-## 6. [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) 🆕
-
-A persistent workspace for development work that self-improves and continues beyond one session.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 4,677 |
-| Forks | 914 |
-| Stars today | 19 |
-
----
-
-## 7. [ethanplusai/harvey](https://github.com/ethanplusai/harvey) 🆕
+## 13. [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
 
 Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,511 |
-| Forks | 722 |
-| Stars today | 244 |
+| Stars | 3,756 |
+| Forks | 772 |
+| Stars today | 218 |
 
 ---
 
-## 8. [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) 🆕
+## 14. [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) 🆕
 
-A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 18,661 |
-| Forks | 3,671 |
-| Stars today | 14 |
+| Stars | 8,427 |
+| Forks | 1,679 |
+| Stars today | 29 |
 
 ---

@@ -1,49 +1,49 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:31:57Z
-**Total Repositories:** 11
+**Snapshot Time:** 2026-11-01T05:56:08Z
+**Total Repositories:** 10
 **New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 1. [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)
 
-一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 36,719 |
-| Forks | 2,613 |
-| Stars today | 453 |
+| Stars | 6,786 |
+| Forks | 411 |
+| Stars today | 1,044 |
 
 ---
 
-## 2. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+## 2. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
 
-Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 106,454 |
-| Forks | 7,203 |
-| Stars today | 885 |
+| Stars | 181,634 |
+| Forks | 9,999 |
+| Stars today | 578 |
 
 ---
 
-## 3. [github/awesome-copilot](https://github.com/github/awesome-copilot) 🆕
+## 3. [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) 🆕
 
-Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 40,612 |
-| Forks | 5,248 |
-| Stars today | 40 |
+| Stars | 1,097 |
+| Forks | 222 |
+| Stars today | 6 |
 
 ---
 
@@ -54,99 +54,86 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 112,029 |
-| Forks | 11,726 |
-| Stars today | 279 |
+| Stars | 112,297 |
+| Forks | 11,758 |
+| Stars today | 231 |
 
 ---
 
-## 5. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 5. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 293,511 |
-| Forks | 43,434 |
-| Stars today | 802 |
+| Stars | 107,190 |
+| Forks | 7,249 |
+| Stars today | 694 |
 
 ---
 
-## 6. [IamRamgarhia/Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) 🆕
+## 6. [mrdoob/three.js](https://github.com/mrdoob/three.js) 🆕
 
-Free invoice builder & GST billing software for India. Make GST invoices, quotations, bills of supply and credit notes as PDF; GSTR-1/3B reports. Free invoice maker for shops, freelancers & small businesses. Free Tally alternative: open source, 100% offline, no signup, no limits.
+JavaScript 3D Library.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 374 |
-| Forks | 151 |
-| Stars today | 50 |
+| Stars | 117,322 |
+| Forks | 36,854 |
+| Stars today | 72 |
 
 ---
 
-## 7. [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) 🆕
+## 7. [maillab/cloud-mail](https://github.com/maillab/cloud-mail) 🆕
 
-Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
+An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 5,391 |
-| Forks | 317 |
-| Stars today | 1,004 |
+| Stars | 15,202 |
+| Forks | 22,981 |
+| Stars today | 49 |
 
 ---
 
-## 8. [phaserjs/phaser](https://github.com/phaserjs/phaser) 🆕
+## 8. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) 🆕
 
-Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 40,608 |
-| Forks | 7,186 |
-| Stars today | 6 |
+| Stars | 18,345 |
+| Forks | 2,417 |
+| Stars today | 626 |
 
 ---
 
-## 9. [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) 🆕
+## 9. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) 🆕
 
-A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents
+A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,091 |
-| Forks | 321 |
-| Stars today | 12 |
+| Stars | 61,875 |
+| Forks | 12,074 |
+| Stars today | 338 |
 
 ---
 
-## 10. [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) 🆕
+## 10. [vernesong/OpenClash](https://github.com/vernesong/OpenClash) 🆕
 
-Git. Ship. Done - Core
+A Clash Client For OpenWrt
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 11,053 |
-| Forks | 778 |
-| Stars today | 39 |
-
----
-
-## 11. [openai/plugins](https://github.com/openai/plugins) 🆕
-
-OpenAI Plugins
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 7,679 |
-| Forks | 978 |
+| Stars | 28,026 |
+| Forks | 4,059 |
 | Stars today | 20 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-31T05:32:39Z
+**Snapshot Time:** 2026-11-01T05:56:41Z
 **Total Repositories:** 15
 **New Entries:** 2
-**Quality Score:** 100.00/100
+**Quality Score:** 97.33/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 54,334 |
-| Forks | 3,520 |
-| Stars this month | 30,721 |
+| Stars | 55,538 |
+| Forks | 3,621 |
+| Stars this month | 31,731 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 106,455 |
-| Forks | 7,203 |
-| Stars this month | 15,496 |
+| Stars | 107,190 |
+| Forks | 7,249 |
+| Stars this month | 15,847 |
 
 ---
 
@@ -41,100 +41,98 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 293,511 |
-| Forks | 43,434 |
+| Stars | 294,209 |
+| Forks | 43,557 |
 | Stars this month | 25,494 |
 
 ---
 
-## 4. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
-
-Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 17,943 |
-| Forks | 2,357 |
-| Stars this month | 16,258 |
-
----
-
-## 5. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
-
-一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 36,719 |
-| Forks | 2,613 |
-| Stars this month | 15,970 |
-
----
-
-## 6. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
-
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 57,549 |
-| Forks | 8,481 |
-| Stars this month | 5,825 |
-
----
-
-## 7. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+## 4. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 112,029 |
-| Forks | 11,726 |
-| Stars this month | 12,596 |
+| Stars | 112,298 |
+| Forks | 11,758 |
+| Stars this month | 12,575 |
 
 ---
 
-## 8. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+## 5. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
 
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 181,070 |
-| Forks | 9,951 |
-| Stars this month | 34,045 |
+| Stars | 18,345 |
+| Forks | 2,417 |
+| Stars this month | 16,745 |
 
 ---
 
-## 9. [androoAGI/starnet](https://github.com/androoAGI/starnet)
+## 6. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
-A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
+一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,661 |
-| Forks | 343 |
-| Stars this month | 933 |
+| Stars | 36,994 |
+| Forks | 2,636 |
+| Stars this month | 16,214 |
 
 ---
 
-## 10. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
-
-Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
+## 7. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,063 |
-| Forks | 295 |
-| Stars this month | 1,592 |
+| Stars | 7,488 |
+| Forks | 1,214 |
+| Stars this month | 2,948 |
+
+---
+
+## 8. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 57,718 |
+| Forks | 8,495 |
+| Stars this month | 5,883 |
+
+---
+
+## 9. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) 🆕
+
+List of Permanent Free LLM API (API Keys)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 11,833 |
+| Forks | 1,367 |
+| Stars this month | 3,147 |
+
+---
+
+## 10. [mrdoob/three.js](https://github.com/mrdoob/three.js)
+
+JavaScript 3D Library.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 117,322 |
+| Forks | 36,854 |
+| Stars this month | 1,547 |
 
 ---
 
@@ -145,60 +143,60 @@ Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 49,335 |
-| Forks | 7,644 |
-| Stars this month | 538 |
+| Stars | 49,360 |
+| Forks | 7,648 |
+| Stars this month | 557 |
 
 ---
 
-## 12. [mrdoob/three.js](https://github.com/mrdoob/three.js)
+## 12. [androoAGI/starnet](https://github.com/androoAGI/starnet)
 
-JavaScript 3D Library.
+A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,252 |
-| Forks | 36,829 |
-| Stars this month | 1,513 |
+| Stars | 1,676 |
+| Forks | 346 |
+| Stars this month | 923 |
 
 ---
 
-## 13. [sveltejs/svelte](https://github.com/sveltejs/svelte)
+## 13. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 181,635 |
+| Forks | 9,999 |
+| Stars this month | 33,792 |
+
+---
+
+## 14. [sveltejs/svelte](https://github.com/sveltejs/svelte)
 
 web development for the rest of us
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 88,499 |
-| Forks | 7,459 |
-| Stars this month | 709 |
+| Stars | 88,513 |
+| Forks | 6,832 |
+| Stars this month | 715 |
 
 ---
 
-## 14. [qist/tvbox](https://github.com/qist/tvbox) 🆕
+## 15. [qist/tvbox](https://github.com/qist/tvbox)
 
 OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,473 |
-| Forks | 4,361 |
-| Stars this month | 951 |
-
----
-
-## 15. [nodejs/node](https://github.com/nodejs/node) 🆕
-
-Node.js JavaScript runtime ✨🐢🚀✨
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 123,126 |
-| Forks | 39,318 |
-| Stars this month | 2,154 |
+| Stars | 12,501 |
+| Forks | 4,366 |
+| Stars this month | 954 |
 
 ---

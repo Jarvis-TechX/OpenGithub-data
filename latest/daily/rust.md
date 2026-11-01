@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:32:05Z
-**Total Repositories:** 16
-**New Entries:** 7
+**Snapshot Time:** 2026-11-01T05:56:15Z
+**Total Repositories:** 13
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
@@ -15,203 +15,164 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 97,304 |
-| Forks | 5,731 |
-| Stars today | 2,300 |
+| Stars | 98,497 |
+| Forks | 5,814 |
+| Stars today | 1,338 |
 
 ---
 
-## 2. [macro-inc/macro](https://github.com/macro-inc/macro)
-
-Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 5,927 |
-| Forks | 541 |
-| Stars today | 57 |
-
----
-
-## 3. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
-
-Next Generation Agentic Proxy for AI Agents and MCP servers
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 5,814 |
-| Forks | 1,029 |
-| Stars today | 35 |
-
----
-
-## 4. [anomalyco/hex](https://github.com/anomalyco/hex) 🆕
+## 2. [anomalyco/hex](https://github.com/anomalyco/hex)
 
 Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,272 |
-| Forks | 102 |
-| Stars today | 289 |
+| Stars | 2,238 |
+| Forks | 141 |
+| Stars today | 172 |
 
 ---
 
-## 5. [ruvnet/RuView](https://github.com/ruvnet/RuView)
+## 3. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 🆕
 
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 101,788 |
-| Forks | 13,221 |
-| Stars today | 212 |
+| Stars | 112,385 |
+| Forks | 4,142 |
+| Stars today | 35 |
 
 ---
 
-## 6. [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+## 4. [cjpais/Handy](https://github.com/cjpais/Handy) 🆕
 
-Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
+A free, open source, and extensible speech-to-text application that works completely offline.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 45,587 |
-| Forks | 6,573 |
-| Stars today | 31 |
+| Stars | 35,956 |
+| Forks | 3,415 |
+| Stars today | 611 |
 
 ---
 
-## 7. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) 🆕
+## 5. [openai/codex](https://github.com/openai/codex) 🆕
 
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+Lightweight coding agent that runs in your terminal
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 127,643 |
-| Forks | 20,196 |
-| Stars today | 130 |
+| Stars | 132,570 |
+| Forks | 20,944 |
+| Stars today | 731 |
 
 ---
 
-## 8. [infosave2007/aivpn](https://github.com/infosave2007/aivpn) 🆕
+## 6. [herdrdev/herdr](https://github.com/herdrdev/herdr) 🆕
 
-AI-VPN that makes your traffic invisible to deep packet inspection
+the runtime your coding agents live on
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 774 |
-| Forks | 66 |
-| Stars today | 48 |
+| Stars | 47,183 |
+| Forks | 3,774 |
+| Stars today | 246 |
 
 ---
 
-## 9. [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
+## 7. [t8y2/dbx](https://github.com/t8y2/dbx) 🆕
 
-Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
+25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,687 |
-| Forks | 478 |
-| Stars today | 38 |
+| Stars | 28,401 |
+| Forks | 2,590 |
+| Stars today | 60 |
 
 ---
 
-## 10. [nyakang/nyaterm](https://github.com/nyakang/nyaterm)
+## 8. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) 🆕
 
-A modern remote terminal workspace
+A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,180 |
-| Forks | 203 |
-| Stars today | 78 |
+| Stars | 150,690 |
+| Forks | 9,907 |
+| Stars today | 253 |
 
 ---
 
-## 11. [daeuniverse/honk](https://github.com/daeuniverse/honk) 🆕
+## 9. [waditu/czsc](https://github.com/waditu/czsc) 🆕
+
+缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 6,525 |
+| Forks | 1,788 |
+| Stars today | 27 |
+
+---
+
+## 10. [daeuniverse/honk](https://github.com/daeuniverse/honk)
 
 Inspired by dae & sing-box
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 981 |
-| Forks | 80 |
-| Stars today | 133 |
+| Stars | 1,109 |
+| Forks | 90 |
+| Stars today | 112 |
 
 ---
 
-## 12. [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
+## 11. [fastrepl/anarlog](https://github.com/fastrepl/anarlog) 🆕
 
-Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
+Open source Granola AI Alternative
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 7,621 |
-| Forks | 549 |
-| Stars today | 61 |
+| Stars | 9,724 |
+| Forks | 821 |
+| Stars today | 38 |
 
 ---
 
-## 13. [rivet-dev/rivet](https://github.com/rivet-dev/rivet) 🆕
-
-Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 6,530 |
-| Forks | 295 |
-| Stars today | 21 |
-
----
-
-## 14. [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
-
-YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 22,184 |
-| Forks | 2,264 |
-| Stars today | 26 |
-
----
-
-## 15. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 🆕
+## 12. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 
 Browser automation CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 44,950 |
-| Forks | 3,075 |
-| Stars today | 71 |
+| Stars | 45,053 |
+| Forks | 3,083 |
+| Stars today | 79 |
 
 ---
 
-## 16. [janhq/jan](https://github.com/janhq/jan) 🆕
+## 13. [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko) 🆕
 
-Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+The Open Runtime for AI Agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 45,187 |
-| Forks | 3,121 |
-| Stars today | 36 |
+| Stars | 10,927 |
+| Forks | 2,754 |
+| Stars today | 212 |
 
 ---

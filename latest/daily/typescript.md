@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:31:59Z
-**Total Repositories:** 16
+**Snapshot Time:** 2026-11-01T05:56:10Z
+**Total Repositories:** 15
 **New Entries:** 9
-**Quality Score:** 97.50/100
+**Quality Score:** 94.67/100
 
 ---
 
@@ -15,201 +15,186 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 106,580 |
-| Forks | 9,380 |
-| Stars today | 1,140 |
+| Stars | 108,135 |
+| Forks | 9,487 |
+| Stars today | 1,723 |
 
 ---
 
-## 2. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-
-Open-source Grok Bot alternative with a virtual machine that bots can use
+## 2. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,869 |
-| Forks | 1,222 |
-| Stars today | 895 |
+| Stars | 35,980 |
+| Forks | 8,810 |
+| Stars today | 1,148 |
 
 ---
 
-## 3. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
-
-Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,901 |
-| Forks | 1,114 |
-| Stars today | 706 |
-
----
-
-## 4. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 🆕
+## 3. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 
 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,471 |
-| Forks | 2,275 |
-| Stars today | 1,126 |
+| Stars | 12,478 |
+| Forks | 2,446 |
+| Stars today | 1,092 |
 
 ---
 
-## 5. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 🆕
+## 4. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+
+Open-source Grok Bot alternative with a virtual machine that bots can use
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 32,965 |
-| Forks | 8,675 |
-| Stars today | 930 |
+| Stars | 9,856 |
+| Forks | 1,369 |
+| Stars today | 1,303 |
 
 ---
 
-## 6. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+## 5. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 🆕
 
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,660 |
-| Forks | 360 |
-| Stars today | 722 |
+| Stars | 42,268 |
+| Forks | 6,520 |
+| Stars today | 116 |
 
 ---
 
-## 7. [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+## 6. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 
-An Open Source implementation of Notebook LM with more flexibility and features
+Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 41,021 |
-| Forks | 4,714 |
-| Stars today | 110 |
+| Stars | 9,167 |
+| Forks | 1,149 |
+| Stars today | 608 |
 
 ---
 
-## 8. [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
+## 7. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) 🆕
 
-Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 50,609 |
-| Forks | 5,834 |
-| Stars today | 225 |
+| Stars | 45,274 |
+| Forks | 6,176 |
+| Stars today | 593 |
 
 ---
 
-## 9. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) 🆕
-
-An open-source AI coding agent that lives in your terminal.
+## 8. [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 28,842 |
-| Forks | 3,291 |
-| Stars today | 39 |
+| Stars | 16,918 |
+| Forks | 1,358 |
+| Stars today | 19 |
 
 ---
 
-## 10. [n8n-io/n8n](https://github.com/n8n-io/n8n) 🆕
-
-Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 209,161 |
-| Forks | 61,328 |
-| Stars today | 140 |
-
----
-
-## 11. [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
-
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 4,259 |
-| Forks | 405 |
-| Stars today | 485 |
-
----
-
-## 12. [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 🆕
-
-Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 25,793 |
-| Forks | 2,049 |
-| Stars today | 18 |
-
----
-
-## 13. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) 🆕
+## 9. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 41,410 |
-| Forks | 4,209 |
-| Stars today | 100 |
+| Stars | 41,502 |
+| Forks | 4,218 |
+| Stars today | 98 |
 
 ---
 
-## 14. [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) 🆕
+## 10. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) 🆕
 
-Network-wide ads & trackers blocking DNS server
+Teams-first Multi-agent orchestration for Claude Code
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 37,987 |
-| Forks | 2,577 |
-| Stars today | 117 |
+| Stars | 40,469 |
+| Forks | 3,620 |
+| Stars today | 36 |
 
 ---
 
-## 15. [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal) 🆕
+## 11. [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) 🆕
 
-A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions.
+Open Cyber Threat Intelligence Platform
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 2,172 |
-| Forks | 383 |
-| Stars today | 31 |
+| Stars | 10,235 |
+| Forks | 1,495 |
+| Stars today | 9 |
 
 ---
 
-## 16. [openclaw/openclaw](https://github.com/openclaw/openclaw) 🆕
+## 12. [stablyai/orca](https://github.com/stablyai/orca) 🆕
 
-The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 393,499 |
-| Forks | 82,709 |
-| Stars today | 148 |
+| Stars | 111,855 |
+| Forks | 7,073 |
+| Stars today | 728 |
+
+---
+
+## 13. [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 🆕
+
+The open-source app everyone uses to manage agents at work
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 109,581 |
+| Forks | 18,150 |
+| Stars today | 401 |
+
+---
+
+## 14. [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) 🆕
+
+SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 6,636 |
+| Forks | 451 |
+| Stars today | 30 |
+
+---
+
+## 15. [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) 🆕
+
+Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 5,012 |
+| Forks | 1,420 |
+| Stars today | 40 |
 
 ---

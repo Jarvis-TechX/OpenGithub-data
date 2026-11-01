@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-31T05:32:40Z
+**Snapshot Time:** 2026-11-01T05:56:43Z
 **Total Repositories:** 22
-**New Entries:** 2
+**New Entries:** 0
 **Quality Score:** 98.18/100
 
 ---
@@ -15,22 +15,20 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 76,137 |
-| Forks | 6,945 |
-| Stars this month | 22,149 |
+| Stars | 76,666 |
+| Forks | 7,012 |
+| Stars this month | 22,303 |
 
 ---
 
-## 2. [mvschwarz/openrig](https://github.com/mvschwarz/openrig) 🆕
-
-Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
+## 2. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,401 |
-| Forks | 694 |
-| Stars this month | 6,245 |
+| Stars | 35,980 |
+| Forks | 8,810 |
+| Stars this month | 9,973 |
 
 ---
 
@@ -41,9 +39,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 106,580 |
-| Forks | 9,380 |
-| Stars this month | 11,124 |
+| Stars | 108,135 |
+| Forks | 9,487 |
+| Stars this month | 12,705 |
 
 ---
 
@@ -54,20 +52,22 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 32,960 |
+| Stars | 33,058 |
 | Forks | 2,279 |
-| Stars this month | 8,913 |
+| Stars this month | 8,881 |
 
 ---
 
-## 5. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+## 5. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+
+Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 32,965 |
-| Forks | 8,675 |
-| Stars this month | 8,676 |
+| Stars | 8,502 |
+| Forks | 700 |
+| Stars this month | 5,747 |
 
 ---
 
@@ -78,9 +78,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,760 |
-| Forks | 1,520 |
-| Stars this month | 5,817 |
+| Stars | 14,903 |
+| Forks | 1,534 |
+| Stars this month | 5,799 |
 
 ---
 
@@ -91,61 +91,61 @@ The open agent skills tool - npx skills
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 37,329 |
-| Forks | 3,221 |
-| Stars this month | 4,626 |
+| Stars | 37,456 |
+| Forks | 3,236 |
+| Stars this month | 4,721 |
 
 ---
 
-## 8. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
-
-7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 44,772 |
-| Forks | 6,094 |
-| Stars this month | 15,157 |
-
----
-
-## 9. [supabase/supabase](https://github.com/supabase/supabase)
+## 8. [supabase/supabase](https://github.com/supabase/supabase)
 
 The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 114,359 |
-| Forks | 16,329 |
-| Stars this month | 3,788 |
+| Stars | 114,389 |
+| Forks | 15,739 |
+| Stars this month | 3,782 |
 
 ---
 
-## 10. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+## 9. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
-🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 80,329 |
-| Forks | 9,416 |
-| Stars this month | 7,195 |
+| Stars | 45,274 |
+| Forks | 6,176 |
+| Stars this month | 15,643 |
 
 ---
 
-## 11. [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime)
+## 10. [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime)
 
 A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,885 |
-| Forks | 610 |
-| Stars this month | 1,502 |
+| Stars | 6,900 |
+| Forks | 615 |
+| Stars this month | 1,508 |
+
+---
+
+## 11. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 80,443 |
+| Forks | 9,436 |
+| Stars this month | 7,242 |
 
 ---
 
@@ -156,9 +156,9 @@ A lightweight sandboxing tool for enforcing filesystem and network restrictions 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 69,188 |
-| Forks | 5,671 |
-| Stars this month | 8,223 |
+| Stars | 69,512 |
+| Forks | 5,707 |
+| Stars this month | 8,288 |
 
 ---
 
@@ -169,9 +169,9 @@ The open-source app everyone uses to manage agents at work
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 109,032 |
-| Forks | 18,054 |
-| Stars this month | 15,332 |
+| Stars | 109,581 |
+| Forks | 18,150 |
+| Stars this month | 14,601 |
 
 ---
 
@@ -182,9 +182,9 @@ The open-source app everyone uses to manage agents at work
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 40,253 |
-| Forks | 7,645 |
-| Stars this month | 3,863 |
+| Stars | 40,421 |
+| Forks | 7,691 |
+| Stars this month | 3,908 |
 
 ---
 
@@ -195,48 +195,48 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 111,247 |
-| Forks | 7,039 |
-| Stars this month | 30,132 |
+| Stars | 111,856 |
+| Forks | 7,073 |
+| Stars this month | 30,099 |
 
 ---
 
-## 16. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
-
-专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 10,472 |
-| Forks | 1,158 |
-| Stars this month | 7,261 |
-
----
-
-## 17. [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
+## 16. [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
 
 一分钟搭建影视站，支持Docker等部署方式
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 22,887 |
-| Forks | 30,461 |
-| Stars this month | 9,035 |
+| Stars | 23,071 |
+| Forks | 30,529 |
+| Stars this month | 9,191 |
 
 ---
 
-## 18. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+## 17. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 
 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,471 |
-| Forks | 2,275 |
-| Stars this month | 6,664 |
+| Stars | 12,478 |
+| Forks | 2,446 |
+| Stars this month | 7,771 |
+
+---
+
+## 18. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+
+专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 10,745 |
+| Forks | 1,191 |
+| Stars this month | 7,509 |
 
 ---
 
@@ -247,9 +247,9 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,735 |
-| Forks | 1,038 |
-| Stars this month | 5,919 |
+| Stars | 8,845 |
+| Forks | 1,052 |
+| Stars this month | 6,035 |
 
 ---
 
@@ -260,9 +260,9 @@ A context-compression plugin for month-long single sessions (billions of tokens)
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,461 |
-| Forks | 292 |
-| Stars this month | 3,081 |
+| Stars | 3,520 |
+| Forks | 297 |
+| Stars this month | 3,107 |
 
 ---
 
@@ -273,21 +273,21 @@ Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent version
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,667 |
-| Forks | 337 |
-| Stars this month | 2,987 |
+| Stars | 3,700 |
+| Forks | 341 |
+| Stars this month | 2,994 |
 
 ---
 
-## 22. [thesysdev/openui](https://github.com/thesysdev/openui) 🆕
+## 22. [thesysdev/openui](https://github.com/thesysdev/openui)
 
 The Open Standard for Generative UI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,500 |
-| Forks | 949 |
-| Stars this month | 4,621 |
+| Stars | 14,581 |
+| Forks | 956 |
+| Stars this month | 4,665 |
 
 ---

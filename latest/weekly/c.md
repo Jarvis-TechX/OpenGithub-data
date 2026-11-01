@@ -1,49 +1,49 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-31T05:32:27Z
-**Total Repositories:** 15
-**New Entries:** 3
-**Quality Score:** 97.33/100
+**Snapshot Time:** 2026-11-01T05:56:32Z
+**Total Repositories:** 11
+**New Entries:** 1
+**Quality Score:** 96.36/100
 
 ---
 
-## 1. [php/php-src](https://github.com/php/php-src)
-
-The PHP Interpreter
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 41,736 |
-| Forks | 8,502 |
-| Stars this week | 241 |
-
----
-
-## 2. [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-
-Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 76,025 |
-| Forks | 5,034 |
-| Stars this week | 1,012 |
-
----
-
-## 3. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+## 1. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 
 Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 140,313 |
-| Forks | 8,679 |
-| Stars this week | 749 |
+| Stars | 140,364 |
+| Forks | 8,682 |
+| Stars this week | 652 |
+
+---
+
+## 2. [openssl/openssl](https://github.com/openssl/openssl)
+
+General purpose TLS and crypto library
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 31,148 |
+| Forks | 11,570 |
+| Stars this week | 121 |
+
+---
+
+## 3. [hashcat/hashcat](https://github.com/hashcat/hashcat)
+
+World's fastest and most advanced password recovery utility
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 27,217 |
+| Forks | 3,597 |
+| Stars this week | 172 |
 
 ---
 
@@ -54,35 +54,33 @@ Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scala
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,962 |
-| Forks | 10,315 |
-| Stars this week | 92 |
+| Stars | 16,970 |
+| Forks | 10,321 |
+| Stars this week | 88 |
 
 ---
 
-## 5. [openssl/openssl](https://github.com/openssl/openssl)
+## 5. [systemd/systemd](https://github.com/systemd/systemd)
 
-General purpose TLS and crypto library
+The systemd System and Service Manager
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,137 |
-| Forks | 11,570 |
-| Stars this week | 126 |
+| Stars | 16,971 |
+| Forks | 4,795 |
+| Stars this week | 78 |
 
 ---
 
-## 6. [hashcat/hashcat](https://github.com/hashcat/hashcat)
-
-World's fastest and most advanced password recovery utility
+## 6. [snesrev/zelda3](https://github.com/snesrev/zelda3)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 27,200 |
-| Forks | 3,596 |
-| Stars this week | 166 |
+| Stars | 4,965 |
+| Forks | 469 |
+| Stars this week | 56 |
 
 ---
 
@@ -93,110 +91,60 @@ MicroPython - a lean and efficient Python implementation for microcontrollers an
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 22,174 |
-| Forks | 9,031 |
-| Stars this week | 31 |
+| Stars | 22,177 |
+| Forks | 9,034 |
+| Stars this week | 33 |
 
 ---
 
-## 8. [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) 🆕
-
-Disk encryption with strong security based on TrueCrypt
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 12,011 |
-| Forks | 1,384 |
-| Stars this week | 102 |
-
----
-
-## 9. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
-
-ehviewer，用爱发电，快乐前行
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 28,449 |
-| Forks | 758 |
-| Stars this week | 339 |
-
----
-
-## 10. [systemd/systemd](https://github.com/systemd/systemd)
-
-The systemd System and Service Manager
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,963 |
-| Forks | 4,793 |
-| Stars this week | 75 |
-
----
-
-## 11. [snesrev/zelda3](https://github.com/snesrev/zelda3)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,955 |
-| Forks | 466 |
-| Stars this week | 57 |
-
----
-
-## 12. [valkey-io/valkey](https://github.com/valkey-io/valkey) 🆕
+## 8. [valkey-io/valkey](https://github.com/valkey-io/valkey)
 
 A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 27,568 |
-| Forks | 1,500 |
-| Stars this week | 73 |
+| Stars | 27,571 |
+| Forks | 1,520 |
+| Stars this week | 70 |
 
 ---
 
-## 13. [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) 🆕
-
-An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 7,038 |
-| Forks | 3,007 |
-| Stars this week | 18 |
-
----
-
-## 14. [curl/curl](https://github.com/curl/curl)
-
-A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 43,324 |
-| Forks | 7,471 |
-| Stars this week | 133 |
-
----
-
-## 15. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+## 9. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 78,647 |
-| Forks | 10,979 |
-| Stars this week | 691 |
+| Stars | 78,722 |
+| Forks | 10,998 |
+| Stars this week | 615 |
+
+---
+
+## 10. [radareorg/radare2](https://github.com/radareorg/radare2) 🆕
+
+UNIX-like reverse engineering framework and command-line toolset
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 25,223 |
+| Forks | 3,396 |
+| Stars this week | 91 |
+
+---
+
+## 11. [curl/curl](https://github.com/curl/curl)
+
+A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 43,334 |
+| Forks | 7,472 |
+| Stars this week | 131 |
 
 ---

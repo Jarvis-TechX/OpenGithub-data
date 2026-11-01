@@ -1,49 +1,49 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:32:00Z
-**Total Repositories:** 23
-**New Entries:** 9
+**Snapshot Time:** 2026-11-01T05:56:11Z
+**Total Repositories:** 19
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [antiwork/gumroad](https://github.com/antiwork/gumroad)
+## 1. [otwcode/otwarchive](https://github.com/otwcode/otwarchive) 🆕
 
-See what sticks
+The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,058 |
-| Forks | 2,105 |
-| Stars today | 5 |
+| Stars | 2,320 |
+| Forks | 882 |
+| Stars today | 11 |
 
 ---
 
-## 2. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 2. [huginn/huginn](https://github.com/huginn/huginn)
 
-🍻 Default casks (upstream binary packages) for the package manager for everywhere
+Create agents that monitor and act on your behalf. Your agents are standing by!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,275 |
-| Forks | 12,038 |
-| Stars today | 1 |
+| Stars | 50,247 |
+| Forks | 4,337 |
+| Stars today | 23 |
 
 ---
 
-## 3. [Homebrew/brew](https://github.com/Homebrew/brew)
+## 3. [discourse/discourse](https://github.com/discourse/discourse)
 
-🍺 The Package Manager for Everywhere
+A platform for community discussion. Free, open, simple.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,165 |
-| Forks | 11,407 |
-| Stars today | 10 |
+| Stars | 48,042 |
+| Forks | 9,057 |
+| Stars today | 4 |
 
 ---
 
@@ -54,9 +54,9 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 38,649 |
-| Forks | 9,402 |
-| Stars today | 60 |
+| Stars | 38,691 |
+| Forks | 9,412 |
+| Stars today | 42 |
 
 ---
 
@@ -67,205 +67,78 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,855 |
-| Forks | 3,657 |
-| Stars today | 34 |
+| Stars | 16,884 |
+| Forks | 3,660 |
+| Stars today | 31 |
 
 ---
 
-## 6. [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
+## 6. [postalserver/postal](https://github.com/postalserver/postal) 🆕
 
-Vagrant is a tool for building and distributing development environments.
+📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 27,216 |
-| Forks | 4,489 |
-| Stars today | 3 |
-
----
-
-## 7. [mastodon/mastodon](https://github.com/mastodon/mastodon)
-
-Your self-hosted, globally interconnected microblogging community
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,465 |
-| Forks | 7,530 |
-| Stars today | 4 |
-
----
-
-## 8. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 🆕
-
-🤖 Dependabot's core logic for creating update PRs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 5,830 |
-| Forks | 1,581 |
-| Stars today | 1 |
-
----
-
-## 9. [github-linguist/linguist](https://github.com/github-linguist/linguist) 🆕
-
-Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 13,758 |
-| Forks | 5,514 |
+| Stars | 16,913 |
+| Forks | 1,318 |
 | Stars today | 5 |
 
 ---
 
-## 10. [spree/spree](https://github.com/spree/spree)
+## 7. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+
+🍻 Default casks (upstream binary packages) for the package manager for everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,277 |
+| Forks | 12,043 |
+| Stars today | 1 |
+
+---
+
+## 8. [forem/forem](https://github.com/forem/forem) 🆕
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,819 |
+| Forks | 4,192 |
+| Stars today | 3 |
+
+---
+
+## 9. [spree/spree](https://github.com/spree/spree)
 
 Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,798 |
-| Forks | 5,319 |
-| Stars today | 5 |
+| Stars | 15,803 |
+| Forks | 5,320 |
+| Stars today | 8 |
 
 ---
 
-## 11. [rubocop/rubocop](https://github.com/rubocop/rubocop) 🆕
+## 10. [Freika/dawarich](https://github.com/Freika/dawarich) 🆕
 
-A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+Your favorite self-hostable alternative to Google Timeline (Google Location History)
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 12,918 |
-| Forks | 3,159 |
+| Stars | 10,791 |
+| Forks | 412 |
+| Stars today | 6 |
 
 ---
 
-## 12. [discourse/discourse](https://github.com/discourse/discourse)
-
-A platform for community discussion. Free, open, simple.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 48,040 |
-| Forks | 9,056 |
-| Stars today | 13 |
-
----
-
-## 13. [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb)
-
-Datadog's client library for Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 417 |
-| Forks | 424 |
-
----
-
-## 14. [zammad/zammad](https://github.com/zammad/zammad)
-
-Zammad is a web based open source helpdesk/customer support system.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 6,059 |
-| Forks | 1,089 |
-| Stars today | 5 |
-
----
-
-## 15. [rails/rails](https://github.com/rails/rails)
-
-Ruby on Rails
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 58,853 |
-| Forks | 24,492 |
-| Stars today | 1 |
-
----
-
-## 16. [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) 🆕
-
-Informative site with EoL dates of everything
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 3,423 |
-| Forks | 1,339 |
-| Stars today | 2 |
-
----
-
-## 17. [we-promise/sure](https://github.com/we-promise/sure)
-
-The personal finance app for everyone (by everyone)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 10,736 |
-| Forks | 717 |
-| Stars today | 15 |
-
----
-
-## 18. [basecamp/fizzy](https://github.com/basecamp/fizzy) 🆕
-
-Kanban as it should be. Not as it has been.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 8,276 |
-| Forks | 1,210 |
-
----
-
-## 19. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) 🆕
-
-Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 12,370 |
-| Forks | 601 |
-| Stars today | 7 |
-
----
-
-## 20. [huginn/huginn](https://github.com/huginn/huginn) 🆕
-
-Create agents that monitor and act on your behalf. Your agents are standing by!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,226 |
-| Forks | 4,330 |
-| Stars today | 38 |
-
----
-
-## 21. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+## 11. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
 
 A database of vulnerable Ruby Gems
 
@@ -277,26 +150,103 @@ A database of vulnerable Ruby Gems
 
 ---
 
-## 22. [googleapis/google-cloud-ruby](https://github.com/googleapis/google-cloud-ruby) 🆕
+## 12. [github/explore](https://github.com/github/explore) 🆕
 
-Google Cloud Client Library for Ruby
+Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 1,427 |
-| Forks | 580 |
+| Stars | 4,941 |
+| Forks | 14,690 |
+| Stars today | 1 |
 
 ---
 
-## 23. [jruby/jruby](https://github.com/jruby/jruby) 🆕
+## 13. [mastodon/mastodon](https://github.com/mastodon/mastodon)
 
-JRuby, an implementation of Ruby on the JVM
+Your self-hosted, globally interconnected microblogging community
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,925 |
-| Forks | 955 |
+| Stars | 50,462 |
+| Forks | 7,533 |
+| Stars today | 4 |
+
+---
+
+## 14. [we-promise/sure](https://github.com/we-promise/sure)
+
+The personal finance app for everyone (by everyone)
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 10,748 |
+| Forks | 723 |
+| Stars today | 12 |
+
+---
+
+## 15. [Homebrew/brew](https://github.com/Homebrew/brew)
+
+🍺 The Package Manager for Everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,171 |
+| Forks | 11,409 |
+| Stars today | 10 |
+
+---
+
+## 16. [rails/rails](https://github.com/rails/rails)
+
+Ruby on Rails
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 58,853 |
+| Forks | 23,847 |
+| Stars today | 1 |
+
+---
+
+## 17. [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher) 🆕
+
+🔐 Securely share sensitive information with automatic expiration & deletion after a set number of views or duration. Track who, what and when with full audit logs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 3,239 |
+| Forks | 478 |
+
+---
+
+## 18. [OpenC3/cosmos](https://github.com/OpenC3/cosmos) 🆕
+
+OpenC3 COSMOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 261 |
+| Forks | 98 |
+
+---
+
+## 19. [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy) 🆕
+
+Consul Democracy - Open Government and E-Participation Web Software
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 1,556 |
+| Forks | 1,132 |
 
 ---

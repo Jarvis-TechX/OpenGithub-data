@@ -1,10 +1,10 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-10-31T05:32:16Z
-**Total Repositories:** 14
-**New Entries:** 1
-**Quality Score:** 97.14/100
+**Snapshot Time:** 2026-11-01T05:56:24Z
+**Total Repositories:** 11
+**New Entries:** 2
+**Quality Score:** 96.36/100
 
 ---
 
@@ -15,9 +15,9 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 24,613 |
-| Forks | 3,275 |
-| Stars this week | 4,478 |
+| Stars | 25,124 |
+| Forks | 3,325 |
+| Stars this week | 4,814 |
 
 ---
 
@@ -28,85 +28,85 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 118,769 |
-| Forks | 22,703 |
-| Stars this week | 5,490 |
+| Stars | 119,131 |
+| Forks | 22,797 |
+| Stars this week | 5,483 |
 
 ---
 
-## 3. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 34,071 |
-| Forks | 3,756 |
-| Stars this week | 2,083 |
-
----
-
-## 4. [anthropics/skills](https://github.com/anthropics/skills) 🆕
+## 3. [anthropics/skills](https://github.com/anthropics/skills)
 
 Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 185,460 |
-| Forks | 21,903 |
-| Stars this week | 1,888 |
+| Stars | 185,988 |
+| Forks | 21,957 |
+| Stars this week | 2,389 |
 
 ---
 
-## 5. [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
+## 4. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) 🆕
 
-Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,355 |
-| Forks | 421 |
-| Stars this week | 412 |
+| Stars | 45,383 |
+| Forks | 3,325 |
+| Stars this week | 2,137 |
 
 ---
 
-## 6. [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills)
+## 5. [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills)
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 1,820 |
-| Forks | 334 |
-| Stars this week | 462 |
+| Stars | 1,836 |
+| Forks | 335 |
+| Stars this week | 459 |
 
 ---
 
-## 7. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+## 6. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 
 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 23,564 |
-| Forks | 2,037 |
-| Stars this week | 2,468 |
+| Stars | 23,724 |
+| Forks | 2,052 |
+| Stars this week | 2,474 |
 
 ---
 
-## 8. [sgl-project/sglang](https://github.com/sgl-project/sglang)
+## 7. [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)
 
-SGLang is a high-performance serving framework for large language models and multimodal models.
+Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 38,312 |
-| Forks | 10,041 |
-| Stars this week | 763 |
+| Stars | 3,362 |
+| Forks | 424 |
+| Stars this week | 335 |
+
+---
+
+## 8. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 34,237 |
+| Forks | 3,779 |
+| Stars this week | 1,668 |
 
 ---
 
@@ -117,73 +117,34 @@ VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice clo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 95,941 |
-| Forks | 10,624 |
-| Stars this week | 12,910 |
+| Stars | 97,051 |
+| Forks | 10,766 |
+| Stars this week | 12,294 |
 
 ---
 
-## 10. [vllm-project/vllm](https://github.com/vllm-project/vllm)
+## 10. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) 🆕
 
-A high-throughput and memory-efficient inference and serving engine for LLMs
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 95,945 |
-| Forks | 24,209 |
-| Stars this week | 729 |
+| Stars | 140,119 |
+| Forks | 13,372 |
+| Stars this week | 5,802 |
 
 ---
 
-## 11. [blader/humanizer](https://github.com/blader/humanizer)
-
-Agent skill that removes signs of AI-generated writing from text
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 62,768 |
-| Forks | 4,973 |
-| Stars this week | 2,799 |
-
----
-
-## 12. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+## 11. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 51,950 |
-| Forks | 6,368 |
-| Stars this week | 9,440 |
-
----
-
-## 13. [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
-
-claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 9,950 |
-| Forks | 1,334 |
-| Stars this week | 1,691 |
-
----
-
-## 14. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
-
-A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 46,232 |
-| Forks | 5,669 |
-| Stars this week | 2,374 |
+| Stars | 53,051 |
+| Forks | 6,495 |
+| Stars this week | 10,185 |
 
 ---

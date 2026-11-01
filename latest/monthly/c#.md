@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-10-31T05:32:54Z
-**Total Repositories:** 18
+**Snapshot Time:** 2026-11-01T05:56:54Z
+**Total Repositories:** 17
 **New Entries:** 1
-**Quality Score:** 97.78/100
+**Quality Score:** 97.65/100
 
 ---
 
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,418 |
-| Forks | 1,640 |
-| Stars this month | 1,867 |
+| Stars | 21,467 |
+| Forks | 1,643 |
+| Stars this month | 1,894 |
 
 ---
 
@@ -27,10 +27,10 @@ A modern launcher for downloading, installing, and running apps from GitHub and 
 
 | Metric | Value |
 |--------|-------|
-| Language | C# |
-| Stars | 3,613 |
-| Forks | 106 |
-| Stars this month | 2,646 |
+| Language | TypeScript |
+| Stars | 3,664 |
+| Forks | 109 |
+| Stars this month | 2,564 |
 
 ---
 
@@ -41,8 +41,8 @@ A modern launcher for downloading, installing, and running apps from GitHub and 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,887 |
-| Forks | 3,793 |
+| Stars | 26,894 |
+| Forks | 3,795 |
 | Stars this month | 756 |
 
 ---
@@ -54,52 +54,39 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,572 |
-| Forks | 1,615 |
-| Stars this month | 1,038 |
+| Stars | 15,598 |
+| Forks | 1,618 |
+| Stars this month | 1,034 |
 
 ---
 
-## 5. [dotnet/runtime](https://github.com/dotnet/runtime)
-
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 18,397 |
-| Forks | 5,784 |
-| Stars this month | 142 |
-
----
-
-## 6. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
+## 5. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
 
 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,441 |
-| Forks | 1,289 |
-| Stars this month | 1,721 |
+| Stars | 17,499 |
+| Forks | 1,295 |
+| Stars this month | 1,763 |
 
 ---
 
-## 7. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+## 6. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
 
 PCL 社区版 由社区开发者维护与管理
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,009 |
-| Forks | 456 |
-| Stars this month | 698 |
+| Stars | 5,025 |
+| Forks | 464 |
+| Stars this month | 709 |
 
 ---
 
-## 8. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 7. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -107,110 +94,123 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 |--------|-------|
 | Language | C# |
 | Stars | 38,497 |
-| Forks | 12,950 |
-| Stars this month | 113 |
+| Forks | 12,340 |
+| Stars this month | 116 |
 
 ---
 
-## 9. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
+## 8. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
 
 Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,076 |
+| Stars | 3,077 |
 | Forks | 410 |
-| Stars this month | 442 |
+| Stars this month | 443 |
 
 ---
 
-## 10. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 9. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
 A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,043 |
+| Stars | 2,049 |
 | Forks | 67 |
-| Stars this month | 420 |
+| Stars this month | 404 |
 
 ---
 
-## 11. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-
-PowerShell for every system!
+## 10. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 55,966 |
-| Forks | 8,522 |
-| Stars this month | 635 |
-
----
-
-## 12. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,003 |
+| Stars | 8,023 |
 | Forks | 252 |
-| Stars this month | 494 |
+| Stars this month | 496 |
 
 ---
 
-## 13. [greenshot/greenshot](https://github.com/greenshot/greenshot)
-
-Greenshot for Windows - for more information look here:
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,224 |
-| Forks | 719 |
-| Stars this month | 101 |
-
----
-
-## 14. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
-
-Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,695 |
-| Forks | 3,102 |
-| Stars this month | 258 |
-
----
-
-## 15. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
-
-the subtitle editor :)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,790 |
-| Forks | 1,352 |
-| Stars this month | 455 |
-
----
-
-## 16. [2dust/v2rayN](https://github.com/2dust/v2rayN)
+## 11. [2dust/v2rayN](https://github.com/2dust/v2rayN)
 
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 119,584 |
-| Forks | 16,223 |
-| Stars this month | 2,910 |
+| Stars | 119,669 |
+| Forks | 16,233 |
+| Stars this month | 2,927 |
+
+---
+
+## 12. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+
+Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 17,702 |
+| Forks | 3,103 |
+| Stars this month | 260 |
+
+---
+
+## 13. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+
+PowerShell for every system!
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 55,982 |
+| Forks | 8,522 |
+| Stars this month | 639 |
+
+---
+
+## 14. [dotnet/runtime](https://github.com/dotnet/runtime)
+
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 18,401 |
+| Forks | 5,803 |
+| Stars this month | 144 |
+
+---
+
+## 15. [greenshot/greenshot](https://github.com/greenshot/greenshot)
+
+Greenshot for Windows - for more information look here:
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,229 |
+| Forks | 718 |
+| Stars this month | 106 |
+
+---
+
+## 16. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
+
+Movie organizer/manager for usenet and torrent users.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,689 |
+| Forks | 1,251 |
+| Stars this month | 259 |
 
 ---
 
@@ -221,21 +221,8 @@ B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,130 |
-| Forks | 1,926 |
-| Stars this month | 279 |
-
----
-
-## 18. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) 🆕
-
-Download web video and audio
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,497 |
-| Forks | 363 |
-| Stars this month | 359 |
+| Stars | 9,140 |
+| Forks | 1,927 |
+| Stars this month | 266 |
 
 ---

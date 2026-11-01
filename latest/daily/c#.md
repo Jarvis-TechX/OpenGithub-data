@@ -1,228 +1,191 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:32:12Z
-**Total Repositories:** 17
-**New Entries:** 8
+**Snapshot Time:** 2026-11-01T05:56:20Z
+**Total Repositories:** 14
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
-
-A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,613 |
-| Forks | 106 |
-| Stars today | 101 |
-
----
-
-## 2. [dotnet/runtime](https://github.com/dotnet/runtime)
-
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 18,397 |
-| Forks | 5,784 |
-
----
-
-## 3. [microsoft/mcp](https://github.com/microsoft/mcp) 🆕
-
-Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,816 |
-| Forks | 664 |
-| Stars today | 2 |
-
----
-
-## 4. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🆕
-
-Integrate cutting-edge LLM technology quickly and easily into your apps
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 28,724 |
-| Forks | 4,847 |
-| Stars today | 8 |
-
----
-
-## 5. [bitwarden/server](https://github.com/bitwarden/server) 🆕
-
-Bitwarden infrastructure/backend (API, database, Docker, etc).
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 20,528 |
-| Forks | 1,822 |
-| Stars today | 13 |
-
----
-
-## 6. [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)
-
-Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,221 |
-| Forks | 2,606 |
-| Stars today | 3 |
-
----
-
-## 7. [files-community/Files](https://github.com/files-community/Files)
-
-A modern file manager that helps users organize their files and folders.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 46,389 |
-| Forks | 3,001 |
-| Stars today | 38 |
-
----
-
-## 8. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
-
-.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 26,887 |
-| Forks | 3,793 |
-| Stars today | 17 |
-
----
-
-## 9. [luolangaga/tubatools](https://github.com/luolangaga/tubatools)
-
-这是图吧工具箱基于 WinUI 3 全新重构的版本，一款由社区驱动、深度契合 Windows 11 设计美学的现代化工具箱。它不仅确保你始终使用最新版本的工具，还集成了更加丰富的实用功能，更可满足高度自定义的个性化需求。
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,945 |
-| Forks | 170 |
-| Stars today | 37 |
-
----
-
-## 10. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) 🆕
-
-🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 27,353 |
-| Forks | 1,746 |
-| Stars today | 15 |
-
----
-
-## 11. [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) 🆕
-
-C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,074 |
-| Forks | 378 |
-| Stars today | 15 |
-
----
-
-## 12. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
-
-Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,421 |
-| Forks | 2,966 |
-| Stars today | 7 |
-
----
-
-## 13. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
+## 1. [2dust/v2rayN](https://github.com/2dust/v2rayN)
 
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 119,584 |
-| Forks | 16,223 |
-| Stars today | 112 |
+| Stars | 119,669 |
+| Forks | 16,233 |
+| Stars today | 99 |
 
 ---
 
-## 14. [dotnet/roslyn](https://github.com/dotnet/roslyn)
+## 2. [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) 🆕
 
-The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+Unity plugin for third-party agent platforms
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,761 |
-| Forks | 4,364 |
-| Stars today | 1 |
+| Stars | 592 |
+| Forks | 67 |
+| Stars today | 4 |
 
 ---
 
-## 15. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) 🆕
+## 3. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
 
-Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,572 |
-| Forks | 1,615 |
-| Stars today | 30 |
+| Stars | 32,888 |
+| Forks | 2,235 |
+| Stars today | 42 |
 
 ---
 
-## 16. [dotnet/skills](https://github.com/dotnet/skills)
+## 4. [mcp-servers-for-revit/mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) 🆕
+
+🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 417 |
+| Forks | 165 |
+| Stars today | 2 |
+
+---
+
+## 5. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) 🆕
+
+Advanced UX and interoperability extension for Wand (WeMod) app
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 33,517 |
+| Forks | 86,626 |
+| Stars today | 138 |
+
+---
+
+## 6. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
+
+.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 26,894 |
+| Forks | 3,795 |
+| Stars today | 8 |
+
+---
+
+## 7. [ggml-org/Llama-Windows](https://github.com/ggml-org/Llama-Windows) 🆕
+
+Windows Llama App Companion
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 340 |
+| Forks | 35 |
+| Stars today | 8 |
+
+---
+
+## 8. [riyasy/FlyPhotos](https://github.com/riyasy/FlyPhotos) 🆕
+
+A blazing fast ultra-light photo viewer replacement for Windows. Works similar to Picasa Photo Viewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 937 |
+| Forks | 34 |
+| Stars today | 17 |
+
+---
+
+## 9. [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) 🆕
+
+Open source, cross-platform, user-mode tablet driver
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,230 |
+| Forks | 566 |
+| Stars today | 3 |
+
+---
+
+## 10. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
+
+Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,420 |
+| Forks | 2,967 |
+| Stars today | 2 |
+
+---
+
+## 11. [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe)
+
+C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 8,081 |
+| Forks | 379 |
+| Stars today | 8 |
+
+---
+
+## 12. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) 🆕
+
+UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 26,790 |
+| Forks | 967 |
+| Stars today | 15 |
+
+---
+
+## 13. [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) 🆕
+
+A Swiss Army knife for developers.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 32,152 |
+| Forks | 1,776 |
+| Stars today | 8 |
+
+---
+
+## 14. [dotnet/skills](https://github.com/dotnet/skills)
 
 Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,780 |
+| Stars | 5,781 |
 | Forks | 452 |
-| Stars today | 13 |
-
----
-
-## 17. [microsoft/aspire](https://github.com/microsoft/aspire) 🆕
-
-Aspire is the tool for code-first, extensible, observable dev and deploy.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,389 |
-| Forks | 1,029 |
+| Stars today | 9 |
 
 ---

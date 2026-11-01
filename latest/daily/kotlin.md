@@ -1,176 +1,204 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:32:10Z
-**Total Repositories:** 13
-**New Entries:** 10
+**Snapshot Time:** 2026-11-01T05:56:19Z
+**Total Repositories:** 15
+**New Entries:** 15
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music)
+## 1. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
 
-A modern sleek music player.
+A V2Ray client for Android, support Xray core and v2fly core
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 372 |
-| Forks | 28 |
-| Stars today | 26 |
+| Stars | 65,088 |
+| Forks | 8,484 |
+| Stars today | 75 |
 
 ---
 
-## 2. [home-assistant/android](https://github.com/home-assistant/android) 🆕
+## 2. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
 
-Home Assistant Companion for Android
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,012 |
-| Forks | 1,124 |
-| Stars today | 3 |
+| Stars | 32,556 |
+| Forks | 3,503 |
+| Stars today | 69 |
 
 ---
 
-## 3. [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) 🆕
+## 3. [tiann/KernelSU](https://github.com/tiann/KernelSU) 🆕
 
-Easy to use OpenStreetMap editor for Android and iOS
+A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,128 |
-| Forks | 477 |
+| Stars | 19,926 |
+| Forks | 4,831 |
+| Stars today | 51 |
 
 ---
 
-## 4. [JetBrains/kotlin](https://github.com/JetBrains/kotlin) 🆕
+## 4. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
 
-The Kotlin Programming Language.
+基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 53,526 |
-| Forks | 6,454 |
-| Stars today | 5 |
+| Stars | 43,813 |
+| Forks | 2,092 |
+| Stars today | 80 |
 
 ---
 
-## 5. [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) 🆕
+## 5. [sameerasw/essentials](https://github.com/sameerasw/essentials) 🆕
 
-Tailscale Android Client
+Essential tools and mods for Android nerds
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,769 |
-| Forks | 773 |
-| Stars today | 13 |
+| Stars | 3,656 |
+| Forks | 100 |
+| Stars today | 62 |
 
 ---
 
-## 6. [ximeiorg/Xime](https://github.com/ximeiorg/Xime) 🆕
+## 6. [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches) 🆕
 
-我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。
+New mask, same task. All patches answer to Doom.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,302 |
-| Forks | 97 |
-| Stars today | 3 |
+| Stars | 987 |
+| Forks | 69 |
+| Stars today | 8 |
 
 ---
 
-## 7. [JetBrains/koog](https://github.com/JetBrains/koog)
+## 7. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland) 🆕
 
-Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,647 |
-| Forks | 505 |
+| Stars | 375 |
+| Forks | 54 |
+| Stars today | 12 |
 
 ---
 
-## 8. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
+## 8. [Ujhhgtg/WeKit](https://github.com/Ujhhgtg/WeKit) 🆕
 
-Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
+WeChat, now with superpowers
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,290 |
-| Forks | 118 |
-| Stars today | 16 |
+| Stars | 1,168 |
+| Forks | 226 |
+| Stars today | 7 |
 
 ---
 
-## 9. [GlassHaven/Haven](https://github.com/GlassHaven/Haven) 🆕
+## 9. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) 🆕
 
-Free SSH, VNC, RDP & SFTP client for Android
+Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,392 |
-| Forks | 105 |
-| Stars today | 6 |
+| Stars | 6,780 |
+| Forks | 1,394 |
+| Stars today | 18 |
 
 ---
 
-## 10. [duckduckgo/Android](https://github.com/duckduckgo/Android) 🆕
+## 10. [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) 🆕
 
-DuckDuckGo Android App
+NekoBox for Android / sing-box / universal proxy toolchain for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,882 |
-| Forks | 1,423 |
-| Stars today | 2 |
+| Stars | 23,346 |
+| Forks | 1,923 |
+| Stars today | 23 |
 
 ---
 
-## 11. [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) 🆕
+## 11. [subhra74/xdm](https://github.com/subhra74/xdm) 🆕
 
-💊 Application to use ReVanced on Android
+Fast, reliable download accelerator and video downloader since 2013
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 30,011 |
-| Forks | 1,183 |
-| Stars today | 17 |
+| Stars | 8,235 |
+| Forks | 1,213 |
+| Stars today | 50 |
 
 ---
 
-## 12. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
+## 12. [ItzSkyeYT/InterTune](https://github.com/ItzSkyeYT/InterTune) 🆕
 
-The Magic Mask for Android
+Android music player for YouTube Music and your local library, in one queue. Material 3, built for phones and tablets, no ads and no tracking.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 63,635 |
-| Forks | 19,110 |
+| Stars | 93 |
+| Forks | 4 |
+| Stars today | 7 |
+
+---
+
+## 13. [JunkFood02/Seal](https://github.com/JunkFood02/Seal) 🆕
+
+🦭 Video/Audio Downloader for Android, based on yt-dlp
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 30,235 |
+| Forks | 1,524 |
 | Stars today | 36 |
 
 ---
 
-## 13. [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) 🆕
+## 14. [samolego/Canta](https://github.com/samolego/Canta) 🆕
 
-KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
+Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,513 |
-| Forks | 302 |
-| Stars today | 8 |
+| Stars | 6,398 |
+| Forks | 149 |
+| Stars today | 26 |
+
+---
+
+## 15. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) 🆕
+
+🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,068 |
+| Forks | 43 |
+| Stars today | 20 |
 
 ---

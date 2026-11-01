@@ -1,9 +1,9 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:32:06Z
-**Total Repositories:** 16
-**New Entries:** 12
+**Snapshot Time:** 2026-11-01T05:56:16Z
+**Total Repositories:** 11
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
@@ -15,48 +15,48 @@ Run frontier MoE models on hardware you already own — pure C, zero deps, exper
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 45,235 |
-| Forks | 5,162 |
-| Stars today | 242 |
+| Stars | 45,420 |
+| Forks | 5,185 |
+| Stars today | 190 |
 
 ---
 
-## 2. [lvgl/lvgl](https://github.com/lvgl/lvgl)
+## 2. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) 🆕
 
-LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 25,058 |
-| Forks | 4,420 |
-| Stars today | 9 |
+| Stars | 16,970 |
+| Forks | 10,321 |
+| Stars today | 7 |
 
 ---
 
-## 3. [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) 🆕
+## 3. [mbm110/MSN-GUARD](https://github.com/mbm110/MSN-GUARD) 🆕
 
-An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.
+Device-wide Android VPN for difficult networks: WireGuard, MASQUE, WARP-on-WARP, Psiphon, Tor, Foxy and SHARD — with Rust core, endpoint discovery, MTU scanning, multiple TUN engines, profiles and verified connections.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,038 |
-| Forks | 3,007 |
-| Stars today | 2 |
+| Stars | 712 |
+| Forks | 122 |
+| Stars today | 5 |
 
 ---
 
-## 4. [cilium/tetragon](https://github.com/cilium/tetragon) 🆕
+## 4. [mgba-emu/mgba](https://github.com/mgba-emu/mgba) 🆕
 
-eBPF-based Security Observability and Runtime Enforcement
+mGBA Game Boy Advance Emulator
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 5,135 |
-| Forks | 638 |
-| Stars today | 2 |
+| Stars | 7,553 |
+| Forks | 1,151 |
+| Stars today | 6 |
 
 ---
 
@@ -67,150 +67,86 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 140,313 |
-| Forks | 8,679 |
-| Stars today | 81 |
+| Stars | 140,364 |
+| Forks | 8,682 |
+| Stars today | 70 |
 
 ---
 
-## 6. [meta/zstd](https://github.com/meta/zstd) 🆕
+## 6. [meta/zstd](https://github.com/meta/zstd)
 
 Zstandard - Fast real-time compression algorithm
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,131 |
+| Stars | 28,141 |
 | Forks | 2,667 |
-| Stars today | 10 |
+| Stars today | 12 |
 
 ---
 
-## 7. [glfw/glfw](https://github.com/glfw/glfw) 🆕
+## 7. [espressif/esp-idf](https://github.com/espressif/esp-idf) 🆕
 
-A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 15,423 |
-| Forks | 5,957 |
-| Stars today | 1 |
+| Stars | 19,394 |
+| Forks | 8,579 |
+| Stars today | 9 |
 
 ---
 
-## 8. [libuv/libuv](https://github.com/libuv/libuv) 🆕
+## 8. [brunodev85/winlator](https://github.com/brunodev85/winlator) 🆕
 
-Cross-platform asynchronous I/O
+Android application for running Windows applications with Wine and Box86/Box64
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 27,291 |
-| Forks | 3,974 |
-| Stars today | 2 |
+| Stars | 19,747 |
+| Forks | 1,916 |
+| Stars today | 30 |
 
 ---
 
-## 9. [microsoft/mimalloc](https://github.com/microsoft/mimalloc) 🆕
+## 9. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 🆕
 
-mimalloc is a compact general purpose allocator with excellent performance.
+Display and control your Android device
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 13,521 |
-| Forks | 1,207 |
-| Stars today | 4 |
+| Stars | 153,698 |
+| Forks | 14,111 |
+| Stars today | 79 |
 
 ---
 
-## 10. [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) 🆕
+## 10. [86Box/86Box](https://github.com/86Box/86Box) 🆕
 
-Eclipse Mosquitto - An open source MQTT broker
+Emulator of x86-based machines.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 11,317 |
-| Forks | 2,655 |
-| Stars today | 5 |
-
----
-
-## 11. [fluent/fluent-bit](https://github.com/fluent/fluent-bit) 🆕
-
-Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 8,179 |
-| Forks | 2,024 |
-| Stars today | 1 |
-
----
-
-## 12. [libarchive/libarchive](https://github.com/libarchive/libarchive) 🆕
-
-Multi-format archive and compression library
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 3,649 |
-| Forks | 1,051 |
-
----
-
-## 13. [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) 🆕
-
-Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 7,282 |
-| Forks | 1,100 |
-| Stars today | 2 |
-
----
-
-## 14. [madler/zlib](https://github.com/madler/zlib)
-
-A massively spiffy yet delicately unobtrusive compression library.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 7,182 |
-| Forks | 2,887 |
+| Stars | 4,967 |
+| Forks | 632 |
 | Stars today | 3 |
 
 ---
 
-## 15. [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) 🆕
+## 11. [openssl/openssl](https://github.com/openssl/openssl) 🆕
 
-Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 9,517 |
-| Forks | 1,579 |
-| Stars today | 4 |
-
----
-
-## 16. [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) 🆕
-
-ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
+General purpose TLS and crypto library
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,772 |
-| Forks | 1,689 |
-| Stars today | 8 |
+| Stars | 31,148 |
+| Forks | 11,570 |
+| Stars today | 13 |
 
 ---

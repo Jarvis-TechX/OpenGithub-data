@@ -1,152 +1,177 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-10-31T05:32:13Z
-**Total Repositories:** 11
+**Snapshot Time:** 2026-11-01T05:56:21Z
+**Total Repositories:** 13
 **New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
+## 1. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) 🆕
 
-A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,406 |
-| Forks | 211 |
-| Stars today | 45 |
-
----
-
-## 2. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) 🆕
-
-Run a virtual iPhone on an Apple Silicon Mac.
+Free and open-source macOS menu bar toolkit.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 16,290 |
-| Forks | 1,930 |
-| Stars today | 89 |
+| Stars | 32,035 |
+| Forks | 1,544 |
+| Stars today | 501 |
 
 ---
 
-## 3. [farzaa/clicky](https://github.com/farzaa/clicky) 🆕
+## 2. [farzaa/clicky](https://github.com/farzaa/clicky)
 
 The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,849 |
-| Forks | 1,567 |
-| Stars today | 29 |
+| Stars | 7,871 |
+| Forks | 1,575 |
+| Stars today | 17 |
 
 ---
 
-## 4. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) 🆕
-
-macOS video editor built for AI
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 14,668 |
-| Forks | 1,154 |
-| Stars today | 8 |
-
----
-
-## 5. [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) 🆕
-
-TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 11,206 |
-| Forks | 1,166 |
-| Stars today | 21 |
-
----
-
-## 6. [momenbasel/PureMac](https://github.com/momenbasel/PureMac) 🆕
+## 3. [momenbasel/PureMac](https://github.com/momenbasel/PureMac)
 
 Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,534 |
+| Stars | 7,557 |
 | Forks | 441 |
-| Stars today | 35 |
-
----
-
-## 7. [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
-
-A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 15,000 |
-| Forks | 1,682 |
-| Stars today | 2 |
-
----
-
-## 8. [apple/container](https://github.com/apple/container) 🆕
-
-A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 50,987 |
-| Forks | 1,802 |
 | Stars today | 18 |
 
 ---
 
-## 9. [steipete/CodexBar](https://github.com/steipete/CodexBar) 🆕
+## 4. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) 🆕
 
-Show usage stats for OpenAI Codex and Claude Code, without having to login.
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 22,906 |
-| Forks | 2,177 |
-| Stars today | 19 |
+| Stars | 13,644 |
+| Forks | 1,259 |
+| Stars today | 34 |
 
 ---
 
-## 10. [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+## 5. [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) 🆕
 
-The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.
+Dynamic Island for macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,138 |
-| Forks | 432 |
+| Stars | 5,142 |
+| Forks | 360 |
+| Stars today | 17 |
+
+---
+
+## 6. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
+
+A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,415 |
+| Forks | 213 |
+| Stars today | 12 |
+
+---
+
+## 7. [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) 🆕
+
+The official Swift SDK for Model Context Protocol servers and clients. Maintained in collaboration with Apple
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,562 |
+| Forks | 266 |
 | Stars today | 2 |
 
 ---
 
-## 11. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
+## 8. [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
 
-The Swift Programming Language
+TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 70,529 |
-| Forks | 10,878 |
-| Stars today | 6 |
+| Stars | 11,212 |
+| Forks | 1,169 |
+| Stars today | 8 |
+
+---
+
+## 9. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) 🆕
+
+Community fork of PlayCover
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 12,070 |
+| Forks | 1,025 |
+| Stars today | 12 |
+
+---
+
+## 10. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
+Run a virtual iPhone on an Apple Silicon Mac.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 16,325 |
+| Forks | 1,933 |
+| Stars today | 29 |
+
+---
+
+## 11. [claration/feather](https://github.com/claration/feather) 🆕
+
+Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,974 |
+| Forks | 458 |
+| Stars today | 7 |
+
+---
+
+## 12. [groue/GRDB.swift](https://github.com/groue/GRDB.swift) 🆕
+
+A toolkit for SQLite databases, with a focus on application development
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 8,720 |
+| Forks | 1,096 |
+| Stars today | 3 |
+
+---
+
+## 13. [apple/swift-algorithms](https://github.com/apple/swift-algorithms) 🆕
+
+Commonly used sequence and collection algorithms for Swift
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,341 |
+| Forks | 484 |
 
 ---
