@@ -1,36 +1,36 @@
 # GitHub Trending - Python
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-01T05:56:40Z
-**Total Repositories:** 16
-**New Entries:** 2
+**Snapshot Time:** 2026-11-02T05:56:18Z
+**Total Repositories:** 17
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
-
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 34,237 |
-| Forks | 3,779 |
-| Stars this month | 8,375 |
-
----
-
-## 2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+## 1. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 97,052 |
-| Forks | 10,766 |
-| Stars this month | 47,234 |
+| Stars | 98,178 |
+| Forks | 10,909 |
+| Stars this month | 47,055 |
+
+---
+
+## 2. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 34,402 |
+| Forks | 3,806 |
+| Stars this month | 8,486 |
 
 ---
 
@@ -41,9 +41,9 @@ Design physical products with AI
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 24,556 |
-| Forks | 2,355 |
-| Stars this month | 8,092 |
+| Stars | 24,824 |
+| Forks | 2,373 |
+| Stars this month | 8,238 |
 
 ---
 
@@ -54,9 +54,9 @@ Official, Anthropic-managed directory of high quality Claude Code Plugins.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 45,602 |
-| Forks | 4,748 |
-| Stars this month | 8,525 |
+| Stars | 45,751 |
+| Forks | 4,763 |
+| Stars this month | 8,625 |
 
 ---
 
@@ -67,9 +67,9 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 25,124 |
-| Forks | 3,325 |
-| Stars this month | 6,891 |
+| Stars | 25,655 |
+| Forks | 3,366 |
+| Stars this month | 7,274 |
 
 ---
 
@@ -80,22 +80,22 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 107,295 |
-| Forks | 9,558 |
-| Stars this month | 21,482 |
+| Stars | 107,745 |
+| Forks | 9,609 |
+| Stars this month | 20,927 |
 
 ---
 
-## 7. [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) 🆕
+## 7. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
-ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
+DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,891 |
-| Forks | 343 |
-| Stars this month | 3,595 |
+| Stars | 53,871 |
+| Forks | 6,589 |
+| Stars this month | 13,133 |
 
 ---
 
@@ -106,112 +106,125 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 23,724 |
-| Forks | 2,052 |
-| Stars this month | 5,009 |
+| Stars | 23,890 |
+| Forks | 2,061 |
+| Stars this month | 5,005 |
 
 ---
 
-## 9. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-
-DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 53,051 |
-| Forks | 6,495 |
-| Stars this month | 12,117 |
-
----
-
-## 10. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+## 9. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 57,975 |
-| Forks | 5,217 |
-| Stars this month | 7,040 |
+| Stars | 58,060 |
+| Forks | 5,220 |
+| Stars this month | 7,085 |
 
 ---
 
-## 11. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-
-Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 65,513 |
-| Forks | 10,209 |
-| Stars this month | 9,713 |
-
----
-
-## 12. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+## 10. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
 World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 74,070 |
-| Forks | 9,712 |
-| Stars this month | 12,228 |
+| Stars | 74,520 |
+| Forks | 9,801 |
+| Stars this month | 12,581 |
 
 ---
 
-## 13. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+## 11. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) 🆕
+
+AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 45,550 |
+| Forks | 3,340 |
+| Stars this month | 4,436 |
+
+---
+
+## 12. [wshobson/agents](https://github.com/wshobson/agents) 🆕
+
+Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 42,088 |
+| Forks | 4,454 |
+| Stars this month | 2,071 |
+
+---
+
+## 13. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
+Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 65,773 |
+| Forks | 10,254 |
+| Stars this month | 9,946 |
+
+---
+
+## 14. [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
+
+ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 5,939 |
+| Forks | 345 |
+| Stars this month | 3,608 |
+
+---
+
+## 15. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 
 Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 76,126 |
-| Forks | 13,441 |
-| Stars this month | 14,370 |
+| Stars | 76,291 |
+| Forks | 13,498 |
+| Stars this month | 14,314 |
 
 ---
 
-## 14. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+## 16. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) 🆕
+
+Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 42,661 |
+| Forks | 1,776 |
+| Stars this month | 27,444 |
+
+---
+
+## 17. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 46,299 |
-| Forks | 5,675 |
-| Stars this month | 4,742 |
-
----
-
-## 15. [Kruk2/jasna](https://github.com/Kruk2/jasna)
-
-Video restoration tool
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 4,204 |
-| Forks | 344 |
-| Stars this month | 2,319 |
-
----
-
-## 16. [666ghj/MiroFish](https://github.com/666ghj/MiroFish) 🆕
-
-A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 83,125 |
-| Forks | 12,567 |
-| Stars this month | 7,921 |
+| Stars | 46,383 |
+| Forks | 5,692 |
+| Stars this month | 4,819 |
 
 ---

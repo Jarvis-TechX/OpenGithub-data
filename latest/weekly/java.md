@@ -1,7 +1,7 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-01T05:56:34Z
+**Snapshot Time:** 2026-11-02T05:56:11Z
 **Total Repositories:** 14
 **New Entries:** 3
 **Quality Score:** 100.00/100
@@ -15,22 +15,22 @@ All Algorithms implemented in Java
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 66,694 |
-| Forks | 21,457 |
-| Stars this week | 318 |
+| Stars | 66,706 |
+| Forks | 21,463 |
+| Stars this week | 272 |
 
 ---
 
-## 2. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
+## 2. [kdn251/interviews](https://github.com/kdn251/interviews)
 
-Mac.apk: Run Android apps natively on Apple Silicon Macs
+Everything you need to know to get the job.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,843 |
-| Forks | 151 |
-| Stars this week | 805 |
+| Stars | 65,535 |
+| Forks | 12,929 |
+| Stars this week | 81 |
 
 ---
 
@@ -41,151 +41,151 @@ Dependency-Track is an intelligent Component Analysis platform that allows organ
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,391 |
-| Forks | 850 |
-| Stars this week | 53 |
+| Stars | 4,396 |
+| Forks | 851 |
+| Stars this week | 51 |
 
 ---
 
-## 4. [alibaba/nacos](https://github.com/alibaba/nacos)
-
-an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 33,489 |
-| Forks | 13,285 |
-| Stars this week | 30 |
-
----
-
-## 5. [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator)
+## 4. [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator)
 
 Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 16,402 |
+| Stars | 16,412 |
 | Forks | 1,496 |
-| Stars this week | 73 |
+| Stars this week | 72 |
 
 ---
 
-## 6. [halo-dev/halo](https://github.com/halo-dev/halo)
-
-Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 40,089 |
-| Forks | 10,314 |
-| Stars this week | 117 |
-
----
-
-## 7. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
+## 5. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
 
 Spring Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 60,306 |
+| Stars | 60,309 |
 | Forks | 38,748 |
-| Stars this week | 29 |
+| Stars this week | 27 |
 
 ---
 
-## 8. [hxreborn/morphe-patches](https://github.com/hxreborn/morphe-patches) 🆕
+## 6. [alibaba/nacos](https://github.com/alibaba/nacos)
 
-🧩 Android patches for Morphe: AMOLED themes, ad removal and premium unlocks for 140+ apps, including Proton Mail, BeReal, Perplexity, TeraBox and Cx File Explorer.
+an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 281 |
-| Forks | 14 |
-| Stars this week | 60 |
+| Stars | 33,491 |
+| Forks | 13,283 |
+| Stars this week | 27 |
 
 ---
 
-## 9. [keycloak/keycloak](https://github.com/keycloak/keycloak) 🆕
+## 7. [openjdk/jdk](https://github.com/openjdk/jdk) 🆕
 
-Open Source Identity and Access Management For Modern Applications and Services
+JDK main-line developmenthttps://openjdk.org/projects/jdk
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 37,622 |
-| Forks | 9,121 |
-| Stars this week | 133 |
+| Stars | 23,490 |
+| Forks | 6,631 |
+| Stars this week | 37 |
 
 ---
 
-## 10. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 8. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
 Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,443 |
-| Forks | 26,214 |
-| Stars this week | 117 |
+| Stars | 78,457 |
+| Forks | 26,234 |
+| Stars this week | 120 |
 
 ---
 
-## 11. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+## 9. [halo-dev/halo](https://github.com/halo-dev/halo)
+
+Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 40,100 |
+| Forks | 10,313 |
+| Stars this week | 101 |
+
+---
+
+## 10. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
 
 LSPosed Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 25,279 |
-| Forks | 3,599 |
-| Stars this week | 131 |
+| Stars | 25,297 |
+| Forks | 3,600 |
+| Stars this week | 132 |
 
 ---
 
-## 12. [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
+## 11. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) 🆕
 
-a fast, scalable, multi-language and extensible build system
+Jenkins automation server
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,025 |
-| Forks | 4,669 |
-| Stars this week | 43 |
+| Stars | 26,715 |
+| Forks | 9,818 |
+| Stars this week | 39 |
 
 ---
 
-## 13. [apache/flink](https://github.com/apache/flink)
+## 12. [apache/flink](https://github.com/apache/flink)
 
 Apache Flink
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,441 |
-| Forks | 14,189 |
-| Stars this week | 23 |
+| Stars | 26,442 |
+| Forks | 14,207 |
+| Stars this week | 21 |
 
 ---
 
-## 14. [kdn251/interviews](https://github.com/kdn251/interviews) 🆕
+## 13. [keycloak/keycloak](https://github.com/keycloak/keycloak)
 
-Everything you need to know to get the job.
+Open Source Identity and Access Management For Modern Applications and Services
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,534 |
-| Forks | 12,930 |
-| Stars this week | 227 |
+| Stars | 37,641 |
+| Forks | 9,126 |
+| Stars this week | 131 |
+
+---
+
+## 14. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) 🆕
+
+Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 535 |
+| Forks | 111 |
+| Stars this week | 44 |
 
 ---

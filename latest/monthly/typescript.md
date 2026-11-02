@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-01T05:56:43Z
+**Snapshot Time:** 2026-11-02T05:56:21Z
 **Total Repositories:** 22
-**New Entries:** 0
+**New Entries:** 1
 **Quality Score:** 98.18/100
 
 ---
@@ -15,33 +15,33 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 76,666 |
-| Forks | 7,012 |
-| Stars this month | 22,303 |
+| Stars | 77,253 |
+| Forks | 7,082 |
+| Stars this month | 22,225 |
 
 ---
 
-## 2. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 35,980 |
-| Forks | 8,810 |
-| Stars this month | 9,973 |
-
----
-
-## 3. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+## 2. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 108,135 |
-| Forks | 9,487 |
-| Stars this month | 12,705 |
+| Stars | 109,712 |
+| Forks | 9,585 |
+| Stars this month | 14,011 |
+
+---
+
+## 3. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 38,640 |
+| Forks | 8,948 |
+| Stars this month | 12,629 |
 
 ---
 
@@ -52,48 +52,48 @@ Context window optimization for AI coding agents. Sandboxes tool output (98% red
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,058 |
-| Forks | 2,279 |
-| Stars this month | 8,881 |
+| Stars | 33,190 |
+| Forks | 2,291 |
+| Stars this month | 8,666 |
 
 ---
 
-## 5. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
-
-Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,502 |
-| Forks | 700 |
-| Stars this month | 5,747 |
-
----
-
-## 6. [cursor/plugins](https://github.com/cursor/plugins)
+## 5. [cursor/plugins](https://github.com/cursor/plugins)
 
 Cursor plugin specification and official plugins
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,903 |
-| Forks | 1,534 |
-| Stars this month | 5,799 |
+| Stars | 15,053 |
+| Forks | 1,552 |
+| Stars this month | 5,809 |
 
 ---
 
-## 7. [vercel-labs/skills](https://github.com/vercel-labs/skills)
+## 6. [vercel-labs/skills](https://github.com/vercel-labs/skills)
 
 The open agent skills tool - npx skills
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 37,456 |
-| Forks | 3,236 |
-| Stars this month | 4,721 |
+| Stars | 37,670 |
+| Forks | 3,256 |
+| Stars this month | 4,758 |
+
+---
+
+## 7. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+
+7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 45,885 |
+| Forks | 6,269 |
+| Stars this month | 15,908 |
 
 ---
 
@@ -104,22 +104,22 @@ The Postgres development platform. Supabase gives you a dedicated Postgres datab
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 114,389 |
-| Forks | 15,739 |
-| Stars this month | 3,782 |
+| Stars | 114,421 |
+| Forks | 15,760 |
+| Stars this month | 3,769 |
 
 ---
 
-## 9. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 9. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
 
-7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 45,274 |
-| Forks | 6,176 |
-| Stars this month | 15,643 |
+| Stars | 8,551 |
+| Forks | 706 |
+| Stars this month | 5,140 |
 
 ---
 
@@ -130,9 +130,9 @@ A lightweight sandboxing tool for enforcing filesystem and network restrictions 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,900 |
-| Forks | 615 |
-| Stars this month | 1,508 |
+| Stars | 6,911 |
+| Forks | 616 |
+| Stars this month | 1,512 |
 
 ---
 
@@ -143,9 +143,9 @@ A lightweight sandboxing tool for enforcing filesystem and network restrictions 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 80,443 |
-| Forks | 9,436 |
-| Stars this month | 7,242 |
+| Stars | 80,564 |
+| Forks | 9,453 |
+| Stars this month | 7,294 |
 
 ---
 
@@ -156,100 +156,100 @@ A lightweight sandboxing tool for enforcing filesystem and network restrictions 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 69,512 |
-| Forks | 5,707 |
-| Stars this month | 8,288 |
+| Stars | 69,827 |
+| Forks | 5,742 |
+| Stars this month | 8,489 |
 
 ---
 
-## 13. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-
-The open-source app everyone uses to manage agents at work
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 109,581 |
-| Forks | 18,150 |
-| Stars this month | 14,601 |
-
----
-
-## 14. [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
-
-📨 The ultimate agentic social media scheduling tool 🤖
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 40,421 |
-| Forks | 7,691 |
-| Stars this month | 3,908 |
-
----
-
-## 15. [stablyai/orca](https://github.com/stablyai/orca)
-
-Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 111,856 |
-| Forks | 7,073 |
-| Stars this month | 30,099 |
-
----
-
-## 16. [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
-
-一分钟搭建影视站，支持Docker等部署方式
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 23,071 |
-| Forks | 30,529 |
-| Stars this month | 9,191 |
-
----
-
-## 17. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 12,478 |
-| Forks | 2,446 |
-| Stars this month | 7,771 |
-
----
-
-## 18. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+## 13. [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
 
 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,745 |
-| Forks | 1,191 |
-| Stars this month | 7,509 |
+| Stars | 11,074 |
+| Forks | 1,220 |
+| Stars this month | 7,748 |
 
 ---
 
-## 19. [makecindy/cindy](https://github.com/makecindy/cindy)
+## 14. [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
+
+一分钟搭建影视站，支持Docker等部署方式
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 23,254 |
+| Forks | 30,599 |
+| Stars this month | 9,384 |
+
+---
+
+## 15. [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+
+📨 The ultimate agentic social media scheduling tool 🤖
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 40,621 |
+| Forks | 7,733 |
+| Stars this month | 4,086 |
+
+---
+
+## 16. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 13,479 |
+| Forks | 2,614 |
+| Stars this month | 8,698 |
+
+---
+
+## 17. [tester-army/e2e](https://github.com/tester-army/e2e) 🆕
+
+Next generation e2e testing framework for web and mobile apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 12,468 |
+| Forks | 646 |
+| Stars this month | 12,433 |
+
+---
+
+## 18. [makecindy/cindy](https://github.com/makecindy/cindy)
 
 Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,845 |
-| Forks | 1,052 |
-| Stars this month | 6,035 |
+| Stars | 8,947 |
+| Forks | 1,071 |
+| Stars this month | 6,137 |
+
+---
+
+## 19. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+
+The open-source app everyone uses to manage agents at work
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 110,005 |
+| Forks | 18,237 |
+| Stars this month | 14,583 |
 
 ---
 
@@ -260,34 +260,34 @@ A context-compression plugin for month-long single sessions (billions of tokens)
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,520 |
-| Forks | 297 |
-| Stars this month | 3,107 |
+| Stars | 3,607 |
+| Forks | 304 |
+| Stars this month | 3,150 |
 
 ---
 
-## 21. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
-
-Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 3,700 |
-| Forks | 341 |
-| Stars this month | 2,994 |
-
----
-
-## 22. [thesysdev/openui](https://github.com/thesysdev/openui)
+## 21. [thesysdev/openui](https://github.com/thesysdev/openui)
 
 The Open Standard for Generative UI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,581 |
-| Forks | 956 |
-| Stars this month | 4,665 |
+| Stars | 14,628 |
+| Forks | 961 |
+| Stars this month | 4,721 |
+
+---
+
+## 22. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
+
+Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,737 |
+| Forks | 345 |
+| Stars this month | 2,996 |
 
 ---

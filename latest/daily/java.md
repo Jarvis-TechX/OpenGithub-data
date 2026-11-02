@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-01T05:56:18Z
-**Total Repositories:** 15
-**New Entries:** 10
+**Snapshot Time:** 2026-11-02T05:55:50Z
+**Total Repositories:** 16
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
@@ -15,190 +15,203 @@ Light, fluffy, and always free - The AWS Local Emulator alternative
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 27,462 |
-| Forks | 3,029 |
-| Stars today | 86 |
+| Stars | 27,587 |
+| Forks | 3,063 |
+| Stars today | 62 |
 
 ---
 
-## 2. [keycloak/keycloak](https://github.com/keycloak/keycloak)
-
-Open Source Identity and Access Management For Modern Applications and Services
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 37,622 |
-| Forks | 9,121 |
-| Stars today | 10 |
-
----
-
-## 3. [github/copilot-sdk](https://github.com/github/copilot-sdk)
-
-Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 10,646 |
-| Forks | 1,520 |
-| Stars today | 15 |
-
----
-
-## 4. [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) 🆕
-
-Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 14,549 |
-| Forks | 5,124 |
-| Stars today | 3 |
-
----
-
-## 5. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) 🆕
-
-All Algorithms implemented in Java
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 66,694 |
-| Forks | 21,457 |
-| Stars today | 29 |
-
----
-
-## 6. [freerouting/freerouting](https://github.com/freerouting/freerouting) 🆕
-
-Advanced PCB auto-router
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,161 |
-| Forks | 351 |
-| Stars today | 4 |
-
----
-
-## 7. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) 🆕
-
-No clever tagline needed.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 13,833 |
-| Forks | 1,767 |
-| Stars today | 9 |
-
----
-
-## 8. [StarRocks/starrocks](https://github.com/StarRocks/starrocks) 🆕
-
-The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 12,222 |
-| Forks | 2,644 |
-| Stars today | 1 |
-
----
-
-## 9. [skylot/jadx](https://github.com/skylot/jadx) 🆕
-
-Dex to Java decompiler
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 51,425 |
-| Forks | 5,857 |
-| Stars today | 22 |
-
----
-
-## 10. [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) 🆕
-
-No-root network monitor, firewall and PCAP dumper for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,032 |
-| Forks | 579 |
-| Stars today | 8 |
-
----
-
-## 11. [openrewrite/rewrite](https://github.com/openrewrite/rewrite)
-
-Automated mass refactoring of source code.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,837 |
-| Forks | 589 |
-| Stars today | 2 |
-
----
-
-## 12. [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) 🆕
-
-Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 16,402 |
-| Forks | 1,496 |
-| Stars today | 15 |
-
----
-
-## 13. [apache/doris](https://github.com/apache/doris)
-
-Apache Doris is a real-time analytics and hybrid search database for AI agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 16,161 |
-| Forks | 4,005 |
-| Stars today | 2 |
-
----
-
-## 14. [conductor-oss/conductor](https://github.com/conductor-oss/conductor) 🆕
-
-Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 32,398 |
-| Forks | 1,048 |
-| Stars today | 4 |
-
----
-
-## 15. [termux/termux-app](https://github.com/termux/termux-app) 🆕
+## 2. [termux/termux-app](https://github.com/termux/termux-app)
 
 Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 63,852 |
-| Forks | 8,116 |
-| Stars today | 89 |
+| Stars | 63,920 |
+| Forks | 8,140 |
+| Stars today | 84 |
+
+---
+
+## 3. [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) 🆕
+
+LSPatch: A non-root Xposed framework extending from LSPosed
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,451 |
+| Forks | 1,163 |
+| Stars today | 2 |
+
+---
+
+## 4. [zed-0xff/ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) 🆕
+
+Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 295 |
+| Forks | 74 |
+| Stars today | 4 |
+
+---
+
+## 5. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) 🆕
+
+Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 535 |
+| Forks | 111 |
+| Stars today | 6 |
+
+---
+
+## 6. [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) 🆕
+
+The API and the developer guide for Shizuku and Sui.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 2,727 |
+| Forks | 1,297 |
+| Stars today | 6 |
+
+---
+
+## 7. [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) 🆕
+
+This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 24,095 |
+| Forks | 13,608 |
+| Stars today | 8 |
+
+---
+
+## 8. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) 🆕
+
+Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,125 |
+| Forks | 365 |
+| Stars today | 13 |
+
+---
+
+## 9. [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) 🆕
+
+🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,451 |
+| Forks | 4,910 |
+| Stars today | 13 |
+
+---
+
+## 10. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
+
+Free and Open Source, Distributed, RESTful Search Engine
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 78,457 |
+| Forks | 26,234 |
+| Stars today | 21 |
+
+---
+
+## 11. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
+
+Browse media content with your own rules on Android TV
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 35,830 |
+| Forks | 2,248 |
+| Stars today | 48 |
+
+---
+
+## 12. [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) 🆕
+
+[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,311 |
+| Forks | 394 |
+| Stars today | 36 |
+
+---
+
+## 13. [microg/GmsCore](https://github.com/microg/GmsCore) 🆕
+
+Free implementation of Play Services
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 15,160 |
+| Forks | 3,325 |
+| Stars today | 18 |
+
+---
+
+## 14. [termux/termux-api](https://github.com/termux/termux-api) 🆕
+
+Termux add-on app which exposes device functionality as API to command line programs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 4,573 |
+| Forks | 984 |
+| Stars today | 6 |
+
+---
+
+## 15. [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+
+No-root network monitor, firewall and PCAP dumper for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,042 |
+| Forks | 581 |
+| Stars today | 14 |
+
+---
+
+## 16. [cabaletta/baritone](https://github.com/cabaletta/baritone) 🆕
+
+google maps for block game
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,334 |
+| Forks | 2,085 |
+| Stars today | 5 |
 
 ---

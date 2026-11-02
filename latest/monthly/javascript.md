@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-01T05:56:41Z
-**Total Repositories:** 15
-**New Entries:** 2
-**Quality Score:** 97.33/100
+**Snapshot Time:** 2026-11-02T05:56:19Z
+**Total Repositories:** 16
+**New Entries:** 3
+**Quality Score:** 97.50/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 55,538 |
-| Forks | 3,621 |
-| Stars this month | 31,731 |
+| Stars | 56,583 |
+| Forks | 3,689 |
+| Stars this month | 32,599 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 107,190 |
-| Forks | 7,249 |
-| Stars this month | 15,847 |
+| Stars | 108,017 |
+| Forks | 7,291 |
+| Stars this month | 16,333 |
 
 ---
 
@@ -41,9 +41,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 294,209 |
-| Forks | 43,557 |
-| Stars this month | 25,494 |
+| Stars | 294,945 |
+| Forks | 43,655 |
+| Stars this month | 25,773 |
 
 ---
 
@@ -54,9 +54,9 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 112,298 |
-| Forks | 11,758 |
-| Stars this month | 12,575 |
+| Stars | 112,606 |
+| Forks | 11,786 |
+| Stars this month | 12,709 |
 
 ---
 
@@ -67,9 +67,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 18,345 |
-| Forks | 2,417 |
-| Stars this month | 16,745 |
+| Stars | 18,696 |
+| Forks | 2,466 |
+| Stars this month | 17,036 |
 
 ---
 
@@ -80,59 +80,59 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 36,994 |
-| Forks | 2,636 |
-| Stars this month | 16,214 |
+| Stars | 37,269 |
+| Forks | 2,662 |
+| Stars this month | 16,433 |
 
 ---
 
-## 7. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
+## 7. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,488 |
-| Forks | 1,214 |
-| Stars this month | 2,948 |
+| Stars | 7,500 |
+| Forks | 1,215 |
+| Stars this month | 2,956 |
 
 ---
 
-## 8. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
-
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 57,718 |
-| Forks | 8,495 |
-| Stars this month | 5,883 |
-
----
-
-## 9. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) 🆕
+## 8. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
 
 List of Permanent Free LLM API (API Keys)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 11,833 |
-| Forks | 1,367 |
-| Stars this month | 3,147 |
+| Stars | 11,941 |
+| Forks | 1,380 |
+| Stars this month | 3,130 |
 
 ---
 
-## 10. [mrdoob/three.js](https://github.com/mrdoob/three.js)
+## 9. [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 JavaScript 3D Library.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,322 |
-| Forks | 36,854 |
-| Stars this month | 1,547 |
+| Stars | 117,393 |
+| Forks | 36,886 |
+| Stars this month | 1,569 |
+
+---
+
+## 10. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 🆕
+
+Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 3,073 |
+| Forks | 296 |
+| Stars this month | 1,590 |
 
 ---
 
@@ -143,60 +143,73 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 49,360 |
-| Forks | 7,648 |
-| Stars this month | 557 |
+| Stars | 49,373 |
+| Forks | 7,649 |
+| Stars this month | 575 |
 
 ---
 
-## 12. [androoAGI/starnet](https://github.com/androoAGI/starnet)
-
-A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 1,676 |
-| Forks | 346 |
-| Stars this month | 923 |
-
----
-
-## 13. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 181,635 |
-| Forks | 9,999 |
-| Stars this month | 33,792 |
-
----
-
-## 14. [sveltejs/svelte](https://github.com/sveltejs/svelte)
+## 12. [sveltejs/svelte](https://github.com/sveltejs/svelte)
 
 web development for the rest of us
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 88,513 |
-| Forks | 6,832 |
-| Stars this month | 715 |
+| Stars | 88,524 |
+| Forks | 6,852 |
+| Stars this month | 733 |
 
 ---
 
-## 15. [qist/tvbox](https://github.com/qist/tvbox)
+## 13. [qist/tvbox](https://github.com/qist/tvbox)
 
 OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,501 |
-| Forks | 4,366 |
-| Stars this month | 954 |
+| Stars | 12,526 |
+| Forks | 4,368 |
+| Stars this month | 968 |
+
+---
+
+## 14. [greensock/GSAP](https://github.com/greensock/GSAP) 🆕
+
+GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 30,037 |
+| Forks | 2,324 |
+| Stars this month | 1,315 |
+
+---
+
+## 15. [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) 🆕
+
+🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 4,530 |
+| Forks | 614 |
+| Stars this month | 1,298 |
+
+---
+
+## 16. [androoAGI/starnet](https://github.com/androoAGI/starnet)
+
+A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 1,691 |
+| Forks | 347 |
+| Stars this month | 863 |
 
 ---

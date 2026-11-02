@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-01T05:56:08Z
-**Total Repositories:** 10
-**New Entries:** 7
+**Snapshot Time:** 2026-11-02T05:55:39Z
+**Total Repositories:** 8
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,125 +15,99 @@ Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 6,786 |
-| Forks | 411 |
-| Stars today | 1,044 |
+| Stars | 7,671 |
+| Forks | 474 |
+| Stars today | 1,146 |
 
 ---
 
-## 2. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
+## 2. [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) 🆕
 
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 181,634 |
-| Forks | 9,999 |
-| Stars today | 578 |
+| Stars | 1,758 |
+| Forks | 435 |
+| Stars today | 93 |
 
 ---
 
-## 3. [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) 🆕
+## 3. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) 🆕
 
-A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
+免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,097 |
-| Forks | 222 |
-| Stars today | 6 |
+| Stars | 14,443 |
+| Forks | 1,021 |
+| Stars today | 141 |
 
 ---
 
-## 4. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-
-Production-grade engineering skills for AI coding agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 112,297 |
-| Forks | 11,758 |
-| Stars today | 231 |
-
----
-
-## 5. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
-
-Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 107,190 |
-| Forks | 7,249 |
-| Stars today | 694 |
-
----
-
-## 6. [mrdoob/three.js](https://github.com/mrdoob/three.js) 🆕
+## 4. [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 JavaScript 3D Library.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,322 |
-| Forks | 36,854 |
-| Stars today | 72 |
+| Stars | 117,393 |
+| Forks | 36,886 |
+| Stars today | 64 |
 
 ---
 
-## 7. [maillab/cloud-mail](https://github.com/maillab/cloud-mail) 🆕
-
-An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 15,202 |
-| Forks | 22,981 |
-| Stars today | 49 |
-
----
-
-## 8. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) 🆕
+## 5. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
 
 Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 18,345 |
-| Forks | 2,417 |
-| Stars today | 626 |
+| Stars | 18,696 |
+| Forks | 2,466 |
+| Stars today | 317 |
 
 ---
 
-## 9. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) 🆕
+## 6. [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) 🆕
 
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+⭐️ Companies that don't have a broken hiring process
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 61,875 |
-| Forks | 12,074 |
-| Stars today | 338 |
+| Stars | 53,083 |
+| Forks | 3,986 |
+| Stars today | 26 |
 
 ---
 
-## 10. [vernesong/OpenClash](https://github.com/vernesong/OpenClash) 🆕
+## 7. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
 
-A Clash Client For OpenWrt
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 28,026 |
-| Forks | 4,059 |
-| Stars today | 20 |
+| Stars | 57,901 |
+| Forks | 8,518 |
+| Stars today | 157 |
+
+---
+
+## 8. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 108,017 |
+| Forks | 7,291 |
+| Stars today | 757 |
 
 ---

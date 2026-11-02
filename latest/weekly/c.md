@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-01T05:56:32Z
-**Total Repositories:** 11
-**New Entries:** 1
-**Quality Score:** 96.36/100
+**Snapshot Time:** 2026-11-02T05:56:08Z
+**Total Repositories:** 10
+**New Entries:** 3
+**Quality Score:** 96.00/100
 
 ---
 
@@ -15,136 +15,123 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 140,364 |
-| Forks | 8,682 |
-| Stars this week | 652 |
+| Stars | 140,401 |
+| Forks | 8,687 |
+| Stars this week | 601 |
 
 ---
 
-## 2. [openssl/openssl](https://github.com/openssl/openssl)
-
-General purpose TLS and crypto library
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 31,148 |
-| Forks | 11,570 |
-| Stars this week | 121 |
-
----
-
-## 3. [hashcat/hashcat](https://github.com/hashcat/hashcat)
+## 2. [hashcat/hashcat](https://github.com/hashcat/hashcat)
 
 World's fastest and most advanced password recovery utility
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 27,217 |
-| Forks | 3,597 |
-| Stars this week | 172 |
+| Stars | 27,222 |
+| Forks | 3,599 |
+| Stars this week | 173 |
 
 ---
 
-## 4. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+## 3. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 
 Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,970 |
-| Forks | 10,321 |
-| Stars this week | 88 |
+| Stars | 16,976 |
+| Forks | 10,326 |
+| Stars this week | 82 |
 
 ---
 
-## 5. [systemd/systemd](https://github.com/systemd/systemd)
-
-The systemd System and Service Manager
+## 4. [snesrev/zelda3](https://github.com/snesrev/zelda3)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,971 |
-| Forks | 4,795 |
-| Stars this week | 78 |
+| Stars | 4,975 |
+| Forks | 470 |
+| Stars this week | 65 |
 
 ---
 
-## 6. [snesrev/zelda3](https://github.com/snesrev/zelda3)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,965 |
-| Forks | 469 |
-| Stars this week | 56 |
-
----
-
-## 7. [micropython/micropython](https://github.com/micropython/micropython)
+## 5. [micropython/micropython](https://github.com/micropython/micropython)
 
 MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 22,177 |
-| Forks | 9,034 |
-| Stars this week | 33 |
+| Stars | 22,178 |
+| Forks | 9,035 |
+| Stars this week | 29 |
 
 ---
 
-## 8. [valkey-io/valkey](https://github.com/valkey-io/valkey)
+## 6. [lvgl/lvgl](https://github.com/lvgl/lvgl) 🆕
+
+LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 25,071 |
+| Forks | 4,422 |
+| Stars this week | 68 |
+
+---
+
+## 7. [valkey-io/valkey](https://github.com/valkey-io/valkey)
 
 A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 27,571 |
-| Forks | 1,520 |
-| Stars this week | 70 |
+| Stars | 27,580 |
+| Forks | 1,538 |
+| Stars this week | 67 |
 
 ---
 
-## 9. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+## 8. [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) 🆕
 
-OBS Studio - Free and open source software for live streaming and screen recording
+An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 78,722 |
-| Forks | 10,998 |
-| Stars this week | 615 |
+| Stars | 7,047 |
+| Forks | 3,010 |
+| Stars this week | 19 |
 
 ---
 
-## 10. [radareorg/radare2](https://github.com/radareorg/radare2) 🆕
-
-UNIX-like reverse engineering framework and command-line toolset
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 25,223 |
-| Forks | 3,396 |
-| Stars this week | 91 |
-
----
-
-## 11. [curl/curl](https://github.com/curl/curl)
+## 9. [curl/curl](https://github.com/curl/curl)
 
 A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 43,334 |
-| Forks | 7,472 |
-| Stars this week | 131 |
+| Stars | 43,348 |
+| Forks | 7,475 |
+| Stars this week | 124 |
+
+---
+
+## 10. [meta/zstd](https://github.com/meta/zstd) 🆕
+
+Zstandard - Fast real-time compression algorithm
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 28,151 |
+| Forks | 2,667 |
+| Stars this week | 58 |
 
 ---

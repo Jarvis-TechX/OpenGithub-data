@@ -1,10 +1,10 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-01T05:56:06Z
-**Total Repositories:** 14
-**New Entries:** 5
-**Quality Score:** 97.14/100
+**Snapshot Time:** 2026-11-02T05:55:36Z
+**Total Repositories:** 17
+**New Entries:** 11
+**Quality Score:** 95.88/100
 
 ---
 
@@ -15,35 +15,35 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 108,135 |
-| Forks | 9,487 |
-| Stars today | 1,723 |
+| Stars | 109,710 |
+| Forks | 9,585 |
+| Stars today | 1,526 |
 
 ---
 
-## 2. [mattpocock/skills](https://github.com/mattpocock/skills)
+## 2. [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 
-Skills for Real Engineers. Straight from my .agents directory.
+Lightpanda: the headless browser designed for AI and automation
 
 | Metric | Value |
 |--------|-------|
-| Language | Shell |
-| Stars | 308,605 |
-| Forks | 25,975 |
-| Stars today | 883 |
+| Language | Zig |
+| Stars | 40,436 |
+| Forks | 1,976 |
+| Stars today | 825 |
 
 ---
 
-## 3. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) 🆕
+## 3. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 🆕
 
-Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+Kronos: A Foundation Model for the Language of Financial Markets
 
 | Metric | Value |
 |--------|-------|
-| Language | Shell |
-| Stars | 31,337 |
-| Forks | 4,292 |
-| Stars today | 742 |
+| Language | Python |
+| Stars | 45,551 |
+| Forks | 7,520 |
+| Stars today | 630 |
 
 ---
 
@@ -52,138 +52,176 @@ Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skill
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 35,980 |
-| Forks | 8,810 |
-| Stars today | 1,148 |
+| Stars | 38,638 |
+| Forks | 8,948 |
+| Stars today | 3,094 |
 
 ---
 
-## 5. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 12,478 |
-| Forks | 2,446 |
-| Stars today | 1,092 |
-
----
-
-## 6. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+## 5. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
 Open-source Grok Bot alternative with a virtual machine that bots can use
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,856 |
-| Forks | 1,369 |
-| Stars today | 1,303 |
+| Stars | 10,785 |
+| Forks | 1,477 |
+| Stars today | 922 |
 
 ---
 
-## 7. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 6. [public-apis/public-apis](https://github.com/public-apis/public-apis) 🆕
 
-The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+A collective list of free APIs
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 494,925 |
+| Forks | 55,235 |
+| Stars today | 324 |
+
+---
+
+## 7. [cjpais/Handy](https://github.com/cjpais/Handy) 🆕
+
+A free, open source, and extensible speech-to-text application that works completely offline.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 98,497 |
-| Forks | 5,814 |
-| Stars today | 1,338 |
+| Stars | 36,783 |
+| Forks | 3,464 |
+| Stars today | 339 |
 
 ---
 
-## 8. [obra/superpowers](https://github.com/obra/superpowers)
+## 8. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
-An agentic skills framework & software development methodology that works.
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 310,190 |
-| Forks | 27,605 |
-| Stars today | 665 |
+| Stars | 32,598 |
+| Forks | 4,437 |
+| Stars today | 967 |
 
 ---
 
-## 9. [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+## 9. [kornia/kornia](https://github.com/kornia/kornia) 🆕
 
-Lightpanda: the headless browser designed for AI and automation
-
-| Metric | Value |
-|--------|-------|
-| Language | Zig |
-| Stars | 39,389 |
-| Forks | 1,918 |
-| Stars today | 929 |
-
----
-
-## 10. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-
-DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+🐍 Geometric Computer Vision Library for Spatial AI
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 53,051 |
-| Forks | 6,495 |
-| Stars today | 1,034 |
+| Stars | 11,892 |
+| Forks | 1,473 |
+| Stars today | 101 |
 
 ---
 
-## 11. [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) 🆕
+## 10. [beenuar/AiSOC](https://github.com/beenuar/AiSOC) 🆕
 
-Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
+Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
 
 | Metric | Value |
 |--------|-------|
-| Language | JavaScript |
-| Stars | 6,786 |
-| Forks | 411 |
-| Stars today | 1,044 |
+| Language | Python |
+| Stars | 6,381 |
+| Forks | 655 |
+| Stars today | 446 |
 
 ---
 
-## 12. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 🆕
+## 11. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
 
-Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 42,268 |
-| Forks | 6,520 |
-| Stars today | 116 |
+| Stars | 13,478 |
+| Forks | 2,614 |
+| Stars today | 941 |
 
 ---
 
-## 13. [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) 🆕
+## 12. [anomalyco/hex](https://github.com/anomalyco/hex) 🆕
 
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+Local voice dictation for mac, windows and linux
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,537 |
+| Forks | 205 |
+| Stars today | 1,179 |
+
+---
+
+## 13. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) 🆕
+
+Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 9,669 |
+| Forks | 1,195 |
+| Stars today | 175 |
+
+---
+
+## 14. [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) 🆕
+
+LIST OF ALL MY JAILBREAKS
+
+| Metric | Value |
+|--------|-------|
+| Stars | 13,145 |
+| Forks | 1,965 |
+| Stars today | 726 |
+
+---
+
+## 15. [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) 🆕
+
+In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+
+| Metric | Value |
+|--------|-------|
+| Language | Jupyter Notebook |
+| Stars | 40,511 |
+| Forks | 6,503 |
+| Stars today | 1,191 |
+
+---
+
+## 16. [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) 🆕
+
+FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 86,105 |
-| Forks | 20,558 |
-| Stars today | 342 |
+| Stars | 15,560 |
+| Forks | 1,555 |
+| Stars today | 242 |
 
 ---
 
-## 14. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) 🆕
+## 17. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) 🆕
 
-Free and open-source macOS menu bar toolkit.
+Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
 | Metric | Value |
 |--------|-------|
-| Language | Swift |
-| Stars | 32,035 |
-| Forks | 1,544 |
-| Stars today | 501 |
+| Language | C++ |
+| Stars | 39,491 |
+| Forks | 2,133 |
+| Stars today | 38 |
 
 ---

@@ -1,152 +1,125 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-01T05:56:16Z
-**Total Repositories:** 11
+**Snapshot Time:** 2026-11-02T05:55:47Z
+**Total Repositories:** 9
 **New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [JustVugg/colibri](https://github.com/JustVugg/colibri)
+## 1. [n64decomp/sm64](https://github.com/n64decomp/sm64) 🆕
 
-Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 45,420 |
-| Forks | 5,185 |
-| Stars today | 190 |
+| Stars | 8,952 |
+| Forks | 1,671 |
+| Stars today | 4 |
 
 ---
 
-## 2. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) 🆕
+## 2. [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) 🆕
 
-Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+This project aims to enhance the working environment on Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,970 |
-| Forks | 10,321 |
+| Stars | 34,203 |
+| Forks | 1,386 |
+| Stars today | 18 |
+
+---
+
+## 3. [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone) 🆕
+
+Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 779 |
+| Forks | 514 |
+
+---
+
+## 4. [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore) 🆕
+
+A new lightweight, hybrid routing mesh protocol for packet radios
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 3,964 |
+| Forks | 1,532 |
 | Stars today | 7 |
 
 ---
 
-## 3. [mbm110/MSN-GUARD](https://github.com/mbm110/MSN-GUARD) 🆕
-
-Device-wide Android VPN for difficult networks: WireGuard, MASQUE, WARP-on-WARP, Psiphon, Tor, Foxy and SHARD — with Rust core, endpoint discovery, MTU scanning, multiple TUN engines, profiles and verified connections.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 712 |
-| Forks | 122 |
-| Stars today | 5 |
-
----
-
-## 4. [mgba-emu/mgba](https://github.com/mgba-emu/mgba) 🆕
-
-mGBA Game Boy Advance Emulator
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 7,553 |
-| Forks | 1,151 |
-| Stars today | 6 |
-
----
-
-## 5. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-
-Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 140,364 |
-| Forks | 8,682 |
-| Stars today | 70 |
-
----
-
-## 6. [meta/zstd](https://github.com/meta/zstd)
+## 5. [meta/zstd](https://github.com/meta/zstd)
 
 Zstandard - Fast real-time compression algorithm
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,141 |
+| Stars | 28,151 |
 | Forks | 2,667 |
-| Stars today | 12 |
+| Stars today | 11 |
 
 ---
 
-## 7. [espressif/esp-idf](https://github.com/espressif/esp-idf) 🆕
+## 6. [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) 🆕
 
-Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+FFmpeg for browser, powered by WebAssembly
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 19,394 |
-| Forks | 8,579 |
-| Stars today | 9 |
-
----
-
-## 8. [brunodev85/winlator](https://github.com/brunodev85/winlator) 🆕
-
-Android application for running Windows applications with Wine and Box86/Box64
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 19,747 |
-| Forks | 1,916 |
-| Stars today | 30 |
-
----
-
-## 9. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 🆕
-
-Display and control your Android device
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 153,698 |
-| Forks | 14,111 |
-| Stars today | 79 |
-
----
-
-## 10. [86Box/86Box](https://github.com/86Box/86Box) 🆕
-
-Emulator of x86-based machines.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,967 |
-| Forks | 632 |
+| Stars | 17,937 |
+| Forks | 1,126 |
 | Stars today | 3 |
 
 ---
 
-## 11. [openssl/openssl](https://github.com/openssl/openssl) 🆕
+## 7. [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) 🆕
 
-General purpose TLS and crypto library
+🐬 Feature-rich, stable and customizable Flipper Firmware
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,148 |
-| Forks | 11,570 |
-| Stars today | 13 |
+| Stars | 9,348 |
+| Forks | 606 |
+| Stars today | 2 |
+
+---
+
+## 8. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) 🆕
+
+ehviewer，用爱发电，快乐前行
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 28,541 |
+| Forks | 761 |
+| Stars today | 43 |
+
+---
+
+## 9. [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) 🆕
+
+Flipper Zero firmware source code
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,820 |
+| Forks | 3,514 |
+| Stars today | 9 |
 
 ---

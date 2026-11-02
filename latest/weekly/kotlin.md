@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-01T05:56:35Z
-**Total Repositories:** 15
-**New Entries:** 3
-**Quality Score:** 97.33/100
+**Snapshot Time:** 2026-11-02T05:56:12Z
+**Total Repositories:** 12
+**New Entries:** 2
+**Quality Score:** 96.67/100
 
 ---
 
@@ -13,87 +13,87 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,181 |
-| Forks | 664 |
-| Stars this week | 599 |
+| Stars | 10,253 |
+| Forks | 667 |
+| Stars this week | 529 |
 
 ---
 
-## 2. [CYQawa/YunX](https://github.com/CYQawa/YunX)
-
-✨一个安卓 网盘解析 + 视频平台解析 下载app✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,119 |
-| Forks | 318 |
-| Stars this week | 675 |
-
----
-
-## 3. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
-
-Kernel-based Android Root Solution & KPM
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,780 |
-| Forks | 1,394 |
-| Stars this week | 134 |
-
----
-
-## 4. [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches)
+## 2. [rushiranpise/morphe-patches](https://github.com/rushiranpise/morphe-patches)
 
 New mask, same task. All patches answer to Doom.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 987 |
+| Stars | 994 |
 | Forks | 69 |
-| Stars this week | 67 |
+| Stars this week | 60 |
 
 ---
 
-## 5. [subhra74/xdm](https://github.com/subhra74/xdm)
+## 3. [subhra74/xdm](https://github.com/subhra74/xdm)
 
 Fast, reliable download accelerator and video downloader since 2013
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,235 |
-| Forks | 1,213 |
-| Stars this week | 180 |
+| Stars | 8,253 |
+| Forks | 1,214 |
+| Stars this week | 189 |
 
 ---
 
-## 6. [Lelonio/Square](https://github.com/Lelonio/Square)
+## 4. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
 
-Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
+BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 459 |
-| Forks | 44 |
-| Stars this week | 121 |
+| Stars | 5,204 |
+| Forks | 526 |
+| Stars this week | 700 |
 
 ---
 
-## 7. [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)
+## 5. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 
-🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 15,280 |
-| Forks | 658 |
-| Stars this week | 125 |
+| Stars | 6,817 |
+| Forks | 1,403 |
+| Stars this week | 135 |
+
+---
+
+## 6. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music)
+
+A modern sleek music player.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 467 |
+| Forks | 32 |
+| Stars this week | 224 |
+
+---
+
+## 7. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+
+A Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 19,962 |
+| Forks | 4,850 |
+| Stars this week | 327 |
 
 ---
 
@@ -104,99 +104,60 @@ A private messenger for Android.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 29,563 |
-| Forks | 6,931 |
+| Stars | 29,569 |
+| Forks | 6,932 |
 | Stars this week | 51 |
 
 ---
 
-## 9. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music)
-
-A modern sleek music player.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 404 |
-| Forks | 30 |
-| Stars this week | 177 |
-
----
-
-## 10. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+## 9. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 
 The Magic Mask for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 63,658 |
-| Forks | 19,128 |
-| Stars this week | 246 |
+| Stars | 63,692 |
+| Forks | 19,148 |
+| Stars this week | 255 |
 
 ---
 
-## 11. [bjzhou/PhotonCamera](https://github.com/bjzhou/PhotonCamera)
+## 10. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) 🆕
 
-Open-source Android camera application focused on static photography
+Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 610 |
-| Forks | 61 |
-| Stars this week | 66 |
+| Stars | 2,534 |
+| Forks | 151 |
+| Stars this week | 203 |
 
 ---
 
-## 12. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
+## 11. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland) 🆕
+
+Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 390 |
+| Forks | 54 |
+| Stars this week | 67 |
+
+---
+
+## 12. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
 
 Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 32,556 |
-| Forks | 3,503 |
-| Stars this week | 492 |
-
----
-
-## 13. [tiann/KernelSU](https://github.com/tiann/KernelSU) 🆕
-
-A Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 19,926 |
-| Forks | 4,831 |
-| Stars this week | 327 |
-
----
-
-## 14. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
-
-BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 5,061 |
-| Forks | 509 |
-| Stars this week | 722 |
-
----
-
-## 15. [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) 🆕
-
-ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,966 |
-| Forks | 83 |
-| Stars this week | 147 |
+| Stars | 32,608 |
+| Forks | 3,512 |
+| Stars this week | 504 |
 
 ---

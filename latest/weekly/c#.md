@@ -1,23 +1,23 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-01T05:56:36Z
-**Total Repositories:** 17
-**New Entries:** 4
+**Snapshot Time:** 2026-11-02T05:56:13Z
+**Total Repositories:** 16
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
+## 1. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
 
-A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
+PCL 社区版 由社区开发者维护与管理
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 3,664 |
-| Forks | 109 |
-| Stars this week | 707 |
+| Language | C# |
+| Stars | 5,041 |
+| Forks | 467 |
+| Stars this week | 158 |
 
 ---
 
@@ -28,35 +28,35 @@ A modern launcher for downloading, installing, and running apps from GitHub and 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,499 |
-| Forks | 1,295 |
-| Stars this week | 1,003 |
+| Stars | 17,556 |
+| Forks | 1,301 |
+| Stars this week | 795 |
 
 ---
 
-## 3. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+## 3. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
-PCL 社区版 由社区开发者维护与管理
+Windows/macOS/Linux GUI client for GIT users
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,025 |
-| Forks | 464 |
-| Stars this week | 191 |
+| Stars | 6,323 |
+| Forks | 578 |
+| Stars this week | 88 |
 
 ---
 
-## 4. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+## 4. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
-WinUI app for building smaller, customized Windows 11 images.
+The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,467 |
-| Forks | 1,643 |
-| Stars this week | 411 |
+| Stars | 58,912 |
+| Forks | 5,752 |
+| Stars this week | 342 |
 
 ---
 
@@ -67,9 +67,9 @@ Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment proces
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,876 |
+| Stars | 7,883 |
 | Forks | 2,054 |
-| Stars this week | 55 |
+| Stars this week | 42 |
 
 ---
 
@@ -80,9 +80,9 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 119,669 |
-| Forks | 16,233 |
-| Stars this week | 730 |
+| Stars | 119,759 |
+| Forks | 16,244 |
+| Stars this week | 725 |
 
 ---
 
@@ -93,35 +93,35 @@ OfficeCLI is the first and best Office suite purpose-built for AI agents to read
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 32,888 |
-| Forks | 2,235 |
-| Stars this week | 499 |
+| Stars | 32,922 |
+| Forks | 2,239 |
+| Stars this week | 486 |
 
 ---
 
-## 8. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
+## 8. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+WinUI app for building smaller, customized Windows 11 images.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,131 |
-| Forks | 710 |
-| Stars this week | 112 |
+| Stars | 21,502 |
+| Forks | 1,649 |
+| Stars this week | 399 |
 
 ---
 
-## 9. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+## 9. [cyanfish/naps2](https://github.com/cyanfish/naps2) 🆕
 
-The Free Software Media System - Server Backend & API
+Scan documents to PDF and more, as simply as possible.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 58,877 |
-| Forks | 5,748 |
-| Stars this week | 382 |
+| Stars | 4,730 |
+| Forks | 485 |
+| Stars this week | 48 |
 
 ---
 
@@ -132,99 +132,86 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 55,982 |
+| Stars | 55,993 |
 | Forks | 8,522 |
-| Stars this week | 139 |
+| Stars this week | 124 |
 
 ---
 
-## 11. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 11. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
+
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,145 |
+| Forks | 710 |
+| Stars this week | 122 |
+
+---
+
+## 12. [dotnet/runtime](https://github.com/dotnet/runtime)
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,401 |
-| Forks | 5,803 |
-| Stars this week | 27 |
+| Stars | 18,404 |
+| Forks | 5,825 |
+| Stars this week | 22 |
 
 ---
 
-## 12. [files-community/Files](https://github.com/files-community/Files)
+## 13. [actions/runner](https://github.com/actions/runner) 🆕
 
-A modern file manager that helps users organize their files and folders.
+The Runner for GitHub Actions 🚀
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 46,416 |
-| Forks | 3,008 |
-| Stars this week | 263 |
+| Stars | 6,375 |
+| Forks | 1,477 |
+| Stars this week | 17 |
 
 ---
 
-## 13. [Kareadita/Kavita](https://github.com/Kareadita/Kavita) 🆕
+## 14. [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
 
 Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,987 |
-| Forks | 690 |
-| Stars this week | 71 |
+| Stars | 11,993 |
+| Forks | 694 |
+| Stars this week | 63 |
 
 ---
 
-## 14. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 15. [files-community/Files](https://github.com/files-community/Files)
 
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+A modern file manager that helps users organize their files and folders.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,497 |
-| Forks | 12,340 |
-| Stars this week | 24 |
+| Stars | 46,443 |
+| Forks | 3,012 |
+| Stars this week | 262 |
 
 ---
 
-## 15. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
+## 16. [dotnet/dotnet](https://github.com/dotnet/dotnet) 🆕
 
-Windows/macOS/Linux GUI client for GIT users
+Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,313 |
-| Forks | 577 |
-| Stars this week | 83 |
-
----
-
-## 16. [riyasy/FlyPhotos](https://github.com/riyasy/FlyPhotos) 🆕
-
-A blazing fast ultra-light photo viewer replacement for Windows. Works similar to Picasa Photo Viewer.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 937 |
-| Forks | 34 |
-| Stars this week | 48 |
-
----
-
-## 17. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) 🆕
-
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 19,813 |
-| Forks | 4,513 |
-| Stars this week | 30 |
+| Stars | 1,317 |
+| Forks | 349 |
+| Stars this week | 11 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-01T05:56:54Z
+**Snapshot Time:** 2026-11-02T05:56:33Z
 **Total Repositories:** 17
-**New Entries:** 1
+**New Entries:** 4
 **Quality Score:** 97.65/100
 
 ---
@@ -15,48 +15,48 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,467 |
-| Forks | 1,643 |
-| Stars this month | 1,894 |
+| Stars | 21,502 |
+| Forks | 1,649 |
+| Stars this month | 1,933 |
 
 ---
 
-## 2. [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher)
-
-A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 3,664 |
-| Forks | 109 |
-| Stars this month | 2,564 |
-
----
-
-## 3. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
+## 2. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
 
 .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,894 |
+| Stars | 26,908 |
 | Forks | 3,795 |
-| Stars this month | 756 |
+| Stars this month | 766 |
 
 ---
 
-## 4. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
+## 3. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
 
 Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,598 |
+| Stars | 15,627 |
 | Forks | 1,618 |
-| Stars this month | 1,034 |
+| Stars this month | 1,050 |
+
+---
+
+## 4. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+
+PCL 社区版 由社区开发者维护与管理
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,041 |
+| Forks | 467 |
+| Stars this month | 728 |
 
 ---
 
@@ -67,48 +67,48 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,499 |
-| Forks | 1,295 |
-| Stars this month | 1,763 |
+| Stars | 17,556 |
+| Forks | 1,301 |
+| Stars this month | 1,791 |
 
 ---
 
-## 6. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+## 6. [cyanfish/naps2](https://github.com/cyanfish/naps2) 🆕
 
-PCL 社区版 由社区开发者维护与管理
+Scan documents to PDF and more, as simply as possible.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,025 |
-| Forks | 464 |
-| Stars this month | 709 |
+| Stars | 4,730 |
+| Forks | 485 |
+| Stars this month | 170 |
 
 ---
 
-## 7. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 38,497 |
-| Forks | 12,340 |
-| Stars this month | 116 |
-
----
-
-## 8. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
+## 7. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
 
 Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 3,077 |
-| Forks | 410 |
-| Stars this month | 443 |
+| Stars | 3,080 |
+| Forks | 409 |
+| Stars this month | 444 |
+
+---
+
+## 8. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 38,499 |
+| Forks | 12,339 |
+| Stars this month | 117 |
 
 ---
 
@@ -119,110 +119,110 @@ A Launcher that Downloads and Updates Applications from Github Releases
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,049 |
+| Stars | 2,054 |
 | Forks | 67 |
-| Stars this month | 404 |
+| Stars this month | 405 |
 
 ---
 
-## 10. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,023 |
-| Forks | 252 |
-| Stars this month | 496 |
-
----
-
-## 11. [2dust/v2rayN](https://github.com/2dust/v2rayN)
-
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 119,669 |
-| Forks | 16,233 |
-| Stars this month | 2,927 |
-
----
-
-## 12. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
-
-Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,702 |
-| Forks | 3,103 |
-| Stars this month | 260 |
-
----
-
-## 13. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
-
-PowerShell for every system!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 55,982 |
-| Forks | 8,522 |
-| Stars this month | 639 |
-
----
-
-## 14. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 10. [dotnet/runtime](https://github.com/dotnet/runtime)
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,401 |
-| Forks | 5,803 |
+| Stars | 18,404 |
+| Forks | 5,825 |
 | Stars this month | 144 |
 
 ---
 
-## 15. [greenshot/greenshot](https://github.com/greenshot/greenshot)
+## 11. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+
+Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 17,712 |
+| Forks | 3,106 |
+| Stars this month | 266 |
+
+---
+
+## 12. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) 🆕
+
+GUI application to analyze game files
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 8,801 |
+| Forks | 1,038 |
+| Stars this month | 360 |
+
+---
+
+## 13. [greenshot/greenshot](https://github.com/greenshot/greenshot)
 
 Greenshot for Windows - for more information look here:
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,229 |
-| Forks | 718 |
-| Stars this month | 106 |
+| Stars | 5,233 |
+| Forks | 719 |
+| Stars this month | 108 |
 
 ---
 
-## 16. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
+## 14. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 8,032 |
+| Forks | 253 |
+| Stars this month | 507 |
+
+---
+
+## 15. [Radarr/Radarr](https://github.com/Radarr/Radarr)
 
 Movie organizer/manager for usenet and torrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,689 |
-| Forks | 1,251 |
-| Stars this month | 259 |
+| Stars | 14,695 |
+| Forks | 1,252 |
+| Stars this month | 258 |
 
 ---
 
-## 17. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+## 16. [LorisYounger/VPet](https://github.com/LorisYounger/VPet) 🆕
 
-B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,140 |
-| Forks | 1,927 |
-| Stars this month | 266 |
+| Stars | 7,145 |
+| Forks | 710 |
+| Stars this month | 322 |
+
+---
+
+## 17. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
+
+ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 40,577 |
+| Forks | 4,019 |
+| Stars this month | 829 |
 
 ---
