@@ -1,8 +1,8 @@
 # GitHub Trending - Php
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-02T05:56:03Z
-**Total Repositories:** 21
+**Snapshot Time:** 2026-11-03T06:41:36Z
+**Total Repositories:** 20
 **New Entries:** 3
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 65,517 |
-| Forks | 5,907 |
-| Stars this week | 1,696 |
+| Stars | 65,569 |
+| Forks | 5,918 |
+| Stars this week | 730 |
 
 ---
 
@@ -28,9 +28,9 @@ Laravel is a web application framework with expressive, elegant syntax.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 34,990 |
-| Forks | 12,023 |
-| Stars this week | 26 |
+| Stars | 34,986 |
+| Forks | 12,025 |
+| Stars this week | 22 |
 
 ---
 
@@ -41,26 +41,52 @@ The Symfony PHP framework
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,218 |
-| Forks | 9,931 |
-| Stars this week | 30 |
+| Stars | 31,216 |
+| Forks | 9,932 |
+| Stars this week | 20 |
 
 ---
 
-## 4. [nextcloud/server](https://github.com/nextcloud/server)
+## 4. [kimai/kimai](https://github.com/kimai/kimai)
+
+Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,132 |
+| Forks | 880 |
+| Stars this week | 32 |
+
+---
+
+## 5. [metadist/synaplan-nextcloud](https://github.com/metadist/synaplan-nextcloud)
+
+Synaplan AI integration into nextcloud for RAG powered discussions, translations and summaries. Run your own AI platform next to your nextcloud!
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 255 |
+| Forks | 26 |
+| Stars this week | 66 |
+
+---
+
+## 6. [nextcloud/server](https://github.com/nextcloud/server)
 
 ☁️ Nextcloud server, a safe home for all your data
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 37,392 |
-| Forks | 5,332 |
-| Stars this week | 112 |
+| Stars | 37,399 |
+| Forks | 5,334 |
+| Stars this week | 111 |
 
 ---
 
-## 5. [glpi-project/glpi](https://github.com/glpi-project/glpi)
+## 7. [glpi-project/glpi](https://github.com/glpi-project/glpi)
 
 GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 
@@ -69,33 +95,7 @@ GLPI is a Free Asset and IT Management Software package, Data center management,
 | Language | PHP |
 | Stars | 6,547 |
 | Forks | 1,852 |
-| Stars this week | 45 |
-
----
-
-## 6. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
-
-WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 3,501 |
-| Forks | 3,756 |
-| Stars this week | 12 |
-
----
-
-## 7. [grokability/snipe-it](https://github.com/grokability/snipe-it)
-
-A free open source IT asset/license management system
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 15,138 |
-| Forks | 4,050 |
-| Stars this week | 53 |
+| Stars this week | 38 |
 
 ---
 
@@ -106,113 +106,113 @@ A source-available invoice, quote, project and time-tracking app built with Lara
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,449 |
-| Forks | 2,793 |
-| Stars this week | 128 |
+| Stars | 10,472 |
+| Forks | 2,794 |
+| Stars this week | 148 |
 
 ---
 
-## 9. [kimai/kimai](https://github.com/kimai/kimai)
+## 9. [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) 🆕
 
-Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
+A pure PHP library for reading and writing spreadsheet files
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,125 |
-| Forks | 878 |
-| Stars this week | 28 |
+| Stars | 14,003 |
+| Forks | 3,631 |
+| Stars this week | 6 |
 
 ---
 
-## 10. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)
+## 10. [grokability/snipe-it](https://github.com/grokability/snipe-it)
 
-The PHP Unit Testing framework.
+A free open source IT asset/license management system
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 20,077 |
-| Forks | 2,214 |
-| Stars this week | 7 |
+| Stars | 15,140 |
+| Forks | 4,051 |
+| Stars this week | 47 |
 
 ---
 
-## 11. [metadist/synaplan](https://github.com/metadist/synaplan) 🆕
-
-Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 483 |
-| Forks | 58 |
-| Stars this week | 213 |
-
----
-
-## 12. [metadist/synaplan-nextcloud](https://github.com/metadist/synaplan-nextcloud)
-
-Synaplan AI integration into nextcloud for RAG powered discussions, translations and summaries. Run your own AI platform next to your nextcloud!
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 254 |
-| Forks | 26 |
-| Stars this week | 89 |
-
----
-
-## 13. [composer/composer](https://github.com/composer/composer)
+## 11. [composer/composer](https://github.com/composer/composer)
 
 Dependency Manager for PHP
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 29,569 |
+| Stars | 29,567 |
 | Forks | 4,863 |
-| Stars this week | 16 |
+| Stars this week | 14 |
 
 ---
 
-## 14. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr)
-
-Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 7,815 |
-| Forks | 3,600 |
-| Stars this week | 35 |
-
----
-
-## 15. [cedar2025/Xboard](https://github.com/cedar2025/Xboard) 🆕
+## 12. [cedar2025/Xboard](https://github.com/cedar2025/Xboard)
 
 High-performance panel based on V2board secondary development supporting new protocols and new features
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 4,837 |
-| Forks | 1,383 |
-| Stars this week | 38 |
+| Stars | 4,838 |
+| Forks | 1,384 |
+| Stars this week | 35 |
 
 ---
 
-## 16. [filamentphp/filament](https://github.com/filamentphp/filament) 🆕
+## 13. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
 
-A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 32,392 |
-| Forks | 4,236 |
-| Stars this week | 76 |
+| Stars | 3,500 |
+| Forks | 3,760 |
+| Stars this week | 11 |
+
+---
+
+## 14. [metadist/synaplan](https://github.com/metadist/synaplan)
+
+Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 512 |
+| Forks | 61 |
+| Stars this week | 219 |
+
+---
+
+## 15. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)
+
+The PHP Unit Testing framework.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 20,076 |
+| Forks | 2,214 |
+| Stars this week | 8 |
+
+---
+
+## 16. [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
+
+openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,063 |
+| Forks | 622 |
+| Stars this week | 40 |
 
 ---
 
@@ -223,9 +223,9 @@ A powerful open-source UI framework for Laravel • Build and ship apps & admin 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,776 |
+| Stars | 10,782 |
 | Forks | 1,127 |
-| Stars this week | 69 |
+| Stars this week | 67 |
 
 ---
 
@@ -236,47 +236,34 @@ A full-stack framework for Laravel that takes the pain out of building dynamic U
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 23,585 |
-| Forks | 1,756 |
+| Stars | 23,586 |
+| Forks | 1,757 |
 | Stars this week | 8 |
 
 ---
 
-## 19. [wallabag/wallabag](https://github.com/wallabag/wallabag)
+## 19. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) 🆕
 
-wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,038 |
-| Forks | 908 |
-| Stars this week | 18 |
+| Stars | 74,511 |
+| Forks | 25,205 |
+| Stars this week | 167 |
 
 ---
 
-## 20. [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
+## 20. [joomla/joomla-cms](https://github.com/joomla/joomla-cms) 🆕
 
-openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 7,059 |
-| Forks | 619 |
-| Stars this week | 38 |
-
----
-
-## 21. [4jean/lav_sms](https://github.com/4jean/lav_sms)
-
-Laravel School Management System (LAVSMS)
+Home of the Joomla! Content Management System
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,162 |
-| Forks | 709 |
-| Stars this week | 33 |
+| Stars | 5,166 |
+| Forks | 3,887 |
+| Stars this week | 8 |
 
 ---

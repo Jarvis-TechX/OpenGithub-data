@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-02T05:56:19Z
-**Total Repositories:** 16
-**New Entries:** 3
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-11-03T06:41:53Z
+**Total Repositories:** 14
+**New Entries:** 1
+**Quality Score:** 97.14/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 56,583 |
-| Forks | 3,689 |
-| Stars this month | 32,599 |
+| Stars | 57,607 |
+| Forks | 3,749 |
+| Stars this month | 33,474 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 108,017 |
-| Forks | 7,291 |
-| Stars this month | 16,333 |
+| Stars | 108,964 |
+| Forks | 7,339 |
+| Stars this month | 16,952 |
 
 ---
 
@@ -41,9 +41,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 294,945 |
-| Forks | 43,655 |
-| Stars this month | 25,773 |
+| Stars | 295,863 |
+| Forks | 43,781 |
+| Stars this month | 26,123 |
 
 ---
 
@@ -54,9 +54,9 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 112,606 |
-| Forks | 11,786 |
-| Stars this month | 12,709 |
+| Stars | 112,871 |
+| Forks | 11,817 |
+| Stars this month | 12,792 |
 
 ---
 
@@ -67,9 +67,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 18,696 |
-| Forks | 2,466 |
-| Stars this month | 17,036 |
+| Stars | 18,955 |
+| Forks | 2,506 |
+| Stars this month | 17,321 |
 
 ---
 
@@ -80,9 +80,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 37,269 |
-| Forks | 2,662 |
-| Stars this month | 16,433 |
+| Stars | 37,510 |
+| Forks | 2,685 |
+| Stars this month | 16,662 |
 
 ---
 
@@ -91,9 +91,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,500 |
-| Forks | 1,215 |
-| Stars this month | 2,956 |
+| Stars | 7,519 |
+| Forks | 1,218 |
+| Stars this month | 2,975 |
 
 ---
 
@@ -104,9 +104,9 @@ List of Permanent Free LLM API (API Keys)
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 11,941 |
-| Forks | 1,380 |
-| Stars this month | 3,130 |
+| Stars | 12,016 |
+| Forks | 1,390 |
+| Stars this month | 3,068 |
 
 ---
 
@@ -117,48 +117,48 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,393 |
-| Forks | 36,886 |
-| Stars this month | 1,569 |
+| Stars | 117,458 |
+| Forks | 36,900 |
+| Stars this month | 1,610 |
 
 ---
 
-## 10. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 🆕
-
-Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 3,073 |
-| Forks | 296 |
-| Stars this month | 1,590 |
-
----
-
-## 11. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+## 10. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
 🎆Interactive Online Platform that Visualizes Algorithms from Code
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 49,373 |
-| Forks | 7,649 |
-| Stars this month | 575 |
+| Stars | 49,384 |
+| Forks | 7,646 |
+| Stars this month | 588 |
 
 ---
 
-## 12. [sveltejs/svelte](https://github.com/sveltejs/svelte)
+## 11. [sveltejs/svelte](https://github.com/sveltejs/svelte)
 
 web development for the rest of us
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 88,524 |
-| Forks | 6,852 |
-| Stars this month | 733 |
+| Stars | 88,538 |
+| Forks | 6,853 |
+| Stars this month | 738 |
+
+---
+
+## 12. [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)
+
+🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 4,604 |
+| Forks | 621 |
+| Stars this month | 1,357 |
 
 ---
 
@@ -169,47 +169,21 @@ OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,526 |
-| Forks | 4,368 |
-| Stars this month | 968 |
+| Stars | 12,563 |
+| Forks | 4,383 |
+| Stars this month | 988 |
 
 ---
 
-## 14. [greensock/GSAP](https://github.com/greensock/GSAP) 🆕
+## 14. [nodejs/node](https://github.com/nodejs/node) 🆕
 
-GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+Node.js JavaScript runtime ✨🐢🚀✨
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 30,037 |
-| Forks | 2,324 |
-| Stars this month | 1,315 |
-
----
-
-## 15. [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) 🆕
-
-🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 4,530 |
-| Forks | 614 |
-| Stars this month | 1,298 |
-
----
-
-## 16. [androoAGI/starnet](https://github.com/androoAGI/starnet)
-
-A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 1,691 |
-| Forks | 347 |
-| Stars this month | 863 |
+| Stars | 123,205 |
+| Forks | 38,765 |
+| Stars this month | 2,207 |
 
 ---

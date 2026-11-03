@@ -1,125 +1,163 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-02T05:55:47Z
-**Total Repositories:** 9
-**New Entries:** 8
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-03T06:41:19Z
+**Total Repositories:** 12
+**New Entries:** 11
+**Quality Score:** 96.67/100
 
 ---
 
-## 1. [n64decomp/sm64](https://github.com/n64decomp/sm64) 🆕
+## 1. [JustVugg/colibri](https://github.com/JustVugg/colibri) 🆕
 
-A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 8,952 |
-| Forks | 1,671 |
-| Stars today | 4 |
+| Stars | 46,758 |
+| Forks | 5,399 |
+| Stars today | 675 |
 
 ---
 
-## 2. [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) 🆕
+## 2. [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
 
 This project aims to enhance the working environment on Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 34,203 |
-| Forks | 1,386 |
-| Stars today | 18 |
+| Stars | 34,215 |
+| Forks | 1,388 |
+| Stars today | 17 |
 
 ---
 
-## 3. [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone) 🆕
+## 3. [nothings/stb](https://github.com/nothings/stb) 🆕
 
-Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
+stb single-file public domain libraries for C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 779 |
-| Forks | 514 |
+| Stars | 34,932 |
+| Forks | 8,113 |
+| Stars today | 8 |
 
 ---
 
-## 4. [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore) 🆕
+## 4. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 🆕
 
-A new lightweight, hybrid routing mesh protocol for packet radios
+Display and control your Android device
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 3,964 |
-| Forks | 1,532 |
-| Stars today | 7 |
+| Stars | 153,881 |
+| Forks | 14,131 |
+| Stars today | 102 |
 
 ---
 
-## 5. [meta/zstd](https://github.com/meta/zstd)
+## 5. [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) 🆕
 
-Zstandard - Fast real-time compression algorithm
+This is a fork of F4HWN firmwarehttps://github.com/armel/uv-k5-firmware-customby@muzkrand@armel
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,151 |
-| Forks | 2,667 |
-| Stars today | 11 |
-
----
-
-## 6. [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) 🆕
-
-FFmpeg for browser, powered by WebAssembly
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 17,937 |
-| Forks | 1,126 |
+| Stars | 825 |
+| Forks | 226 |
 | Stars today | 3 |
 
 ---
 
-## 7. [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) 🆕
+## 6. [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) 🆕
 
-🐬 Feature-rich, stable and customizable Flipper Firmware
+An opensource OpenWrt variant for mainland China users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 9,348 |
-| Forks | 606 |
-| Stars today | 2 |
+| Stars | 11,849 |
+| Forks | 4,066 |
+| Stars today | 6 |
 
 ---
 
-## 8. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) 🆕
+## 7. [mackron/miniaudio](https://github.com/mackron/miniaudio) 🆕
 
-ehviewer，用爱发电，快乐前行
+Audio playback and capture library written in C, in a single source file.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,541 |
-| Forks | 761 |
-| Stars today | 43 |
+| Stars | 7,479 |
+| Forks | 626 |
+| Stars today | 11 |
 
 ---
 
-## 9. [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) 🆕
-
-Flipper Zero firmware source code
+## 8. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,820 |
-| Forks | 3,514 |
+| Stars | 5,831 |
+| Forks | 968 |
 | Stars today | 9 |
+
+---
+
+## 9. [stackia/rtp2httpd](https://github.com/stackia/rtp2httpd) 🆕
+
+Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 2,308 |
+| Forks | 374 |
+| Stars today | 5 |
+
+---
+
+## 10. [systemd/systemd](https://github.com/systemd/systemd) 🆕
+
+The systemd System and Service Manager
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 16,990 |
+| Forks | 4,803 |
+| Stars today | 7 |
+
+---
+
+## 11. [opa334/Dopamine](https://github.com/opa334/Dopamine) 🆕
+
+Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 7,184 |
+| Forks | 6,511 |
+| Stars today | 20 |
+
+---
+
+## 12. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp) 🆕
+
+Static recompilation runtime libraries for PlayStation 3 titles.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 619 |
+| Forks | 92 |
+| Stars today | 3 |
 
 ---

@@ -1,8 +1,8 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-02T05:56:05Z
-**Total Repositories:** 20
+**Snapshot Time:** 2026-11-03T06:41:38Z
+**Total Repositories:** 19
 **New Entries:** 4
 **Quality Score:** 100.00/100
 
@@ -15,22 +15,22 @@ Make humans and AI agents work as one team — open-source and self-hostable.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 54,574 |
-| Forks | 7,179 |
-| Stars this week | 799 |
+| Stars | 54,680 |
+| Forks | 7,196 |
+| Stars this week | 827 |
 
 ---
 
-## 2. [netbirdio/netbird](https://github.com/netbirdio/netbird)
+## 2. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
 
-NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
+Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,543 |
-| Forks | 1,818 |
-| Stars this week | 322 |
+| Stars | 57,365 |
+| Forks | 8,781 |
+| Stars this week | 985 |
 
 ---
 
@@ -41,48 +41,48 @@ Define and run multi-container applications with Docker
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,568 |
-| Forks | 5,900 |
-| Stars this week | 136 |
+| Stars | 38,582 |
+| Forks | 5,901 |
+| Stars this week | 146 |
 
 ---
 
-## 4. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+## 4. [netbirdio/netbird](https://github.com/netbirdio/netbird)
 
-Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 57,232 |
-| Forks | 8,760 |
-| Stars this week | 1,067 |
+| Stars | 30,594 |
+| Forks | 1,820 |
+| Stars this week | 347 |
 
 ---
 
-## 5. [tailscale/tailscale](https://github.com/tailscale/tailscale)
+## 5. [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail)
 
-The easiest, most secure way to use WireGuard and 2FA.
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,499 |
-| Forks | 3,408 |
-| Stars this week | 441 |
+| Stars | 16,174 |
+| Forks | 1,801 |
+| Stars this week | 214 |
 
 ---
 
-## 6. [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
+## 6. [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+Cloudflare Tunnel client
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,996 |
-| Forks | 1,794 |
-| Stars this week | 91 |
+| Stars | 16,413 |
+| Forks | 1,515 |
+| Stars this week | 156 |
 
 ---
 
@@ -93,177 +93,164 @@ Like Prometheus, but for logs.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 29,107 |
-| Forks | 4,167 |
+| Stars | 29,112 |
+| Forks | 4,169 |
 | Stars this week | 59 |
 
 ---
 
-## 8. [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
+## 8. [tailscale/tailscale](https://github.com/tailscale/tailscale)
 
-Cloudflare Tunnel client
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 16,395 |
-| Forks | 1,514 |
-| Stars this week | 158 |
-
----
-
-## 9. [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) 🆕
-
-BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr
+The easiest, most secure way to use WireGuard and 2FA.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,151 |
-| Forks | 1,796 |
-| Stars this week | 190 |
+| Stars | 38,554 |
+| Forks | 3,413 |
+| Stars this week | 431 |
 
 ---
 
-## 10. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+## 9. [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
 
-RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 93,321 |
-| Forks | 11,202 |
-| Stars this week | 501 |
+| Stars | 18,003 |
+| Forks | 1,795 |
+| Stars this week | 96 |
 
 ---
 
-## 11. [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) 🆕
-
-Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 49,120 |
-| Forks | 12,618 |
-| Stars this week | 596 |
-
----
-
-## 12. [hashicorp/nomad](https://github.com/hashicorp/nomad)
-
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 17,068 |
-| Forks | 2,153 |
-| Stars this week | 38 |
-
----
-
-## 13. [superplanehq/superplane](https://github.com/superplanehq/superplane)
-
-Open source factory for one-shot engineering
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,513 |
-| Forks | 687 |
-| Stars this week | 321 |
-
----
-
-## 14. [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+## 10. [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
 
 Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,878 |
+| Stars | 17,891 |
 | Forks | 1,102 |
-| Stars this week | 31 |
+| Stars this week | 38 |
 
 ---
 
-## 15. [ollama/ollama](https://github.com/ollama/ollama)
+## 11. [ollama/ollama](https://github.com/ollama/ollama)
 
 Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 185,622 |
-| Forks | 18,859 |
-| Stars this week | 977 |
+| Stars | 185,741 |
+| Forks | 18,884 |
+| Stars this week | 956 |
 
 ---
 
-## 16. [fatedier/frp](https://github.com/fatedier/frp)
+## 12. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 110,378 |
-| Forks | 15,299 |
-| Stars this week | 286 |
+| Stars | 93,395 |
+| Forks | 11,209 |
+| Stars this week | 515 |
 
 ---
 
-## 17. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
-
-Awesome list of 300+ agentic AI resources
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,845 |
-| Forks | 740 |
-| Stars this week | 146 |
-
----
-
-## 18. [gohugoio/hugo](https://github.com/gohugoio/hugo) 🆕
-
-The world’s fastest framework for building websites.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 90,317 |
-| Forks | 8,440 |
-| Stars this week | 103 |
-
----
-
-## 19. [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) 🆕
+## 13. [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
 
 ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,936 |
-| Forks | 737 |
-| Stars this week | 96 |
+| Stars | 5,954 |
+| Forks | 742 |
+| Stars this week | 110 |
 
 ---
 
-## 20. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
+## 14. [gastownhall/beads](https://github.com/gastownhall/beads) 🆕
 
-Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
+Beads - A memory upgrade for your coding agent
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 51,168 |
-| Forks | 12,413 |
-| Stars this week | 519 |
+| Stars | 28,441 |
+| Forks | 1,920 |
+| Stars this week | 217 |
+
+---
+
+## 15. [superplanehq/superplane](https://github.com/superplanehq/superplane)
+
+Open source factory for one-shot engineering
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 8,577 |
+| Forks | 687 |
+| Stars this week | 316 |
+
+---
+
+## 16. [glanceapp/glance](https://github.com/glanceapp/glance) 🆕
+
+A self-hosted dashboard that puts all your feeds in one place
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 37,991 |
+| Forks | 1,508 |
+| Stars this week | 272 |
+
+---
+
+## 17. [rclone/rclone](https://github.com/rclone/rclone) 🆕
+
+"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 60,757 |
+| Forks | 5,643 |
+| Stars this week | 200 |
+
+---
+
+## 18. [fatedier/frp](https://github.com/fatedier/frp)
+
+A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 110,403 |
+| Forks | 15,307 |
+| Stars this week | 295 |
+
+---
+
+## 19. [moby/moby](https://github.com/moby/moby) 🆕
+
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 72,238 |
+| Forks | 19,343 |
+| Stars this week | 49 |
 
 ---

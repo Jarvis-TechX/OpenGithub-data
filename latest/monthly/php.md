@@ -1,7 +1,7 @@
 # GitHub Trending - Php
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-02T05:56:24Z
+**Snapshot Time:** 2026-11-03T06:41:58Z
 **Total Repositories:** 21
 **New Entries:** 1
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 65,517 |
-| Forks | 5,907 |
-| Stars this month | 3,238 |
+| Stars | 65,569 |
+| Forks | 5,918 |
+| Stars this month | 3,256 |
 
 ---
 
@@ -28,9 +28,9 @@ Pterodactyl® is a free, open-source game server management panel built with PHP
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,456 |
+| Stars | 9,459 |
 | Forks | 2,745 |
-| Stars this month | 217 |
+| Stars this month | 219 |
 
 ---
 
@@ -41,9 +41,9 @@ The Symfony PHP framework
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,218 |
-| Forks | 9,931 |
-| Stars this month | 115 |
+| Stars | 31,216 |
+| Forks | 9,932 |
+| Stars this month | 113 |
 
 ---
 
@@ -54,7 +54,7 @@ The Symfony PHP framework
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,776 |
+| Stars | 10,782 |
 | Forks | 1,127 |
 | Stars this month | 285 |
 
@@ -67,74 +67,74 @@ Laravel is a web application framework with expressive, elegant syntax.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 34,990 |
-| Forks | 12,023 |
-| Stars this month | 96 |
+| Stars | 34,986 |
+| Forks | 12,025 |
+| Stars this month | 93 |
 
 ---
 
-## 6. [nextcloud/server](https://github.com/nextcloud/server)
-
-☁️ Nextcloud server, a safe home for all your data
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 37,392 |
-| Forks | 5,332 |
-| Stars this month | 491 |
-
----
-
-## 7. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-
-A free, self-hostable news aggregator…
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 16,485 |
-| Forks | 1,332 |
-| Stars this month | 335 |
-
----
-
-## 8. [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
+## 6. [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
 
 openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,059 |
-| Forks | 619 |
-| Stars this month | 89 |
+| Stars | 7,063 |
+| Forks | 622 |
+| Stars this month | 91 |
 
 ---
 
-## 9. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)
+## 7. [nextcloud/server](https://github.com/nextcloud/server)
+
+☁️ Nextcloud server, a safe home for all your data
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 37,399 |
+| Forks | 5,334 |
+| Stars this month | 492 |
+
+---
+
+## 8. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)
 
 The Roundcube Webmail suite
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,253 |
-| Forks | 1,802 |
-| Stars this month | 67 |
+| Stars | 7,256 |
+| Forks | 1,803 |
+| Stars this month | 68 |
 
 ---
 
-## 10. [metadist/synaplan](https://github.com/metadist/synaplan)
+## 9. [metadist/synaplan](https://github.com/metadist/synaplan)
 
 Open-source, self-hosted AI platform (PHP/Symfony): chat with any model, RAG over your docs, embeddable widget, MCP — see the cost of every answer. Apache-2.0.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 483 |
-| Forks | 58 |
-| Stars this month | 294 |
+| Stars | 512 |
+| Forks | 61 |
+| Stars this month | 328 |
+
+---
+
+## 10. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+
+A free, self-hostable news aggregator…
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 16,497 |
+| Forks | 1,334 |
+| Stars this month | 342 |
 
 ---
 
@@ -145,9 +145,9 @@ The PHP Unit Testing framework.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 20,077 |
+| Stars | 20,076 |
 | Forks | 2,214 |
-| Stars this month | 31 |
+| Stars this month | 30 |
 
 ---
 
@@ -158,9 +158,9 @@ The definitive self-hosted URL shortener
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,401 |
-| Forks | 444 |
-| Stars this month | 105 |
+| Stars | 5,402 |
+| Forks | 445 |
+| Stars this month | 106 |
 
 ---
 
@@ -171,22 +171,22 @@ A pure PHP library for reading and writing spreadsheet files
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 14,004 |
+| Stars | 14,003 |
 | Forks | 3,631 |
 | Stars this month | 27 |
 
 ---
 
-## 14. [livewire/livewire](https://github.com/livewire/livewire)
+## 14. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
 
-A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+A source-available invoice, quote, project and time-tracking app built with Laravel
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 23,585 |
-| Forks | 1,756 |
-| Stars this month | 37 |
+| Stars | 10,472 |
+| Forks | 2,794 |
+| Stars this month | 281 |
 
 ---
 
@@ -197,74 +197,74 @@ WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, incl
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,501 |
-| Forks | 3,756 |
-| Stars this month | 42 |
+| Stars | 3,500 |
+| Forks | 3,760 |
+| Stars this month | 39 |
 
 ---
 
-## 16. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
-
-A source-available invoice, quote, project and time-tracking app built with Laravel
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,449 |
-| Forks | 2,793 |
-| Stars this month | 271 |
-
----
-
-## 17. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
-
-A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,574 |
-| Forks | 10,656 |
-| Stars this month | 55 |
-
----
-
-## 18. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
+## 16. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
 
 Free and open-source webshop solution for hostings
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,817 |
+| Stars | 2,818 |
 | Forks | 569 |
-| Stars this month | 431 |
+| Stars this month | 432 |
 
 ---
 
-## 19. [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) 🆕
+## 17. [livewire/livewire](https://github.com/livewire/livewire)
 
-Modern open-source time-tracking app
+A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,098 |
-| Forks | 531 |
-| Stars this month | 163 |
+| Stars | 23,586 |
+| Forks | 1,757 |
+| Stars this month | 37 |
 
 ---
 
-## 20. [composer/composer](https://github.com/composer/composer)
+## 18. [composer/composer](https://github.com/composer/composer)
 
 Dependency Manager for PHP
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 29,569 |
+| Stars | 29,567 |
 | Forks | 4,863 |
 | Stars this month | 62 |
+
+---
+
+## 19. [kimai/kimai](https://github.com/kimai/kimai) 🆕
+
+Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,132 |
+| Forks | 880 |
+| Stars this month | 88 |
+
+---
+
+## 20. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
+
+A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 10,576 |
+| Forks | 10,657 |
+| Stars this month | 57 |
 
 ---
 
@@ -275,8 +275,8 @@ A free open source IT asset/license management system
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,138 |
-| Forks | 4,050 |
-| Stars this month | 167 |
+| Stars | 15,140 |
+| Forks | 4,051 |
+| Stars this month | 163 |
 
 ---

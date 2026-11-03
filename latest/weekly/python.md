@@ -1,10 +1,10 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-02T05:55:57Z
+**Snapshot Time:** 2026-11-03T06:41:29Z
 **Total Repositories:** 12
-**New Entries:** 4
-**Quality Score:** 96.67/100
+**New Entries:** 2
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,149 +15,151 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 25,655 |
-| Forks | 3,366 |
-| Stars this week | 5,034 |
+| Stars | 26,074 |
+| Forks | 3,409 |
+| Stars this week | 4,091 |
 
 ---
 
-## 2. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
-
-TradingAgents: Multi-Agents LLM Financial Trading Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 119,651 |
-| Forks | 22,884 |
-| Stars this week | 5,432 |
-
----
-
-## 3. [anthropics/skills](https://github.com/anthropics/skills)
+## 2. [anthropics/skills](https://github.com/anthropics/skills)
 
 Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 186,455 |
-| Forks | 22,029 |
-| Stars this week | 2,600 |
+| Stars | 186,867 |
+| Forks | 22,067 |
+| Stars this week | 2,828 |
 
 ---
 
-## 4. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+## 3. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
+TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 120,066 |
+| Forks | 22,965 |
+| Stars this week | 4,603 |
+
+---
+
+## 4. [superdesigndev/treg](https://github.com/superdesigndev/treg) 🆕
+
+OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 7,059 |
+| Forks | 632 |
+| Stars this week | 854 |
+
+---
+
+## 5. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 
 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 23,890 |
-| Forks | 2,061 |
-| Stars this week | 2,301 |
+| Stars | 24,055 |
+| Forks | 2,075 |
+| Stars this week | 2,073 |
 
 ---
 
-## 5. [higgsfield-ai/skills](https://github.com/higgsfield-ai/skills)
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 1,848 |
-| Forks | 338 |
-| Stars this week | 416 |
-
----
-
-## 6. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-
-AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 45,550 |
-| Forks | 3,340 |
-| Stars this week | 2,169 |
-
----
-
-## 7. [github/spec-kit](https://github.com/github/spec-kit) 🆕
-
-💫 Toolkit to help you get started with SDD or any other process!
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 145,086 |
-| Forks | 13,003 |
-| Stars this week | 2,098 |
-
----
-
-## 8. [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) 🆕
-
-A privacy-first app that strips AI watermarks from content you own.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 25,927 |
-| Forks | 2,956 |
-| Stars this week | 1,035 |
-
----
-
-## 9. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
-
-Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 140,674 |
-| Forks | 13,445 |
-| Stars this week | 5,670 |
-
----
-
-## 10. [blader/humanizer](https://github.com/blader/humanizer) 🆕
+## 6. [blader/humanizer](https://github.com/blader/humanizer)
 
 Agent skill that removes signs of AI-generated writing from text
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 63,596 |
-| Forks | 5,032 |
-| Stars this week | 2,778 |
+| Stars | 64,106 |
+| Forks | 5,069 |
+| Stars this week | 3,035 |
 
 ---
 
-## 11. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+## 7. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
+
+AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 45,732 |
+| Forks | 3,361 |
+| Stars this week | 1,965 |
+
+---
+
+## 8. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 141,369 |
+| Forks | 13,524 |
+| Stars this week | 5,224 |
+
+---
+
+## 9. [github/spec-kit](https://github.com/github/spec-kit)
+
+💫 Toolkit to help you get started with SDD or any other process!
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 145,831 |
+| Forks | 13,077 |
+| Stars this week | 2,495 |
+
+---
+
+## 10. [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+
+A privacy-first app that strips AI watermarks from content you own.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 26,043 |
+| Forks | 2,965 |
+| Stars this week | 1,042 |
+
+---
+
+## 11. [MemPalace/mempalace](https://github.com/MemPalace/mempalace) 🆕
+
+The best-benchmarked open-source AI memory system. And it's free.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 60,284 |
+| Forks | 7,643 |
+| Stars this week | 544 |
+
+---
+
+## 12. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 53,870 |
-| Forks | 6,589 |
-| Stars this week | 10,982 |
-
----
-
-## 12. [beenuar/AiSOC](https://github.com/beenuar/AiSOC) 🆕
-
-Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 6,381 |
-| Forks | 655 |
-| Stars this week | 2,450 |
+| Stars | 54,433 |
+| Forks | 6,658 |
+| Stars this week | 10,827 |
 
 ---

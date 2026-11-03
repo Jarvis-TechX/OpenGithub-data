@@ -1,217 +1,230 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-02T05:56:13Z
-**Total Repositories:** 16
-**New Entries:** 3
+**Snapshot Time:** 2026-11-03T06:41:46Z
+**Total Repositories:** 17
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
-
-PCL 社区版 由社区开发者维护与管理
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,041 |
-| Forks | 467 |
-| Stars this week | 158 |
-
----
-
-## 2. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
+## 1. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
 
 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,556 |
+| Stars | 17,585 |
 | Forks | 1,301 |
-| Stars this week | 795 |
+| Stars this week | 605 |
 
 ---
 
-## 3. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-
-Windows/macOS/Linux GUI client for GIT users
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,323 |
-| Forks | 578 |
-| Stars this week | 88 |
-
----
-
-## 4. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+## 2. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 
 The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 58,912 |
-| Forks | 5,752 |
-| Stars this week | 342 |
+| Stars | 58,957 |
+| Forks | 5,758 |
+| Stars this week | 332 |
 
 ---
 
-## 5. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
-
-Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,883 |
-| Forks | 2,054 |
-| Stars this week | 42 |
-
----
-
-## 6. [2dust/v2rayN](https://github.com/2dust/v2rayN)
-
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 119,759 |
-| Forks | 16,244 |
-| Stars this week | 725 |
-
----
-
-## 7. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+## 3. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 
 OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 32,922 |
-| Forks | 2,239 |
-| Stars this week | 486 |
+| Stars | 32,959 |
+| Forks | 2,244 |
+| Stars this week | 476 |
 
 ---
 
-## 8. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+## 4. [2dust/v2rayN](https://github.com/2dust/v2rayN)
 
-WinUI app for building smaller, customized Windows 11 images.
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,502 |
-| Forks | 1,649 |
-| Stars this week | 399 |
+| Stars | 119,829 |
+| Forks | 16,253 |
+| Stars this week | 730 |
 
 ---
 
-## 9. [cyanfish/naps2](https://github.com/cyanfish/naps2) 🆕
+## 5. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
-Scan documents to PDF and more, as simply as possible.
+Windows/macOS/Linux GUI client for GIT users
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,730 |
-| Forks | 485 |
-| Stars this week | 48 |
+| Stars | 6,340 |
+| Forks | 578 |
+| Stars this week | 83 |
 
 ---
 
-## 10. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 6. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
-PowerShell for every system!
+Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 55,993 |
-| Forks | 8,522 |
-| Stars this week | 124 |
+| Stars | 7,887 |
+| Forks | 2,054 |
+| Stars this week | 32 |
 
 ---
 
-## 11. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
+## 7. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
 
 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,145 |
+| Stars | 7,151 |
 | Forks | 710 |
-| Stars this week | 122 |
+| Stars this week | 117 |
 
 ---
 
-## 12. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 8. [dotnet/runtime](https://github.com/dotnet/runtime)
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,404 |
-| Forks | 5,825 |
-| Stars this week | 22 |
+| Stars | 18,405 |
+| Forks | 5,827 |
+| Stars this week | 21 |
 
 ---
 
-## 13. [actions/runner](https://github.com/actions/runner) 🆕
+## 9. [cyanfish/naps2](https://github.com/cyanfish/naps2)
 
-The Runner for GitHub Actions 🚀
+Scan documents to PDF and more, as simply as possible.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,375 |
-| Forks | 1,477 |
-| Stars this week | 17 |
+| Stars | 4,732 |
+| Forks | 485 |
+| Stars this week | 37 |
 
 ---
 
-## 14. [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
+## 10. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
 
-Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+PCL 社区版 由社区开发者维护与管理
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,993 |
-| Forks | 694 |
-| Stars this week | 63 |
+| Stars | 5,050 |
+| Forks | 469 |
+| Stars this week | 126 |
 
 ---
 
-## 15. [files-community/Files](https://github.com/files-community/Files)
+## 11. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) 🆕
+
+🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 27,392 |
+| Forks | 1,746 |
+| Stars this week | 116 |
+
+---
+
+## 12. [files-community/Files](https://github.com/files-community/Files)
 
 A modern file manager that helps users organize their files and folders.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 46,443 |
-| Forks | 3,012 |
-| Stars this week | 262 |
+| Stars | 46,468 |
+| Forks | 3,013 |
+| Stars this week | 272 |
 
 ---
 
-## 16. [dotnet/dotnet](https://github.com/dotnet/dotnet) 🆕
+## 13. [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) 🆕
 
-Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.
+This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,317 |
-| Forks | 349 |
-| Stars this week | 11 |
+| Stars | 6,077 |
+| Forks | 5,225 |
+| Stars this week | 4 |
+
+---
+
+## 14. [riyasy/FlyPhotos](https://github.com/riyasy/FlyPhotos) 🆕
+
+A blazing fast ultra-light photo viewer replacement for Windows. Works similar to Picasa Photo Viewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 961 |
+| Forks | 36 |
+| Stars this week | 70 |
+
+---
+
+## 15. [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
+
+Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 12,000 |
+| Forks | 696 |
+| Stars this week | 58 |
+
+---
+
+## 16. [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) 🆕
+
+Open source, cross-platform, user-mode tablet driver
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,239 |
+| Forks | 567 |
+| Stars this week | 33 |
+
+---
+
+## 17. [actions/runner](https://github.com/actions/runner)
+
+The Runner for GitHub Actions 🚀
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,376 |
+| Forks | 1,477 |
+| Stars this week | 20 |
 
 ---

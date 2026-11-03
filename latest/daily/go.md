@@ -1,230 +1,243 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-02T05:55:45Z
-**Total Repositories:** 17
-**New Entries:** 12
+**Snapshot Time:** 2026-11-03T06:41:17Z
+**Total Repositories:** 18
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) 🆕
+## 1. [gastownhall/beads](https://github.com/gastownhall/beads) 🆕
+
+Beads - A memory upgrade for your coding agent
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 28,441 |
+| Forks | 1,920 |
+| Stars today | 40 |
+
+---
+
+## 2. [evcc-io/evcc](https://github.com/evcc-io/evcc) 🆕
+
+smart charging ☀️🚘
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,503 |
+| Forks | 1,606 |
+| Stars today | 8 |
+
+---
+
+## 3. [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
 
 Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 49,120 |
-| Forks | 12,618 |
-| Stars today | 86 |
+| Stars | 49,184 |
+| Forks | 12,607 |
+| Stars today | 74 |
 
 ---
 
-## 2. [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail)
+## 4. [egoist/kero](https://github.com/egoist/kero) 🆕
 
-BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr
+A cross-platform native terminal app optimized for agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,151 |
-| Forks | 1,796 |
-| Stars today | 42 |
+| Stars | 1,376 |
+| Forks | 131 |
+| Stars today | 15 |
 
 ---
 
-## 3. [golang/go](https://github.com/golang/go) 🆕
+## 5. [warmbly/warmbly](https://github.com/warmbly/warmbly) 🆕
 
-The Go programming language
+The largest open-source B2B cold outreach and email warmup service.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,732 |
-| Forks | 21,035 |
-| Stars today | 178 |
+| Stars | 885 |
+| Forks | 159 |
+| Stars today | 296 |
 
 ---
 
-## 4. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) 🆕
-
-Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 42,550 |
-| Forks | 6,084 |
-| Stars today | 27 |
-
----
-
-## 5. [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) 🆕
+## 6. [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
 
 ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,936 |
-| Forks | 737 |
-| Stars today | 23 |
+| Stars | 5,954 |
+| Forks | 742 |
+| Stars today | 26 |
 
 ---
 
-## 6. [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+## 7. [ollama/ollama](https://github.com/ollama/ollama) 🆕
 
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 37,503 |
-| Forks | 2,206 |
-| Stars today | 29 |
+| Stars | 185,741 |
+| Forks | 18,884 |
+| Stars today | 143 |
 
 ---
 
-## 7. [docker/compose](https://github.com/docker/compose) 🆕
-
-Define and run multi-container applications with Docker
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,568 |
-| Forks | 5,900 |
-| Stars today | 31 |
-
----
-
-## 8. [hashicorp/terraform](https://github.com/hashicorp/terraform) 🆕
-
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 50,347 |
-| Forks | 10,600 |
-| Stars today | 151 |
-
----
-
-## 9. [k3s-io/k3s](https://github.com/k3s-io/k3s)
-
-Lightweight Kubernetes
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 34,315 |
-| Forks | 2,774 |
-| Stars today | 12 |
-
----
-
-## 10. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) 🆕
+## 8. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 
 Production-Grade Container Scheduling and Management
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 128,826 |
-| Forks | 45,737 |
-| Stars today | 170 |
+| Stars | 128,631 |
+| Forks | 45,759 |
+| Stars today | 35 |
 
 ---
 
-## 11. [microsoft/TypeScript](https://github.com/microsoft/TypeScript) 🆕
+## 9. [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) 🆕
 
-TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+Information gathering framework for phone numbers
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 111,715 |
-| Forks | 15,446 |
-| Stars today | 19 |
+| Stars | 18,379 |
+| Forks | 6,257 |
+| Stars today | 15 |
 
 ---
 
-## 12. [netbirdio/netbird](https://github.com/netbirdio/netbird) 🆕
+## 10. [Mag1cFall/AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) 🆕
 
-NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
+将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,543 |
-| Forks | 1,818 |
-| Stars today | 124 |
+| Stars | 687 |
+| Forks | 154 |
+| Stars today | 28 |
 
 ---
 
-## 13. [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) 🆕
+## 11. [rclone/rclone](https://github.com/rclone/rclone) 🆕
+
+"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 60,757 |
+| Forks | 5,643 |
+| Stars today | 29 |
+
+---
+
+## 12. [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) 🆕
+
+The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 9,930 |
+| Forks | 350 |
+| Stars today | 64 |
+
+---
+
+## 13. [m5stack/StackChan](https://github.com/m5stack/StackChan) 🆕
+
+StackChan open source!
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,482 |
+| Forks | 415 |
+| Stars today | 3 |
+
+---
+
+## 14. [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) 🆕
+
+Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 8,219 |
+| Forks | 718 |
+| Stars today | 27 |
+
+---
+
+## 15. [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
 
 Yet another WebUI for Nginx
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,728 |
-| Forks | 912 |
-| Stars today | 32 |
+| Stars | 11,729 |
+| Forks | 914 |
+| Stars today | 5 |
 
 ---
 
-## 14. [tailscale/tailscale](https://github.com/tailscale/tailscale)
+## 16. [netbirdio/netbird](https://github.com/netbirdio/netbird)
 
-The easiest, most secure way to use WireGuard and 2FA.
+NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,499 |
-| Forks | 3,408 |
-| Stars today | 55 |
+| Stars | 30,594 |
+| Forks | 1,820 |
+| Stars today | 70 |
 
 ---
 
-## 15. [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) 🆕
+## 17. [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 🆕
 
-一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923
+MCP for xiaohongshu.com
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,792 |
-| Forks | 547 |
-| Stars today | 32 |
+| Stars | 16,820 |
+| Forks | 2,464 |
+| Stars today | 31 |
 
 ---
 
-## 16. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
+## 18. [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) 🆕
 
-scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
+Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,161 |
-| Forks | 1,114 |
-| Stars today | 41 |
-
----
-
-## 17. [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) 🆕
-
-🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 29,773 |
-| Forks | 5,518 |
-| Stars today | 32 |
+| Stars | 8,990 |
+| Forks | 1,324 |
+| Stars today | 69 |
 
 ---

@@ -1,243 +1,178 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-02T05:55:38Z
-**Total Repositories:** 18
-**New Entries:** 13
+**Snapshot Time:** 2026-11-03T06:41:10Z
+**Total Repositories:** 13
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 🆕
-
-Kronos: A Foundation Model for the Language of Financial Markets
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 45,551 |
-| Forks | 7,520 |
-| Stars today | 630 |
-
----
-
-## 2. [public-apis/public-apis](https://github.com/public-apis/public-apis) 🆕
-
-A collective list of free APIs
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 494,925 |
-| Forks | 55,235 |
-| Stars today | 324 |
-
----
-
-## 3. [kornia/kornia](https://github.com/kornia/kornia) 🆕
-
-🐍 Geometric Computer Vision Library for Spatial AI
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 11,892 |
-| Forks | 1,473 |
-| Stars today | 101 |
-
----
-
-## 4. [beenuar/AiSOC](https://github.com/beenuar/AiSOC) 🆕
-
-Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 6,381 |
-| Forks | 655 |
-| Stars today | 446 |
-
----
-
-## 5. [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) 🆕
-
-FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 15,560 |
-| Forks | 1,555 |
-| Stars today | 242 |
-
----
-
-## 6. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) 🆕
-
-Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 42,661 |
-| Forks | 1,776 |
-| Stars today | 1,584 |
-
----
-
-## 7. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🆕
+## 1. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 
 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 91,914 |
-| Forks | 9,684 |
-| Stars today | 892 |
+| Stars | 93,334 |
+| Forks | 9,814 |
+| Stars today | 706 |
 
 ---
 
-## 8. [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+## 2. [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
 
-A community-supported supercharged document management system: scan, index and archive all your documents
+FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 47,545 |
-| Forks | 3,327 |
-| Stars today | 66 |
+| Stars | 16,268 |
+| Forks | 1,599 |
+| Stars today | 653 |
 
 ---
 
-## 9. [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
+## 3. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
 
-Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.
+Kronos: A Foundation Model for the Language of Financial Markets
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,928 |
-| Forks | 813 |
-| Stars today | 224 |
+| Stars | 46,109 |
+| Forks | 7,599 |
+| Stars today | 857 |
 
 ---
 
-## 10. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+## 4. [kornia/kornia](https://github.com/kornia/kornia)
+
+🐍 Geometric Computer Vision Library for Spatial AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 12,225 |
+| Forks | 1,501 |
+| Stars today | 412 |
+
+---
+
+## 5. [karpathy/nanochat](https://github.com/karpathy/nanochat) 🆕
+
+The best ChatGPT that $100 can buy.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 60,032 |
+| Forks | 8,421 |
+| Stars today | 321 |
+
+---
+
+## 6. [p-e-w/heretic](https://github.com/p-e-w/heretic) 🆕
+
+Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 38,269 |
+| Forks | 4,335 |
+| Stars today | 420 |
+
+---
+
+## 7. [github/spec-kit](https://github.com/github/spec-kit) 🆕
+
+💫 Toolkit to help you get started with SDD or any other process!
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 145,831 |
+| Forks | 13,076 |
+| Stars today | 540 |
+
+---
+
+## 8. [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
+A collective list of free APIs
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 495,627 |
+| Forks | 55,333 |
+| Stars today | 1,311 |
+
+---
+
+## 9. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
 World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 74,520 |
-| Forks | 9,801 |
-| Stars today | 448 |
+| Stars | 75,500 |
+| Forks | 9,965 |
+| Stars today | 693 |
 
 ---
 
-## 11. [scenario-labs/skills](https://github.com/scenario-labs/skills) 🆕
+## 10. [derv82/wifit3](https://github.com/derv82/wifit3) 🆕
 
-Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
+Wifite but USB-only & cross-platform.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 1,468 |
-| Forks | 181 |
-| Stars today | 82 |
+| Stars | 3,059 |
+| Forks | 306 |
+| Stars today | 217 |
 
 ---
 
-## 12. [andreavolpato/spektrafilm](https://github.com/andreavolpato/spektrafilm) 🆕
+## 11. [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) 🆕
 
-Spectral simulation of analog photography processes
+Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 1,597 |
-| Forks | 212 |
-| Stars today | 159 |
+| Stars | 13,785 |
+| Forks | 1,638 |
+| Stars today | 17 |
 
 ---
 
-## 13. [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
+## 12. [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) 🆕
 
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 86,358 |
-| Forks | 20,578 |
-| Stars today | 629 |
+| Stars | 69,989 |
+| Forks | 13,278 |
+| Stars today | 294 |
 
 ---
 
-## 14. [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) 🆕
+## 13. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) 🆕
 
-BleachBit system cleaner for Windows and Linux
+AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,335 |
-| Forks | 485 |
-| Stars today | 26 |
-
----
-
-## 15. [oraios/serena](https://github.com/oraios/serena) 🆕
-
-A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 31,002 |
-| Forks | 2,119 |
-| Stars today | 42 |
-
----
-
-## 16. [anthropics/skills](https://github.com/anthropics/skills)
-
-Public repository for Agent Skills
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 186,455 |
-| Forks | 22,029 |
-| Stars today | 431 |
-
----
-
-## 17. [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) 🆕
-
-Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 33,252 |
-| Forks | 5,535 |
-| Stars today | 42 |
-
----
-
-## 18. [python/cpython](https://github.com/python/cpython) 🆕
-
-The Python programming language
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 77,790 |
-| Forks | 37,160 |
-| Stars today | 40 |
+| Stars | 66,395 |
+| Forks | 5,811 |
+| Stars today | 136 |
 
 ---

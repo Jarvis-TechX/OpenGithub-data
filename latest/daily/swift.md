@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-02T05:55:54Z
-**Total Repositories:** 10
-**New Entries:** 5
+**Snapshot Time:** 2026-11-03T06:41:25Z
+**Total Repositories:** 11
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,125 +15,138 @@ Free and open-source macOS menu bar toolkit.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 32,394 |
-| Forks | 1,563 |
-| Stars today | 569 |
+| Stars | 32,645 |
+| Forks | 1,591 |
+| Stars today | 294 |
 
 ---
 
-## 2. [frankea/Whisky](https://github.com/frankea/Whisky) 🆕
-
-Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,011 |
-| Forks | 69 |
-| Stars today | 8 |
-
----
-
-## 3. [farzaa/clicky](https://github.com/farzaa/clicky)
-
-The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 7,899 |
-| Forks | 1,580 |
-| Stars today | 27 |
-
----
-
-## 4. [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) 🆕
-
-Nuvio tvOS client
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 372 |
-| Forks | 36 |
-| Stars today | 8 |
-
----
-
-## 5. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 2. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
 Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,716 |
-| Forks | 1,271 |
-| Stars today | 47 |
+| Stars | 13,753 |
+| Forks | 1,270 |
+| Stars today | 59 |
 
 ---
 
-## 6. [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
+## 3. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) 🆕
 
-Community fork of PlayCover
+无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,076 |
-| Forks | 1,026 |
+| Stars | 2,329 |
+| Forks | 249 |
+| Stars today | 54 |
+
+---
+
+## 4. [YangJiiii/3105](https://github.com/YangJiiii/3105) 🆕
+
+Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 970 |
+| Forks | 182 |
+| Stars today | 2 |
+
+---
+
+## 5. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam) 🆕
+
+A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 434 |
+| Forks | 141 |
+| Stars today | 2 |
+
+---
+
+## 6. [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) 🆕
+
+The mouse and trackpad utility for Mac.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 7,114 |
+| Forks | 198 |
 | Stars today | 9 |
 
 ---
 
-## 7. [claration/feather](https://github.com/claration/feather)
+## 7. [farzaa/clicky](https://github.com/farzaa/clicky)
 
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,980 |
-| Forks | 461 |
-| Stars today | 6 |
-
----
-
-## 8. [yattee/yattee](https://github.com/yattee/yattee) 🆕
-
-Privacy oriented video player for iOS, tvOS and macOS
+The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,782 |
-| Forks | 182 |
-| Stars today | 4 |
+| Stars | 7,914 |
+| Forks | 1,587 |
+| Stars today | 19 |
 
 ---
 
-## 9. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) 🆕
+## 8. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
 An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,283 |
-| Forks | 103 |
-| Stars today | 25 |
+| Stars | 1,291 |
+| Forks | 104 |
+| Stars today | 5 |
 
 ---
 
-## 10. [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) 🆕
+## 9. [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) 🆕
 
-FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
+Native Jellyfin Client for iOS and tvOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,983 |
-| Forks | 397 |
-| Stars today | 11 |
+| Stars | 4,251 |
+| Forks | 639 |
+| Stars today | 3 |
+
+---
+
+## 10. [momenbasel/PureMac](https://github.com/momenbasel/PureMac) 🆕
+
+Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 7,601 |
+| Forks | 442 |
+| Stars today | 18 |
+
+---
+
+## 11. [claration/feather](https://github.com/claration/feather)
+
+Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,992 |
+| Forks | 463 |
+| Stars today | 10 |
 
 ---

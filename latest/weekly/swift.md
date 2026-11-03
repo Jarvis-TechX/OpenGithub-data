@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-02T05:56:14Z
+**Snapshot Time:** 2026-11-03T06:41:47Z
 **Total Repositories:** 15
-**New Entries:** 1
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,74 +15,74 @@
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 131,859 |
-| Forks | 15,589 |
-| Stars this week | 770 |
+| Stars | 131,897 |
+| Forks | 15,601 |
+| Stars this week | 704 |
 
 ---
 
-## 2. [pauljoda/Crest](https://github.com/pauljoda/Crest)
-
-An open source browser for Mac, iPhone, and iPad.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,052 |
-| Forks | 100 |
-| Stars this week | 259 |
-
----
-
-## 3. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
-
-bluetooth mesh chat, IRC vibes
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 37,051 |
-| Forks | 5,891 |
-| Stars this week | 237 |
-
----
-
-## 4. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
+## 2. [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA)
 
 A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,434 |
-| Forks | 212 |
-| Stars this week | 234 |
+| Stars | 2,473 |
+| Forks | 214 |
+| Stars this week | 242 |
 
 ---
 
-## 5. [LoopKit/Loop](https://github.com/LoopKit/Loop)
+## 3. [pauljoda/Crest](https://github.com/pauljoda/Crest)
 
-An automated insulin delivery app for iOS, built on LoopKit
+An open source browser for Mac, iPhone, and iPad.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,752 |
-| Forks | 1,450 |
-| Stars this week | 6 |
+| Stars | 1,071 |
+| Forks | 101 |
+| Stars this week | 231 |
 
 ---
 
-## 6. [farzaa/clicky](https://github.com/farzaa/clicky)
+## 4. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) 🆕
+
+Free and open-source macOS menu bar toolkit.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 32,645 |
+| Forks | 1,591 |
+| Stars this week | 2,522 |
+
+---
+
+## 5. [farzaa/clicky](https://github.com/farzaa/clicky)
 
 The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,899 |
-| Forks | 1,580 |
-| Stars this week | 117 |
+| Stars | 7,914 |
+| Forks | 1,587 |
+| Stars this week | 126 |
+
+---
+
+## 6. [momenbasel/PureMac](https://github.com/momenbasel/PureMac)
+
+Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 7,601 |
+| Forks | 442 |
+| Stars this week | 177 |
 
 ---
 
@@ -93,13 +93,26 @@ Burning through your subscriptions too fast? Paying for stuff you never use? Sto
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,517 |
-| Forks | 523 |
-| Stars this week | 68 |
+| Stars | 4,525 |
+| Forks | 526 |
+| Stars this week | 78 |
 
 ---
 
-## 8. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
+## 8. [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll)
+
+Dynamic Island for macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 5,165 |
+| Forks | 363 |
+| Stars this week | 100 |
+
+---
+
+## 9. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
 
 A toolkit for SQLite databases, with a focus on application development
 
@@ -112,93 +125,80 @@ A toolkit for SQLite databases, with a focus on application development
 
 ---
 
-## 9. [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll)
+## 10. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) 🆕
 
-Dynamic Island for macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 5,152 |
-| Forks | 361 |
-| Stars this week | 110 |
-
----
-
-## 10. [momenbasel/PureMac](https://github.com/momenbasel/PureMac)
-
-Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
+无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,585 |
-| Forks | 442 |
-| Stars this week | 177 |
+| Stars | 2,329 |
+| Forks | 249 |
+| Stars this week | 249 |
 
 ---
 
-## 11. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
+## 11. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) 🆕
 
-AltStore is an alternative app store for non-jailbroken iOS devices.
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,824 |
-| Forks | 1,696 |
-| Stars this week | 83 |
+| Stars | 13,753 |
+| Forks | 1,270 |
+| Stars this week | 323 |
 
 ---
 
-## 12. [carloslfu/slotstream](https://github.com/carloslfu/slotstream)
+## 12. [LoopKit/Loop](https://github.com/LoopKit/Loop)
 
-Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and Metal. Offline, no Python. CLI, Swift library, and Ollama/OpenAI/Anthropic APIs. Works with Claude Code and Codex.
+An automated insulin delivery app for iOS, built on LoopKit
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 640 |
-| Forks | 54 |
-| Stars this week | 158 |
+| Stars | 1,753 |
+| Forks | 1,451 |
+| Stars this week | 6 |
 
 ---
 
-## 13. [swiftlang/swift](https://github.com/swiftlang/swift)
-
-The Swift Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 70,521 |
-| Forks | 10,885 |
-| Stars this week | 23 |
-
----
-
-## 14. [slopus/happy](https://github.com/slopus/happy)
-
-Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 24,446 |
-| Forks | 2,102 |
-| Stars this week | 154 |
-
----
-
-## 15. [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) 🆕
+## 13. [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
 
 TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 11,227 |
-| Forks | 1,179 |
-| Stars this week | 101 |
+| Stars | 11,246 |
+| Forks | 1,181 |
+| Stars this week | 109 |
+
+---
+
+## 14. [carloslfu/slotstream](https://github.com/carloslfu/slotstream)
+
+Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and Metal. Offline, no Python. CLI, Swift library, and Ollama/OpenAI/Anthropic APIs. Works with Claude Code and Codex.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 646 |
+| Forks | 54 |
+| Stars this week | 104 |
+
+---
+
+## 15. [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) 🆕
+
+Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 8,104 |
+| Forks | 490 |
+| Stars this week | 33 |
 
 ---

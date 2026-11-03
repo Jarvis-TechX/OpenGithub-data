@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-02T05:56:25Z
-**Total Repositories:** 18
-**New Entries:** 2
+**Snapshot Time:** 2026-11-03T06:42:00Z
+**Total Repositories:** 19
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 32,964 |
-| Forks | 5,149 |
-| Stars this month | 7,977 |
+| Stars | 33,107 |
+| Forks | 5,173 |
+| Stars this month | 8,053 |
 
 ---
 
@@ -28,9 +28,9 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 185,622 |
-| Forks | 18,859 |
-| Stars this month | 4,619 |
+| Stars | 185,741 |
+| Forks | 18,884 |
+| Stars this month | 4,677 |
 
 ---
 
@@ -41,61 +41,61 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 78,640 |
-| Forks | 5,229 |
-| Stars this month | 2,614 |
+| Stars | 78,669 |
+| Forks | 5,235 |
+| Stars this month | 2,629 |
 
 ---
 
-## 4. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
+## 4. [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF) 🆕
 
-A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.
+Open-Source Software factory for Open Models
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,279 |
-| Forks | 298 |
-| Stars this month | 1,871 |
+| Stars | 621 |
+| Forks | 72 |
+| Stars this month | 377 |
 
 ---
 
-## 5. [docker/compose](https://github.com/docker/compose)
-
-Define and run multi-container applications with Docker
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,568 |
-| Forks | 5,900 |
-| Stars this month | 485 |
-
----
-
-## 6. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
+## 5. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
 
 scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,161 |
-| Forks | 1,114 |
-| Stars this month | 939 |
+| Stars | 7,211 |
+| Forks | 1,118 |
+| Stars this month | 958 |
 
 ---
 
-## 7. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+## 6. [docker/compose](https://github.com/docker/compose)
 
-Production-Grade Container Scheduling and Management
+Define and run multi-container applications with Docker
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 128,826 |
-| Forks | 45,737 |
-| Stars this month | 1,834 |
+| Stars | 38,582 |
+| Forks | 5,901 |
+| Stars this month | 496 |
+
+---
+
+## 7. [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios)
+
+A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,310 |
+| Forks | 300 |
+| Stars this month | 1,803 |
 
 ---
 
@@ -106,22 +106,22 @@ llm-d Router: The intelligent entry point for inference requests
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 441 |
-| Forks | 501 |
+| Stars | 444 |
+| Forks | 505 |
 | Stars this month | 74 |
 
 ---
 
-## 9. [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+## 9. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 
-TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+Production-Grade Container Scheduling and Management
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 111,715 |
-| Forks | 15,446 |
-| Stars this month | 678 |
+| Stars | 128,631 |
+| Forks | 45,759 |
+| Stars this month | 1,841 |
 
 ---
 
@@ -132,112 +132,125 @@ The Go programming language
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,732 |
-| Forks | 21,035 |
-| Stars this month | 1,966 |
+| Stars | 139,543 |
+| Forks | 21,058 |
+| Stars this month | 1,971 |
 
 ---
 
-## 11. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 15,310 |
-| Forks | 2,259 |
-| Stars this month | 297 |
-
----
-
-## 12. [docker/docker-agent](https://github.com/docker/docker-agent)
+## 11. [docker/docker-agent](https://github.com/docker/docker-agent)
 
 AI Agent Builder and Runtime by Docker Engineering
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,644 |
+| Stars | 4,648 |
 | Forks | 546 |
-| Stars this month | 1,286 |
+| Stars this month | 1,290 |
 
 ---
 
-## 13. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+## 12. [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 
-The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
+TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,983 |
-| Forks | 266 |
-| Stars this month | 1,269 |
+| Stars | 111,725 |
+| Forks | 15,449 |
+| Stars this month | 676 |
 
 ---
 
-## 14. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,902 |
-| Forks | 817 |
-| Stars this month | 792 |
-
----
-
-## 15. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) 🆕
-
-Awesome list of 300+ agentic AI resources
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,845 |
-| Forks | 740 |
-| Stars this month | 565 |
-
----
-
-## 16. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
+## 13. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 
 WhatsApp MCP server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,789 |
-| Forks | 1,467 |
-| Stars this month | 454 |
+| Stars | 6,795 |
+| Forks | 1,475 |
+| Stars this month | 439 |
 
 ---
 
-## 17. [rasonyang/ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter) 🆕
+## 14. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
+
+Awesome list of 300+ agentic AI resources
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 2,857 |
+| Forks | 744 |
+| Stars this month | 572 |
+
+---
+
+## 15. [rasonyang/ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter)
 
 Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 515 |
-| Forks | 95 |
-| Stars this month | 341 |
+| Stars | 519 |
+| Forks | 96 |
+| Stars this month | 326 |
 
 ---
 
-## 18. [tailscale/tailscale](https://github.com/tailscale/tailscale)
+## 16. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
 
-The easiest, most secure way to use WireGuard and 2FA.
+The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,499 |
-| Forks | 3,408 |
-| Stars this month | 1,525 |
+| Stars | 3,147 |
+| Forks | 278 |
+| Stars this month | 1,291 |
+
+---
+
+## 17. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+
+A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 15,314 |
+| Forks | 2,258 |
+| Stars this month | 301 |
+
+---
+
+## 18. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) 🆕
+
+📂 Web File Browser
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 9,019 |
+| Forks | 517 |
+| Stars this month | 559 |
+
+---
+
+## 19. [keploy/keploy](https://github.com/keploy/keploy) 🆕
+
+Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 19,177 |
+| Forks | 2,446 |
+| Stars this month | 640 |
 
 ---
