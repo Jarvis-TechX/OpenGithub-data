@@ -1,36 +1,36 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-03T06:41:45Z
-**Total Repositories:** 11
-**New Entries:** 3
-**Quality Score:** 96.36/100
+**Snapshot Time:** 2026-11-04T06:08:48Z
+**Total Repositories:** 12
+**New Entries:** 5
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
-
-BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 5,366 |
-| Forks | 549 |
-| Stars this week | 743 |
-
----
-
-## 2. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV) 🆕
+## 1. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
 
 StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 966 |
-| Forks | 165 |
-| Stars this week | 96 |
+| Stars | 978 |
+| Forks | 167 |
+| Stars this week | 106 |
+
+---
+
+## 2. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
+
+BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 5,508 |
+| Forks | 565 |
+| Stars this week | 800 |
 
 ---
 
@@ -41,9 +41,9 @@ Block ads system-wide on Android using local VPN-based DNS filtering. No root ne
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,594 |
-| Forks | 154 |
-| Stars this week | 255 |
+| Stars | 2,616 |
+| Forks | 158 |
+| Stars this week | 283 |
 
 ---
 
@@ -54,97 +54,112 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,845 |
+| Stars | 6,869 |
 | Forks | 1,405 |
-| Stars this week | 161 |
+| Stars this week | 164 |
 
 ---
 
 ## 5. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music)
 
-A modern sleek music player.
+A modern, cool, sleek music player. made with <3
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 525 |
-| Forks | 35 |
-| Stars this week | 292 |
+| Stars | 623 |
+| Forks | 37 |
+| Stars this week | 352 |
 
 ---
 
-## 6. [android/skills](https://github.com/android/skills)
+## 6. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland) 🆕
+
+Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,296 |
-| Forks | 672 |
-| Stars this week | 471 |
+| Stars | 406 |
+| Forks | 54 |
+| Stars this week | 69 |
 
 ---
 
-## 7. [tiann/KernelSU](https://github.com/tiann/KernelSU)
-
-A Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 20,015 |
-| Forks | 4,868 |
-| Stars this week | 334 |
-
----
-
-## 8. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-
-The Magic Mask for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 63,720 |
-| Forks | 19,164 |
-| Stars this week | 248 |
-
----
-
-## 9. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
+## 7. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,920 |
-| Forks | 2,098 |
-| Stars this week | 489 |
+| Stars | 43,969 |
+| Forks | 2,100 |
+| Stars this week | 471 |
 
 ---
 
-## 10. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+## 8. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
 
 Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 32,687 |
-| Forks | 3,526 |
-| Stars this week | 502 |
+| Stars | 32,743 |
+| Forks | 3,534 |
+| Stars this week | 512 |
 
 ---
 
-## 11. [Lelonio/Square](https://github.com/Lelonio/Square) 🆕
+## 9. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
 
-Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
+✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 475 |
-| Forks | 45 |
-| Stars this week | 60 |
+| Stars | 6,397 |
+| Forks | 328 |
+| Stars this week | 675 |
+
+---
+
+## 10. [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) 🆕
+
+Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,614 |
+| Forks | 425 |
+| Stars this week | 70 |
+
+---
+
+## 11. [sameerasw/essentials](https://github.com/sameerasw/essentials) 🆕
+
+Essential tools and mods for Android nerds
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,684 |
+| Forks | 104 |
+| Stars this week | 263 |
+
+---
+
+## 12. [damontecres/Wholphin](https://github.com/damontecres/Wholphin) 🆕
+
+An OSS Android TV client for Jellyfin
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,230 |
+| Forks | 225 |
+| Stars this week | 54 |
 
 ---

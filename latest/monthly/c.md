@@ -1,14 +1,27 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-03T06:42:03Z
+**Snapshot Time:** 2026-11-04T06:09:05Z
 **Total Repositories:** 14
-**New Entries:** 0
-**Quality Score:** 97.14/100
+**New Entries:** 1
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [php/php-src](https://github.com/php/php-src)
+## 1. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
+
+A native, user-mode, multi-process, graphical debugger.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 8,762 |
+| Forks | 449 |
+| Stars this month | 1,199 |
+
+---
+
+## 2. [php/php-src](https://github.com/php/php-src)
 
 The PHP Interpreter
 
@@ -16,73 +29,60 @@ The PHP Interpreter
 |--------|-------|
 | Language | C |
 | Stars | 41,758 |
-| Forks | 8,543 |
-| Stars this month | 1,430 |
+| Forks | 8,519 |
+| Stars this month | 1,429 |
 
 ---
 
-## 2. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
-
-A native, user-mode, multi-process, graphical debugger.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 8,749 |
-| Forks | 448 |
-| Stars this month | 1,192 |
-
----
-
-## 3. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-
-Display and control your Android device
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 153,881 |
-| Forks | 14,131 |
-| Stars this month | 3,498 |
-
----
-
-## 4. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-
-An advanced Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,703 |
-| Forks | 1,258 |
-| Stars this month | 408 |
-
----
-
-## 5. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
-
-Xbox 360 Recompilation Runtime and Toolkit
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 1,238 |
-| Forks | 265 |
-| Stars this month | 286 |
-
----
-
-## 6. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+## 3. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 78,858 |
-| Forks | 11,042 |
-| Stars this month | 2,151 |
+| Stars | 78,919 |
+| Forks | 11,050 |
+| Stars this month | 2,169 |
+
+---
+
+## 4. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+
+Display and control your Android device
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 153,966 |
+| Forks | 14,142 |
+| Stars this month | 3,517 |
+
+---
+
+## 5. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+
+An advanced Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 4,712 |
+| Forks | 1,261 |
+| Stars this month | 418 |
+
+---
+
+## 6. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
+
+Xbox 360 Recompilation Runtime and Toolkit
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 1,242 |
+| Forks | 267 |
+| Stars this month | 287 |
 
 ---
 
@@ -93,22 +93,22 @@ ehviewer，用爱发电，快乐前行
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,597 |
-| Forks | 763 |
-| Stars this month | 1,375 |
+| Stars | 28,647 |
+| Forks | 764 |
+| Stars this month | 1,390 |
 
 ---
 
-## 8. [systemd/systemd](https://github.com/systemd/systemd)
+## 8. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 
-The systemd System and Service Manager
+Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,990 |
-| Forks | 4,803 |
-| Stars this month | 255 |
+| Stars | 140,514 |
+| Forks | 8,693 |
+| Stars this month | 1,871 |
 
 ---
 
@@ -119,22 +119,22 @@ For developers, who are building real-time data-driven applications, Redis is th
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 77,158 |
-| Forks | 25,036 |
-| Stars this month | 1,093 |
+| Stars | 77,171 |
+| Forks | 25,012 |
+| Stars this month | 1,115 |
 
 ---
 
-## 10. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+## 10. [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)
 
-Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+This is a fork of F4HWN firmwarehttps://github.com/armel/uv-k5-firmware-customby@muzkrand@armel
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 140,459 |
-| Forks | 8,693 |
-| Stars this month | 1,825 |
+| Stars | 826 |
+| Forks | 231 |
+| Stars this month | 114 |
 
 ---
 
@@ -145,33 +145,35 @@ A free Windows-compatible Operating System
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 18,427 |
-| Forks | 2,329 |
-| Stars this month | 309 |
+| Stars | 18,430 |
+| Forks | 2,332 |
+| Stars this month | 312 |
 
 ---
 
-## 12. [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom)
+## 12. [systemd/systemd](https://github.com/systemd/systemd)
 
-This is a fork of F4HWN firmwarehttps://github.com/armel/uv-k5-firmware-customby@muzkrand@armel
+The systemd System and Service Manager
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 825 |
-| Forks | 226 |
-| Stars this month | 115 |
+| Stars | 16,994 |
+| Forks | 4,807 |
+| Stars this month | 258 |
 
 ---
 
-## 13. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
+## 13. [ventoy/Ventoy](https://github.com/ventoy/Ventoy) 🆕
+
+A new bootable USB solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 878 |
-| Forks | 67 |
-| Stars this month | 316 |
+| Stars | 80,575 |
+| Forks | 5,031 |
+| Stars this month | 1,025 |
 
 ---
 
@@ -182,8 +184,8 @@ Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 3,040 |
-| Forks | 390 |
-| Stars this month | 1,524 |
+| Stars | 3,055 |
+| Forks | 393 |
+| Stars this month | 1,383 |
 
 ---

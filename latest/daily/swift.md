@@ -1,152 +1,165 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-03T06:41:25Z
-**Total Repositories:** 11
-**New Entries:** 6
+**Snapshot Time:** 2026-11-04T06:08:29Z
+**Total Repositories:** 12
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
+## 1. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) 🆕
 
-Free and open-source macOS menu bar toolkit.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 32,645 |
-| Forks | 1,591 |
-| Stars today | 294 |
-
----
-
-## 2. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
-
-Run iOS apps without actually installing them!
+Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,753 |
-| Forks | 1,270 |
-| Stars today | 59 |
+| Stars | 9,127 |
+| Forks | 560 |
+| Stars today | 61 |
 
 ---
 
-## 3. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) 🆕
+## 2. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
 
 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,329 |
-| Forks | 249 |
+| Stars | 2,389 |
+| Forks | 252 |
 | Stars today | 54 |
 
 ---
 
-## 4. [YangJiiii/3105](https://github.com/YangJiiii/3105) 🆕
+## 3. [gnachman/iTerm2](https://github.com/gnachman/iTerm2) 🆕
 
-Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 970 |
-| Forks | 182 |
-| Stars today | 2 |
-
----
-
-## 5. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam) 🆕
-
-A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
+iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 434 |
-| Forks | 141 |
-| Stars today | 2 |
-
----
-
-## 6. [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) 🆕
-
-The mouse and trackpad utility for Mac.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 7,114 |
-| Forks | 198 |
-| Stars today | 9 |
-
----
-
-## 7. [farzaa/clicky](https://github.com/farzaa/clicky)
-
-The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 7,914 |
-| Forks | 1,587 |
-| Stars today | 19 |
-
----
-
-## 8. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
-
-An an app that installs Sidestore on iOS 27, fully on-device
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,291 |
-| Forks | 104 |
-| Stars today | 5 |
-
----
-
-## 9. [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) 🆕
-
-Native Jellyfin Client for iOS and tvOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,251 |
-| Forks | 639 |
+| Stars | 18,253 |
+| Forks | 1,546 |
 | Stars today | 3 |
 
 ---
 
-## 10. [momenbasel/PureMac](https://github.com/momenbasel/PureMac) 🆕
+## 4. [Finb/Bark](https://github.com/Finb/Bark) 🆕
 
-Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
+Bark is an iOS App which allows you to push custom notifications to your iPhone
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,601 |
-| Forks | 442 |
-| Stars today | 18 |
+| Stars | 9,460 |
+| Forks | 742 |
+| Stars today | 23 |
 
 ---
 
-## 11. [claration/feather](https://github.com/claration/feather)
+## 5. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+Free and open-source macOS menu bar toolkit.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,992 |
-| Forks | 463 |
-| Stars today | 10 |
+| Stars | 32,822 |
+| Forks | 1,603 |
+| Stars today | 200 |
+
+---
+
+## 6. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) 🆕
+
+Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 28,681 |
+| Forks | 2,623 |
+| Stars today | 33 |
+
+---
+
+## 7. [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) 🆕
+
+Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 749 |
+| Forks | 76 |
+| Stars today | 8 |
+
+---
+
+## 8. [l984-451/Rivulet](https://github.com/l984-451/Rivulet) 🆕
+
+A native Apple TV app for Plex, Jellyfin, and Live TV
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 263 |
+| Forks | 38 |
+| Stars today | 29 |
+
+---
+
+## 9. [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 🆕
+
+Powerful menu bar manager for macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 29,948 |
+| Forks | 1,039 |
+| Stars today | 7 |
+
+---
+
+## 10. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
+
+The Swift Programming Language
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 70,525 |
+| Forks | 10,899 |
+| Stars today | 4 |
+
+---
+
+## 11. [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) 🆕
+
+A lightweight, pure-Swift library for downloading and caching images from the web.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 24,404 |
+| Forks | 2,771 |
+| Stars today | 1 |
+
+---
+
+## 12. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
+
+Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,621 |
+| Forks | 814 |
+| Stars today | 86 |
 
 ---

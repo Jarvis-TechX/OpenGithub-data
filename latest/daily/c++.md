@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-03T06:41:20Z
-**Total Repositories:** 11
-**New Entries:** 9
+**Snapshot Time:** 2026-11-04T06:08:24Z
+**Total Repositories:** 12
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
@@ -15,138 +15,151 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,078 |
-| Forks | 2,159 |
-| Stars today | 509 |
+| Stars | 40,245 |
+| Forks | 2,165 |
+| Stars today | 526 |
 
 ---
 
-## 2. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) 🆕
+## 2. [meshtastic/firmware](https://github.com/meshtastic/firmware) 🆕
 
-Tool for automatic PS5 executables porting to Linux and Windows
+The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 50,771 |
-| Forks | 4,840 |
-| Stars today | 337 |
+| Stars | 8,525 |
+| Forks | 2,887 |
+| Stars today | 4 |
 
 ---
 
-## 3. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+## 3. [audacity/audacity](https://github.com/audacity/audacity) 🆕
 
-Self-hosted game stream host for Moonlight.
+Audio Editor
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 42,938 |
-| Forks | 2,345 |
-| Stars today | 45 |
+| Stars | 18,950 |
+| Forks | 2,714 |
+| Stars today | 21 |
 
 ---
 
-## 4. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) 🆕
+## 4. [aardappel/goose](https://github.com/aardappel/goose) 🆕
 
-Amnezia VPN Client (Desktop+Mobile)
+The Goose Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 15,668 |
-| Forks | 1,255 |
-| Stars today | 13 |
+| Stars | 2,961 |
+| Forks | 118 |
+| Stars today | 133 |
 
 ---
 
-## 5. [aria2/aria2](https://github.com/aria2/aria2) 🆕
+## 5. [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) 🆕
 
-aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 43,385 |
-| Forks | 3,958 |
+| Stars | 8,949 |
+| Forks | 944 |
+| Stars today | 16 |
+
+---
+
+## 6. [geode-sdk/geode](https://github.com/geode-sdk/geode) 🆕
+
+The ultimate Geometry Dash modding framework
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,228 |
+| Forks | 639 |
 | Stars today | 14 |
 
 ---
 
-## 6. [UE4SS-RE/RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) 🆕
+## 7. [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) 🆕
 
-Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
+AdaptixC2 is a highly modular advanced redteam toolkit
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,112 |
-| Forks | 567 |
+| Stars | 3,831 |
+| Forks | 702 |
+| Stars today | 4 |
+
+---
+
+## 8. [google/googletest](https://github.com/google/googletest) 🆕
+
+GoogleTest - Google Testing and Mocking Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 39,701 |
+| Forks | 10,932 |
 | Stars today | 8 |
 
 ---
 
-## 7. [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) 🆕
+## 9. [jimmgreen/pulse](https://github.com/jimmgreen/pulse) 🆕
 
-ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 22,215 |
-| Forks | 4,397 |
-| Stars today | 1 |
+| Stars | 1,297 |
+| Forks | 99 |
+| Stars today | 36 |
 
 ---
 
-## 8. [ml-explore/mlx](https://github.com/ml-explore/mlx) 🆕
+## 10. [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) 🆕
 
-MLX: An array framework for Apple silicon
+Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 29,033 |
-| Forks | 2,397 |
-| Stars today | 24 |
+| Stars | 7,887 |
+| Forks | 925 |
+| Stars today | 18 |
 
 ---
 
-## 9. [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 🆕
+## 11. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) 🆕
 
-《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+Audio Plugin for Audio to MIDI transcription using deep learning.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 24,242 |
-| Forks | 2,916 |
-| Stars today | 37 |
+| Stars | 3,390 |
+| Forks | 243 |
+| Stars today | 16 |
 
 ---
 
-## 10. [doitsujin/dxvk](https://github.com/doitsujin/dxvk) 🆕
+## 12. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
 
-Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 18,413 |
-| Forks | 1,333 |
-| Stars today | 10 |
-
----
-
-## 11. [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) 🆕
-
-Jellyfin Desktop Client
+An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 5,962 |
-| Forks | 580 |
-| Stars today | 6 |
+| Stars | 32,570 |
+| Forks | 7,680 |
+| Stars today | 71 |
 
 ---

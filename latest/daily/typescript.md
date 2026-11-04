@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-03T06:41:12Z
-**Total Repositories:** 15
-**New Entries:** 10
-**Quality Score:** 94.67/100
+**Snapshot Time:** 2026-11-04T06:08:16Z
+**Total Repositories:** 12
+**New Entries:** 7
+**Quality Score:** 90.00/100
 
 ---
 
@@ -15,186 +15,145 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 111,039 |
-| Forks | 9,680 |
-| Stars today | 1,803 |
+| Stars | 112,161 |
+| Forks | 9,757 |
+| Stars today | 1,139 |
 
 ---
 
-## 2. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+## 2. [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 42,496 |
-| Forks | 9,134 |
-| Stars today | 3,229 |
+| Stars | 3,092 |
+| Forks | 239 |
+| Stars today | 91 |
 
 ---
 
-## 3. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+## 3. [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote) 🆕
 
-The open-source app everyone uses to manage agents at work
+基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 110,567 |
-| Forks | 18,299 |
-| Stars today | 412 |
+| Stars | 1,593 |
+| Forks | 141 |
+| Stars today | 162 |
 
 ---
 
-## 4. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-
-Open-source Grok Bot alternative with a virtual machine that bots can use
+## 4. [CNCKitchen/ScanRuler](https://github.com/CNCKitchen/ScanRuler)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,411 |
-| Forks | 1,560 |
-| Stars today | 823 |
+| Stars | 837 |
+| Forks | 149 |
+| Stars today | 115 |
 
 ---
 
-## 5. [CNCKitchen/ScanRuler](https://github.com/CNCKitchen/ScanRuler) 🆕
+## 5. [datadrivenconstruction/OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) 🆕
+
+Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching, 293 guided cases. 120,000+ priced positions, 44 languages, 190+ modules, cost data for 40+ markets. AGPL-3.0. pip install openconstructionerp
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 755 |
-| Forks | 138 |
-| Stars today | 222 |
+| Stars | 1,156 |
+| Forks | 375 |
+| Stars today | 18 |
 
 ---
 
-## 6. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) 🆕
-
-Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 41,924 |
-| Forks | 4,285 |
-| Stars today | 255 |
-
----
-
-## 7. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) 🆕
-
-Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 90,038 |
-| Forks | 13,913 |
-| Stars today | 87 |
-
----
-
-## 8. [mvschwarz/openrig](https://github.com/mvschwarz/openrig) 🆕
-
-Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,568 |
-| Forks | 709 |
-| Stars today | 19 |
-
----
-
-## 9. [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute) 🆕
-
-Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 84,048 |
-| Forks | 12,602 |
-| Stars today | 402 |
-
----
-
-## 10. [mksglu/context-mode](https://github.com/mksglu/context-mode) 🆕
-
-Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 33,313 |
-| Forks | 2,295 |
-| Stars today | 151 |
-
----
-
-## 11. [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) 🆕
-
-TypeScript-to-Native Compiler
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 6,482 |
-| Forks | 207 |
-| Stars today | 17 |
-
----
-
-## 12. [hieunc229/mailflare](https://github.com/hieunc229/mailflare) 🆕
+## 6. [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
 
 Email for professionals and teams
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,519 |
-| Forks | 820 |
-| Stars today | 168 |
+| Stars | 5,595 |
+| Forks | 843 |
+| Stars today | 74 |
 
 ---
 
-## 13. [vercel-labs/skills](https://github.com/vercel-labs/skills) 🆕
+## 7. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) 🆕
 
-The open agent skills tool - npx skills
+7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 37,841 |
-| Forks | 3,272 |
-| Stars today | 244 |
+| Stars | 47,178 |
+| Forks | 6,448 |
+| Stars today | 688 |
 
 ---
 
-## 14. [kgoedecke/doop](https://github.com/kgoedecke/doop) 🆕
-
-The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.
+## 8. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,580 |
-| Forks | 187 |
-| Stars today | 125 |
+| Stars | 44,845 |
+| Forks | 9,286 |
+| Stars today | 3,173 |
 
 ---
 
-## 15. [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+## 9. [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 🆕
 
-An Open Source implementation of Notebook LM with more flexibility and features
+Spec-driven development (SDD) for AI coding assistants.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 41,441 |
-| Forks | 4,766 |
-| Stars today | 106 |
+| Stars | 73,852 |
+| Forks | 5,058 |
+| Stars today | 117 |
+
+---
+
+## 10. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+
+Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 42,102 |
+| Forks | 4,304 |
+| Stars today | 204 |
+
+---
+
+## 11. [immich-app/immich](https://github.com/immich-app/immich) 🆕
+
+High performance self-hosted photo and video management solution.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 118,167 |
+| Forks | 7,473 |
+| Stars today | 104 |
+
+---
+
+## 12. [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) 🆕
+
+Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 8,824 |
+| Forks | 944 |
+| Stars today | 31 |
 
 ---

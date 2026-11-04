@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-03T06:42:10Z
-**Total Repositories:** 14
-**New Entries:** 1
+**Snapshot Time:** 2026-11-04T06:09:11Z
+**Total Repositories:** 15
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 131,897 |
-| Forks | 15,601 |
-| Stars this month | 1,825 |
+| Stars | 131,923 |
+| Forks | 15,597 |
+| Stars this month | 1,845 |
 
 ---
 
@@ -28,9 +28,9 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,541 |
-| Forks | 811 |
-| Stars this month | 9,048 |
+| Stars | 14,621 |
+| Forks | 814 |
+| Stars this month | 9,129 |
 
 ---
 
@@ -41,9 +41,9 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,660 |
-| Forks | 2,619 |
-| Stars this month | 1,287 |
+| Stars | 28,681 |
+| Forks | 2,623 |
+| Stars this month | 1,304 |
 
 ---
 
@@ -54,8 +54,8 @@ Conduit — native SwiftUI iOS client for Hermes Agent
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 513 |
-| Forks | 69 |
+| Stars | 515 |
+| Forks | 70 |
 | Stars this month | 345 |
 
 ---
@@ -67,35 +67,35 @@ Telegram-iOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,386 |
-| Forks | 3,198 |
-| Stars this month | 288 |
+| Stars | 9,390 |
+| Forks | 3,208 |
+| Stars this month | 282 |
 
 ---
 
-## 6. [iliyami/MacSai](https://github.com/iliyami/MacSai)
+## 6. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) 🆕
 
-Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
+Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,067 |
-| Forks | 126 |
-| Stars this month | 391 |
+| Stars | 1,510 |
+| Forks | 83 |
+| Stars this month | 520 |
 
 ---
 
-## 7. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+## 7. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-bluetooth mesh chat, IRC vibes
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 37,060 |
-| Forks | 5,891 |
-| Stars this month | 852 |
+| Stars | 13,783 |
+| Forks | 1,273 |
+| Stars this month | 1,263 |
 
 ---
 
@@ -106,9 +106,9 @@ AltStore is an alternative app store for non-jailbroken iOS devices.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,833 |
+| Stars | 14,843 |
 | Forks | 1,700 |
-| Stars this month | 402 |
+| Stars this month | 403 |
 
 ---
 
@@ -119,22 +119,22 @@ Community fork of PlayCover
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,082 |
-| Forks | 1,026 |
-| Stars this month | 281 |
+| Stars | 12,088 |
+| Forks | 1,029 |
+| Stars this month | 287 |
 
 ---
 
-## 10. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) 🆕
+## 10. [iliyami/MacSai](https://github.com/iliyami/MacSai)
 
-Run iOS apps without actually installing them!
+Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,753 |
-| Forks | 1,270 |
-| Stars this month | 1,259 |
+| Stars | 2,078 |
+| Forks | 129 |
+| Stars this month | 391 |
 
 ---
 
@@ -145,47 +145,60 @@ Run iOS apps without actually installing them!
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,828 |
+| Stars | 2,835 |
 | Forks | 258 |
-| Stars this month | 533 |
+| Stars this month | 532 |
 
 ---
 
-## 12. [utmapp/UTM](https://github.com/utmapp/UTM)
-
-Virtual machines for iOS and macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 36,658 |
-| Forks | 1,893 |
-| Stars this month | 1,012 |
-
----
-
-## 13. [claration/feather](https://github.com/claration/feather)
+## 12. [claration/feather](https://github.com/claration/feather)
 
 Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,992 |
-| Forks | 463 |
-| Stars this month | 235 |
+| Stars | 5,003 |
+| Forks | 466 |
+| Stars this month | 240 |
 
 ---
 
-## 14. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
+## 13. [milika/SmartTubeIOS](https://github.com/milika/SmartTubeIOS) 🆕
+
+Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac — ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K. Open source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 537 |
+| Forks | 81 |
+| Stars this month | 160 |
+
+---
+
+## 14. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+
+bluetooth mesh chat, IRC vibes
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 37,069 |
+| Forks | 5,890 |
+| Stars this month | 846 |
+
+---
+
+## 15. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
 
 AI coding assistant for Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,365 |
-| Forks | 2,080 |
-| Stars this month | 79 |
+| Stars | 6,363 |
+| Forks | 2,081 |
+| Stars this month | 80 |
 
 ---

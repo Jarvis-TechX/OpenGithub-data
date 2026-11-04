@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-03T06:42:07Z
-**Total Repositories:** 13
-**New Entries:** 1
-**Quality Score:** 96.92/100
+**Snapshot Time:** 2026-11-04T06:09:09Z
+**Total Repositories:** 14
+**New Entries:** 3
+**Quality Score:** 97.14/100
 
 ---
 
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,296 |
-| Forks | 672 |
-| Stars this month | 2,703 |
+| Stars | 10,313 |
+| Forks | 673 |
+| Stars this month | 2,714 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,366 |
-| Forks | 549 |
-| Stars this month | 3,118 |
+| Stars | 5,508 |
+| Forks | 565 |
+| Stars this month | 3,202 |
 
 ---
 
@@ -39,35 +39,35 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,015 |
-| Forks | 4,868 |
-| Stars this month | 1,326 |
+| Stars | 20,052 |
+| Forks | 4,884 |
+| Stars this month | 1,352 |
 
 ---
 
-## 4. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
-
-DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,653 |
-| Forks | 428 |
-| Stars this month | 913 |
-
----
-
-## 5. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+## 4. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 
 Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,845 |
+| Stars | 6,869 |
 | Forks | 1,405 |
-| Stars this month | 480 |
+| Stars this month | 492 |
+
+---
+
+## 5. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
+
+DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,661 |
+| Forks | 429 |
+| Stars this month | 912 |
 
 ---
 
@@ -78,48 +78,48 @@ Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtrea
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 723 |
+| Stars | 725 |
 | Forks | 178 |
-| Stars this month | 255 |
+| Stars this month | 254 |
 
 ---
 
-## 7. [CYQawa/YunX](https://github.com/CYQawa/YunX)
-
-✨一个安卓 网盘解析 + 视频平台解析 下载app✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,341 |
-| Forks | 328 |
-| Stars this month | 2,820 |
-
----
-
-## 8. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+## 7. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
 
 A V2Ray client for Android, support Xray core and v2fly core
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 65,213 |
+| Stars | 65,267 |
 | Forks | 8,517 |
-| Stars this month | 2,054 |
+| Stars this month | 2,073 |
 
 ---
 
-## 9. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland) 🆕
+## 8. [CYQawa/YunX](https://github.com/CYQawa/YunX)
 
-Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
+✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 398 |
-| Forks | 54 |
-| Stars this month | 175 |
+| Stars | 6,397 |
+| Forks | 328 |
+| Stars this month | 2,837 |
+
+---
+
+## 9. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) 🆕
+
+Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,407 |
+| Forks | 123 |
+| Stars this month | 1,881 |
 
 ---
 
@@ -130,47 +130,60 @@ The Magic Mask for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 63,720 |
-| Forks | 19,164 |
-| Stars this month | 881 |
+| Stars | 63,750 |
+| Forks | 19,179 |
+| Stars this month | 888 |
 
 ---
 
-## 11. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
+## 11. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) 🆕
 
-Headunit App for displaying Android Auto
+Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,163 |
-| Forks | 292 |
-| Stars this month | 591 |
+| Stars | 2,616 |
+| Forks | 158 |
+| Stars this month | 503 |
 
 ---
 
-## 12. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
+## 12. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
+
+基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 43,969 |
+| Forks | 2,100 |
+| Stars this month | 1,656 |
+
+---
+
+## 13. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland)
+
+Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 406 |
+| Forks | 54 |
+| Stars this month | 172 |
+
+---
+
+## 14. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
 
 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,096 |
+| Stars | 1,112 |
 | Forks | 46 |
-| Stars this month | 468 |
-
----
-
-## 13. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
-
-GhostLock One-Tap Execution App (CVE-2026-43499)
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,522 |
-| Forks | 613 |
-| Stars this month | 1,130 |
+| Stars this month | 469 |
 
 ---

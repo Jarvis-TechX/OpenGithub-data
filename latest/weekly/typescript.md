@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-03T06:41:32Z
-**Total Repositories:** 16
+**Snapshot Time:** 2026-11-04T06:08:35Z
+**Total Repositories:** 17
 **New Entries:** 3
-**Quality Score:** 95.00/100
+**Quality Score:** 95.29/100
 
 ---
 
@@ -15,9 +15,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 111,040 |
-| Forks | 9,680 |
-| Stars this week | 7,255 |
+| Stars | 112,161 |
+| Forks | 9,757 |
+| Stars this week | 7,995 |
 
 ---
 
@@ -26,9 +26,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 42,497 |
-| Forks | 9,134 |
-| Stars this week | 9,770 |
+| Stars | 44,846 |
+| Forks | 9,286 |
+| Stars this week | 12,542 |
 
 ---
 
@@ -39,61 +39,61 @@ Vibe code with pi in a lightweight, real IDE that customises itself around the w
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,254 |
-| Forks | 426 |
-| Stars this week | 4,812 |
+| Stars | 7,475 |
+| Forks | 448 |
+| Stars this week | 3,898 |
 
 ---
 
-## 4. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 4. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 🆕
 
-Write HTML. Render video. Built for agents.
+AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 77,879 |
-| Forks | 7,167 |
-| Stars this week | 4,924 |
+| Stars | 16,676 |
+| Forks | 1,577 |
+| Stars this week | 2,485 |
 
 ---
 
-## 5. [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
-
-📨 The ultimate agentic social media scheduling tool 🤖
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 40,750 |
-| Forks | 7,757 |
-| Stars this week | 2,611 |
-
----
-
-## 6. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+## 5. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 
 Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,935 |
-| Forks | 1,218 |
-| Stars this week | 2,710 |
+| Stars | 10,060 |
+| Forks | 1,238 |
+| Stars this week | 2,671 |
 
 ---
 
-## 7. [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
+## 6. [vercel-labs/skills](https://github.com/vercel-labs/skills)
 
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+The open agent skills tool - npx skills
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 4,975 |
-| Forks | 509 |
-| Stars this week | 3,451 |
+| Stars | 37,995 |
+| Forks | 3,290 |
+| Stars this week | 1,136 |
+
+---
+
+## 7. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+
+Write HTML. Render video. Built for agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 78,496 |
+| Forks | 7,224 |
+| Stars this week | 4,546 |
 
 ---
 
@@ -104,110 +104,123 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,411 |
-| Forks | 1,560 |
-| Stars this week | 5,487 |
+| Stars | 11,781 |
+| Forks | 1,622 |
+| Stars this week | 5,990 |
 
 ---
 
-## 9. [makecindy/cindy](https://github.com/makecindy/cindy)
+## 9. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 🆕
 
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,055 |
-| Forks | 1,098 |
-| Stars this week | 3,098 |
+| Stars | 15,272 |
+| Forks | 2,954 |
+| Stars this week | 6,595 |
 
 ---
 
-## 10. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+## 10. [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
 
-🎥 Make videos programmatically with React
+A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 70,202 |
-| Forks | 5,784 |
-| Stars this week | 2,296 |
+| Stars | 5,345 |
+| Forks | 542 |
+| Stars this week | 2,898 |
 
 ---
 
-## 11. [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
-
-An Open Source implementation of Notebook LM with more flexibility and features
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 41,441 |
-| Forks | 4,766 |
-| Stars this week | 786 |
-
----
-
-## 12. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 11. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 46,564 |
-| Forks | 6,357 |
-| Stars this week | 4,313 |
+| Stars | 47,178 |
+| Forks | 6,448 |
+| Stars this week | 4,414 |
 
 ---
 
-## 13. [vercel-labs/skills](https://github.com/vercel-labs/skills) 🆕
+## 12. [makecindy/cindy](https://github.com/makecindy/cindy)
 
-The open agent skills tool - npx skills
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 37,841 |
-| Forks | 3,272 |
-| Stars this week | 1,149 |
+| Stars | 9,199 |
+| Forks | 1,118 |
+| Stars this week | 1,747 |
 
 ---
 
-## 14. [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) 🆕
+## 13. [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
 
 Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 51,011 |
-| Forks | 5,937 |
-| Stars this week | 1,627 |
+| Stars | 51,110 |
+| Forks | 5,952 |
+| Stars this week | 1,419 |
 
 ---
 
-## 15. [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
+## 14. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 
-Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Autopilots like Scout, Microsoft Copilot Cowork, or Copilot Studio.
+🎥 Make videos programmatically with React
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,652 |
-| Forks | 645 |
-| Stars this week | 478 |
+| Stars | 70,519 |
+| Forks | 5,805 |
+| Stars this week | 2,250 |
 
 ---
 
-## 16. [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) 🆕
+## 15. [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
+An Open Source implementation of Notebook LM with more flexibility and features
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 2,889 |
-| Forks | 225 |
-| Stars this week | 316 |
+| Stars | 41,534 |
+| Forks | 4,772 |
+| Stars this week | 906 |
+
+---
+
+## 16. [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,092 |
+| Forks | 239 |
+| Stars this week | 518 |
+
+---
+
+## 17. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) 🆕
+
+Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 42,102 |
+| Forks | 4,304 |
+| Stars this week | 1,051 |
 
 ---

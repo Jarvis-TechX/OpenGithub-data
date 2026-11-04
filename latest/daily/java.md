@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-03T06:41:22Z
+**Snapshot Time:** 2026-11-04T06:08:25Z
 **Total Repositories:** 19
-**New Entries:** 10
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ Light, fluffy, and always free - The AWS Local Emulator alternative
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 28,015 |
-| Forks | 3,140 |
-| Stars today | 219 |
+| Stars | 29,019 |
+| Forks | 3,227 |
+| Stars today | 482 |
 
 ---
 
-## 2. [termux/termux-app](https://github.com/termux/termux-app)
+## 2. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) 🆕
 
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
+Ghidra is a software reverse engineering (SRE) framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 63,989 |
-| Forks | 8,163 |
-| Stars today | 85 |
+| Stars | 97,601 |
+| Forks | 11,039 |
+| Stars today | 403 |
 
 ---
 
@@ -41,216 +41,215 @@ Termux - a terminal emulator application for Android OS extendible by variety of
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,461 |
-| Forks | 4,920 |
-| Stars today | 13 |
-
----
-
-## 4. [termux/termux-api](https://github.com/termux/termux-api)
-
-Termux add-on app which exposes device functionality as API to command line programs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 4,582 |
-| Forks | 988 |
+| Stars | 5,505 |
+| Forks | 4,933 |
 | Stars today | 12 |
 
 ---
 
-## 5. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
+## 4. [floci-io/floci-az](https://github.com/floci-io/floci-az) 🆕
 
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 644 |
-| Forks | 107 |
-| Stars today | 21 |
-
----
-
-## 6. [LiteLDev/LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) 🆕
-
-A launcher designed for Minecraft Bedrock Edition on Android
+Light, fluffy, and always free - Local Azure Emulator
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 672 |
-| Forks | 175 |
-| Stars today | 3 |
-
----
-
-## 7. [adityatandon15/Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) 🆕
-
-All Code of LLD Playlist
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,424 |
-| Forks | 954 |
-| Stars today | 3 |
-
----
-
-## 8. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher)
-
-Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,127 |
-| Forks | 367 |
-| Stars today | 9 |
-
----
-
-## 9. [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) 🆕
-
-HyperOS enhancement module - Make HyperOS Great Again!
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,640 |
-| Forks | 460 |
+| Stars | 841 |
+| Forks | 157 |
 | Stars today | 12 |
 
 ---
 
-## 10. [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API)
+## 5. [skylot/jadx](https://github.com/skylot/jadx) 🆕
 
-The API and the developer guide for Shizuku and Sui.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,736 |
-| Forks | 1,304 |
-| Stars today | 5 |
-
----
-
-## 11. [Keeperorowner/NagramXF](https://github.com/Keeperorowner/NagramXF) 🆕
-
-A fork of NagramX with additional features.
+Dex to Java decompiler
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,091 |
-| Forks | 76 |
-| Stars today | 10 |
+| Stars | 51,571 |
+| Forks | 5,893 |
+| Stars today | 58 |
 
 ---
 
-## 12. [debezium/debezium](https://github.com/debezium/debezium) 🆕
+## 6. [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) 🆕
 
-Change data capture for a variety of databases. Please log issues athttps://github.com/debezium/dbz/issues.
+The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,308 |
-| Forks | 3,123 |
-| Stars today | 4 |
+| Stars | 3,762 |
+| Forks | 1,113 |
 
 ---
 
-## 13. [microg/GmsCore](https://github.com/microg/GmsCore)
+## 7. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
 
-Free implementation of Play Services
+Build distributed, production-grade, long-running agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 15,173 |
-| Forks | 3,332 |
-| Stars today | 17 |
+| Stars | 6,238 |
+| Forks | 1,564 |
+| Stars today | 11 |
 
 ---
 
-## 14. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) 🆕
+## 8. [apache/iceberg](https://github.com/apache/iceberg) 🆕
 
-LSPosed Framework
+Apache Iceberg
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 25,310 |
-| Forks | 3,600 |
-| Stars today | 22 |
+| Stars | 9,405 |
+| Forks | 3,659 |
+| Stars today | 6 |
 
 ---
 
-## 15. [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
+## 9. [termux/termux-app](https://github.com/termux/termux-app)
+
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 64,054 |
+| Forks | 8,181 |
+| Stars today | 78 |
+
+---
+
+## 10. [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) 🆕
+
+MCP Server for Ghidra
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 11,753 |
+| Forks | 1,265 |
+| Stars today | 29 |
+
+---
+
+## 11. [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) 🆕
+
+Jetbrains Claude Code and Codex GUI Plugin
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 7,467 |
+| Forks | 698 |
+| Stars today | 28 |
+
+---
+
+## 12. [keycloak/keycloak](https://github.com/keycloak/keycloak) 🆕
+
+Open Source Identity and Access Management For Modern Applications and Services
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 37,690 |
+| Forks | 9,140 |
+| Stars today | 25 |
+
+---
+
+## 13. [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
 
 [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,346 |
-| Forks | 410 |
-| Stars today | 55 |
+| Stars | 3,370 |
+| Forks | 412 |
+| Stars today | 25 |
 
 ---
 
-## 16. [AndroidCSOfficial/android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio) 🆕
+## 14. [kknifer7/FreeBox](https://github.com/kknifer7/FreeBox) 🆕
 
-Android Code Studio is an IDE for Android to develop full featured Android apps.
+TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,388 |
-| Forks | 245 |
-| Stars today | 1 |
+| Stars | 2,122 |
+| Forks | 205 |
+| Stars today | 15 |
 
 ---
 
-## 17. [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+## 15. [adityatandon15/Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course)
 
-No-root network monitor, firewall and PCAP dumper for Android
+All Code of LLD Playlist
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,059 |
-| Forks | 582 |
-| Stars today | 9 |
+| Stars | 1,425 |
+| Forks | 955 |
+| Stars today | 4 |
 
 ---
 
-## 18. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) 🆕
+## 16. [cabaletta/baritone](https://github.com/cabaletta/baritone) 🆕
 
-Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
+google maps for block game
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,154 |
-| Forks | 71 |
-| Stars today | 6 |
+| Stars | 9,340 |
+| Forks | 2,085 |
+| Stars today | 5 |
 
 ---
 
-## 19. [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) 🆕
+## 17. [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) 🆕
 
-IntelliJ IDEA & IntelliJ Platform
+Learn Low Level Design (LLD) and prepare for interviews using free resources.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 20,705 |
-| Forks | 6,132 |
-| Stars today | 7 |
+| Stars | 27,736 |
+| Forks | 6,664 |
+| Stars today | 16 |
+
+---
+
+## 18. [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) 🆕
+
+一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 11,738 |
+| Forks | 1,336 |
+| Stars today | 16 |
+
+---
+
+## 19. [microg/GmsCore](https://github.com/microg/GmsCore)
+
+Free implementation of Play Services
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 15,183 |
+| Forks | 3,332 |
+| Stars today | 11 |
 
 ---

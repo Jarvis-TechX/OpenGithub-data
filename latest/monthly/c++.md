@@ -1,36 +1,36 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-03T06:42:04Z
+**Snapshot Time:** 2026-11-04T06:09:06Z
 **Total Repositories:** 16
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-
-Tool for automatic PS5 executables porting to Linux and Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 50,771 |
-| Forks | 4,840 |
-| Stars this month | 47,891 |
-
----
-
-## 2. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+## 1. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
 
 An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 32,513 |
-| Forks | 7,655 |
-| Stars this month | 2,211 |
+| Stars | 32,571 |
+| Forks | 7,680 |
+| Stars this month | 2,252 |
+
+---
+
+## 2. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+
+Tool for automatic PS5 executables porting to Linux and Windows
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 50,963 |
+| Forks | 4,854 |
+| Stars this month | 47,969 |
 
 ---
 
@@ -41,9 +41,9 @@ Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,495 |
-| Forks | 390 |
-| Stars this month | 2,803 |
+| Stars | 3,503 |
+| Forks | 391 |
+| Stars this month | 2,732 |
 
 ---
 
@@ -54,9 +54,9 @@ Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,771 |
+| Stars | 3,780 |
 | Forks | 241 |
-| Stars this month | 476 |
+| Stars this month | 480 |
 
 ---
 
@@ -67,60 +67,60 @@ Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,726 |
-| Forks | 2,601 |
-| Stars this month | 836 |
+| Stars | 55,743 |
+| Forks | 2,605 |
+| Stars this month | 849 |
 
 ---
 
-## 6. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
-
-PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 34,034 |
-| Forks | 2,883 |
-| Stars this month | 1,118 |
-
----
-
-## 7. [microsoft/BitNet](https://github.com/microsoft/BitNet)
+## 6. [microsoft/BitNet](https://github.com/microsoft/BitNet)
 
 Official inference framework for 1-bit LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,451 |
-| Forks | 3,865 |
-| Stars this month | 1,182 |
+| Stars | 41,453 |
+| Forks | 3,867 |
+| Stars this month | 1,194 |
 
 ---
 
-## 8. [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps)
+## 7. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 
-Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
+PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,594 |
-| Forks | 427 |
-| Stars this month | 1,231 |
+| Stars | 34,048 |
+| Forks | 2,886 |
+| Stars this month | 1,125 |
 
 ---
 
-## 9. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+## 8. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
 
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 35,075 |
-| Forks | 6,332 |
+| Stars | 35,102 |
+| Forks | 6,337 |
+| Stars this month | 1,263 |
+
+---
+
+## 9. [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps)
+
+Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 6,623 |
+| Forks | 430 |
 | Stars this month | 1,249 |
 
 ---
@@ -133,8 +133,8 @@ Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative t
 |--------|-------|
 | Language | C++ |
 | Stars | 27,076 |
-| Forks | 1,024 |
-| Stars this month | 493 |
+| Forks | 1,025 |
+| Stars this month | 490 |
 
 ---
 
@@ -145,39 +145,65 @@ Build cross-platform desktop apps with JavaScript, HTML, and CSS
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 123,736 |
-| Forks | 17,917 |
-| Stars this month | 755 |
+| Stars | 123,759 |
+| Forks | 17,882 |
+| Stars this month | 772 |
 
 ---
 
-## 12. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
-
-Easily download and manage single-player game cheats for your convenience
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 15,922 |
-| Forks | 578 |
-| Stars this month | 991 |
-
----
-
-## 13. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+## 12. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
 
 G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,298 |
-| Forks | 3,392 |
-| Stars this month | 485 |
+| Stars | 16,305 |
+| Forks | 3,401 |
+| Stars this month | 489 |
 
 ---
 
-## 14. [react/react-native](https://github.com/react/react-native)
+## 13. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
+
+Easily download and manage single-player game cheats for your convenience
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 15,940 |
+| Forks | 578 |
+| Stars this month | 994 |
+
+---
+
+## 14. [florinp93/hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp)
+
+Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 835 |
+| Forks | 38 |
+| Stars this month | 441 |
+
+---
+
+## 15. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
+
+Reimplementation of GTA:SA 1.0 US
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,206 |
+| Forks | 272 |
+| Stars this month | 243 |
+
+---
+
+## 16. [react/react-native](https://github.com/react/react-native)
 
 A framework for building native applications using React
 
@@ -185,33 +211,7 @@ A framework for building native applications using React
 |--------|-------|
 | Language | C++ |
 | Stars | 126,853 |
-| Forks | 25,511 |
-| Stars this month | 427 |
-
----
-
-## 15. [florinp93/hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp) 🆕
-
-Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 829 |
-| Forks | 38 |
-| Stars this month | 435 |
-
----
-
-## 16. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed)
-
-Reimplementation of GTA:SA 1.0 US
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 1,201 |
-| Forks | 272 |
-| Stars this month | 247 |
+| Forks | 25,482 |
+| Stars this month | 429 |
 
 ---

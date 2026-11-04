@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-03T06:41:23Z
-**Total Repositories:** 16
-**New Entries:** 8
+**Snapshot Time:** 2026-11-04T06:08:26Z
+**Total Repositories:** 13
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,203 +15,164 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,366 |
-| Forks | 549 |
-| Stars today | 168 |
+| Stars | 5,508 |
+| Forks | 565 |
+| Stars today | 154 |
 
 ---
 
-## 2. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
-
-StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 966 |
-| Forks | 165 |
-| Stars today | 22 |
-
----
-
-## 3. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
-
-The Magic Mask for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 63,720 |
-| Forks | 19,164 |
-| Stars today | 33 |
-
----
-
-## 4. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music) 🆕
-
-A modern sleek music player.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 525 |
-| Forks | 35 |
-| Stars today | 64 |
-
----
-
-## 5. [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness)
-
-Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 786 |
-| Forks | 221 |
-| Stars today | 11 |
-
----
-
-## 6. [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
-
-Full-featured audio/video downloader for Android using yt-dlp
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 10,945 |
-| Forks | 513 |
-| Stars today | 36 |
-
----
-
-## 7. [ianshulyadav/PixelMusic](https://github.com/ianshulyadav/PixelMusic) 🆕
-
-Pixel Music is an open-source Android music player. Stream YouTube Music & Telegram, play Hi-Res lossless FLAC, with synced lyrics & 10-band EQ.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 270 |
-| Forks | 24 |
-| Stars today | 6 |
-
----
-
-## 8. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) 🆕
-
-Kernel-based Android Root Solution & KPM
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,845 |
-| Forks | 1,405 |
-| Stars today | 41 |
-
----
-
-## 9. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
-
-✨一个安卓 网盘解析 + 视频平台解析 下载app✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,341 |
-| Forks | 328 |
-| Stars today | 113 |
-
----
-
-## 10. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
-
-Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,594 |
-| Forks | 154 |
-| Stars today | 66 |
-
----
-
-## 11. [open-ani/animeko](https://github.com/open-ani/animeko) 🆕
-
-集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 21,447 |
-| Forks | 645 |
-| Stars today | 37 |
-
----
-
-## 12. [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-
-Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,607 |
-| Forks | 423 |
-| Stars today | 18 |
-
----
-
-## 13. [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2) 🆕
+## 2. [ZalithLauncher/ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2)
 
 A Minecraft: Java Edition Launcher for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,163 |
-| Forks | 493 |
+| Stars | 2,168 |
+| Forks | 500 |
+| Stars today | 7 |
+
+---
+
+## 3. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) 🆕
+
+翻墙-科学上网
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 56,363 |
+| Forks | 8,723 |
+| Stars today | 221 |
+
+---
+
+## 4. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
+
+Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,616 |
+| Forks | 158 |
+| Stars today | 43 |
+
+---
+
+## 5. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) 🆕
+
+使用 Material Design 3 全新设计的阅读 3.0
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,823 |
+| Forks | 784 |
+| Stars today | 17 |
+
+---
+
+## 6. [LegadoTeam/legado](https://github.com/LegadoTeam/legado) 🆕
+
+Legado 3.0 Book Reader with powerful controls
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,784 |
+| Forks | 411 |
 | Stars today | 12 |
 
 ---
 
-## 14. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
+## 7. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
 
-A V2Ray client for Android, support Xray core and v2fly core
+StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 65,213 |
-| Forks | 8,517 |
-| Stars today | 81 |
+| Stars | 978 |
+| Forks | 167 |
+| Stars today | 17 |
 
 ---
 
-## 15. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
+## 8. [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)
 
-A Download Manager that speeds up your downloads
+Full-featured audio/video downloader for Android using yt-dlp
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,939 |
-| Forks | 1,000 |
-| Stars today | 42 |
+| Stars | 10,953 |
+| Forks | 517 |
+| Stars today | 18 |
 
 ---
 
-## 16. [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS)
+## 9. [Mahmud0808/TeleDrive](https://github.com/Mahmud0808/TeleDrive) 🆕
 
-A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.
+Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optional E2E encryption, built-in file manager and player.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,881 |
-| Forks | 262 |
-| Stars today | 19 |
+| Stars | 434 |
+| Forks | 51 |
+| Stars today | 11 |
+
+---
+
+## 10. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+
+✨一个安卓 网盘解析 + 视频平台解析 下载app✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,397 |
+| Forks | 328 |
+| Stars today | 76 |
+
+---
+
+## 11. [fahrez182/AxManager](https://github.com/fahrez182/AxManager) 🆕
+
+AxManager is an Android application designed to provide deeper control over apps and the system.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,547 |
+| Forks | 145 |
+| Stars today | 3 |
+
+---
+
+## 12. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music)
+
+A modern, cool, sleek music player. made with <3
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 623 |
+| Forks | 37 |
+| Stars today | 89 |
+
+---
+
+## 13. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid) 🆕
+
+Android GUI proxy utility (Empowered by sing-box)
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 706 |
+| Forks | 35 |
+| Stars today | 14 |
 
 ---

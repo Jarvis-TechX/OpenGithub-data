@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-03T06:41:53Z
+**Snapshot Time:** 2026-11-04T06:08:55Z
 **Total Repositories:** 14
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 97.14/100
 
 ---
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 57,607 |
-| Forks | 3,749 |
-| Stars this month | 33,474 |
+| Stars | 58,361 |
+| Forks | 3,796 |
+| Stars this month | 34,248 |
 
 ---
 
@@ -28,35 +28,35 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 108,964 |
-| Forks | 7,339 |
-| Stars this month | 16,952 |
+| Stars | 109,632 |
+| Forks | 7,369 |
+| Stars this month | 17,709 |
 
 ---
 
-## 3. [affaan-m/ECC](https://github.com/affaan-m/ECC)
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 295,863 |
-| Forks | 43,781 |
-| Stars this month | 26,123 |
-
----
-
-## 4. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+## 3. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 112,871 |
-| Forks | 11,817 |
-| Stars this month | 12,792 |
+| Stars | 113,105 |
+| Forks | 11,833 |
+| Stars this month | 12,738 |
+
+---
+
+## 4. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 296,690 |
+| Forks | 43,871 |
+| Stars this month | 26,053 |
 
 ---
 
@@ -67,9 +67,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 18,955 |
-| Forks | 2,506 |
-| Stars this month | 17,321 |
+| Stars | 19,166 |
+| Forks | 2,542 |
+| Stars this month | 17,532 |
 
 ---
 
@@ -80,9 +80,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 37,510 |
-| Forks | 2,685 |
-| Stars this month | 16,662 |
+| Stars | 37,698 |
+| Forks | 2,695 |
+| Stars this month | 16,840 |
 
 ---
 
@@ -91,9 +91,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,519 |
-| Forks | 1,218 |
-| Stars this month | 2,975 |
+| Stars | 7,573 |
+| Forks | 1,234 |
+| Stars this month | 3,014 |
 
 ---
 
@@ -104,9 +104,9 @@ List of Permanent Free LLM API (API Keys)
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,016 |
-| Forks | 1,390 |
-| Stars this month | 3,068 |
+| Stars | 12,121 |
+| Forks | 1,402 |
+| Stars this month | 3,059 |
 
 ---
 
@@ -117,9 +117,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,458 |
-| Forks | 36,900 |
-| Stars this month | 1,610 |
+| Stars | 117,523 |
+| Forks | 36,859 |
+| Stars this month | 1,647 |
 
 ---
 
@@ -130,9 +130,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 49,384 |
+| Stars | 49,388 |
 | Forks | 7,646 |
-| Stars this month | 588 |
+| Stars this month | 591 |
 
 ---
 
@@ -143,9 +143,9 @@ web development for the rest of us
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 88,538 |
-| Forks | 6,853 |
-| Stars this month | 738 |
+| Stars | 88,551 |
+| Forks | 6,819 |
+| Stars this month | 746 |
 
 ---
 
@@ -156,9 +156,9 @@ web development for the rest of us
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,604 |
-| Forks | 621 |
-| Stars this month | 1,357 |
+| Stars | 4,629 |
+| Forks | 623 |
+| Stars this month | 1,381 |
 
 ---
 
@@ -169,21 +169,21 @@ OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,563 |
-| Forks | 4,383 |
-| Stars this month | 988 |
+| Stars | 12,590 |
+| Forks | 4,386 |
+| Stars this month | 990 |
 
 ---
 
-## 14. [nodejs/node](https://github.com/nodejs/node) 🆕
+## 14. [nodejs/node](https://github.com/nodejs/node)
 
 Node.js JavaScript runtime ✨🐢🚀✨
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 123,205 |
-| Forks | 38,765 |
-| Stars this month | 2,207 |
+| Stars | 123,225 |
+| Forks | 38,732 |
+| Stars this month | 2,190 |
 
 ---

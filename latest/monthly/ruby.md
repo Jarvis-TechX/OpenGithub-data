@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-03T06:41:56Z
+**Snapshot Time:** 2026-11-04T06:08:59Z
 **Total Repositories:** 22
-**New Entries:** 1
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Ruby on Rails
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 58,846 |
-| Forks | 23,866 |
-| Stars this month | 179 |
+| Stars | 58,844 |
+| Forks | 23,853 |
+| Stars this month | 175 |
 
 ---
 
@@ -28,9 +28,9 @@ Your self-hosted, globally interconnected microblogging community
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,467 |
+| Stars | 50,476 |
 | Forks | 7,537 |
-| Stars this month | 215 |
+| Stars this month | 218 |
 
 ---
 
@@ -41,9 +41,9 @@ The Ruby Programming Language
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,799 |
-| Forks | 5,681 |
-| Stars this month | 96 |
+| Stars | 23,795 |
+| Forks | 5,679 |
+| Stars this month | 92 |
 
 ---
 
@@ -54,9 +54,9 @@ See what sticks
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,076 |
+| Stars | 10,083 |
 | Forks | 2,109 |
-| Stars this month | 352 |
+| Stars this month | 358 |
 
 ---
 
@@ -67,78 +67,117 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,949 |
-| Forks | 3,679 |
-| Stars this month | 693 |
+| Stars | 16,966 |
+| Forks | 3,685 |
+| Stars this month | 704 |
 
 ---
 
-## 6. [github/explore](https://github.com/github/explore)
-
-Community-curated topic and collection pages on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 4,946 |
-| Forks | 14,697 |
-| Stars this month | 62 |
-
----
-
-## 7. [forem/forem](https://github.com/forem/forem)
-
-For empowering community 🌱
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 22,817 |
-| Forks | 4,191 |
-| Stars this month | 55 |
-
----
-
-## 8. [huginn/huginn](https://github.com/huginn/huginn)
+## 6. [huginn/huginn](https://github.com/huginn/huginn)
 
 Create agents that monitor and act on your behalf. Your agents are standing by!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,276 |
+| Stars | 50,286 |
 | Forks | 4,340 |
-| Stars this month | 340 |
+| Stars this month | 346 |
 
 ---
 
-## 9. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+## 7. [github/explore](https://github.com/github/explore)
 
-Metasploit Framework
+Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,297 |
-| Forks | 15,001 |
-| Stars this month | 292 |
+| Stars | 4,947 |
+| Forks | 14,700 |
+| Stars this month | 64 |
 
 ---
 
-## 10. [docusealco/docuseal](https://github.com/docusealco/docuseal)
+## 8. [ruby/rubygems](https://github.com/ruby/rubygems) 🆕
+
+Library packaging and distribution for Ruby.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 3,986 |
+| Forks | 1,957 |
+| Stars this month | 21 |
+
+---
+
+## 9. [docusealco/docuseal](https://github.com/docusealco/docuseal)
 
 Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 18,982 |
-| Forks | 1,934 |
-| Stars this month | 364 |
+| Stars | 18,989 |
+| Forks | 1,938 |
+| Stars this month | 368 |
 
 ---
 
-## 11. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+## 10. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+
+Metasploit Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,308 |
+| Forks | 15,006 |
+| Stars this month | 294 |
+
+---
+
+## 11. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 38,830 |
+| Forks | 9,447 |
+| Stars this month | 1,413 |
+
+---
+
+## 12. [github/markup](https://github.com/github/markup) 🆕
+
+Determines which markup library to use to render a content file (e.g. README) on GitHub
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 6,053 |
+| Forks | 3,375 |
+| Stars this month | 17 |
+
+---
+
+## 13. [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+
+Next generation web scanner
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 6,982 |
+| Forks | 1,020 |
+| Stars this month | 119 |
+
+---
+
+## 14. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 
 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
@@ -147,141 +186,50 @@ Open source DocuSign alternative. Create, fill, and sign digital documents ✍�
 | Language | Ruby |
 | Stars | 15,651 |
 | Forks | 13,943 |
-| Stars this month | 69 |
+| Stars this month | 68 |
 
 ---
 
-## 12. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
-
-Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 38,766 |
-| Forks | 9,432 |
-| Stars this month | 1,402 |
-
----
-
-## 13. [instructure/canvas-lms](https://github.com/instructure/canvas-lms)
-
-The open LMS by Instructure, Inc.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 6,900 |
-| Forks | 3,055 |
-| Stars this month | 51 |
-
----
-
-## 14. [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-
-Next generation web scanner
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 6,978 |
-| Forks | 1,019 |
-| Stars this month | 117 |
-
----
-
-## 15. [jruby/jruby](https://github.com/jruby/jruby)
-
-JRuby, an implementation of Ruby on the JVM
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 3,925 |
-| Forks | 956 |
-| Stars this month | 7 |
-
----
-
-## 16. [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
-
-Super simple group chat, without a subscription
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 4,813 |
-| Forks | 824 |
-| Stars this month | 155 |
-
----
-
-## 17. [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
-
-Vagrant is a tool for building and distributing development environments.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 27,219 |
-| Forks | 4,526 |
-| Stars this month | 40 |
-
----
-
-## 18. [zammad/zammad](https://github.com/zammad/zammad)
-
-Zammad is a web based open source helpdesk/customer support system.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 6,069 |
-| Forks | 1,093 |
-| Stars this month | 103 |
-
----
-
-## 19. [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)
-
-The Cocoa Dependency Manager.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 14,837 |
-| Forks | 2,686 |
-| Stars this month | 14 |
-
----
-
-## 20. [otwcode/otwarchive](https://github.com/otwcode/otwarchive) 🆕
+## 15. [otwcode/otwarchive](https://github.com/otwcode/otwarchive)
 
 The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,334 |
-| Forks | 885 |
-| Stars this month | 80 |
+| Stars | 2,358 |
+| Forks | 888 |
+| Stars this month | 103 |
 
 ---
 
-## 21. [jekyll/jekyll](https://github.com/jekyll/jekyll)
+## 16. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) 🆕
 
-🌐 Jekyll is a blog-aware static site generator in Ruby
+🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 51,744 |
-| Forks | 10,302 |
-| Stars this month | 115 |
+| Stars | 22,279 |
+| Forks | 12,055 |
+| Stars this month | 78 |
 
 ---
 
-## 22. [discourse/discourse](https://github.com/discourse/discourse)
+## 17. [jruby/jruby](https://github.com/jruby/jruby)
+
+JRuby, an implementation of Ruby on the JVM
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 3,923 |
+| Forks | 958 |
+| Stars this month | 6 |
+
+---
+
+## 18. [discourse/discourse](https://github.com/discourse/discourse)
 
 A platform for community discussion. Free, open, simple.
 
@@ -289,7 +237,59 @@ A platform for community discussion. Free, open, simple.
 |--------|-------|
 | Language | Ruby |
 | Stars | 48,045 |
-| Forks | 9,058 |
-| Stars this month | 201 |
+| Forks | 9,061 |
+| Stars this month | 202 |
+
+---
+
+## 19. [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
+
+Vagrant is a tool for building and distributing development environments.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 27,219 |
+| Forks | 4,497 |
+| Stars this month | 41 |
+
+---
+
+## 20. [forem/forem](https://github.com/forem/forem)
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,815 |
+| Forks | 4,191 |
+| Stars this month | 53 |
+
+---
+
+## 21. [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods)
+
+The Cocoa Dependency Manager.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 14,836 |
+| Forks | 2,686 |
+| Stars this month | 15 |
+
+---
+
+## 22. [instructure/canvas-lms](https://github.com/instructure/canvas-lms)
+
+The open LMS by Instructure, Inc.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 6,900 |
+| Forks | 3,056 |
+| Stars this month | 49 |
 
 ---
