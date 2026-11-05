@@ -1,139 +1,100 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-04T06:08:23Z
-**Total Repositories:** 10
-**New Entries:** 7
+**Snapshot Time:** 2026-11-05T06:37:49Z
+**Total Repositories:** 7
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [JustVugg/colibri](https://github.com/JustVugg/colibri)
+## 1. [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) 🆕
+
+A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 10,495 |
+| Forks | 1,646 |
+| Stars today | 351 |
+
+---
+
+## 2. [JustVugg/colibri](https://github.com/JustVugg/colibri)
 
 A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 47,387 |
-| Forks | 5,471 |
-| Stars today | 802 |
+| Stars | 47,852 |
+| Forks | 5,550 |
+| Stars today | 642 |
 
 ---
 
-## 2. [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore) 🆕
+## 3. [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) 🆕
 
-A new lightweight, hybrid routing mesh protocol for packet radios
+An open and affordable mini quadruped robot based on ESP32.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 3,986 |
-| Forks | 1,543 |
-| Stars today | 11 |
+| Stars | 4,954 |
+| Forks | 681 |
+| Stars today | 14 |
 
 ---
 
-## 3. [opa334/Dopamine](https://github.com/opa334/Dopamine)
+## 4. [radareorg/radare2](https://github.com/radareorg/radare2) 🆕
 
-Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+UNIX-like reverse engineering framework and command-line toolset
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,207 |
-| Forks | 6,512 |
-| Stars today | 18 |
+| Stars | 25,322 |
+| Forks | 3,417 |
+| Stars today | 25 |
 
 ---
 
-## 4. [YizhengWw/HachimoDock](https://github.com/YizhengWw/HachimoDock) 🆕
+## 5. [YizhengWw/HachimoDock](https://github.com/YizhengWw/HachimoDock)
 
 A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 820 |
-| Forks | 79 |
-| Stars today | 77 |
+| Stars | 870 |
+| Forks | 85 |
+| Stars today | 67 |
 
 ---
 
-## 5. [rizinorg/rizin](https://github.com/rizinorg/rizin) 🆕
+## 6. [vedderb/bldc](https://github.com/vedderb/bldc) 🆕
 
-UNIX-like reverse engineering framework and command-line toolset.
+The VESC motor control firmware
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,121 |
-| Forks | 690 |
-| Stars today | 16 |
+| Stars | 3,563 |
+| Forks | 2,000 |
+| Stars today | 4 |
 
 ---
 
-## 6. [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) 🆕
+## 7. [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) 🆕
 
-Lean's LEDE source
+Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,611 |
-| Forks | 19,055 |
-| Stars today | 2 |
-
----
-
-## 7. [xmrig/xmrig](https://github.com/xmrig/xmrig) 🆕
-
-RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 10,201 |
-| Forks | 3,844 |
-| Stars today | 5 |
-
----
-
-## 8. [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) 🆕
-
-FreeRDP is a free remote desktop protocol library and clients
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 13,959 |
-| Forks | 15,576 |
-| Stars today | 16 |
-
----
-
-## 9. [git/git](https://github.com/git/git) 🆕
-
-Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 64,154 |
-| Forks | 28,733 |
-| Stars today | 30 |
-
----
-
-## 10. [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
-
-This project aims to enhance the working environment on Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 34,222 |
-| Forks | 1,386 |
-| Stars today | 10 |
+| Stars | 7,308 |
+| Forks | 1,102 |
+| Stars today | 6 |
 
 ---

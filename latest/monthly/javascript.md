@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-04T06:08:55Z
-**Total Repositories:** 14
-**New Entries:** 0
-**Quality Score:** 97.14/100
+**Snapshot Time:** 2026-11-05T06:38:22Z
+**Total Repositories:** 13
+**New Entries:** 3
+**Quality Score:** 96.92/100
 
 ---
 
@@ -15,22 +15,22 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 58,361 |
-| Forks | 3,796 |
-| Stars this month | 34,248 |
+| Stars | 59,786 |
+| Forks | 3,891 |
+| Stars this month | 34,859 |
 
 ---
 
-## 2. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+## 2. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
 
-Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 109,632 |
-| Forks | 7,369 |
-| Stars this month | 17,709 |
+| Stars | 3,990 |
+| Forks | 358 |
+| Stars this month | 2,899 |
 
 ---
 
@@ -41,9 +41,9 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 113,105 |
-| Forks | 11,833 |
-| Stars this month | 12,738 |
+| Stars | 113,331 |
+| Forks | 11,851 |
+| Stars this month | 12,609 |
 
 ---
 
@@ -54,35 +54,35 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 296,690 |
-| Forks | 43,871 |
-| Stars this month | 26,053 |
+| Stars | 297,398 |
+| Forks | 43,971 |
+| Stars this month | 26,022 |
 
 ---
 
-## 5. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
-
-Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 19,166 |
-| Forks | 2,542 |
-| Stars this month | 17,532 |
-
----
-
-## 6. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 5. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 37,698 |
-| Forks | 2,695 |
-| Stars this month | 16,840 |
+| Stars | 37,865 |
+| Forks | 2,713 |
+| Stars this month | 16,976 |
+
+---
+
+## 6. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+
+Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 19,425 |
+| Forks | 2,586 |
+| Stars this month | 16,507 |
 
 ---
 
@@ -91,61 +91,61 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,573 |
-| Forks | 1,234 |
-| Stars this month | 3,014 |
+| Stars | 7,596 |
+| Forks | 1,237 |
+| Stars this month | 2,969 |
 
 ---
 
-## 8. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)
-
-List of Permanent Free LLM API (API Keys)
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 12,121 |
-| Forks | 1,402 |
-| Stars this month | 3,059 |
-
----
-
-## 9. [mrdoob/three.js](https://github.com/mrdoob/three.js)
+## 8. [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 JavaScript 3D Library.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,523 |
-| Forks | 36,859 |
-| Stars this month | 1,647 |
+| Stars | 117,594 |
+| Forks | 36,870 |
+| Stars this month | 1,694 |
 
 ---
 
-## 10. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+## 9. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
 🎆Interactive Online Platform that Visualizes Algorithms from Code
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 49,388 |
-| Forks | 7,646 |
-| Stars this month | 591 |
+| Stars | 49,390 |
+| Forks | 7,647 |
+| Stars this month | 594 |
 
 ---
 
-## 11. [sveltejs/svelte](https://github.com/sveltejs/svelte)
+## 10. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) 🆕
 
-web development for the rest of us
+The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 88,551 |
-| Forks | 6,819 |
-| Stars this month | 746 |
+| Stars | 21,702 |
+| Forks | 1,225 |
+| Stars this month | 4,932 |
+
+---
+
+## 11. [itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) 🆕
+
+A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 716 |
+| Forks | 78 |
+| Stars this month | 293 |
 
 ---
 
@@ -156,34 +156,21 @@ web development for the rest of us
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,629 |
-| Forks | 623 |
-| Stars this month | 1,381 |
+| Stars | 4,644 |
+| Forks | 628 |
+| Stars this month | 1,393 |
 
 ---
 
-## 13. [qist/tvbox](https://github.com/qist/tvbox)
+## 13. [sveltejs/svelte](https://github.com/sveltejs/svelte)
 
-OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+web development for the rest of us
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,590 |
-| Forks | 4,386 |
-| Stars this month | 990 |
-
----
-
-## 14. [nodejs/node](https://github.com/nodejs/node)
-
-Node.js JavaScript runtime ✨🐢🚀✨
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 123,225 |
-| Forks | 38,732 |
-| Stars this month | 2,190 |
+| Stars | 88,560 |
+| Forks | 6,786 |
+| Stars this month | 730 |
 
 ---

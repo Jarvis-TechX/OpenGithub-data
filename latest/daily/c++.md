@@ -1,165 +1,124 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-04T06:08:24Z
-**Total Repositories:** 12
-**New Entries:** 11
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-05T06:37:51Z
+**Total Repositories:** 9
+**New Entries:** 7
+**Quality Score:** 95.56/100
 
 ---
 
-## 1. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+## 1. [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) 🆕
+
+ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 22,235 |
+| Forks | 4,407 |
+| Stars today | 3 |
+
+---
+
+## 2. [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 🆕
+
+《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 24,328 |
+| Forks | 2,931 |
+| Stars today | 41 |
+
+---
+
+## 3. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 
 Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,245 |
-| Forks | 2,165 |
-| Stars today | 526 |
+| Stars | 40,316 |
+| Forks | 2,167 |
+| Stars today | 109 |
 
 ---
 
-## 2. [meshtastic/firmware](https://github.com/meshtastic/firmware) 🆕
+## 4. [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) 🆕
 
-The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 8,525 |
-| Forks | 2,887 |
-| Stars today | 4 |
+| Stars | 6,981 |
+| Forks | 1,440 |
+| Stars today | 12 |
 
 ---
 
-## 3. [audacity/audacity](https://github.com/audacity/audacity) 🆕
-
-Audio Editor
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 18,950 |
-| Forks | 2,714 |
-| Stars today | 21 |
-
----
-
-## 4. [aardappel/goose](https://github.com/aardappel/goose) 🆕
-
-The Goose Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 2,961 |
-| Forks | 118 |
-| Stars today | 133 |
-
----
-
-## 5. [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) 🆕
-
-Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 8,949 |
-| Forks | 944 |
-| Stars today | 16 |
-
----
-
-## 6. [geode-sdk/geode](https://github.com/geode-sdk/geode) 🆕
-
-The ultimate Geometry Dash modding framework
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,228 |
-| Forks | 639 |
-| Stars today | 14 |
-
----
-
-## 7. [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) 🆕
-
-AdaptixC2 is a highly modular advanced redteam toolkit
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,831 |
-| Forks | 702 |
-| Stars today | 4 |
-
----
-
-## 8. [google/googletest](https://github.com/google/googletest) 🆕
+## 5. [google/googletest](https://github.com/google/googletest)
 
 GoogleTest - Google Testing and Mocking Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 39,701 |
-| Forks | 10,932 |
-| Stars today | 8 |
+| Stars | 39,707 |
+| Forks | 10,933 |
+| Stars today | 6 |
 
 ---
 
-## 9. [jimmgreen/pulse](https://github.com/jimmgreen/pulse) 🆕
+## 6. [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) 🆕
 
-为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162
+ROS 2 Navigation Framework and System
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,297 |
-| Forks | 99 |
-| Stars today | 36 |
+| Stars | 5,005 |
+| Forks | 2,013 |
+| Stars today | 12 |
 
 ---
 
-## 10. [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) 🆕
-
-Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+## 7. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,887 |
-| Forks | 925 |
-| Stars today | 18 |
+| Stars | 472 |
+| Forks | 53 |
+| Stars today | 17 |
 
 ---
 
-## 11. [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) 🆕
+## 8. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
 
-Audio Plugin for Audio to MIDI transcription using deep learning.
+An Open Source Machine Learning Framework for Everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,390 |
-| Forks | 243 |
-| Stars today | 16 |
+| Stars | 201,314 |
+| Forks | 78,236 |
+| Stars today | 28 |
 
 ---
 
-## 12. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
+## 9. [cloudflare/workerd](https://github.com/cloudflare/workerd) 🆕
 
-An MCP-based chatbot | 一个基于MCP的聊天机器人
+The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 32,570 |
-| Forks | 7,680 |
-| Stars today | 71 |
+| Stars | 9,129 |
+| Forks | 824 |
+| Stars today | 6 |
 
 ---

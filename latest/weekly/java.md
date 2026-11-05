@@ -1,10 +1,10 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-04T06:08:47Z
-**Total Repositories:** 17
-**New Entries:** 6
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-05T06:38:13Z
+**Total Repositories:** 16
+**New Entries:** 4
+**Quality Score:** 97.50/100
 
 ---
 
@@ -15,22 +15,22 @@ Light, fluffy, and always free - The AWS Local Emulator alternative
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 29,019 |
-| Forks | 3,227 |
-| Stars this week | 1,574 |
+| Stars | 29,809 |
+| Forks | 3,293 |
+| Stars this week | 2,168 |
 
 ---
 
-## 2. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+## 2. [keycloak/keycloak](https://github.com/keycloak/keycloak)
 
-All Algorithms implemented in Java
+Open Source Identity and Access Management For Modern Applications and Services
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 66,726 |
-| Forks | 21,463 |
-| Stars this week | 148 |
+| Stars | 37,709 |
+| Forks | 9,142 |
+| Stars this week | 143 |
 
 ---
 
@@ -41,169 +41,130 @@ Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for you
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 16,442 |
-| Forks | 1,500 |
-| Stars this week | 86 |
+| Stars | 16,453 |
+| Forks | 1,503 |
+| Stars this week | 83 |
 
 ---
 
-## 4. [keycloak/keycloak](https://github.com/keycloak/keycloak)
-
-Open Source Identity and Access Management For Modern Applications and Services
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 37,690 |
-| Forks | 9,140 |
-| Stars this week | 141 |
-
----
-
-## 5. [traccar/traccar](https://github.com/traccar/traccar) 🆕
-
-Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 8,046 |
-| Forks | 3,472 |
-| Stars this week | 80 |
-
----
-
-## 6. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo)
+## 4. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo)
 
 Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 552 |
-| Forks | 116 |
-| Stars this week | 59 |
+| Stars | 558 |
+| Forks | 117 |
+| Stars this week | 52 |
 
 ---
 
-## 7. [PaperMC/Paper](https://github.com/PaperMC/Paper) 🆕
-
-The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 12,791 |
-| Forks | 3,560 |
-| Stars this week | 21 |
-
----
-
-## 8. [openjdk/jdk](https://github.com/openjdk/jdk)
+## 5. [openjdk/jdk](https://github.com/openjdk/jdk)
 
 JDK main-line developmenthttps://openjdk.org/projects/jdk
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 23,501 |
-| Forks | 6,606 |
-| Stars this week | 34 |
+| Stars | 23,507 |
+| Forks | 6,603 |
+| Stars this week | 37 |
 
 ---
 
-## 9. [apache/iceberg](https://github.com/apache/iceberg)
+## 6. [apache/iceberg](https://github.com/apache/iceberg)
 
 Apache Iceberg
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 9,405 |
-| Forks | 3,659 |
-| Stars this week | 28 |
+| Stars | 9,411 |
+| Forks | 3,660 |
+| Stars this week | 29 |
 
 ---
 
-## 10. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
-
-Spring Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 60,313 |
-| Forks | 38,759 |
-| Stars this week | 25 |
-
----
-
-## 11. [skylot/jadx](https://github.com/skylot/jadx) 🆕
-
-Dex to Java decompiler
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 51,571 |
-| Forks | 5,893 |
-| Stars this week | 265 |
-
----
-
-## 12. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java)
+## 7. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java)
 
 Build distributed, production-grade, long-running agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,238 |
-| Forks | 1,564 |
-| Stars this week | 97 |
+| Stars | 6,259 |
+| Forks | 1,570 |
+| Stars this week | 93 |
 
 ---
 
-## 13. [trinodb/trino](https://github.com/trinodb/trino) 🆕
+## 8. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
 
-Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+Spring Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,448 |
-| Forks | 3,851 |
-| Stars this week | 72 |
+| Stars | 60,314 |
+| Forks | 38,762 |
+| Stars this week | 27 |
 
 ---
 
-## 14. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
+## 9. [skylot/jadx](https://github.com/skylot/jadx)
 
-Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+Dex to Java decompiler
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,404 |
-| Forks | 852 |
-| Stars this week | 39 |
+| Stars | 51,601 |
+| Forks | 5,901 |
+| Stars this week | 279 |
 
 ---
 
-## 15. [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) 🆕
+## 10. [termux/termux-app](https://github.com/termux/termux-app) 🆕
 
-No-root network monitor, firewall and PCAP dumper for Android
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,074 |
-| Forks | 582 |
-| Stars this week | 85 |
+| Stars | 64,116 |
+| Forks | 8,190 |
+| Stars this week | 534 |
 
 ---
 
-## 16. [quarkusio/quarkus](https://github.com/quarkusio/quarkus) 🆕
+## 11. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) 🆕
+
+Jenkins automation server
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 26,725 |
+| Forks | 9,818 |
+| Stars this week | 33 |
+
+---
+
+## 12. [Keeperorowner/NagramXF](https://github.com/Keeperorowner/NagramXF) 🆕
+
+A fork of NagramX with additional features.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,103 |
+| Forks | 77 |
+| Stars this week | 53 |
+
+---
+
+## 13. [quarkusio/quarkus](https://github.com/quarkusio/quarkus)
 
 Quarkus: Supersonic Subatomic Java.
 
@@ -211,20 +172,44 @@ Quarkus: Supersonic Subatomic Java.
 |--------|-------|
 | Language | Java |
 | Stars | 15,975 |
-| Forks | 3,357 |
-| Stars this week | 13 |
+| Forks | 3,356 |
+| Stars this week | 14 |
 
 ---
 
-## 17. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 14. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
-Free and Open Source, Distributed, RESTful Search Engine
+All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,481 |
-| Forks | 26,205 |
-| Stars this week | 114 |
+| Stars | 66,739 |
+| Forks | 21,466 |
+| Stars this week | 148 |
+
+---
+
+## 15. [trinodb/trino](https://github.com/trinodb/trino)
+
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,461 |
+| Forks | 3,855 |
+| Stars this week | 79 |
+
+---
+
+## 16. [exteraless/exteraless](https://github.com/exteraless/exteraless) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 523 |
+| Forks | 47 |
+| Stars this week | 87 |
 
 ---

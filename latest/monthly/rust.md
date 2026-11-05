@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-04T06:09:03Z
-**Total Repositories:** 20
-**New Entries:** 2
+**Snapshot Time:** 2026-11-05T06:38:30Z
+**Total Repositories:** 18
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 101,765 |
-| Forks | 5,998 |
-| Stars this month | 26,980 |
+| Stars | 103,110 |
+| Forks | 6,100 |
+| Stars this month | 26,803 |
 
 ---
 
@@ -28,9 +28,9 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,059 |
-| Forks | 1,089 |
-| Stars this month | 6,304 |
+| Stars | 15,161 |
+| Forks | 1,093 |
+| Stars this month | 6,382 |
 
 ---
 
@@ -41,61 +41,61 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 21,060 |
+| Stars | 21,110 |
 | Forks | 2,062 |
-| Stars this month | 6,529 |
+| Stars this month | 6,428 |
 
 ---
 
-## 4. [xerj-org/xerj](https://github.com/xerj-org/xerj)
+## 4. [storytold/artcraft](https://github.com/storytold/artcraft) 🆕
+
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 38,840 |
+| Forks | 6,129 |
+| Stars this month | 36,697 |
+
+---
+
+## 5. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
 AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,968 |
-| Forks | 1,454 |
-| Stars this month | 17,149 |
+| Stars | 19,117 |
+| Forks | 1,476 |
+| Stars this month | 17,273 |
 
 ---
 
-## 5. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+## 6. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
 
 Computer use CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 13,326 |
-| Forks | 921 |
-| Stars this month | 10,250 |
+| Stars | 15,684 |
+| Forks | 1,088 |
+| Stars this month | 12,732 |
 
 ---
 
-## 6. [jub0t/Concat](https://github.com/jub0t/Concat)
+## 7. [jub0t/Concat](https://github.com/jub0t/Concat)
 
 Beta: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 14,044 |
-| Forks | 1,736 |
-| Stars this month | 10,038 |
-
----
-
-## 7. [lexmount/moli](https://github.com/lexmount/moli)
-
-Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 22,500 |
-| Forks | 622 |
-| Stars this month | 17,420 |
+| Stars | 14,227 |
+| Forks | 1,766 |
+| Stars this month | 10,186 |
 
 ---
 
@@ -106,22 +106,22 @@ A free, open source, and extensible speech-to-text application that works comple
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 37,397 |
-| Forks | 3,523 |
-| Stars this month | 4,697 |
+| Stars | 37,563 |
+| Forks | 3,545 |
+| Stars this month | 4,809 |
 
 ---
 
-## 9. [crmne/spotifast](https://github.com/crmne/spotifast)
+## 9. [lexmount/moli](https://github.com/lexmount/moli)
 
-Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,614 |
-| Forks | 571 |
-| Stars this month | 4,694 |
+| Stars | 22,642 |
+| Forks | 626 |
+| Stars this month | 16,161 |
 
 ---
 
@@ -132,35 +132,35 @@ A refreshingly simple data-driven game engine built in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 49,495 |
-| Forks | 5,016 |
-| Stars this month | 1,047 |
+| Stars | 49,516 |
+| Forks | 5,021 |
+| Stars this month | 1,041 |
 
 ---
 
-## 11. [memvid/memvid](https://github.com/memvid/memvid)
-
-Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 17,361 |
-| Forks | 1,470 |
-| Stars this month | 827 |
-
----
-
-## 12. [trymirai/uzu](https://github.com/trymirai/uzu)
+## 11. [trymirai/uzu](https://github.com/trymirai/uzu)
 
 A high-performance inference engine for AI models
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,209 |
-| Forks | 221 |
-| Stars this month | 1,392 |
+| Stars | 3,221 |
+| Forks | 220 |
+| Stars this month | 1,398 |
+
+---
+
+## 12. [memvid/memvid](https://github.com/memvid/memvid)
+
+Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 17,371 |
+| Forks | 1,470 |
+| Stars this month | 834 |
 
 ---
 
@@ -171,99 +171,73 @@ A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-ac
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,780 |
-| Forks | 451 |
-| Stars this month | 1,388 |
+| Stars | 3,808 |
+| Forks | 456 |
+| Stars this month | 1,375 |
 
 ---
 
-## 14. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+## 14. [SimoHypers/limusic](https://github.com/SimoHypers/limusic) 🆕
 
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+Feature rich, native desktop, YouTube Music client.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 128,109 |
-| Forks | 20,297 |
-| Stars this month | 3,577 |
+| Stars | 1,804 |
+| Forks | 117 |
+| Stars this month | 1,042 |
 
 ---
 
-## 15. [denoland/deno](https://github.com/denoland/deno)
-
-A modern runtime for JavaScript and TypeScript.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 108,803 |
-| Forks | 6,510 |
-| Stars this month | 889 |
-
----
-
-## 16. [emilk/egui](https://github.com/emilk/egui)
+## 15. [emilk/egui](https://github.com/emilk/egui)
 
 egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,967 |
-| Forks | 2,313 |
-| Stars this month | 1,220 |
+| Stars | 32,007 |
+| Forks | 2,322 |
+| Stars this month | 1,232 |
 
 ---
 
-## 17. [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
+## 16. [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) 🆕
 
-AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing
+Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,451 |
-| Forks | 210 |
-| Stars this month | 592 |
+| Stars | 3,942 |
+| Forks | 499 |
+| Stars this month | 462 |
 
 ---
 
-## 18. [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) 🆕
+## 17. [denoland/deno](https://github.com/denoland/deno)
 
-A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+A modern runtime for JavaScript and TypeScript.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 7,226 |
-| Forks | 587 |
-| Stars this month | 1,855 |
+| Stars | 108,814 |
+| Forks | 6,579 |
+| Stars this month | 827 |
 
 ---
 
-## 19. [samwhosung/benilla](https://github.com/samwhosung/benilla)
+## 18. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
-A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 928 |
-| Forks | 218 |
-| Stars this month | 406 |
-
----
-
-## 20. [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) 🆕
-
-WorkBuddy、CodeBuddy 账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 1,715 |
-| Forks | 230 |
-| Stars this month | 742 |
+| Stars | 128,238 |
+| Forks | 20,332 |
+| Stars this month | 3,685 |
 
 ---

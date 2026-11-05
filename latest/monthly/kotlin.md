@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-04T06:09:09Z
-**Total Repositories:** 14
-**New Entries:** 3
-**Quality Score:** 97.14/100
+**Snapshot Time:** 2026-11-05T06:38:36Z
+**Total Repositories:** 15
+**New Entries:** 2
+**Quality Score:** 97.33/100
 
 ---
 
@@ -13,177 +13,190 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,313 |
-| Forks | 673 |
-| Stars this month | 2,714 |
+| Stars | 10,342 |
+| Forks | 674 |
+| Stars this month | 2,736 |
 
 ---
 
-## 2. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
-
-BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 5,508 |
-| Forks | 565 |
-| Stars this month | 3,202 |
-
----
-
-## 3. [tiann/KernelSU](https://github.com/tiann/KernelSU)
-
-A Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 20,052 |
-| Forks | 4,884 |
-| Stars this month | 1,352 |
-
----
-
-## 4. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
-
-Kernel-based Android Root Solution & KPM
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,869 |
-| Forks | 1,405 |
-| Stars this month | 492 |
-
----
-
-## 5. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
-
-DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,661 |
-| Forks | 429 |
-| Stars this month | 912 |
-
----
-
-## 6. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
-
-Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 725 |
-| Forks | 178 |
-| Stars this month | 254 |
-
----
-
-## 7. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
-
-A V2Ray client for Android, support Xray core and v2fly core
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 65,267 |
-| Forks | 8,517 |
-| Stars this month | 2,073 |
-
----
-
-## 8. [CYQawa/YunX](https://github.com/CYQawa/YunX)
-
-✨一个安卓 网盘解析 + 视频平台解析 下载app✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,397 |
-| Forks | 328 |
-| Stars this month | 2,837 |
-
----
-
-## 9. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) 🆕
+## 2. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela)
 
 Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,407 |
+| Stars | 2,447 |
 | Forks | 123 |
-| Stars this month | 1,881 |
+| Stars this month | 1,914 |
 
 ---
 
-## 10. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+## 3. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
 
-The Magic Mask for Android
+BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 63,750 |
-| Forks | 19,179 |
-| Stars this month | 888 |
+| Stars | 5,693 |
+| Forks | 577 |
+| Stars this month | 3,355 |
 
 ---
 
-## 11. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) 🆕
+## 4. [tiann/KernelSU](https://github.com/tiann/KernelSU)
 
-Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
+A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,616 |
-| Forks | 158 |
-| Stars this month | 503 |
+| Stars | 20,104 |
+| Forks | 4,900 |
+| Stars this month | 1,351 |
 
 ---
 
-## 12. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
+## 5. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+
+Kernel-based Android Root Solution & KPM
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,894 |
+| Forks | 1,407 |
+| Stars this month | 509 |
+
+---
+
+## 6. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
+
+DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,681 |
+| Forks | 433 |
+| Stars this month | 915 |
+
+---
+
+## 7. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV)
+
+Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 729 |
+| Forks | 181 |
+| Stars this month | 256 |
+
+---
+
+## 8. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+
+A V2Ray client for Android, support Xray core and v2fly core
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 65,335 |
+| Forks | 8,524 |
+| Stars this month | 2,096 |
+
+---
+
+## 9. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+
+✨一个安卓 网盘解析 + 视频平台解析 下载app✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,463 |
+| Forks | 334 |
+| Stars this month | 2,837 |
+
+---
+
+## 10. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 43,969 |
-| Forks | 2,100 |
-| Stars this month | 1,656 |
+| Stars | 44,037 |
+| Forks | 2,103 |
+| Stars this month | 1,687 |
 
 ---
 
-## 13. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland)
+## 11. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
 
-Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
+Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 406 |
-| Forks | 54 |
-| Stars this month | 172 |
+| Stars | 2,628 |
+| Forks | 159 |
+| Stars this month | 509 |
 
 ---
 
-## 14. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
+## 12. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+
+The Magic Mask for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 63,775 |
+| Forks | 19,198 |
+| Stars this month | 906 |
+
+---
+
+## 13. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
 
 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,112 |
+| Stars | 1,118 |
 | Forks | 46 |
-| Stars this month | 469 |
+| Stars this month | 466 |
+
+---
+
+## 14. [Vauth/FoxyVPN](https://github.com/Vauth/FoxyVPN) 🆕
+
+Subscription-free unofficial Firefox VPN client for Android.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 412 |
+| Forks | 76 |
+| Stars this month | 299 |
+
+---
+
+## 15. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
+
+Headunit App for displaying Android Auto
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,195 |
+| Forks | 293 |
+| Stars this month | 603 |
 
 ---

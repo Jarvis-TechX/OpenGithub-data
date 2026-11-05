@@ -1,77 +1,181 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-04T06:08:17Z
-**Total Repositories:** 17
-**New Entries:** 9
+**Snapshot Time:** 2026-11-05T06:37:44Z
+**Total Repositories:** 16
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 1. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) 🆕
 
-🍻 Default casks (upstream binary packages) for the package manager for everywhere
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,279 |
-| Forks | 12,055 |
+| Stars | 38,904 |
+| Forks | 9,466 |
+| Stars today | 66 |
 
 ---
 
-## 2. [we-promise/sure](https://github.com/we-promise/sure)
+## 2. [otwcode/otwarchive](https://github.com/otwcode/otwarchive) 🆕
 
-The personal finance app for everyone (by everyone)
+The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,786 |
-| Forks | 735 |
-| Stars today | 12 |
+| Stars | 2,365 |
+| Forks | 890 |
+| Stars today | 5 |
 
 ---
 
-## 3. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) 🆕
+## 3. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) 🆕
 
-A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+Metasploit Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 26,361 |
-| Forks | 3,156 |
+| Stars | 39,317 |
+| Forks | 15,008 |
+| Stars today | 8 |
 
 ---
 
-## 4. [rails/rails](https://github.com/rails/rails)
+## 4. [Freika/dawarich](https://github.com/Freika/dawarich)
 
-Ruby on Rails
+Your favorite self-hostable alternative to Google Timeline (Google Location History)
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 58,844 |
-| Forks | 23,853 |
+| Stars | 10,832 |
+| Forks | 416 |
+| Stars today | 4 |
+
+---
+
+## 5. [github/explore](https://github.com/github/explore)
+
+Community-curated topic and collection pages on GitHub
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 4,949 |
+| Forks | 14,704 |
+| Stars today | 5 |
+
+---
+
+## 6. [ytti/oxidized](https://github.com/ytti/oxidized) 🆕
+
+Oxidized is a network device configuration backup tool. It's a RANCID replacement!
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 3,648 |
+| Forks | 1,064 |
 | Stars today | 2 |
 
 ---
 
-## 5. [huginn/huginn](https://github.com/huginn/huginn) 🆕
+## 7. [rails/solid_queue](https://github.com/rails/solid_queue) 🆕
 
-Create agents that monitor and act on your behalf. Your agents are standing by!
+Database-backed Active Job backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,286 |
-| Forks | 4,340 |
-| Stars today | 13 |
+| Stars | 2,507 |
+| Forks | 267 |
 
 ---
 
-## 6. [citation-style-language/styles](https://github.com/citation-style-language/styles)
+## 8. [fastlane/fastlane](https://github.com/fastlane/fastlane) 🆕
+
+🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 42,360 |
+| Forks | 6,052 |
+| Stars today | 8 |
+
+---
+
+## 9. [Homebrew/brew](https://github.com/Homebrew/brew) 🆕
+
+🍺 The Package Manager for Everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,219 |
+| Forks | 11,420 |
+| Stars today | 15 |
+
+---
+
+## 10. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) 🆕
+
+API Documentation Browser
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,604 |
+| Forks | 2,656 |
+| Stars today | 8 |
+
+---
+
+## 11. [CMSgov/price-transparency-guide](https://github.com/CMSgov/price-transparency-guide) 🆕
+
+The technical implementation guide for the tri-departmental price transparency rule.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 462 |
+| Forks | 141 |
+
+---
+
+## 12. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 🆕
+
+🤖 Dependabot's core logic for creating update PRs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 5,832 |
+| Forks | 1,592 |
+| Stars today | 1 |
+
+---
+
+## 13. [jekyll/jekyll](https://github.com/jekyll/jekyll) 🆕
+
+🌐 Jekyll is a blog-aware static site generator in Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 51,745 |
+| Forks | 10,302 |
+| Stars today | 4 |
+
+---
+
+## 14. [citation-style-language/styles](https://github.com/citation-style-language/styles)
 
 Official repository for Citation Style Language (CSL) citation styles.
 
@@ -79,147 +183,31 @@ Official repository for Citation Style Language (CSL) citation styles.
 |--------|-------|
 | Language | Ruby |
 | Stars | 3,936 |
-| Forks | 4,188 |
-| Stars today | 1 |
+| Forks | 4,187 |
 
 ---
 
-## 7. [Freika/dawarich](https://github.com/Freika/dawarich)
+## 15. [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) 🆕
 
-Your favorite self-hostable alternative to Google Timeline (Google Location History)
+Keep passwords and other sensitive information out of your chat logs and inboxes.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,829 |
-| Forks | 416 |
-| Stars today | 15 |
-
----
-
-## 8. [opf/openproject](https://github.com/opf/openproject)
-
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 16,966 |
-| Forks | 3,685 |
-| Stars today | 26 |
-
----
-
-## 9. [github/explore](https://github.com/github/explore)
-
-Community-curated topic and collection pages on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 4,947 |
-| Forks | 14,700 |
+| Stars | 2,984 |
+| Forks | 457 |
 | Stars today | 2 |
 
 ---
 
-## 10. [dependabot/demo](https://github.com/dependabot/demo) 🆕
+## 16. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
-🤖 Fork me to try out Dependabot
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 346 |
-| Forks | 5,098 |
-
----
-
-## 11. [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) 🆕
-
-GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 24,550 |
-| Forks | 5,943 |
-| Stars today | 1 |
-
----
-
-## 12. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection) 🆕
-
-A collection of RBS for gems.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 302 |
-| Forks | 141 |
-
----
-
-## 13. [mastodon/mastodon](https://github.com/mastodon/mastodon)
-
-Your self-hosted, globally interconnected microblogging community
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,476 |
-| Forks | 7,537 |
-| Stars today | 8 |
-
----
-
-## 14. [docusealco/docuseal](https://github.com/docusealco/docuseal) 🆕
-
-Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 18,989 |
-| Forks | 1,938 |
-| Stars today | 9 |
-
----
-
-## 15. [danbooru/danbooru](https://github.com/danbooru/danbooru) 🆕
-
-A taggable image board written in Rails.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 2,843 |
-| Forks | 456 |
-| Stars today | 2 |
-
----
-
-## 16. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) 🆕
-
-Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 12,383 |
-| Forks | 602 |
-| Stars today | 3 |
-
----
-
-## 17. [tobymao/18xx](https://github.com/tobymao/18xx) 🆕
-
-A platform for playing 18xx games online!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 376 |
-| Forks | 248 |
+| Stars | 22,281 |
+| Forks | 12,063 |
 
 ---

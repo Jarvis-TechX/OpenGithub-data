@@ -1,7 +1,7 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-04T06:09:11Z
+**Snapshot Time:** 2026-11-05T06:38:38Z
 **Total Repositories:** 15
 **New Entries:** 2
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 131,923 |
+| Stars | 131,945 |
 | Forks | 15,597 |
-| Stars this month | 1,845 |
+| Stars this month | 1,857 |
 
 ---
 
@@ -28,9 +28,9 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,621 |
-| Forks | 814 |
-| Stars this month | 9,129 |
+| Stars | 14,760 |
+| Forks | 829 |
+| Stars this month | 9,195 |
 
 ---
 
@@ -41,74 +41,74 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,681 |
-| Forks | 2,623 |
-| Stars this month | 1,304 |
+| Stars | 28,704 |
+| Forks | 2,624 |
+| Stars this month | 1,306 |
 
 ---
 
-## 4. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
-
-Conduit — native SwiftUI iOS client for Hermes Agent
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 515 |
-| Forks | 70 |
-| Stars this month | 345 |
-
----
-
-## 5. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+## 4. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
 
 Telegram-iOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,390 |
-| Forks | 3,208 |
-| Stars this month | 282 |
+| Stars | 9,399 |
+| Forks | 3,218 |
+| Stars this month | 283 |
 
 ---
 
-## 6. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) 🆕
+## 5. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
+
+Conduit — native SwiftUI iOS client for Hermes Agent
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 522 |
+| Forks | 77 |
+| Stars this month | 346 |
+
+---
+
+## 6. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
 
 Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,510 |
+| Stars | 1,520 |
 | Forks | 83 |
-| Stars this month | 520 |
+| Stars this month | 523 |
 
 ---
 
-## 7. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 7. [iliyami/MacSai](https://github.com/iliyami/MacSai)
 
-Run iOS apps without actually installing them!
+Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,783 |
-| Forks | 1,273 |
-| Stars this month | 1,263 |
+| Stars | 2,085 |
+| Forks | 130 |
+| Stars this month | 395 |
 
 ---
 
-## 8. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
+## 8. [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) 🆕
 
-AltStore is an alternative app store for non-jailbroken iOS devices.
+Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,843 |
-| Forks | 1,700 |
-| Stars this month | 403 |
+| Stars | 3,262 |
+| Forks | 504 |
+| Stars this month | 316 |
 
 ---
 
@@ -119,22 +119,22 @@ Community fork of PlayCover
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,088 |
-| Forks | 1,029 |
-| Stars this month | 287 |
+| Stars | 12,094 |
+| Forks | 1,030 |
+| Stars this month | 286 |
 
 ---
 
-## 10. [iliyami/MacSai](https://github.com/iliyami/MacSai)
+## 10. [claration/feather](https://github.com/claration/feather)
 
-Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
+Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,078 |
-| Forks | 129 |
-| Stars this month | 391 |
+| Stars | 5,011 |
+| Forks | 469 |
+| Stars this month | 247 |
 
 ---
 
@@ -145,60 +145,60 @@ Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Ap
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,835 |
-| Forks | 258 |
-| Stars this month | 532 |
+| Stars | 2,848 |
+| Forks | 259 |
+| Stars this month | 534 |
 
 ---
 
-## 12. [claration/feather](https://github.com/claration/feather)
+## 12. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,003 |
-| Forks | 466 |
-| Stars this month | 240 |
+| Stars | 13,804 |
+| Forks | 1,277 |
+| Stars this month | 1,278 |
 
 ---
 
-## 13. [milika/SmartTubeIOS](https://github.com/milika/SmartTubeIOS) 🆕
+## 13. [utmapp/UTM](https://github.com/utmapp/UTM) 🆕
+
+Virtual machines for iOS and macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 36,705 |
+| Forks | 1,899 |
+| Stars this month | 1,044 |
+
+---
+
+## 14. [milika/SmartTubeIOS](https://github.com/milika/SmartTubeIOS)
 
 Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac — ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K. Open source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 537 |
-| Forks | 81 |
-| Stars this month | 160 |
+| Stars | 539 |
+| Forks | 82 |
+| Stars this month | 159 |
 
 ---
 
-## 14. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+## 15. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
 
-bluetooth mesh chat, IRC vibes
+AltStore is an alternative app store for non-jailbroken iOS devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 37,069 |
-| Forks | 5,890 |
-| Stars this month | 846 |
-
----
-
-## 15. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
-
-AI coding assistant for Xcode
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 6,363 |
-| Forks | 2,081 |
-| Stars this month | 80 |
+| Stars | 14,855 |
+| Forks | 1,702 |
+| Stars this month | 410 |
 
 ---

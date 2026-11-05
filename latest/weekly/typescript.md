@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-04T06:08:35Z
-**Total Repositories:** 17
-**New Entries:** 3
-**Quality Score:** 95.29/100
+**Snapshot Time:** 2026-11-05T06:38:02Z
+**Total Repositories:** 16
+**New Entries:** 1
+**Quality Score:** 95.00/100
 
 ---
 
@@ -15,9 +15,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 112,161 |
-| Forks | 9,757 |
-| Stars this week | 7,995 |
+| Stars | 113,075 |
+| Forks | 9,819 |
+| Stars this week | 8,822 |
 
 ---
 
@@ -26,9 +26,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 44,846 |
-| Forks | 9,286 |
-| Stars this week | 12,542 |
+| Stars | 46,964 |
+| Forks | 9,491 |
+| Stars this week | 14,580 |
 
 ---
 
@@ -39,22 +39,22 @@ Vibe code with pi in a lightweight, real IDE that customises itself around the w
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,475 |
-| Forks | 448 |
-| Stars this week | 3,898 |
+| Stars | 7,663 |
+| Forks | 466 |
+| Stars this week | 3,031 |
 
 ---
 
-## 4. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 🆕
+## 4. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
 
 AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 16,676 |
-| Forks | 1,577 |
-| Stars this week | 2,485 |
+| Stars | 17,094 |
+| Forks | 1,613 |
+| Stars this week | 2,629 |
 
 ---
 
@@ -65,100 +65,98 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,060 |
-| Forks | 1,238 |
-| Stars this week | 2,671 |
+| Stars | 10,185 |
+| Forks | 1,257 |
+| Stars this week | 2,562 |
 
 ---
 
-## 6. [vercel-labs/skills](https://github.com/vercel-labs/skills)
-
-The open agent skills tool - npx skills
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 37,995 |
-| Forks | 3,290 |
-| Stars this week | 1,136 |
-
----
-
-## 7. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-
-Write HTML. Render video. Built for agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 78,496 |
-| Forks | 7,224 |
-| Stars this week | 4,546 |
-
----
-
-## 8. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-
-Open-source Grok Bot alternative with a virtual machine that bots can use
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 11,781 |
-| Forks | 1,622 |
-| Stars this week | 5,990 |
-
----
-
-## 9. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 🆕
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 15,272 |
-| Forks | 2,954 |
-| Stars this week | 6,595 |
-
----
-
-## 10. [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
-
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 5,345 |
-| Forks | 542 |
-| Stars this week | 2,898 |
-
----
-
-## 11. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+## 6. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
 
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 47,178 |
-| Forks | 6,448 |
-| Stars this week | 4,414 |
+| Stars | 47,664 |
+| Forks | 6,523 |
+| Stars this week | 4,388 |
 
 ---
 
-## 12. [makecindy/cindy](https://github.com/makecindy/cindy)
+## 7. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+Open-source Grok Bot alternative with a virtual machine that bots can use
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,199 |
-| Forks | 1,118 |
-| Stars this week | 1,747 |
+| Stars | 12,274 |
+| Forks | 1,708 |
+| Stars this week | 5,847 |
+
+---
+
+## 8. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)
+
+紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 15,911 |
+| Forks | 3,083 |
+| Stars this week | 7,014 |
+
+---
+
+## 9. [nightly-labs/openbot](https://github.com/nightly-labs/openbot)
+
+A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 5,629 |
+| Forks | 570 |
+| Stars this week | 2,485 |
+
+---
+
+## 10. [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,155 |
+| Forks | 248 |
+| Stars this week | 632 |
+
+---
+
+## 11. [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
+An Open Source implementation of Notebook LM with more flexibility and features
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 41,599 |
+| Forks | 4,783 |
+| Stars this week | 938 |
+
+---
+
+## 12. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+
+🎥 Make videos programmatically with React
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 70,837 |
+| Forks | 5,837 |
+| Stars this week | 2,224 |
 
 ---
 
@@ -169,58 +167,47 @@ Shannon is an AI pentester for web applications and APIs. It analyzes your sourc
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 51,110 |
-| Forks | 5,952 |
-| Stars this week | 1,419 |
+| Stars | 51,220 |
+| Forks | 5,965 |
+| Stars this week | 1,204 |
 
 ---
 
-## 14. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+## 14. [ahmadrosid/nakama](https://github.com/ahmadrosid/nakama) 🆕
 
-🎥 Make videos programmatically with React
+The AI workspace where teams share agents, skills and automations that the whole company builds on.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 70,519 |
-| Forks | 5,805 |
-| Stars this week | 2,250 |
+| Stars | 778 |
+| Forks | 129 |
+| Stars this week | 100 |
 
 ---
 
-## 15. [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
-
-An Open Source implementation of Notebook LM with more flexibility and features
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 41,534 |
-| Forks | 4,772 |
-| Stars this week | 906 |
-
----
-
-## 16. [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 3,092 |
-| Forks | 239 |
-| Stars this week | 518 |
-
----
-
-## 17. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) 🆕
+## 15. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 
 Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 42,102 |
-| Forks | 4,304 |
-| Stars this week | 1,051 |
+| Stars | 42,232 |
+| Forks | 4,315 |
+| Stars this week | 1,052 |
+
+---
+
+## 16. [makecindy/cindy](https://github.com/makecindy/cindy)
+
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 9,302 |
+| Forks | 1,138 |
+| Stars this week | 1,378 |
 
 ---

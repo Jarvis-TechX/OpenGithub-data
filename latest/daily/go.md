@@ -1,217 +1,243 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-04T06:08:20Z
-**Total Repositories:** 16
-**New Entries:** 12
+**Snapshot Time:** 2026-11-05T06:37:47Z
+**Total Repositories:** 18
+**New Entries:** 15
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) 🆕
-
-Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 33,218 |
-| Forks | 5,184 |
-| Stars today | 133 |
-
----
-
-## 2. [qax-os/excelize](https://github.com/qax-os/excelize) 🆕
-
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 21,058 |
-| Forks | 1,988 |
-| Stars today | 14 |
-
----
-
-## 3. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) 🆕
+## 1. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
 
 The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,247 |
-| Forks | 288 |
-| Stars today | 193 |
+| Stars | 3,295 |
+| Forks | 290 |
+| Stars today | 73 |
 
 ---
 
-## 4. [cilium/cilium](https://github.com/cilium/cilium) 🆕
+## 2. [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) 🆕
 
-eBPF-based Networking, Security, and Observability
+一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 25,768 |
-| Forks | 4,211 |
+| Stars | 6,014 |
+| Forks | 570 |
+| Stars today | 87 |
+
+---
+
+## 3. [superplanehq/superplane](https://github.com/superplanehq/superplane) 🆕
+
+Open source factory for one-shot engineering
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 8,799 |
+| Forks | 691 |
+| Stars today | 58 |
+
+---
+
+## 4. [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 🆕
+
+MCP for xiaohongshu.com
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 16,910 |
+| Forks | 2,481 |
+| Stars today | 43 |
+
+---
+
+## 5. [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) 🆕
+
+The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 10,009 |
+| Forks | 350 |
+| Stars today | 38 |
+
+---
+
+## 6. [m5stack/StackChan](https://github.com/m5stack/StackChan) 🆕
+
+StackChan open source!
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,497 |
+| Forks | 422 |
+| Stars today | 2 |
+
+---
+
+## 7. [influxdata/telegraf](https://github.com/influxdata/telegraf) 🆕
+
+Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 17,896 |
+| Forks | 5,849 |
+| Stars today | 3 |
+
+---
+
+## 8. [QuantumNous/new-api](https://github.com/QuantumNous/new-api) 🆕
+
+Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 51,398 |
+| Forks | 12,483 |
+| Stars today | 75 |
+
+---
+
+## 9. [coder/coder](https://github.com/coder/coder) 🆕
+
+Secure environments for developers and their agents
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 17,279 |
+| Forks | 1,646 |
 | Stars today | 10 |
 
 ---
 
-## 5. [argoproj/argo-cd](https://github.com/argoproj/argo-cd) 🆕
+## 10. [Tencent/WeKnora](https://github.com/Tencent/WeKnora) 🆕
 
-Declarative Continuous Deployment for Kubernetes
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 24,533 |
-| Forks | 8,092 |
-| Stars today | 11 |
-
----
-
-## 6. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 🆕
-
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 117,289 |
-| Forks | 6,807 |
-| Stars today | 266 |
+| Stars | 36,526 |
+| Forks | 4,994 |
+| Stars today | 103 |
 
 ---
 
-## 7. [gastownhall/beads](https://github.com/gastownhall/beads)
+## 11. [egoist/kero](https://github.com/egoist/kero) 🆕
 
-Beads - A memory upgrade for your coding agent
+A cross-platform native terminal app optimized for agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 28,468 |
-| Forks | 1,922 |
-| Stars today | 42 |
+| Stars | 1,419 |
+| Forks | 141 |
+| Stars today | 27 |
 
 ---
 
-## 8. [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects)
+## 12. [moby/buildkit](https://github.com/moby/buildkit) 🆕
 
-Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇
+concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 9,025 |
-| Forks | 1,333 |
-| Stars today | 44 |
+| Stars | 10,369 |
+| Forks | 1,563 |
+| Stars today | 2 |
 
 ---
 
-## 9. [gdy666/lucky](https://github.com/gdy666/lucky) 🆕
+## 13. [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) 🆕
+
+One place to manage & connect to all your MCP servers
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,598 |
+| Forks | 201 |
+| Stars today | 51 |
+
+---
+
+## 14. [gdy666/lucky](https://github.com/gdy666/lucky)
 
 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,320 |
-| Forks | 747 |
-| Stars today | 15 |
+| Stars | 8,334 |
+| Forks | 746 |
+| Stars today | 7 |
 
 ---
 
-## 10. [warmbly/warmbly](https://github.com/warmbly/warmbly)
+## 15. [ys-ll/uniterm](https://github.com/ys-ll/uniterm) 🆕
 
-The largest open-source B2B cold outreach and email warmup service.
+All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 917 |
-| Forks | 160 |
-| Stars today | 55 |
+| Stars | 1,038 |
+| Forks | 169 |
+| Stars today | 13 |
 
 ---
 
-## 11. [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
+## 16. [ccfos/nightingale](https://github.com/ccfos/nightingale) 🆕
 
-ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.
+Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,979 |
-| Forks | 745 |
-| Stars today | 21 |
+| Stars | 13,444 |
+| Forks | 1,797 |
+| Stars today | 3 |
 
 ---
 
-## 12. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
+## 17. [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 
-Make humans and AI agents work as one team — open-source and self-hostable.
+Declarative Continuous Deployment for Kubernetes
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 54,808 |
-| Forks | 7,217 |
-| Stars today | 128 |
+| Stars | 24,545 |
+| Forks | 8,094 |
+| Stars today | 12 |
 
 ---
 
-## 13. [avelino/awesome-go](https://github.com/avelino/awesome-go) 🆕
+## 18. [mudler/LocalAI](https://github.com/mudler/LocalAI) 🆕
 
-A curated list of awesome Go frameworks, libraries and software
+LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 191,961 |
-| Forks | 13,698 |
-| Stars today | 192 |
-
----
-
-## 14. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
-
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,961 |
-| Forks | 819 |
-| Stars today | 17 |
-
----
-
-## 15. [keploy/keploy](https://github.com/keploy/keploy) 🆕
-
-Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 19,301 |
-| Forks | 2,448 |
-| Stars today | 221 |
-
----
-
-## 16. [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) 🆕
-
-闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,202 |
-| Forks | 615 |
-| Stars today | 15 |
+| Stars | 50,210 |
+| Forks | 4,577 |
+| Stars today | 35 |
 
 ---

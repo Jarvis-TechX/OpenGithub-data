@@ -1,74 +1,85 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-04T06:08:15Z
-**Total Repositories:** 5
-**New Entries:** 3
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-05T06:37:41Z
+**Total Repositories:** 6
+**New Entries:** 6
+**Quality Score:** 93.33/100
 
 ---
 
-## 1. [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio)
+## 1. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
 
-Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
+Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,843 |
-| Forks | 456 |
-| Stars today | 52 |
+| Stars | 3,990 |
+| Forks | 358 |
+| Stars today | 93 |
 
 ---
 
-## 2. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
-
-江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+## 2. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,918 |
-| Forks | 462 |
-| Stars today | 354 |
+| Stars | 7,596 |
+| Forks | 1,237 |
+| Stars today | 31 |
 
 ---
 
-## 3. [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) 🆕
+## 3. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
 
-Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,641 |
-| Forks | 207 |
-| Stars today | 20 |
+| Stars | 297,398 |
+| Forks | 43,970 |
+| Stars today | 783 |
 
 ---
 
-## 4. [github/awesome-copilot](https://github.com/github/awesome-copilot) 🆕
+## 4. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) 🆕
 
-Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 40,778 |
-| Forks | 5,285 |
-| Stars today | 44 |
+| Stars | 13,893 |
+| Forks | 1,626 |
+| Stars today | 181 |
 
 ---
 
-## 5. [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) 🆕
+## 5. [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) 🆕
 
-为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。
+Official electron build of draw.io
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 573 |
-| Forks | 62 |
-| Stars today | 36 |
+| Stars | 63,823 |
+| Forks | 5,809 |
+| Stars today | 19 |
+
+---
+
+## 6. [vercel/next.js](https://github.com/vercel/next.js) 🆕
+
+The React Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 143,329 |
+| Forks | 33,550 |
+| Stars today | 124 |
 
 ---

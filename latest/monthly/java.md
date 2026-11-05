@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-04T06:09:07Z
+**Snapshot Time:** 2026-11-05T06:38:34Z
 **Total Repositories:** 18
-**New Entries:** 0
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 97,601 |
-| Forks | 11,039 |
-| Stars this month | 17,325 |
+| Stars | 97,921 |
+| Forks | 11,073 |
+| Stars this month | 17,528 |
 
 ---
 
@@ -28,9 +28,9 @@ Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plu
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,098 |
-| Forks | 379 |
-| Stars this month | 2,025 |
+| Stars | 6,123 |
+| Forks | 382 |
+| Stars this month | 2,022 |
 
 ---
 
@@ -41,9 +41,9 @@ A tool for reverse engineering Android apk files
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,983 |
-| Forks | 4,217 |
-| Stars this month | 1,310 |
+| Stars | 27,010 |
+| Forks | 4,220 |
+| Stars this month | 1,324 |
 
 ---
 
@@ -54,9 +54,9 @@ MCP Server for Ghidra
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 11,753 |
-| Forks | 1,265 |
-| Stars this month | 1,544 |
+| Stars | 11,764 |
+| Forks | 1,269 |
+| Stars this month | 1,539 |
 
 ---
 
@@ -67,9 +67,9 @@ A Minecraft Launcher which is multi-functional, cross-platform and popular
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,885 |
-| Forks | 1,296 |
-| Stars this month | 767 |
+| Stars | 10,896 |
+| Forks | 1,293 |
+| Stars this month | 770 |
 
 ---
 
@@ -80,9 +80,9 @@ Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/Amn
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 649 |
+| Stars | 655 |
 | Forks | 107 |
-| Stars this month | 379 |
+| Stars this month | 380 |
 
 ---
 
@@ -93,35 +93,35 @@ Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,132 |
-| Forks | 367 |
-| Stars this month | 333 |
+| Stars | 5,138 |
+| Forks | 369 |
+| Stars this month | 325 |
 
 ---
 
-## 8. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 81,732 |
-| Forks | 43,459 |
-| Stars this month | 550 |
-
----
-
-## 9. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 8. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
 Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,481 |
-| Forks | 26,205 |
-| Stars this month | 449 |
+| Stars | 78,496 |
+| Forks | 26,200 |
+| Stars this month | 464 |
+
+---
+
+## 9. [skylot/jadx](https://github.com/skylot/jadx)
+
+Dex to Java decompiler
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 51,601 |
+| Forks | 5,901 |
+| Stars this month | 963 |
 
 ---
 
@@ -132,112 +132,112 @@ Apache Flink
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,444 |
-| Forks | 14,181 |
-| Stars this month | 96 |
+| Stars | 26,448 |
+| Forks | 14,176 |
+| Stars this month | 99 |
 
 ---
 
-## 11. [skylot/jadx](https://github.com/skylot/jadx)
-
-Dex to Java decompiler
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 51,571 |
-| Forks | 5,893 |
-| Stars this month | 937 |
-
----
-
-## 12. [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
-
-AndroidIDE is an IDE for Android to develop full featured Android apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,346 |
-| Forks | 752 |
-| Stars this month | 173 |
-
----
-
-## 13. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
+## 11. [yash-srivastava/Overdrive-release](https://github.com/yash-srivastava/Overdrive-release)
 
 Advanced Sentry Mode for BYD Vehicles
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 413 |
-| Forks | 121 |
-| Stars this month | 97 |
+| Stars | 416 |
+| Forks | 122 |
+| Stars this month | 95 |
 
 ---
 
-## 14. [zed-0xff/ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy)
-
-Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 304 |
-| Forks | 79 |
-| Stars this month | 178 |
-
----
-
-## 15. [termux/termux-app](https://github.com/termux/termux-app)
+## 12. [termux/termux-app](https://github.com/termux/termux-app)
 
 Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 64,054 |
-| Forks | 8,181 |
-| Stars this month | 2,356 |
+| Stars | 64,116 |
+| Forks | 8,190 |
+| Stars this month | 2,353 |
 
 ---
 
-## 16. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
+## 13. [zed-0xff/ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy)
 
-Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,404 |
-| Forks | 852 |
-| Stars this month | 152 |
+| Stars | 312 |
+| Forks | 80 |
+| Stars this month | 170 |
 
 ---
 
-## 17. [kdn251/interviews](https://github.com/kdn251/interviews)
+## 14. [kdn251/interviews](https://github.com/kdn251/interviews)
 
 Everything you need to know to get the job.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,543 |
+| Stars | 65,545 |
 | Forks | 12,925 |
-| Stars this month | 341 |
+| Stars this month | 342 |
 
 ---
 
-## 18. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+## 15. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 66,726 |
-| Forks | 21,463 |
-| Stars this month | 497 |
+| Stars | 66,739 |
+| Forks | 21,466 |
+| Stars this month | 510 |
+
+---
+
+## 16. [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
+
+AndroidIDE is an IDE for Android to develop full featured Android apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,349 |
+| Forks | 753 |
+| Stars this month | 171 |
+
+---
+
+## 17. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) 🆕
+
+Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 558 |
+| Forks | 117 |
+| Stars this month | 143 |
+
+---
+
+## 18. [trinodb/trino](https://github.com/trinodb/trino) 🆕
+
+Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,461 |
+| Forks | 3,855 |
+| Stars this month | 172 |
 
 ---
