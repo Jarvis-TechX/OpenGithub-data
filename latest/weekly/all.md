@@ -1,10 +1,10 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-05T06:37:57Z
-**Total Repositories:** 14
-**New Entries:** 1
-**Quality Score:** 95.00/100
+**Snapshot Time:** 2026-11-07T05:52:54Z
+**Total Repositories:** 18
+**New Entries:** 7
+**Quality Score:** 96.11/100
 
 ---
 
@@ -15,22 +15,22 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 113,075 |
-| Forks | 9,819 |
-| Stars this week | 8,822 |
+| Stars | 114,106 |
+| Forks | 9,900 |
+| Stars this week | 8,726 |
 
 ---
 
-## 2. [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+## 2. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) 🆕
 
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
 | Metric | Value |
 |--------|-------|
-| Language | CSS |
-| Stars | 48,155 |
-| Forks | 2,552 |
-| Stars this week | 7,622 |
+| Language | Shell |
+| Stars | 36,195 |
+| Forks | 4,767 |
+| Stars this week | 6,018 |
 
 ---
 
@@ -39,35 +39,35 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 46,965 |
-| Forks | 9,491 |
-| Stars this week | 14,580 |
+| Stars | 50,074 |
+| Forks | 9,773 |
+| Stars this week | 16,782 |
 
 ---
 
-## 4. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 4. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 
-The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 103,109 |
-| Forks | 6,100 |
-| Stars this week | 10,921 |
+| Stars | 11,830 |
+| Forks | 456 |
+| Stars this week | 2,184 |
 
 ---
 
-## 5. [obra/superpowers](https://github.com/obra/superpowers)
+## 5. [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 
-An agentic skills framework & software development methodology that works.
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 | Metric | Value |
 |--------|-------|
-| Language | Shell |
-| Stars | 312,580 |
-| Forks | 27,809 |
-| Stars this week | 5,565 |
+| Language | CSS |
+| Stars | 49,751 |
+| Forks | 2,636 |
+| Stars this week | 6,900 |
 
 ---
 
@@ -78,111 +78,163 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 187,504 |
-| Forks | 22,116 |
-| Stars this week | 3,003 |
+| Stars | 188,257 |
+| Forks | 22,200 |
+| Stars this week | 3,159 |
 
 ---
 
-## 7. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+## 7. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) 🆕
 
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 11,180 |
-| Forks | 418 |
-| Stars this week | 1,261 |
-
----
-
-## 8. [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
-
-A collection of agent skills that help you build great interfaces.
-
-| Metric | Value |
-|--------|-------|
-| Language | Markdown |
-| Stars | 10,865 |
-| Forks | 418 |
-| Stars this week | 1,865 |
-
----
-
-## 9. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
-
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
+Open-source Grok Bot alternative with a virtual machine that bots can use
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,663 |
-| Forks | 466 |
-| Stars this week | 3,031 |
+| Stars | 15,726 |
+| Forks | 2,233 |
+| Stars this week | 6,395 |
 
 ---
 
-## 10. [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+## 8. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
-👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 | Metric | Value |
 |--------|-------|
-| Language | Zig |
-| Stars | 63,582 |
-| Forks | 3,822 |
-| Stars this week | 738 |
+| Language | Rust |
+| Stars | 104,945 |
+| Forks | 6,236 |
+| Stars this week | 8,172 |
 
 ---
 
-## 11. [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+## 9. [obra/superpowers](https://github.com/obra/superpowers)
 
-A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+An agentic skills framework & software development methodology that works.
 
 | Metric | Value |
 |--------|-------|
-| Stars | 229,593 |
-| Forks | 22,861 |
-| Stars this week | 3,808 |
+| Language | Shell |
+| Stars | 313,710 |
+| Forks | 27,909 |
+| Stars this week | 4,577 |
 
 ---
 
-## 12. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+## 10. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) 🆕
+
+DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 56,057 |
+| Forks | 6,854 |
+| Stars this week | 4,588 |
+
+---
+
+## 11. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 
 Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,316 |
+| Stars | 40,453 |
 | Forks | 2,167 |
-| Stars this week | 1,325 |
+| Stars this week | 1,413 |
 
 ---
 
-## 13. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
+## 12. [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
 
-Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+A collection of agent skills that help you build great interfaces.
 
 | Metric | Value |
 |--------|-------|
-| Language | Python |
-| Stars | 26,752 |
-| Forks | 3,476 |
-| Stars this week | 3,531 |
+| Language | Markdown |
+| Stars | 11,330 |
+| Forks | 440 |
+| Stars this week | 1,921 |
 
 ---
 
-## 14. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) 🆕
+## 13. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
 
 World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 76,716 |
-| Forks | 10,172 |
-| Stars this week | 3,743 |
+| Stars | 77,826 |
+| Forks | 10,359 |
+| Stars this week | 4,405 |
+
+---
+
+## 14. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) 🆕
+
+🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 15,339 |
+| Forks | 2,131 |
+| Stars this week | 1,523 |
+
+---
+
+## 15. [nightly-labs/openbot](https://github.com/nightly-labs/openbot) 🆕
+
+A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 6,117 |
+| Forks | 623 |
+| Stars this week | 1,808 |
+
+---
+
+## 16. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) 🆕
+
+🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 98,934 |
+| Forks | 10,366 |
+| Stars this week | 8,372 |
+
+---
+
+## 17. [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+
+A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+| Metric | Value |
+|--------|-------|
+| Stars | 230,345 |
+| Forks | 22,923 |
+| Stars this week | 3,671 |
+
+---
+
+## 18. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 🆕
+
+Kronos: A Foundation Model for the Language of Financial Markets
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 47,098 |
+| Forks | 7,789 |
+| Stars this week | 2,984 |
 
 ---

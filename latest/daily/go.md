@@ -1,243 +1,320 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-05T06:37:47Z
-**Total Repositories:** 18
-**New Entries:** 15
+**Snapshot Time:** 2026-11-07T05:52:44Z
+**Total Repositories:** 24
+**New Entries:** 23
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+## 1. [prometheus/prometheus](https://github.com/prometheus/prometheus) 🆕
 
-The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
+The Prometheus monitoring system and time series database.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,295 |
-| Forks | 290 |
-| Stars today | 73 |
+| Stars | 67,231 |
+| Forks | 10,989 |
+| Stars today | 148 |
 
 ---
 
-## 2. [guohuiyuan/go-music-dl](https://github.com/guohuiyuan/go-music-dl) 🆕
+## 2. [etcd-io/etcd](https://github.com/etcd-io/etcd) 🆕
 
-一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923
+Distributed reliable key-value store for the most critical data of a distributed system
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,014 |
-| Forks | 570 |
-| Stars today | 87 |
+| Stars | 52,638 |
+| Forks | 10,590 |
+| Stars today | 128 |
 
 ---
 
-## 3. [superplanehq/superplane](https://github.com/superplanehq/superplane) 🆕
+## 3. [golang/go](https://github.com/golang/go) 🆕
 
-Open source factory for one-shot engineering
+The Go programming language
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,799 |
-| Forks | 691 |
-| Stars today | 58 |
+| Stars | 139,758 |
+| Forks | 20,994 |
+| Stars today | 180 |
 
 ---
 
-## 4. [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 🆕
+## 4. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) 🆕
 
-MCP for xiaohongshu.com
+Production-Grade Container Scheduling and Management
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,910 |
-| Forks | 2,481 |
-| Stars today | 43 |
+| Stars | 128,880 |
+| Forks | 45,752 |
+| Stars today | 201 |
 
 ---
 
-## 5. [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) 🆕
+## 5. [microsoft/TypeScript](https://github.com/microsoft/TypeScript) 🆕
 
-The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
+TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,009 |
-| Forks | 350 |
-| Stars today | 38 |
+| Stars | 111,853 |
+| Forks | 15,399 |
+| Stars today | 129 |
 
 ---
 
-## 6. [m5stack/StackChan](https://github.com/m5stack/StackChan) 🆕
+## 6. [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) 🆕
 
-StackChan open source!
+Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,497 |
-| Forks | 422 |
-| Stars today | 2 |
+| Stars | 7,169 |
+| Forks | 1,866 |
+| Stars today | 1 |
 
 ---
 
-## 7. [influxdata/telegraf](https://github.com/influxdata/telegraf) 🆕
+## 7. [containerd/containerd](https://github.com/containerd/containerd) 🆕
 
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+An open and reliable container runtime
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,896 |
-| Forks | 5,849 |
+| Stars | 21,463 |
+| Forks | 4,195 |
 | Stars today | 3 |
 
 ---
 
-## 8. [QuantumNous/new-api](https://github.com/QuantumNous/new-api) 🆕
+## 8. [pingcap/tidb](https://github.com/pingcap/tidb) 🆕
 
-Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
+TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 51,398 |
-| Forks | 12,483 |
-| Stars today | 75 |
+| Stars | 40,715 |
+| Forks | 6,292 |
+| Stars today | 2 |
 
 ---
 
-## 9. [coder/coder](https://github.com/coder/coder) 🆕
+## 9. [moby/moby](https://github.com/moby/moby) 🆕
+
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 72,353 |
+| Forks | 19,318 |
+| Stars today | 123 |
+
+---
+
+## 10. [gin-gonic/gin](https://github.com/gin-gonic/gin) 🆕
+
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 89,593 |
+| Forks | 8,910 |
+| Stars today | 116 |
+
+---
+
+## 11. [coder/coder](https://github.com/coder/coder)
 
 Secure environments for developers and their agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,279 |
-| Forks | 1,646 |
-| Stars today | 10 |
+| Stars | 17,312 |
+| Forks | 1,651 |
+| Stars today | 14 |
 
 ---
 
-## 10. [Tencent/WeKnora](https://github.com/Tencent/WeKnora) 🆕
+## 12. [grafana/mimir](https://github.com/grafana/mimir) 🆕
 
-Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 36,526 |
-| Forks | 4,994 |
-| Stars today | 103 |
+| Stars | 5,277 |
+| Forks | 865 |
 
 ---
 
-## 11. [egoist/kero](https://github.com/egoist/kero) 🆕
+## 13. [istio/istio](https://github.com/istio/istio) 🆕
 
-A cross-platform native terminal app optimized for agents
+Connect, secure, control, and observe services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,419 |
-| Forks | 141 |
-| Stars today | 27 |
-
----
-
-## 12. [moby/buildkit](https://github.com/moby/buildkit) 🆕
-
-concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 10,369 |
-| Forks | 1,563 |
-| Stars today | 2 |
-
----
-
-## 13. [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) 🆕
-
-One place to manage & connect to all your MCP servers
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 1,598 |
-| Forks | 201 |
-| Stars today | 51 |
-
----
-
-## 14. [gdy666/lucky](https://github.com/gdy666/lucky)
-
-软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,334 |
-| Forks | 746 |
-| Stars today | 7 |
-
----
-
-## 15. [ys-ll/uniterm](https://github.com/ys-ll/uniterm) 🆕
-
-All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 1,038 |
-| Forks | 169 |
-| Stars today | 13 |
-
----
-
-## 16. [ccfos/nightingale](https://github.com/ccfos/nightingale) 🆕
-
-Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 13,444 |
-| Forks | 1,797 |
+| Stars | 38,492 |
+| Forks | 8,412 |
 | Stars today | 3 |
 
 ---
 
-## 17. [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+## 14. [infiniflow/ragflow](https://github.com/infiniflow/ragflow) 🆕
 
-Declarative Continuous Deployment for Kubernetes
+RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 24,545 |
-| Forks | 8,094 |
-| Stars today | 12 |
+| Stars | 93,704 |
+| Forks | 11,250 |
+| Stars today | 86 |
 
 ---
 
-## 18. [mudler/LocalAI](https://github.com/mudler/LocalAI) 🆕
+## 15. [fleetdm/fleet](https://github.com/fleetdm/fleet) 🆕
 
-LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+Open device management
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 50,210 |
-| Forks | 4,577 |
-| Stars today | 35 |
+| Stars | 7,149 |
+| Forks | 1,123 |
+| Stars today | 5 |
+
+---
+
+## 16. [kdlbs/kandev](https://github.com/kdlbs/kandev) 🆕
+
+AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,073 |
+| Forks | 179 |
+| Stars today | 6 |
+
+---
+
+## 17. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
+
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 39,083 |
+| Forks | 834 |
+| Stars today | 48 |
+
+---
+
+## 18. [open-policy-agent/opa](https://github.com/open-policy-agent/opa) 🆕
+
+Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 12,443 |
+| Forks | 1,710 |
+| Stars today | 8 |
+
+---
+
+## 19. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
+
+Make humans and AI agents work as one team — open-source and self-hostable.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 55,183 |
+| Forks | 7,273 |
+| Stars today | 130 |
+
+---
+
+## 20. [spf13/cobra](https://github.com/spf13/cobra) 🆕
+
+A Commander for modern Go CLI interactions
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 44,835 |
+| Forks | 4,480 |
+| Stars today | 102 |
+
+---
+
+## 21. [ethereum-optimism/optimism](https://github.com/ethereum-optimism/optimism) 🆕
+
+Optimism is Ethereum, scaled.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,491 |
+| Forks | 4,070 |
+| Stars today | 1 |
+
+---
+
+## 22. [google/osv-scanner](https://github.com/google/osv-scanner) 🆕
+
+Vulnerability scanner written in Go which uses the data provided byhttps://osv.dev
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 11,439 |
+| Forks | 845 |
+| Stars today | 24 |
+
+---
+
+## 23. [qax-os/excelize](https://github.com/qax-os/excelize) 🆕
+
+Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 21,103 |
+| Forks | 1,996 |
+| Stars today | 18 |
+
+---
+
+## 24. [go-gitea/gitea](https://github.com/go-gitea/gitea) 🆕
+
+Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 58,933 |
+| Forks | 7,368 |
+| Stars today | 27 |
 
 ---

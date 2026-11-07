@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-05T06:38:37Z
-**Total Repositories:** 17
-**New Entries:** 2
+**Snapshot Time:** 2026-11-07T05:53:27Z
+**Total Repositories:** 18
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,35 +15,35 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,660 |
-| Forks | 1,663 |
-| Stars this month | 2,050 |
+| Stars | 21,739 |
+| Forks | 1,667 |
+| Stars this month | 2,122 |
 
 ---
 
-## 2. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
-
-.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 26,959 |
-| Forks | 3,814 |
-| Stars this month | 805 |
-
----
-
-## 3. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
+## 2. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
 
 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,665 |
-| Forks | 1,301 |
-| Stars this month | 1,859 |
+| Stars | 17,723 |
+| Forks | 1,310 |
+| Stars this month | 1,881 |
+
+---
+
+## 3. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
+
+.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 26,983 |
+| Forks | 3,815 |
+| Stars this month | 724 |
 
 ---
 
@@ -54,9 +54,9 @@ PCL 社区版 由社区开发者维护与管理
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,065 |
-| Forks | 473 |
-| Stars this month | 745 |
+| Stars | 5,084 |
+| Forks | 472 |
+| Stars this month | 757 |
 
 ---
 
@@ -67,61 +67,61 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,717 |
-| Forks | 1,622 |
-| Stars this month | 1,086 |
+| Stars | 15,768 |
+| Forks | 1,624 |
+| Stars this month | 1,098 |
 
 ---
 
-## 6. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 6. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
 
-A Launcher that Downloads and Updates Applications from Github Releases
+Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,059 |
-| Forks | 68 |
-| Stars this month | 398 |
+| Stars | 17,742 |
+| Forks | 3,111 |
+| Stars this month | 268 |
 
 ---
 
-## 7. [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
-
-Work-in-progress tool to reverse unity's IL2CPP toolchain.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,086 |
-| Forks | 410 |
-| Stars this month | 446 |
-
----
-
-## 8. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
+## 7. [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
 
 GUI application to analyze game files
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,834 |
-| Forks | 1,044 |
-| Stars this month | 374 |
+| Stars | 8,855 |
+| Forks | 1,049 |
+| Stars this month | 385 |
 
 ---
 
-## 9. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 8. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,405 |
-| Forks | 5,799 |
-| Stars this month | 137 |
+| Stars | 2,066 |
+| Forks | 69 |
+| Stars this month | 382 |
+
+---
+
+## 9. [memstechtips/Winhance](https://github.com/memstechtips/Winhance) 🆕
+
+Application designed to optimize, customize and enhance your Windows experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,714 |
+| Forks | 690 |
+| Stars this month | 1,455 |
 
 ---
 
@@ -132,9 +132,9 @@ Windows/macOS/Linux GUI client for GIT users
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,365 |
-| Forks | 580 |
-| Stars this month | 297 |
+| Stars | 6,394 |
+| Forks | 586 |
+| Stars this month | 319 |
 
 ---
 
@@ -145,35 +145,35 @@ ShareX is a free and open-source application that enables users to capture or re
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,637 |
-| Forks | 4,029 |
-| Stars this month | 847 |
+| Stars | 40,712 |
+| Forks | 4,037 |
+| Stars this month | 874 |
 
 ---
 
-## 12. [RayrenSX/iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) 🆕
+## 12. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
-Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
+Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,705 |
-| Forks | 129 |
-| Stars this month | 694 |
+| Stars | 7,895 |
+| Forks | 2,057 |
+| Stars this month | 133 |
 
 ---
 
-## 13. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
+## 13. [MUnique/OpenMU](https://github.com/MUnique/OpenMU) 🆕
 
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
+This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,175 |
-| Forks | 712 |
-| Stars this month | 342 |
+| Stars | 1,277 |
+| Forks | 681 |
+| Stars this month | 88 |
 
 ---
 
@@ -184,47 +184,60 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,023 |
-| Forks | 8,531 |
-| Stars this month | 642 |
+| Stars | 56,038 |
+| Forks | 8,532 |
+| Stars this month | 636 |
 
 ---
 
-## 15. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) 🆕
+## 15. [dotnet/runtime](https://github.com/dotnet/runtime)
 
-Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,891 |
-| Forks | 2,056 |
-| Stars this month | 130 |
+| Stars | 18,413 |
+| Forks | 5,801 |
+| Stars this month | 138 |
 
 ---
 
-## 16. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+## 16. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
 
-Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,731 |
-| Forks | 3,111 |
-| Stars this month | 274 |
+| Stars | 7,187 |
+| Forks | 712 |
+| Stars this month | 340 |
 
 ---
 
-## 17. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro)
+## 17. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
 
-B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,154 |
-| Forks | 1,928 |
-| Stars this month | 255 |
+| Stars | 38,498 |
+| Forks | 12,299 |
+| Stars this month | 118 |
+
+---
+
+## 18. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) 🆕
+
+The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 19,835 |
+| Forks | 4,518 |
+| Stars this month | 135 |
 
 ---

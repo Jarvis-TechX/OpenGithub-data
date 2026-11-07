@@ -1,36 +1,36 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-05T06:38:09Z
+**Snapshot Time:** 2026-11-07T05:53:03Z
 **Total Repositories:** 18
-**New Entries:** 2
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-
-The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 103,109 |
-| Forks | 6,100 |
-| Stars this week | 10,921 |
-
----
-
-## 2. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+## 1. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 
 Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,180 |
-| Forks | 418 |
-| Stars this week | 1,261 |
+| Stars | 11,830 |
+| Forks | 456 |
+| Stars this week | 2,184 |
+
+---
+
+## 2. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+
+The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 104,945 |
+| Forks | 6,236 |
+| Stars this week | 8,172 |
 
 ---
 
@@ -41,203 +41,203 @@ the runtime your coding agents live on
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 48,158 |
-| Forks | 3,866 |
-| Stars this week | 1,797 |
+| Stars | 48,792 |
+| Forks | 3,926 |
+| Stars this week | 1,661 |
 
 ---
 
-## 4. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
-
-Next Generation Agentic Proxy for AI Agents and MCP servers
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 5,946 |
-| Forks | 1,050 |
-| Stars this week | 228 |
-
----
-
-## 5. [cjpais/Handy](https://github.com/cjpais/Handy)
-
-A free, open source, and extensible speech-to-text application that works completely offline.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 37,563 |
-| Forks | 3,545 |
-| Stars this week | 2,547 |
-
----
-
-## 6. [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) 🆕
-
-Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,942 |
-| Forks | 499 |
-| Stars this week | 359 |
-
----
-
-## 7. [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko)
-
-The Open Runtime for AI Agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 11,787 |
-| Forks | 3,203 |
-| Stars this week | 2,234 |
-
----
-
-## 8. [macro-inc/macro](https://github.com/macro-inc/macro)
-
-Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 6,152 |
-| Forks | 572 |
-| Stars this week | 934 |
-
----
-
-## 9. [zed-industries/zed](https://github.com/zed-industries/zed)
-
-Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 92,740 |
-| Forks | 11,409 |
-| Stars this week | 396 |
-
----
-
-## 10. [leepokai/Codync](https://github.com/leepokai/Codync)
-
-Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 1,881 |
-| Forks | 192 |
-| Stars this week | 895 |
-
----
-
-## 11. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-
-Browser automation CLI for AI agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 45,571 |
-| Forks | 3,135 |
-| Stars this week | 767 |
-
----
-
-## 12. [openai/codex](https://github.com/openai/codex)
+## 4. [openai/codex](https://github.com/openai/codex)
 
 Lightweight coding agent that runs in your terminal
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 133,242 |
-| Forks | 21,104 |
-| Stars this week | 1,863 |
+| Stars | 133,504 |
+| Forks | 21,160 |
+| Stars this week | 1,930 |
 
 ---
 
-## 13. [SimoHypers/limusic](https://github.com/SimoHypers/limusic)
+## 5. [zed-industries/zed](https://github.com/zed-industries/zed)
 
-Feature rich, native desktop, YouTube Music client.
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,804 |
-| Forks | 117 |
-| Stars this week | 387 |
+| Stars | 93,793 |
+| Forks | 11,511 |
+| Stars this week | 995 |
 
 ---
 
-## 14. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+## 6. [cjpais/Handy](https://github.com/cjpais/Handy)
+
+A free, open source, and extensible speech-to-text application that works completely offline.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 37,843 |
+| Forks | 3,573 |
+| Stars this week | 2,677 |
+
+---
+
+## 7. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+
+Browser automation CLI for AI agents
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 46,341 |
+| Forks | 3,174 |
+| Stars this week | 1,404 |
+
+---
+
+## 8. [anomalyco/hex](https://github.com/anomalyco/hex) 🆕
+
+Local voice dictation for mac, windows and linux
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 5,562 |
+| Forks | 326 |
+| Stars this week | 4,291 |
+
+---
+
+## 9. [leepokai/Codync](https://github.com/leepokai/Codync)
+
+Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,941 |
+| Forks | 199 |
+| Stars this week | 922 |
+
+---
+
+## 10. [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 
 Algorithm powering the For You feed on X
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 34,085 |
-| Forks | 5,508 |
-| Stars this week | 230 |
+| Stars | 34,121 |
+| Forks | 5,515 |
+| Stars this week | 217 |
 
 ---
 
-## 15. [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust)
+## 11. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
 
-NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.
+Next Generation Agentic Proxy for AI Agents and MCP servers
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,981 |
-| Forks | 358 |
-| Stars this week | 145 |
+| Stars | 6,004 |
+| Forks | 1,062 |
+| Stars this week | 180 |
 
 ---
 
-## 16. [ruvnet/RuView](https://github.com/ruvnet/RuView)
+## 12. [crmne/zapfast](https://github.com/crmne/zapfast) 🆕
 
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+ZapFast: a fast, native WhatsApp client in Rust and egui
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 102,455 |
-| Forks | 13,301 |
-| Stars this week | 1,791 |
+| Stars | 3,293 |
+| Forks | 343 |
+| Stars this week | 931 |
 
 ---
 
-## 17. [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
+## 13. [clap-rs/clap](https://github.com/clap-rs/clap) 🆕
 
-All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+A full featured, fast Command Line Argument Parser for Rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,730 |
-| Forks | 1,040 |
-| Stars this week | 279 |
+| Stars | 16,936 |
+| Forks | 1,307 |
+| Stars this week | 168 |
 
 ---
 
-## 18. [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) 🆕
+## 14. [denoland/deno](https://github.com/denoland/deno) 🆕
 
-A coding agent for open models like Kimi K3 and GLM 5.3
+A modern runtime for JavaScript and TypeScript.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 68,793 |
-| Forks | 5,935 |
-| Stars this week | 117 |
+| Stars | 108,906 |
+| Forks | 6,655 |
+| Stars this week | 280 |
+
+---
+
+## 15. [astral-sh/ruff](https://github.com/astral-sh/ruff) 🆕
+
+An extremely fast Python linter and code formatter, written in Rust.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 50,745 |
+| Forks | 2,615 |
+| Stars this week | 369 |
+
+---
+
+## 16. [SimoHypers/limusic](https://github.com/SimoHypers/limusic)
+
+Feature rich, native desktop, YouTube Music client.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,869 |
+| Forks | 121 |
+| Stars this week | 382 |
+
+---
+
+## 17. [janhq/jan](https://github.com/janhq/jan) 🆕
+
+Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 45,541 |
+| Forks | 3,157 |
+| Stars this week | 399 |
+
+---
+
+## 18. [nushell/nushell](https://github.com/nushell/nushell) 🆕
+
+A new type of shell
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 41,016 |
+| Forks | 2,344 |
+| Stars this week | 220 |
 
 ---

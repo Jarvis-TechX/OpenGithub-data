@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-05T06:38:14Z
-**Total Repositories:** 10
-**New Entries:** 2
+**Snapshot Time:** 2026-11-07T05:53:08Z
+**Total Repositories:** 13
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
@@ -15,125 +15,164 @@ A modern, cool, sleek music player. made with <3
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 713 |
-| Forks | 40 |
-| Stars this week | 403 |
+| Stars | 979 |
+| Forks | 53 |
+| Stars this week | 558 |
 
 ---
 
-## 2. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
-
-StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 998 |
-| Forks | 169 |
-| Stars this week | 123 |
-
----
-
-## 3. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
+## 2. [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
 
 BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,693 |
-| Forks | 577 |
-| Stars this week | 908 |
+| Stars | 5,996 |
+| Forks | 603 |
+| Stars this week | 1,051 |
 
 ---
 
-## 4. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
+## 3. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
 
-Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
+StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,628 |
-| Forks | 159 |
-| Stars this week | 290 |
+| Stars | 1,017 |
+| Forks | 173 |
+| Stars this week | 136 |
 
 ---
 
-## 5. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+## 4. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop) 🆕
+
+YunX（云析）的官方 windows 桌面端
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,293 |
+| Forks | 231 |
+| Stars this week | 1,075 |
+
+---
+
+## 5. [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) 🆕
+
+Compose Multiplatform Liquid Glass effect
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,535 |
+| Forks | 363 |
+| Stars this week | 150 |
+
+---
+
+## 6. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) 🆕
+
+使用 Material Design 3 全新设计的阅读 3.0
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,868 |
+| Forks | 796 |
+| Stars this week | 140 |
+
+---
+
+## 7. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
 
 Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 32,820 |
-| Forks | 3,546 |
-| Stars this week | 524 |
+| Stars | 32,993 |
+| Forks | 3,568 |
+| Stars this week | 545 |
 
 ---
 
-## 6. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+## 8. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
 
-Kernel-based Android Root Solution & KPM
+Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,894 |
-| Forks | 1,407 |
-| Stars this week | 176 |
+| Stars | 2,649 |
+| Forks | 162 |
+| Stars this week | 302 |
 
 ---
 
-## 7. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+## 9. [sameerasw/essentials](https://github.com/sameerasw/essentials) 🆕
+
+Essential tools and mods for Android nerds
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,713 |
+| Forks | 106 |
+| Stars this week | 125 |
+
+---
+
+## 10. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 44,037 |
-| Forks | 2,103 |
-| Stars this week | 465 |
+| Stars | 44,173 |
+| Forks | 2,112 |
+| Stars this week | 471 |
 
 ---
 
-## 8. [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-
-Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,623 |
-| Forks | 427 |
-| Stars this week | 73 |
-
----
-
-## 9. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
+## 11. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 
 The Magic Mask for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 63,775 |
-| Forks | 19,198 |
-| Stars this week | 234 |
+| Stars | 63,835 |
+| Forks | 19,219 |
+| Stars this week | 239 |
 
 ---
 
-## 10. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) 🆕
+## 12. [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX)
 
-A Download Manager that speeds up your downloads
+Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 18,982 |
-| Forks | 1,005 |
-| Stars this week | 237 |
+| Stars | 7,628 |
+| Forks | 427 |
+| Stars this week | 69 |
+
+---
+
+## 13. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) 🆕
+
+A cross-platform music app using YouTube Music for backend
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 12,923 |
+| Forks | 726 |
+| Stars this week | 342 |
 
 ---

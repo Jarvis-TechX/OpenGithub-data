@@ -1,215 +1,243 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-05T06:37:39Z
-**Total Repositories:** 16
-**New Entries:** 10
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-11-07T05:52:35Z
+**Total Repositories:** 18
+**New Entries:** 16
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) 🆕
+## 1. [zed-industries/zed](https://github.com/zed-industries/zed) 🆕
+
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 93,793 |
+| Forks | 11,511 |
+| Stars today | 306 |
+
+---
+
+## 2. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
 
 Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,702 |
-| Forks | 448 |
-| Stars today | 2,050 |
+| Stars | 9,289 |
+| Forks | 736 |
+| Stars today | 2,015 |
 
 ---
 
-## 2. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+## 3. [rails/rails](https://github.com/rails/rails) 🆕
 
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+Ruby on Rails
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 59,053 |
+| Forks | 23,833 |
+| Stars today | 142 |
+
+---
+
+## 4. [mpv-player/mpv](https://github.com/mpv-player/mpv) 🆕
+
+🎥 Command line media player
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 37,925 |
+| Forks | 3,634 |
+| Stars today | 37 |
+
+---
+
+## 5. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
+
+Empowering everyone to build reliable and efficient software.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,180 |
-| Forks | 418 |
-| Stars today | 531 |
+| Stars | 121,513 |
+| Forks | 17,369 |
+| Stars today | 192 |
 
 ---
 
-## 3. [mattpocock/skills](https://github.com/mattpocock/skills)
+## 6. [react/react](https://github.com/react/react) 🆕
+
+The library for web and native user interfaces.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 252,302 |
+| Forks | 51,825 |
+| Stars today | 248 |
+
+---
+
+## 7. [angular/angular](https://github.com/angular/angular) 🆕
+
+Deliver web apps with confidence 🚀
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 101,415 |
+| Forks | 28,914 |
+| Stars today | 135 |
+
+---
+
+## 8. [symfony/symfony](https://github.com/symfony/symfony) 🆕
+
+The Symfony PHP framework
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 31,472 |
+| Forks | 9,949 |
+| Stars today | 128 |
+
+---
+
+## 9. [prometheus/prometheus](https://github.com/prometheus/prometheus) 🆕
+
+The Prometheus monitoring system and time series database.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 67,231 |
+| Forks | 10,989 |
+| Stars today | 148 |
+
+---
+
+## 10. [google/skills](https://github.com/google/skills) 🆕
+
+Agent Skills for Google products and technologies
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 22,934 |
+| Forks | 1,928 |
+| Stars today | 534 |
+
+---
+
+## 11. [microsoft/vscode](https://github.com/microsoft/vscode) 🆕
+
+Visual Studio Code
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 195,072 |
+| Forks | 44,433 |
+| Stars today | 301 |
+
+---
+
+## 12. [lz4/lz4](https://github.com/lz4/lz4) 🆕
+
+Extremely Fast Compression algorithm
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 12,644 |
+| Forks | 1,643 |
+| Stars today | 315 |
+
+---
+
+## 13. [nushell/nushell](https://github.com/nushell/nushell) 🆕
+
+A new type of shell
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 41,015 |
+| Forks | 2,344 |
+| Stars today | 131 |
+
+---
+
+## 14. [etcd-io/etcd](https://github.com/etcd-io/etcd) 🆕
+
+Distributed reliable key-value store for the most critical data of a distributed system
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 52,638 |
+| Forks | 10,590 |
+| Stars today | 128 |
+
+---
+
+## 15. [openssl/openssl](https://github.com/openssl/openssl) 🆕
+
+General purpose TLS and crypto library
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 31,329 |
+| Forks | 11,583 |
+| Stars today | 26 |
+
+---
+
+## 16. [mattpocock/skills](https://github.com/mattpocock/skills)
 
 Skills for Real Engineers. Straight from my .agents directory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 313,706 |
-| Forks | 26,305 |
-| Stars today | 1,379 |
+| Stars | 316,904 |
+| Forks | 26,518 |
+| Stars today | 2,070 |
 
 ---
 
-## 4. [floci-io/floci](https://github.com/floci-io/floci)
+## 17. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) 🆕
 
-Light, fluffy, and always free - The AWS Local Emulator alternative
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 | Metric | Value |
 |--------|-------|
-| Language | Java |
-| Stars | 29,809 |
-| Forks | 3,293 |
-| Stars today | 1,090 |
+| Language | JavaScript |
+| Stars | 64,383 |
+| Forks | 4,172 |
+| Stars today | 2,548 |
 
 ---
 
-## 5. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+## 18. [astral-sh/ruff](https://github.com/astral-sh/ruff) 🆕
 
-Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 113,075 |
-| Forks | 9,818 |
-| Stars today | 1,172 |
-
----
-
-## 6. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
-
-Computer use CLI for AI agents
+An extremely fast Python linter and code formatter, written in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,682 |
-| Forks | 1,088 |
-| Stars today | 2,470 |
-
----
-
-## 7. [github/spec-kit](https://github.com/github/spec-kit) 🆕
-
-💫 Toolkit to help you get started with SDD or any other process!
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 147,479 |
-| Forks | 13,233 |
-| Stars today | 808 |
-
----
-
-## 8. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) 🆕
-
-🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 14,897 |
-| Forks | 2,100 |
-| Stars today | 280 |
-
----
-
-## 9. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 🆕
-
-利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 139,264 |
-| Forks | 22,217 |
-| Stars today | 617 |
-
----
-
-## 10. [garrytan/gstack](https://github.com/garrytan/gstack) 🆕
-
-Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 139,490 |
-| Forks | 20,646 |
-| Stars today | 290 |
-
----
-
-## 11. [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) 🆕
-
-A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 10,494 |
-| Forks | 1,646 |
-| Stars today | 351 |
-
----
-
-## 12. [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,806 |
-| Forks | 242 |
-| Stars today | 1,778 |
-
----
-
-## 13. [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) 🆕
-
-This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
-
-| Metric | Value |
-|--------|-------|
-| Language | Shell |
-| Stars | 30,591 |
-| Forks | 6,796 |
-| Stars today | 97 |
-
----
-
-## 14. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-
-🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 96,948 |
-| Forks | 10,163 |
-| Stars today | 2,005 |
-
----
-
-## 15. [Thysrael/Horizon](https://github.com/Thysrael/Horizon) 🆕
-
-📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 12,682 |
-| Forks | 1,833 |
-| Stars today | 121 |
-
----
-
-## 16. [scenario-labs/skills](https://github.com/scenario-labs/skills) 🆕
-
-Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 2,599 |
-| Forks | 251 |
-| Stars today | 224 |
+| Stars | 50,743 |
+| Forks | 2,615 |
+| Stars today | 169 |
 
 ---

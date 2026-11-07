@@ -1,36 +1,36 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-05T06:38:00Z
+**Snapshot Time:** 2026-11-07T05:52:56Z
 **Total Repositories:** 11
-**New Entries:** 2
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [affaan-m/ECC](https://github.com/affaan-m/ECC)
-
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 297,398 |
-| Forks | 43,970 |
-| Stars this week | 5,811 |
-
----
-
-## 2. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+## 1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 59,786 |
-| Forks | 3,891 |
-| Stars this week | 7,528 |
+| Stars | 64,384 |
+| Forks | 4,172 |
+| Stars this week | 9,990 |
+
+---
+
+## 2. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
+
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 111,297 |
+| Forks | 7,479 |
+| Stars this week | 5,064 |
 
 ---
 
@@ -41,22 +41,22 @@ DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 18,397 |
-| Forks | 4,285 |
-| Stars this week | 6,079 |
+| Stars | 20,226 |
+| Forks | 4,761 |
+| Stars this week | 6,363 |
 
 ---
 
-## 4. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+## 4. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 58,571 |
-| Forks | 8,586 |
-| Stars this week | 1,466 |
+| Stars | 298,688 |
+| Forks | 44,144 |
+| Stars this week | 5,498 |
 
 ---
 
@@ -67,9 +67,9 @@ Community-contributed instructions, agents, skills, and configurations to help y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 40,811 |
-| Forks | 5,295 |
-| Stars this week | 335 |
+| Stars | 40,884 |
+| Forks | 5,305 |
+| Stars this week | 320 |
 
 ---
 
@@ -80,9 +80,9 @@ Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,904 |
-| Forks | 462 |
-| Stars this week | 291 |
+| Stars | 1,947 |
+| Forks | 475 |
+| Stars this week | 372 |
 
 ---
 
@@ -93,60 +93,60 @@ Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,249 |
-| Forks | 489 |
-| Stars this week | 2,450 |
+| Stars | 4,512 |
+| Forks | 516 |
+| Stars this week | 2,651 |
 
 ---
 
-## 8. [juliangarnier/anime](https://github.com/juliangarnier/anime)
+## 8. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
-JavaScript animation engine
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 74,302 |
-| Forks | 5,050 |
-| Stars this week | 316 |
+| Stars | 58,957 |
+| Forks | 8,618 |
+| Stars this week | 1,456 |
 
 ---
 
-## 9. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 9. [IamRamgarhia/Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) 🆕
 
-一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+Free invoice builder & GST billing software for India. Make GST invoices, quotations, bills of supply and credit notes as PDF; GSTR-1/3B reports. Free invoice maker for shops, freelancers & small businesses. Free Tally alternative: open source, 100% offline, no signup, no limits.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 37,865 |
-| Forks | 2,713 |
-| Stars this week | 3,832 |
+| Stars | 460 |
+| Forks | 191 |
+| Stars this week | 93 |
 
 ---
 
-## 10. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) 🆕
+## 10. [ericrisco/rsc-harness](https://github.com/ericrisco/rsc-harness) 🆕
 
-Vercel's official collection of agent skills
+Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the meta-harness that gives it both, plus the trade to know the job and the reflexes to not break your repo. For Claude Code, Codex and 15 more.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 33,558 |
-| Forks | 2,938 |
-| Stars this week | 412 |
+| Stars | 527 |
+| Forks | 74 |
+| Stars this week | 123 |
 
 ---
 
-## 11. [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) 🆕
+## 11. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) 🆕
 
-Create beautiful slides on the web using a coding agent's frontend skills
+ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 31,908 |
-| Forks | 2,446 |
-| Stars this week | 423 |
+| Stars | 14,544 |
+| Forks | 1,679 |
+| Stars this week | 1,124 |
 
 ---

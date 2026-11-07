@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-05T06:38:29Z
-**Total Repositories:** 21
-**New Entries:** 3
+**Snapshot Time:** 2026-11-07T05:53:20Z
+**Total Repositories:** 19
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 185,953 |
-| Forks | 18,896 |
-| Stars this month | 4,807 |
+| Stars | 186,173 |
+| Forks | 18,943 |
+| Stars this month | 4,858 |
 
 ---
 
@@ -28,9 +28,9 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 33,357 |
-| Forks | 5,208 |
-| Stars this month | 8,262 |
+| Stars | 33,558 |
+| Forks | 5,243 |
+| Stars this month | 8,452 |
 
 ---
 
@@ -41,242 +41,216 @@ Define and run multi-container applications with Docker
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,605 |
+| Stars | 38,630 |
 | Forks | 5,902 |
-| Stars this month | 530 |
+| Stars this month | 551 |
 
 ---
 
-## 4. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
-
-scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 7,343 |
-| Forks | 1,151 |
-| Stars this month | 1,061 |
-
----
-
-## 5. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
-
-The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 3,295 |
-| Forks | 290 |
-| Stars this month | 1,526 |
-
----
-
-## 6. [Agent-Field/CodeAF](https://github.com/Agent-Field/CodeAF)
-
-Open-Source Software factory for Open Models
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 635 |
-| Forks | 76 |
-| Stars this month | 362 |
-
----
-
-## 7. [tailscale/tailscale](https://github.com/tailscale/tailscale) 🆕
-
-The easiest, most secure way to use WireGuard and 2FA.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,659 |
-| Forks | 3,427 |
-| Stars this month | 1,597 |
-
----
-
-## 8. [argoproj/argo-cd](https://github.com/argoproj/argo-cd) 🆕
+## 4. [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 
 Declarative Continuous Deployment for Kubernetes
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 24,545 |
-| Forks | 8,094 |
-| Stars this month | 261 |
+| Stars | 24,561 |
+| Forks | 8,105 |
+| Stars this month | 263 |
 
 ---
 
-## 9. [strelov1/freehire](https://github.com/strelov1/freehire)
+## 5. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
 
-freehire — the open-source search engine for job seekers
+scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,372 |
-| Forks | 369 |
-| Stars this month | 2,959 |
+| Stars | 7,426 |
+| Forks | 1,164 |
+| Stars this month | 1,133 |
 
 ---
 
-## 10. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router)
+## 6. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
 
-llm-d Router: The intelligent entry point for inference requests
+The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 454 |
-| Forks | 515 |
-| Stars this month | 79 |
+| Stars | 3,358 |
+| Forks | 294 |
+| Stars this month | 1,586 |
 
 ---
 
-## 11. [N4darae/shrt](https://github.com/N4darae/shrt)
-
-A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,172 |
-| Forks | 150 |
-| Stars this month | 1,694 |
-
----
-
-## 12. [keploy/keploy](https://github.com/keploy/keploy)
-
-Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 19,421 |
-| Forks | 2,447 |
-| Stars this month | 930 |
-
----
-
-## 13. [docker/docker-agent](https://github.com/docker/docker-agent)
-
-AI Agent Builder and Runtime by Docker Engineering
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 4,657 |
-| Forks | 549 |
-| Stars this month | 1,293 |
-
----
-
-## 14. [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
-
-WhatsApp MCP server
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 6,810 |
-| Forks | 1,479 |
-| Stars this month | 437 |
-
----
-
-## 15. [rasonyang/ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter)
-
-Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 533 |
-| Forks | 98 |
-| Stars this month | 335 |
-
----
-
-## 16. [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-
-TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 111,735 |
-| Forks | 15,392 |
-| Stars this month | 663 |
-
----
-
-## 17. [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)
-
-Awesome list of 300+ agentic AI resources
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,886 |
-| Forks | 750 |
-| Stars this month | 568 |
-
----
-
-## 18. [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
-
-Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 42,630 |
-| Forks | 6,108 |
-| Stars this month | 839 |
-
----
-
-## 19. [rclone/rclone](https://github.com/rclone/rclone)
+## 7. [rclone/rclone](https://github.com/rclone/rclone)
 
 "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 60,810 |
-| Forks | 5,651 |
-| Stars this month | 811 |
+| Stars | 60,839 |
+| Forks | 5,657 |
+| Stars this month | 816 |
 
 ---
 
-## 20. [golang/go](https://github.com/golang/go)
+## 8. [netbirdio/netbird](https://github.com/netbirdio/netbird) 🆕
 
-The Go programming language
+NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,581 |
-| Forks | 20,986 |
-| Stars this month | 1,920 |
+| Stars | 30,749 |
+| Forks | 1,833 |
+| Stars this month | 1,047 |
 
 ---
 
-## 21. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) 🆕
+## 9. [moby/moby](https://github.com/moby/moby) 🆕
+
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 72,353 |
+| Forks | 19,318 |
+| Stars this month | 378 |
+
+---
+
+## 10. [prometheus/prometheus](https://github.com/prometheus/prometheus) 🆕
+
+The Prometheus monitoring system and time series database.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 67,231 |
+| Forks | 10,989 |
+| Stars this month | 1,163 |
+
+---
+
+## 11. [tailscale/tailscale](https://github.com/tailscale/tailscale)
+
+The easiest, most secure way to use WireGuard and 2FA.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 38,739 |
+| Forks | 3,434 |
+| Stars this month | 1,650 |
+
+---
+
+## 12. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 
 Find secrets with Gitleaks 🔑
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,686 |
-| Forks | 2,334 |
-| Stars this month | 1,075 |
+| Stars | 30,745 |
+| Forks | 2,343 |
+| Stars this month | 1,070 |
+
+---
+
+## 13. [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router)
+
+llm-d Router: The intelligent entry point for inference requests
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 460 |
+| Forks | 517 |
+| Stars this month | 84 |
+
+---
+
+## 14. [N4darae/shrt](https://github.com/N4darae/shrt)
+
+A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 2,446 |
+| Forks | 169 |
+| Stars this month | 1,838 |
+
+---
+
+## 15. [go-gitea/gitea](https://github.com/go-gitea/gitea) 🆕
+
+Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 58,933 |
+| Forks | 7,368 |
+| Stars this month | 726 |
+
+---
+
+## 16. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
+
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 39,083 |
+| Forks | 834 |
+| Stars this month | 867 |
+
+---
+
+## 17. [rasonyang/ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter)
+
+Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 548 |
+| Forks | 103 |
+| Stars this month | 355 |
+
+---
+
+## 18. [github/gh-aw](https://github.com/github/gh-aw) 🆕
+
+GitHub Agentic Workflows
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 5,585 |
+| Forks | 619 |
+| Stars this month | 261 |
+
+---
+
+## 19. [gin-gonic/gin](https://github.com/gin-gonic/gin) 🆕
+
+Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 89,593 |
+| Forks | 8,910 |
+| Stars this month | 543 |
 
 ---

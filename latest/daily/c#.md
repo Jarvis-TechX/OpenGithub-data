@@ -1,176 +1,252 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-05T06:37:54Z
-**Total Repositories:** 13
-**New Entries:** 9
-**Quality Score:** 96.92/100
+**Snapshot Time:** 2026-11-07T05:52:51Z
+**Total Repositories:** 19
+**New Entries:** 18
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) 🆕
+## 1. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
+
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,806 |
-| Forks | 242 |
-| Stars today | 1,778 |
+| Stars | 38,498 |
+| Forks | 12,299 |
+| Stars today | 6 |
 
 ---
 
-## 2. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
+## 2. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
 
-.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 26,959 |
-| Forks | 3,814 |
-| Stars today | 15 |
+| Stars | 18,413 |
+| Forks | 5,801 |
+| Stars today | 5 |
 
 ---
 
-## 3. [snownico0722/PaperTodo](https://github.com/snownico0722/PaperTodo) 🆕
+## 3. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🆕
 
-A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.——极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。
+Integrate cutting-edge LLM technology quickly and easily into your apps
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,675 |
-| Forks | 140 |
-| Stars today | 10 |
+| Stars | 28,741 |
+| Forks | 4,854 |
+| Stars today | 5 |
 
 ---
 
-## 4. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+## 4. [Azure/azure-powershell](https://github.com/Azure/azure-powershell) 🆕
 
-The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
+Microsoft Azure PowerShell
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,566 |
-| Forks | 291 |
-| Stars today | 40 |
+| Stars | 4,807 |
+| Forks | 4,289 |
 
 ---
 
-## 5. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) 🆕
+## 5. [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) 🆕
 
-PowerShell for every system!
+🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,023 |
-| Forks | 8,531 |
-| Stars today | 12 |
+| Stars | 14,873 |
+| Forks | 763 |
+| Stars today | 23 |
 
 ---
 
-## 6. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) 🆕
+## 6. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) 🆕
 
-Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,717 |
-| Forks | 1,622 |
-| Stars today | 29 |
+| Stars | 11,040 |
+| Forks | 476 |
+| Stars today | 41 |
 
 ---
 
-## 7. [RayrenSX/iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) 🆕
+## 7. [unoplatform/uno](https://github.com/unoplatform/uno) 🆕
 
-Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
+Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills built for modern .NET workflows. 200M+ NuGet downloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,705 |
-| Forks | 129 |
-| Stars today | 15 |
+| Stars | 10,106 |
+| Forks | 922 |
+| Stars today | 1 |
 
 ---
 
-## 8. [dotnet/eShop](https://github.com/dotnet/eShop) 🆕
+## 8. [microsoft/aspire](https://github.com/microsoft/aspire) 🆕
 
-A reference .NET application implementing an eCommerce site
+Aspire is the tool for code-first, extensible, observable dev and deploy.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,998 |
-| Forks | 3,905 |
+| Stars | 6,402 |
+| Forks | 1,033 |
+| Stars today | 5 |
+
+---
+
+## 9. [MUnique/OpenMU](https://github.com/MUnique/OpenMU) 🆕
+
+This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 1,277 |
+| Forks | 681 |
 | Stars today | 3 |
 
 ---
 
-## 9. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
+## 10. [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) 🆕
 
-Movie organizer/manager for usenet and torrent users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,716 |
-| Forks | 1,256 |
-| Stars today | 9 |
-
----
-
-## 10. [dotnet/skills](https://github.com/dotnet/skills) 🆕
-
-Repository for skills to assist AI coding agents with .NET and C#
+This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,832 |
-| Forks | 455 |
-| Stars today | 20 |
+| Stars | 6,076 |
+| Forks | 5,226 |
 
 ---
 
-## 11. [STranslate/STranslate](https://github.com/STranslate/STranslate)
+## 11. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck) 🆕
 
-A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
+A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,517 |
-| Forks | 452 |
-| Stars today | 10 |
+| Stars | 490 |
+| Forks | 42 |
+| Stars today | 27 |
 
 ---
 
-## 12. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
+## 12. [dotnet/sdk](https://github.com/dotnet/sdk) 🆕
+
+Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 3,247 |
+| Forks | 1,304 |
+| Stars today | 3 |
+
+---
+
+## 13. [dotnet/efcore](https://github.com/dotnet/efcore) 🆕
+
+EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,814 |
+| Forks | 3,450 |
+| Stars today | 2 |
+
+---
+
+## 14. [DataDog/dd-trace-dotnet](https://github.com/DataDog/dd-trace-dotnet) 🆕
+
+.NET Client Library for Datadog APM
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 572 |
+| Forks | 176 |
+
+---
+
+## 15. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
 Windows/macOS/Linux GUI client for GIT users
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,365 |
-| Forks | 580 |
-| Stars today | 10 |
+| Stars | 6,394 |
+| Forks | 586 |
+| Stars today | 18 |
 
 ---
 
-## 13. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+## 16. [Azure/azure-functions-host](https://github.com/Azure/azure-functions-host) 🆕
 
-A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+The host/runtime that powers Azure Functions
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,120 |
-| Forks | 4,082 |
+| Stars | 2,025 |
+| Forks | 486 |
+
+---
+
+## 17. [dotnet/roslyn](https://github.com/dotnet/roslyn) 🆕
+
+The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 20,765 |
+| Forks | 4,368 |
+| Stars today | 2 |
+
+---
+
+## 18. [dotnet/android](https://github.com/dotnet/android) 🆕
+
+.NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 2,147 |
+| Forks | 579 |
+| Stars today | 2 |
+
+---
+
+## 19. [QuantConnect/Lean](https://github.com/QuantConnect/Lean) 🆕
+
+Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 22,424 |
+| Forks | 5,393 |
 | Stars today | 16 |
 
 ---

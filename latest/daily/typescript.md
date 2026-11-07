@@ -1,200 +1,243 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-05T06:37:43Z
-**Total Repositories:** 15
-**New Entries:** 10
-**Quality Score:** 94.67/100
+**Snapshot Time:** 2026-11-07T05:52:40Z
+**Total Repositories:** 18
+**New Entries:** 17
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+## 1. [angular/angular](https://github.com/angular/angular) 🆕
 
-Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+Deliver web apps with confidence 🚀
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 113,075 |
-| Forks | 9,819 |
-| Stars today | 1,172 |
+| Stars | 101,415 |
+| Forks | 28,914 |
+| Stars today | 135 |
 
 ---
 
-## 2. [garrytan/gstack](https://github.com/garrytan/gstack) 🆕
+## 2. [microsoft/vscode](https://github.com/microsoft/vscode) 🆕
 
-Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+Visual Studio Code
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 139,490 |
-| Forks | 20,646 |
-| Stars today | 290 |
+| Stars | 195,072 |
+| Forks | 44,433 |
+| Stars today | 301 |
 
 ---
 
-## 3. [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
+## 3. [solidjs/solid](https://github.com/solidjs/solid) 🆕
+
+A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,155 |
-| Forks | 248 |
-| Stars today | 227 |
+| Stars | 36,335 |
+| Forks | 1,157 |
+| Stars today | 145 |
 
 ---
 
-## 4. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+## 4. [tldraw/tldraw](https://github.com/tldraw/tldraw) 🆕
 
-Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 42,232 |
-| Forks | 4,315 |
-| Stars today | 166 |
+| Stars | 51,388 |
+| Forks | 3,621 |
+| Stars today | 139 |
 
 ---
 
-## 5. [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) 🆕
+## 5. [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) 🆕
+
+autonomous red teaming platform; multi-agent offensive-security meta-harness
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 6,958 |
+| Forks | 1,445 |
+| Stars today | 242 |
+
+---
+
+## 6. [lobehub/lobehub](https://github.com/lobehub/lobehub) 🆕
+
+🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 84,272 |
+| Forks | 16,110 |
+| Stars today | 209 |
+
+---
+
+## 7. [meta/astryx](https://github.com/meta/astryx) 🆕
+
+An open source design system that's fully customizable and agent ready
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 14,066 |
+| Forks | 1,167 |
+| Stars today | 198 |
+
+---
+
+## 8. [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) 🆕
+
+Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 16,046 |
+| Forks | 1,436 |
+| Stars today | 56 |
+
+---
+
+## 9. [withastro/astro](https://github.com/withastro/astro) 🆕
+
+The web framework for content-driven websites.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 63,795 |
+| Forks | 3,916 |
+| Stars today | 38 |
+
+---
+
+## 10. [vitejs/vite](https://github.com/vitejs/vite) 🆕
+
+Next generation frontend tooling. It's fast!
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 83,848 |
+| Forks | 9,248 |
+| Stars today | 160 |
+
+---
+
+## 11. [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) 🆕
+
+Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 41,183 |
+| Forks | 4,827 |
+| Stars today | 8 |
+
+---
+
+## 12. [vuejs/vue](https://github.com/vuejs/vue) 🆕
+
+This is the repo for Vue 2. For Vue 3, go tohttps://github.com/vuejs/core
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 212,623 |
+| Forks | 33,815 |
+| Stars today | 169 |
+
+---
+
+## 13. [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)
 
 Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,155 |
-| Forks | 1,469 |
-| Stars today | 30 |
+| Stars | 5,237 |
+| Forks | 1,502 |
+| Stars today | 45 |
 
 ---
 
-## 6. [elie222/rakazo](https://github.com/elie222/rakazo) 🆕
+## 14. [novuhq/novu](https://github.com/novuhq/novu) 🆕
 
-Open-source Grok Bot alternative. Choose your own model and sandbox.
+The open-source communication infrastructure for agents and products
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,066 |
-| Forks | 1,244 |
-| Stars today | 158 |
+| Stars | 40,295 |
+| Forks | 4,528 |
+| Stars today | 13 |
 
 ---
 
-## 7. [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🆕
+## 15. [stablyai/orca](https://github.com/stablyai/orca) 🆕
 
-Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 91,018 |
-| Forks | 9,457 |
-| Stars today | 23 |
+| Stars | 117,978 |
+| Forks | 7,485 |
+| Stars today | 1,155 |
 
 ---
 
-## 8. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) 🆕
+## 16. [southleft/figma-console-mcp](https://github.com/southleft/figma-console-mcp) 🆕
 
-An open-source AI coding agent that lives in your terminal.
+Your design system as an API. Connect AI to Figma for extraction, creation, and debugging.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,013 |
-| Forks | 3,315 |
-| Stars today | 54 |
+| Stars | 3,184 |
+| Forks | 291 |
+| Stars today | 39 |
 
 ---
 
-## 9. [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) 🆕
+## 17. [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) 🆕
 
-TypeScript-to-Native Compiler
+The headless rich text editor framework for web artisans.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,502 |
-| Forks | 210 |
-| Stars today | 9 |
+| Stars | 38,985 |
+| Forks | 3,198 |
+| Stars today | 14 |
 
 ---
 
-## 10. [jo-duchan/tapflow](https://github.com/jo-duchan/tapflow) 🆕
+## 18. [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) 🆕
 
-Self-hosted iOS & Android simulator streaming for the whole team
+A utility-first CSS framework for rapid UI development.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,594 |
-| Forks | 168 |
-| Stars today | 10 |
-
----
-
-## 11. [openobserve/openobserve](https://github.com/openobserve/openobserve) 🆕
-
-Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 22,805 |
-| Forks | 1,179 |
-| Stars today | 35 |
-
----
-
-## 12. [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote)
-
-基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 1,804 |
-| Forks | 152 |
-| Stars today | 231 |
-
----
-
-## 13. [humanlayer/skills](https://github.com/humanlayer/skills) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 5,610 |
-| Forks | 190 |
-| Stars today | 27 |
-
----
-
-## 14. [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
-
-Email for professionals and teams
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 5,656 |
-| Forks | 859 |
-| Stars today | 76 |
-
----
-
-## 15. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) 🆕
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 15,911 |
-| Forks | 3,083 |
-| Stars today | 890 |
+| Stars | 98,169 |
+| Forks | 7,088 |
+| Stars today | 152 |
 
 ---

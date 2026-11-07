@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-05T06:38:11Z
-**Total Repositories:** 18
-**New Entries:** 2
+**Snapshot Time:** 2026-11-07T05:53:06Z
+**Total Repositories:** 15
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,316 |
+| Stars | 40,453 |
 | Forks | 2,167 |
-| Stars this week | 1,325 |
+| Stars this week | 1,413 |
 
 ---
 
@@ -28,9 +28,9 @@ Build cross-platform desktop apps with JavaScript, HTML, and CSS
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 123,779 |
-| Forks | 17,880 |
-| Stars this week | 226 |
+| Stars | 123,811 |
+| Forks | 17,890 |
+| Stars this week | 209 |
 
 ---
 
@@ -41,22 +41,22 @@ Godot Engine – Multi-platform 2D and 3D game engine
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 119,597 |
-| Forks | 27,362 |
-| Stars this week | 444 |
+| Stars | 119,705 |
+| Forks | 27,393 |
+| Stars this week | 464 |
 
 ---
 
-## 4. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+## 4. [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) 🆕
 
-G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,320 |
-| Forks | 3,409 |
-| Stars this week | 138 |
+| Stars | 22,256 |
+| Forks | 4,416 |
+| Stars this week | 79 |
 
 ---
 
@@ -67,113 +67,113 @@ Amnezia VPN Client (Desktop+Mobile)
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 15,737 |
-| Forks | 1,260 |
-| Stars this week | 161 |
+| Stars | 15,803 |
+| Forks | 1,270 |
+| Stars this week | 200 |
 
 ---
 
-## 6. [google/perfetto](https://github.com/google/perfetto)
+## 6. [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) 🆕
 
-Production-grade client-side tracing, profiling, and analysis for complex software systems.
+OpenToonz - An open-source full-featured 2D animation creation software
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,768 |
-| Forks | 935 |
-| Stars this week | 58 |
+| Stars | 8,028 |
+| Forks | 920 |
+| Stars this week | 135 |
 
 ---
 
-## 7. [ocornut/imgui](https://github.com/ocornut/imgui)
+## 7. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+
+G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 16,349 |
+| Forks | 3,428 |
+| Stars this week | 114 |
+
+---
+
+## 8. [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D)
+
+A high performance, editable terrain system for Godot 4.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 4,737 |
+| Forks | 365 |
+| Stars this week | 160 |
+
+---
+
+## 9. [ocornut/imgui](https://github.com/ocornut/imgui)
 
 Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 76,973 |
+| Stars | 77,008 |
 | Forks | 12,101 |
-| Stars this week | 141 |
+| Stars this week | 147 |
 
 ---
 
-## 8. [duckdb/duckdb](https://github.com/duckdb/duckdb)
+## 10. [nlohmann/json](https://github.com/nlohmann/json) 🆕
 
-DuckDB is a high-performance analytical database system
+JSON for Modern C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 42,830 |
-| Forks | 4,154 |
-| Stars this week | 205 |
+| Stars | 50,850 |
+| Forks | 7,518 |
+| Stars this week | 53 |
 
 ---
 
-## 9. [google/googletest](https://github.com/google/googletest) 🆕
-
-GoogleTest - Google Testing and Mocking Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 39,707 |
-| Forks | 10,933 |
-| Stars this week | 39 |
-
----
-
-## 10. [apache/arrow](https://github.com/apache/arrow)
+## 11. [apache/arrow](https://github.com/apache/arrow)
 
 Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,275 |
+| Stars | 17,277 |
 | Forks | 4,429 |
-| Stars this week | 41 |
+| Stars this week | 22 |
 
 ---
 
-## 11. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+## 12. [duckdb/duckdb](https://github.com/duckdb/duckdb)
 
-An MCP-based chatbot | 一个基于MCP的聊天机器人
+DuckDB is a high-performance analytical database system
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 32,636 |
-| Forks | 7,699 |
-| Stars this week | 464 |
+| Stars | 42,870 |
+| Forks | 4,167 |
+| Stars this week | 218 |
 
 ---
 
-## 12. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
+## 13. [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 
-LLM inference in C/C++
+Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 133,402 |
-| Forks | 25,165 |
-| Stars this week | 811 |
-
----
-
-## 13. [ramensoftware/windhawk-mods](https://github.com/ramensoftware/windhawk-mods)
-
-The official collection of Windhawk mods
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 1,096 |
-| Forks | 891 |
-| Stars this week | 33 |
+| Stars | 15,800 |
+| Forks | 1,854 |
+| Stars this week | 176 |
 
 ---
 
@@ -184,60 +184,21 @@ A multi core friendly rigid body physics and collision detection library. Writte
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,194 |
-| Forks | 1,005 |
-| Stars this week | 413 |
+| Stars | 12,228 |
+| Forks | 1,009 |
+| Stars this week | 251 |
 
 ---
 
-## 15. [aardappel/goose](https://github.com/aardappel/goose)
+## 15. [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) 🆕
 
-The Goose Programming Language
+《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,014 |
-| Forks | 122 |
-| Stars this week | 562 |
-
----
-
-## 16. [TokisanGames/Terrain3D](https://github.com/TokisanGames/Terrain3D)
-
-A high performance, editable terrain system for Godot 4.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 4,716 |
-| Forks | 364 |
-| Stars this week | 276 |
-
----
-
-## 17. [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-
-Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 15,748 |
-| Forks | 1,847 |
-| Stars this week | 179 |
-
----
-
-## 18. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
-
-KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 29,776 |
-| Forks | 2,014 |
-| Stars this week | 220 |
+| Stars | 24,379 |
+| Forks | 2,939 |
+| Stars this week | 281 |
 
 ---
