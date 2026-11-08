@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-07T05:53:21Z
-**Total Repositories:** 13
-**New Entries:** 2
+**Snapshot Time:** 2026-11-08T05:55:46Z
+**Total Repositories:** 11
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 39,319 |
-| Forks | 6,196 |
-| Stars this month | 36,600 |
+| Stars | 39,629 |
+| Forks | 6,228 |
+| Stars this month | 35,633 |
 
 ---
 
@@ -28,22 +28,22 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 104,946 |
-| Forks | 6,236 |
-| Stars this month | 27,610 |
+| Stars | 105,688 |
+| Forks | 6,280 |
+| Stars this month | 27,680 |
 
 ---
 
-## 3. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) 🆕
+## 3. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 
 Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,830 |
-| Forks | 456 |
-| Stars this month | 2,918 |
+| Stars | 11,981 |
+| Forks | 464 |
+| Stars this month | 3,009 |
 
 ---
 
@@ -54,87 +54,87 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,297 |
-| Forks | 1,113 |
-| Stars this month | 6,496 |
+| Stars | 15,350 |
+| Forks | 1,121 |
+| Stars this month | 6,497 |
 
 ---
 
-## 5. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-
-OpenShell is the safe, private runtime for autonomous AI agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 21,230 |
-| Forks | 2,079 |
-| Stars this month | 6,250 |
-
----
-
-## 6. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+## 5. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
 
 Computer use CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,266 |
-| Forks | 1,310 |
-| Stars this month | 16,218 |
+| Stars | 19,073 |
+| Forks | 1,399 |
+| Stars this month | 16,924 |
 
 ---
 
-## 7. [cjpais/Handy](https://github.com/cjpais/Handy)
+## 6. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
 
-A free, open source, and extensible speech-to-text application that works completely offline.
+OpenShell is the safe, private runtime for autonomous AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 37,844 |
-| Forks | 3,573 |
-| Stars this month | 4,897 |
+| Stars | 21,257 |
+| Forks | 2,081 |
+| Stars this month | 6,135 |
 
 ---
 
-## 8. [xerj-org/xerj](https://github.com/xerj-org/xerj)
+## 7. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
 AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,497 |
-| Forks | 1,355 |
-| Stars this month | 17,437 |
+| Stars | 18,587 |
+| Forks | 1,369 |
+| Stars this month | 17,208 |
 
 ---
 
-## 9. [microsoft/mxc](https://github.com/microsoft/mxc) 🆕
+## 8. [cjpais/Handy](https://github.com/cjpais/Handy)
 
-Policy-driven, layered isolation and containment
+A free, open source, and extensible speech-to-text application that works completely offline.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,106 |
-| Forks | 174 |
-| Stars this month | 1,719 |
+| Stars | 37,960 |
+| Forks | 3,584 |
+| Stars this month | 4,926 |
 
 ---
 
-## 10. [jub0t/Concat](https://github.com/jub0t/Concat)
+## 9. [jub0t/Concat](https://github.com/jub0t/Concat)
 
 Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 14,890 |
-| Forks | 1,851 |
-| Stars this month | 10,668 |
+| Stars | 15,348 |
+| Forks | 1,922 |
+| Stars this month | 11,031 |
+
+---
+
+## 10. [oven-sh/bun](https://github.com/oven-sh/bun) 🆕
+
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 96,701 |
+| Forks | 5,272 |
+| Stars this month | 963 |
 
 ---
 
@@ -145,34 +145,8 @@ A refreshingly simple data-driven game engine built in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 49,581 |
-| Forks | 5,025 |
+| Stars | 49,611 |
+| Forks | 5,032 |
 | Stars this month | 1,050 |
-
----
-
-## 12. [trymirai/uzu](https://github.com/trymirai/uzu)
-
-A high-performance inference engine for AI models
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,236 |
-| Forks | 222 |
-| Stars this month | 1,417 |
-
----
-
-## 13. [lexmount/moli](https://github.com/lexmount/moli)
-
-Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 22,860 |
-| Forks | 633 |
-| Stars this month | 12,842 |
 
 ---

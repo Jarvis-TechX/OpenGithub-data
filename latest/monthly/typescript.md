@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-07T05:53:16Z
+**Snapshot Time:** 2026-11-08T05:55:40Z
 **Total Repositories:** 22
-**New Entries:** 2
+**New Entries:** 3
 **Quality Score:** 98.18/100
 
 ---
@@ -15,9 +15,9 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 438,626 |
-| Forks | 108,676 |
-| Stars this month | 431,436 |
+| Stars | 441,557 |
+| Forks | 109,234 |
+| Stars this month | 429,845 |
 
 ---
 
@@ -28,9 +28,9 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 80,189 |
-| Forks | 7,397 |
-| Stars this month | 22,718 |
+| Stars | 80,666 |
+| Forks | 7,445 |
+| Stars this month | 22,531 |
 
 ---
 
@@ -39,9 +39,9 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 50,074 |
-| Forks | 9,773 |
-| Stars this month | 23,406 |
+| Stars | 51,496 |
+| Forks | 9,904 |
+| Stars this month | 24,785 |
 
 ---
 
@@ -52,9 +52,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 114,106 |
-| Forks | 9,900 |
-| Stars this month | 17,612 |
+| Stars | 114,586 |
+| Forks | 9,940 |
+| Stars this month | 17,493 |
 
 ---
 
@@ -65,35 +65,35 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 48,506 |
-| Forks | 6,683 |
-| Stars this month | 17,510 |
+| Stars | 48,932 |
+| Forks | 6,748 |
+| Stars this month | 17,574 |
 
 ---
 
-## 6. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
-
-🎥 Make videos programmatically with React
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 71,340 |
-| Forks | 5,901 |
-| Stars this month | 9,292 |
-
----
-
-## 7. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
+## 6. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
 
 AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,511 |
-| Forks | 1,668 |
-| Stars this month | 7,124 |
+| Stars | 17,685 |
+| Forks | 1,680 |
+| Stars this month | 7,147 |
+
+---
+
+## 7. [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+
+🎥 Make videos programmatically with React
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 71,555 |
+| Forks | 5,933 |
+| Stars this month | 9,372 |
 
 ---
 
@@ -104,9 +104,9 @@ The open agent skills tool - npx skills
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 38,406 |
-| Forks | 3,351 |
-| Stars this month | 5,244 |
+| Stars | 38,513 |
+| Forks | 3,353 |
+| Stars this month | 5,278 |
 
 ---
 
@@ -117,7 +117,7 @@ A lightweight sandboxing tool for enforcing filesystem and network restrictions 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,012 |
+| Stars | 7,024 |
 | Forks | 625 |
 | Stars this month | 1,583 |
 
@@ -130,35 +130,35 @@ A lightweight sandboxing tool for enforcing filesystem and network restrictions 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 41,040 |
-| Forks | 7,821 |
-| Stars this month | 4,422 |
+| Stars | 41,097 |
+| Forks | 7,830 |
+| Stars this month | 4,388 |
 
 ---
 
-## 11. [cursor/plugins](https://github.com/cursor/plugins)
+## 11. [stablyai/orca](https://github.com/stablyai/orca)
+
+Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 118,733 |
+| Forks | 7,538 |
+| Stars this month | 32,135 |
+
+---
+
+## 12. [cursor/plugins](https://github.com/cursor/plugins)
 
 Cursor plugin specification and official plugins
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 15,605 |
-| Forks | 1,629 |
-| Stars this month | 5,609 |
-
----
-
-## 12. [tester-army/e2e](https://github.com/tester-army/e2e)
-
-Next generation e2e testing framework for web and mobile apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 13,406 |
-| Forks | 702 |
-| Stars this month | 7,670 |
+| Stars | 15,679 |
+| Forks | 1,642 |
+| Stars this month | 5,541 |
 
 ---
 
@@ -169,61 +169,61 @@ Next generation e2e testing framework for web and mobile apps.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,873 |
-| Forks | 1,325 |
-| Stars this month | 8,292 |
+| Stars | 12,000 |
+| Forks | 1,338 |
+| Stars this month | 8,343 |
 
 ---
 
-## 14. [stablyai/orca](https://github.com/stablyai/orca)
+## 14. [anomalyco/opencode](https://github.com/anomalyco/opencode) 🆕
 
-Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+The open source coding agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 117,978 |
-| Forks | 7,485 |
-| Stars this month | 31,885 |
+| Stars | 225,335 |
+| Forks | 30,418 |
+| Stars this month | 14,724 |
 
 ---
 
-## 15. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+## 15. [vitejs/vite](https://github.com/vitejs/vite)
+
+Next generation frontend tooling. It's fast!
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 83,867 |
+| Forks | 9,404 |
+| Stars this month | 1,081 |
+
+---
+
+## 16. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 
 The open-source app everyone uses to manage agents at work
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 111,803 |
-| Forks | 18,513 |
-| Stars this month | 14,174 |
+| Stars | 112,081 |
+| Forks | 18,584 |
+| Stars this month | 14,083 |
 
 ---
 
-## 16. [google/brotli](https://github.com/google/brotli) 🆕
+## 17. [microsoft/playwright](https://github.com/microsoft/playwright) 🆕
 
-Brotli compression format
+Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 15,091 |
-| Forks | 1,395 |
-| Stars this month | 190 |
-
----
-
-## 17. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-
-🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 81,097 |
-| Forks | 9,543 |
-| Stars this month | 7,483 |
+| Stars | 99,552 |
+| Forks | 6,815 |
+| Stars this month | 2,488 |
 
 ---
 
@@ -234,9 +234,9 @@ Brotli compression format
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 16,550 |
-| Forks | 3,218 |
-| Stars this month | 12,266 |
+| Stars | 16,770 |
+| Forks | 3,250 |
+| Stars this month | 12,435 |
 
 ---
 
@@ -247,47 +247,47 @@ Brotli compression format
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 23,742 |
-| Forks | 30,825 |
-| Stars this month | 9,890 |
+| Stars | 23,854 |
+| Forks | 30,886 |
+| Stars this month | 9,983 |
 
 ---
 
-## 20. [makecindy/cindy](https://github.com/makecindy/cindy)
+## 20. [google/brotli](https://github.com/google/brotli)
 
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+Brotli compression format
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,425 |
-| Forks | 1,166 |
-| Stars this month | 6,591 |
+| Stars | 15,096 |
+| Forks | 1,395 |
+| Stars this month | 192 |
 
 ---
 
-## 21. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+## 21. [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🆕
 
-ThinkRail is the agentic IDE that gets better every time you use it
+An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,873 |
-| Forks | 482 |
-| Stars this month | 7,375 |
+| Stars | 108,772 |
+| Forks | 14,932 |
+| Stars this month | 2,025 |
 
 ---
 
-## 22. [vitejs/vite](https://github.com/vitejs/vite) 🆕
+## 22. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
-Next generation frontend tooling. It's fast!
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 83,848 |
-| Forks | 9,248 |
-| Stars this month | 1,022 |
+| Stars | 81,199 |
+| Forks | 9,551 |
+| Stars this month | 7,507 |
 
 ---

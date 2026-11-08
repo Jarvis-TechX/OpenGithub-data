@@ -1,64 +1,157 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-07T05:52:52Z
-**Total Repositories:** 14
-**New Entries:** 13
+**Snapshot Time:** 2026-11-08T05:55:15Z
+**Total Repositories:** 13
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [apple/coreai-models](https://github.com/apple/coreai-models) 🆕
+## 1. [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) 🆕
+
+Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR pairing, and push notifications when an agent needs you
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 811 |
+| Forks | 87 |
+| Stars today | 15 |
+
+---
+
+## 2. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
+
+Telegram-iOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,416 |
+| Forks | 3,243 |
+| Stars today | 7 |
+
+---
+
+## 3. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+
+无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,654 |
+| Forks | 273 |
+| Stars today | 52 |
+
+---
+
+## 4. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) 🆕
+
+Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 12,893 |
+| Forks | 965 |
+| Stars today | 23 |
+
+---
+
+## 5. [utmapp/UTM](https://github.com/utmapp/UTM) 🆕
+
+Virtual machines for iOS and macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 36,768 |
+| Forks | 1,910 |
+| Stars today | 19 |
+
+---
+
+## 6. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) 🆕
+
+A native macOS launcher for everyday productivity. Lightweight and open source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,264 |
+| Forks | 571 |
+| Stars today | 31 |
+
+---
+
+## 7. [exelban/stats](https://github.com/exelban/stats) 🆕
+
+macOS system monitor in your menu bar
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 43,216 |
+| Forks | 1,620 |
+| Stars today | 29 |
+
+---
+
+## 8. [chattymin/PokeTokenBar](https://github.com/chattymin/PokeTokenBar) 🆕
+
+Use your tokens to raise, evolve, and collect Pokémon! 🥚
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 556 |
+| Forks | 164 |
+| Stars today | 1 |
+
+---
+
+## 9. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) 🆕
+
+ This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 117,943 |
+| Forks | 10,092 |
+| Stars today | 61 |
+
+---
+
+## 10. [YangJiiii/3105](https://github.com/YangJiiii/3105) 🆕
+
+Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 980 |
+| Forks | 182 |
+| Stars today | 2 |
+
+---
+
+## 11. [apple/coreai-models](https://github.com/apple/coreai-models)
 
 Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,289 |
-| Forks | 254 |
-| Stars today | 20 |
+| Stars | 2,297 |
+| Forks | 258 |
+| Stars today | 7 |
 
 ---
 
-## 2. [groue/GRDB.swift](https://github.com/groue/GRDB.swift) 🆕
-
-A toolkit for SQLite databases, with a focus on application development
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,726 |
-| Forks | 1,108 |
-
----
-
-## 3. [apple/swift-nio](https://github.com/apple/swift-nio) 🆕
-
-Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,547 |
-| Forks | 823 |
-
----
-
-## 4. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
-
-The Swift Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 70,544 |
-| Forks | 10,896 |
-| Stars today | 6 |
-
----
-
-## 5. [apple/swift-collections](https://github.com/apple/swift-collections) 🆕
+## 12. [apple/swift-collections](https://github.com/apple/swift-collections)
 
 Commonly used data structures for Swift
 
@@ -66,123 +159,20 @@ Commonly used data structures for Swift
 |--------|-------|
 | Language | Swift |
 | Stars | 4,549 |
-| Forks | 436 |
-| Stars today | 12 |
+| Forks | 435 |
+| Stars today | 3 |
 
 ---
 
-## 6. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) 🆕
+## 13. [sozercan/kaset](https://github.com/sozercan/kaset) 🆕
 
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+📼 The missing YouTube and YouTube Music macOS app
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,734 |
-| Forks | 2,630 |
-| Stars today | 25 |
-
----
-
-## 7. [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) 🆕
-
-Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,137 |
-| Forks | 491 |
-| Stars today | 6 |
-
----
-
-## 8. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
-
-无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,607 |
-| Forks | 268 |
-| Stars today | 66 |
-
----
-
-## 9. [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) 🆕
-
-📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,041 |
-| Forks | 760 |
-
----
-
-## 10. [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) 🆕
-
-An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 3,532 |
-| Forks | 207 |
-| Stars today | 13 |
-
----
-
-## 11. [robinebers/openusage](https://github.com/robinebers/openusage) 🆕
-
-Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,561 |
-| Forks | 535 |
-| Stars today | 9 |
-
----
-
-## 12. [fif7y/dimble](https://github.com/fif7y/dimble) 🆕
-
-A calm menu bar, done the native way. Hides the icons you don't need until you do.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,130 |
-| Forks | 26 |
-| Stars today | 9 |
-
----
-
-## 13. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) 🆕
-
-👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,877 |
-| Forks | 264 |
-| Stars today | 16 |
-
----
-
-## 14. [steipete/CodexBar](https://github.com/steipete/CodexBar) 🆕
-
-Show usage stats for OpenAI Codex and Claude Code, without having to login.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 23,049 |
-| Forks | 2,206 |
-| Stars today | 25 |
+| Stars | 2,523 |
+| Forks | 186 |
+| Stars today | 4 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-07T05:52:59Z
+**Snapshot Time:** 2026-11-08T05:55:22Z
 **Total Repositories:** 23
-**New Entries:** 3
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,343 |
-| Forks | 11,436 |
-| Stars this week | 245 |
+| Stars | 50,360 |
+| Forks | 11,437 |
+| Stars this week | 326 |
 
 ---
 
@@ -28,9 +28,9 @@ Ruby on Rails
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 59,053 |
-| Forks | 23,833 |
-| Stars this week | 306 |
+| Stars | 59,082 |
+| Forks | 23,835 |
+| Stars this week | 368 |
 
 ---
 
@@ -41,35 +41,35 @@ Create agents that monitor and act on your behalf. Your agents are standing by!
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,308 |
-| Forks | 4,343 |
-| Stars this week | 111 |
+| Stars | 50,394 |
+| Forks | 4,345 |
+| Stars this week | 143 |
 
 ---
 
-## 4. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
-
-Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 39,019 |
-| Forks | 9,498 |
-| Stars this week | 386 |
-
----
-
-## 5. [github/explore](https://github.com/github/explore)
+## 4. [github/explore](https://github.com/github/explore)
 
 Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,951 |
-| Forks | 14,707 |
-| Stars this week | 18 |
+| Stars | 4,952 |
+| Forks | 14,713 |
+| Stars this week | 19 |
+
+---
+
+## 5. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,071 |
+| Forks | 9,510 |
+| Stars this week | 397 |
 
 ---
 
@@ -80,52 +80,26 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,063 |
-| Forks | 3,708 |
-| Stars this week | 217 |
+| Stars | 17,107 |
+| Forks | 3,713 |
+| Stars this week | 222 |
 
 ---
 
-## 7. [we-promise/sure](https://github.com/we-promise/sure)
-
-The personal finance app for everyone (by everyone)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 10,813 |
-| Forks | 737 |
-| Stars this week | 90 |
-
----
-
-## 8. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+## 7. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 
 Metasploit Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,328 |
-| Forks | 15,006 |
-| Stars this week | 60 |
+| Stars | 39,334 |
+| Forks | 15,009 |
+| Stars this week | 61 |
 
 ---
 
-## 9. [Freika/dawarich](https://github.com/Freika/dawarich)
-
-Your favorite self-hostable alternative to Google Timeline (Google Location History)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 10,837 |
-| Forks | 418 |
-| Stars this week | 60 |
-
----
-
-## 10. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 8. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
@@ -133,25 +107,12 @@ Your favorite self-hostable alternative to Google Timeline (Google Location Hist
 |--------|-------|
 | Language | Ruby |
 | Stars | 22,286 |
-| Forks | 12,075 |
-| Stars this week | 20 |
+| Forks | 12,079 |
+| Stars this week | 19 |
 
 ---
 
-## 11. [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
-
-Vagrant is a tool for building and distributing development environments.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 27,222 |
-| Forks | 4,489 |
-| Stars this week | 9 |
-
----
-
-## 12. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 🆕
+## 9. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
 
 🤖 Dependabot's core logic for creating update PRs.
 
@@ -159,103 +120,180 @@ Vagrant is a tool for building and distributing development environments.
 |--------|-------|
 | Language | Ruby |
 | Stars | 5,836 |
-| Forks | 1,593 |
-| Stars this week | 10 |
+| Forks | 1,594 |
+| Stars this week | 11 |
 
 ---
 
-## 13. [zammad/zammad](https://github.com/zammad/zammad)
+## 10. [we-promise/sure](https://github.com/we-promise/sure)
 
-Zammad is a web based open source helpdesk/customer support system.
+The personal finance app for everyone (by everyone)
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 6,090 |
-| Forks | 1,096 |
-| Stars this week | 30 |
+| Stars | 10,895 |
+| Forks | 746 |
+| Stars this week | 97 |
 
 ---
 
-## 14. [mastodon/mastodon](https://github.com/mastodon/mastodon)
+## 11. [Freika/dawarich](https://github.com/Freika/dawarich)
+
+Your favorite self-hostable alternative to Google Timeline (Google Location History)
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 10,848 |
+| Forks | 418 |
+| Stars this week | 64 |
+
+---
+
+## 12. [mastodon/mastodon](https://github.com/mastodon/mastodon)
 
 Your self-hosted, globally interconnected microblogging community
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,494 |
-| Forks | 7,541 |
-| Stars this week | 44 |
+| Stars | 50,496 |
+| Forks | 7,540 |
+| Stars this week | 45 |
 
 ---
 
-## 15. [spree/spree](https://github.com/spree/spree)
+## 13. [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
 
-Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
+Vagrant is a tool for building and distributing development environments.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,813 |
-| Forks | 5,321 |
-| Stars this week | 21 |
+| Stars | 27,223 |
+| Forks | 4,487 |
+| Stars this week | 9 |
 
 ---
 
-## 16. [discourse/discourse](https://github.com/discourse/discourse)
+## 14. [zammad/zammad](https://github.com/zammad/zammad)
 
-A platform for community discussion. Free, open, simple.
+Zammad is a web based open source helpdesk/customer support system.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 48,055 |
-| Forks | 9,061 |
+| Stars | 6,091 |
+| Forks | 1,097 |
 | Stars this week | 32 |
 
 ---
 
-## 17. [ruby/rubygems](https://github.com/ruby/rubygems)
-
-Library packaging and distribution for Ruby.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 3,988 |
-| Forks | 1,960 |
-| Stars this week | 3 |
-
----
-
-## 18. [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🆕
+## 15. [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 
 A curated list of engineering blogs
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 38,877 |
+| Stars | 38,890 |
 | Forks | 2,063 |
-| Stars this week | 53 |
+| Stars this week | 57 |
 
 ---
 
-## 19. [postalserver/postal](https://github.com/postalserver/postal)
+## 16. [otwcode/otwarchive](https://github.com/otwcode/otwarchive)
 
-📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,929 |
-| Forks | 1,323 |
-| Stars this week | 22 |
+| Stars | 2,382 |
+| Forks | 893 |
+| Stars this week | 65 |
 
 ---
 
-## 20. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 17. [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb) 🆕
+
+Datadog's client library for Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 417 |
+| Forks | 425 |
+
+---
+
+## 18. [ruby/rubygems](https://github.com/ruby/rubygems)
+
+Library packaging and distribution for Ruby.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 3,990 |
+| Forks | 1,960 |
+| Stars this week | 3 |
+
+---
+
+## 19. [jekyll/jekyll](https://github.com/jekyll/jekyll) 🆕
+
+🌐 Jekyll is a blog-aware static site generator in Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 51,749 |
+| Forks | 10,300 |
+| Stars this week | 30 |
+
+---
+
+## 20. [spree/spree](https://github.com/spree/spree)
+
+Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 15,817 |
+| Forks | 5,321 |
+| Stars this week | 17 |
+
+---
+
+## 21. [rubocop/rubocop](https://github.com/rubocop/rubocop) 🆕
+
+A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 12,921 |
+| Forks | 3,163 |
+| Stars this week | 6 |
+
+---
+
+## 22. [danbooru/danbooru](https://github.com/danbooru/danbooru) 🆕
+
+A taggable image board written in Rails.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 2,882 |
+| Forks | 459 |
+| Stars this week | 40 |
+
+---
+
+## 23. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -264,44 +302,5 @@ A collection of RBS for gems.
 | Language | Ruby |
 | Stars | 301 |
 | Forks | 141 |
-
----
-
-## 21. [jruby/jruby](https://github.com/jruby/jruby) 🆕
-
-JRuby, an implementation of Ruby on the JVM
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 3,925 |
-| Forks | 958 |
-| Stars this week | 4 |
-
----
-
-## 22. [docusealco/docuseal](https://github.com/docusealco/docuseal)
-
-Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 19,008 |
-| Forks | 1,943 |
-| Stars this week | 61 |
-
----
-
-## 23. [otwcode/otwarchive](https://github.com/otwcode/otwarchive)
-
-The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 2,379 |
-| Forks | 891 |
-| Stars this week | 71 |
 
 ---

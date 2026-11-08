@@ -1,255 +1,202 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-07T05:52:48Z
-**Total Repositories:** 19
-**New Entries:** 18
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-08T05:55:10Z
+**Total Repositories:** 15
+**New Entries:** 14
+**Quality Score:** 97.33/100
 
 ---
 
-## 1. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) 🆕
+## 1. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) 🆕
+
+Experimental DLSS Multi Frame Generation controls for any supported MFG title on RTX 40 series GPUs
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 2,271 |
+| Forks | 63 |
+| Stars today | 74 |
+
+---
+
+## 2. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
 
 A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,593 |
-| Forks | 329 |
-| Stars today | 130 |
+| Stars | 1,666 |
+| Forks | 345 |
+| Stars today | 68 |
 
 ---
 
-## 2. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) 🆕
+## 3. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) 🆕
 
-ClickHouse® is a real-time analytics database management system
+FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 50,796 |
-| Forks | 9,233 |
-| Stars today | 28 |
+| Stars | 33,568 |
+| Forks | 4,803 |
+| Stars today | 50 |
 
 ---
 
-## 3. [ceph/ceph](https://github.com/ceph/ceph) 🆕
+## 4. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) 🆕
 
-Ceph is a distributed object, block, and file storage platform
+Tool for automatic PS5 executables porting to Linux and Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,206 |
-| Forks | 6,558 |
-| Stars today | 4 |
+| Stars | 52,119 |
+| Forks | 4,962 |
+| Stars today | 282 |
 
 ---
 
-## 4. [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+## 5. [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) 🆕
 
-ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+Truly independent web browser
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 22,256 |
-| Forks | 4,416 |
-| Stars today | 13 |
+| Stars | 66,933 |
+| Forks | 3,196 |
+| Stars today | 25 |
 
 ---
 
-## 5. [nlohmann/json](https://github.com/nlohmann/json) 🆕
+## 6. [alibaba/MNN](https://github.com/alibaba/MNN) 🆕
 
-JSON for Modern C++
+MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 50,850 |
-| Forks | 7,518 |
-| Stars today | 7 |
+| Stars | 16,423 |
+| Forks | 2,511 |
+| Stars today | 23 |
 
 ---
 
-## 6. [wled/WLED](https://github.com/wled/WLED) 🆕
+## 7. [Neroued/ninfer](https://github.com/Neroued/ninfer) 🆕
 
-Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+High-performance single-GPU inference for selected model checkpoints and GPUs.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 18,992 |
-| Forks | 4,449 |
-| Stars today | 10 |
-
----
-
-## 7. [google/flatbuffers](https://github.com/google/flatbuffers) 🆕
-
-FlatBuffers: Memory Efficient Serialization Library
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 26,618 |
-| Forks | 3,723 |
-| Stars today | 4 |
-
----
-
-## 8. [fmtlib/fmt](https://github.com/fmtlib/fmt) 🆕
-
-A modern formatting library
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 25,912 |
-| Forks | 3,095 |
-| Stars today | 2 |
-
----
-
-## 9. [envoyproxy/envoy](https://github.com/envoyproxy/envoy) 🆕
-
-Cloud-native high-performance edge/middle/service proxy
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 29,190 |
-| Forks | 5,711 |
-| Stars today | 7 |
-
----
-
-## 10. [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) 🆕
-
-OpenToonz - An open-source full-featured 2D animation creation software
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 8,028 |
-| Forks | 920 |
-| Stars today | 18 |
-
----
-
-## 11. [meta/rocksdb](https://github.com/meta/rocksdb) 🆕
-
-A library that provides an embeddable, persistent key-value store for fast storage.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 32,252 |
-| Forks | 7,010 |
-| Stars today | 4 |
-
----
-
-## 12. [esphome/esphome](https://github.com/esphome/esphome) 🆕
-
-ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 12,052 |
-| Forks | 5,792 |
-| Stars today | 15 |
-
----
-
-## 13. [dmlc/xgboost](https://github.com/dmlc/xgboost) 🆕
-
-Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 28,952 |
-| Forks | 8,964 |
-| Stars today | 5 |
-
----
-
-## 14. [synfig/synfig](https://github.com/synfig/synfig) 🆕
-
-This is the Official source code repository of Synfig Studio animation software
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 2,369 |
-| Forks | 456 |
-| Stars today | 11 |
-
----
-
-## 15. [baldurk/renderdoc](https://github.com/baldurk/renderdoc) 🆕
-
-RenderDoc is a stand-alone graphics debugging tool.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 11,281 |
-| Forks | 1,871 |
-
----
-
-## 16. [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) 🆕
-
-Bitcoin Core integration/staging tree
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 90,617 |
-| Forks | 39,448 |
+| Stars | 3,290 |
+| Forks | 691 |
 | Stars today | 14 |
 
 ---
 
-## 17. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) 🆕
+## 8. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) 🆕
 
-Amnezia VPN Client (Desktop+Mobile)
+OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 15,803 |
-| Forks | 1,270 |
-| Stars today | 33 |
+| Stars | 11,129 |
+| Forks | 3,541 |
+| Stars today | 9 |
 
 ---
 
-## 18. [Alexays/Waybar](https://github.com/Alexays/Waybar) 🆕
+## 9. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
 
-Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉
+An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,136 |
-| Forks | 1,203 |
-| Stars today | 5 |
+| Stars | 32,853 |
+| Forks | 7,754 |
+| Stars today | 70 |
 
 ---
 
-## 19. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) 🆕
+## 10. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
 
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+An Open Source Machine Learning Framework for Everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 35,192 |
-| Forks | 6,360 |
-| Stars today | 32 |
+| Stars | 201,390 |
+| Forks | 78,402 |
+| Stars today | 39 |
+
+---
+
+## 11. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
+
+LLM inference in C/C++
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 133,682 |
+| Forks | 25,248 |
+| Stars today | 103 |
+
+---
+
+## 12. [jimmgreen/pulse](https://github.com/jimmgreen/pulse) 🆕
+
+为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,413 |
+| Forks | 107 |
+| Stars today | 37 |
+
+---
+
+## 13. [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) 🆕
+
+Notepad++ official repository
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 29,808 |
+| Forks | 5,424 |
+| Stars today | 9 |
+
+---
+
+## 14. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 509 |
+| Forks | 55 |
+| Stars today | 15 |
+
+---
+
+## 15. [komaruworld/mocktail](https://github.com/komaruworld/mocktail) 🆕
+
+Experimental Roblox compatibility runtime for Linux and FreeBSD
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 427 |
+| Forks | 45 |
+| Stars today | 8 |
 
 ---

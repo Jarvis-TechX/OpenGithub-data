@@ -1,9 +1,9 @@
 # GitHub Trending - Php
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-07T05:53:19Z
+**Snapshot Time:** 2026-11-08T05:55:43Z
 **Total Repositories:** 22
-**New Entries:** 2
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 65,736 |
+| Stars | 65,767 |
 | Forks | 5,940 |
-| Stars this month | 3,293 |
+| Stars this month | 3,283 |
 
 ---
 
@@ -28,9 +28,9 @@ The Symfony PHP framework
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,472 |
-| Forks | 9,949 |
-| Stars this month | 405 |
+| Stars | 31,520 |
+| Forks | 9,956 |
+| Stars this month | 528 |
 
 ---
 
@@ -41,9 +41,9 @@ A customizable, open-source ecommerce platform built on WordPress. Build any com
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,584 |
-| Forks | 10,662 |
-| Stars this month | 64 |
+| Stars | 10,582 |
+| Forks | 10,660 |
+| Stars this month | 63 |
 
 ---
 
@@ -54,9 +54,9 @@ A customizable, open-source ecommerce platform built on WordPress. Build any com
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 37,436 |
-| Forks | 5,340 |
-| Stars this month | 502 |
+| Stars | 37,441 |
+| Forks | 5,342 |
+| Stars this month | 494 |
 
 ---
 
@@ -67,9 +67,9 @@ Laravel is a web application framework with expressive, elegant syntax.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 34,992 |
+| Stars | 34,997 |
 | Forks | 12,024 |
-| Stars this month | 98 |
+| Stars this month | 97 |
 
 ---
 
@@ -80,9 +80,9 @@ Laravel is a web application framework with expressive, elegant syntax.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,797 |
+| Stars | 10,798 |
 | Forks | 1,128 |
-| Stars this month | 280 |
+| Stars this month | 281 |
 
 ---
 
@@ -95,46 +95,46 @@ openmediavault is the next generation network attached storage (NAS) solution ba
 | Language | PHP |
 | Stars | 7,073 |
 | Forks | 623 |
-| Stars this month | 94 |
+| Stars this month | 95 |
 
 ---
 
-## 8. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)
+## 8. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) 🆕
+
+WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 3,507 |
+| Forks | 3,769 |
+| Stars this month | 44 |
+
+---
+
+## 9. [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)
 
 The PHP Unit Testing framework.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 20,076 |
+| Stars | 20,077 |
 | Forks | 2,214 |
-| Stars this month | 31 |
+| Stars this month | 32 |
 
 ---
 
-## 9. [composer/composer](https://github.com/composer/composer)
+## 10. [composer/composer](https://github.com/composer/composer)
 
 Dependency Manager for PHP
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 29,568 |
-| Forks | 4,865 |
-| Stars this month | 56 |
-
----
-
-## 10. [pterodactyl/panel](https://github.com/pterodactyl/panel)
-
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,472 |
-| Forks | 2,747 |
-| Stars this month | 216 |
+| Stars | 29,570 |
+| Forks | 4,864 |
+| Stars this month | 59 |
 
 ---
 
@@ -145,52 +145,78 @@ Own the flow: one open-source AI platform for your knowledge, models and channel
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 646 |
-| Forks | 79 |
-| Stars this month | 523 |
+| Stars | 712 |
+| Forks | 81 |
+| Stars this month | 621 |
 
 ---
 
-## 12. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+## 12. [pterodactyl/panel](https://github.com/pterodactyl/panel)
 
-A free, self-hostable news aggregator…
+Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 16,519 |
-| Forks | 1,339 |
-| Stars this month | 322 |
+| Stars | 9,475 |
+| Forks | 2,746 |
+| Stars this month | 214 |
 
 ---
 
-## 13. [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
+## 13. [grokability/snipe-it](https://github.com/grokability/snipe-it)
+
+A free open source IT asset/license management system
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 15,162 |
+| Forks | 4,057 |
+| Stars this month | 164 |
+
+---
+
+## 14. [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
 
 A pure PHP library for reading and writing spreadsheet files
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 14,001 |
+| Stars | 14,003 |
 | Forks | 3,633 |
-| Stars this month | 30 |
+| Stars this month | 32 |
 
 ---
 
-## 14. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
+## 15. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+
+mailcow: dockerized - 🐮 + 🐋 = 💕
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 13,761 |
+| Forks | 1,868 |
+| Stars this month | 218 |
+
+---
+
+## 16. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
 
 A source-available invoice, quote, project and time-tracking app built with Laravel
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,523 |
+| Stars | 10,535 |
 | Forks | 2,800 |
-| Stars this month | 305 |
+| Stars this month | 313 |
 
 ---
 
-## 15. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
+## 17. [Paymenter/Paymenter](https://github.com/Paymenter/Paymenter)
 
 Free and open-source webshop solution for hostings
 
@@ -199,97 +225,71 @@ Free and open-source webshop solution for hostings
 | Language | PHP |
 | Stars | 2,831 |
 | Forks | 572 |
-| Stars this month | 436 |
+| Stars this month | 433 |
 
 ---
 
-## 16. [vimeo/psalm](https://github.com/vimeo/psalm)
+## 18. [vimeo/psalm](https://github.com/vimeo/psalm)
 
 A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,911 |
-| Forks | 726 |
-| Stars this month | 30 |
+| Stars | 5,912 |
+| Forks | 725 |
+| Stars this month | 32 |
 
 ---
 
-## 17. [livewire/livewire](https://github.com/livewire/livewire)
+## 19. [pestphp/pest](https://github.com/pestphp/pest) 🆕
 
-A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+The elegant testing framework for PHP developers and AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 23,589 |
-| Forks | 1,758 |
-| Stars this month | 41 |
+| Stars | 11,758 |
+| Forks | 559 |
+| Stars this month | 42 |
 
 ---
 
-## 18. [grokability/snipe-it](https://github.com/grokability/snipe-it)
+## 20. [opensourcepos/opensourcepos](https://github.com/opensourcepos/opensourcepos) 🆕
 
-A free open source IT asset/license management system
+Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,159 |
-| Forks | 4,059 |
-| Stars this month | 165 |
+| Stars | 4,509 |
+| Forks | 2,656 |
+| Stars this month | 89 |
 
 ---
 
-## 19. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) 🆕
-
-mailcow: dockerized - 🐮 + 🐋 = 💕
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 13,755 |
-| Forks | 1,867 |
-| Stars this month | 222 |
-
----
-
-## 20. [shlinkio/shlink](https://github.com/shlinkio/shlink)
+## 21. [shlinkio/shlink](https://github.com/shlinkio/shlink)
 
 The definitive self-hosted URL shortener
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,406 |
-| Forks | 449 |
-| Stars this month | 102 |
+| Stars | 5,408 |
+| Forks | 448 |
+| Stars this month | 100 |
 
 ---
 
-## 21. [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php)
+## 22. [livewire/livewire](https://github.com/livewire/livewire)
 
-Official repository of the AWS SDK for PHP (@awsforphp)
+A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,209 |
-| Forks | 1,253 |
-| Stars this month | 7 |
-
----
-
-## 22. [opnsense/core](https://github.com/opnsense/core) 🆕
-
-OPNsense GUI, API and systems backend
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,790 |
-| Forks | 1,021 |
-| Stars this month | 88 |
+| Stars | 23,590 |
+| Forks | 1,758 |
+| Stars this month | 40 |
 
 ---

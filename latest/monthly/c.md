@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-07T05:53:22Z
-**Total Repositories:** 17
-**New Entries:** 8
-**Quality Score:** 97.65/100
+**Snapshot Time:** 2026-11-08T05:55:47Z
+**Total Repositories:** 16
+**New Entries:** 3
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,9 +15,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,761 |
-| Forks | 8,523 |
-| Stars this month | 1,435 |
+| Stars | 41,763 |
+| Forks | 8,526 |
+| Stars this month | 1,437 |
 
 ---
 
@@ -28,35 +28,35 @@ An advanced Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,745 |
-| Forks | 1,271 |
-| Stars this month | 435 |
+| Stars | 4,759 |
+| Forks | 1,272 |
+| Stars this month | 439 |
 
 ---
 
-## 3. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger)
-
-A native, user-mode, multi-process, graphical debugger.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 8,784 |
-| Forks | 456 |
-| Stars this month | 1,187 |
-
----
-
-## 4. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+## 3. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 79,083 |
-| Forks | 11,096 |
-| Stars this month | 2,231 |
+| Stars | 79,142 |
+| Forks | 11,111 |
+| Stars this month | 2,257 |
+
+---
+
+## 4. [systemd/systemd](https://github.com/systemd/systemd)
+
+The systemd System and Service Manager
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 17,008 |
+| Forks | 4,815 |
+| Stars this month | 268 |
 
 ---
 
@@ -67,162 +67,151 @@ Xbox 360 Recompilation Runtime and Toolkit
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,255 |
-| Forks | 274 |
-| Stars this month | 282 |
+| Stars | 1,261 |
+| Forks | 279 |
+| Stars this month | 284 |
 
 ---
 
-## 6. [systemd/systemd](https://github.com/systemd/systemd) 🆕
-
-The systemd System and Service Manager
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 17,003 |
-| Forks | 4,813 |
-| Stars this month | 260 |
-
----
-
-## 7. [lz4/lz4](https://github.com/lz4/lz4) 🆕
-
-Extremely Fast Compression algorithm
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 12,644 |
-| Forks | 1,643 |
-| Stars this month | 501 |
-
----
-
-## 8. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+## 6. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
 
 ehviewer，用爱发电，快乐前行
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,769 |
-| Forks | 766 |
-| Stars this month | 1,396 |
+| Stars | 28,817 |
+| Forks | 768 |
+| Stars this month | 1,391 |
 
 ---
 
-## 9. [redis/redis](https://github.com/redis/redis)
-
-For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 77,268 |
-| Forks | 25,006 |
-| Stars this month | 1,182 |
-
----
-
-## 10. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+## 7. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 
 Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 140,663 |
-| Forks | 8,704 |
-| Stars this month | 1,974 |
+| Stars | 140,709 |
+| Forks | 8,705 |
+| Stars this month | 2,008 |
 
 ---
 
-## 11. [openssl/openssl](https://github.com/openssl/openssl) 🆕
+## 8. [redis/redis](https://github.com/redis/redis)
 
-General purpose TLS and crypto library
+For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,329 |
-| Forks | 11,583 |
-| Stars this month | 552 |
+| Stars | 77,288 |
+| Forks | 25,009 |
+| Stars this month | 1,193 |
 
 ---
 
-## 12. [mackron/miniaudio](https://github.com/mackron/miniaudio) 🆕
+## 9. [mackron/miniaudio](https://github.com/mackron/miniaudio)
 
 Audio playback and capture library written in C, in a single source file.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,567 |
-| Forks | 631 |
-| Stars this month | 260 |
+| Stars | 7,576 |
+| Forks | 632 |
+| Stars this month | 261 |
 
 ---
 
-## 13. [arendst/Tasmota](https://github.com/arendst/Tasmota) 🆕
+## 10. [openssl/openssl](https://github.com/openssl/openssl)
 
-Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+General purpose TLS and crypto library
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 24,968 |
-| Forks | 5,208 |
-| Stars this month | 193 |
+| Stars | 31,366 |
+| Forks | 11,586 |
+| Stars this month | 680 |
 
 ---
 
-## 14. [iqui27/nuvio-native-legacy](https://github.com/iqui27/nuvio-native-legacy) 🆕
-
-Unofficial native Nuvio client for LG webOS 3+, Samsung Tizen 4+, GoogleTV 7+. C/SDL2/GLES2 on LG and on Samsung (native .tpk, Tizen 4.0-9), plus a WebAssembly .wgt for Tizen 5.5+. Install from the Homebrew Channel or the releases.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 420 |
-| Forks | 55 |
-| Stars this month | 315 |
-
----
-
-## 15. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 908 |
-| Forks | 71 |
-| Stars this month | 294 |
-
----
-
-## 16. [espressif/esp-idf](https://github.com/espressif/esp-idf) 🆕
+## 11. [espressif/esp-idf](https://github.com/espressif/esp-idf)
 
 Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 19,453 |
-| Forks | 8,586 |
-| Stars this month | 322 |
+| Stars | 19,459 |
+| Forks | 8,585 |
+| Stars this month | 317 |
 
 ---
 
-## 17. [SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) 🆕
+## 12. [curl/curl](https://github.com/curl/curl) 🆕
 
-Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
+A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 825 |
-| Forks | 64 |
-| Stars this month | 214 |
+| Stars | 43,428 |
+| Forks | 7,490 |
+| Stars this month | 661 |
+
+---
+
+## 13. [iqui27/nuvio-native-legacy](https://github.com/iqui27/nuvio-native-legacy)
+
+Unofficial native Nuvio client for LG webOS 3+, Samsung Tizen 4+, GoogleTV 7+. C/SDL2/GLES2 on LG and on Samsung (native .tpk, Tizen 4.0-9), plus a WebAssembly .wgt for Tizen 5.5+. Install from the Homebrew Channel or the releases.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 428 |
+| Forks | 57 |
+| Stars this month | 307 |
+
+---
+
+## 14. [arendst/Tasmota](https://github.com/arendst/Tasmota)
+
+Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 24,970 |
+| Forks | 5,207 |
+| Stars this month | 186 |
+
+---
+
+## 15. [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp) 🆕
+
+Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 338 |
+| Forks | 119 |
+| Stars this month | 198 |
+
+---
+
+## 16. [armel/uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) 🆕
+
+This is a fork of F4HWN firmwarehttps://github.com/armel/uv-k5-firmware-customby@muzkrand@armel
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 841 |
+| Forks | 237 |
+| Stars this month | 120 |
 
 ---

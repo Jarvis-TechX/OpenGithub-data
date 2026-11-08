@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-07T05:53:23Z
-**Total Repositories:** 15
-**New Entries:** 2
+**Snapshot Time:** 2026-11-08T05:55:48Z
+**Total Repositories:** 16
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 51,844 |
-| Forks | 4,935 |
-| Stars this month | 46,561 |
+| Stars | 52,119 |
+| Forks | 4,962 |
+| Stars this month | 43,690 |
 
 ---
 
@@ -28,113 +28,113 @@ An MCP-based chatbot | 一个基于MCP的聊天机器人
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 32,805 |
-| Forks | 7,732 |
-| Stars this month | 2,427 |
+| Stars | 32,853 |
+| Forks | 7,754 |
+| Stars this month | 2,464 |
 
 ---
 
-## 3. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
-
-Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,804 |
-| Forks | 250 |
-| Stars this month | 491 |
-
----
-
-## 4. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 35,192 |
-| Forks | 6,360 |
-| Stars this month | 1,294 |
-
----
-
-## 5. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
-
-🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 55,763 |
-| Forks | 2,610 |
-| Stars this month | 857 |
-
----
-
-## 6. [electron/electron](https://github.com/electron/electron)
+## 3. [electron/electron](https://github.com/electron/electron)
 
 Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 123,811 |
-| Forks | 17,890 |
-| Stars this month | 798 |
+| Stars | 123,819 |
+| Forks | 17,893 |
+| Stars this month | 802 |
 
 ---
 
-## 7. [microsoft/BitNet](https://github.com/microsoft/BitNet)
-
-Official inference framework for 1-bit LLMs
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 41,486 |
-| Forks | 3,869 |
-| Stars this month | 1,194 |
-
----
-
-## 8. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
-
-PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 34,077 |
-| Forks | 2,886 |
-| Stars this month | 1,083 |
-
----
-
-## 9. [esphome/esphome](https://github.com/esphome/esphome) 🆕
+## 4. [esphome/esphome](https://github.com/esphome/esphome)
 
 ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,052 |
+| Stars | 12,069 |
 | Forks | 5,792 |
-| Stars this month | 276 |
+| Stars this month | 300 |
 
 ---
 
-## 10. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) 🆕
+## 5. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+
+Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,807 |
+| Forks | 252 |
+| Stars this month | 491 |
+
+---
+
+## 6. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+
+Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 35,242 |
+| Forks | 6,365 |
+| Stars this month | 1,305 |
+
+---
+
+## 7. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+
+🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 55,785 |
+| Forks | 2,614 |
+| Stars this month | 869 |
+
+---
+
+## 8. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
 
 A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,593 |
-| Forks | 329 |
-| Stars this month | 448 |
+| Stars | 1,667 |
+| Forks | 345 |
+| Stars this month | 521 |
+
+---
+
+## 9. [microsoft/BitNet](https://github.com/microsoft/BitNet)
+
+Official inference framework for 1-bit LLMs
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 41,500 |
+| Forks | 3,871 |
+| Stars this month | 1,220 |
+
+---
+
+## 10. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+
+Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 40,507 |
+| Forks | 2,163 |
+| Stars this month | 1,837 |
 
 ---
 
@@ -145,60 +145,73 @@ Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,723 |
-| Forks | 436 |
-| Stars this month | 1,274 |
+| Stars | 6,760 |
+| Forks | 438 |
+| Stars this month | 1,264 |
 
 ---
 
-## 12. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+## 12. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
 
-Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,453 |
-| Forks | 2,167 |
-| Stars this month | 1,793 |
+| Stars | 34,088 |
+| Forks | 2,882 |
+| Stars this month | 1,018 |
 
 ---
 
-## 13. [react/react-native](https://github.com/react/react-native)
+## 13. [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) 🆕
 
-A framework for building native applications using React
+A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 126,869 |
-| Forks | 25,481 |
-| Stars this month | 440 |
+| Stars | 12,242 |
+| Forks | 1,010 |
+| Stars this month | 612 |
 
 ---
 
-## 14. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
-
-G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 16,349 |
-| Forks | 3,428 |
-| Stars this month | 499 |
-
----
-
-## 15. [florinp93/hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp)
+## 14. [florinp93/hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp)
 
 Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 847 |
+| Stars | 859 |
 | Forks | 40 |
-| Stars this month | 444 |
+| Stars this month | 448 |
+
+---
+
+## 15. [react/react-native](https://github.com/react/react-native)
+
+A framework for building native applications using React
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 126,874 |
+| Forks | 25,484 |
+| Stars this month | 438 |
+
+---
+
+## 16. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+
+G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 16,371 |
+| Forks | 3,435 |
+| Stars this month | 506 |
 
 ---

@@ -1,23 +1,23 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-07T05:52:41Z
-**Total Repositories:** 21
-**New Entries:** 15
+**Snapshot Time:** 2026-11-08T05:55:04Z
+**Total Repositories:** 20
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [rails/rails](https://github.com/rails/rails) 🆕
+## 1. [rails/rails](https://github.com/rails/rails)
 
 Ruby on Rails
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 59,053 |
-| Forks | 23,833 |
-| Stars today | 142 |
+| Stars | 59,082 |
+| Forks | 23,835 |
+| Stars today | 185 |
 
 ---
 
@@ -28,26 +28,39 @@ Ruby on Rails
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,343 |
-| Forks | 11,436 |
-| Stars today | 174 |
+| Stars | 50,360 |
+| Forks | 11,437 |
+| Stars today | 83 |
 
 ---
 
-## 3. [mastodon/mastodon](https://github.com/mastodon/mastodon) 🆕
+## 3. [opf/openproject](https://github.com/opf/openproject)
 
-Your self-hosted, globally interconnected microblogging community
+OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,494 |
-| Forks | 7,541 |
-| Stars today | 5 |
+| Stars | 17,107 |
+| Forks | 3,713 |
+| Stars today | 36 |
 
 ---
 
-## 4. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 4. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,071 |
+| Forks | 9,510 |
+| Stars today | 60 |
+
+---
+
+## 5. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
@@ -55,60 +68,47 @@ Your self-hosted, globally interconnected microblogging community
 |--------|-------|
 | Language | Ruby |
 | Stars | 22,286 |
-| Forks | 12,075 |
-| Stars today | 3 |
+| Forks | 12,079 |
+| Stars today | 2 |
 
 ---
 
-## 5. [opf/openproject](https://github.com/opf/openproject) 🆕
-
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 17,063 |
-| Forks | 3,708 |
-| Stars today | 31 |
-
----
-
-## 6. [ruby/ruby](https://github.com/ruby/ruby) 🆕
+## 6. [ruby/ruby](https://github.com/ruby/ruby)
 
 The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,799 |
+| Stars | 23,801 |
 | Forks | 5,680 |
-| Stars today | 1 |
+| Stars today | 2 |
 
 ---
 
-## 7. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+## 7. [danbooru/danbooru](https://github.com/danbooru/danbooru)
 
-Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+A taggable image board written in Rails.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,019 |
-| Forks | 9,498 |
-| Stars today | 60 |
+| Stars | 2,882 |
+| Forks | 459 |
+| Stars today | 17 |
 
 ---
 
-## 8. [discourse/discourse](https://github.com/discourse/discourse) 🆕
+## 8. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) 🆕
 
-A platform for community discussion. Free, open, simple.
+🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 48,055 |
-| Forks | 9,061 |
-| Stars today | 6 |
+| Stars | 15,657 |
+| Forks | 13,950 |
+| Stars today | 2 |
 
 ---
 
@@ -119,13 +119,116 @@ A platform for community discussion. Free, open, simple.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 42,368 |
+| Stars | 42,372 |
 | Forks | 6,054 |
 | Stars today | 4 |
 
 ---
 
-## 10. [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb) 🆕
+## 10. [antiwork/gumroad](https://github.com/antiwork/gumroad) 🆕
+
+See what sticks
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 10,110 |
+| Forks | 2,116 |
+| Stars today | 11 |
+
+---
+
+## 11. [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)
+
+Informative site with EoL dates of everything
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 3,440 |
+| Forks | 1,348 |
+| Stars today | 1 |
+
+---
+
+## 12. [github/explore](https://github.com/github/explore) 🆕
+
+Community-curated topic and collection pages on GitHub
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 4,952 |
+| Forks | 14,713 |
+| Stars today | 2 |
+
+---
+
+## 13. [rubocop/rubocop](https://github.com/rubocop/rubocop)
+
+A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 12,921 |
+| Forks | 3,163 |
+| Stars today | 2 |
+
+---
+
+## 14. [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) 🆕
+
+🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 919 |
+| Forks | 127 |
+| Stars today | 5 |
+
+---
+
+## 15. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) 🆕
+
+API Documentation Browser
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,612 |
+| Forks | 2,653 |
+| Stars today | 2 |
+
+---
+
+## 16. [instructure/canvas-lms](https://github.com/instructure/canvas-lms) 🆕
+
+The open LMS by Instructure, Inc.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 6,905 |
+| Forks | 3,060 |
+| Stars today | 2 |
+
+---
+
+## 17. [rails/solid_queue](https://github.com/rails/solid_queue) 🆕
+
+Database-backed Active Job backend
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 2,507 |
+| Forks | 270 |
+
+---
+
+## 18. [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb)
 
 Datadog's client library for Ruby
 
@@ -137,143 +240,28 @@ Datadog's client library for Ruby
 
 ---
 
-## 11. [ruby/rubygems](https://github.com/ruby/rubygems) 🆕
+## 19. [zammad/zammad](https://github.com/zammad/zammad) 🆕
 
-Library packaging and distribution for Ruby.
+Zammad is a web based open source helpdesk/customer support system.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,988 |
-| Forks | 1,960 |
-| Stars today | 1 |
+| Stars | 6,091 |
+| Forks | 1,097 |
+| Stars today | 7 |
 
 ---
 
-## 12. [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🆕
+## 20. [discourse/discourse](https://github.com/discourse/discourse)
 
-A curated list of engineering blogs
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 38,877 |
-| Forks | 2,063 |
-| Stars today | 10 |
-
----
-
-## 13. [danbooru/danbooru](https://github.com/danbooru/danbooru) 🆕
-
-A taggable image board written in Rails.
+A platform for community discussion. Free, open, simple.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,871 |
-| Forks | 458 |
-| Stars today | 15 |
-
----
-
-## 14. [forem/forem](https://github.com/forem/forem) 🆕
-
-For empowering community 🌱
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 22,815 |
-| Forks | 4,189 |
-| Stars today | 4 |
-
----
-
-## 15. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-
-🤖 Dependabot's core logic for creating update PRs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 5,836 |
-| Forks | 1,593 |
-| Stars today | 2 |
-
----
-
-## 16. [spree/spree](https://github.com/spree/spree) 🆕
-
-Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 15,813 |
-| Forks | 5,321 |
-| Stars today | 2 |
-
----
-
-## 17. [rubocop/rubocop](https://github.com/rubocop/rubocop) 🆕
-
-A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 12,920 |
-| Forks | 3,164 |
-| Stars today | 2 |
-
----
-
-## 18. [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) 🆕
-
-Informative site with EoL dates of everything
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 3,439 |
-| Forks | 1,348 |
-| Stars today | 1 |
-
----
-
-## 19. [jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-🌐 Jekyll is a blog-aware static site generator in Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 51,746 |
-| Forks | 10,302 |
-| Stars today | 4 |
-
----
-
-## 20. [puma/puma](https://github.com/puma/puma) 🆕
-
-A Ruby/Rack web server built for parallelism
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 7,925 |
-| Forks | 1,512 |
-
----
-
-## 21. [jruby/jruby](https://github.com/jruby/jruby) 🆕
-
-JRuby, an implementation of Ruby on the JVM
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 3,925 |
-| Forks | 958 |
+| Stars | 48,056 |
+| Forks | 9,060 |
+| Stars today | 7 |
 
 ---

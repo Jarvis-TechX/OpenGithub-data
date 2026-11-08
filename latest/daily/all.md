@@ -1,243 +1,204 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-07T05:52:35Z
-**Total Repositories:** 18
-**New Entries:** 16
+**Snapshot Time:** 2026-11-08T05:54:58Z
+**Total Repositories:** 15
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [zed-industries/zed](https://github.com/zed-industries/zed) 🆕
+## 1. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 🆕
 
-Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 93,793 |
-| Forks | 11,511 |
-| Stars today | 306 |
-
----
-
-## 2. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
-
-Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 9,289 |
-| Forks | 736 |
-| Stars today | 2,015 |
-
----
-
-## 3. [rails/rails](https://github.com/rails/rails) 🆕
-
-Ruby on Rails
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 59,053 |
-| Forks | 23,833 |
-| Stars today | 142 |
-
----
-
-## 4. [mpv-player/mpv](https://github.com/mpv-player/mpv) 🆕
-
-🎥 Command line media player
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 37,925 |
-| Forks | 3,634 |
-| Stars today | 37 |
-
----
-
-## 5. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
-
-Empowering everyone to build reliable and efficient software.
+Browser automation CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 121,513 |
-| Forks | 17,369 |
-| Stars today | 192 |
+| Stars | 46,985 |
+| Forks | 3,221 |
+| Stars today | 190 |
 
 ---
 
-## 6. [react/react](https://github.com/react/react) 🆕
-
-The library for web and native user interfaces.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 252,302 |
-| Forks | 51,825 |
-| Stars today | 248 |
-
----
-
-## 7. [angular/angular](https://github.com/angular/angular) 🆕
-
-Deliver web apps with confidence 🚀
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 101,415 |
-| Forks | 28,914 |
-| Stars today | 135 |
-
----
-
-## 8. [symfony/symfony](https://github.com/symfony/symfony) 🆕
-
-The Symfony PHP framework
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 31,472 |
-| Forks | 9,949 |
-| Stars today | 128 |
-
----
-
-## 9. [prometheus/prometheus](https://github.com/prometheus/prometheus) 🆕
-
-The Prometheus monitoring system and time series database.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 67,231 |
-| Forks | 10,989 |
-| Stars today | 148 |
-
----
-
-## 10. [google/skills](https://github.com/google/skills) 🆕
-
-Agent Skills for Google products and technologies
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 22,934 |
-| Forks | 1,928 |
-| Stars today | 534 |
-
----
-
-## 11. [microsoft/vscode](https://github.com/microsoft/vscode) 🆕
-
-Visual Studio Code
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 195,072 |
-| Forks | 44,433 |
-| Stars today | 301 |
-
----
-
-## 12. [lz4/lz4](https://github.com/lz4/lz4) 🆕
-
-Extremely Fast Compression algorithm
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 12,644 |
-| Forks | 1,643 |
-| Stars today | 315 |
-
----
-
-## 13. [nushell/nushell](https://github.com/nushell/nushell) 🆕
-
-A new type of shell
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 41,015 |
-| Forks | 2,344 |
-| Stars today | 131 |
-
----
-
-## 14. [etcd-io/etcd](https://github.com/etcd-io/etcd) 🆕
-
-Distributed reliable key-value store for the most critical data of a distributed system
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 52,638 |
-| Forks | 10,590 |
-| Stars today | 128 |
-
----
-
-## 15. [openssl/openssl](https://github.com/openssl/openssl) 🆕
-
-General purpose TLS and crypto library
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 31,329 |
-| Forks | 11,583 |
-| Stars today | 26 |
-
----
-
-## 16. [mattpocock/skills](https://github.com/mattpocock/skills)
-
-Skills for Real Engineers. Straight from my .agents directory.
-
-| Metric | Value |
-|--------|-------|
-| Language | Shell |
-| Stars | 316,904 |
-| Forks | 26,518 |
-| Stars today | 2,070 |
-
----
-
-## 17. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) 🆕
+## 2. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 64,383 |
-| Forks | 4,172 |
-| Stars today | 2,548 |
+| Stars | 66,009 |
+| Forks | 4,295 |
+| Stars today | 2,085 |
 
 ---
 
-## 18. [astral-sh/ruff](https://github.com/astral-sh/ruff) 🆕
+## 3. [google/skills](https://github.com/google/skills)
+
+Agent Skills for Google products and technologies
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 23,509 |
+| Forks | 1,965 |
+| Stars today | 443 |
+
+---
+
+## 4. [mattpocock/skills](https://github.com/mattpocock/skills)
+
+Skills for Real Engineers. Straight from my .agents directory.
+
+| Metric | Value |
+|--------|-------|
+| Language | Shell |
+| Stars | 317,904 |
+| Forks | 26,598 |
+| Stars today | 1,100 |
+
+---
+
+## 5. [anthropics/skills](https://github.com/anthropics/skills) 🆕
+
+Public repository for Agent Skills
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 188,920 |
+| Forks | 22,268 |
+| Stars today | 390 |
+
+---
+
+## 6. [meta/astryx](https://github.com/meta/astryx) 🆕
+
+An open source design system that's fully customizable and agent ready
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 14,729 |
+| Forks | 1,208 |
+| Stars today | 96 |
+
+---
+
+## 7. [prometheus/prometheus](https://github.com/prometheus/prometheus)
+
+The Prometheus monitoring system and time series database.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 67,483 |
+| Forks | 11,011 |
+| Stars today | 322 |
+
+---
+
+## 8. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) 🆕
+
+Hunt down social media accounts by username across social networks
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 101,020 |
+| Forks | 11,941 |
+| Stars today | 1,766 |
+
+---
+
+## 9. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) 🆕
+
+Open-source Grok Bot alternative with a virtual machine that bots can use
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 17,257 |
+| Forks | 2,435 |
+| Stars today | 1,955 |
+
+---
+
+## 10. [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 An extremely fast Python linter and code formatter, written in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 50,743 |
-| Forks | 2,615 |
-| Stars today | 169 |
+| Stars | 51,023 |
+| Forks | 2,633 |
+| Stars today | 350 |
+
+---
+
+## 11. [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) 🆕
+
+A utility-first CSS framework for rapid UI development.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 98,553 |
+| Forks | 7,115 |
+| Stars today | 122 |
+
+---
+
+## 12. [mbillow/localthings](https://github.com/mbillow/localthings) 🆕
+
+Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 1,096 |
+| Forks | 114 |
+| Stars today | 186 |
+
+---
+
+## 13. [zed-industries/zed](https://github.com/zed-industries/zed)
+
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 94,343 |
+| Forks | 11,554 |
+| Stars today | 1,114 |
+
+---
+
+## 14. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) 🆕
+
+A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 4,702 |
+| Forks | 377 |
+| Stars today | 191 |
+
+---
+
+## 15. [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) 🆕
+
+NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 609 |
+| Forks | 94 |
+| Stars today | 123 |
 
 ---

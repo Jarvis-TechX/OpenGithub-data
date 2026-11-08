@@ -1,9 +1,9 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-07T05:53:04Z
+**Snapshot Time:** 2026-11-08T05:55:28Z
 **Total Repositories:** 10
-**New Entries:** 3
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ A hierarchical inference engine for frontier MoE models: hot experts on the GPU 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 48,527 |
-| Forks | 5,642 |
-| Stars this week | 3,311 |
+| Stars | 48,796 |
+| Forks | 5,690 |
+| Stars this week | 3,394 |
 
 ---
 
@@ -28,22 +28,22 @@ A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 11,027 |
-| Forks | 1,719 |
-| Stars this week | 1,675 |
+| Stars | 11,252 |
+| Forks | 1,751 |
+| Stars this week | 1,920 |
 
 ---
 
-## 3. [lz4/lz4](https://github.com/lz4/lz4) 🆕
+## 3. [curl/curl](https://github.com/curl/curl)
 
-Extremely Fast Compression algorithm
+A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,644 |
-| Forks | 1,643 |
-| Stars this week | 437 |
+| Stars | 43,428 |
+| Forks | 7,490 |
+| Stars this week | 143 |
 
 ---
 
@@ -54,86 +54,86 @@ This project aims to enhance the working environment on Windows
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 34,243 |
+| Stars | 34,249 |
 | Forks | 1,386 |
 | Stars this week | 96 |
 
 ---
 
-## 5. [curl/curl](https://github.com/curl/curl) 🆕
-
-A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 43,414 |
-| Forks | 7,490 |
-| Stars this week | 135 |
-
----
-
-## 6. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-
-Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 140,663 |
-| Forks | 8,704 |
-| Stars this week | 479 |
-
----
-
-## 7. [openssl/openssl](https://github.com/openssl/openssl) 🆕
+## 5. [openssl/openssl](https://github.com/openssl/openssl)
 
 General purpose TLS and crypto library
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,329 |
-| Forks | 11,583 |
-| Stars this week | 164 |
+| Stars | 31,366 |
+| Forks | 11,586 |
+| Stars this week | 272 |
 
 ---
 
-## 8. [YizhengWw/HachimoDock](https://github.com/YizhengWw/HachimoDock)
-
-A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 921 |
-| Forks | 95 |
-| Stars this week | 400 |
-
----
-
-## 9. [rizinorg/rizin](https://github.com/rizinorg/rizin)
-
-UNIX-like reverse engineering framework and command-line toolset.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,144 |
-| Forks | 697 |
-| Stars this week | 62 |
-
----
-
-## 10. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+## 6. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 
 Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,026 |
-| Forks | 10,370 |
-| Stars this week | 78 |
+| Stars | 17,031 |
+| Forks | 10,376 |
+| Stars this week | 75 |
+
+---
+
+## 7. [YizhengWw/HachimoDock](https://github.com/YizhengWw/HachimoDock)
+
+A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 943 |
+| Forks | 100 |
+| Stars this week | 384 |
+
+---
+
+## 8. [rizinorg/rizin](https://github.com/rizinorg/rizin)
+
+UNIX-like reverse engineering framework and command-line toolset.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 4,151 |
+| Forks | 700 |
+| Stars this week | 69 |
+
+---
+
+## 9. [mackron/miniaudio](https://github.com/mackron/miniaudio) 🆕
+
+Audio playback and capture library written in C, in a single source file.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 7,576 |
+| Forks | 632 |
+| Stars this week | 146 |
+
+---
+
+## 10. [meta/zstd](https://github.com/meta/zstd) 🆕
+
+Zstandard - Fast real-time compression algorithm
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 28,205 |
+| Forks | 2,677 |
+| Stars this week | 65 |
 
 ---

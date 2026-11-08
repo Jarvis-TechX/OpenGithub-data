@@ -1,305 +1,189 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-07T05:52:42Z
-**Total Repositories:** 23
-**New Entries:** 19
+**Snapshot Time:** 2026-11-08T05:55:05Z
+**Total Repositories:** 14
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [symfony/symfony](https://github.com/symfony/symfony) 🆕
+## 1. [symfony/symfony](https://github.com/symfony/symfony)
 
 The Symfony PHP framework
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,472 |
-| Forks | 9,949 |
-| Stars today | 128 |
+| Stars | 31,520 |
+| Forks | 9,956 |
+| Stars today | 109 |
 
 ---
 
-## 2. [nextcloud/server](https://github.com/nextcloud/server) 🆕
-
-☁️ Nextcloud server, a safe home for all your data
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 37,436 |
-| Forks | 5,340 |
-| Stars today | 12 |
-
----
-
-## 3. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) 🆕
-
-Firefly III: a personal finances manager
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 25,146 |
-| Forks | 2,372 |
-| Stars today | 43 |
-
----
-
-## 4. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
-
-A free open source IT asset/license management system
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 15,159 |
-| Forks | 4,059 |
-| Stars today | 6 |
-
----
-
-## 5. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
-
-A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,584 |
-| Forks | 10,662 |
-| Stars today | 1 |
-
----
-
-## 6. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) 🆕
+## 2. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 
 mailcow: dockerized - 🐮 + 🐋 = 💕
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,755 |
-| Forks | 1,867 |
-| Stars today | 9 |
+| Stars | 13,761 |
+| Forks | 1,868 |
+| Stars today | 5 |
 
 ---
 
-## 7. [composer/composer](https://github.com/composer/composer) 🆕
+## 3. [filamentphp/filament](https://github.com/filamentphp/filament) 🆕
 
-Dependency Manager for PHP
+An open-source framework for building polished, maintainable business software with Laravel.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 29,568 |
-| Forks | 4,865 |
-| Stars today | 2 |
+| Stars | 32,451 |
+| Forks | 4,239 |
+| Stars today | 12 |
 
 ---
 
-## 8. [librenms/librenms](https://github.com/librenms/librenms) 🆕
-
-Community-based GPL-licensed network monitoring system
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,996 |
-| Forks | 2,861 |
-| Stars today | 2 |
-
----
-
-## 9. [matomo-org/matomo](https://github.com/matomo-org/matomo) 🆕
-
-Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 22,010 |
-| Forks | 2,929 |
-| Stars today | 2 |
-
----
-
-## 10. [laravel/framework](https://github.com/laravel/framework) 🆕
-
-Laravel is a web application framework with expressive, elegant syntax.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 34,992 |
-| Forks | 12,024 |
-| Stars today | 3 |
-
----
-
-## 11. [openemr/openemr](https://github.com/openemr/openemr)
-
-The most popular open source electronic health records and medical practice management solution.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,584 |
-| Forks | 3,127 |
-| Stars today | 2 |
-
----
-
-## 12. [Leantime/leantime](https://github.com/Leantime/leantime) 🆕
-
-Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 12,008 |
-| Forks | 1,173 |
-| Stars today | 34 |
-
----
-
-## 13. [metadist/synaplan](https://github.com/metadist/synaplan)
+## 4. [metadist/synaplan](https://github.com/metadist/synaplan)
 
 Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud & ownCloud. Local and cloud models side by side, with the cost on every answer.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 646 |
-| Forks | 79 |
-| Stars today | 35 |
+| Stars | 712 |
+| Forks | 81 |
+| Stars today | 95 |
 
 ---
 
-## 14. [shopware/shopware](https://github.com/shopware/shopware)
+## 5. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) 🆕
 
-Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,469 |
-| Forks | 1,220 |
-| Stars today | 1 |
+| Stars | 74,608 |
+| Forks | 25,190 |
+| Stars today | 16 |
 
 ---
 
-## 15. [wallabag/wallabag](https://github.com/wallabag/wallabag) 🆕
+## 6. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
+
+A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 10,582 |
+| Forks | 10,660 |
+
+---
+
+## 7. [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) 🆕
+
+个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,901 |
+| Forks | 1,133 |
+| Stars today | 3 |
+
+---
+
+## 8. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) 🆕
+
+WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 3,507 |
+| Forks | 3,769 |
+| Stars today | 2 |
+
+---
+
+## 9. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+
+Firefly III: a personal finances manager
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 25,169 |
+| Forks | 2,374 |
+| Stars today | 23 |
+
+---
+
+## 10. [openemr/openemr](https://github.com/openemr/openemr)
+
+The most popular open source electronic health records and medical practice management solution.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,586 |
+| Forks | 3,124 |
+| Stars today | 3 |
+
+---
+
+## 11. [wallabag/wallabag](https://github.com/wallabag/wallabag)
 
 wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,053 |
+| Stars | 13,054 |
 | Forks | 911 |
-| Stars today | 3 |
 
 ---
 
-## 16. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) 🆕
+## 12. [espocrm/espocrm](https://github.com/espocrm/espocrm) 🆕
 
-A free, self-hostable news aggregator…
+EspoCRM – Open Source CRM Application
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 16,519 |
-| Forks | 1,339 |
-| Stars today | 6 |
+| Stars | 3,557 |
+| Forks | 1,023 |
+| Stars today | 4 |
 
 ---
 
-## 17. [Automattic/jetpack](https://github.com/Automattic/jetpack) 🆕
-
-Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,857 |
-| Forks | 907 |
-
----
-
-## 18. [easychen/opc-methodology](https://github.com/easychen/opc-methodology) 🆕
-
-《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 17,033 |
-| Forks | 1,927 |
-| Stars today | 8 |
-
----
-
-## 19. [phpstan/phpstan](https://github.com/phpstan/phpstan) 🆕
-
-PHP Static Analysis Tool - discover bugs in your code without running it!
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 14,151 |
-| Forks | 971 |
-| Stars today | 5 |
-
----
-
-## 20. [magento/magento2](https://github.com/magento/magento2) 🆕
-
-Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at:https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 12,223 |
-| Forks | 9,361 |
-
----
-
-## 21. [vimeo/psalm](https://github.com/vimeo/psalm) 🆕
+## 13. [vimeo/psalm](https://github.com/vimeo/psalm)
 
 A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,911 |
-| Forks | 726 |
-| Stars today | 3 |
+| Stars | 5,912 |
+| Forks | 725 |
+| Stars today | 2 |
 
 ---
 
-## 22. [shlinkio/shlink](https://github.com/shlinkio/shlink) 🆕
+## 14. [Leantime/leantime](https://github.com/Leantime/leantime)
 
-The definitive self-hosted URL shortener
+Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,406 |
-| Forks | 449 |
-| Stars today | 1 |
-
----
-
-## 23. [doctrine/orm](https://github.com/doctrine/orm) 🆕
-
-Doctrine Object Relational Mapper (ORM)
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,169 |
-| Forks | 2,547 |
+| Stars | 12,022 |
+| Forks | 1,173 |
+| Stars today | 20 |
 
 ---

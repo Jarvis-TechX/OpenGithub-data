@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-07T05:53:14Z
+**Snapshot Time:** 2026-11-08T05:55:38Z
 **Total Repositories:** 12
 **New Entries:** 3
-**Quality Score:** 96.67/100
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,48 +15,48 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 64,384 |
-| Forks | 4,172 |
-| Stars this month | 38,004 |
+| Stars | 66,009 |
+| Forks | 4,295 |
+| Stars this month | 39,571 |
 
 ---
 
-## 2. [mksglu/context-mode](https://github.com/mksglu/context-mode) 🆕
+## 2. [mksglu/context-mode](https://github.com/mksglu/context-mode)
 
 Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 33,624 |
-| Forks | 2,305 |
-| Stars this month | 8,288 |
+| Stars | 33,655 |
+| Forks | 2,307 |
+| Stars this month | 8,266 |
 
 ---
 
-## 3. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
+## 3. [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse) 🆕
 
-Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 111,297 |
-| Forks | 7,479 |
-| Stars this month | 18,668 |
+| Stars | 1,962 |
+| Forks | 118 |
+| Stars this month | 1,503 |
 
 ---
 
-## 4. [mrdoob/three.js](https://github.com/mrdoob/three.js)
+## 4. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
 
-JavaScript 3D Library.
+Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,744 |
-| Forks | 36,885 |
-| Stars this month | 1,755 |
+| Stars | 4,135 |
+| Forks | 378 |
+| Stars this month | 2,566 |
 
 ---
 
@@ -67,72 +67,74 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 21,922 |
-| Forks | 1,242 |
-| Stars this month | 5,119 |
+| Stars | 22,049 |
+| Forks | 1,250 |
+| Stars this month | 5,205 |
 
 ---
 
-## 6. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 6. [mrdoob/three.js](https://github.com/mrdoob/three.js)
+
+JavaScript 3D Library.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 117,844 |
+| Forks | 36,905 |
+| Stars this month | 1,832 |
+
+---
+
+## 7. [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) 🆕
+
+DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 4,022 |
+| Forks | 518 |
+| Stars this month | 1,689 |
+
+---
+
+## 8. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 38,340 |
-| Forks | 2,763 |
-| Stars this month | 17,302 |
+| Stars | 38,632 |
+| Forks | 2,780 |
+| Stars this month | 17,587 |
 
 ---
 
-## 7. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+## 9. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
 
 Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 20,014 |
-| Forks | 2,672 |
-| Stars this month | 14,860 |
+| Stars | 20,218 |
+| Forks | 2,698 |
+| Stars this month | 13,653 |
 
 ---
 
-## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 7,626 |
-| Forks | 1,240 |
-| Stars this month | 2,934 |
-
----
-
-## 9. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 10. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 298,688 |
-| Forks | 44,144 |
+| Stars | 299,275 |
+| Forks | 44,216 |
 | Stars this month | 25,975 |
-
----
-
-## 10. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-
-Production-grade engineering skills for AI coding agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 113,769 |
-| Forks | 11,890 |
-| Stars this month | 12,341 |
 
 ---
 
@@ -144,20 +146,20 @@ Production-grade engineering skills for AI coding agents.
 |--------|-------|
 | Language | JavaScript |
 | Stars | 49,396 |
-| Forks | 7,647 |
-| Stars this month | 601 |
+| Forks | 7,648 |
+| Stars this month | 600 |
 
 ---
 
-## 12. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 🆕
+## 12. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
 
 Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,121 |
+| Stars | 3,134 |
 | Forks | 301 |
-| Stars this month | 1,601 |
+| Stars this month | 1,614 |
 
 ---
