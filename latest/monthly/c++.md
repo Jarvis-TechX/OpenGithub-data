@@ -1,9 +1,9 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-08T05:55:48Z
-**Total Repositories:** 16
-**New Entries:** 1
+**Snapshot Time:** 2026-11-11T06:06:04Z
+**Total Repositories:** 19
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 52,119 |
-| Forks | 4,962 |
-| Stars this month | 43,690 |
+| Stars | 53,038 |
+| Forks | 5,032 |
+| Stars this month | 26,899 |
 
 ---
 
@@ -28,61 +28,61 @@ An MCP-based chatbot | 一个基于MCP的聊天机器人
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 32,853 |
-| Forks | 7,754 |
-| Stars this month | 2,464 |
+| Stars | 33,030 |
+| Forks | 7,810 |
+| Stars this month | 2,499 |
 
 ---
 
-## 3. [electron/electron](https://github.com/electron/electron)
+## 3. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+
+Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 40,607 |
+| Forks | 2,172 |
+| Stars this month | 1,937 |
+
+---
+
+## 4. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
+
+A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 2,141 |
+| Forks | 420 |
+| Stars this month | 1,013 |
+
+---
+
+## 5. [electron/electron](https://github.com/electron/electron)
 
 Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 123,819 |
-| Forks | 17,893 |
-| Stars this month | 802 |
+| Stars | 123,850 |
+| Forks | 17,917 |
+| Stars this month | 774 |
 
 ---
 
-## 4. [esphome/esphome](https://github.com/esphome/esphome)
+## 6. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) 🆕
 
-ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,069 |
-| Forks | 5,792 |
-| Stars this month | 300 |
-
----
-
-## 5. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
-
-Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,807 |
-| Forks | 252 |
-| Stars this month | 491 |
-
----
-
-## 6. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 35,242 |
-| Forks | 6,365 |
-| Stars this month | 1,305 |
+| Stars | 17,471 |
+| Forks | 2,155 |
+| Stars this month | 1,703 |
 
 ---
 
@@ -93,125 +93,164 @@ Official source code of FreeCAD, a free and opensource multiplatform 3D parametr
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,785 |
-| Forks | 2,614 |
-| Stars this month | 869 |
+| Stars | 55,819 |
+| Forks | 2,623 |
+| Stars this month | 871 |
 
 ---
 
-## 8. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
+## 8. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
 
-A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
+Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,667 |
-| Forks | 345 |
-| Stars this month | 521 |
+| Stars | 3,832 |
+| Forks | 258 |
+| Stars this month | 494 |
 
 ---
 
-## 9. [microsoft/BitNet](https://github.com/microsoft/BitNet)
+## 9. [godotengine/godot](https://github.com/godotengine/godot) 🆕
 
-Official inference framework for 1-bit LLMs
+Godot Engine – Multi-platform 2D and 3D game engine
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,500 |
-| Forks | 3,871 |
-| Stars this month | 1,220 |
+| Stars | 119,961 |
+| Forks | 27,432 |
+| Stars this month | 2,188 |
 
 ---
 
-## 10. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+## 10. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) 🆕
 
-Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,507 |
-| Forks | 2,163 |
-| Stars this month | 1,837 |
+| Stars | 2,467 |
+| Forks | 75 |
+| Stars this month | 1,297 |
 
 ---
 
-## 11. [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps)
+## 11. [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) 🆕
 
-Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
+Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,760 |
-| Forks | 438 |
-| Stars this month | 1,264 |
+| Stars | 6,915 |
+| Forks | 448 |
+| Stars this month | 1,236 |
 
 ---
 
-## 12. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
-
-PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 34,088 |
-| Forks | 2,882 |
-| Stars this month | 1,018 |
-
----
-
-## 13. [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) 🆕
+## 12. [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics)
 
 A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,242 |
-| Forks | 1,010 |
-| Stars this month | 612 |
+| Stars | 12,269 |
+| Forks | 1,014 |
+| Stars this month | 626 |
 
 ---
 
-## 14. [florinp93/hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp)
+## 13. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
 
-Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)
+Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 859 |
-| Forks | 40 |
-| Stars this month | 448 |
+| Stars | 35,349 |
+| Forks | 6,382 |
+| Stars this month | 1,301 |
 
 ---
 
-## 15. [react/react-native](https://github.com/react/react-native)
-
-A framework for building native applications using React
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 126,874 |
-| Forks | 25,484 |
-| Stars this month | 438 |
-
----
-
-## 16. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+## 14. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
 
 G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,371 |
-| Forks | 3,435 |
-| Stars this month | 506 |
+| Stars | 16,417 |
+| Forks | 3,457 |
+| Stars this month | 534 |
+
+---
+
+## 15. [duckdb/duckdb](https://github.com/duckdb/duckdb) 🆕
+
+DuckDB is a high-performance analytical database system
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 42,979 |
+| Forks | 4,184 |
+| Stars this month | 1,076 |
+
+---
+
+## 16. [florinp93/hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp)
+
+Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 883 |
+| Forks | 41 |
+| Stars this month | 464 |
+
+---
+
+## 17. [esphome/esphome](https://github.com/esphome/esphome)
+
+ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 12,089 |
+| Forks | 5,794 |
+| Stars this month | 300 |
+
+---
+
+## 18. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+
+PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 34,125 |
+| Forks | 2,894 |
+| Stars this month | 883 |
+
+---
+
+## 19. [aardappel/goose](https://github.com/aardappel/goose) 🆕
+
+The Goose Programming Language
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 3,413 |
+| Forks | 153 |
+| Stars this month | 2,852 |
 
 ---

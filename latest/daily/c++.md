@@ -1,23 +1,23 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-08T05:55:10Z
-**Total Repositories:** 15
-**New Entries:** 14
-**Quality Score:** 97.33/100
+**Snapshot Time:** 2026-11-11T06:05:22Z
+**Total Repositories:** 14
+**New Entries:** 9
+**Quality Score:** 97.14/100
 
 ---
 
-## 1. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) 🆕
+## 1. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) 🆕
 
-Experimental DLSS Multi Frame Generation controls for any supported MFG title on RTX 40 series GPUs
+Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,271 |
-| Forks | 63 |
-| Stars today | 74 |
+| Stars | 17,471 |
+| Forks | 2,155 |
+| Stars today | 456 |
 
 ---
 
@@ -28,175 +28,162 @@ A unified cross-platform AI client supporting seamless transitions between stand
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,666 |
-| Forks | 345 |
-| Stars today | 68 |
+| Stars | 2,141 |
+| Forks | 420 |
+| Stars today | 211 |
 
 ---
 
-## 3. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) 🆕
+## 3. [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) 🆕
 
-FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+Powerful yet simple to use screenshot software 🖥️ 📸
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,568 |
-| Forks | 4,803 |
-| Stars today | 50 |
+| Stars | 31,506 |
+| Forks | 2,098 |
+| Stars today | 24 |
 
 ---
 
-## 4. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) 🆕
-
-Tool for automatic PS5 executables porting to Linux and Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 52,119 |
-| Forks | 4,962 |
-| Stars today | 282 |
-
----
-
-## 5. [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) 🆕
-
-Truly independent web browser
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 66,933 |
-| Forks | 3,196 |
-| Stars today | 25 |
-
----
-
-## 6. [alibaba/MNN](https://github.com/alibaba/MNN) 🆕
-
-MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 16,423 |
-| Forks | 2,511 |
-| Stars today | 23 |
-
----
-
-## 7. [Neroued/ninfer](https://github.com/Neroued/ninfer) 🆕
-
-High-performance single-GPU inference for selected model checkpoints and GPUs.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 3,290 |
-| Forks | 691 |
-| Stars today | 14 |
-
----
-
-## 8. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) 🆕
-
-OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 11,129 |
-| Forks | 3,541 |
-| Stars today | 9 |
-
----
-
-## 9. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) 🆕
-
-An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 32,853 |
-| Forks | 7,754 |
-| Stars today | 70 |
-
----
-
-## 10. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
-
-An Open Source Machine Learning Framework for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 201,390 |
-| Forks | 78,402 |
-| Stars today | 39 |
-
----
-
-## 11. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
+## 4. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 LLM inference in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 133,682 |
-| Forks | 25,248 |
-| Stars today | 103 |
+| Stars | 133,992 |
+| Forks | 25,357 |
+| Stars today | 120 |
 
 ---
 
-## 12. [jimmgreen/pulse](https://github.com/jimmgreen/pulse) 🆕
+## 5. [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) 🆕
 
-为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162
+A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,413 |
-| Forks | 107 |
-| Stars today | 37 |
+| Stars | 10,450 |
+| Forks | 1,153 |
+| Stars today | 5 |
 
 ---
 
-## 13. [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) 🆕
+## 6. [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) 🆕
+
+A Wayland compositor designed for daily use, with scrolling, dwindle, master, and stacking layouts, per-output workspaces, window rules, blur, shadows, and fluid animations.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,608 |
+| Forks | 121 |
+| Stars today | 26 |
+
+---
+
+## 7. [throneproj/Throne](https://github.com/throneproj/Throne) 🆕
+
+Cross-platform GUI proxy utility (Empowered by sing-box)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 7,825 |
+| Forks | 462 |
+| Stars today | 25 |
+
+---
+
+## 8. [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) 🆕
+
+Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 8,775 |
+| Forks | 621 |
+| Stars today | 10 |
+
+---
+
+## 9. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 557 |
+| Forks | 58 |
+| Stars today | 8 |
+
+---
+
+## 10. [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) 🆕
+
+Distribute and run LLMs with a single file.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 26,612 |
+| Forks | 1,675 |
+| Stars today | 18 |
+
+---
+
+## 11. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+
+Tool for automatic PS5 executables porting to Linux and Windows
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 53,038 |
+| Forks | 5,032 |
+| Stars today | 367 |
+
+---
+
+## 12. [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) 🆕
+
+GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 19,466 |
+| Forks | 1,528 |
+| Stars today | 26 |
+
+---
+
+## 13. [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
 Notepad++ official repository
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 29,808 |
-| Forks | 5,424 |
-| Stars today | 9 |
+| Stars | 29,843 |
+| Forks | 5,429 |
+| Stars today | 12 |
 
 ---
 
-## 14. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) 🆕
+## 14. [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) 🆕
+
+Experimental menu for GTA 5: Enhanced
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 509 |
-| Forks | 55 |
-| Stars today | 15 |
-
----
-
-## 15. [komaruworld/mocktail](https://github.com/komaruworld/mocktail) 🆕
-
-Experimental Roblox compatibility runtime for Linux and FreeBSD
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 427 |
-| Forks | 45 |
-| Stars today | 8 |
+| Stars | 1,825 |
+| Forks | 411 |
+| Stars today | 2 |
 
 ---

@@ -1,217 +1,228 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-08T05:55:33Z
-**Total Repositories:** 16
-**New Entries:** 6
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-11T06:05:46Z
+**Total Repositories:** 17
+**New Entries:** 8
+**Quality Score:** 97.65/100
 
 ---
 
-## 1. [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
-
-Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+## 1. [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 12,077 |
-| Forks | 698 |
-| Stars this week | 103 |
+| Stars | 9,344 |
+| Forks | 354 |
+| Stars this week | 4,450 |
 
 ---
 
-## 2. [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
-
-Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 31,778 |
-| Forks | 2,891 |
-| Stars this week | 65 |
-
----
-
-## 3. [dotnet/runtime](https://github.com/dotnet/runtime)
-
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 18,414 |
-| Forks | 5,802 |
-| Stars this week | 23 |
-
----
-
-## 4. [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)
-
-Open source, cross-platform, user-mode tablet driver
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,251 |
-| Forks | 573 |
-| Stars this week | 30 |
-
----
-
-## 5. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+## 2. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
 
 Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,069 |
-| Forks | 476 |
-| Stars this week | 355 |
-
----
-
-## 6. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) 🆕
-
-A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,625 |
-| Forks | 466 |
+| Stars | 11,458 |
+| Forks | 494 |
 | Stars this week | 691 |
 
 ---
 
-## 7. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
+## 3. [ShareX/ShareX](https://github.com/ShareX/ShareX)
 
 ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,789 |
-| Forks | 4,045 |
-| Stars this week | 246 |
+| Stars | 40,938 |
+| Forks | 4,060 |
+| Stars this week | 350 |
 
 ---
 
-## 8. [2dust/v2rayN](https://github.com/2dust/v2rayN)
+## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) 🆕
 
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 120,168 |
-| Forks | 16,278 |
-| Stars this week | 623 |
+| Stars | 7,015 |
+| Forks | 244 |
+| Stars this week | 318 |
 
 ---
 
-## 9. [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr)
+## 5. [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) 🆕
 
-Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,520 |
-| Forks | 434 |
-| Stars this week | 54 |
+| Stars | 14,925 |
+| Forks | 766 |
+| Stars this week | 137 |
 
 ---
 
-## 10. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) 🆕
+## 6. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
 
-Advanced UX and interoperability extension for Wand (WeMod) app
+A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 33,328 |
-| Forks | 87,248 |
-| Stars this week | 946 |
+| Stars | 8,819 |
+| Forks | 474 |
+| Stars this week | 706 |
 
 ---
 
-## 11. [riyasy/FlyPhotos](https://github.com/riyasy/FlyPhotos)
+## 7. [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
 
-A blazing fast ultra-light photo viewer replacement for Windows. Works similar to Picasa Photo Viewer.
+Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 983 |
-| Forks | 36 |
-| Stars this week | 58 |
+| Stars | 31,801 |
+| Forks | 2,894 |
+| Stars this week | 63 |
 
 ---
 
-## 12. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
+## 8. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) 🆕
 
-A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
+Telegram for Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 511 |
-| Forks | 43 |
-| Stars this week | 147 |
+| Stars | 5,524 |
+| Forks | 714 |
+| Stars this week | 33 |
 
 ---
 
-## 13. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) 🆕
+## 9. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) 🆕
 
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,848 |
-| Forks | 4,518 |
-| Stars this week | 35 |
+| Stars | 39,185 |
+| Forks | 4,089 |
+| Stars this week | 107 |
 
 ---
 
-## 14. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+## 10. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,609 |
-| Forks | 290 |
-| Stars this week | 177 |
+| Stars | 4,632 |
+| Forks | 291 |
+| Stars this week | 142 |
 
 ---
 
-## 15. [actions/runner](https://github.com/actions/runner) 🆕
+## 11. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
+
+Windows/macOS/Linux GUI client for GIT users
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,449 |
+| Forks | 606 |
+| Stars this week | 92 |
+
+---
+
+## 12. [dotnet/roslyn](https://github.com/dotnet/roslyn) 🆕
+
+The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 20,774 |
+| Forks | 4,372 |
+| Stars this week | 20 |
+
+---
+
+## 13. [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
+
+Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 12,099 |
+| Forks | 701 |
+| Stars this week | 99 |
+
+---
+
+## 14. [actions/runner](https://github.com/actions/runner)
 
 The Runner for GitHub Actions 🚀
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,383 |
-| Forks | 1,481 |
-| Stars this week | 14 |
+| Stars | 6,391 |
+| Forks | 1,487 |
+| Stars this week | 18 |
 
 ---
 
-## 16. [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) 🆕
+## 15. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 
-The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
+The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,861 |
-| Forks | 244 |
-| Stars this week | 58 |
+| Stars | 19,859 |
+| Forks | 4,518 |
+| Stars this week | 44 |
+
+---
+
+## 16. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox) 🆕
+
+一款面向安卓开发的多功能玩机工具箱
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 855 |
+| Forks | 76 |
+| Stars this week | 125 |
+
+---
+
+## 17. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
+
+Advanced UX and interoperability extension for Wand (WeMod) app
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 33,600 |
+| Forks | 87,876 |
+| Stars this week | 834 |
 
 ---

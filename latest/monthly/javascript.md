@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-08T05:55:38Z
-**Total Repositories:** 12
+**Snapshot Time:** 2026-11-11T06:05:52Z
+**Total Repositories:** 13
 **New Entries:** 3
-**Quality Score:** 100.00/100
+**Quality Score:** 96.92/100
 
 ---
 
@@ -15,61 +15,61 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 66,009 |
-| Forks | 4,295 |
-| Stars this month | 39,571 |
+| Stars | 69,561 |
+| Forks | 4,597 |
+| Stars this month | 41,811 |
 
 ---
 
-## 2. [mksglu/context-mode](https://github.com/mksglu/context-mode)
-
-Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 33,655 |
-| Forks | 2,307 |
-| Stars this month | 8,266 |
-
----
-
-## 3. [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse) 🆕
+## 2. [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
 
 For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,962 |
-| Forks | 118 |
-| Stars this month | 1,503 |
+| Stars | 2,052 |
+| Forks | 125 |
+| Stars this month | 1,486 |
 
 ---
 
-## 4. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
+## 3. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
 
 Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,135 |
-| Forks | 378 |
-| Stars this month | 2,566 |
+| Stars | 4,219 |
+| Forks | 387 |
+| Stars this month | 2,469 |
 
 ---
 
-## 5. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+## 4. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 
 The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 22,049 |
-| Forks | 1,250 |
-| Stars this month | 5,205 |
+| Stars | 22,476 |
+| Forks | 1,274 |
+| Stars this month | 5,474 |
+
+---
+
+## 5. [mksglu/context-mode](https://github.com/mksglu/context-mode)
+
+Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 33,833 |
+| Forks | 2,322 |
+| Stars this month | 7,742 |
 
 ---
 
@@ -80,35 +80,33 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,844 |
-| Forks | 36,905 |
-| Stars this month | 1,832 |
+| Stars | 118,103 |
+| Forks | 36,944 |
+| Stars this month | 1,997 |
 
 ---
 
-## 7. [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) 🆕
-
-DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 4,022 |
-| Forks | 518 |
-| Stars this month | 1,689 |
-
----
-
-## 8. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 7. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 38,632 |
-| Forks | 2,780 |
-| Stars this month | 17,587 |
+| Stars | 39,305 |
+| Forks | 2,832 |
+| Stars this month | 18,213 |
+
+---
+
+## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 7,664 |
+| Forks | 1,247 |
+| Stars this month | 2,930 |
 
 ---
 
@@ -119,47 +117,60 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 20,218 |
-| Forks | 2,698 |
-| Stars this month | 13,653 |
+| Stars | 20,837 |
+| Forks | 2,803 |
+| Stars this month | 11,693 |
 
 ---
 
-## 10. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 10. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) 🆕
+
+List of Permanent Free LLM API (API Keys)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 12,865 |
+| Forks | 1,530 |
+| Stars this month | 3,164 |
+
+---
+
+## 11. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 299,275 |
-| Forks | 44,216 |
-| Stars this month | 25,975 |
+| Stars | 300,913 |
+| Forks | 44,407 |
+| Stars this month | 25,762 |
 
 ---
 
-## 11. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+## 12. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
 🎆Interactive Online Platform that Visualizes Algorithms from Code
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 49,396 |
-| Forks | 7,648 |
-| Stars this month | 600 |
+| Stars | 49,471 |
+| Forks | 7,657 |
+| Stars this month | 659 |
 
 ---
 
-## 12. [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
+## 13. [react/react](https://github.com/react/react) 🆕
 
-Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.
+The library for web and native user interfaces.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,134 |
-| Forks | 301 |
-| Stars this month | 1,614 |
+| Stars | 252,509 |
+| Forks | 52,250 |
+| Stars this month | 3,363 |
 
 ---

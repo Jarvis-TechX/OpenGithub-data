@@ -1,178 +1,178 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-08T05:55:13Z
+**Snapshot Time:** 2026-11-11T06:05:24Z
 **Total Repositories:** 13
-**New Entries:** 10
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [samolego/Canta](https://github.com/samolego/Canta) 🆕
+## 1. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) 🆕
+
+Android app for streaming and downloading media.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 11,229 |
+| Forks | 1,197 |
+| Stars today | 17 |
+
+---
+
+## 2. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop) 🆕
+
+YunX（云析）的官方 windows 桌面端
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,263 |
+| Forks | 320 |
+| Stars today | 340 |
+
+---
+
+## 3. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) 🆕
+
+A Download Manager that speeds up your downloads
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 19,184 |
+| Forks | 1,017 |
+| Stars today | 45 |
+
+---
+
+## 4. [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) 🆕
+
+Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 908 |
+| Forks | 254 |
+| Stars today | 7 |
+
+---
+
+## 5. [samolego/Canta](https://github.com/samolego/Canta)
 
 Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,758 |
-| Forks | 161 |
-| Stars today | 143 |
+| Stars | 7,039 |
+| Forks | 170 |
+| Stars today | 67 |
 
 ---
 
-## 2. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) 🆕
+## 6. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
 
-RikkaHub is an Android APP that supports for multiple LLM providers.
+YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,717 |
-| Forks | 865 |
+| Stars | 7,136 |
+| Forks | 375 |
+| Stars today | 153 |
+
+---
+
+## 7. [tharunbirla/LibreCuts](https://github.com/tharunbirla/LibreCuts) 🆕
+
+LibreCuts is a free, open-source video editor for Android that prioritizes simplicity and efficiency.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,115 |
+| Forks | 129 |
+| Stars today | 6 |
+
+---
+
+## 8. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) 🆕
+
+使用 Material Design 3 全新设计的阅读 3.0
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,941 |
+| Forks | 802 |
+| Stars today | 20 |
+
+---
+
+## 9. [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music) 🆕
+
+Vivi-Music is an expressive Material 3–based YouTube Music client for Android.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,096 |
+| Forks | 154 |
 | Stars today | 32 |
 
 ---
 
-## 3. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
+## 10. [sameerasw/essentials](https://github.com/sameerasw/essentials) 🆕
 
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+Essential tools and mods for Android nerds
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 44,248 |
-| Forks | 2,114 |
-| Stars today | 81 |
+| Stars | 3,765 |
+| Forks | 109 |
+| Stars today | 21 |
 
 ---
 
-## 4. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music)
+## 11. [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) 🆕
 
-A modern, cool, sleek music player. made with <3
+An YouTube Music Client
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,104 |
-| Forks | 55 |
-| Stars today | 144 |
+| Stars | 2,458 |
+| Forks | 239 |
+| Stars today | 37 |
 
 ---
 
-## 5. [AAswordman/Operit](https://github.com/AAswordman/Operit) 🆕
+## 12. [ExTV/Podroid](https://github.com/ExTV/Podroid) 🆕
 
-The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
+A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,438 |
-| Forks | 822 |
-| Stars today | 99 |
+| Stars | 3,818 |
+| Forks | 263 |
+| Stars today | 11 |
 
 ---
 
-## 6. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+## 13. [ximeiorg/Xime](https://github.com/ximeiorg/Xime) 🆕
 
-A Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 20,279 |
-| Forks | 4,956 |
-| Stars today | 73 |
-
----
-
-## 7. [bitwarden/android](https://github.com/bitwarden/android) 🆕
-
-Bitwarden mobile apps (Password Manager and Authenticator) for Android.
+我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,604 |
-| Forks | 1,099 |
-| Stars today | 5 |
-
----
-
-## 8. [Ackites/Nrfr](https://github.com/Ackites/Nrfr) 🆕
-
-🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 9,500 |
-| Forks | 694 |
-| Stars today | 14 |
-
----
-
-## 9. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) 🆕
-
-Kernel-based Android Root Solution & KPM
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,980 |
-| Forks | 1,420 |
-| Stars today | 38 |
-
----
-
-## 10. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 33,095 |
-| Forks | 3,587 |
-| Stars today | 108 |
-
----
-
-## 11. [bmax121/APatch](https://github.com/bmax121/APatch) 🆕
-
-The patching of Android kernel and Android system
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 8,138 |
-| Forks | 805 |
-| Stars today | 3 |
-
----
-
-## 12. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) 🆕
-
-A cross-platform music app using YouTube Music for backend
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 12,991 |
-| Forks | 729 |
-| Stars today | 91 |
-
----
-
-## 13. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
-
-GhostLock One-Tap Execution App (CVE-2026-43499)
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,794 |
-| Forks | 658 |
-| Stars today | 60 |
+| Stars | 1,373 |
+| Forks | 110 |
+| Stars today | 9 |
 
 ---

@@ -1,217 +1,204 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-08T05:55:14Z
-**Total Repositories:** 16
+**Snapshot Time:** 2026-11-11T06:05:25Z
+**Total Repositories:** 15
 **New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) 🆕
+## 1. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) 🆕
 
-Driver Store Explorer
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 12,110 |
-| Forks | 564 |
-| Stars today | 16 |
-
----
-
-## 2. [ShareX/ShareX](https://github.com/ShareX/ShareX) 🆕
-
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,789 |
-| Forks | 4,045 |
-| Stars today | 77 |
-
----
-
-## 3. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) 🆕
-
-A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,625 |
-| Forks | 466 |
-| Stars today | 226 |
-
----
-
-## 4. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) 🆕
-
-Advanced UX and interoperability extension for Wand (WeMod) app
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 33,328 |
-| Forks | 87,248 |
+| Stars | 11,458 |
+| Forks | 494 |
 | Stars today | 125 |
 
 ---
 
-## 5. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) 🆕
-
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 19,848 |
-| Forks | 4,518 |
-| Stars today | 14 |
-
----
-
-## 6. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 🆕
+## 2. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
 
 the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,904 |
-| Forks | 1,367 |
-| Stars today | 13 |
-
----
-
-## 7. [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) 🆕
-
-Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 31,778 |
-| Forks | 2,891 |
-| Stars today | 9 |
-
----
-
-## 8. [dotnet/skills](https://github.com/dotnet/skills) 🆕
-
-Repository for skills to assist AI coding agents with .NET and C#
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,851 |
-| Forks | 455 |
+| Stars | 14,949 |
+| Forks | 1,373 |
 | Stars today | 7 |
 
 ---
 
-## 9. [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
+## 3. [ShareX/ShareX](https://github.com/ShareX/ShareX)
 
-🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
+ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,884 |
-| Forks | 763 |
-| Stars today | 21 |
+| Stars | 40,938 |
+| Forks | 4,060 |
+| Stars today | 37 |
 
 ---
 
-## 10. [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) 🆕
+## 4. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) 🆕
 
-The Windows debloater.
+📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,829 |
-| Forks | 187 |
+| Stars | 17,907 |
+| Forks | 1,329 |
+| Stars today | 39 |
+
+---
+
+## 5. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
+
+Windows/macOS/Linux GUI client for GIT users
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,449 |
+| Forks | 606 |
+| Stars today | 16 |
+
+---
+
+## 6. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) 🆕
+
+FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,015 |
+| Forks | 244 |
+| Stars today | 41 |
+
+---
+
+## 7. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) 🆕
+
+A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 39,185 |
+| Forks | 4,089 |
+| Stars today | 27 |
+
+---
+
+## 8. [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) 🆕
+
+Automate real Microsoft Excel with AI via MCP Server or CLI — Power Query, DAX, VBA, PivotTables, and charts.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 883 |
+| Forks | 108 |
 | Stars today | 7 |
 
 ---
 
-## 11. [seerge/g-helper](https://github.com/seerge/g-helper) 🆕
+## 9. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
 
-Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 15,949 |
-| Forks | 672 |
-| Stars today | 29 |
-
----
-
-## 12. [QuantConnect/Lean](https://github.com/QuantConnect/Lean)
-
-Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,436 |
-| Forks | 5,394 |
-| Stars today | 17 |
+| Stars | 120,383 |
+| Forks | 16,304 |
+| Stars today | 82 |
 
 ---
 
-## 13. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 10. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) 🆕
+
+Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,444 |
+| Forks | 2,975 |
+| Stars today | 5 |
+
+---
+
+## 11. [RankFTW/RHI](https://github.com/RankFTW/RHI) 🆕
+
+ReShade HDR Installer
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 2,567 |
+| Forks | 93 |
+| Stars today | 8 |
+
+---
+
+## 12. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,502 |
-| Forks | 12,299 |
-| Stars today | 4 |
+| Stars | 38,509 |
+| Forks | 11,569 |
+| Stars today | 5 |
 
 ---
 
-## 14. [ItsJokerZz/FPKGi](https://github.com/ItsJokerZz/FPKGi) 🆕
+## 13. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) 🆕
 
-FPKGi is an open-source clone of the PKGi homebrew by Bucanero for PSP, Vita, and PS3. It retains the beloved functionality, UI, background image, and music while bringing the experience back to the latest console generations. It supports custom fake package (FPKG) content via .json files & more! It's ideal for game preservation and personal use.
+Telegram for Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 343 |
-| Forks | 43 |
-| Stars today | 1 |
+| Stars | 5,524 |
+| Forks | 714 |
+| Stars today | 3 |
 
 ---
 
-## 15. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
+## 14. [microsoft/microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) 🆕
 
-A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
+Reactor is an experimental set of extensions to WinUI
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 511 |
-| Forks | 43 |
-| Stars today | 21 |
+| Stars | 862 |
+| Forks | 66 |
+| Stars today | 8 |
 
 ---
 
-## 16. [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) 🆕
+## 15. [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) 🆕
 
-Clean Architecture Solution Template for ASP.NET Core
+mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,705 |
-| Forks | 4,304 |
-| Stars today | 1 |
+| Stars | 11,210 |
+| Forks | 1,640 |
+| Stars today | 8 |
 
 ---

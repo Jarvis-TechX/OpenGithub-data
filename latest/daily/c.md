@@ -1,163 +1,99 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-08T05:55:09Z
-**Total Repositories:** 12
-**New Entries:** 7
-**Quality Score:** 96.67/100
+**Snapshot Time:** 2026-11-11T06:05:20Z
+**Total Repositories:** 7
+**New Entries:** 5
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [openssh/openssh-portable](https://github.com/openssh/openssh-portable)
+## 1. [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp) 🆕
 
-Portable OpenSSH
+Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,098 |
-| Forks | 2,211 |
-| Stars today | 5 |
+| Stars | 401 |
+| Forks | 129 |
+| Stars today | 18 |
 
 ---
 
-## 2. [mpv-player/mpv](https://github.com/mpv-player/mpv)
+## 2. [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) 🆕
 
-🎥 Command line media player
+Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 37,985 |
-| Forks | 3,640 |
-| Stars today | 177 |
-
----
-
-## 3. [meta/zstd](https://github.com/meta/zstd) 🆕
-
-Zstandard - Fast real-time compression algorithm
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 28,205 |
-| Forks | 2,677 |
-| Stars today | 14 |
-
----
-
-## 4. [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-
-A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 11,252 |
-| Forks | 1,751 |
-| Stars today | 287 |
-
----
-
-## 5. [curl/curl](https://github.com/curl/curl)
-
-A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 43,428 |
-| Forks | 7,490 |
+| Stars | 7,088 |
+| Forks | 445 |
 | Stars today | 20 |
 
 ---
 
-## 6. [madler/zlib](https://github.com/madler/zlib) 🆕
+## 3. [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) 🆕
+
+Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 7,651 |
+| Forks | 353 |
+| Stars today | 13 |
+
+---
+
+## 4. [nrfconnect/sdk-nrf](https://github.com/nrfconnect/sdk-nrf) 🆕
+
+nRF Connect SDK main repository
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 1,450 |
+| Forks | 1,599 |
+
+---
+
+## 5. [madler/zlib](https://github.com/madler/zlib)
 
 A massively spiffy yet delicately unobtrusive compression library.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,201 |
+| Stars | 7,218 |
 | Forks | 2,898 |
-| Stars today | 5 |
+| Stars today | 6 |
 
 ---
 
-## 7. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,906 |
-| Forks | 987 |
-| Stars today | 20 |
-
----
-
-## 8. [openssl/openssl](https://github.com/openssl/openssl)
-
-General purpose TLS and crypto library
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 31,366 |
-| Forks | 11,586 |
-| Stars today | 137 |
-
----
-
-## 9. [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) 🆕
-
-OpenVPN is an open source VPN daemon
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 14,782 |
-| Forks | 3,430 |
-| Stars today | 5 |
-
----
-
-## 10. [signalwire/freeswitch](https://github.com/signalwire/freeswitch) 🆕
-
-FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,288 |
-| Forks | 1,906 |
-| Stars today | 3 |
-
----
-
-## 11. [zeldaret/oot](https://github.com/zeldaret/oot) 🆕
+## 6. [zeldaret/oot](https://github.com/zeldaret/oot)
 
 Decompilation of The Legend of Zelda: Ocarina of Time
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 5,679 |
-| Forks | 721 |
-| Stars today | 13 |
+| Stars | 5,713 |
+| Forks | 724 |
+| Stars today | 8 |
 
 ---
 
-## 12. [microsoft/PowerToys](https://github.com/microsoft/PowerToys) 🆕
+## 7. [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) 🆕
 
-Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+Small and highly portable detection tests based on MITRE's ATT&CK.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 140,709 |
-| Forks | 8,705 |
-| Stars today | 75 |
+| Stars | 12,826 |
+| Forks | 3,254 |
+| Stars today | 11 |
 
 ---

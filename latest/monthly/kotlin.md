@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-08T05:55:51Z
-**Total Repositories:** 13
-**New Entries:** 1
-**Quality Score:** 96.92/100
+**Snapshot Time:** 2026-11-11T06:06:07Z
+**Total Repositories:** 16
+**New Entries:** 4
+**Quality Score:** 97.50/100
 
 ---
 
@@ -13,8 +13,8 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,402 |
-| Forks | 683 |
+| Stars | 10,458 |
+| Forks | 685 |
 | Stars this month | 2,761 |
 
 ---
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,116 |
-| Forks | 621 |
-| Stars this month | 3,511 |
+| Stars | 6,384 |
+| Forks | 664 |
+| Stars this month | 3,618 |
 
 ---
 
@@ -39,9 +39,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,279 |
-| Forks | 4,956 |
-| Stars this month | 1,443 |
+| Stars | 20,438 |
+| Forks | 5,012 |
+| Stars this month | 1,522 |
 
 ---
 
@@ -52,35 +52,35 @@ Maps and turn-by-turn navigation for Android without Google Play Services: the b
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,501 |
-| Forks | 126 |
-| Stars this month | 1,718 |
+| Stars | 2,542 |
+| Forks | 129 |
+| Stars this month | 1,216 |
 
 ---
 
-## 5. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
-
-Kernel-based Android Root Solution & KPM
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,980 |
-| Forks | 1,420 |
-| Stars this month | 561 |
-
----
-
-## 6. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+## 5. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 44,248 |
-| Forks | 2,114 |
-| Stars this month | 1,827 |
+| Stars | 44,474 |
+| Forks | 2,124 |
+| Stars this month | 1,958 |
+
+---
+
+## 6. [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+
+Kernel-based Android Root Solution & KPM
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,043 |
+| Forks | 1,422 |
+| Stars this month | 615 |
 
 ---
 
@@ -91,48 +91,48 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,711 |
-| Forks | 345 |
-| Stars this month | 2,871 |
+| Stars | 7,136 |
+| Forks | 375 |
+| Stars this month | 3,126 |
 
 ---
 
-## 8. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) 🆕
+## 8. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 12,991 |
-| Forks | 729 |
-| Stars this month | 1,314 |
+| Stars | 13,168 |
+| Forks | 750 |
+| Stars this month | 1,414 |
 
 ---
 
-## 9. [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
+## 9. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop) 🆕
 
-DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proot. Run VS Code, Firefox, LibreOffice, Blender, and more with X11 or VNC support for monitor setup.
+YunX（云析）的官方 windows 桌面端
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,716 |
-| Forks | 439 |
-| Stars this month | 917 |
+| Stars | 4,263 |
+| Forks | 320 |
+| Stars this month | 3,756 |
 
 ---
 
-## 10. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
+## 10. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV) 🆕
 
-Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
+StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,661 |
-| Forks | 162 |
-| Stars this month | 530 |
+| Stars | 1,028 |
+| Forks | 175 |
+| Stars this month | 245 |
 
 ---
 
@@ -143,34 +143,73 @@ An OSS Android TV client for Jellyfin
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,277 |
-| Forks | 228 |
-| Stars this month | 284 |
+| Stars | 3,294 |
+| Forks | 234 |
+| Stars this month | 282 |
 
 ---
 
-## 12. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
+## 12. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
 
-GhostLock One-Tap Execution App (CVE-2026-43499)
+Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,794 |
-| Forks | 658 |
-| Stars this month | 1,174 |
+| Stars | 2,692 |
+| Forks | 164 |
+| Stars this month | 543 |
 
 ---
 
-## 13. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland)
+## 13. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) 🆕
+
+Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 772 |
+| Forks | 195 |
+| Stars this month | 270 |
+
+---
+
+## 14. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland)
 
 Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 436 |
+| Stars | 476 |
 | Forks | 57 |
-| Stars this month | 176 |
+| Stars this month | 206 |
+
+---
+
+## 15. [xororz/local-dream](https://github.com/xororz/local-dream) 🆕
+
+Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,969 |
+| Forks | 300 |
+| Stars this month | 340 |
+
+---
+
+## 16. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
+
+GhostLock One-Tap Execution App (CVE-2026-43499)
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,906 |
+| Forks | 681 |
+| Stars this month | 1,168 |
 
 ---

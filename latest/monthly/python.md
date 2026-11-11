@@ -1,101 +1,101 @@
 # GitHub Trending - Python
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-08T05:55:37Z
-**Total Repositories:** 18
+**Snapshot Time:** 2026-11-11T06:05:51Z
+**Total Repositories:** 20
 **New Entries:** 3
-**Quality Score:** 97.78/100
+**Quality Score:** 98.00/100
 
 ---
 
-## 1. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 104,086 |
-| Forks | 11,573 |
-| Stars this month | 49,671 |
-
----
-
-## 2. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+## 1. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
 DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 56,472 |
-| Forks | 6,895 |
-| Stars this month | 15,721 |
+| Stars | 58,072 |
+| Forks | 7,069 |
+| Stars this month | 17,107 |
 
 ---
 
-## 3. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+## 2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
-Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 35,146 |
-| Forks | 3,876 |
-| Stars this month | 8,198 |
+| Stars | 107,490 |
+| Forks | 11,909 |
+| Stars this month | 50,753 |
 
 ---
 
-## 4. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+## 3. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 46,383 |
-| Forks | 4,831 |
-| Stars this month | 9,101 |
+| Stars | 46,802 |
+| Forks | 4,865 |
+| Stars this month | 9,346 |
 
 ---
 
-## 5. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
+## 4. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+
+Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 35,396 |
+| Forks | 3,920 |
+| Stars this month | 6,844 |
+
+---
+
+## 5. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) 🆕
+
+Hunt down social media accounts by username across social networks
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 109,345 |
+| Forks | 12,690 |
+| Stars this month | 15,143 |
+
+---
+
+## 6. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
 
 Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 27,313 |
-| Forks | 3,541 |
-| Stars this month | 8,827 |
+| Stars | 27,951 |
+| Forks | 3,624 |
+| Stars this month | 9,322 |
 
 ---
 
-## 6. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+## 7. [anthropics/skills](https://github.com/anthropics/skills) 🆕
 
-Design physical products with AI
+Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 25,789 |
-| Forks | 2,453 |
-| Stars this month | 7,656 |
-
----
-
-## 7. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
-
-AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 46,391 |
-| Forks | 3,416 |
-| Stars this month | 5,088 |
+| Stars | 192,566 |
+| Forks | 22,668 |
+| Stars this month | 12,271 |
 
 ---
 
@@ -106,74 +106,74 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 58,423 |
-| Forks | 5,258 |
-| Stars this month | 6,952 |
+| Stars | 58,574 |
+| Forks | 5,279 |
+| Stars this month | 6,931 |
 
 ---
 
-## 9. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+## 9. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
 
-Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 67,228 |
-| Forks | 10,449 |
-| Stars this month | 10,837 |
+| Stars | 46,652 |
+| Forks | 3,497 |
+| Stars this month | 5,210 |
 
 ---
 
-## 10. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
-
-Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 24,820 |
-| Forks | 2,162 |
-| Stars this month | 5,252 |
-
----
-
-## 11. [wshobson/agents](https://github.com/wshobson/agents)
-
-Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 42,293 |
-| Forks | 4,471 |
-| Stars this month | 2,139 |
-
----
-
-## 12. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+## 10. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 
 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 99,419 |
-| Forks | 10,409 |
-| Stars this month | 13,472 |
+| Stars | 101,272 |
+| Forks | 10,565 |
+| Stars this month | 14,773 |
 
 ---
 
-## 13. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
+## 11. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
 
-Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
+Design physical products with AI
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 33,581 |
-| Forks | 3,056 |
-| Stars this month | 3,476 |
+| Stars | 26,004 |
+| Forks | 2,473 |
+| Stars this month | 7,170 |
+
+---
+
+## 12. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+
+Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 25,253 |
+| Forks | 2,212 |
+| Stars this month | 5,414 |
+
+---
+
+## 13. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+
+🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 15,897 |
+| Forks | 2,173 |
+| Stars this month | 2,560 |
 
 ---
 
@@ -184,58 +184,84 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 104,559 |
-| Forks | 10,202 |
-| Stars this month | 2,610 |
+| Stars | 104,640 |
+| Forks | 10,216 |
+| Stars this month | 2,572 |
 
 ---
 
-## 15. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+## 15. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 50,525 |
-| Forks | 20,728 |
-| Stars this month | 1,099 |
+| Stars | 33,939 |
+| Forks | 3,096 |
+| Stars this month | 3,596 |
 
 ---
 
-## 16. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) 🆕
+## 16. [wshobson/agents](https://github.com/wshobson/agents)
+
+Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 42,406 |
+| Forks | 4,482 |
+| Stars this month | 2,188 |
+
+---
+
+## 17. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 145,631 |
-| Forks | 17,335 |
-| Stars this month | 9,826 |
+| Stars | 146,240 |
+| Forks | 17,410 |
+| Stars this month | 9,885 |
 
 ---
 
-## 17. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) 🆕
+## 18. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
 
-🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 15,484 |
-| Forks | 2,141 |
-| Stars this month | 2,166 |
+| Stars | 50,579 |
+| Forks | 20,745 |
+| Stars this month | 1,082 |
 
 ---
 
-## 18. [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) 🆕
+## 19. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) 🆕
+
+A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 14,864 |
-| Forks | 1,124 |
-| Stars this month | 12,566 |
+| Stars | 46,919 |
+| Forks | 5,729 |
+| Stars this month | 5,249 |
+
+---
+
+## 20. [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 15,234 |
+| Forks | 1,161 |
+| Stars this month | 12,807 |
 
 ---

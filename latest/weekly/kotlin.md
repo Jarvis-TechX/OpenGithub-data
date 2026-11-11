@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-08T05:55:32Z
+**Snapshot Time:** 2026-11-11T06:05:45Z
 **Total Repositories:** 11
-**New Entries:** 1
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ A modern, cool, sleek music player. made with <3
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,104 |
-| Forks | 55 |
-| Stars this week | 666 |
+| Stars | 1,405 |
+| Forks | 62 |
+| Stars this week | 798 |
 
 ---
 
@@ -28,22 +28,22 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,116 |
-| Forks | 621 |
-| Stars this week | 1,062 |
+| Stars | 6,384 |
+| Forks | 664 |
+| Stars this week | 911 |
 
 ---
 
-## 3. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
+## 3. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
-StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
+基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,023 |
-| Forks | 173 |
-| Stars this week | 141 |
+| Stars | 44,474 |
+| Forks | 2,124 |
+| Stars this week | 549 |
 
 ---
 
@@ -54,74 +54,74 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,422 |
-| Forks | 236 |
-| Stars this week | 1,029 |
+| Stars | 4,263 |
+| Forks | 320 |
+| Stars this week | 1,205 |
 
 ---
 
-## 5. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 33,095 |
-| Forks | 3,587 |
-| Stars this week | 581 |
-
----
-
-## 6. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
-
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 44,248 |
-| Forks | 2,114 |
-| Stars this week | 470 |
-
----
-
-## 7. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
+## 5. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
 
 使用 Material Design 3 全新设计的阅读 3.0
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,884 |
-| Forks | 797 |
-| Stars this week | 141 |
+| Stars | 6,941 |
+| Forks | 802 |
+| Stars this week | 138 |
 
 ---
 
-## 8. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
-
-Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,661 |
-| Forks | 162 |
-| Stars this week | 227 |
-
----
-
-## 9. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+## 6. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 12,991 |
-| Forks | 729 |
-| Stars this week | 390 |
+| Stars | 13,168 |
+| Forks | 750 |
+| Stars this week | 473 |
+
+---
+
+## 7. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 33,385 |
+| Forks | 3,624 |
+| Stars this week | 685 |
+
+---
+
+## 8. [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness)
+
+Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 908 |
+| Forks | 254 |
+| Stars this week | 117 |
+
+---
+
+## 9. [AAswordman/Operit](https://github.com/AAswordman/Operit) 🆕
+
+The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 9,509 |
+| Forks | 828 |
+| Stars this week | 311 |
 
 ---
 
@@ -132,21 +132,21 @@ The Magic Mask for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 63,856 |
-| Forks | 19,232 |
-| Stars this week | 251 |
+| Stars | 63,928 |
+| Forks | 19,280 |
+| Stars this week | 234 |
 
 ---
 
-## 11. [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness) 🆕
+## 11. [JetBrains/kotlin](https://github.com/JetBrains/kotlin) 🆕
 
-Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.
+The Kotlin Programming Language.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 864 |
-| Forks | 232 |
-| Stars this week | 89 |
+| Stars | 53,562 |
+| Forks | 6,460 |
+| Stars this week | 47 |
 
 ---

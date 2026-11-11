@@ -1,204 +1,191 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-08T05:54:59Z
-**Total Repositories:** 15
-**New Entries:** 10
+**Snapshot Time:** 2026-11-11T06:05:12Z
+**Total Repositories:** 14
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [google/skills](https://github.com/google/skills)
-
-Agent Skills for Google products and technologies
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 23,509 |
-| Forks | 1,965 |
-| Stars today | 443 |
-
----
-
-## 2. [anthropics/skills](https://github.com/anthropics/skills) 🆕
+## 1. [anthropics/skills](https://github.com/anthropics/skills)
 
 Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 188,920 |
-| Forks | 22,268 |
-| Stars today | 390 |
+| Stars | 192,566 |
+| Forks | 22,668 |
+| Stars today | 1,679 |
 
 ---
 
-## 3. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+## 2. [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) 🆕
+
+A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 20,614 |
+| Forks | 3,477 |
+| Stars today | 531 |
+
+---
+
+## 3. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) 🆕
+
+Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 6,801 |
+| Forks | 438 |
+| Stars today | 790 |
+
+---
+
+## 4. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
 Hunt down social media accounts by username across social networks
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 101,020 |
-| Forks | 11,941 |
-| Stars today | 1,766 |
+| Stars | 109,344 |
+| Forks | 12,690 |
+| Stars today | 2,393 |
 
 ---
 
-## 4. [mbillow/localthings](https://github.com/mbillow/localthings) 🆕
+## 5. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) 🆕
 
-Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
+VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 1,096 |
-| Forks | 114 |
-| Stars today | 186 |
+| Stars | 42,224 |
+| Forks | 4,818 |
+| Stars today | 140 |
 
 ---
 
-## 5. [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+## 6. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) 🆕
 
-Open-Source Frontier Voice AI
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 56,723 |
-| Forks | 6,388 |
-| Stars today | 245 |
+| Stars | 107,488 |
+| Forks | 11,909 |
+| Stars today | 1,207 |
 
 ---
 
-## 6. [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) 🆕
+## 7. [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) 🆕
+
+The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 39,670 |
+| Forks | 7,114 |
+| Stars today | 126 |
+
+---
+
+## 8. [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 🆕
+
+Secure, Fast, and Extensible Sandbox runtime for AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 17,166 |
+| Forks | 1,621 |
+| Stars today | 323 |
+
+---
+
+## 9. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) 🆕
+
+LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 69,622 |
+| Forks | 56,717 |
+| Stars today | 960 |
+
+---
+
+## 10. [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
 
 OBLITERATE THE CHAINS THAT BIND YOU
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,289 |
-| Forks | 1,648 |
-| Stars today | 57 |
+| Stars | 9,454 |
+| Forks | 1,726 |
+| Stars today | 64 |
 
 ---
 
-## 7. [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) 🆕
+## 11. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) 🆕
 
-Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+Learn AI Engineering! Learn it. Build it. Ship it for others.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 26,741 |
-| Forks | 2,315 |
-| Stars today | 59 |
+| Stars | 78,357 |
+| Forks | 13,947 |
+| Stars today | 207 |
 
 ---
 
-## 8. [jamiepine/voicebox](https://github.com/jamiepine/voicebox) 🆕
+## 12. [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) 🆕
 
-The open-source AI voice studio. Clone, dictate, create.
+A guide on how to use the Figma MCP server
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 60,023 |
-| Forks | 7,536 |
-| Stars today | 378 |
+| Stars | 2,171 |
+| Forks | 216 |
+| Stars today | 7 |
 
 ---
 
-## 9. [django/django](https://github.com/django/django)
+## 13. [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) 🆕
 
-The Web framework for perfectionists with deadlines.
+⚚ The ultrawork agent with AI coworkers wired into you
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 91,688 |
-| Forks | 35,970 |
-| Stars today | 99 |
+| Stars | 5,405 |
+| Forks | 432 |
+| Stars today | 50 |
 
 ---
 
-## 10. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 🆕
+## 14. [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) 🆕
 
-📚 Freely available programming books
+Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 401,239 |
-| Forks | 67,370 |
-| Stars today | 165 |
-
----
-
-## 11. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) 🆕
-
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 377,282 |
-| Forks | 59,216 |
-| Stars today | 192 |
-
----
-
-## 12. [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) 🆕
-
-Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 3,430 |
-| Forks | 441 |
-| Stars today | 8 |
-
----
-
-## 13. [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) 🆕
-
-基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 18,339 |
-| Forks | 3,024 |
-| Stars today | 144 |
-
----
-
-## 14. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
-
-Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 9,852 |
-| Forks | 805 |
-| Stars today | 1,155 |
-
----
-
-## 15. [bobeff/open-source-games](https://github.com/bobeff/open-source-games) 🆕
-
-A list of open source games.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 17,839 |
-| Forks | 1,640 |
-| Stars today | 143 |
+| Stars | 56,388 |
+| Forks | 4,293 |
+| Stars today | 225 |
 
 ---
