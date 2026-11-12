@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-11T06:05:47Z
-**Total Repositories:** 16
-**New Entries:** 5
+**Snapshot Time:** 2026-11-12T07:04:04Z
+**Total Repositories:** 13
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,78 +15,52 @@
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,802 |
-| Forks | 288 |
-| Stars this week | 433 |
+| Stars | 2,838 |
+| Forks | 291 |
+| Stars this week | 399 |
 
 ---
 
-## 2. [apple/coreai-models](https://github.com/apple/coreai-models)
-
-Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,306 |
-| Forks | 259 |
-| Stars this week | 64 |
-
----
-
-## 3. [l984-451/Rivulet](https://github.com/l984-451/Rivulet) 🆕
-
-A native Apple TV app for Plex, Jellyfin, and Live TV
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 328 |
-| Forks | 50 |
-| Stars this week | 74 |
-
----
-
-## 4. [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) 🆕
-
-Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR pairing, and push notifications when an agent needs you
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 866 |
-| Forks | 95 |
-| Stars this week | 123 |
-
----
-
-## 5. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) 🆕
+## 2. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
 
 Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,851 |
-| Forks | 101 |
-| Stars this week | 326 |
+| Stars | 1,873 |
+| Forks | 102 |
+| Stars this week | 352 |
 
 ---
 
-## 6. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+## 3. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
 
-Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
+A native macOS launcher for everyday productivity. Lightweight and open source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,955 |
-| Forks | 977 |
-| Stars this week | 222 |
+| Stars | 9,383 |
+| Forks | 590 |
+| Stars this week | 266 |
 
 ---
 
-## 7. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
+## 4. [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
+
+Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR pairing, and push notifications when an agent needs you
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 872 |
+| Forks | 98 |
+| Stars this week | 116 |
+
+---
+
+## 5. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
 
 A toolkit for SQLite databases, with a focus on application development
 
@@ -99,119 +73,106 @@ A toolkit for SQLite databases, with a focus on application development
 
 ---
 
-## 8. [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
+## 6. [apple/coreai-models](https://github.com/apple/coreai-models)
 
-Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,101 |
-| Forks | 271 |
-| Stars this week | 90 |
-
----
-
-## 9. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
-
-A native macOS launcher for everyday productivity. Lightweight and open source.
+Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,366 |
-| Forks | 588 |
-| Stars this week | 280 |
+| Stars | 2,307 |
+| Forks | 261 |
+| Stars this week | 60 |
 
 ---
 
-## 10. [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
+## 7. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
 
-Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,158 |
-| Forks | 493 |
-| Stars this week | 52 |
+| Stars | 12,971 |
+| Forks | 979 |
+| Stars this week | 173 |
 
 ---
 
-## 11. [robinebers/openusage](https://github.com/robinebers/openusage)
+## 8. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
 
-Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+AI coding assistant for Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,582 |
-| Forks | 538 |
-| Stars this week | 64 |
+| Stars | 6,385 |
+| Forks | 2,097 |
+| Stars this week | 24 |
 
 ---
 
-## 12. [exelban/stats](https://github.com/exelban/stats)
+## 9. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
 
-macOS system monitor in your menu bar
+The Swift Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 43,304 |
-| Forks | 1,623 |
-| Stars this week | 225 |
+| Stars | 70,553 |
+| Forks | 10,902 |
+| Stars this week | 44 |
 
 ---
 
-## 13. [claration/feather](https://github.com/claration/feather)
+## 10. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) 🆕
 
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,071 |
-| Forks | 478 |
-| Stars this week | 78 |
+| Stars | 14,112 |
+| Forks | 1,318 |
+| Stars this week | 331 |
 
 ---
 
-## 14. [apple/swift-nio](https://github.com/apple/swift-nio) 🆕
-
-Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,550 |
-| Forks | 825 |
-| Stars this week | 6 |
-
----
-
-## 15. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
-
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 28,756 |
-| Forks | 2,647 |
-| Stars this week | 153 |
-
----
-
-## 16. [iina/iina](https://github.com/iina/iina) 🆕
+## 11. [iina/iina](https://github.com/iina/iina)
 
 The modern video player for macOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 47,087 |
-| Forks | 2,989 |
-| Stars this week | 109 |
+| Stars | 47,098 |
+| Forks | 2,988 |
+| Stars this week | 106 |
+
+---
+
+## 12. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) 🆕
+
+iOS 27 MobileGestalt editor
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 998 |
+| Forks | 78 |
+| Stars this week | 134 |
+
+---
+
+## 13. [robinebers/openusage](https://github.com/robinebers/openusage)
+
+Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,585 |
+| Forks | 541 |
+| Stars this week | 52 |
 
 ---

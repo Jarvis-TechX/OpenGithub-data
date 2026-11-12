@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-11T06:05:52Z
-**Total Repositories:** 13
-**New Entries:** 3
-**Quality Score:** 96.92/100
+**Snapshot Time:** 2026-11-12T07:04:10Z
+**Total Repositories:** 12
+**New Entries:** 1
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,35 +15,35 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,561 |
-| Forks | 4,597 |
-| Stars this month | 41,811 |
+| Stars | 70,555 |
+| Forks | 4,681 |
+| Stars this month | 42,138 |
 
 ---
 
-## 2. [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
+## 2. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
+
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 113,764 |
+| Forks | 7,658 |
+| Stars this month | 19,310 |
+
+---
+
+## 3. [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
 
 For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,052 |
-| Forks | 125 |
-| Stars this month | 1,486 |
-
----
-
-## 3. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
-
-Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 4,219 |
-| Forks | 387 |
-| Stars this month | 2,469 |
+| Stars | 2,078 |
+| Forks | 128 |
+| Stars this month | 1,484 |
 
 ---
 
@@ -54,22 +54,22 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 22,476 |
-| Forks | 1,274 |
-| Stars this month | 5,474 |
+| Stars | 22,598 |
+| Forks | 1,280 |
+| Stars this month | 5,535 |
 
 ---
 
-## 5. [mksglu/context-mode](https://github.com/mksglu/context-mode)
+## 5. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
 
-Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
+Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 33,833 |
-| Forks | 2,322 |
-| Stars this month | 7,742 |
+| Stars | 4,248 |
+| Forks | 394 |
+| Stars this month | 2,456 |
 
 ---
 
@@ -80,9 +80,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 118,103 |
-| Forks | 36,944 |
-| Stars this month | 1,997 |
+| Stars | 118,212 |
+| Forks | 36,952 |
+| Stars this month | 2,041 |
 
 ---
 
@@ -93,84 +93,73 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 39,305 |
-| Forks | 2,832 |
-| Stars this month | 18,213 |
+| Stars | 39,462 |
+| Forks | 2,842 |
+| Stars this month | 18,324 |
 
 ---
 
-## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 7,664 |
-| Forks | 1,247 |
-| Stars this month | 2,930 |
-
----
-
-## 9. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+## 8. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
 
 Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 20,837 |
-| Forks | 2,803 |
-| Stars this month | 11,693 |
+| Stars | 21,020 |
+| Forks | 2,828 |
+| Stars this month | 11,418 |
 
 ---
 
-## 10. [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) 🆕
+## 9. [mksglu/context-mode](https://github.com/mksglu/context-mode)
 
-List of Permanent Free LLM API (API Keys)
+Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,865 |
-| Forks | 1,530 |
-| Stars this month | 3,164 |
+| Stars | 33,918 |
+| Forks | 2,326 |
+| Stars this month | 7,506 |
 
 ---
 
-## 11. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 10. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 300,913 |
-| Forks | 44,407 |
-| Stars this month | 25,762 |
+| Stars | 301,545 |
+| Forks | 44,485 |
+| Stars this month | 25,666 |
 
 ---
 
-## 12. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+## 11. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
 🎆Interactive Online Platform that Visualizes Algorithms from Code
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 49,471 |
-| Forks | 7,657 |
-| Stars this month | 659 |
+| Stars | 49,483 |
+| Forks | 7,658 |
+| Stars this month | 673 |
 
 ---
 
-## 13. [react/react](https://github.com/react/react) 🆕
+## 12. [react/react](https://github.com/react/react)
 
 The library for web and native user interfaces.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 252,509 |
-| Forks | 52,250 |
-| Stars this month | 3,363 |
+| Stars | 252,533 |
+| Forks | 52,346 |
+| Stars this month | 3,398 |
 
 ---

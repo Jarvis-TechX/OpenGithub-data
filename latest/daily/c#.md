@@ -1,204 +1,163 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-11T06:05:25Z
-**Total Repositories:** 15
-**New Entries:** 12
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-12T07:03:43Z
+**Total Repositories:** 12
+**New Entries:** 9
+**Quality Score:** 96.67/100
 
 ---
 
-## 1. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) 🆕
+## 1. [dotnet/skills](https://github.com/dotnet/skills) 🆕
 
-Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,458 |
-| Forks | 494 |
-| Stars today | 125 |
+| Stars | 5,959 |
+| Forks | 468 |
+| Stars today | 60 |
 
 ---
 
-## 2. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+## 2. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) 🆕
 
-the subtitle editor :)
+🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,949 |
-| Forks | 1,373 |
-| Stars today | 7 |
+| Stars | 27,524 |
+| Forks | 1,754 |
+| Stars today | 29 |
 
 ---
 
-## 3. [ShareX/ShareX](https://github.com/ShareX/ShareX)
+## 3. [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) 🆕
 
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+Downloads videos and playlists from YouTube
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,938 |
-| Forks | 4,060 |
-| Stars today | 37 |
+| Stars | 16,694 |
+| Forks | 2,102 |
+| Stars today | 14 |
 
 ---
 
-## 4. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) 🆕
-
-📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 17,907 |
-| Forks | 1,329 |
-| Stars today | 39 |
-
----
-
-## 5. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
-
-Windows/macOS/Linux GUI client for GIT users
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,449 |
-| Forks | 606 |
-| Stars today | 16 |
-
----
-
-## 6. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) 🆕
-
-FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,015 |
-| Forks | 244 |
-| Stars today | 41 |
-
----
-
-## 7. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) 🆕
-
-A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 39,185 |
-| Forks | 4,089 |
-| Stars today | 27 |
-
----
-
-## 8. [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) 🆕
-
-Automate real Microsoft Excel with AI via MCP Server or CLI — Power Query, DAX, VBA, PivotTables, and charts.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 883 |
-| Forks | 108 |
-| Stars today | 7 |
-
----
-
-## 9. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
-
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 120,383 |
-| Forks | 16,304 |
-| Stars today | 82 |
-
----
-
-## 10. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) 🆕
-
-Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,444 |
-| Forks | 2,975 |
-| Stars today | 5 |
-
----
-
-## 11. [RankFTW/RHI](https://github.com/RankFTW/RHI) 🆕
-
-ReShade HDR Installer
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 2,567 |
-| Forks | 93 |
-| Stars today | 8 |
-
----
-
-## 12. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 38,509 |
-| Forks | 11,569 |
-| Stars today | 5 |
-
----
-
-## 13. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) 🆕
-
-Telegram for Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,524 |
-| Forks | 714 |
-| Stars today | 3 |
-
----
-
-## 14. [microsoft/microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) 🆕
-
-Reactor is an experimental set of extensions to WinUI
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 862 |
-| Forks | 66 |
-| Stars today | 8 |
-
----
-
-## 15. [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) 🆕
+## 4. [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)
 
 mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,210 |
-| Forks | 1,640 |
-| Stars today | 8 |
+| Stars | 11,212 |
+| Forks | 1,641 |
+| Stars today | 4 |
+
+---
+
+## 5. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+
+A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 39,215 |
+| Forks | 4,095 |
+| Stars today | 31 |
+
+---
+
+## 6. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) 🆕
+
+Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 15,905 |
+| Forks | 1,633 |
+| Stars today | 24 |
+
+---
+
+## 7. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+
+Windows/macOS/Linux GUI client for GIT users
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,457 |
+| Forks | 612 |
+| Stars today | 18 |
+
+---
+
+## 8. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) 🆕
+
+Download web video and audio
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,607 |
+| Forks | 373 |
+| Stars today | 14 |
+
+---
+
+## 9. [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,577 |
+| Forks | 402 |
+| Stars today | 6 |
+
+---
+
+## 10. [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) 🆕
+
+Unity il2cpp reverse engineer
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,640 |
+| Forks | 1,967 |
+| Stars today | 9 |
+
+---
+
+## 11. [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) 🆕
+
+Source code for Unturned, a free open-world zombie survival sandbox game.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,027 |
+| Forks | 592 |
+| Stars today | 4 |
+
+---
+
+## 12. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
+
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 18,425 |
+| Forks | 5,813 |
+| Stars today | 6 |
 
 ---

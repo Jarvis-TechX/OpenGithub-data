@@ -1,126 +1,152 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-11T06:05:13Z
-**Total Repositories:** 9
-**New Entries:** 7
+**Snapshot Time:** 2026-11-12T07:03:31Z
+**Total Repositories:** 11
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 🆕
+## 1. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 115,335 |
-| Forks | 12,109 |
-| Stars today | 465 |
+| Stars | 116,160 |
+| Forks | 12,172 |
+| Stars today | 787 |
 
 ---
 
-## 2. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+## 2. [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) 🆕
 
-Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 33,971 |
-| Forks | 6,461 |
-| Stars today | 263 |
+| Stars | 4,546 |
+| Forks | 419 |
+| Stars today | 41 |
 
 ---
 
-## 3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
+## 3. [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) 🆕
 
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 188,541 |
-| Forks | 10,482 |
-| Stars today | 835 |
+| Stars | 1,136 |
+| Forks | 227 |
+| Stars today | 4 |
 
 ---
 
-## 4. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) 🆕
-
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 64,187 |
-| Forks | 12,649 |
-| Stars today | 254 |
-
----
-
-## 5. [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) 🆕
-
-한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 8,393 |
-| Forks | 1,006 |
-| Stars today | 23 |
-
----
-
-## 6. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 🆕
+## 4. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
 
 The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 54,266 |
-| Forks | 10,940 |
-| Stars today | 53 |
+| Stars | 54,315 |
+| Forks | 10,950 |
+| Stars today | 62 |
 
 ---
 
-## 7. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+## 5. [tiagozip/cap](https://github.com/tiagozip/cap) 🆕
 
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,561 |
-| Forks | 4,597 |
-| Stars today | 1,189 |
+| Stars | 8,349 |
+| Forks | 654 |
+| Stars today | 20 |
 
 ---
 
-## 8. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) 🆕
+## 6. [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) 🆕
 
-江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 5,323 |
-| Forks | 619 |
-| Stars today | 245 |
+| Stars | 4,806 |
+| Forks | 652 |
+| Stars today | 58 |
 
 ---
 
-## 9. [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) 🆕
+## 7. [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) 🆕
 
-Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
+🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 5,566 |
-| Forks | 478 |
-| Stars today | 37 |
+| Stars | 5,156 |
+| Forks | 1,651 |
+| Stars today | 27 |
+
+---
+
+## 8. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+
+Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 34,188 |
+| Forks | 6,528 |
+| Stars today | 238 |
+
+---
+
+## 9. [songquanpeng/one-api](https://github.com/songquanpeng/one-api) 🆕
+
+LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 37,411 |
+| Forks | 6,893 |
+| Stars today | 21 |
+
+---
+
+## 10. [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) 🆕
+
+An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 10,630 |
+| Forks | 904 |
+| Stars today | 51 |
+
+---
+
+## 11. [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) 🆕
+
+A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 13,299 |
+| Forks | 680 |
+| Stars today | 21 |
 
 ---

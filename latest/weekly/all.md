@@ -1,49 +1,49 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-11T06:05:28Z
-**Total Repositories:** 14
+**Snapshot Time:** 2026-11-12T07:03:45Z
+**Total Repositories:** 13
 **New Entries:** 4
-**Quality Score:** 97.14/100
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) 🆕
+## 1. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
 
 Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,551 |
-| Forks | 953 |
-| Stars this week | 9,621 |
+| Stars | 11,990 |
+| Forks | 983 |
+| Stars this week | 7,947 |
 
 ---
 
-## 2. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) 🆕
-
-Computer use CLI for AI agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 21,562 |
-| Forks | 1,602 |
-| Stars this week | 9,502 |
-
----
-
-## 3. [anthropics/skills](https://github.com/anthropics/skills)
+## 2. [anthropics/skills](https://github.com/anthropics/skills)
 
 Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 192,566 |
-| Forks | 22,668 |
-| Stars this week | 5,014 |
+| Stars | 193,303 |
+| Forks | 22,746 |
+| Stars this week | 5,738 |
+
+---
+
+## 3. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+
+Computer use CLI for AI agents
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 22,306 |
+| Forks | 1,657 |
+| Stars this week | 7,772 |
 
 ---
 
@@ -54,136 +54,125 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,816 |
-| Forks | 2,889 |
-| Stars this week | 8,951 |
+| Stars | 21,393 |
+| Forks | 2,988 |
+| Stars this week | 9,257 |
 
 ---
 
-## 5. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
-
-Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 12,417 |
-| Forks | 490 |
-| Stars this week | 2,093 |
-
----
-
-## 6. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+## 5. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 
 Browser automation CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 49,409 |
-| Forks | 3,460 |
-| Stars this week | 3,606 |
+| Stars | 50,045 |
+| Forks | 3,492 |
+| Stars this week | 4,183 |
 
 ---
 
-## 7. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
-
-Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-
-| Metric | Value |
-|--------|-------|
-| Language | Shell |
-| Stars | 38,153 |
-| Forks | 4,975 |
-| Stars this week | 3,730 |
-
----
-
-## 8. [mattpocock/skills](https://github.com/mattpocock/skills)
-
-Skills for Real Engineers. Straight from my .agents directory.
-
-| Metric | Value |
-|--------|-------|
-| Language | Shell |
-| Stars | 321,173 |
-| Forks | 26,930 |
-| Stars this week | 9,872 |
-
----
-
-## 9. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) 🆕
+## 6. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,561 |
-| Forks | 4,597 |
-| Stars this week | 10,967 |
+| Stars | 70,555 |
+| Forks | 4,681 |
+| Stars this week | 11,507 |
 
 ---
 
-## 10. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+## 7. [mattpocock/skills](https://github.com/mattpocock/skills)
 
-🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+Skills for Real Engineers. Straight from my .agents directory.
 
 | Metric | Value |
 |--------|-------|
-| Language | Python |
-| Stars | 15,897 |
-| Forks | 2,173 |
-| Stars this week | 1,591 |
+| Language | Shell |
+| Stars | 322,276 |
+| Forks | 27,027 |
+| Stars this week | 9,575 |
 
 ---
 
-## 11. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-
-Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 115,922 |
-| Forks | 10,054 |
-| Stars this week | 4,473 |
-
----
-
-## 12. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+## 8. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 
 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 101,272 |
-| Forks | 10,565 |
-| Stars this week | 7,291 |
+| Stars | 101,787 |
+| Forks | 10,601 |
+| Stars this week | 5,814 |
 
 ---
 
-## 13. [anomalyco/hex](https://github.com/anomalyco/hex) 🆕
+## 9. [zed-industries/zed](https://github.com/zed-industries/zed) 🆕
 
-Local voice dictation for mac, windows and linux
+Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,248 |
-| Forks | 378 |
-| Stars this week | 1,839 |
+| Stars | 94,749 |
+| Forks | 11,634 |
+| Stars this week | 2,310 |
 
 ---
 
-## 14. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+## 10. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 56,026 |
-| Forks | 10,377 |
-| Stars this week | 11,979 |
+| Language | Shell |
+| Stars | 38,580 |
+| Forks | 5,017 |
+| Stars this week | 3,150 |
+
+---
+
+## 11. [google/skills](https://github.com/google/skills) 🆕
+
+Agent Skills for Google products and technologies
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 23,977 |
+| Forks | 1,998 |
+| Stars this week | 2,013 |
+
+---
+
+## 12. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) 🆕
+
+Multi-Joint dynamics with Contact. A general purpose physics simulator.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 17,690 |
+| Forks | 2,174 |
+| Stars this week | 1,535 |
+
+---
+
+## 13. [herdrdev/herdr](https://github.com/herdrdev/herdr) 🆕
+
+the runtime your coding agents live on
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 50,428 |
+| Forks | 4,068 |
+| Stars this week | 2,213 |
 
 ---

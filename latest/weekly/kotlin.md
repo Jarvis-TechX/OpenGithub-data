@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-11T06:05:45Z
-**Total Repositories:** 11
-**New Entries:** 2
+**Snapshot Time:** 2026-11-12T07:04:02Z
+**Total Repositories:** 12
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ A modern, cool, sleek music player. made with <3
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,405 |
-| Forks | 62 |
-| Stars this week | 798 |
+| Stars | 1,496 |
+| Forks | 66 |
+| Stars this week | 805 |
 
 ---
 
@@ -28,9 +28,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,384 |
-| Forks | 664 |
-| Stars this week | 911 |
+| Stars | 6,456 |
+| Forks | 676 |
+| Stars this week | 804 |
 
 ---
 
@@ -41,9 +41,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 44,474 |
-| Forks | 2,124 |
-| Stars this week | 549 |
+| Stars | 44,551 |
+| Forks | 2,128 |
+| Stars this week | 562 |
 
 ---
 
@@ -54,99 +54,112 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,263 |
-| Forks | 320 |
-| Stars this week | 1,205 |
+| Stars | 4,806 |
+| Forks | 372 |
+| Stars this week | 1,598 |
 
 ---
 
-## 5. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
-
-使用 Material Design 3 全新设计的阅读 3.0
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,941 |
-| Forks | 802 |
-| Stars this week | 138 |
-
----
-
-## 6. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-
-A cross-platform music app using YouTube Music for backend
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 13,168 |
-| Forks | 750 |
-| Stars this week | 473 |
-
----
-
-## 7. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 33,385 |
-| Forks | 3,624 |
-| Stars this week | 685 |
-
----
-
-## 8. [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness)
-
-Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 908 |
-| Forks | 254 |
-| Stars this week | 117 |
-
----
-
-## 9. [AAswordman/Operit](https://github.com/AAswordman/Operit) 🆕
-
-The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 9,509 |
-| Forks | 828 |
-| Stars this week | 311 |
-
----
-
-## 10. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-
-The Magic Mask for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 63,928 |
-| Forks | 19,280 |
-| Stars this week | 234 |
-
----
-
-## 11. [JetBrains/kotlin](https://github.com/JetBrains/kotlin) 🆕
+## 5. [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 The Kotlin Programming Language.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 53,562 |
-| Forks | 6,460 |
-| Stars this week | 47 |
+| Stars | 53,563 |
+| Forks | 6,462 |
+| Stars this week | 46 |
+
+---
+
+## 6. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
+
+使用 Material Design 3 全新设计的阅读 3.0
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,960 |
+| Forks | 804 |
+| Stars this week | 133 |
+
+---
+
+## 7. [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard) 🆕
+
+A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 918 |
+| Forks | 55 |
+| Stars this week | 186 |
+
+---
+
+## 8. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+
+A cross-platform music app using YouTube Music for backend
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 13,222 |
+| Forks | 752 |
+| Stars this week | 462 |
+
+---
+
+## 9. [techjarves/Mobile-Harness](https://github.com/techjarves/Mobile-Harness)
+
+Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 916 |
+| Forks | 258 |
+| Stars this week | 111 |
+
+---
+
+## 10. [CYQawa/YunX](https://github.com/CYQawa/YunX) 🆕
+
+YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,386 |
+| Forks | 391 |
+| Stars this week | 898 |
+
+---
+
+## 11. [AAswordman/Operit](https://github.com/AAswordman/Operit)
+
+The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 9,532 |
+| Forks | 832 |
+| Stars this week | 303 |
+
+---
+
+## 12. [tiann/KernelSU](https://github.com/tiann/KernelSU) 🆕
+
+A Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 20,472 |
+| Forks | 5,031 |
+| Stars this week | 410 |
 
 ---

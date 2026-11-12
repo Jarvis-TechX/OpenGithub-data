@@ -1,7 +1,7 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-11T06:05:31Z
+**Snapshot Time:** 2026-11-12T07:03:48Z
 **Total Repositories:** 10
 **New Entries:** 2
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,561 |
-| Forks | 4,597 |
-| Stars this week | 10,967 |
+| Stars | 70,555 |
+| Forks | 4,681 |
+| Stars this week | 11,507 |
 
 ---
 
@@ -28,22 +28,22 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 14,912 |
-| Forks | 1,718 |
-| Stars this week | 1,261 |
+| Stars | 14,984 |
+| Forks | 1,721 |
+| Stars this week | 1,155 |
 
 ---
 
-## 3. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 🆕
+## 3. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 33,971 |
-| Forks | 6,461 |
-| Stars this week | 1,789 |
+| Stars | 34,188 |
+| Forks | 6,528 |
+| Stars this week | 1,916 |
 
 ---
 
@@ -54,74 +54,74 @@ Uncensored Open-source alternative to AI video platforms — Free AI image & vid
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 5,323 |
-| Forks | 619 |
-| Stars this week | 1,416 |
+| Stars | 5,455 |
+| Forks | 642 |
+| Stars this week | 1,313 |
 
 ---
 
-## 5. [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
-
-🍃 number one JavaScript library for interactive maps 🇺🇦
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 45,908 |
-| Forks | 6,217 |
-| Stars this week | 93 |
-
----
-
-## 6. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+## 5. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 59,617 |
-| Forks | 8,705 |
-| Stars this week | 1,322 |
+| Stars | 59,826 |
+| Forks | 8,742 |
+| Stars this week | 1,306 |
 
 ---
 
-## 7. [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio)
+## 6. [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
 
-Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
+🍃 number one JavaScript library for interactive maps 🇺🇦
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,990 |
-| Forks | 483 |
-| Stars this week | 151 |
+| Stars | 45,909 |
+| Forks | 6,217 |
+| Stars this week | 80 |
 
 ---
 
-## 8. [react/react](https://github.com/react/react) 🆕
+## 7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
+
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 189,322 |
+| Forks | 10,538 |
+| Stars this week | 4,851 |
+
+---
+
+## 8. [react/react](https://github.com/react/react)
 
 The library for web and native user interfaces.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 252,509 |
-| Forks | 52,250 |
-| Stars this week | 1,084 |
+| Stars | 252,533 |
+| Forks | 52,346 |
+| Stars this week | 1,036 |
 
 ---
 
-## 9. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 9. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 300,913 |
-| Forks | 44,407 |
-| Stars this week | 4,566 |
+| Stars | 113,764 |
+| Forks | 7,658 |
+| Stars this week | 3,654 |
 
 ---
 
@@ -132,8 +132,8 @@ Community-contributed instructions, agents, skills, and configurations to help y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 41,030 |
-| Forks | 5,337 |
-| Stars this week | 289 |
+| Stars | 41,060 |
+| Forks | 5,339 |
+| Stars this week | 288 |
 
 ---

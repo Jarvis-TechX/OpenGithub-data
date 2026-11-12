@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-11T06:06:02Z
-**Total Repositories:** 16
-**New Entries:** 6
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-11-12T07:04:20Z
+**Total Repositories:** 15
+**New Entries:** 0
+**Quality Score:** 97.33/100
 
 ---
 
@@ -15,9 +15,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,773 |
-| Forks | 8,526 |
-| Stars this month | 1,444 |
+| Stars | 41,774 |
+| Forks | 8,525 |
+| Stars this month | 1,445 |
 
 ---
 
@@ -28,9 +28,9 @@ Unofficial native Nuvio client for LG webOS 3+, Samsung Tizen 4+, GoogleTV 7+. C
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 449 |
-| Forks | 60 |
-| Stars this month | 261 |
+| Stars | 457 |
+| Forks | 61 |
+| Stars this month | 263 |
 
 ---
 
@@ -41,65 +41,26 @@ An advanced Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,793 |
-| Forks | 1,276 |
+| Stars | 4,804 |
+| Forks | 1,277 |
 | Stars this month | 443 |
 
 ---
 
-## 4. [lz4/lz4](https://github.com/lz4/lz4) 🆕
+## 4. [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
 
-Extremely Fast Compression algorithm
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 12,756 |
-| Forks | 1,652 |
-| Stars this month | 653 |
-
----
-
-## 5. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-
-OBS Studio - Free and open source software for live streaming and screen recording
+A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 79,300 |
-| Forks | 11,165 |
-| Stars this month | 2,242 |
+| Stars | 11,850 |
+| Forks | 1,829 |
+| Stars this month | 2,880 |
 
 ---
 
-## 6. [mpv-player/mpv](https://github.com/mpv-player/mpv) 🆕
-
-🎥 Command line media player
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 38,056 |
-| Forks | 3,649 |
-| Stars this month | 834 |
-
----
-
-## 7. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
-
-Xbox 360 Recompilation Runtime and Toolkit
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 1,270 |
-| Forks | 290 |
-| Stars this month | 266 |
-
----
-
-## 8. [systemd/systemd](https://github.com/systemd/systemd)
+## 5. [systemd/systemd](https://github.com/systemd/systemd)
 
 The systemd System and Service Manager
 
@@ -107,21 +68,60 @@ The systemd System and Service Manager
 |--------|-------|
 | Language | C |
 | Stars | 17,027 |
-| Forks | 4,822 |
-| Stars this month | 264 |
+| Forks | 4,826 |
+| Stars this month | 265 |
 
 ---
 
-## 9. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+## 6. [mpv-player/mpv](https://github.com/mpv-player/mpv)
+
+🎥 Command line media player
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 38,079 |
+| Forks | 3,651 |
+| Stars this month | 836 |
+
+---
+
+## 7. [lz4/lz4](https://github.com/lz4/lz4)
+
+Extremely Fast Compression algorithm
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 12,778 |
+| Forks | 1,658 |
+| Stars this month | 670 |
+
+---
+
+## 8. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 
 Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 140,855 |
-| Forks | 8,729 |
-| Stars this month | 2,075 |
+| Stars | 140,896 |
+| Forks | 8,730 |
+| Stars this month | 2,098 |
+
+---
+
+## 9. [openssl/openssl](https://github.com/openssl/openssl)
+
+General purpose TLS and crypto library
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 31,424 |
+| Forks | 11,598 |
+| Stars this month | 656 |
 
 ---
 
@@ -132,84 +132,71 @@ ehviewer，用爱发电，快乐前行
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,980 |
-| Forks | 775 |
-| Stars this month | 1,446 |
+| Stars | 29,009 |
+| Forks | 777 |
+| Stars this month | 1,462 |
 
 ---
 
-## 11. [openssl/openssl](https://github.com/openssl/openssl)
+## 11. [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
 
-General purpose TLS and crypto library
+Xbox 360 Recompilation Runtime and Toolkit
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,409 |
-| Forks | 11,595 |
-| Stars this month | 720 |
+| Stars | 1,276 |
+| Forks | 290 |
+| Stars this month | 264 |
 
 ---
 
-## 12. [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) 🆕
+## 12. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
-A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 11,683 |
-| Forks | 1,811 |
-| Stars this month | 2,736 |
+| Stars | 79,433 |
+| Forks | 11,227 |
+| Stars this month | 2,270 |
 
 ---
 
-## 13. [redis/redis](https://github.com/redis/redis)
-
-For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 77,367 |
-| Forks | 25,015 |
-| Stars this month | 1,188 |
-
----
-
-## 14. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) 🆕
+## 13. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 
 Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,052 |
-| Forks | 10,402 |
-| Stars this month | 343 |
+| Stars | 17,064 |
+| Forks | 10,418 |
+| Stars this month | 342 |
 
 ---
 
-## 15. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) 🆕
+## 14. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 5,980 |
-| Forks | 997 |
-| Stars this month | 443 |
+| Stars | 6,010 |
+| Forks | 1,000 |
+| Stars this month | 465 |
 
 ---
 
-## 16. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp) 🆕
+## 15. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
 
 Static recompilation runtime libraries for PlayStation 3 titles.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 678 |
-| Forks | 109 |
-| Stars this month | 309 |
+| Stars | 683 |
+| Forks | 108 |
+| Stars this month | 311 |
 
 ---

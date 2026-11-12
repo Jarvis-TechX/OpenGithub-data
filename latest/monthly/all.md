@@ -1,10 +1,10 @@
 # GitHub Trending - All
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-11T06:05:49Z
-**Total Repositories:** 14
-**New Entries:** 6
-**Quality Score:** 97.14/100
+**Snapshot Time:** 2026-11-12T07:04:06Z
+**Total Repositories:** 16
+**New Entries:** 4
+**Quality Score:** 97.50/100
 
 ---
 
@@ -15,9 +15,9 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 450,655 |
-| Forks | 110,890 |
-| Stars this month | 389,832 |
+| Stars | 453,456 |
+| Forks | 111,464 |
+| Stars this month | 366,818 |
 
 ---
 
@@ -28,9 +28,9 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 | Metric | Value |
 |--------|-------|
 | Language | CSS |
-| Stars | 52,779 |
-| Forks | 2,803 |
-| Stars this month | 22,624 |
+| Stars | 53,581 |
+| Forks | 2,854 |
+| Stars this month | 23,478 |
 
 ---
 
@@ -41,33 +41,33 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,561 |
-| Forks | 4,597 |
-| Stars this month | 41,811 |
+| Stars | 70,555 |
+| Forks | 4,681 |
+| Stars this month | 42,138 |
 
 ---
 
-## 4. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 56,026 |
-| Forks | 10,377 |
-| Stars this month | 28,609 |
-
----
-
-## 5. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+## 4. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 
 Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 115,922 |
-| Forks | 10,054 |
-| Stars this month | 17,223 |
+| Stars | 116,329 |
+| Forks | 10,094 |
+| Stars this month | 17,247 |
+
+---
+
+## 5. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 57,387 |
+| Forks | 10,557 |
+| Stars this month | 29,814 |
 
 ---
 
@@ -78,112 +78,138 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 82,415 |
-| Forks | 7,617 |
-| Stars this month | 22,380 |
+| Stars | 83,062 |
+| Forks | 7,658 |
+| Stars this month | 22,422 |
 
 ---
 
-## 7. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) 🆕
-
-DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 58,072 |
-| Forks | 7,069 |
-| Stars this month | 17,107 |
-
----
-
-## 8. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 107,490 |
-| Forks | 11,909 |
-| Stars this month | 50,753 |
-
----
-
-## 9. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 7. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 107,740 |
-| Forks | 6,406 |
-| Stars this month | 28,598 |
+| Stars | 108,519 |
+| Forks | 6,451 |
+| Stars this month | 28,902 |
 
 ---
 
-## 10. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) 🆕
+## 8. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+
+DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 58,450 |
+| Forks | 7,105 |
+| Stars this month | 17,406 |
+
+---
+
+## 9. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 108,556 |
+| Forks | 12,028 |
+| Stars this month | 50,619 |
+
+---
+
+## 10. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 46,802 |
-| Forks | 4,865 |
-| Stars this month | 9,346 |
+| Stars | 46,953 |
+| Forks | 4,880 |
+| Stars this month | 9,448 |
 
 ---
 
-## 11. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) 🆕
+## 11. [anthropics/skills](https://github.com/anthropics/skills) 🆕
 
-Ghidra is a software reverse engineering (SRE) framework
+Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
-| Language | Java |
-| Stars | 99,418 |
-| Forks | 11,285 |
-| Stars this month | 17,106 |
+| Language | Python |
+| Stars | 193,303 |
+| Forks | 22,746 |
+| Stars this month | 13,018 |
 
 ---
 
-## 12. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) 🆕
+## 12. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) 🆕
 
-A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+Hunt down social media accounts by username across social networks
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 6,489 |
-| Forks | 536 |
-| Stars this month | 5,300 |
+| Language | Python |
+| Stars | 110,276 |
+| Forks | 12,770 |
+| Stars this month | 16,350 |
 
 ---
 
-## 13. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) 🆕
+## 13. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
+
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 113,764 |
+| Forks | 7,658 |
+| Stars this month | 19,310 |
+
+---
+
+## 14. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 
 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 35,396 |
-| Forks | 3,920 |
-| Stars this month | 6,844 |
+| Stars | 35,506 |
+| Forks | 3,928 |
+| Stars this month | 6,534 |
 
 ---
 
-## 14. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) 🆕
+## 15. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) 🆕
 
-7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 50,374 |
-| Forks | 6,992 |
-| Stars this month | 17,591 |
+| Language | Python |
+| Stars | 28,355 |
+| Forks | 3,654 |
+| Stars this month | 9,470 |
+
+---
+
+## 16. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+Ghidra is a software reverse engineering (SRE) framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 99,685 |
+| Forks | 11,302 |
+| Stars this month | 16,749 |
 
 ---

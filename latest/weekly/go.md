@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-11T06:05:38Z
+**Snapshot Time:** 2026-11-12T07:03:55Z
 **Total Repositories:** 20
-**New Entries:** 6
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The Prometheus monitoring system and time series database.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 67,629 |
-| Forks | 11,019 |
-| Stars this week | 859 |
+| Stars | 67,561 |
+| Forks | 11,007 |
+| Stars this week | 866 |
 
 ---
 
@@ -28,61 +28,61 @@ Make humans and AI agents work as one team — open-source and self-hostable.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 55,646 |
-| Forks | 7,345 |
-| Stars this week | 851 |
+| Stars | 55,795 |
+| Forks | 7,368 |
+| Stars this week | 907 |
 
 ---
 
-## 3. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 🆕
-
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 118,947 |
-| Forks | 6,919 |
-| Stars this week | 1,843 |
-
----
-
-## 4. [etcd-io/etcd](https://github.com/etcd-io/etcd)
+## 3. [etcd-io/etcd](https://github.com/etcd-io/etcd)
 
 Distributed reliable key-value store for the most critical data of a distributed system
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 52,691 |
-| Forks | 10,596 |
-| Stars this week | 364 |
+| Stars | 52,600 |
+| Forks | 10,595 |
+| Stars this week | 368 |
 
 ---
 
-## 5. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+## 4. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 
 RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 93,992 |
-| Forks | 11,299 |
-| Stars this week | 592 |
+| Stars | 94,064 |
+| Forks | 11,307 |
+| Stars this week | 600 |
 
 ---
 
-## 6. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
+## 5. [aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
 Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,221 |
-| Forks | 850 |
-| Stars this week | 280 |
+| Stars | 39,250 |
+| Forks | 856 |
+| Stars this week | 273 |
+
+---
+
+## 6. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+
+🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 119,200 |
+| Forks | 6,932 |
+| Stars this week | 1,764 |
 
 ---
 
@@ -93,9 +93,9 @@ The Moby Project - a collaborative project for the container ecosystem to assemb
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 72,368 |
-| Forks | 19,327 |
-| Stars this week | 278 |
+| Stars | 72,266 |
+| Forks | 19,310 |
+| Stars this week | 285 |
 
 ---
 
@@ -106,156 +106,117 @@ The Go programming language
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,859 |
-| Forks | 20,236 |
-| Stars this week | 466 |
+| Stars | 139,858 |
+| Forks | 20,273 |
+| Stars this week | 532 |
 
 ---
 
-## 9. [nektos/act](https://github.com/nektos/act)
-
-Run your GitHub Actions locally 🚀
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 72,641 |
-| Forks | 2,119 |
-| Stars this week | 153 |
-
----
-
-## 10. [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo)
-
-OpenChoreo is an internal developer platform for Kubernetes
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 1,873 |
-| Forks | 286 |
-| Stars this week | 114 |
-
----
-
-## 11. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-
-Production-Grade Container Scheduling and Management
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 129,003 |
-| Forks | 45,080 |
-| Stars this week | 523 |
-
----
-
-## 12. [superplanehq/superplane](https://github.com/superplanehq/superplane) 🆕
-
-Open source factory for one-shot engineering
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 9,872 |
-| Forks | 703 |
-| Stars this week | 1,035 |
-
----
-
-## 13. [cli/cli](https://github.com/cli/cli)
+## 9. [cli/cli](https://github.com/cli/cli)
 
 GitHub’s official command line tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 46,958 |
-| Forks | 9,272 |
+| Stars | 46,976 |
+| Forks | 9,283 |
 | Stars this week | 116 |
 
 ---
 
-## 14. [grafana/grafana](https://github.com/grafana/grafana) 🆕
+## 10. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) 🆕
 
-The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 77,826 |
-| Forks | 14,959 |
-| Stars this week | 207 |
+| Language | Go |
+| Stars | 7,927 |
+| Forks | 1,248 |
+| Stars this week | 597 |
 
 ---
 
-## 15. [google-gemini/gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) 🆕
+## 11. [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo)
+
+OpenChoreo is an internal developer platform for Kubernetes
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,880 |
+| Forks | 286 |
+| Stars this week | 114 |
+
+---
+
+## 12. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+
+Production-Grade Container Scheduling and Management
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 129,013 |
+| Forks | 45,104 |
+| Stars this week | 580 |
+
+---
+
+## 13. [nektos/act](https://github.com/nektos/act)
+
+Run your GitHub Actions locally 🚀
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 72,652 |
+| Forks | 2,120 |
+| Stars this week | 152 |
+
+---
+
+## 14. [google-gemini/gemini-api-cli](https://github.com/google-gemini/gemini-api-cli)
 
 An (experimental) CLI for the Gemini API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 495 |
-| Forks | 77 |
-| Stars this week | 96 |
+| Stars | 498 |
+| Forks | 79 |
+| Stars this week | 94 |
 
 ---
 
-## 16. [gin-gonic/gin](https://github.com/gin-gonic/gin)
-
-Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 89,619 |
-| Forks | 8,917 |
-| Stars this week | 273 |
-
----
-
-## 17. [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+## 15. [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 
 TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 111,871 |
-| Forks | 14,702 |
-| Stars this week | 323 |
+| Stars | 111,785 |
+| Forks | 14,690 |
+| Stars this week | 316 |
 
 ---
 
-## 18. [fleetdm/fleet](https://github.com/fleetdm/fleet)
+## 16. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) 🆕
 
-Open device management
+Find, verify, and analyze leaked credentials
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,174 |
-| Forks | 1,132 |
-| Stars this week | 60 |
+| Stars | 29,230 |
+| Forks | 2,726 |
+| Stars this week | 362 |
 
 ---
 
-## 19. [gastownhall/beads](https://github.com/gastownhall/beads)
-
-Beads - A memory upgrade for your coding agent
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 28,665 |
-| Forks | 1,943 |
-| Stars this week | 211 |
-
----
-
-## 20. [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) 🆕
+## 17. [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)
 
 Google Cloud Client Libraries for Go.
 
@@ -264,6 +225,45 @@ Google Cloud Client Libraries for Go.
 | Language | Go |
 | Stars | 4,555 |
 | Forks | 1,605 |
-| Stars this week | 3 |
+| Stars this week | 5 |
+
+---
+
+## 18. [podman-container-tools/podman](https://github.com/podman-container-tools/podman) 🆕
+
+Podman: A tool for managing OCI containers and pods.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 33,243 |
+| Forks | 3,457 |
+| Stars this week | 77 |
+
+---
+
+## 19. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) 🆕
+
+Find secrets with Gitleaks 🔑
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 30,945 |
+| Forks | 2,365 |
+| Stars this week | 259 |
+
+---
+
+## 20. [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) 🆕
+
+VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 18,096 |
+| Forks | 1,808 |
+| Stars this week | 86 |
 
 ---

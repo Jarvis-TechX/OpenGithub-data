@@ -1,217 +1,243 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-11T06:05:18Z
-**Total Repositories:** 16
-**New Entries:** 12
+**Snapshot Time:** 2026-11-12T07:03:36Z
+**Total Repositories:** 18
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)
-
-NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 1,126 |
-| Forks | 137 |
-| Stars today | 77 |
-
----
-
-## 2. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 118,947 |
-| Forks | 6,919 |
-| Stars today | 270 |
-
----
-
-## 3. [Tencent/WeKnora](https://github.com/Tencent/WeKnora) 🆕
-
-Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 37,138 |
-| Forks | 5,133 |
-| Stars today | 117 |
-
----
-
-## 4. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) 🆕
+## 1. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
 
 scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,876 |
-| Forks | 1,237 |
-| Stars today | 121 |
+| Stars | 7,927 |
+| Forks | 1,248 |
+| Stars today | 60 |
 
 ---
 
-## 5. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+## 2. [evcc-io/evcc](https://github.com/evcc-io/evcc) 🆕
 
-Agent Substrate: the core system
+smart charging ☀️🚘
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,418 |
-| Forks | 722 |
-| Stars today | 87 |
+| Stars | 7,598 |
+| Forks | 1,652 |
+| Stars today | 18 |
 
 ---
 
-## 6. [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) 🆕
+## 3. [henrygd/beszel](https://github.com/henrygd/beszel) 🆕
 
-Information gathering framework for phone numbers
+Lightweight server monitoring with historical data, docker stats, and alerts.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 18,520 |
-| Forks | 6,309 |
-| Stars today | 33 |
+| Stars | 27,236 |
+| Forks | 1,172 |
+| Stars today | 67 |
 
 ---
 
-## 7. [github/github-mcp-server](https://github.com/github/github-mcp-server) 🆕
-
-GitHub's official MCP Server
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 34,378 |
-| Forks | 5,326 |
-| Stars today | 13 |
-
----
-
-## 8. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) 🆕
+## 4. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 
 Find, verify, and analyze leaked credentials
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 29,183 |
-| Forks | 2,717 |
-| Stars today | 96 |
+| Stars | 29,230 |
+| Forks | 2,726 |
+| Stars today | 57 |
 
 ---
 
-## 9. [github/gh-aw](https://github.com/github/gh-aw) 🆕
+## 5. [Tencent/LoopForge](https://github.com/Tencent/LoopForge) 🆕
 
-GitHub Agentic Workflows
+Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,613 |
-| Forks | 625 |
-| Stars today | 11 |
+| Stars | 375 |
+| Forks | 72 |
+| Stars today | 94 |
 
 ---
 
-## 10. [mikefarah/yq](https://github.com/mikefarah/yq)
+## 6. [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) 🆕
 
-yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor
+Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,265 |
-| Forks | 1,296 |
-| Stars today | 9 |
+| Stars | 32,815 |
+| Forks | 3,994 |
+| Stars today | 50 |
 
 ---
 
-## 11. [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) 🆕
+## 7. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) 🆕
 
-🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 25,129 |
-| Forks | 7,103 |
-| Stars today | 4 |
+| Stars | 49,865 |
+| Forks | 3,674 |
+| Stars today | 62 |
 
 ---
 
-## 12. [k0sproject/k0s](https://github.com/k0sproject/k0s) 🆕
+## 8. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) 🆕
 
-k0s - The Zero Friction Kubernetes
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,586 |
-| Forks | 541 |
-| Stars today | 6 |
+| Stars | 42,843 |
+| Forks | 6,139 |
+| Stars today | 41 |
 
 ---
 
-## 13. [infiniflow/ragflow](https://github.com/infiniflow/ragflow) 🆕
+## 9. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
 
-RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
+Agent Substrate: the core system
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 93,992 |
-| Forks | 11,299 |
-| Stars today | 95 |
+| Stars | 6,488 |
+| Forks | 732 |
+| Stars today | 90 |
 
 ---
 
-## 14. [dsx-ai-factory/run-ai](https://github.com/dsx-ai-factory/run-ai) 🆕
+## 10. [unstablebuild/rune](https://github.com/unstablebuild/rune) 🆕
 
-Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment.
+a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 742 |
-| Forks | 120 |
-| Stars today | 12 |
+| Stars | 1,757 |
+| Forks | 117 |
+| Stars today | 39 |
 
 ---
 
-## 15. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) 🆕
+## 11. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
 
-Find secrets with Gitleaks 🔑
+Make humans and AI agents work as one team — open-source and self-hostable.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,888 |
-| Forks | 2,362 |
-| Stars today | 34 |
+| Stars | 55,795 |
+| Forks | 7,368 |
+| Stars today | 200 |
 
 ---
 
-## 16. [opencode-ai/opencode](https://github.com/opencode-ai/opencode) 🆕
+## 12. [everywall/ladder](https://github.com/everywall/ladder) 🆕
+
+Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 9,417 |
+| Forks | 542 |
+| Stars today | 3 |
+
+---
+
+## 13. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+
+Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 37,257 |
+| Forks | 5,151 |
+| Stars today | 104 |
+
+---
+
+## 14. [kagent-dev/kagent](https://github.com/kagent-dev/kagent) 🆕
+
+Cloud Native Agentic AI | Discord:https://bit.ly/kagentdiscord
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 4,254 |
+| Forks | 902 |
+| Stars today | 17 |
+
+---
+
+## 15. [opencode-ai/opencode](https://github.com/opencode-ai/opencode)
 
 A powerful AI coding agent. Built for the terminal.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 13,885 |
-| Forks | 2,472 |
-| Stars today | 3 |
+| Stars | 13,889 |
+| Forks | 2,473 |
+| Stars today | 8 |
+
+---
+
+## 16. [devaccuracy/ledgerforge](https://github.com/devaccuracy/ledgerforge) 🆕
+
+The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 222 |
+| Forks | 29 |
+| Stars today | 34 |
+
+---
+
+## 17. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 🆕
+
+Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 58,339 |
+| Forks | 8,948 |
+| Stars today | 129 |
+
+---
+
+## 18. [keploy/keploy](https://github.com/keploy/keploy) 🆕
+
+Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 19,719 |
+| Forks | 2,452 |
+| Stars today | 47 |
 
 ---

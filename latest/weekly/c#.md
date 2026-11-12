@@ -1,21 +1,21 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-11T06:05:46Z
+**Snapshot Time:** 2026-11-12T07:04:03Z
 **Total Repositories:** 17
-**New Entries:** 8
+**New Entries:** 4
 **Quality Score:** 97.65/100
 
 ---
 
-## 1. [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) 🆕
+## 1. [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,344 |
-| Forks | 354 |
-| Stars this week | 4,450 |
+| Stars | 9,619 |
+| Forks | 365 |
+| Stars this week | 3,400 |
 
 ---
 
@@ -26,9 +26,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,458 |
-| Forks | 494 |
-| Stars this week | 691 |
+| Stars | 11,552 |
+| Forks | 500 |
+| Stars this week | 722 |
 
 ---
 
@@ -39,143 +39,130 @@ ShareX is a free and open-source application that enables users to capture or re
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,938 |
-| Forks | 4,060 |
-| Stars this week | 350 |
+| Stars | 40,971 |
+| Forks | 4,068 |
+| Stars this week | 364 |
 
 ---
 
-## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) 🆕
+## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
 
 FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,015 |
+| Stars | 7,041 |
 | Forks | 244 |
-| Stars this week | 318 |
+| Stars this week | 335 |
 
 ---
 
-## 5. [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) 🆕
+## 5. [dotnet/skills](https://github.com/dotnet/skills) 🆕
+
+Repository for skills to assist AI coding agents with .NET and C#
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,959 |
+| Forks | 468 |
+| Stars this week | 114 |
+
+---
+
+## 6. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) 🆕
+
+🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 27,524 |
+| Forks | 1,754 |
+| Stars this week | 144 |
+
+---
+
+## 7. [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
 
 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,925 |
-| Forks | 766 |
-| Stars this week | 137 |
+| Stars | 14,934 |
+| Forks | 765 |
+| Stars this week | 141 |
 
 ---
 
-## 6. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
-
-A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 8,819 |
-| Forks | 474 |
-| Stars this week | 706 |
-
----
-
-## 7. [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
-
-Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 31,801 |
-| Forks | 2,894 |
-| Stars this week | 63 |
-
----
-
-## 8. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) 🆕
+## 8. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
 
 Telegram for Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,524 |
-| Forks | 714 |
-| Stars this week | 33 |
+| Stars | 5,526 |
+| Forks | 713 |
+| Stars this week | 35 |
 
 ---
 
-## 9. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) 🆕
+## 9. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck) 🆕
+
+A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 575 |
+| Forks | 53 |
+| Stars this week | 149 |
+
+---
+
+## 10. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
 A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,185 |
-| Forks | 4,089 |
-| Stars this week | 107 |
+| Stars | 39,215 |
+| Forks | 4,095 |
+| Stars this week | 117 |
 
 ---
 
-## 10. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+## 11. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
 
-The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
+A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,632 |
-| Forks | 291 |
-| Stars this week | 142 |
+| Stars | 8,983 |
+| Forks | 482 |
+| Stars this week | 710 |
 
 ---
 
-## 11. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) 🆕
+## 12. [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
 
-Windows/macOS/Linux GUI client for GIT users
+Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,449 |
-| Forks | 606 |
-| Stars this week | 92 |
+| Stars | 31,805 |
+| Forks | 2,894 |
+| Stars this week | 62 |
 
 ---
 
-## 12. [dotnet/roslyn](https://github.com/dotnet/roslyn) 🆕
-
-The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 20,774 |
-| Forks | 4,372 |
-| Stars this week | 20 |
-
----
-
-## 13. [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
-
-Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 12,099 |
-| Forks | 701 |
-| Stars this week | 99 |
-
----
-
-## 14. [actions/runner](https://github.com/actions/runner)
+## 13. [actions/runner](https://github.com/actions/runner)
 
 The Runner for GitHub Actions 🚀
 
@@ -184,45 +171,58 @@ The Runner for GitHub Actions 🚀
 | Language | C# |
 | Stars | 6,391 |
 | Forks | 1,487 |
-| Stars this week | 18 |
+| Stars this week | 22 |
 
 ---
 
-## 15. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+## 14. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 
 The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,859 |
+| Stars | 19,866 |
 | Forks | 4,518 |
-| Stars this week | 44 |
+| Stars this week | 48 |
 
 ---
 
-## 16. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox) 🆕
+## 15. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+
+Windows/macOS/Linux GUI client for GIT users
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,457 |
+| Forks | 612 |
+| Stars this week | 100 |
+
+---
+
+## 16. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
+
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 38,511 |
+| Forks | 11,570 |
+| Stars this week | 27 |
+
+---
+
+## 17. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox)
 
 一款面向安卓开发的多功能玩机工具箱
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 855 |
+| Stars | 871 |
 | Forks | 76 |
-| Stars this week | 125 |
-
----
-
-## 17. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
-
-Advanced UX and interoperability extension for Wand (WeMod) app
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 33,600 |
-| Forks | 87,876 |
-| Stars this week | 834 |
+| Stars this week | 123 |
 
 ---

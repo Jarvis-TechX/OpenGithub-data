@@ -1,23 +1,23 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-11T06:05:41Z
-**Total Repositories:** 11
-**New Entries:** 6
-**Quality Score:** 96.36/100
+**Snapshot Time:** 2026-11-12T07:03:57Z
+**Total Repositories:** 12
+**New Entries:** 3
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [lz4/lz4](https://github.com/lz4/lz4) 🆕
+## 1. [lz4/lz4](https://github.com/lz4/lz4)
 
 Extremely Fast Compression algorithm
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,756 |
-| Forks | 1,652 |
-| Stars this week | 569 |
+| Stars | 12,778 |
+| Forks | 1,658 |
+| Stars this week | 588 |
 
 ---
 
@@ -28,9 +28,9 @@ A hierarchical inference engine for frontier MoE models: hot experts on the GPU 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 49,807 |
-| Forks | 5,867 |
-| Stars this week | 2,605 |
+| Stars | 50,040 |
+| Forks | 5,892 |
+| Stars this week | 2,379 |
 
 ---
 
@@ -41,9 +41,9 @@ General purpose TLS and crypto library
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,409 |
-| Forks | 11,595 |
-| Stars this week | 280 |
+| Stars | 31,424 |
+| Forks | 11,598 |
+| Stars this week | 277 |
 
 ---
 
@@ -54,85 +54,87 @@ A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 11,683 |
-| Forks | 1,811 |
-| Stars this week | 1,794 |
+| Stars | 11,850 |
+| Forks | 1,829 |
+| Stars this week | 1,757 |
 
 ---
 
-## 5. [curl/curl](https://github.com/curl/curl)
-
-A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 43,470 |
-| Forks | 7,498 |
-| Stars this week | 143 |
-
----
-
-## 6. [mpv-player/mpv](https://github.com/mpv-player/mpv) 🆕
+## 5. [mpv-player/mpv](https://github.com/mpv-player/mpv)
 
 🎥 Command line media player
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 38,056 |
-| Forks | 3,649 |
-| Stars this week | 388 |
+| Stars | 38,079 |
+| Forks | 3,651 |
+| Stars this week | 397 |
 
 ---
 
-## 7. [madler/zlib](https://github.com/madler/zlib) 🆕
+## 6. [lvgl/lvgl](https://github.com/lvgl/lvgl) 🆕
+
+LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 25,150 |
+| Forks | 4,448 |
+| Stars this week | 70 |
+
+---
+
+## 7. [madler/zlib](https://github.com/madler/zlib)
 
 A massively spiffy yet delicately unobtrusive compression library.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,218 |
-| Forks | 2,898 |
-| Stars this week | 31 |
+| Stars | 7,220 |
+| Forks | 2,900 |
+| Stars this week | 34 |
 
 ---
 
-## 8. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,980 |
-| Forks | 997 |
-| Stars this week | 141 |
-
----
-
-## 9. [openwrt/openwrt](https://github.com/openwrt/openwrt) 🆕
+## 8. [openwrt/openwrt](https://github.com/openwrt/openwrt)
 
 This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 29,171 |
-| Forks | 13,406 |
-| Stars this week | 137 |
+| Stars | 29,186 |
+| Forks | 13,415 |
+| Stars this week | 118 |
 
 ---
 
-## 10. [espressif/esp-idf](https://github.com/espressif/esp-idf) 🆕
+## 9. [curl/curl](https://github.com/curl/curl)
 
-Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 19,480 |
-| Forks | 8,589 |
-| Stars this week | 64 |
+| Stars | 43,488 |
+| Forks | 7,498 |
+| Stars this week | 144 |
+
+---
+
+## 10. [fluent/fluent-bit](https://github.com/fluent/fluent-bit) 🆕
+
+Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 8,187 |
+| Forks | 2,035 |
+| Stars this week | 8 |
 
 ---
 
@@ -143,8 +145,21 @@ Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scala
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,052 |
-| Forks | 10,402 |
-| Stars this week | 72 |
+| Stars | 17,064 |
+| Forks | 10,418 |
+| Stars this week | 75 |
+
+---
+
+## 12. [meta/zstd](https://github.com/meta/zstd) 🆕
+
+Zstandard - Fast real-time compression algorithm
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 28,241 |
+| Forks | 2,684 |
+| Stars this week | 78 |
 
 ---

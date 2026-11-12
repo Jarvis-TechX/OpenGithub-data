@@ -1,152 +1,163 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-11T06:05:42Z
-**Total Repositories:** 11
-**New Entries:** 4
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-12T07:03:59Z
+**Total Repositories:** 12
+**New Entries:** 5
+**Quality Score:** 96.67/100
 
 ---
 
-## 1. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) 🆕
+## 1. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
 
 Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,471 |
-| Forks | 2,155 |
-| Stars this week | 1,130 |
+| Stars | 17,690 |
+| Forks | 2,174 |
+| Stars this week | 1,535 |
 
 ---
 
-## 2. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-
-Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 40,607 |
-| Forks | 2,172 |
-| Stars this week | 475 |
-
----
-
-## 3. [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-
-ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 22,277 |
-| Forks | 4,436 |
-| Stars this week | 67 |
-
----
-
-## 4. [nlohmann/json](https://github.com/nlohmann/json)
+## 2. [nlohmann/json](https://github.com/nlohmann/json)
 
 JSON for Modern C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 50,872 |
-| Forks | 7,518 |
-| Stars this week | 52 |
+| Stars | 50,880 |
+| Forks | 7,521 |
+| Stars this week | 58 |
 
 ---
 
-## 5. [godotengine/godot](https://github.com/godotengine/godot)
+## 3. [godotengine/godot](https://github.com/godotengine/godot)
 
 Godot Engine – Multi-platform 2D and 3D game engine
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 119,961 |
-| Forks | 27,432 |
-| Stars this week | 507 |
+| Stars | 120,010 |
+| Forks | 27,454 |
+| Stars this week | 504 |
 
 ---
 
-## 6. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+## 4. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
 Amnezia VPN Client (Desktop+Mobile)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 15,876 |
-| Forks | 1,283 |
-| Stars this week | 205 |
+| Stars | 15,892 |
+| Forks | 1,287 |
+| Stars this week | 185 |
 
 ---
 
-## 7. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+## 5. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 LLM inference in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 133,992 |
-| Forks | 25,357 |
-| Stars this week | 789 |
+| Stars | 134,188 |
+| Forks | 25,458 |
+| Stars this week | 838 |
 
 ---
 
-## 8. [esphome/esphome](https://github.com/esphome/esphome) 🆕
+## 6. [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
 
-ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,089 |
-| Forks | 5,794 |
-| Stars this week | 79 |
+| Stars | 22,291 |
+| Forks | 4,442 |
+| Stars this week | 74 |
 
 ---
 
-## 9. [fmtlib/fmt](https://github.com/fmtlib/fmt) 🆕
+## 7. [opencv/opencv](https://github.com/opencv/opencv) 🆕
 
-A modern formatting library
+Open Source Computer Vision Library
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 25,920 |
-| Forks | 3,098 |
-| Stars this week | 19 |
+| Stars | 91,540 |
+| Forks | 57,118 |
+| Stars this week | 125 |
 
 ---
 
-## 10. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
-
-G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+## 8. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,417 |
-| Forks | 3,457 |
-| Stars this week | 114 |
+| Stars | 585 |
+| Forks | 60 |
+| Stars this week | 102 |
 
 ---
 
-## 11. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) 🆕
+## 9. [facebookresearch/faiss](https://github.com/facebookresearch/faiss) 🆕
+
+A library for efficient similarity search and clustering of dense vectors.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 41,467 |
+| Forks | 4,612 |
+| Stars this week | 190 |
+
+---
+
+## 10. [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) 🆕
+
+Powerful yet simple to use screenshot software 🖥️ 📸
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 31,518 |
+| Forks | 2,100 |
+| Stars this week | 119 |
+
+---
+
+## 11. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) 🆕
+
+ClickHouse® is a real-time analytics database management system
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 50,892 |
+| Forks | 9,251 |
+| Stars this week | 153 |
+
+---
+
+## 12. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker)
 
 DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,467 |
-| Forks | 75 |
-| Stars this week | 600 |
+| Stars | 2,501 |
+| Forks | 78 |
+| Stars this week | 624 |
 
 ---

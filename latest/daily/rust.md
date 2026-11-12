@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-11T06:05:19Z
-**Total Repositories:** 11
-**New Entries:** 9
+**Snapshot Time:** 2026-11-12T07:03:37Z
+**Total Repositories:** 9
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,138 +15,112 @@ Browser automation CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 49,409 |
-| Forks | 3,460 |
-| Stars today | 780 |
+| Stars | 50,045 |
+| Forks | 3,492 |
+| Stars today | 708 |
 
 ---
 
-## 2. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) 🆕
-
-A batteries-included framework for building web apps
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 6,933 |
-| Forks | 307 |
-| Stars today | 192 |
-
----
-
-## 3. [ruvnet/RuView](https://github.com/ruvnet/RuView) 🆕
+## 2. [ruvnet/RuView](https://github.com/ruvnet/RuView)
 
 π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 103,945 |
-| Forks | 13,525 |
-| Stars today | 627 |
+| Stars | 104,089 |
+| Forks | 13,547 |
+| Stars today | 222 |
 
 ---
 
-## 4. [crmne/spotifast](https://github.com/crmne/spotifast) 🆕
+## 3. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
 
-Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+A batteries-included framework for building web apps
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 10,164 |
-| Forks | 599 |
-| Stars today | 87 |
+| Stars | 7,130 |
+| Forks | 321 |
+| Stars today | 451 |
 
 ---
 
-## 5. [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) 🆕
+## 4. [claration/impactor](https://github.com/claration/impactor) 🆕
 
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,983 |
-| Forks | 479 |
-| Stars today | 35 |
+| Stars | 3,827 |
+| Forks | 272 |
+| Stars today | 22 |
 
 ---
 
-## 6. [ooolabdev/ooosplat](https://github.com/ooolabdev/ooosplat) 🆕
-
-A local desktop app that turns videos and images into 3D Gaussian Splats in one click.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,453 |
-| Forks | 290 |
-| Stars today | 47 |
-
----
-
-## 7. [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) 🆕
+## 5. [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 
 Comfortably monitor your network traffic 🕵️‍♂️
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 42,361 |
-| Forks | 1,992 |
-| Stars today | 139 |
+| Stars | 42,514 |
+| Forks | 1,999 |
+| Stars today | 90 |
 
 ---
 
-## 8. [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) 🆕
+## 6. [ShayanAbbas1/dbdelve](https://github.com/ShayanAbbas1/dbdelve) 🆕
 
-Truly independent web browser
+Fast and lightweight DB Client made in Rust and GPUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 67,047 |
-| Forks | 3,203 |
-| Stars today | 74 |
+| Stars | 1,120 |
+| Forks | 59 |
+| Stars today | 101 |
 
 ---
 
-## 9. [alvr-org/ALVR](https://github.com/alvr-org/ALVR) 🆕
+## 7. [pola-rs/polars](https://github.com/pola-rs/polars) 🆕
 
-Stream VR games from your PC to your headset via Wi-Fi
+Extremely fast Query Engine for DataFrames, written in Rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 8,082 |
-| Forks | 765 |
-| Stars today | 8 |
+| Stars | 40,330 |
+| Forks | 3,238 |
+| Stars today | 21 |
 
 ---
 
-## 10. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+## 8. [ja7ad/hydra](https://github.com/ja7ad/hydra) 🆕
+
+A fast, resilient, multi-source file retriever and download engine
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 1,425 |
+| Forks | 86 |
+| Stars today | 21 |
+
+---
+
+## 9. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 
 An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 128,965 |
-| Forks | 20,536 |
-| Stars today | 135 |
-
----
-
-## 11. [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) 🆕
-
-Hundreds of models & providers. One command to find what runs on your hardware.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 38,903 |
-| Forks | 2,516 |
-| Stars today | 47 |
+| Stars | 129,117 |
+| Forks | 20,586 |
+| Stars today | 157 |
 
 ---

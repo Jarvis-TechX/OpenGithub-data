@@ -1,202 +1,152 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-11T06:05:23Z
-**Total Repositories:** 15
-**New Entries:** 14
-**Quality Score:** 97.33/100
+**Snapshot Time:** 2026-11-12T07:03:41Z
+**Total Repositories:** 11
+**New Entries:** 10
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) 🆕
+## 1. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 66,832 |
-| Forks | 21,486 |
-| Stars today | 39 |
+| Stars | 67,144 |
+| Forks | 21,520 |
+| Stars today | 51 |
 
 ---
 
-## 2. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) 🆕
+## 2. [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) 🆕
 
-Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
+一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,219 |
-| Forks | 79 |
-| Stars today | 20 |
+| Stars | 48,437 |
+| Forks | 16,215 |
+| Stars today | 12 |
 
 ---
 
-## 3. [Keeperorowner/NagramXF](https://github.com/Keeperorowner/NagramXF) 🆕
+## 3. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) 🆕
 
-A fork of NagramX with additional features.
+Jenkins automation server
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,137 |
-| Forks | 82 |
-| Stars today | 6 |
+| Stars | 26,765 |
+| Forks | 9,825 |
+| Stars today | 15 |
 
 ---
 
-## 4. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) 🆕
+## 4. [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) 🆕
 
-Dual pane Android file manager with focus on APKs
+The ZAP by Checkmarx Core project
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 542 |
-| Forks | 75 |
+| Stars | 16,171 |
+| Forks | 2,704 |
+| Stars today | 12 |
+
+---
+
+## 5. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) 🆕
+
+Spring Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 60,314 |
+| Forks | 38,797 |
+| Stars today | 8 |
+
+---
+
+## 6. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
+
+Build distributed, production-grade, long-running agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 6,345 |
+| Forks | 1,599 |
+| Stars today | 17 |
+
+---
+
+## 7. [apache/kafka](https://github.com/apache/kafka) 🆕
+
+Apache Kafka - A distributed event streaming platform
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 34,213 |
+| Forks | 15,681 |
 | Stars today | 9 |
 
 ---
 
-## 5. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) 🆕
+## 8. [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) 🆕
 
-Ghidra is a software reverse engineering (SRE) framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 99,418 |
-| Forks | 11,285 |
-| Stars today | 287 |
-
----
-
-## 6. [zed-0xff/ZombieBuddy](https://github.com/zed-0xff/ZombieBuddy) 🆕
-
-Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.
+Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 338 |
-| Forks | 87 |
-| Stars today | 3 |
-
----
-
-## 7. [RikkaApps/Sui](https://github.com/RikkaApps/Sui) 🆕
-
-Modern super user interface implementation on Android.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 4,364 |
-| Forks | 488 |
-| Stars today | 1 |
-
----
-
-## 8. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) 🆕
-
-LSPosed Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 25,427 |
-| Forks | 3,589 |
-| Stars today | 22 |
-
----
-
-## 9. [zalexdev/strykerapp](https://github.com/zalexdev/strykerapp) 🆕
-
-Magic tool for pentest from your android device!
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 2,033 |
-| Forks | 300 |
-| Stars today | 4 |
-
----
-
-## 10. [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata)
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,499 |
-| Forks | 235 |
+| Stars | 4,909 |
+| Forks | 392 |
 | Stars today | 2 |
 
 ---
 
-## 11. [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) 🆕
+## 9. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
 
-Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
+Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,806 |
-| Forks | 1,976 |
-| Stars today | 6 |
+| Stars | 690 |
+| Forks | 114 |
+| Stars today | 8 |
 
 ---
 
-## 12. [iflytek/skillhub](https://github.com/iflytek/skillhub) 🆕
+## 10. [apache/fineract](https://github.com/apache/fineract) 🆕
 
-Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
+Apache Fineract
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,393 |
-| Forks | 820 |
-| Stars today | 7 |
+| Stars | 2,621 |
+| Forks | 2,956 |
+| Stars today | 3 |
 
 ---
 
-## 13. [DrKLO/Telegram](https://github.com/DrKLO/Telegram) 🆕
+## 11. [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) 🆕
 
-Telegram for Android source
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 30,253 |
-| Forks | 10,516 |
-| Stars today | 7 |
-
----
-
-## 14. [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) 🆕
-
-A podcast manager for Android
+SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 8,289 |
-| Forks | 1,855 |
-| Stars today | 4 |
-
----
-
-## 15. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) 🆕
-
-Mac.apk: Run Android apps natively on Apple Silicon Macs
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 4,140 |
-| Forks | 172 |
-| Stars today | 31 |
+| Stars | 740 |
+| Forks | 35 |
+| Stars today | 13 |
 
 ---

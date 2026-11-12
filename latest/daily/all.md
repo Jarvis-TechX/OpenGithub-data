@@ -1,10 +1,10 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-11T06:05:10Z
-**Total Repositories:** 12
-**New Entries:** 6
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-12T07:03:28Z
+**Total Repositories:** 10
+**New Entries:** 5
+**Quality Score:** 93.00/100
 
 ---
 
@@ -15,151 +15,122 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 23,504 |
-| Forks | 1,849 |
-| Stars today | 3,108 |
+| Stars | 25,525 |
+| Forks | 1,987 |
+| Stars today | 2,776 |
 
 ---
 
-## 2. [anthropics/skills](https://github.com/anthropics/skills)
+## 2. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) 🆕
 
-Public repository for Agent Skills
+LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 192,566 |
-| Forks | 22,668 |
-| Stars today | 1,679 |
+| Stars | 70,692 |
+| Forks | 56,990 |
+| Stars today | 278 |
 
 ---
 
-## 3. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 🆕
+## 3. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 2,004 |
+| Forks | 151 |
+| Stars today | 159 |
+
+---
+
+## 4. [shadcn/improve](https://github.com/shadcn/improve) 🆕
+
+Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+| Metric | Value |
+|--------|-------|
+| Stars | 11,165 |
+| Forks | 453 |
+| Stars today | 361 |
+
+---
+
+## 5. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 115,335 |
-| Forks | 12,109 |
-| Stars today | 465 |
+| Stars | 116,160 |
+| Forks | 12,172 |
+| Stars today | 787 |
 
 ---
 
-## 4. [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) 🆕
-
-A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 20,614 |
-| Forks | 3,477 |
-| Stars today | 531 |
-
----
-
-## 5. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) 🆕
-
-Multi-Joint dynamics with Contact. A general purpose physics simulator.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 17,471 |
-| Forks | 2,155 |
-| Stars today | 456 |
-
----
-
-## 6. [we-promise/sure](https://github.com/we-promise/sure) 🆕
-
-The personal finance app for everyone (by everyone)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 12,193 |
-| Forks | 904 |
-| Stars today | 159 |
-
----
-
-## 7. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) 🆕
-
-Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 6,801 |
-| Forks | 438 |
-| Stars today | 790 |
-
----
-
-## 8. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+## 6. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 
 Browser automation CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 49,409 |
-| Forks | 3,460 |
-| Stars today | 780 |
+| Stars | 50,045 |
+| Forks | 3,492 |
+| Stars today | 708 |
 
 ---
 
-## 9. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+## 7. [we-promise/sure](https://github.com/we-promise/sure)
 
-Hunt down social media accounts by username across social networks
+The personal finance app for everyone (by everyone)
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 13,207 |
+| Forks | 974 |
+| Stars today | 1,078 |
+
+---
+
+## 8. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
+
+Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 109,344 |
-| Forks | 12,690 |
-| Stars today | 2,393 |
+| Stars | 7,537 |
+| Forks | 459 |
+| Stars today | 645 |
 
 ---
 
-## 10. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) 🆕
+## 9. [openai/codex-security](https://github.com/openai/codex-security) 🆕
 
-A batteries-included framework for building web apps
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 6,933 |
-| Forks | 307 |
-| Stars today | 192 |
-
----
-
-## 11. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
-
-A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,488 |
-| Forks | 536 |
-| Stars today | 375 |
+| Stars | 11,936 |
+| Forks | 950 |
+| Stars today | 52 |
 
 ---
 
-## 12. [mattpocock/skills](https://github.com/mattpocock/skills)
+## 10. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) 🆕
 
-Skills for Real Engineers. Straight from my .agents directory.
+All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
-| Language | Shell |
-| Stars | 321,173 |
-| Forks | 26,930 |
-| Stars today | 1,225 |
+| Language | Java |
+| Stars | 67,144 |
+| Forks | 21,520 |
+| Stars today | 51 |
 
 ---

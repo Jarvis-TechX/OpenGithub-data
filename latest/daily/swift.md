@@ -1,36 +1,36 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-11T06:05:27Z
+**Snapshot Time:** 2026-11-12T07:03:44Z
 **Total Repositories:** 11
 **New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) 🆕
+## 1. [YangJiiii/3105](https://github.com/YangJiiii/3105) 🆕
 
-Run iOS apps without actually installing them!
+Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,065 |
-| Forks | 1,307 |
-| Stars today | 59 |
+| Stars | 987 |
+| Forks | 191 |
+| Stars today | 4 |
 
 ---
 
-## 2. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app) 🆕
+## 2. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) 🆕
 
-Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
+iOS 27 MobileGestalt editor
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,851 |
-| Forks | 101 |
-| Stars today | 44 |
+| Stars | 998 |
+| Forks | 78 |
+| Stars today | 47 |
 
 ---
 
@@ -41,112 +41,112 @@ Free up your Mac. Safely. A free, open-source native Mac app that clears the cac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 118,237 |
-| Forks | 10,193 |
-| Stars today | 80 |
+| Stars | 118,323 |
+| Forks | 10,226 |
+| Stars today | 83 |
 
 ---
 
-## 4. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) 🆕
+## 4. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
 
-Free and open-source macOS menu bar toolkit.
+Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 34,052 |
-| Forks | 1,705 |
-| Stars today | 166 |
+| Stars | 15,345 |
+| Forks | 911 |
+| Stars today | 283 |
 
 ---
 
-## 5. [momenbasel/PureMac](https://github.com/momenbasel/PureMac) 🆕
+## 5. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,735 |
-| Forks | 453 |
-| Stars today | 21 |
+| Stars | 14,112 |
+| Forks | 1,318 |
+| Stars today | 50 |
 
 ---
 
-## 6. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
+## 6. [steipete/CodexBar](https://github.com/steipete/CodexBar) 🆕
 
-AI coding assistant for Xcode
+Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,384 |
-| Forks | 2,095 |
-| Stars today | 3 |
+| Stars | 23,123 |
+| Forks | 2,224 |
+| Stars today | 20 |
 
 ---
 
-## 7. [pauljoda/Crest](https://github.com/pauljoda/Crest) 🆕
+## 7. [p0deje/Maccy](https://github.com/p0deje/Maccy) 🆕
+
+Lightweight clipboard manager for macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 22,287 |
+| Forks | 1,282 |
+| Stars today | 7 |
+
+---
+
+## 8. [altstoreio/AltStore](https://github.com/altstoreio/AltStore) 🆕
+
+AltStore is an alternative app store for non-jailbroken iOS devices.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,933 |
+| Forks | 1,733 |
+| Stars today | 17 |
+
+---
+
+## 9. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) 🆕
+
+macOS video editor built for AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,733 |
+| Forks | 1,158 |
+| Stars today | 7 |
+
+---
+
+## 10. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit) 🆕
+
+Conduit — native SwiftUI iOS client for Hermes Agent
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 579 |
+| Forks | 82 |
+| Stars today | 6 |
+
+---
+
+## 11. [pauljoda/Crest](https://github.com/pauljoda/Crest)
 
 An open source browser for Mac, iPhone, and iPad.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,229 |
-| Forks | 118 |
-| Stars today | 26 |
-
----
-
-## 8. [apple/container](https://github.com/apple/container) 🆕
-
-A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 51,144 |
-| Forks | 1,814 |
-| Stars today | 20 |
-
----
-
-## 9. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
-
-无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,802 |
-| Forks | 288 |
-| Stars today | 44 |
-
----
-
-## 10. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) 🆕
-
-An an app that installs Sidestore on iOS 27, fully on-device
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,376 |
-| Forks | 111 |
-| Stars today | 11 |
-
----
-
-## 11. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
-
-A native macOS launcher for everyday productivity. Lightweight and open source.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,366 |
-| Forks | 588 |
-| Stars today | 41 |
+| Stars | 1,253 |
+| Forks | 120 |
+| Stars today | 24 |
 
 ---
