@@ -1,152 +1,165 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-12T07:03:44Z
-**Total Repositories:** 11
-**New Entries:** 8
+**Snapshot Time:** 2026-11-13T06:34:20Z
+**Total Repositories:** 12
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [YangJiiii/3105](https://github.com/YangJiiii/3105) 🆕
-
-Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 987 |
-| Forks | 191 |
-| Stars today | 4 |
-
----
-
-## 2. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) 🆕
-
-iOS 27 MobileGestalt editor
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 998 |
-| Forks | 78 |
-| Stars today | 47 |
-
----
-
-## 3. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-
- This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 118,323 |
-| Forks | 10,226 |
-| Stars today | 83 |
-
----
-
-## 4. [xtool-org/xtool](https://github.com/xtool-org/xtool) 🆕
+## 1. [xtool-org/xtool](https://github.com/xtool-org/xtool)
 
 Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,345 |
-| Forks | 911 |
-| Stars today | 283 |
+| Stars | 15,416 |
+| Forks | 921 |
+| Stars today | 96 |
 
 ---
 
-## 5. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 2. [apple/container](https://github.com/apple/container) 🆕
+
+A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 51,348 |
+| Forks | 1,823 |
+| Stars today | 149 |
+
+---
+
+## 3. [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) 🆕
+
+Process Explorer for MacOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 851 |
+| Forks | 23 |
+| Stars today | 243 |
+
+---
+
+## 4. [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) 🆕
+
+Protect your SSH keys with your Mac's Secure Enclave
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,385 |
+| Forks | 236 |
+| Stars today | 43 |
+
+---
+
+## 5. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
+
+iOS 27 MobileGestalt editor
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,021 |
+| Forks | 81 |
+| Stars today | 41 |
+
+---
+
+## 6. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) 🆕
+
+Free and open-source macOS menu bar toolkit.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 34,510 |
+| Forks | 1,740 |
+| Stars today | 276 |
+
+---
+
+## 7. [sozercan/kaset](https://github.com/sozercan/kaset) 🆕
+
+📼 The missing YouTube and YouTube Music macOS app
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,585 |
+| Forks | 197 |
+| Stars today | 15 |
+
+---
+
+## 8. [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) 🆕
+
+A cosy home for your LLMs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,790 |
+| Forks | 145 |
+| Stars today | 12 |
+
+---
+
+## 9. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
 Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,112 |
-| Forks | 1,318 |
-| Stars today | 50 |
+| Stars | 14,161 |
+| Forks | 1,323 |
+| Stars today | 29 |
 
 ---
 
-## 6. [steipete/CodexBar](https://github.com/steipete/CodexBar) 🆕
+## 10. [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) 🆕
 
-Show usage stats for OpenAI Codex and Claude Code, without having to login.
+Native Jellyfin Client for iOS and tvOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 23,123 |
-| Forks | 2,224 |
-| Stars today | 20 |
+| Stars | 4,277 |
+| Forks | 658 |
+| Stars today | 2 |
 
 ---
 
-## 7. [p0deje/Maccy](https://github.com/p0deje/Maccy) 🆕
+## 11. [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) 🆕
 
-Lightweight clipboard manager for macOS
+Powerful macOS menu bar customization tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 22,287 |
-| Forks | 1,282 |
-| Stars today | 7 |
+| Stars | 4,789 |
+| Forks | 145 |
+| Stars today | 8 |
 
 ---
 
-## 8. [altstoreio/AltStore](https://github.com/altstoreio/AltStore) 🆕
+## 12. [exelban/stats](https://github.com/exelban/stats) 🆕
 
-AltStore is an alternative app store for non-jailbroken iOS devices.
+macOS system monitor in your menu bar
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,933 |
-| Forks | 1,733 |
-| Stars today | 17 |
-
----
-
-## 9. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) 🆕
-
-macOS video editor built for AI
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 14,733 |
-| Forks | 1,158 |
-| Stars today | 7 |
-
----
-
-## 10. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit) 🆕
-
-Conduit — native SwiftUI iOS client for Hermes Agent
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 579 |
-| Forks | 82 |
-| Stars today | 6 |
-
----
-
-## 11. [pauljoda/Crest](https://github.com/pauljoda/Crest)
-
-An open source browser for Mac, iPhone, and iPad.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,253 |
-| Forks | 120 |
-| Stars today | 24 |
+| Stars | 43,357 |
+| Forks | 1,627 |
+| Stars today | 32 |
 
 ---

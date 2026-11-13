@@ -1,139 +1,202 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-12T07:03:39Z
-**Total Repositories:** 10
-**New Entries:** 5
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-13T06:34:14Z
+**Total Repositories:** 15
+**New Entries:** 13
+**Quality Score:** 97.33/100
 
 ---
 
-## 1. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-
-Tool for automatic PS5 executables porting to Linux and Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 53,313 |
-| Forks | 5,062 |
-| Stars today | 299 |
-
----
-
-## 2. [facebookresearch/faiss](https://github.com/facebookresearch/faiss) 🆕
-
-A library for efficient similarity search and clustering of dense vectors.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 41,467 |
-| Forks | 4,612 |
-| Stars today | 111 |
-
----
-
-## 3. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
-
-Multi-Joint dynamics with Contact. A general purpose physics simulator.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 17,690 |
-| Forks | 2,174 |
-| Stars today | 412 |
-
----
-
-## 4. [simdjson/simdjson](https://github.com/simdjson/simdjson) 🆕
-
-Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 24,565 |
-| Forks | 1,360 |
-| Stars today | 12 |
-
----
-
-## 5. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+## 1. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 LLM inference in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 134,188 |
-| Forks | 25,458 |
-| Stars today | 162 |
+| Stars | 134,702 |
+| Forks | 25,522 |
+| Stars today | 176 |
 
 ---
 
-## 6. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
+## 2. [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 
-A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
+A library for efficient similarity search and clustering of dense vectors.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,193 |
-| Forks | 430 |
-| Stars today | 75 |
+| Stars | 41,561 |
+| Forks | 4,626 |
+| Stars today | 81 |
 
 ---
 
-## 7. [throneproj/Throne](https://github.com/throneproj/Throne)
+## 3. [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 🆕
 
-Cross-platform GUI proxy utility (Empowered by sing-box)
+Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,843 |
-| Forks | 462 |
-| Stars today | 20 |
+| Stars | 20,370 |
+| Forks | 1,529 |
+| Stars today | 18 |
 
 ---
 
-## 8. [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) 🆕
+## 4. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
 
-Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
+An Open Source Machine Learning Framework for Everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,962 |
-| Forks | 449 |
-| Stars today | 46 |
+| Stars | 201,585 |
+| Forks | 77,952 |
+| Stars today | 86 |
 
 ---
 
-## 9. [alibaba/MNN](https://github.com/alibaba/MNN) 🆕
-
-MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
+## 5. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,503 |
-| Forks | 2,524 |
-| Stars today | 19 |
+| Stars | 609 |
+| Forks | 62 |
+| Stars today | 31 |
 
 ---
 
-## 10. [harry7557558/spirula-studio](https://github.com/harry7557558/spirula-studio) 🆕
+## 6. [Tencent/ncnn](https://github.com/Tencent/ncnn) 🆕
 
-Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
+ncnn is a high-performance neural network inference framework optimized for the mobile platform
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,334 |
-| Forks | 222 |
-| Stars today | 25 |
+| Stars | 24,049 |
+| Forks | 4,549 |
+| Stars today | 6 |
+
+---
+
+## 7. [google/googletest](https://github.com/google/googletest) 🆕
+
+GoogleTest - Google Testing and Mocking Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 39,738 |
+| Forks | 10,942 |
+| Stars today | 7 |
+
+---
+
+## 8. [JakeATX/llamAmpere](https://github.com/JakeATX/llamAmpere) 🆕
+
+llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 377 |
+| Forks | 44 |
+| Stars today | 29 |
+
+---
+
+## 9. [love2d/love](https://github.com/love2d/love) 🆕
+
+LÖVE is an awesome 2D game framework for Lua.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 8,961 |
+| Forks | 671 |
+| Stars today | 15 |
+
+---
+
+## 10. [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) 🆕
+
+Telegram Desktop messaging app
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 33,550 |
+| Forks | 7,611 |
+| Stars today | 14 |
+
+---
+
+## 11. [openxla/xla](https://github.com/openxla/xla) 🆕
+
+A machine learning compiler for GPUs, CPUs, and ML accelerators
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 4,672 |
+| Forks | 1,011 |
+| Stars today | 7 |
+
+---
+
+## 12. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) 🆕
+
+Protocol Buffers - Google's data interchange format
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 72,169 |
+| Forks | 16,357 |
+| Stars today | 5 |
+
+---
+
+## 13. [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) 🆕
+
+Notepad++ official repository
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 29,868 |
+| Forks | 5,434 |
+| Stars today | 18 |
+
+---
+
+## 14. [nlohmann/json](https://github.com/nlohmann/json) 🆕
+
+JSON for Modern C++
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 50,896 |
+| Forks | 7,517 |
+| Stars today | 15 |
+
+---
+
+## 15. [catchorg/Catch2](https://github.com/catchorg/Catch2) 🆕
+
+A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 21,577 |
+| Forks | 3,440 |
+| Stars today | 13 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-12T07:04:23Z
-**Total Repositories:** 14
-**New Entries:** 0
-**Quality Score:** 97.14/100
+**Snapshot Time:** 2026-11-13T06:35:05Z
+**Total Repositories:** 13
+**New Entries:** 1
+**Quality Score:** 96.92/100
 
 ---
 
@@ -13,8 +13,8 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,481 |
-| Forks | 689 |
+| Stars | 10,495 |
+| Forks | 690 |
 | Stars this month | 2,771 |
 
 ---
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,456 |
-| Forks | 676 |
-| Stars this month | 3,597 |
+| Stars | 6,524 |
+| Forks | 687 |
+| Stars this month | 3,569 |
 
 ---
 
@@ -39,9 +39,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,472 |
-| Forks | 5,031 |
-| Stars this month | 1,531 |
+| Stars | 20,511 |
+| Forks | 5,058 |
+| Stars this month | 1,532 |
 
 ---
 
@@ -52,9 +52,9 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,386 |
-| Forks | 391 |
-| Stars this month | 3,285 |
+| Stars | 7,624 |
+| Forks | 401 |
+| Stars this month | 3,461 |
 
 ---
 
@@ -65,61 +65,61 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,066 |
+| Stars | 7,082 |
 | Forks | 1,421 |
 | Stars this month | 627 |
 
 ---
 
-## 6. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-
-A cross-platform music app using YouTube Music for backend
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 13,222 |
-| Forks | 752 |
-| Stars this month | 1,411 |
-
----
-
-## 7. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+## 6. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 44,551 |
-| Forks | 2,128 |
-| Stars this month | 1,996 |
+| Stars | 44,632 |
+| Forks | 2,131 |
+| Stars this month | 2,028 |
 
 ---
 
-## 8. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
+## 7. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
-YunX（云析）的官方 windows 桌面端
+A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,806 |
-| Forks | 372 |
-| Stars this month | 4,198 |
+| Stars | 13,276 |
+| Forks | 761 |
+| Stars this month | 1,441 |
 
 ---
 
-## 9. [damontecres/Wholphin](https://github.com/damontecres/Wholphin)
+## 8. [damontecres/Wholphin](https://github.com/damontecres/Wholphin)
 
 An OSS Android TV client for Jellyfin
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,311 |
-| Forks | 237 |
-| Stars this month | 290 |
+| Stars | 3,324 |
+| Forks | 243 |
+| Stars this month | 298 |
+
+---
+
+## 9. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
+
+YunX（云析）的官方 windows 桌面端
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 5,304 |
+| Forks | 411 |
+| Stars this month | 4,694 |
 
 ---
 
@@ -130,9 +130,9 @@ StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jet
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,030 |
-| Forks | 176 |
-| Stars this month | 239 |
+| Stars | 1,033 |
+| Forks | 177 |
+| Stars this month | 241 |
 
 ---
 
@@ -143,22 +143,22 @@ Block ads system-wide on Android using local VPN-based DNS filtering. No root ne
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,700 |
-| Forks | 166 |
-| Stars this month | 545 |
+| Stars | 2,713 |
+| Forks | 167 |
+| Stars this month | 556 |
 
 ---
 
-## 12. [agupta07505/SmartIsland](https://github.com/agupta07505/SmartIsland)
+## 12. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
 
-Smart Island is a modern, open-source implementation of Android's Dynamic Island experience. It transforms notifications, media playback, incoming calls, timers, charging status, and other live activities into a beautiful floating island with smooth animations and a premium user experience.
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 485 |
-| Forks | 58 |
-| Stars this month | 214 |
+| Stars | 33,560 |
+| Forks | 3,643 |
+| Stars this month | 2,278 |
 
 ---
 
@@ -169,21 +169,8 @@ Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also s
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,976 |
-| Forks | 300 |
-| Stars this month | 344 |
-
----
-
-## 14. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
-
-GhostLock One-Tap Execution App (CVE-2026-43499)
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,928 |
-| Forks | 681 |
-| Stars this month | 1,149 |
+| Stars | 3,984 |
+| Forks | 301 |
+| Stars this month | 341 |
 
 ---

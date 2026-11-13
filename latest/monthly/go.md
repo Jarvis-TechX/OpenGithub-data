@@ -1,8 +1,8 @@
 # GitHub Trending - Go
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-12T07:04:16Z
-**Total Repositories:** 21
+**Snapshot Time:** 2026-11-13T06:34:57Z
+**Total Repositories:** 20
 **New Entries:** 3
 **Quality Score:** 100.00/100
 
@@ -15,113 +15,113 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 186,733 |
-| Forks | 19,031 |
-| Stars this month | 4,849 |
+| Stars | 186,838 |
+| Forks | 19,055 |
+| Stars this month | 4,867 |
 
 ---
 
-## 2. [moby/moby](https://github.com/moby/moby)
-
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 72,266 |
-| Forks | 19,310 |
-| Stars this month | 449 |
-
----
-
-## 3. [prometheus/prometheus](https://github.com/prometheus/prometheus)
+## 2. [prometheus/prometheus](https://github.com/prometheus/prometheus)
 
 The Prometheus monitoring system and time series database.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 67,561 |
-| Forks | 11,007 |
-| Stars this month | 1,608 |
+| Stars | 67,599 |
+| Forks | 11,015 |
+| Stars this month | 1,545 |
 
 ---
 
-## 4. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+## 3. [docker/compose](https://github.com/docker/compose)
 
-Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+Define and run multi-container applications with Docker
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 33,976 |
-| Forks | 5,338 |
-| Stars this month | 8,694 |
+| Stars | 38,814 |
+| Forks | 5,945 |
+| Stars this month | 644 |
 
 ---
 
-## 5. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
+## 4. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
 
 scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,927 |
-| Forks | 1,248 |
-| Stars this month | 1,550 |
+| Stars | 7,987 |
+| Forks | 1,257 |
+| Stars this month | 1,585 |
 
 ---
 
-## 6. [netbirdio/netbird](https://github.com/netbirdio/netbird)
+## 5. [netbirdio/netbird](https://github.com/netbirdio/netbird)
 
 NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,907 |
-| Forks | 1,848 |
-| Stars this month | 1,114 |
+| Stars | 30,938 |
+| Forks | 1,853 |
+| Stars this month | 1,112 |
 
 ---
 
-## 7. [rclone/rclone](https://github.com/rclone/rclone)
+## 6. [moby/moby](https://github.com/moby/moby)
 
-"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 60,963 |
-| Forks | 5,678 |
-| Stars this month | 824 |
+| Stars | 72,264 |
+| Forks | 19,310 |
+| Stars this month | 451 |
 
 ---
 
-## 8. [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+## 7. [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 
 Declarative Continuous Deployment for Kubernetes
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 24,593 |
-| Forks | 8,140 |
-| Stars this month | 265 |
+| Stars | 24,601 |
+| Forks | 8,146 |
+| Stars this month | 255 |
 
 ---
 
-## 9. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+## 8. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 
-The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
+Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,439 |
-| Forks | 305 |
-| Stars this month | 1,626 |
+| Stars | 34,054 |
+| Forks | 5,360 |
+| Stars this month | 7,814 |
+
+---
+
+## 9. [rclone/rclone](https://github.com/rclone/rclone)
+
+"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 60,995 |
+| Forks | 5,684 |
+| Stars this month | 840 |
 
 ---
 
@@ -132,74 +132,74 @@ Find secrets with Gitleaks 🔑
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,945 |
-| Forks | 2,365 |
-| Stars this month | 1,130 |
+| Stars | 30,978 |
+| Forks | 2,369 |
+| Stars this month | 1,157 |
 
 ---
 
-## 11. [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) 🆕
+## 11. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
 
-把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支
+The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,798 |
-| Forks | 1,721 |
-| Stars this month | 2,239 |
+| Stars | 3,452 |
+| Forks | 304 |
+| Stars this month | 1,637 |
 
 ---
 
-## 12. [tailscale/tailscale](https://github.com/tailscale/tailscale)
-
-The easiest, most secure way to use WireGuard and 2FA.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,969 |
-| Forks | 3,467 |
-| Stars this month | 1,673 |
-
----
-
-## 13. [gin-gonic/gin](https://github.com/gin-gonic/gin)
-
-Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 89,534 |
-| Forks | 8,906 |
-| Stars this month | 594 |
-
----
-
-## 14. [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
+## 12. [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
 
 VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 18,096 |
+| Stars | 18,106 |
 | Forks | 1,808 |
-| Stars this month | 275 |
+| Stars this month | 282 |
 
 ---
 
-## 15. [istio/istio](https://github.com/istio/istio)
+## 13. [tailscale/tailscale](https://github.com/tailscale/tailscale)
+
+The easiest, most secure way to use WireGuard and 2FA.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 39,029 |
+| Forks | 3,475 |
+| Stars this month | 1,704 |
+
+---
+
+## 14. [istio/istio](https://github.com/istio/istio)
 
 Connect, secure, control, and observe services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,502 |
+| Stars | 38,506 |
 | Forks | 8,442 |
-| Stars this month | 100 |
+| Stars this month | 101 |
+
+---
+
+## 15. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
+
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 39,282 |
+| Forks | 862 |
+| Stars this month | 960 |
 
 ---
 
@@ -210,73 +210,60 @@ Distributed reliable key-value store for the most critical data of a distributed
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 52,600 |
-| Forks | 10,595 |
-| Stars this month | 544 |
+| Stars | 52,602 |
+| Forks | 10,598 |
+| Stars this month | 545 |
 
 ---
 
-## 17. [go-gitea/gitea](https://github.com/go-gitea/gitea)
+## 17. [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 🆕
+
+Secure, Fast, and Extensible Sandbox runtime for AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 17,259 |
+| Forks | 1,642 |
+| Stars this month | 1,477 |
+
+---
+
+## 18. [go-gitea/gitea](https://github.com/go-gitea/gitea)
 
 Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 59,039 |
-| Forks | 7,389 |
-| Stars this month | 715 |
+| Stars | 59,054 |
+| Forks | 7,392 |
+| Stars this month | 712 |
 
 ---
 
-## 18. [php/frankenphp](https://github.com/php/frankenphp) 🆕
+## 19. [superplanehq/superplane](https://github.com/superplanehq/superplane) 🆕
+
+Open source factory for one-shot engineering
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 10,039 |
+| Forks | 707 |
+| Stars this month | 2,512 |
+
+---
+
+## 20. [php/frankenphp](https://github.com/php/frankenphp)
 
 🧟 The modern PHP app server
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,527 |
-| Forks | 514 |
-| Stars this month | 147 |
-
----
-
-## 19. [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
-
-Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 42,843 |
-| Forks | 6,139 |
-| Stars this month | 908 |
-
----
-
-## 20. [docker/compose](https://github.com/docker/compose)
-
-Define and run multi-container applications with Docker
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,793 |
-| Forks | 5,944 |
-| Stars this month | 599 |
-
----
-
-## 21. [traefik/traefik](https://github.com/traefik/traefik) 🆕
-
-The Cloud Native Application Proxy
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 65,539 |
-| Forks | 6,312 |
-| Stars this month | 519 |
+| Stars | 11,529 |
+| Forks | 515 |
+| Stars this month | 149 |
 
 ---

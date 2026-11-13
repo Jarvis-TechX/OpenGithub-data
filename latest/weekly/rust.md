@@ -1,36 +1,36 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-12T07:03:56Z
-**Total Repositories:** 14
-**New Entries:** 2
+**Snapshot Time:** 2026-11-13T06:34:34Z
+**Total Repositories:** 13
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
-
-Computer use CLI for AI agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 22,306 |
-| Forks | 1,657 |
-| Stars this week | 7,772 |
-
----
-
-## 2. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+## 1. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 
 Browser automation CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 50,045 |
-| Forks | 3,492 |
-| Stars this week | 4,183 |
+| Stars | 50,420 |
+| Forks | 3,510 |
+| Stars this week | 4,601 |
+
+---
+
+## 2. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+
+Computer use CLI for AI agents
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 22,880 |
+| Forks | 1,696 |
+| Stars this week | 6,414 |
 
 ---
 
@@ -41,9 +41,9 @@ Code at the speed of thought – Zed is a high-performance, multiplayer code edi
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 94,749 |
-| Forks | 11,634 |
-| Stars this week | 2,310 |
+| Stars | 94,879 |
+| Forks | 11,672 |
+| Stars this week | 2,339 |
 
 ---
 
@@ -54,9 +54,9 @@ the runtime your coding agents live on
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 50,428 |
-| Forks | 4,068 |
-| Stars this week | 2,213 |
+| Stars | 50,661 |
+| Forks | 4,090 |
+| Stars this week | 2,357 |
 
 ---
 
@@ -67,48 +67,48 @@ Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,455 |
-| Forks | 493 |
-| Stars this week | 1,649 |
+| Stars | 12,485 |
+| Forks | 494 |
+| Stars this week | 1,093 |
 
 ---
 
-## 6. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-
-The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 108,519 |
-| Forks | 6,451 |
-| Stars this week | 6,065 |
-
----
-
-## 7. [openai/codex](https://github.com/openai/codex)
-
-Lightweight coding agent that runs in your terminal
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 134,968 |
-| Forks | 21,382 |
-| Stars this week | 1,976 |
-
----
-
-## 8. [astral-sh/ruff](https://github.com/astral-sh/ruff)
+## 6. [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 An extremely fast Python linter and code formatter, written in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 51,203 |
-| Forks | 2,664 |
-| Stars this week | 969 |
+| Stars | 51,237 |
+| Forks | 2,667 |
+| Stars this week | 1,048 |
+
+---
+
+## 7. [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
+π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 104,187 |
+| Forks | 13,559 |
+| Stars this week | 1,736 |
+
+---
+
+## 8. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+
+The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 109,136 |
+| Forks | 6,506 |
+| Stars this week | 5,324 |
 
 ---
 
@@ -119,73 +119,60 @@ Rust GUI components for building fantastic cross-platform desktop application by
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 20,439 |
-| Forks | 1,247 |
-| Stars this week | 1,355 |
+| Stars | 20,553 |
+| Forks | 1,254 |
+| Stars this week | 1,200 |
 
 ---
 
-## 10. [ruvnet/RuView](https://github.com/ruvnet/RuView) 🆕
+## 10. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 🆕
 
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 104,089 |
-| Forks | 13,547 |
-| Stars this week | 1,760 |
+| Stars | 112,869 |
+| Forks | 4,219 |
+| Stars this week | 373 |
 
 ---
 
-## 11. [nushell/nushell](https://github.com/nushell/nushell)
+## 11. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) 🆕
+
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 129,261 |
+| Forks | 20,620 |
+| Stars this week | 967 |
+
+---
+
+## 12. [nushell/nushell](https://github.com/nushell/nushell)
 
 A new type of shell
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 40,998 |
-| Forks | 2,337 |
-| Stars this week | 467 |
+| Stars | 41,016 |
+| Forks | 2,342 |
+| Stars this week | 478 |
 
 ---
 
-## 12. [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+## 13. [windmill-labs/windmill](https://github.com/windmill-labs/windmill) 🆕
 
-Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
+Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 33,338 |
-| Forks | 5,008 |
-| Stars this week | 235 |
-
----
-
-## 13. [clap-rs/clap](https://github.com/clap-rs/clap)
-
-A full featured, fast Command Line Argument Parser for Rust
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 16,884 |
-| Forks | 1,294 |
-| Stars this week | 256 |
-
----
-
-## 14. [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) 🆕
-
-Comfortably monitor your network traffic 🕵️‍♂️
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 42,514 |
-| Forks | 1,999 |
-| Stars this week | 550 |
+| Stars | 18,560 |
+| Forks | 1,154 |
+| Stars this week | 162 |
 
 ---

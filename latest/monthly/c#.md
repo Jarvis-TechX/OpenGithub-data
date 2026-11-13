@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-12T07:04:25Z
-**Total Repositories:** 17
-**New Entries:** 2
+**Snapshot Time:** 2026-11-13T06:35:08Z
+**Total Repositories:** 19
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,886 |
-| Forks | 1,671 |
-| Stars this month | 2,219 |
+| Stars | 21,908 |
+| Forks | 1,673 |
+| Stars this month | 2,232 |
 
 ---
 
@@ -28,9 +28,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 17,954 |
-| Forks | 1,333 |
-| Stars this month | 2,016 |
+| Stars | 17,986 |
+| Forks | 1,336 |
+| Stars this month | 1,986 |
 
 ---
 
@@ -41,9 +41,9 @@ ShareX is a free and open-source application that enables users to capture or re
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,971 |
-| Forks | 4,068 |
-| Stars this month | 1,054 |
+| Stars | 40,997 |
+| Forks | 4,077 |
+| Stars this month | 1,079 |
 
 ---
 
@@ -54,100 +54,100 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,117 |
-| Forks | 8,535 |
-| Stars this month | 636 |
+| Stars | 56,142 |
+| Forks | 8,541 |
+| Stars this month | 639 |
 
 ---
 
-## 5. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 19,866 |
-| Forks | 4,518 |
-| Stars this month | 151 |
-
----
-
-## 6. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
-
-Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 15,905 |
-| Forks | 1,633 |
-| Stars this month | 1,101 |
-
----
-
-## 7. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-
-Windows/macOS/Linux GUI client for GIT users
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,457 |
-| Forks | 612 |
-| Stars this month | 354 |
-
----
-
-## 8. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
-
-.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 27,043 |
-| Forks | 3,825 |
-| Stars this month | 547 |
-
----
-
-## 9. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+## 5. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
 A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,083 |
-| Forks | 71 |
-| Stars this month | 361 |
+| Stars | 2,086 |
+| Forks | 72 |
+| Stars this month | 350 |
 
 ---
 
-## 10. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox)
+## 6. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+
+Windows/macOS/Linux GUI client for GIT users
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,464 |
+| Forks | 613 |
+| Stars this month | 355 |
+
+---
+
+## 7. [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) 🆕
+
+The main repository for the development of the evolution game Thrive.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 3,868 |
+| Forks | 652 |
+| Stars this month | 126 |
+
+---
+
+## 8. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
+
+Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 15,935 |
+| Forks | 1,634 |
+| Stars this month | 1,098 |
+
+---
+
+## 9. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox)
 
 一款面向安卓开发的多功能玩机工具箱
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 871 |
-| Forks | 76 |
-| Stars this month | 485 |
+| Stars | 879 |
+| Forks | 77 |
+| Stars this month | 480 |
 
 ---
 
-## 11. [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) 🆕
+## 10. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+
+The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 19,871 |
+| Forks | 4,520 |
+| Stars this month | 156 |
+
+---
+
+## 11. [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy)
 
 The Windows debloater.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,856 |
+| Stars | 5,863 |
 | Forks | 187 |
-| Stars this month | 256 |
+| Stars this month | 263 |
 
 ---
 
@@ -158,73 +158,99 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,511 |
-| Forks | 11,570 |
-| Stars this month | 120 |
+| Stars | 38,515 |
+| Forks | 11,569 |
+| Stars this month | 117 |
 
 ---
 
-## 13. [Tichau/FileConverter](https://github.com/Tichau/FileConverter) 🆕
+## 13. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
 
-File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,665 |
-| Forks | 947 |
-| Stars this month | 371 |
+| Stars | 27,053 |
+| Forks | 3,827 |
+| Stars this month | 530 |
 
 ---
 
-## 14. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
+## 14. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) 🆕
+
+A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 39,230 |
+| Forks | 4,100 |
+| Stars this month | 418 |
+
+---
+
+## 15. [dotnet/skills](https://github.com/dotnet/skills) 🆕
+
+Repository for skills to assist AI coding agents with .NET and C#
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,091 |
+| Forks | 480 |
+| Stars this month | 393 |
+
+---
+
+## 16. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
 Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,915 |
-| Forks | 2,063 |
-| Stars this month | 136 |
+| Stars | 7,919 |
+| Forks | 2,065 |
+| Stars this month | 148 |
 
 ---
 
-## 15. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 17. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
 
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,425 |
-| Forks | 5,813 |
-| Stars this month | 139 |
+| Stars | 15,673 |
+| Forks | 948 |
+| Stars this month | 377 |
 
 ---
 
-## 16. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
-
-PCL 社区版 由社区开发者维护与管理
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,110 |
-| Forks | 477 |
-| Stars this month | 771 |
-
----
-
-## 17. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
+## 18. [LorisYounger/VPet](https://github.com/LorisYounger/VPet)
 
 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,220 |
+| Stars | 7,223 |
 | Forks | 715 |
-| Stars this month | 305 |
+| Stars this month | 301 |
+
+---
+
+## 19. [MUnique/OpenMU](https://github.com/MUnique/OpenMU) 🆕
+
+This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 1,287 |
+| Forks | 691 |
+| Stars this month | 85 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-12T07:04:26Z
+**Snapshot Time:** 2026-11-13T06:35:09Z
 **Total Repositories:** 13
-**New Entries:** 2
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,345 |
-| Forks | 911 |
-| Stars this month | 8,429 |
+| Stars | 15,416 |
+| Forks | 921 |
+| Stars this month | 7,607 |
 
 ---
 
-## 2. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
+## 2. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
 
-Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
+A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,873 |
-| Forks | 102 |
-| Stars this month | 760 |
+| Stars | 466 |
+| Forks | 151 |
+| Stars this month | 94 |
 
 ---
 
@@ -41,48 +41,48 @@ Run iOS apps without actually installing them!
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,112 |
-| Forks | 1,318 |
-| Stars this month | 1,469 |
+| Stars | 14,161 |
+| Forks | 1,323 |
+| Stars this month | 1,500 |
 
 ---
 
-## 4. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+## 4. [lingyired/status-trio](https://github.com/lingyired/status-trio) 🆕
+
+Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,880 |
+| Forks | 99 |
+| Stars this month | 1,225 |
+
+---
+
+## 5. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 
 Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,769 |
-| Forks | 2,652 |
-| Stars this month | 900 |
+| Stars | 28,780 |
+| Forks | 2,660 |
+| Stars this month | 891 |
 
 ---
 
-## 5. [claration/feather](https://github.com/claration/feather)
+## 6. [claration/feather](https://github.com/claration/feather)
 
 Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,086 |
-| Forks | 482 |
-| Stars this month | 294 |
-
----
-
-## 6. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
-
-A toolkit for SQLite databases, with a focus on application development
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,736 |
-| Forks | 1,111 |
-| Stars this month | 61 |
+| Stars | 5,096 |
+| Forks | 484 |
+| Stars this month | 293 |
 
 ---
 
@@ -93,48 +93,48 @@ An an app that installs Sidestore on iOS 27, fully on-device
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,394 |
-| Forks | 112 |
-| Stars this month | 429 |
+| Stars | 1,410 |
+| Forks | 111 |
+| Stars this month | 416 |
 
 ---
 
-## 8. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
+## 8. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
 
-A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
+A toolkit for SQLite databases, with a focus on application development
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 464 |
-| Forks | 149 |
-| Stars this month | 100 |
+| Stars | 8,739 |
+| Forks | 1,112 |
+| Stars this month | 62 |
 
 ---
 
-## 9. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+## 9. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
+
+Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,885 |
+| Forks | 103 |
+| Stars this month | 726 |
+
+---
+
+## 10. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
 
 Telegram-iOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,429 |
-| Forks | 3,275 |
+| Stars | 9,432 |
+| Forks | 3,281 |
 | Stars this month | 257 |
-
----
-
-## 10. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
-
-AltStore is an alternative app store for non-jailbroken iOS devices.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 14,933 |
-| Forks | 1,733 |
-| Stars this month | 441 |
 
 ---
 
@@ -145,34 +145,34 @@ Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Ap
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,151 |
-| Forks | 134 |
-| Stars this month | 359 |
+| Stars | 2,153 |
+| Forks | 135 |
+| Stars this month | 343 |
 
 ---
 
-## 12. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
+## 12. [altstoreio/AltStore](https://github.com/altstoreio/AltStore)
 
-The Swift Programming Language
+AltStore is an alternative app store for non-jailbroken iOS devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 70,553 |
-| Forks | 10,902 |
-| Stars this month | 164 |
+| Stars | 14,946 |
+| Forks | 1,739 |
+| Stars this month | 446 |
 
 ---
 
-## 13. [ob-f/OpenBot](https://github.com/ob-f/OpenBot) 🆕
+## 13. [ob-f/OpenBot](https://github.com/ob-f/OpenBot)
 
 OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,659 |
-| Forks | 698 |
-| Stars this month | 139 |
+| Stars | 3,662 |
+| Forks | 699 |
+| Stars this month | 138 |
 
 ---

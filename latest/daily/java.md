@@ -1,152 +1,226 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-12T07:03:41Z
-**Total Repositories:** 11
-**New Entries:** 10
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-13T06:34:16Z
+**Total Repositories:** 17
+**New Entries:** 15
+**Quality Score:** 97.65/100
 
 ---
 
-## 1. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+## 1. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) 🆕
+
+Learn System Design concepts and prepare for interviews using free resources.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 43,344 |
+| Forks | 8,970 |
+| Stars today | 84 |
+
+---
+
+## 2. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
+
+Free and Open Source, Distributed, RESTful Search Engine
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 78,683 |
+| Forks | 26,250 |
+| Stars today | 68 |
+
+---
+
+## 3. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 67,144 |
-| Forks | 21,520 |
-| Stars today | 51 |
+| Stars | 67,222 |
+| Forks | 21,531 |
+| Stars today | 362 |
 
 ---
 
-## 2. [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) 🆕
+## 4. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) 🆕
 
-一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 48,437 |
-| Forks | 16,215 |
+| Stars | 81,910 |
+| Forks | 42,765 |
+| Stars today | 55 |
+
+---
+
+## 5. [apache/flink](https://github.com/apache/flink) 🆕
+
+Apache Flink
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 26,468 |
+| Forks | 14,183 |
+| Stars today | 4 |
+
+---
+
+## 6. [termux/termux-x11](https://github.com/termux/termux-x11) 🆕
+
+Termux X-server add-on.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,131 |
+| Forks | 831 |
 | Stars today | 12 |
 
 ---
 
-## 3. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) 🆕
+## 7. [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,510 |
+| Forks | 237 |
+| Stars today | 5 |
+
+---
+
+## 8. [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) 🆕
+
+A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 30,662 |
+| Forks | 11,492 |
+| Stars today | 2 |
+
+---
+
+## 9. [apache/solr](https://github.com/apache/solr) 🆕
+
+Apache Solr open-source search software
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,700 |
+| Forks | 869 |
+
+---
+
+## 10. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
 
 Jenkins automation server
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,765 |
-| Forks | 9,825 |
-| Stars today | 15 |
-
----
-
-## 4. [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) 🆕
-
-The ZAP by Checkmarx Core project
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 16,171 |
-| Forks | 2,704 |
-| Stars today | 12 |
-
----
-
-## 5. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) 🆕
-
-Spring Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 60,314 |
-| Forks | 38,797 |
+| Stars | 26,772 |
+| Forks | 9,827 |
 | Stars today | 8 |
 
 ---
 
-## 6. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
+## 11. [microg/GmsCore](https://github.com/microg/GmsCore) 🆕
 
-Build distributed, production-grade, long-running agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 6,345 |
-| Forks | 1,599 |
-| Stars today | 17 |
-
----
-
-## 7. [apache/kafka](https://github.com/apache/kafka) 🆕
-
-Apache Kafka - A distributed event streaming platform
+Free implementation of Play Services
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 34,213 |
-| Forks | 15,681 |
+| Stars | 15,292 |
+| Forks | 3,367 |
 | Stars today | 9 |
 
 ---
 
-## 8. [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) 🆕
+## 12. [dataease/dataease](https://github.com/dataease/dataease) 🆕
 
-Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
+🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,909 |
-| Forks | 392 |
+| Stars | 24,694 |
+| Forks | 4,263 |
 | Stars today | 2 |
 
 ---
 
-## 9. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
+## 13. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) 🆕
 
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 690 |
-| Forks | 114 |
-| Stars today | 8 |
+| Stars | 1,258 |
+| Forks | 78 |
+| Stars today | 29 |
 
 ---
 
-## 10. [apache/fineract](https://github.com/apache/fineract) 🆕
+## 14. [DrKLO/Telegram](https://github.com/DrKLO/Telegram) 🆕
 
-Apache Fineract
+Telegram for Android source
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,621 |
-| Forks | 2,956 |
+| Stars | 30,272 |
+| Forks | 10,537 |
+| Stars today | 10 |
+
+---
+
+## 15. [openjdk/jdk](https://github.com/openjdk/jdk) 🆕
+
+JDK main-line developmenthttps://openjdk.org/projects/jdk
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 23,525 |
+| Forks | 6,603 |
+| Stars today | 7 |
+
+---
+
+## 16. [apache/ozone](https://github.com/apache/ozone) 🆕
+
+Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,334 |
+| Forks | 657 |
+
+---
+
+## 17. [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) 🆕
+
+The main repository of Telegram X — official alternative Telegram client for Android.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 6,191 |
+| Forks | 1,190 |
 | Stars today | 3 |
-
----
-
-## 11. [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) 🆕
-
-SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 740 |
-| Forks | 35 |
-| Stars today | 13 |
 
 ---

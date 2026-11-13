@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-12T07:04:03Z
+**Snapshot Time:** 2026-11-13T06:34:42Z
 **Total Repositories:** 17
-**New Entries:** 4
+**New Entries:** 2
 **Quality Score:** 97.65/100
 
 ---
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,619 |
-| Forks | 365 |
-| Stars this week | 3,400 |
+| Stars | 9,803 |
+| Forks | 372 |
+| Stars this week | 2,607 |
 
 ---
 
@@ -26,9 +26,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,552 |
-| Forks | 500 |
-| Stars this week | 722 |
+| Stars | 11,638 |
+| Forks | 504 |
+| Stars this week | 625 |
 
 ---
 
@@ -39,48 +39,48 @@ ShareX is a free and open-source application that enables users to capture or re
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,971 |
-| Forks | 4,068 |
-| Stars this week | 364 |
+| Stars | 40,997 |
+| Forks | 4,077 |
+| Stars this week | 381 |
 
 ---
 
-## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
-
-FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,041 |
-| Forks | 244 |
-| Stars this week | 335 |
-
----
-
-## 5. [dotnet/skills](https://github.com/dotnet/skills) 🆕
+## 4. [dotnet/skills](https://github.com/dotnet/skills)
 
 Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,959 |
-| Forks | 468 |
-| Stars this week | 114 |
+| Stars | 6,091 |
+| Forks | 480 |
+| Stars this week | 153 |
 
 ---
 
-## 6. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) 🆕
+## 5. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
 
 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,524 |
-| Forks | 1,754 |
-| Stars this week | 144 |
+| Stars | 27,545 |
+| Forks | 1,755 |
+| Stars this week | 156 |
+
+---
+
+## 6. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
+
+FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,075 |
+| Forks | 244 |
+| Stars this week | 366 |
 
 ---
 
@@ -91,74 +91,74 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,934 |
-| Forks | 765 |
-| Stars this week | 141 |
+| Stars | 14,948 |
+| Forks | 766 |
+| Stars this week | 119 |
 
 ---
 
-## 8. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
-
-Telegram for Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,526 |
-| Forks | 713 |
-| Stars this week | 35 |
-
----
-
-## 9. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck) 🆕
-
-A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 575 |
-| Forks | 53 |
-| Stars this week | 149 |
-
----
-
-## 10. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+## 8. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
 A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,215 |
-| Forks | 4,095 |
-| Stars this week | 117 |
+| Stars | 39,230 |
+| Forks | 4,100 |
+| Stars this week | 133 |
 
 ---
 
-## 11. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
+## 9. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+
+The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 19,871 |
+| Forks | 4,520 |
+| Stars this week | 53 |
+
+---
+
+## 10. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
 
 A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,983 |
-| Forks | 482 |
-| Stars this week | 710 |
+| Stars | 9,059 |
+| Forks | 485 |
+| Stars this week | 787 |
 
 ---
 
-## 12. [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia)
+## 11. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
 
-Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
+A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 31,805 |
-| Forks | 2,894 |
-| Stars this week | 62 |
+| Stars | 610 |
+| Forks | 57 |
+| Stars this week | 139 |
+
+---
+
+## 12. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+
+Windows/macOS/Linux GUI client for GIT users
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,464 |
+| Forks | 613 |
+| Stars this week | 91 |
 
 ---
 
@@ -169,60 +169,60 @@ The Runner for GitHub Actions 🚀
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,391 |
-| Forks | 1,487 |
+| Stars | 6,395 |
+| Forks | 1,490 |
 | Stars this week | 22 |
 
 ---
 
-## 14. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 19,866 |
-| Forks | 4,518 |
-| Stars this week | 48 |
-
----
-
-## 15. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-
-Windows/macOS/Linux GUI client for GIT users
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,457 |
-| Forks | 612 |
-| Stars this week | 100 |
-
----
-
-## 16. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
+## 14. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,511 |
-| Forks | 11,570 |
-| Stars this week | 27 |
+| Stars | 38,515 |
+| Forks | 11,569 |
+| Stars this week | 30 |
 
 ---
 
-## 17. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox)
+## 15. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
 
-一款面向安卓开发的多功能玩机工具箱
+Telegram for Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 871 |
-| Forks | 76 |
-| Stars this week | 123 |
+| Stars | 5,526 |
+| Forks | 713 |
+| Stars this week | 30 |
+
+---
+
+## 16. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) 🆕
+
+Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,447 |
+| Forks | 2,979 |
+| Stars this week | 27 |
+
+---
+
+## 17. [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) 🆕
+
+Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 10,671 |
+| Forks | 1,706 |
+| Stars this week | 15 |
 
 ---

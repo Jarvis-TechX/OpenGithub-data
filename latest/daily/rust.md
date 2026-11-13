@@ -1,126 +1,126 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-12T07:03:37Z
+**Snapshot Time:** 2026-11-13T06:34:11Z
 **Total Repositories:** 9
-**New Entries:** 4
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-
-Browser automation CLI for AI agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 50,045 |
-| Forks | 3,492 |
-| Stars today | 708 |
-
----
-
-## 2. [ruvnet/RuView](https://github.com/ruvnet/RuView)
-
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 104,089 |
-| Forks | 13,547 |
-| Stars today | 222 |
-
----
-
-## 3. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+## 1. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
 
 A batteries-included framework for building web apps
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 7,130 |
-| Forks | 321 |
-| Stars today | 451 |
-
----
-
-## 4. [claration/impactor](https://github.com/claration/impactor) 🆕
-
-Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,827 |
-| Forks | 272 |
-| Stars today | 22 |
-
----
-
-## 5. [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
-
-Comfortably monitor your network traffic 🕵️‍♂️
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 42,514 |
-| Forks | 1,999 |
+| Stars | 7,169 |
+| Forks | 326 |
 | Stars today | 90 |
 
 ---
 
-## 6. [ShayanAbbas1/dbdelve](https://github.com/ShayanAbbas1/dbdelve) 🆕
+## 2. [zellij-org/zellij](https://github.com/zellij-org/zellij) 🆕
+
+A terminal workspace with batteries included
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 36,045 |
+| Forks | 1,534 |
+| Stars today | 37 |
+
+---
+
+## 3. [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) 🆕
+
+Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 10,039 |
+| Forks | 442 |
+| Stars today | 31 |
+
+---
+
+## 4. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+
+Browser automation CLI for AI agents
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 50,420 |
+| Forks | 3,510 |
+| Stars today | 604 |
+
+---
+
+## 5. [astral-sh/uv](https://github.com/astral-sh/uv) 🆕
+
+An extremely fast Python package and project manager, written in Rust.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 91,970 |
+| Forks | 3,809 |
+| Stars today | 94 |
+
+---
+
+## 6. [tw93/Pake](https://github.com/tw93/Pake) 🆕
+
+Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 63,479 |
+| Forks | 12,990 |
+| Stars today | 105 |
+
+---
+
+## 7. [ShayanAbbas1/dbdelve](https://github.com/ShayanAbbas1/dbdelve)
 
 Fast and lightweight DB Client made in Rust and GPUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,120 |
-| Forks | 59 |
-| Stars today | 101 |
+| Stars | 1,256 |
+| Forks | 66 |
+| Stars today | 108 |
 
 ---
 
-## 7. [pola-rs/polars](https://github.com/pola-rs/polars) 🆕
+## 8. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 🆕
 
-Extremely fast Query Engine for DataFrames, written in Rust
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 40,330 |
-| Forks | 3,238 |
-| Stars today | 21 |
+| Stars | 112,869 |
+| Forks | 4,219 |
+| Stars today | 90 |
 
 ---
 
-## 8. [ja7ad/hydra](https://github.com/ja7ad/hydra) 🆕
+## 9. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
 
-A fast, resilient, multi-source file retriever and download engine
+Empowering everyone to build reliable and efficient software.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,425 |
-| Forks | 86 |
-| Stars today | 21 |
-
----
-
-## 9. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 129,117 |
-| Forks | 20,586 |
-| Stars today | 157 |
+| Stars | 121,873 |
+| Forks | 16,666 |
+| Stars today | 107 |
 
 ---

@@ -1,152 +1,191 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-12T07:03:31Z
-**Total Repositories:** 11
-**New Entries:** 8
+**Snapshot Time:** 2026-11-13T06:34:03Z
+**Total Repositories:** 14
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+## 1. [nodejs/node](https://github.com/nodejs/node) 🆕
+
+Node.js JavaScript runtime ✨🐢🚀✨
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 123,645 |
+| Forks | 38,060 |
+| Stars today | 62 |
+
+---
+
+## 2. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 116,160 |
-| Forks | 12,172 |
-| Stars today | 787 |
+| Stars | 116,835 |
+| Forks | 12,218 |
+| Stars today | 816 |
 
 ---
 
-## 2. [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) 🆕
+## 3. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) 🆕
 
-HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
+免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,546 |
-| Forks | 419 |
-| Stars today | 41 |
+| Stars | 15,440 |
+| Forks | 1,111 |
+| Stars today | 131 |
 
 ---
 
-## 3. [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) 🆕
+## 4. [axios/axios](https://github.com/axios/axios) 🆕
 
-A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
+Promise based HTTP client for the browser and node.js
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,136 |
-| Forks | 227 |
-| Stars today | 4 |
+| Stars | 109,397 |
+| Forks | 12,019 |
+| Stars today | 55 |
 
 ---
 
-## 4. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+## 5. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
 
-The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 54,315 |
-| Forks | 10,950 |
-| Stars today | 62 |
+| Stars | 60,014 |
+| Forks | 8,768 |
+| Stars today | 208 |
 
 ---
 
-## 5. [tiagozip/cap](https://github.com/tiagozip/cap) 🆕
+## 6. [sveltejs/svelte](https://github.com/sveltejs/svelte) 🆕
 
-The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
+web development for the rest of us
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 8,349 |
-| Forks | 654 |
-| Stars today | 20 |
+| Stars | 88,752 |
+| Forks | 6,064 |
+| Stars today | 79 |
 
 ---
 
-## 6. [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) 🆕
+## 7. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) 🆕
+
+Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 11,462 |
+| Forks | 1,509 |
+| Stars today | 116 |
+
+---
+
+## 8. [react/react](https://github.com/react/react) 🆕
+
+The library for web and native user interfaces.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 252,565 |
+| Forks | 52,504 |
+| Stars today | 78 |
+
+---
+
+## 9. [expressjs/express](https://github.com/expressjs/express) 🆕
+
+Fast, unopinionated, minimalist web framework for node.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 69,675 |
+| Forks | 25,438 |
+| Stars today | 37 |
+
+---
+
+## 10. [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)
 
 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,806 |
-| Forks | 652 |
-| Stars today | 58 |
+| Stars | 4,843 |
+| Forks | 660 |
+| Stars today | 31 |
 
 ---
 
-## 7. [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) 🆕
+## 11. [mksglu/context-mode](https://github.com/mksglu/context-mode) 🆕
 
-🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.
+Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 5,156 |
-| Forks | 1,651 |
-| Stars today | 27 |
+| Stars | 34,008 |
+| Forks | 2,334 |
+| Stars today | 113 |
 
 ---
 
-## 8. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+## 12. [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) 🆕
 
-Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,188 |
-| Forks | 6,528 |
-| Stars today | 238 |
-
----
-
-## 9. [songquanpeng/one-api](https://github.com/songquanpeng/one-api) 🆕
-
-LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 37,411 |
-| Forks | 6,893 |
-| Stars today | 21 |
-
----
-
-## 10. [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) 🆕
-
-An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 10,630 |
-| Forks | 904 |
+| Stars | 9,315 |
+| Forks | 552 |
 | Stars today | 51 |
 
 ---
 
-## 11. [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) 🆕
+## 13. [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) 🆕
 
-A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+Play with fluids in your browser (works even on mobile)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 13,299 |
-| Forks | 680 |
-| Stars today | 21 |
+| Stars | 16,838 |
+| Forks | 1,925 |
+| Stars today | 11 |
+
+---
+
+## 14. [tiagozip/cap](https://github.com/tiagozip/cap)
+
+The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 8,365 |
+| Forks | 654 |
+| Stars today | 25 |
 
 ---

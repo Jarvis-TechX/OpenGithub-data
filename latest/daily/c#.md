@@ -1,163 +1,165 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-12T07:03:43Z
+**Snapshot Time:** 2026-11-13T06:34:19Z
 **Total Repositories:** 12
 **New Entries:** 9
-**Quality Score:** 96.67/100
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [dotnet/skills](https://github.com/dotnet/skills) 🆕
+## 1. [dotnet/skills](https://github.com/dotnet/skills)
 
 Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,959 |
-| Forks | 468 |
-| Stars today | 60 |
+| Stars | 6,091 |
+| Forks | 480 |
+| Stars today | 44 |
 
 ---
 
-## 2. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) 🆕
+## 2. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) 🆕
 
-🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,524 |
-| Forks | 1,754 |
-| Stars today | 29 |
+| Stars | 56,142 |
+| Forks | 8,541 |
+| Stars today | 21 |
 
 ---
 
-## 3. [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) 🆕
-
-Downloads videos and playlists from YouTube
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 16,694 |
-| Forks | 2,102 |
-| Stars today | 14 |
-
----
-
-## 4. [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)
-
-mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 11,212 |
-| Forks | 1,641 |
-| Stars today | 4 |
-
----
-
-## 5. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+## 3. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
 A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,215 |
-| Forks | 4,095 |
-| Stars today | 31 |
+| Stars | 39,230 |
+| Forks | 4,100 |
+| Stars today | 29 |
 
 ---
 
-## 6. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) 🆕
+## 4. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) 🆕
 
-Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,905 |
-| Forks | 1,633 |
-| Stars today | 24 |
+| Stars | 9,059 |
+| Forks | 485 |
+| Stars today | 151 |
 
 ---
 
-## 7. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+## 5. [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) 🆕
 
-Windows/macOS/Linux GUI client for GIT users
+An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,457 |
-| Forks | 612 |
-| Stars today | 18 |
+| Stars | 3,040 |
+| Forks | 376 |
+| Stars today | 12 |
 
 ---
 
-## 8. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) 🆕
+## 6. [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx) 🆕
 
-Download web video and audio
+Unity / XNA game patcher and plugin framework
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,607 |
-| Forks | 373 |
-| Stars today | 14 |
+| Stars | 9,021 |
+| Forks | 935 |
+| Stars today | 5 |
 
 ---
 
-## 9. [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) 🆕
+## 7. [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) 🆕
+
+Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,577 |
-| Forks | 402 |
+| Stars | 4,061 |
+| Forks | 303 |
+| Stars today | 11 |
+
+---
+
+## 8. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
+
+🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 27,545 |
+| Forks | 1,755 |
+| Stars today | 22 |
+
+---
+
+## 9. [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) 🆕
+
+The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,902 |
+| Forks | 250 |
+| Stars today | 7 |
+
+---
+
+## 10. [dotnet/eShop](https://github.com/dotnet/eShop) 🆕
+
+A reference .NET application implementing an eCommerce site
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 11,019 |
+| Forks | 3,921 |
 | Stars today | 6 |
 
 ---
 
-## 10. [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) 🆕
+## 11. [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) 🆕
 
-Unity il2cpp reverse engineer
+ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,640 |
-| Forks | 1,967 |
-| Stars today | 9 |
+| Stars | 10,186 |
+| Forks | 6,061 |
+| Stars today | 1 |
 
 ---
 
-## 11. [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) 🆕
+## 12. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) 🆕
 
-Source code for Unturned, a free open-world zombie survival sandbox game.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,027 |
-| Forks | 592 |
-| Stars today | 4 |
-
----
-
-## 12. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
-
-.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,425 |
-| Forks | 5,813 |
-| Stars today | 6 |
+| Stars | 9,447 |
+| Forks | 2,979 |
+| Stars today | 2 |
 
 ---

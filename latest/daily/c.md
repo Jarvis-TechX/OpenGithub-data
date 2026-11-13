@@ -1,150 +1,100 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-12T07:03:38Z
-**Total Repositories:** 11
-**New Entries:** 11
-**Quality Score:** 96.36/100
+**Snapshot Time:** 2026-11-13T06:34:13Z
+**Total Repositories:** 7
+**New Entries:** 6
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) 🆕
+## 1. [obsproject/obs-studio](https://github.com/obsproject/obs-studio) 🆕
+
+OBS Studio - Free and open source software for live streaming and screen recording
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 79,483 |
+| Forks | 11,233 |
+| Stars today | 103 |
+
+---
+
+## 2. [CTCaer/hekate](https://github.com/CTCaer/hekate) 🆕
+
+hekate - A GUI based Nintendo Switch Bootloader
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 9,015 |
+| Forks | 700 |
+| Stars today | 25 |
+
+---
+
+## 3. [ventoy/Ventoy](https://github.com/ventoy/Ventoy) 🆕
+
+A new bootable USB solution.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 80,859 |
+| Forks | 5,088 |
+| Stars today | 73 |
+
+---
+
+## 4. [redis/redis](https://github.com/redis/redis) 🆕
+
+For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 77,486 |
+| Forks | 25,056 |
+| Stars today | 79 |
+
+---
+
+## 5. [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) 🆕
+
+The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 9,456 |
+| Forks | 3,481 |
+| Stars today | 7 |
+
+---
+
+## 6. [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
 
 Flipper Zero Unleashed Firmware
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 22,705 |
+| Stars | 22,717 |
 | Forks | 1,985 |
-| Stars today | 14 |
+| Stars today | 22 |
 
 ---
 
-## 2. [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) 🆕
+## 7. [SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) 🆕
 
-BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
+Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 20,041 |
-| Forks | 857 |
-| Stars today | 5 |
-
----
-
-## 3. [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) 🆕
-
-GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 28,865 |
-| Forks | 2,258 |
-| Stars today | 7 |
-
----
-
-## 4. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 6,010 |
-| Forks | 1,000 |
-| Stars today | 29 |
-
----
-
-## 5. [microsoft/PowerToys](https://github.com/microsoft/PowerToys) 🆕
-
-Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 140,896 |
-| Forks | 8,730 |
-| Stars today | 61 |
-
----
-
-## 6. [lvgl/lvgl](https://github.com/lvgl/lvgl) 🆕
-
-LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 25,150 |
-| Forks | 4,448 |
-| Stars today | 7 |
-
----
-
-## 7. [henrypp/simplewall](https://github.com/henrypp/simplewall) 🆕
-
-Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 9,292 |
-| Forks | 673 |
-| Stars today | 8 |
-
----
-
-## 8. [dorianborian/sesame-robot](https://github.com/dorianborian/sesame-robot) 🆕
-
-An open and affordable mini quadruped robot based on ESP32.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,037 |
-| Forks | 693 |
-| Stars today | 14 |
-
----
-
-## 9. [containers/bubblewrap](https://github.com/containers/bubblewrap) 🆕
-
-Low-level unprivileged sandboxing tool used by Flatpak and similar projects
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 9,461 |
-| Forks | 410 |
-| Stars today | 11 |
-
----
-
-## 10. [bol-van/zapret2](https://github.com/bol-van/zapret2) 🆕
-
-anti-dpi software
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,982 |
-| Forks | 257 |
-| Stars today | 10 |
-
----
-
-## 11. [brunodev85/winlator](https://github.com/brunodev85/winlator) 🆕
-
-Android application for running Windows applications with Wine and Box86/Box64
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 19,923 |
-| Forks | 1,960 |
-| Stars today | 19 |
+| Stars | 852 |
+| Forks | 69 |
+| Stars today | 3 |
 
 ---
