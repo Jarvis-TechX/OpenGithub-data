@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-13T06:34:42Z
-**Total Repositories:** 17
-**New Entries:** 2
-**Quality Score:** 97.65/100
+**Snapshot Time:** 2026-11-14T06:12:19Z
+**Total Repositories:** 15
+**New Entries:** 3
+**Quality Score:** 97.33/100
 
 ---
 
@@ -13,22 +13,22 @@
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,803 |
-| Forks | 372 |
-| Stars this week | 2,607 |
+| Stars | 9,935 |
+| Forks | 378 |
+| Stars this week | 2,117 |
 
 ---
 
-## 2. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+## 2. [dotnet/skills](https://github.com/dotnet/skills)
 
-Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,638 |
-| Forks | 504 |
-| Stars this week | 625 |
+| Stars | 6,155 |
+| Forks | 483 |
+| Stars this week | 295 |
 
 ---
 
@@ -39,22 +39,22 @@ ShareX is a free and open-source application that enables users to capture or re
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 40,997 |
-| Forks | 4,077 |
-| Stars this week | 381 |
+| Stars | 41,020 |
+| Forks | 4,078 |
+| Stars this week | 348 |
 
 ---
 
-## 4. [dotnet/skills](https://github.com/dotnet/skills)
+## 4. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
 
-Repository for skills to assist AI coding agents with .NET and C#
+Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,091 |
-| Forks | 480 |
-| Stars this week | 153 |
+| Stars | 11,710 |
+| Forks | 514 |
+| Stars this week | 691 |
 
 ---
 
@@ -65,9 +65,9 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,545 |
-| Forks | 1,755 |
-| Stars this week | 156 |
+| Stars | 27,558 |
+| Forks | 1,757 |
+| Stars this week | 162 |
 
 ---
 
@@ -78,61 +78,61 @@ FluentCleaner is the transparent, community-powered CCleaner alternative for Win
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,075 |
-| Forks | 244 |
-| Stars this week | 366 |
+| Stars | 7,111 |
+| Forks | 245 |
+| Stars this week | 391 |
 
 ---
 
-## 7. [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass)
-
-🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,948 |
-| Forks | 766 |
-| Stars this week | 119 |
-
----
-
-## 8. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+## 7. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
 A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,230 |
-| Forks | 4,100 |
-| Stars this week | 133 |
+| Stars | 39,241 |
+| Forks | 4,102 |
+| Stars this week | 136 |
 
 ---
 
-## 9. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 19,871 |
-| Forks | 4,520 |
-| Stars this week | 53 |
-
----
-
-## 10. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
+## 8. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
 
 A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,059 |
+| Stars | 9,102 |
 | Forks | 485 |
-| Stars this week | 787 |
+| Stars this week | 718 |
+
+---
+
+## 9. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
+
+Telegram for Windows
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,529 |
+| Forks | 713 |
+| Stars this week | 29 |
+
+---
+
+## 10. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+
+Windows/macOS/Linux GUI client for GIT users
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,473 |
+| Forks | 613 |
+| Stars this week | 83 |
 
 ---
 
@@ -143,86 +143,60 @@ A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, musi
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 610 |
-| Forks | 57 |
-| Stars this week | 139 |
+| Stars | 656 |
+| Forks | 62 |
+| Stars this week | 158 |
 
 ---
 
-## 12. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+## 12. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox) 🆕
 
-Windows/macOS/Linux GUI client for GIT users
+一款面向安卓开发的多功能玩机工具箱
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,464 |
-| Forks | 613 |
-| Stars this week | 91 |
+| Stars | 889 |
+| Forks | 77 |
+| Stars this week | 111 |
 
 ---
 
-## 13. [actions/runner](https://github.com/actions/runner)
+## 13. [seerge/g-helper](https://github.com/seerge/g-helper) 🆕
 
-The Runner for GitHub Actions 🚀
+Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,395 |
-| Forks | 1,490 |
-| Stars this week | 22 |
+| Stars | 16,040 |
+| Forks | 684 |
+| Stars this week | 126 |
 
 ---
 
-## 14. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 14. [QuantConnect/Lean](https://github.com/QuantConnect/Lean) 🆕
 
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,515 |
-| Forks | 11,569 |
-| Stars this week | 30 |
+| Stars | 22,521 |
+| Forks | 5,418 |
+| Stars this week | 109 |
 
 ---
 
-## 15. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
+## 15. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 
-Telegram for Windows
+The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,526 |
-| Forks | 713 |
-| Stars this week | 30 |
-
----
-
-## 16. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) 🆕
-
-Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,447 |
-| Forks | 2,979 |
-| Stars this week | 27 |
-
----
-
-## 17. [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) 🆕
-
-Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 10,671 |
-| Forks | 1,706 |
-| Stars this week | 15 |
+| Stars | 19,871 |
+| Forks | 4,519 |
+| Stars this week | 42 |
 
 ---

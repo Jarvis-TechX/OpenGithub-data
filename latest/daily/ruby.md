@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:07Z
-**Total Repositories:** 20
-**New Entries:** 11
+**Snapshot Time:** 2026-11-14T06:11:50Z
+**Total Repositories:** 14
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
@@ -15,181 +15,13 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,151 |
-| Forks | 1,066 |
-| Stars today | 967 |
+| Stars | 14,875 |
+| Forks | 1,132 |
+| Stars today | 925 |
 
 ---
 
-## 2. [mastodon/mastodon](https://github.com/mastodon/mastodon) 🆕
-
-Your self-hosted, globally interconnected microblogging community
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,596 |
-| Forks | 7,583 |
-| Stars today | 3 |
-
----
-
-## 3. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
-
-Metasploit Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 39,566 |
-| Forks | 15,038 |
-| Stars today | 29 |
-
----
-
-## 4. [opf/openproject](https://github.com/opf/openproject)
-
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 17,331 |
-| Forks | 3,759 |
-| Stars today | 37 |
-
----
-
-## 5. [rails/rails](https://github.com/rails/rails) 🆕
-
-Ruby on Rails
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 59,093 |
-| Forks | 23,131 |
-| Stars today | 1 |
-
----
-
-## 6. [jekyll/jekyll](https://github.com/jekyll/jekyll) 🆕
-
-🌐 Jekyll is a blog-aware static site generator in Ruby
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 51,774 |
-| Forks | 10,303 |
-| Stars today | 5 |
-
----
-
-## 7. [danbooru/danbooru](https://github.com/danbooru/danbooru)
-
-A taggable image board written in Rails.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 2,933 |
-| Forks | 466 |
-| Stars today | 4 |
-
----
-
-## 8. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) 🆕
-
-Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 39,755 |
-| Forks | 9,662 |
-| Stars today | 69 |
-
----
-
-## 9. [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) 🆕
-
-A curated list of engineering blogs
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 38,960 |
-| Forks | 2,070 |
-| Stars today | 9 |
-
----
-
-## 10. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) 🆕
-
-🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 15,667 |
-| Forks | 13,957 |
-| Stars today | 2 |
-
----
-
-## 11. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
-
-A database of vulnerable Ruby Gems
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 1,082 |
-| Forks | 252 |
-| Stars today | 1 |
-
----
-
-## 12. [otwcode/otwarchive](https://github.com/otwcode/otwarchive) 🆕
-
-The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 2,395 |
-| Forks | 894 |
-| Stars today | 2 |
-
----
-
-## 13. [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) 🆕
-
-Simple one-liner tests for common Rails functionality
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 3,577 |
-| Forks | 915 |
-
----
-
-## 14. [discourse/discourse](https://github.com/discourse/discourse)
-
-A platform for community discussion. Free, open, simple.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 48,079 |
-| Forks | 9,063 |
-| Stars today | 7 |
-
----
-
-## 15. [ruby/ruby](https://github.com/ruby/ruby) 🆕
+## 2. [ruby/ruby](https://github.com/ruby/ruby)
 
 The Ruby Programming Language
 
@@ -197,71 +29,160 @@ The Ruby Programming Language
 |--------|-------|
 | Language | Ruby |
 | Stars | 23,812 |
-| Forks | 5,683 |
-| Stars today | 4 |
+| Forks | 5,686 |
+| Stars today | 3 |
 
 ---
 
-## 16. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) 🆕
+## 3. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
 
-API Documentation Browser
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,629 |
-| Forks | 2,654 |
-| Stars today | 6 |
+| Stars | 39,834 |
+| Forks | 9,678 |
+| Stars today | 84 |
 
 ---
 
-## 17. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 4. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,294 |
-| Forks | 12,097 |
-| Stars today | 4 |
+| Stars | 22,297 |
+| Forks | 12,102 |
+| Stars today | 2 |
 
 ---
 
-## 18. [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb)
+## 5. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
 
-Datadog's client library for Ruby
+A database of vulnerable Ruby Gems
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 419 |
-| Forks | 428 |
+| Stars | 1,083 |
+| Forks | 253 |
+| Stars today | 1 |
 
 ---
 
-## 19. [basecamp/kamal](https://github.com/basecamp/kamal) 🆕
+## 6. [basecamp/once-campfire](https://github.com/basecamp/once-campfire) 🆕
+
+Super simple group chat, without a subscription
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 4,833 |
+| Forks | 832 |
+| Stars today | 4 |
+
+---
+
+## 7. [cncf/gitdm](https://github.com/cncf/gitdm) 🆕
+
+📜Fork for tracking CNCF projects
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 89 |
+| Forks | 1,004 |
+
+---
+
+## 8. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection) 🆕
+
+A collection of RBS for gems.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 302 |
+| Forks | 141 |
+
+---
+
+## 9. [github-linguist/linguist](https://github.com/github-linguist/linguist) 🆕
+
+Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 13,787 |
+| Forks | 5,530 |
+
+---
+
+## 10. [basecamp/fizzy](https://github.com/basecamp/fizzy) 🆕
+
+Kanban as it should be. Not as it has been.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 8,298 |
+| Forks | 1,207 |
+| Stars today | 2 |
+
+---
+
+## 11. [dependabot/demo](https://github.com/dependabot/demo) 🆕
+
+🤖 Fork me to try out Dependabot
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 354 |
+| Forks | 5,139 |
+| Stars today | 1 |
+
+---
+
+## 12. [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) 🆕
+
+💱 Currency data API
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 2,100 |
+| Forks | 197 |
+| Stars today | 3 |
+
+---
+
+## 13. [basecamp/kamal](https://github.com/basecamp/kamal)
 
 Deploy web apps anywhere.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,724 |
+| Stars | 14,727 |
 | Forks | 774 |
-| Stars today | 2 |
+| Stars today | 3 |
 
 ---
 
-## 20. [docusealco/docuseal](https://github.com/docusealco/docuseal)
+## 14. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 
-Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+API Documentation Browser
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 19,047 |
-| Forks | 1,947 |
-| Stars today | 5 |
+| Stars | 39,635 |
+| Forks | 2,655 |
+| Stars today | 4 |
 
 ---

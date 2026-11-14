@@ -1,62 +1,62 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:00Z
-**Total Repositories:** 13
-**New Entries:** 8
+**Snapshot Time:** 2026-11-14T06:11:44Z
+**Total Repositories:** 12
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+## 1. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) 🆕
+
+Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 50,814 |
+| Forks | 3,782 |
+| Stars today | 215 |
+
+---
+
+## 2. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 
 Keep your coding agent up to date with the latest web best practices
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,573 |
-| Forks | 222 |
-| Stars today | 739 |
+| Stars | 5,057 |
+| Forks | 277 |
+| Stars today | 1,925 |
 
 ---
 
-## 2. [openai/codex-security](https://github.com/openai/codex-security)
+## 3. [openai/codex-security](https://github.com/openai/codex-security)
 
 OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,640 |
-| Forks | 986 |
-| Stars today | 643 |
+| Stars | 13,248 |
+| Forks | 1,027 |
+| Stars today | 751 |
 
 ---
 
-## 3. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 🆕
+## 4. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) 🆕
 
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-
-| Metric | Value |
-|--------|-------|
-| Language | Shell |
-| Stars | 96,056 |
-| Forks | 10,761 |
-| Stars today | 63 |
-
----
-
-## 4. [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) 🆕
-
-Enable Hermès Watch Faces on any Apple Watch devices
+LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 
 | Metric | Value |
 |--------|-------|
-| Language | Objective-C |
-| Stars | 1,641 |
-| Forks | 145 |
-| Stars today | 218 |
+| Language | Python |
+| Stars | 71,842 |
+| Forks | 57,359 |
+| Stars today | 256 |
 
 ---
 
@@ -67,112 +67,99 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,151 |
-| Forks | 1,066 |
-| Stars today | 967 |
+| Stars | 14,875 |
+| Forks | 1,132 |
+| Stars today | 925 |
 
 ---
 
-## 6. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) 🆕
+## 6. [backnotprop/plannotator](https://github.com/backnotprop/plannotator) 🆕
 
-An open-source AI coding agent that lives in your terminal.
+The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,969 |
-| Forks | 3,409 |
-| Stars today | 151 |
+| Stars | 10,557 |
+| Forks | 791 |
+| Stars today | 108 |
 
 ---
 
-## 7. [ashhart/TensorFold](https://github.com/ashhart/TensorFold) 🆕
+## 7. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) 🆕
 
-LLM Inference Engine for Metal, CUDA and Vulkan.
-
-| Metric | Value |
-|--------|-------|
-| Language | Zig |
-| Stars | 2,011 |
-| Forks | 397 |
-| Stars today | 54 |
-
----
-
-## 8. [nodejs/node](https://github.com/nodejs/node) 🆕
-
-Node.js JavaScript runtime ✨🐢🚀✨
+A fancy self-hosted monitoring tool
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 123,645 |
-| Forks | 38,060 |
-| Stars today | 62 |
+| Stars | 93,952 |
+| Forks | 8,727 |
+| Stars today | 71 |
 
 ---
 
-## 9. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+## 8. [block/buzz](https://github.com/block/buzz) 🆕
 
-Production-grade engineering skills for AI coding agents.
+A hive mind communication platform
 
 | Metric | Value |
 |--------|-------|
-| Language | JavaScript |
-| Stars | 116,835 |
-| Forks | 12,218 |
-| Stars today | 816 |
+| Language | Rust |
+| Stars | 37,353 |
+| Forks | 4,944 |
+| Stars today | 97 |
 
 ---
 
-## 10. [meta/astryx](https://github.com/meta/astryx)
+## 9. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) 🆕
 
-An open source design system that's fully customizable and agent ready
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 26,860 |
-| Forks | 2,084 |
-| Stars today | 1,830 |
-
----
-
-## 11. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) 🆕
-
-Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 11,820 |
-| Forks | 1,453 |
-| Stars today | 298 |
-
----
-
-## 12. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) 🆕
-
-Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 69,515 |
-| Forks | 10,794 |
-| Stars today | 415 |
+| Stars | 4,289 |
+| Forks | 880 |
+| Stars today | 69 |
 
 ---
 
-## 13. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
+## 10. [tailscale/tailcat](https://github.com/tailscale/tailcat) 🆕
 
-LLM inference in C/C++
+like netcat, but over Tailscale's data plane, without Tailscale's control plane
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 9,564 |
+| Forks | 435 |
+| Stars today | 256 |
+
+---
+
+## 11. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) 🆕
+
+Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 134,702 |
-| Forks | 25,522 |
-| Stars today | 176 |
+| Stars | 1,711 |
+| Forks | 76 |
+| Stars today | 256 |
+
+---
+
+## 12. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 🆕
+
+Chrome DevTools for coding agents
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 55,648 |
+| Forks | 4,614 |
+| Stars today | 67 |
 
 ---

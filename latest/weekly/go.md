@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-13T06:34:32Z
-**Total Repositories:** 21
-**New Entries:** 6
+**Snapshot Time:** 2026-11-14T06:12:11Z
+**Total Repositories:** 19
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The Prometheus monitoring system and time series database.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 67,599 |
-| Forks | 11,015 |
-| Stars this week | 835 |
+| Stars | 67,596 |
+| Forks | 11,021 |
+| Stars this week | 686 |
 
 ---
 
@@ -28,48 +28,48 @@ Make humans and AI agents work as one team — open-source and self-hostable.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 55,946 |
-| Forks | 7,389 |
-| Stars this week | 910 |
+| Stars | 56,072 |
+| Forks | 7,407 |
+| Stars this week | 950 |
 
 ---
 
-## 3. [etcd-io/etcd](https://github.com/etcd-io/etcd)
+## 3. [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
 
-Distributed reliable key-value store for the most critical data of a distributed system
+Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 52,602 |
-| Forks | 10,598 |
-| Stars this week | 327 |
+| Stars | 17,286 |
+| Forks | 1,643 |
+| Stars this week | 804 |
 
 ---
 
-## 4. [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) 🆕
+## 4. [cli/cli](https://github.com/cli/cli)
+
+GitHub’s official command line tool
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 47,007 |
+| Forks | 9,293 |
+| Stars this week | 121 |
+
+---
+
+## 5. [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)
 
 NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,210 |
-| Forks | 156 |
-| Stars this week | 1,124 |
-
----
-
-## 5. [docker/compose](https://github.com/docker/compose) 🆕
-
-Define and run multi-container applications with Docker
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,814 |
-| Forks | 5,944 |
-| Stars this week | 220 |
+| Stars | 1,223 |
+| Forks | 158 |
+| Stars this week | 970 |
 
 ---
 
@@ -80,203 +80,177 @@ Define and run multi-container applications with Docker
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 119,506 |
-| Forks | 6,950 |
-| Stars this week | 1,769 |
+| Stars | 119,730 |
+| Forks | 6,977 |
+| Stars this week | 1,828 |
 
 ---
 
-## 7. [cli/cli](https://github.com/cli/cli)
-
-GitHub’s official command line tool
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 46,996 |
-| Forks | 9,288 |
-| Stars this week | 113 |
-
----
-
-## 8. [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 🆕
-
-Secure, Fast, and Extensible Sandbox runtime for AI agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 17,259 |
-| Forks | 1,642 |
-| Stars this week | 794 |
-
----
-
-## 9. [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) 🆕
-
-Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,185 |
-| Forks | 745 |
-| Stars this week | 67 |
-
----
-
-## 10. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-
-Production-Grade Container Scheduling and Management
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 129,041 |
-| Forks | 45,104 |
-| Stars this week | 567 |
-
----
-
-## 11. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+## 7. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 
 Find, verify, and analyze leaked credentials
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 29,263 |
-| Forks | 2,729 |
-| Stars this week | 378 |
+| Stars | 29,301 |
+| Forks | 2,739 |
+| Stars this week | 364 |
 
 ---
 
-## 12. [prometheus/alertmanager](https://github.com/prometheus/alertmanager) 🆕
-
-Prometheus Alertmanager
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 8,700 |
-| Forks | 2,505 |
-| Stars this week | 16 |
-
----
-
-## 13. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
-
-RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 94,099 |
-| Forks | 11,314 |
-| Stars this week | 542 |
-
----
-
-## 14. [henrygd/beszel](https://github.com/henrygd/beszel) 🆕
+## 8. [henrygd/beszel](https://github.com/henrygd/beszel)
 
 Lightweight server monitoring with historical data, docker stats, and alerts.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 27,279 |
-| Forks | 1,176 |
-| Stars this week | 415 |
+| Stars | 27,329 |
+| Forks | 1,180 |
+| Stars this week | 449 |
 
 ---
 
-## 15. [moby/moby](https://github.com/moby/moby)
+## 9. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 🆕
 
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 72,264 |
-| Forks | 19,310 |
-| Stars this week | 236 |
+| Stars | 58,508 |
+| Forks | 8,982 |
+| Stars this week | 754 |
 
 ---
 
-## 16. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
+## 10. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
 
 scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,987 |
-| Forks | 1,257 |
-| Stars this week | 600 |
+| Stars | 8,022 |
+| Forks | 1,266 |
+| Stars this week | 603 |
 
 ---
 
-## 17. [podman-container-tools/podman](https://github.com/podman-container-tools/podman)
+## 11. [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) 🆕
 
-Podman: A tool for managing OCI containers and pods.
+Information gathering framework for phone numbers
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 33,261 |
-| Forks | 3,456 |
-| Stars this week | 76 |
+| Stars | 18,555 |
+| Forks | 6,330 |
+| Stars this week | 147 |
 
 ---
 
-## 18. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+## 12. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 
 Find secrets with Gitleaks 🔑
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 30,978 |
-| Forks | 2,369 |
-| Stars this week | 278 |
+| Stars | 31,008 |
+| Forks | 2,373 |
+| Stars this week | 267 |
 
 ---
 
-## 19. [golang/go](https://github.com/golang/go)
+## 13. [etcd-io/etcd](https://github.com/etcd-io/etcd)
 
-The Go programming language
+Distributed reliable key-value store for the most critical data of a distributed system
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 139,882 |
-| Forks | 20,276 |
-| Stars this week | 537 |
+| Stars | 52,603 |
+| Forks | 10,598 |
+| Stars this week | 196 |
 
 ---
 
-## 20. [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go)
+## 14. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
 
-Google Cloud Client Libraries for Go.
+Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,557 |
-| Forks | 1,604 |
-| Stars this week | 6 |
+| Stars | 39,324 |
+| Forks | 872 |
+| Stars this week | 238 |
 
 ---
 
-## 21. [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo)
+## 15. [google/gvisor](https://github.com/google/gvisor) 🆕
 
-OpenChoreo is an internal developer platform for Kubernetes
+Application Kernel for Containers
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,892 |
-| Forks | 286 |
-| Stars this week | 84 |
+| Stars | 19,998 |
+| Forks | 2,079 |
+| Stars this week | 105 |
+
+---
+
+## 16. [agent-substrate/substrate](https://github.com/agent-substrate/substrate) 🆕
+
+Agent Substrate: the core system
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,602 |
+| Forks | 745 |
+| Stars this week | 443 |
+
+---
+
+## 17. [evcc-io/evcc](https://github.com/evcc-io/evcc) 🆕
+
+smart charging ☀️🚘
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,613 |
+| Forks | 1,655 |
+| Stars this week | 86 |
+
+---
+
+## 18. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) 🆕
+
+Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 42,889 |
+| Forks | 6,149 |
+| Stars this week | 251 |
+
+---
+
+## 19. [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) 🆕
+
+Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 9,147 |
+| Forks | 898 |
+| Stars this week | 626 |
 
 ---

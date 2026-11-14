@@ -1,202 +1,137 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:14Z
-**Total Repositories:** 15
-**New Entries:** 13
-**Quality Score:** 97.33/100
+**Snapshot Time:** 2026-11-14T06:11:56Z
+**Total Repositories:** 10
+**New Entries:** 6
+**Quality Score:** 96.00/100
 
 ---
 
-## 1. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+## 1. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) 🆕
+
+Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 1,711 |
+| Forks | 76 |
+| Stars today | 256 |
+
+---
+
+## 2. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 LLM inference in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 134,702 |
-| Forks | 25,522 |
-| Stars today | 176 |
+| Stars | 134,915 |
+| Forks | 25,584 |
+| Stars today | 494 |
 
 ---
 
-## 2. [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
+## 3. [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) 🆕
+
+Port of OpenAI's Whisper model in C/C++
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 55,174 |
+| Forks | 6,300 |
+| Stars today | 40 |
+
+---
+
+## 4. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 618 |
+| Forks | 62 |
+| Stars today | 13 |
+
+---
+
+## 5. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) 🆕
+
+Tool for automatic PS5 executables porting to Linux and Windows
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 53,768 |
+| Forks | 5,129 |
+| Stars today | 239 |
+
+---
+
+## 6. [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 
 A library for efficient similarity search and clustering of dense vectors.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,561 |
-| Forks | 4,626 |
-| Stars today | 81 |
+| Stars | 41,632 |
+| Forks | 4,633 |
+| Stars today | 89 |
 
 ---
 
-## 3. [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 🆕
-
-Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 20,370 |
-| Forks | 1,529 |
-| Stars today | 18 |
-
----
-
-## 4. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
-
-An Open Source Machine Learning Framework for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 201,585 |
-| Forks | 77,952 |
-| Stars today | 86 |
-
----
-
-## 5. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) 🆕
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 609 |
-| Forks | 62 |
-| Stars today | 31 |
-
----
-
-## 6. [Tencent/ncnn](https://github.com/Tencent/ncnn) 🆕
-
-ncnn is a high-performance neural network inference framework optimized for the mobile platform
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 24,049 |
-| Forks | 4,549 |
-| Stars today | 6 |
-
----
-
-## 7. [google/googletest](https://github.com/google/googletest) 🆕
+## 7. [google/googletest](https://github.com/google/googletest)
 
 GoogleTest - Google Testing and Mocking Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 39,738 |
+| Stars | 39,737 |
 | Forks | 10,942 |
 | Stars today | 7 |
 
 ---
 
-## 8. [JakeATX/llamAmpere](https://github.com/JakeATX/llamAmpere) 🆕
+## 8. [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) 🆕
 
-llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.
+Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 377 |
-| Forks | 44 |
-| Stars today | 29 |
+| Stars | 12,681 |
+| Forks | 805 |
+| Stars today | 1 |
 
 ---
 
-## 9. [love2d/love](https://github.com/love2d/love) 🆕
+## 9. [eugeniosegala/MAKO](https://github.com/eugeniosegala/MAKO) 🆕
 
-LÖVE is an awesome 2D game framework for Lua.
+Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing frame generation, scaling and more, to Steam Deck, Steam Machine and desktop Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 8,961 |
-| Forks | 671 |
-| Stars today | 15 |
+| Stars | 792 |
+| Forks | 26 |
+| Stars today | 60 |
 
 ---
 
-## 10. [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) 🆕
+## 10. [microsoft/BitNet](https://github.com/microsoft/BitNet) 🆕
 
-Telegram Desktop messaging app
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 33,550 |
-| Forks | 7,611 |
-| Stars today | 14 |
-
----
-
-## 11. [openxla/xla](https://github.com/openxla/xla) 🆕
-
-A machine learning compiler for GPUs, CPUs, and ML accelerators
+Official inference framework for 1-bit LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 4,672 |
-| Forks | 1,011 |
-| Stars today | 7 |
-
----
-
-## 12. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) 🆕
-
-Protocol Buffers - Google's data interchange format
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 72,169 |
-| Forks | 16,357 |
-| Stars today | 5 |
-
----
-
-## 13. [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) 🆕
-
-Notepad++ official repository
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 29,868 |
-| Forks | 5,434 |
+| Stars | 41,575 |
+| Forks | 3,881 |
 | Stars today | 18 |
-
----
-
-## 14. [nlohmann/json](https://github.com/nlohmann/json) 🆕
-
-JSON for Modern C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 50,896 |
-| Forks | 7,517 |
-| Stars today | 15 |
-
----
-
-## 15. [catchorg/Catch2](https://github.com/catchorg/Catch2) 🆕
-
-A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 21,577 |
-| Forks | 3,440 |
-| Stars today | 13 |
 
 ---

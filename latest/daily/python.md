@@ -1,217 +1,215 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:02Z
+**Snapshot Time:** 2026-11-14T06:11:45Z
 **Total Repositories:** 16
-**New Entries:** 13
-**Quality Score:** 100.00/100
+**New Entries:** 11
+**Quality Score:** 97.50/100
 
 ---
 
-## 1. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-
-Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 69,515 |
-| Forks | 10,794 |
-| Stars today | 415 |
-
----
-
-## 2. [openai/whisper](https://github.com/openai/whisper) 🆕
-
-Robust Speech Recognition via Large-Scale Weak Supervision
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 112,625 |
-| Forks | 13,656 |
-| Stars today | 113 |
-
----
-
-## 3. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+## 1. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
 
 LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,136 |
-| Forks | 57,166 |
-| Stars today | 1,294 |
+| Stars | 71,842 |
+| Forks | 57,359 |
+| Stars today | 256 |
 
 ---
 
-## 4. [fastapi/fastapi](https://github.com/fastapi/fastapi) 🆕
+## 2. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) 🆕
 
-FastAPI framework, high performance, easy to learn, fast to code, ready for production
+Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 104,678 |
-| Forks | 10,238 |
-| Stars today | 82 |
+| Stars | 4,289 |
+| Forks | 880 |
+| Stars today | 69 |
 
 ---
 
-## 5. [python/cpython](https://github.com/python/cpython) 🆕
-
-The Python programming language
+## 3. [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 78,203 |
-| Forks | 36,583 |
-| Stars today | 72 |
+| Stars | 1,754 |
+| Forks | 185 |
+| Stars today | 28 |
 
 ---
 
-## 6. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
-
-Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 7,708 |
-| Forks | 468 |
-| Stars today | 714 |
-
----
-
-## 7. [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) 🆕
-
-My collection of Claude skills
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 377 |
-| Forks | 17 |
-| Stars today | 34 |
-
----
-
-## 8. [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) 🆕
-
-⚚ The ultrawork agent with AI coworkers wired into you
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 5,573 |
-| Forks | 454 |
-| Stars today | 79 |
-
----
-
-## 9. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) 🆕
-
-Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 25,740 |
-| Forks | 2,273 |
-| Stars today | 297 |
-
----
-
-## 10. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) 🆕
-
-AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 67,466 |
-| Forks | 5,929 |
-| Stars today | 112 |
-
----
-
-## 11. [huggingface/transformers](https://github.com/huggingface/transformers) 🆕
-
-🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 168,938 |
-| Forks | 35,234 |
-| Stars today | 98 |
-
----
-
-## 12. [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) 🆕
-
-A guide on how to use the Figma MCP server
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 2,181 |
-| Forks | 215 |
-| Stars today | 4 |
-
----
-
-## 13. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) 🆕
-
-All Algorithms implemented in Python
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 226,072 |
-| Forks | 51,319 |
-| Stars today | 43 |
-
----
-
-## 14. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) 🆕
+## 4. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 
 Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 33,441 |
-| Forks | 3,931 |
-| Stars today | 102 |
+| Stars | 33,496 |
+| Forks | 3,935 |
+| Stars today | 62 |
 
 ---
 
-## 15. [Qiskit/qiskit](https://github.com/Qiskit/qiskit) 🆕
+## 5. [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin) 🆕
 
-Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
+Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,970 |
-| Forks | 3,126 |
-| Stars today | 3 |
+| Stars | 459 |
+| Forks | 75 |
+| Stars today | 51 |
 
 ---
 
-## 16. [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) 🆕
+## 6. [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) 🆕
 
-Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 929 |
-| Forks | 112 |
-| Stars today | 108 |
+| Stars | 71,368 |
+| Forks | 11,490 |
+| Stars today | 73 |
+
+---
+
+## 7. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) 🆕
+
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 47,224 |
+| Forks | 4,901 |
+| Stars today | 130 |
+
+---
+
+## 8. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) 🆕
+
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 79,615 |
+| Forks | 6,229 |
+| Stars today | 120 |
+
+---
+
+## 9. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+
+Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 69,950 |
+| Forks | 10,843 |
+| Stars today | 787 |
+
+---
+
+## 10. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) 🆕
+
+Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 34,346 |
+| Forks | 3,128 |
+| Stars today | 136 |
+
+---
+
+## 11. [realiti4/claude-swap](https://github.com/realiti4/claude-swap) 🆕
+
+Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 4,702 |
+| Forks | 505 |
+| Stars today | 25 |
+
+---
+
+## 12. [volcengine/OpenViking](https://github.com/volcengine/OpenViking) 🆕
+
+Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 42,215 |
+| Forks | 3,480 |
+| Stars today | 113 |
+
+---
+
+## 13. [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) 🆕
+
+Build resilient agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 44,936 |
+| Forks | 7,748 |
+| Stars today | 49 |
+
+---
+
+## 14. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) 🆕
+
+Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 5,471 |
+| Forks | 472 |
+| Stars today | 168 |
+
+---
+
+## 15. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+
+Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 25,924 |
+| Forks | 2,300 |
+| Stars today | 190 |
+
+---
+
+## 16. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
+AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 67,581 |
+| Forks | 5,941 |
+| Stars today | 111 |
 
 ---

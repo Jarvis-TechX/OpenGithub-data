@@ -1,36 +1,36 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-13T06:34:43Z
+**Snapshot Time:** 2026-11-14T06:12:20Z
 **Total Repositories:** 16
-**New Entries:** 7
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
+## 1. [apple/container](https://github.com/apple/container)
 
-A native macOS launcher for everyday productivity. Lightweight and open source.
+A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,405 |
-| Forks | 595 |
-| Stars this week | 229 |
+| Stars | 51,442 |
+| Forks | 1,823 |
+| Stars this week | 369 |
 
 ---
 
-## 2. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+## 2. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,867 |
-| Forks | 296 |
-| Stars this week | 338 |
+| Stars | 14,198 |
+| Forks | 1,325 |
+| Stars this week | 344 |
 
 ---
 
@@ -41,35 +41,35 @@ Free up your Mac. Safely. A free, open-source native Mac app that clears the cac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,885 |
-| Forks | 103 |
-| Stars this week | 356 |
+| Stars | 1,898 |
+| Forks | 104 |
+| Stars this week | 368 |
 
 ---
 
-## 4. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 4. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
 
-Run iOS apps without actually installing them!
+无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,161 |
-| Forks | 1,323 |
-| Stars this week | 339 |
+| Stars | 2,896 |
+| Forks | 298 |
+| Stars this week | 304 |
 
 ---
 
-## 5. [apple/container](https://github.com/apple/container) 🆕
+## 5. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) 🆕
 
-A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+ This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 51,348 |
-| Forks | 1,823 |
-| Stars this week | 280 |
+| Stars | 118,491 |
+| Forks | 10,287 |
+| Stars this week | 658 |
 
 ---
 
@@ -80,138 +80,138 @@ Native iPhone and iPad console for herdr: watch and drive coding agents on your 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 880 |
+| Stars | 885 |
 | Forks | 98 |
-| Stars this week | 109 |
+| Stars this week | 93 |
 
 ---
 
-## 7. [apple/coreai-models](https://github.com/apple/coreai-models)
+## 7. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
 
-Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+A native macOS launcher for everyday productivity. Lightweight and open source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,325 |
-| Forks | 264 |
-| Stars this week | 36 |
+| Stars | 9,429 |
+| Forks | 600 |
+| Stars this week | 211 |
 
 ---
 
-## 8. [swiftlang/swift](https://github.com/swiftlang/swift)
-
-The Swift Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 70,554 |
-| Forks | 10,904 |
-| Stars this week | 32 |
-
----
-
-## 9. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
-
-A toolkit for SQLite databases, with a focus on application development
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,739 |
-| Forks | 1,112 |
-| Stars this week | 14 |
-
----
-
-## 10. [lingyired/status-trio](https://github.com/lingyired/status-trio) 🆕
-
-Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,880 |
-| Forks | 99 |
-| Stars this week | 250 |
-
----
-
-## 11. [sozercan/kaset](https://github.com/sozercan/kaset) 🆕
-
-📼 The missing YouTube and YouTube Music macOS app
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,585 |
-| Forks | 197 |
-| Stars this week | 69 |
-
----
-
-## 12. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) 🆕
-
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 28,780 |
-| Forks | 2,660 |
-| Stars this week | 151 |
-
----
-
-## 13. [apple/swift-nio](https://github.com/apple/swift-nio) 🆕
-
-Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,554 |
-| Forks | 828 |
-| Stars this week | 8 |
-
----
-
-## 14. [claration/feather](https://github.com/claration/feather) 🆕
+## 8. [claration/feather](https://github.com/claration/feather)
 
 Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,096 |
-| Forks | 484 |
+| Stars | 5,105 |
+| Forks | 483 |
 | Stars this week | 80 |
 
 ---
 
-## 15. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
+## 9. [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) 🆕
 
-iOS 27 MobileGestalt editor
+A private messenger for iOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,021 |
-| Forks | 81 |
-| Stars this week | 173 |
+| Stars | 12,332 |
+| Forks | 3,541 |
+| Stars this week | 29 |
 
 ---
 
-## 16. [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) 🆕
+## 10. [sozercan/kaset](https://github.com/sozercan/kaset)
 
-The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
+📼 The missing YouTube and YouTube Music macOS app
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,436 |
-| Forks | 464 |
-| Stars this week | 48 |
+| Stars | 2,594 |
+| Forks | 199 |
+| Stars this week | 79 |
+
+---
+
+## 11. [exelban/stats](https://github.com/exelban/stats) 🆕
+
+macOS system monitor in your menu bar
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 43,388 |
+| Forks | 1,629 |
+| Stars this week | 206 |
+
+---
+
+## 12. [lingyired/status-trio](https://github.com/lingyired/status-trio)
+
+Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,899 |
+| Forks | 99 |
+| Stars this week | 221 |
+
+---
+
+## 13. [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) 🆕
+
+Protect your SSH keys with your Mac's Secure Enclave
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,393 |
+| Forks | 237 |
+| Stars this week | 150 |
+
+---
+
+## 14. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
+
+AI coding assistant for Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,388 |
+| Forks | 2,100 |
+| Stars this week | 24 |
+
+---
+
+## 15. [sw33tLie/macshot](https://github.com/sw33tLie/macshot) 🆕
+
+Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,143 |
+| Forks | 283 |
+| Stars this week | 95 |
+
+---
+
+## 16. [apple/coreai-models](https://github.com/apple/coreai-models)
+
+Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,339 |
+| Forks | 264 |
+| Stars this week | 53 |
 
 ---

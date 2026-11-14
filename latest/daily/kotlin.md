@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:17Z
-**Total Repositories:** 11
-**New Entries:** 6
+**Snapshot Time:** 2026-11-14T06:11:58Z
+**Total Repositories:** 12
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
@@ -15,138 +15,151 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,303 |
-| Forks | 411 |
-| Stars today | 529 |
+| Stars | 5,708 |
+| Forks | 440 |
+| Stars today | 457 |
 
 ---
 
-## 2. [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard)
-
-A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 939 |
-| Forks | 55 |
-| Stars today | 30 |
-
----
-
-## 3. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 2. [CYQawa/YunX](https://github.com/CYQawa/YunX)
 
 YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,624 |
-| Forks | 401 |
-| Stars today | 249 |
+| Stars | 7,821 |
+| Forks | 411 |
+| Stars today | 209 |
 
 ---
 
-## 4. [samolego/Canta](https://github.com/samolego/Canta) 🆕
-
-Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,171 |
-| Forks | 175 |
-| Stars today | 73 |
-
----
-
-## 5. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+## 3. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 
 Android app for streaming and downloading media.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,274 |
-| Forks | 1,204 |
-| Stars today | 33 |
+| Stars | 11,289 |
+| Forks | 1,209 |
+| Stars today | 20 |
 
 ---
 
-## 6. [JunkFood02/Seal](https://github.com/JunkFood02/Seal) 🆕
+## 4. [Lelonio/Square](https://github.com/Lelonio/Square) 🆕
 
-🦭 Video/Audio Downloader for Android, based on yt-dlp
+Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 30,616 |
-| Forks | 1,557 |
-| Stars today | 35 |
+| Stars | 518 |
+| Forks | 53 |
+| Stars today | 4 |
 
 ---
 
-## 7. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
+## 5. [tasks/tasks](https://github.com/tasks/tasks) 🆕
 
-Headunit App for displaying Android Auto
+Bringing Astrid Tasks back from the dead
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,295 |
-| Forks | 315 |
+| Stars | 5,742 |
+| Forks | 677 |
+| Stars today | 1 |
+
+---
+
+## 6. [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) 🆕
+
+Fcitx5 input method framework and engines ported to Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 5,902 |
+| Forks | 510 |
+| Stars today | 5 |
+
+---
+
+## 7. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) 🆕
+
+Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 812 |
+| Forks | 196 |
+| Stars today | 26 |
+
+---
+
+## 8. [damontecres/Wholphin](https://github.com/damontecres/Wholphin) 🆕
+
+An OSS Android TV client for Jellyfin
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,332 |
+| Forks | 244 |
 | Stars today | 10 |
 
 ---
 
-## 8. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) 🆕
+## 9. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) 🆕
 
-RikkaHub is an Android APP that supports for multiple LLM providers.
+A Download Manager that speeds up your downloads
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,820 |
-| Forks | 887 |
-| Stars today | 28 |
+| Stars | 19,271 |
+| Forks | 1,027 |
+| Stars today | 29 |
 
 ---
 
-## 9. [android/nowinandroid](https://github.com/android/nowinandroid)
+## 10. [mihonapp/mihon](https://github.com/mihonapp/mihon) 🆕
 
-A fully functional Android app built entirely with Kotlin and Jetpack Compose
+Free and open source manga reader for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 22,077 |
-| Forks | 4,716 |
-| Stars today | 6 |
+| Stars | 25,278 |
+| Forks | 1,805 |
+| Stars today | 31 |
 
 ---
 
-## 10. [HydeYYHH/Litube](https://github.com/HydeYYHH/Litube) 🆕
+## 11. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
 
-An unofficial, open-source YouTube client for Android.
+A V2Ray client for Android, support Xray core and v2fly core
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 613 |
-| Forks | 48 |
-| Stars today | 8 |
+| Stars | 65,853 |
+| Forks | 8,624 |
+| Stars today | 63 |
 
 ---
 
-## 11. [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) 🆕
+## 12. [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music) 🆕
 
-Source code of extensions inhttps://github.com/keiyoushi/extensions
+Vivi-Music is an expressive Material 3–based YouTube Music client for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,891 |
-| Forks | 1,835 |
-| Stars today | 4 |
+| Stars | 4,158 |
+| Forks | 154 |
+| Stars today | 20 |
 
 ---

@@ -1,92 +1,105 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:08Z
-**Total Repositories:** 16
-**New Entries:** 9
+**Snapshot Time:** 2026-11-14T06:11:51Z
+**Total Repositories:** 18
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [openemr/openemr](https://github.com/openemr/openemr) 🆕
+## 1. [glpi-project/glpi](https://github.com/glpi-project/glpi) 🆕
 
-The most popular open source electronic health records and medical practice management solution.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,597 |
-| Forks | 3,131 |
-| Stars today | 3 |
-
----
-
-## 2. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
-
-📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,824 |
-| Forks | 1,134 |
-| Stars today | 9 |
-
----
-
-## 3. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
-
-A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,599 |
-| Forks | 10,664 |
+| Stars | 6,594 |
+| Forks | 1,869 |
 | Stars today | 5 |
 
 ---
 
-## 4. [Leantime/leantime](https://github.com/Leantime/leantime) 🆕
+## 2. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
 
-Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+A free open source IT asset/license management system
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 12,093 |
-| Forks | 1,181 |
-| Stars today | 11 |
+| Stars | 15,186 |
+| Forks | 4,067 |
+| Stars today | 6 |
 
 ---
 
-## 5. [espocrm/espocrm](https://github.com/espocrm/espocrm)
+## 3. [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) 🆕
+
+Free and Open Source ERP software
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 12,215 |
+| Forks | 625 |
+| Stars today | 9 |
+
+---
+
+## 4. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) 🆕
+
+mailcow: dockerized - 🐮 + 🐋 = 💕
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 13,806 |
+| Forks | 1,870 |
+| Stars today | 15 |
+
+---
+
+## 5. [cedar2025/Xboard](https://github.com/cedar2025/Xboard)
+
+High-performance panel based on V2board secondary development supporting new protocols and new features
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,864 |
+| Forks | 1,390 |
+| Stars today | 2 |
+
+---
+
+## 6. [kimai/kimai](https://github.com/kimai/kimai) 🆕
+
+Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,162 |
+| Forks | 887 |
+| Stars today | 8 |
+
+---
+
+## 7. [espocrm/espocrm](https://github.com/espocrm/espocrm)
 
 EspoCRM – Open Source CRM Application
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,600 |
-| Forks | 1,035 |
-| Stars today | 21 |
+| Stars | 3,611 |
+| Forks | 1,039 |
+| Stars today | 9 |
 
 ---
 
-## 6. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
-
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 74,729 |
-| Forks | 25,195 |
-| Stars today | 19 |
-
----
-
-## 7. [vimeo/psalm](https://github.com/vimeo/psalm) 🆕
+## 8. [vimeo/psalm](https://github.com/vimeo/psalm)
 
 A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 
@@ -99,110 +112,111 @@ A PHP static analysis tool for finding errors and security vulnerabilities in PH
 
 ---
 
-## 8. [matomo-org/matomo](https://github.com/matomo-org/matomo) 🆕
+## 9. [mautic/mautic](https://github.com/mautic/mautic) 🆕
 
-Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
+Mautic: Open Source Marketing Automation Software.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 22,027 |
-| Forks | 2,931 |
-| Stars today | 4 |
+| Stars | 10,985 |
+| Forks | 3,541 |
+| Stars today | 9 |
 
 ---
 
-## 9. [cedar2025/Xboard](https://github.com/cedar2025/Xboard) 🆕
+## 10. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) 🆕
 
-High-performance panel based on V2board secondary development supporting new protocols and new features
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 4,861 |
-| Forks | 1,388 |
-| Stars today | 4 |
-
----
-
-## 10. [bagisto/bagisto](https://github.com/bagisto/bagisto) 🆕
-
-Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
+Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 28,366 |
-| Forks | 3,388 |
-| Stars today | 5 |
-
----
-
-## 11. [leokhoa/laragon](https://github.com/leokhoa/laragon)
-
-Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,462 |
-| Forks | 510 |
-| Stars today | 1 |
-
----
-
-## 12. [pterodactyl/panel](https://github.com/pterodactyl/panel)
-
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,506 |
-| Forks | 2,751 |
-| Stars today | 5 |
-
----
-
-## 13. [filamentphp/filament](https://github.com/filamentphp/filament) 🆕
-
-An open-source framework for building polished, maintainable business software with Laravel.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 32,492 |
-| Forks | 4,240 |
+| Stars | 7,867 |
+| Forks | 3,621 |
 | Stars today | 6 |
 
 ---
 
-## 14. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)
+## 11. [nextcloud/server](https://github.com/nextcloud/server) 🆕
 
-The Roundcube Webmail suite
+☁️ Nextcloud server, a safe home for all your data
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,273 |
-| Forks | 1,808 |
+| Stars | 37,512 |
+| Forks | 5,354 |
+| Stars today | 17 |
+
+---
+
+## 12. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 74,751 |
+| Forks | 25,194 |
+| Stars today | 31 |
+
+---
+
+## 13. [laravel/framework](https://github.com/laravel/framework) 🆕
+
+Laravel is a web application framework with expressive, elegant syntax.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 34,998 |
+| Forks | 12,031 |
 | Stars today | 3 |
 
 ---
 
-## 15. [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) 🆕
+## 14. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) 🆕
 
-A web interface for MySQL and MariaDB
+A free, self-hostable news aggregator…
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,974 |
-| Forks | 3,623 |
+| Stars | 16,583 |
+| Forks | 1,347 |
+| Stars today | 13 |
 
 ---
 
-## 16. [EC-CUBE/ec-cube](https://github.com/EC-CUBE/ec-cube) 🆕
+## 15. [krayin/laravel-crm](https://github.com/krayin/laravel-crm) 🆕
+
+Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 24,150 |
+| Forks | 1,686 |
+| Stars today | 3 |
+
+---
+
+## 16. [InvoiceShelf/InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf) 🆕
+
+Open Source Invoicing Solution for Individuals & Businesses
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 2,003 |
+| Forks | 414 |
+| Stars today | 49 |
+
+---
+
+## 17. [EC-CUBE/ec-cube](https://github.com/EC-CUBE/ec-cube)
 
 EC-CUBE is the most popular e-commerce solution in Japan
 
@@ -211,5 +225,17 @@ EC-CUBE is the most popular e-commerce solution in Japan
 | Language | PHP |
 | Stars | 792 |
 | Forks | 713 |
+
+---
+
+## 18. [shopware/shopware](https://github.com/shopware/shopware) 🆕
+
+Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 3,471 |
+| Forks | 1,226 |
 
 ---

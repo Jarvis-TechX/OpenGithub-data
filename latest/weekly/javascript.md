@@ -1,126 +1,100 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-13T06:34:25Z
-**Total Repositories:** 9
-**New Entries:** 3
+**Snapshot Time:** 2026-11-14T06:12:05Z
+**Total Repositories:** 7
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 71,360 |
-| Forks | 4,748 |
-| Stars this week | 10,700 |
-
----
-
-## 2. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 🆕
+## 1. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 116,835 |
-| Forks | 12,218 |
-| Stars this week | 3,199 |
+| Stars | 117,229 |
+| Forks | 12,261 |
+| Stars this week | 3,502 |
 
 ---
 
-## 3. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+## 2. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
-ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 15,044 |
-| Forks | 1,724 |
-| Stars this week | 996 |
+| Stars | 72,055 |
+| Forks | 4,803 |
+| Stars this week | 8,829 |
 
 ---
 
-## 4. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+## 3. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,014 |
-| Forks | 8,768 |
-| Stars this week | 1,301 |
+| Stars | 60,207 |
+| Forks | 8,791 |
+| Stars this week | 1,302 |
 
 ---
 
-## 5. [expressjs/express](https://github.com/expressjs/express) 🆕
+## 4. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
 
-Fast, unopinionated, minimalist web framework for node.
+ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,675 |
-| Forks | 25,438 |
-| Stars this week | 117 |
+| Stars | 15,098 |
+| Forks | 1,728 |
+| Stars this week | 602 |
 
 ---
 
-## 6. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+## 5. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,367 |
-| Forks | 6,599 |
-| Stars this week | 1,890 |
+| Stars | 34,559 |
+| Forks | 6,637 |
+| Stars this week | 1,716 |
 
 ---
 
-## 7. [axios/axios](https://github.com/axios/axios) 🆕
+## 6. [Yu9191/wloc](https://github.com/Yu9191/wloc) 🆕
 
-Promise based HTTP client for the browser and node.js
+修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 109,397 |
-| Forks | 12,019 |
-| Stars this week | 120 |
+| Stars | 10,822 |
+| Forks | 2,670 |
+| Stars this week | 225 |
 
 ---
 
-## 8. [react/react](https://github.com/react/react)
+## 7. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
 
-The library for web and native user interfaces.
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 252,565 |
-| Forks | 52,504 |
-| Stars this week | 942 |
-
----
-
-## 9. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
-
-江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 5,529 |
-| Forks | 651 |
-| Stars this week | 1,157 |
+| Stars | 115,163 |
+| Forks | 7,725 |
+| Stars this week | 3,885 |
 
 ---

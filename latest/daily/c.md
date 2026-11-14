@@ -1,100 +1,152 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:13Z
-**Total Repositories:** 7
-**New Entries:** 6
+**Snapshot Time:** 2026-11-14T06:11:55Z
+**Total Repositories:** 11
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [obsproject/obs-studio](https://github.com/obsproject/obs-studio) 🆕
+## 1. [JustVugg/colibri](https://github.com/JustVugg/colibri) 🆕
 
-OBS Studio - Free and open source software for live streaming and screen recording
+A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 79,483 |
-| Forks | 11,233 |
-| Stars today | 103 |
+| Stars | 50,918 |
+| Forks | 6,030 |
+| Stars today | 488 |
 
 ---
 
-## 2. [CTCaer/hekate](https://github.com/CTCaer/hekate) 🆕
+## 2. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 🆕
+
+Display and control your Android device
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 154,769 |
+| Forks | 14,209 |
+| Stars today | 84 |
+
+---
+
+## 3. [nothings/stb](https://github.com/nothings/stb) 🆕
+
+stb single-file public domain libraries for C/C++
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 35,027 |
+| Forks | 8,123 |
+| Stars today | 8 |
+
+---
+
+## 4. [pbatard/rufus](https://github.com/pbatard/rufus) 🆕
+
+The Reliable USB Formatting Utility
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 38,333 |
+| Forks | 3,208 |
+| Stars today | 9 |
+
+---
+
+## 5. [CTCaer/hekate](https://github.com/CTCaer/hekate)
 
 hekate - A GUI based Nintendo Switch Bootloader
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 9,015 |
+| Stars | 9,024 |
 | Forks | 700 |
-| Stars today | 25 |
+| Stars today | 8 |
 
 ---
 
-## 3. [ventoy/Ventoy](https://github.com/ventoy/Ventoy) 🆕
+## 6. [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) 🆕
 
-A new bootable USB solution.
+QuickJS, the Next Generation: a mighty JavaScript engine
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 80,859 |
-| Forks | 5,088 |
-| Stars today | 73 |
+| Stars | 4,147 |
+| Forks | 443 |
+| Stars today | 15 |
 
 ---
 
-## 4. [redis/redis](https://github.com/redis/redis) 🆕
+## 7. [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) 🆕
 
-For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+Playground (and dump) of stuff I make or modify for the Flipper Zero
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 77,486 |
-| Forks | 25,056 |
-| Stars today | 79 |
+| Stars | 17,822 |
+| Forks | 3,930 |
+| Stars today | 5 |
 
 ---
 
-## 5. [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) 🆕
+## 8. [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) 🆕
 
-The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
+🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 9,456 |
-| Forks | 3,481 |
-| Stars today | 7 |
+| Stars | 16,337 |
+| Forks | 2,788 |
+| Stars today | 18 |
 
 ---
 
-## 6. [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
+## 9. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) 🆕
 
-Flipper Zero Unleashed Firmware
+An advanced Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 22,717 |
-| Forks | 1,985 |
+| Stars | 4,834 |
+| Forks | 1,278 |
+| Stars today | 14 |
+
+---
+
+## 10. [FreeRTOS/FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) 🆕
+
+FreeRTOS kernel files only, submoduled intohttps://github.com/FreeRTOS/FreeRTOSand various other repos.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 4,653 |
+| Forks | 1,655 |
+| Stars today | 1 |
+
+---
+
+## 11. [daijro/camoufox](https://github.com/daijro/camoufox) 🆕
+
+🦊 Anti-detect browser
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 13,250 |
+| Forks | 1,117 |
 | Stars today | 22 |
-
----
-
-## 7. [SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) 🆕
-
-Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 852 |
-| Forks | 69 |
-| Stars today | 3 |
 
 ---

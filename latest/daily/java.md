@@ -1,226 +1,204 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:16Z
-**Total Repositories:** 17
-**New Entries:** 15
-**Quality Score:** 97.65/100
+**Snapshot Time:** 2026-11-14T06:11:57Z
+**Total Repositories:** 15
+**New Entries:** 11
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) 🆕
+## 1. [apache/iceberg](https://github.com/apache/iceberg) 🆕
 
-Learn System Design concepts and prepare for interviews using free resources.
+Apache Iceberg
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 43,344 |
-| Forks | 8,970 |
-| Stars today | 84 |
+| Stars | 9,432 |
+| Forks | 3,692 |
+| Stars today | 3 |
 
 ---
 
-## 2. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
-
-Free and Open Source, Distributed, RESTful Search Engine
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 78,683 |
-| Forks | 26,250 |
-| Stars today | 68 |
-
----
-
-## 3. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+## 2. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 67,222 |
-| Forks | 21,531 |
-| Stars today | 362 |
+| Stars | 67,238 |
+| Forks | 21,530 |
+| Stars today | 31 |
 
 ---
 
-## 4. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) 🆕
+## 3. [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) 🆕
 
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 81,910 |
-| Forks | 42,765 |
-| Stars today | 55 |
+| Stars | 48,469 |
+| Forks | 16,217 |
+| Stars today | 14 |
 
 ---
 
-## 5. [apache/flink](https://github.com/apache/flink) 🆕
+## 4. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
-Apache Flink
+Learn System Design concepts and prepare for interviews using free resources.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,468 |
-| Forks | 14,183 |
-| Stars today | 4 |
+| Stars | 43,369 |
+| Forks | 8,970 |
+| Stars today | 43 |
 
 ---
 
-## 6. [termux/termux-x11](https://github.com/termux/termux-x11) 🆕
+## 5. [termux/termux-x11](https://github.com/termux/termux-x11)
 
 Termux X-server add-on.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,131 |
-| Forks | 831 |
+| Stars | 5,141 |
+| Forks | 832 |
 | Stars today | 12 |
 
 ---
 
-## 7. [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata) 🆕
+## 6. [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) 🆕
+
+This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,510 |
-| Forks | 237 |
-| Stars today | 5 |
+| Stars | 24,140 |
+| Forks | 13,615 |
+| Stars today | 1 |
 
 ---
 
-## 8. [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) 🆕
+## 7. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) 🆕
 
-A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,662 |
-| Forks | 11,492 |
+| Stars | 40,409 |
+| Forks | 8,672 |
+| Stars today | 21 |
+
+---
+
+## 8. [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) 🆕
+
+OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 26,863 |
+| Forks | 7,761 |
 | Stars today | 2 |
 
 ---
 
-## 9. [apache/solr](https://github.com/apache/solr) 🆕
+## 9. [apache/zookeeper](https://github.com/apache/zookeeper) 🆕
 
-Apache Solr open-source search software
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,700 |
-| Forks | 869 |
-
----
-
-## 10. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-
-Jenkins automation server
+Apache ZooKeeper
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,772 |
-| Forks | 9,827 |
-| Stars today | 8 |
+| Stars | 12,834 |
+| Forks | 7,331 |
+| Stars today | 1 |
 
 ---
 
-## 11. [microg/GmsCore](https://github.com/microg/GmsCore) 🆕
+## 10. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) 🆕
 
-Free implementation of Play Services
+Mac.apk: Run Android apps natively on Apple Silicon Macs
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 15,292 |
-| Forks | 3,367 |
-| Stars today | 9 |
+| Stars | 4,221 |
+| Forks | 181 |
+| Stars today | 21 |
 
 ---
 
-## 12. [dataease/dataease](https://github.com/dataease/dataease) 🆕
-
-🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 24,694 |
-| Forks | 4,263 |
-| Stars today | 2 |
-
----
-
-## 13. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) 🆕
+## 11. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)
 
 Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,258 |
+| Stars | 1,267 |
 | Forks | 78 |
-| Stars today | 29 |
+| Stars today | 9 |
 
 ---
 
-## 14. [DrKLO/Telegram](https://github.com/DrKLO/Telegram) 🆕
+## 12. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
 
-Telegram for Android source
+Build distributed, production-grade, long-running agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,272 |
-| Forks | 10,537 |
-| Stars today | 10 |
+| Stars | 6,365 |
+| Forks | 1,608 |
+| Stars today | 14 |
 
 ---
 
-## 15. [openjdk/jdk](https://github.com/openjdk/jdk) 🆕
+## 13. [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) 🆕
 
-JDK main-line developmenthttps://openjdk.org/projects/jdk
+基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 23,525 |
-| Forks | 6,603 |
-| Stars today | 7 |
+| Stars | 7,433 |
+| Forks | 2,144 |
+| Stars today | 2 |
 
 ---
 
-## 16. [apache/ozone](https://github.com/apache/ozone) 🆕
+## 14. [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) 🆕
 
-Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
+SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,334 |
-| Forks | 657 |
+| Stars | 777 |
+| Forks | 37 |
+| Stars today | 26 |
 
 ---
 
-## 17. [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) 🆕
+## 15. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
 
-The main repository of Telegram X — official alternative Telegram client for Android.
+Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,191 |
-| Forks | 1,190 |
-| Stars today | 3 |
+| Stars | 708 |
+| Forks | 115 |
+| Stars today | 9 |
 
 ---

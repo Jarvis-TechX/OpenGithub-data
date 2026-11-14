@@ -1,23 +1,23 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:03Z
-**Total Repositories:** 14
-**New Entries:** 11
+**Snapshot Time:** 2026-11-14T06:11:47Z
+**Total Repositories:** 10
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [nodejs/node](https://github.com/nodejs/node) 🆕
+## 1. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) 🆕
 
-Node.js JavaScript runtime ✨🐢🚀✨
+A fancy self-hosted monitoring tool
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 123,645 |
-| Forks | 38,060 |
-| Stars today | 62 |
+| Stars | 93,952 |
+| Forks | 8,727 |
+| Stars today | 71 |
 
 ---
 
@@ -28,164 +28,112 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 116,835 |
-| Forks | 12,218 |
-| Stars today | 816 |
+| Stars | 117,229 |
+| Forks | 12,261 |
+| Stars today | 591 |
 
 ---
 
-## 3. [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) 🆕
+## 3. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
 
-免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 15,440 |
-| Forks | 1,111 |
-| Stars today | 131 |
+| Stars | 115,163 |
+| Forks | 7,725 |
+| Stars today | 795 |
 
 ---
 
-## 4. [axios/axios](https://github.com/axios/axios) 🆕
+## 4. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
 
-Promise based HTTP client for the browser and node.js
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 109,397 |
-| Forks | 12,019 |
-| Stars today | 55 |
+| Stars | 302,550 |
+| Forks | 44,627 |
+| Stars today | 559 |
 
 ---
 
-## 5. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
+## 5. [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) 🆕
 
-Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,014 |
-| Forks | 8,768 |
-| Stars today | 208 |
+| Stars | 1,147 |
+| Forks | 231 |
+| Stars today | 5 |
 
 ---
 
-## 6. [sveltejs/svelte](https://github.com/sveltejs/svelte) 🆕
-
-web development for the rest of us
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 88,752 |
-| Forks | 6,064 |
-| Stars today | 79 |
-
----
-
-## 7. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) 🆕
-
-Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 11,462 |
-| Forks | 1,509 |
-| Stars today | 116 |
-
----
-
-## 8. [react/react](https://github.com/react/react) 🆕
-
-The library for web and native user interfaces.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 252,565 |
-| Forks | 52,504 |
-| Stars today | 78 |
-
----
-
-## 9. [expressjs/express](https://github.com/expressjs/express) 🆕
-
-Fast, unopinionated, minimalist web framework for node.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 69,675 |
-| Forks | 25,438 |
-| Stars today | 37 |
-
----
-
-## 10. [PenglongHuang/chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)
-
-🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 4,843 |
-| Forks | 660 |
-| Stars today | 31 |
-
----
-
-## 11. [mksglu/context-mode](https://github.com/mksglu/context-mode) 🆕
+## 6. [mksglu/context-mode](https://github.com/mksglu/context-mode)
 
 Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,008 |
-| Forks | 2,334 |
-| Stars today | 113 |
+| Stars | 34,065 |
+| Forks | 2,339 |
+| Stars today | 77 |
 
 ---
 
-## 12. [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) 🆕
+## 7. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
-Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 9,315 |
-| Forks | 552 |
-| Stars today | 51 |
+| Stars | 60,207 |
+| Forks | 8,791 |
+| Stars today | 190 |
 
 ---
 
-## 13. [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) 🆕
+## 8. [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)
 
-Play with fluids in your browser (works even on mobile)
+Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 16,838 |
-| Forks | 1,925 |
-| Stars today | 11 |
+| Stars | 11,527 |
+| Forks | 1,516 |
+| Stars today | 79 |
 
 ---
 
-## 14. [tiagozip/cap](https://github.com/tiagozip/cap)
+## 9. [tabler/tabler-icons](https://github.com/tabler/tabler-icons) 🆕
 
-The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
+A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 8,365 |
-| Forks | 654 |
-| Stars today | 25 |
+| Stars | 22,646 |
+| Forks | 1,276 |
+| Stars today | 20 |
+
+---
+
+## 10. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
+
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 190,462 |
+| Forks | 10,639 |
+| Stars today | 600 |
 
 ---

@@ -1,36 +1,36 @@
 # GitHub Trending - All
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-13T06:34:45Z
-**Total Repositories:** 14
-**New Entries:** 0
+**Snapshot Time:** 2026-11-14T06:12:22Z
+**Total Repositories:** 15
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [morluto/rea](https://github.com/morluto/rea)
-
-Reverse engineer anything with agents, from app behavior down to native binaries.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 455,897 |
-| Forks | 111,954 |
-| Stars this month | 325,178 |
-
----
-
-## 2. [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+## 1. [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 
 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 | Metric | Value |
 |--------|-------|
 | Language | CSS |
-| Stars | 54,150 |
-| Forks | 2,890 |
-| Stars this month | 24,106 |
+| Stars | 54,611 |
+| Forks | 2,916 |
+| Stars this month | 24,631 |
+
+---
+
+## 2. [morluto/rea](https://github.com/morluto/rea)
+
+Reverse engineer anything with agents, from app behavior down to native binaries.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 458,104 |
+| Forks | 112,377 |
+| Stars this month | 271,084 |
 
 ---
 
@@ -41,9 +41,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 71,361 |
-| Forks | 4,748 |
-| Stars this month | 42,602 |
+| Stars | 72,055 |
+| Forks | 4,803 |
+| Stars this month | 42,839 |
 
 ---
 
@@ -54,9 +54,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 116,637 |
-| Forks | 10,118 |
-| Stars this month | 17,162 |
+| Stars | 116,900 |
+| Forks | 10,145 |
+| Stars this month | 17,120 |
 
 ---
 
@@ -67,9 +67,9 @@ The best way to control Claude Code, Codex and more from any computer or phone
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 58,687 |
-| Forks | 10,712 |
-| Stars this month | 30,926 |
+| Stars | 59,790 |
+| Forks | 10,830 |
+| Stars this month | 32,057 |
 
 ---
 
@@ -80,9 +80,9 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 109,136 |
-| Forks | 6,506 |
-| Stars this month | 29,165 |
+| Stars | 109,746 |
+| Forks | 6,548 |
+| Stars this month | 29,328 |
 
 ---
 
@@ -93,9 +93,9 @@ Write HTML. Render video. Built for agents.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 83,560 |
-| Forks | 7,712 |
-| Stars this month | 22,251 |
+| Stars | 84,035 |
+| Forks | 7,769 |
+| Stars this month | 21,924 |
 
 ---
 
@@ -106,9 +106,9 @@ DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 58,737 |
-| Forks | 7,138 |
-| Stars this month | 17,692 |
+| Stars | 59,006 |
+| Forks | 7,161 |
+| Stars this month | 17,913 |
 
 ---
 
@@ -119,35 +119,35 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 193,824 |
-| Forks | 22,805 |
-| Stars this month | 13,440 |
+| Stars | 194,228 |
+| Forks | 22,850 |
+| Stars this month | 13,734 |
 
 ---
 
-## 10. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+## 10. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
+
+Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 29,124 |
+| Forks | 3,705 |
+| Stars this month | 10,190 |
+
+---
+
+## 11. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
 VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 109,391 |
-| Forks | 12,121 |
-| Stars this month | 49,960 |
-
----
-
-## 11. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 47,082 |
-| Forks | 4,886 |
-| Stars this month | 9,515 |
+| Stars | 110,119 |
+| Forks | 12,204 |
+| Stars this month | 48,848 |
 
 ---
 
@@ -158,34 +158,47 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 114,498 |
-| Forks | 7,700 |
-| Stars this month | 19,580 |
+| Stars | 115,163 |
+| Forks | 7,725 |
+| Stars this month | 19,948 |
 
 ---
 
-## 13. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
-
-Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 28,776 |
-| Forks | 3,676 |
-| Stars this month | 9,819 |
-
----
-
-## 14. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+## 13. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 
 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 35,603 |
-| Forks | 3,937 |
-| Stars this month | 6,451 |
+| Stars | 35,687 |
+| Forks | 3,950 |
+| Stars this month | 6,311 |
+
+---
+
+## 14. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 47,224 |
+| Forks | 4,901 |
+| Stars this month | 9,580 |
+
+---
+
+## 15. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 🆕
+
+Browser automation CLI for AI agents
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 50,809 |
+| Forks | 3,536 |
+| Stars this month | 6,810 |
 
 ---

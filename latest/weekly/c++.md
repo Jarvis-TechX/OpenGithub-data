@@ -1,10 +1,10 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-13T06:34:37Z
-**Total Repositories:** 16
-**New Entries:** 5
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-11-14T06:12:15Z
+**Total Repositories:** 13
+**New Entries:** 4
+**Quality Score:** 96.92/100
 
 ---
 
@@ -15,9 +15,9 @@ Multi-Joint dynamics with Contact. A general purpose physics simulator.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,799 |
-| Forks | 2,183 |
-| Stars this week | 1,671 |
+| Stars | 17,899 |
+| Forks | 2,187 |
+| Stars this week | 1,764 |
 
 ---
 
@@ -28,188 +28,149 @@ LLM inference in C/C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 134,702 |
-| Forks | 25,522 |
-| Stars this week | 1,086 |
+| Stars | 134,915 |
+| Forks | 25,584 |
+| Stars this week | 1,416 |
 
 ---
 
-## 3. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
-
-An Open Source Machine Learning Framework for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 201,584 |
-| Forks | 77,952 |
-| Stars this week | 362 |
-
----
-
-## 4. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) 🆕
+## 3. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
 
 A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,227 |
-| Forks | 441 |
-| Stars this week | 782 |
+| Stars | 2,291 |
+| Forks | 458 |
+| Stars this week | 700 |
 
 ---
 
-## 5. [nlohmann/json](https://github.com/nlohmann/json)
+## 4. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) 🆕
 
-JSON for Modern C++
+DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 50,896 |
-| Forks | 7,517 |
-| Stars this week | 60 |
+| Stars | 2,577 |
+| Forks | 82 |
+| Stars this week | 503 |
 
 ---
 
-## 6. [godotengine/godot](https://github.com/godotengine/godot)
-
-Godot Engine – Multi-platform 2D and 3D game engine
+## 5. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 120,059 |
-| Forks | 27,475 |
-| Stars this week | 493 |
+| Stars | 618 |
+| Forks | 62 |
+| Stars this week | 128 |
 
 ---
 
-## 7. [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) 🆕
+## 6. [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)
 
 OpenToonz - An open-source full-featured 2D animation creation software
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 8,196 |
-| Forks | 942 |
-| Stars this week | 195 |
+| Stars | 8,215 |
+| Forks | 943 |
+| Stars this week | 201 |
 
 ---
 
-## 8. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port)
+## 7. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+
+An Open Source Machine Learning Framework for Everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 609 |
-| Forks | 62 |
-| Stars this week | 126 |
+| Stars | 201,592 |
+| Forks | 77,960 |
+| Stars this week | 305 |
 
 ---
 
-## 9. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+## 8. [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) 🆕
 
-Amnezia VPN Client (Desktop+Mobile)
+Self-hosted game stream host for Moonlight.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 15,918 |
-| Forks | 1,287 |
-| Stars this week | 168 |
+| Stars | 43,372 |
+| Forks | 2,385 |
+| Stars this week | 326 |
 
 ---
 
-## 10. [fmtlib/fmt](https://github.com/fmtlib/fmt) 🆕
-
-A modern formatting library
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 25,944 |
-| Forks | 3,101 |
-| Stars this week | 41 |
-
----
-
-## 11. [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
+## 9. [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 
 A library for efficient similarity search and clustering of dense vectors.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,561 |
-| Forks | 4,626 |
-| Stars this week | 285 |
+| Stars | 41,632 |
+| Forks | 4,633 |
+| Stars this week | 361 |
 
 ---
 
-## 12. [opencv/opencv](https://github.com/opencv/opencv)
+## 10. [google/googletest](https://github.com/google/googletest) 🆕
 
-Open Source Computer Vision Library
+GoogleTest - Google Testing and Mocking Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 91,552 |
-| Forks | 57,115 |
-| Stars this week | 120 |
+| Stars | 39,737 |
+| Forks | 10,942 |
+| Stars this week | 41 |
 
 ---
 
-## 13. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
-
-ClickHouse® is a real-time analytics database management system
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 50,917 |
-| Forks | 9,260 |
-| Stars this week | 160 |
-
----
-
-## 14. [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-
-ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 22,297 |
-| Forks | 4,443 |
-| Stars this week | 59 |
-
----
-
-## 15. [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+## 11. [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 
 Powerful yet simple to use screenshot software 🖥️ 📸
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,528 |
-| Forks | 2,102 |
-| Stars this week | 122 |
+| Stars | 31,542 |
+| Forks | 2,106 |
+| Stars this week | 126 |
 
 ---
 
-## 16. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) 🆕
+## 12. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
-Protocol Buffers - Google's data interchange format
+Amnezia VPN Client (Desktop+Mobile)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 72,169 |
-| Forks | 16,357 |
-| Stars this week | 38 |
+| Stars | 15,940 |
+| Forks | 1,288 |
+| Stars this week | 155 |
+
+---
+
+## 13. [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) 🆕
+
+Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 7,046 |
+| Forks | 457 |
+| Stars this week | 326 |
 
 ---

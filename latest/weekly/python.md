@@ -1,75 +1,75 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-13T06:34:24Z
-**Total Repositories:** 14
-**New Entries:** 4
+**Snapshot Time:** 2026-11-14T06:12:04Z
+**Total Repositories:** 16
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [anthropics/skills](https://github.com/anthropics/skills)
+## 1. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+
+Hunt down social media accounts by username across social networks
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 111,299 |
+| Forks | 12,881 |
+| Stars this week | 13,364 |
+
+---
+
+## 2. [anthropics/skills](https://github.com/anthropics/skills)
 
 Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 193,823 |
-| Forks | 22,805 |
-| Stars this week | 6,055 |
+| Stars | 194,228 |
+| Forks | 22,850 |
+| Stars this week | 6,169 |
 
 ---
 
-## 2. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
+## 3. [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) 🆕
+
+Open-source plugin for designing and reviewing software with agents
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 18,726 |
+| Forks | 1,398 |
+| Stars this week | 5,560 |
+
+---
+
+## 4. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+
+LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 71,843 |
+| Forks | 57,359 |
+| Stars this week | 3,778 |
+
+---
+
+## 5. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
 
 Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 12,332 |
-| Forks | 1,014 |
-| Stars this week | 5,802 |
-
----
-
-## 3. [google/skills](https://github.com/google/skills)
-
-Agent Skills for Google products and technologies
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 24,099 |
-| Forks | 2,006 |
-| Stars this week | 1,933 |
-
----
-
-## 4. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-
-🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 102,266 |
-| Forks | 10,643 |
-| Stars this week | 4,743 |
-
----
-
-## 5. [home-assistant/core](https://github.com/home-assistant/core) 🆕
-
-🏡 Open source home automation that puts local control and privacy first.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 92,278 |
-| Forks | 39,308 |
-| Stars this week | 309 |
+| Stars | 12,629 |
+| Forks | 1,038 |
+| Stars this week | 4,108 |
 
 ---
 
@@ -80,35 +80,35 @@ A collection of projects designed to help developers quickly get started with bu
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 20,816 |
-| Forks | 3,492 |
-| Stars this week | 1,710 |
+| Stars | 20,885 |
+| Forks | 3,490 |
+| Stars this week | 1,731 |
 
 ---
 
-## 7. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) 🆕
+## 7. [google/skills](https://github.com/google/skills)
+
+Agent Skills for Google products and technologies
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 24,147 |
+| Forks | 2,006 |
+| Stars this week | 1,442 |
+
+---
+
+## 8. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 
 Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,708 |
-| Forks | 468 |
-| Stars this week | 2,244 |
-
----
-
-## 8. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
-
-🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 16,040 |
-| Forks | 2,186 |
-| Stars this week | 980 |
+| Stars | 7,762 |
+| Forks | 471 |
+| Stars this week | 2,302 |
 
 ---
 
@@ -119,73 +119,99 @@ Configure and automate Home Assistant with Claude, ChatGPT, and other AI assista
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 143,037 |
-| Forks | 22,895 |
-| Stars this week | 3,314 |
+| Stars | 143,362 |
+| Forks | 22,949 |
+| Stars this week | 3,217 |
 
 ---
 
-## 10. [github/spec-kit](https://github.com/github/spec-kit)
+## 10. [bradautomates/claude-video](https://github.com/bradautomates/claude-video) 🆕
 
-💫 Toolkit to help you get started with SDD or any other process!
+Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 149,581 |
-| Forks | 13,437 |
-| Stars this week | 1,874 |
+| Stars | 20,738 |
+| Forks | 2,206 |
+| Stars this week | 707 |
 
 ---
 
-## 11. [scenario-labs/skills](https://github.com/scenario-labs/skills)
+## 11. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 
-Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
+🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,746 |
-| Forks | 329 |
-| Stars this week | 878 |
+| Stars | 102,564 |
+| Forks | 10,680 |
+| Stars this week | 3,846 |
 
 ---
 
-## 12. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+## 12. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
 
-Hunt down social media accounts by username across social networks
+🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 110,689 |
-| Forks | 12,819 |
-| Stars this week | 14,381 |
+| Stars | 16,124 |
+| Forks | 2,193 |
+| Stars this week | 850 |
 
 ---
 
-## 13. [pydantic/pydantic](https://github.com/pydantic/pydantic) 🆕
+## 13. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) 🆕
 
-Data validation using Python type hints
+Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 29,494 |
-| Forks | 3,164 |
-| Stars this week | 213 |
+| Stars | 33,496 |
+| Forks | 3,935 |
+| Stars this week | 332 |
 
 ---
 
-## 14. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) 🆕
+## 14. [jamiepine/voicebox](https://github.com/jamiepine/voicebox) 🆕
 
-LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+The open-source AI voice studio. Clone, dictate, create.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,136 |
-| Forks | 57,167 |
-| Stars this week | 3,569 |
+| Stars | 60,598 |
+| Forks | 7,620 |
+| Stars this week | 1,076 |
+
+---
+
+## 15. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) 🆕
+
+Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 25,924 |
+| Forks | 2,300 |
+| Stars this week | 1,212 |
+
+---
+
+## 16. [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) 🆕
+
+Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 6,354 |
+| Forks | 1,244 |
+| Stars this week | 1,213 |
 
 ---

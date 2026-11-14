@@ -1,10 +1,10 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:05Z
-**Total Repositories:** 20
-**New Entries:** 15
-**Quality Score:** 98.50/100
+**Snapshot Time:** 2026-11-14T06:11:48Z
+**Total Repositories:** 18
+**New Entries:** 9
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,9 +15,9 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,573 |
-| Forks | 222 |
-| Stars today | 739 |
+| Stars | 5,058 |
+| Forks | 277 |
+| Stars today | 1,925 |
 
 ---
 
@@ -28,126 +28,126 @@ OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,640 |
-| Forks | 986 |
-| Stars today | 643 |
+| Stars | 13,248 |
+| Forks | 1,027 |
+| Stars today | 751 |
 
 ---
 
-## 3. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) 🆕
+## 3. [backnotprop/plannotator](https://github.com/backnotprop/plannotator) 🆕
 
-An open-source AI coding agent that lives in your terminal.
+The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,969 |
-| Forks | 3,409 |
-| Stars today | 151 |
+| Stars | 10,557 |
+| Forks | 791 |
+| Stars today | 108 |
 
 ---
 
-## 4. [meta/astryx](https://github.com/meta/astryx)
+## 4. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
-An open source design system that's fully customizable and agent ready
+Chrome DevTools for coding agents
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,860 |
-| Forks | 2,084 |
-| Stars today | 1,830 |
+| Stars | 55,648 |
+| Forks | 4,614 |
+| Stars today | 67 |
 
 ---
 
-## 5. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) 🆕
+## 5. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 
 Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,820 |
-| Forks | 1,453 |
-| Stars today | 298 |
+| Stars | 12,151 |
+| Forks | 1,491 |
+| Stars today | 674 |
 
 ---
 
-## 6. [n8n-io/n8n](https://github.com/n8n-io/n8n) 🆕
+## 6. [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) 🆕
 
-Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 210,350 |
-| Forks | 61,492 |
-| Stars today | 167 |
+| Stars | 17,322 |
+| Forks | 1,404 |
+| Stars today | 117 |
 
 ---
 
-## 7. [supabase/supabase](https://github.com/supabase/supabase) 🆕
-
-The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 114,949 |
-| Forks | 15,133 |
-| Stars today | 97 |
-
----
-
-## 8. [block/buzz-app](https://github.com/block/buzz-app) 🆕
-
-A new desktop/web app experience for buzz
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 227 |
-| Forks | 177 |
-| Stars today | 41 |
-
----
-
-## 9. [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) 🆕
-
-LIBERATED AI CHAT
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 12,255 |
-| Forks | 2,859 |
-| Stars today | 29 |
-
----
-
-## 10. [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) 🆕
+## 7. [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored)
 
 The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 4,116 |
-| Forks | 653 |
-| Stars today | 197 |
+| Stars | 4,202 |
+| Forks | 666 |
+| Stars today | 148 |
 
 ---
 
-## 11. [adewaskar/jarvis](https://github.com/adewaskar/jarvis) 🆕
+## 8. [shanliuling/dsh-image-gen](https://github.com/shanliuling/dsh-image-gen)
 
-J.A.R.V.I.S for automating your daily tasks using Claude Code
+可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 868 |
-| Forks | 374 |
-| Stars today | 34 |
+| Stars | 1,485 |
+| Forks | 125 |
+| Stars today | 95 |
+
+---
+
+## 9. [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) 🆕
+
+Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 26,081 |
+| Forks | 2,067 |
+| Stars today | 15 |
+
+---
+
+## 10. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+
+An open-source AI coding agent that lives in your terminal.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 30,129 |
+| Forks | 3,417 |
+| Stars today | 462 |
+
+---
+
+## 11. [AdventDevInc/kudu](https://github.com/AdventDevInc/kudu) 🆕
+
+Free Windows, Mac and Linux cleaner, scanner, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 4,342 |
+| Forks | 360 |
+| Stars today | 18 |
 
 ---
 
@@ -158,111 +158,86 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,755 |
-| Forks | 1,057 |
+| Stars | 8,772 |
+| Forks | 1,053 |
 | Stars today | 13 |
 
 ---
 
-## 13. [appwrite/appwrite](https://github.com/appwrite/appwrite) 🆕
+## 13. [thesysdev/openui](https://github.com/thesysdev/openui) 🆕
 
-The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 58,073 |
-| Forks | 5,871 |
-| Stars today | 78 |
-
----
-
-## 14. [every-app/open-seo](https://github.com/every-app/open-seo) 🆕
-
-Open source alternative to Semrush and Ahrefs
+The Open Standard for Generative UI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 27,529 |
-| Forks | 3,855 |
-| Stars today | 145 |
+| Stars | 15,200 |
+| Forks | 1,011 |
+| Stars today | 35 |
 
 ---
 
-## 15. [shanliuling/dsh-image-gen](https://github.com/shanliuling/dsh-image-gen) 🆕
+## 14. [adewaskar/jarvis](https://github.com/adewaskar/jarvis)
 
-可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.
+J.A.R.V.I.S for automating your daily tasks using Claude Code
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,412 |
-| Forks | 121 |
-| Stars today | 70 |
+| Stars | 894 |
+| Forks | 389 |
+| Stars today | 35 |
 
 ---
 
-## 16. [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) 🆕
+## 15. [callstack/agent-device](https://github.com/callstack/agent-device) 🆕
 
-The Secure CommsOS™ for mission-critical operations
+Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 46,504 |
-| Forks | 14,150 |
-| Stars today | 52 |
+| Stars | 5,382 |
+| Forks | 403 |
+| Stars today | 21 |
 
 ---
 
-## 17. [angular/angular](https://github.com/angular/angular) 🆕
+## 16. [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) 🆕
 
-Deliver web apps with confidence 🚀
+GitNexus: The Zero-Server Code Intelligence Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 101,485 |
-| Forks | 28,210 |
-| Stars today | 65 |
+| Stars | 48,521 |
+| Forks | 5,262 |
+| Stars today | 48 |
 
 ---
 
-## 18. [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) 🆕
+## 17. [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) 🆕
 
-📨 The ultimate agentic social media scheduling tool 🤖
+Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 41,493 |
-| Forks | 7,917 |
-| Stars today | 92 |
+| Stars | 18,502 |
+| Forks | 1,473 |
+| Stars today | 54 |
 
 ---
 
-## 19. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 🆕
+## 18. [actions/checkout](https://github.com/actions/checkout) 🆕
 
-Chrome DevTools for coding agents
+Action for checking out a repo
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 55,187 |
-| Forks | 4,604 |
-| Stars today | 60 |
-
----
-
-## 20. [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
-
-Modern protocol-side framework
-
-| Metric | Value |
-|--------|-------|
-| Stars | 12,781 |
-| Forks | 1,906 |
-| Stars today | 95 |
+| Stars | 9,015 |
+| Forks | 2,749 |
+| Stars today | 4 |
 
 ---

@@ -1,165 +1,165 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-13T06:34:20Z
+**Snapshot Time:** 2026-11-14T06:12:00Z
 **Total Repositories:** 12
-**New Entries:** 9
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [xtool-org/xtool](https://github.com/xtool-org/xtool)
-
-Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 15,416 |
-| Forks | 921 |
-| Stars today | 96 |
-
----
-
-## 2. [apple/container](https://github.com/apple/container) 🆕
+## 1. [apple/container](https://github.com/apple/container)
 
 A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 51,348 |
+| Stars | 51,442 |
 | Forks | 1,823 |
-| Stars today | 149 |
+| Stars today | 104 |
 
 ---
 
-## 3. [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) 🆕
+## 2. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) 🆕
 
-Process Explorer for MacOS
+ This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 851 |
-| Forks | 23 |
-| Stars today | 243 |
+| Stars | 118,491 |
+| Forks | 10,287 |
+| Stars today | 84 |
 
 ---
 
-## 4. [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) 🆕
-
-Protect your SSH keys with your Mac's Secure Enclave
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,385 |
-| Forks | 236 |
-| Stars today | 43 |
-
----
-
-## 5. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
-
-iOS 27 MobileGestalt editor
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,021 |
-| Forks | 81 |
-| Stars today | 41 |
-
----
-
-## 6. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) 🆕
+## 3. [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 
 Free and open-source macOS menu bar toolkit.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 34,510 |
-| Forks | 1,740 |
-| Stars today | 276 |
+| Stars | 34,633 |
+| Forks | 1,751 |
+| Stars today | 131 |
 
 ---
 
-## 7. [sozercan/kaset](https://github.com/sozercan/kaset) 🆕
+## 4. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
 
-📼 The missing YouTube and YouTube Music macOS app
+iOS 27 MobileGestalt editor
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,585 |
-| Forks | 197 |
-| Stars today | 15 |
+| Stars | 1,042 |
+| Forks | 81 |
+| Stars today | 21 |
 
 ---
 
-## 8. [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) 🆕
+## 5. [xtool-org/xtool](https://github.com/xtool-org/xtool)
 
-A cosy home for your LLMs.
+Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,790 |
-| Forks | 145 |
+| Stars | 15,478 |
+| Forks | 926 |
+| Stars today | 69 |
+
+---
+
+## 6. [sw33tLie/macshot](https://github.com/sw33tLie/macshot) 🆕
+
+Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,143 |
+| Forks | 283 |
+| Stars today | 10 |
+
+---
+
+## 7. [Caldis/Mos](https://github.com/Caldis/Mos) 🆕
+
+一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 21,914 |
+| Forks | 710 |
 | Stars today | 12 |
 
 ---
 
-## 9. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 8. [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 🆕
 
-Run iOS apps without actually installing them!
+🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,161 |
-| Forks | 1,323 |
-| Stars today | 29 |
+| Stars | 34,717 |
+| Forks | 1,041 |
+| Stars today | 16 |
 
 ---
 
-## 10. [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) 🆕
+## 9. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) 🆕
 
-Native Jellyfin Client for iOS and tvOS
+An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,277 |
-| Forks | 658 |
-| Stars today | 2 |
+| Stars | 1,424 |
+| Forks | 114 |
+| Stars today | 17 |
 
 ---
 
-## 11. [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) 🆕
+## 10. [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac)
 
-Powerful macOS menu bar customization tool
+Process Explorer for MacOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,789 |
-| Forks | 145 |
-| Stars today | 8 |
+| Stars | 919 |
+| Forks | 27 |
+| Stars today | 148 |
 
 ---
 
-## 12. [exelban/stats](https://github.com/exelban/stats) 🆕
+## 11. [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) 🆕
 
-macOS system monitor in your menu bar
+👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 43,357 |
-| Forks | 1,627 |
-| Stars today | 32 |
+| Stars | 2,966 |
+| Forks | 274 |
+| Stars today | 19 |
+
+---
+
+## 12. [caezium/burrow](https://github.com/caezium/burrow) 🆕
+
+🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,770 |
+| Forks | 186 |
+| Stars today | 16 |
 
 ---

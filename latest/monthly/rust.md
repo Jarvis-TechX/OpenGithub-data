@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-13T06:34:58Z
+**Snapshot Time:** 2026-11-14T06:12:32Z
 **Total Repositories:** 19
-**New Entries:** 4
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 109,136 |
-| Forks | 6,506 |
-| Stars this month | 29,165 |
+| Stars | 109,746 |
+| Forks | 6,548 |
+| Stars this month | 29,328 |
 
 ---
 
@@ -28,9 +28,9 @@ Browser automation CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 50,420 |
-| Forks | 3,510 |
-| Stars this month | 6,529 |
+| Stars | 50,809 |
+| Forks | 3,536 |
+| Stars this month | 6,810 |
 
 ---
 
@@ -41,9 +41,9 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,757 |
-| Forks | 1,160 |
-| Stars this month | 6,671 |
+| Stars | 15,820 |
+| Forks | 1,167 |
+| Stars this month | 6,703 |
 
 ---
 
@@ -54,35 +54,35 @@ Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,485 |
-| Forks | 494 |
-| Stars this month | 3,319 |
+| Stars | 12,515 |
+| Forks | 495 |
+| Stars this month | 3,339 |
 
 ---
 
-## 5. [cjpais/Handy](https://github.com/cjpais/Handy)
-
-A free, open source, and extensible speech-to-text application that works completely offline.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 38,600 |
-| Forks | 3,637 |
-| Stars this month | 5,070 |
-
----
-
-## 6. [zed-industries/zed](https://github.com/zed-industries/zed)
+## 5. [zed-industries/zed](https://github.com/zed-industries/zed)
 
 Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 94,879 |
-| Forks | 11,672 |
-| Stars this month | 3,763 |
+| Stars | 94,984 |
+| Forks | 11,697 |
+| Stars this month | 3,846 |
+
+---
+
+## 6. [cjpais/Handy](https://github.com/cjpais/Handy)
+
+A free, open source, and extensible speech-to-text application that works completely offline.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 38,704 |
+| Forks | 3,651 |
+| Stars this month | 5,117 |
 
 ---
 
@@ -93,35 +93,35 @@ Next Generation Agentic Proxy for AI Agents and MCP servers
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,158 |
-| Forks | 1,091 |
-| Stars this month | 863 |
+| Stars | 6,179 |
+| Forks | 1,092 |
+| Stars this month | 878 |
 
 ---
 
-## 8. [ruvnet/RuView](https://github.com/ruvnet/RuView)
-
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 104,187 |
-| Forks | 13,559 |
-| Stars this month | 7,010 |
-
----
-
-## 9. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+## 8. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
 
 Computer use CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 22,881 |
-| Forks | 1,696 |
-| Stars this month | 20,927 |
+| Stars | 23,412 |
+| Forks | 1,733 |
+| Stars this month | 21,513 |
+
+---
+
+## 9. [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
+π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 104,251 |
+| Forks | 13,564 |
+| Stars this month | 6,841 |
 
 ---
 
@@ -132,87 +132,87 @@ AI search engine and MCP server for bots and agents. One Rust binary indexes cod
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,985 |
-| Forks | 1,400 |
-| Stars this month | 17,005 |
+| Stars | 19,046 |
+| Forks | 1,409 |
+| Stars this month | 16,946 |
 
 ---
 
-## 11. [jub0t/Concat](https://github.com/jub0t/Concat)
-
-Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 17,208 |
-| Forks | 2,124 |
-| Stars this month | 12,215 |
-
----
-
-## 12. [astral-sh/ruff](https://github.com/astral-sh/ruff)
+## 11. [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 An extremely fast Python linter and code formatter, written in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 51,237 |
-| Forks | 2,667 |
-| Stars this month | 1,645 |
+| Stars | 51,228 |
+| Forks | 2,666 |
+| Stars this month | 1,666 |
 
 ---
 
-## 13. [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies) 🆕
+## 12. [jub0t/Concat](https://github.com/jub0t/Concat)
 
-Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.
+Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,887 |
-| Forks | 325 |
-| Stars this month | 1,860 |
+| Stars | 17,422 |
+| Forks | 2,143 |
+| Stars this month | 12,279 |
 
 ---
 
-## 14. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) 🆕
-
-OpenShell is the safe, private runtime for autonomous AI agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 21,541 |
-| Forks | 2,103 |
-| Stars this month | 5,671 |
-
----
-
-## 15. [macro-inc/macro](https://github.com/macro-inc/macro)
+## 13. [macro-inc/macro](https://github.com/macro-inc/macro)
 
 Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,291 |
-| Forks | 590 |
-| Stars this month | 1,678 |
+| Stars | 6,311 |
+| Forks | 594 |
+| Stars this month | 1,690 |
 
 ---
 
-## 16. [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
+## 14. [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
 
 Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,095 |
+| Stars | 4,103 |
 | Forks | 514 |
-| Stars this month | 612 |
+| Stars this month | 613 |
+
+---
+
+## 15. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+
+OpenShell is the safe, private runtime for autonomous AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 21,590 |
+| Forks | 2,105 |
+| Stars this month | 5,622 |
+
+---
+
+## 16. [oven-sh/bun](https://github.com/oven-sh/bun) 🆕
+
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 96,686 |
+| Forks | 5,281 |
+| Stars this month | 960 |
 
 ---
 
@@ -223,34 +223,34 @@ A high-performance inference engine for AI models
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,296 |
-| Forks | 231 |
-| Stars this month | 1,091 |
+| Stars | 3,322 |
+| Forks | 236 |
+| Stars this month | 1,049 |
 
 ---
 
-## 18. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) 🆕
-
-Object-storage native graph database with branching and typed ontology
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,064 |
-| Forks | 275 |
-| Stars this month | 746 |
-
----
-
-## 19. [memvid/memvid](https://github.com/memvid/memvid) 🆕
+## 18. [memvid/memvid](https://github.com/memvid/memvid)
 
 Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 17,404 |
-| Forks | 1,469 |
-| Stars this month | 842 |
+| Stars | 17,411 |
+| Forks | 1,467 |
+| Stars this month | 851 |
+
+---
+
+## 19. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+
+Object-storage native graph database with branching and typed ontology
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 2,276 |
+| Forks | 294 |
+| Stars this month | 901 |
 
 ---

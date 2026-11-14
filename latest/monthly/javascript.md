@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-13T06:34:49Z
+**Snapshot Time:** 2026-11-14T06:12:24Z
 **Total Repositories:** 11
-**New Entries:** 1
-**Quality Score:** 100.00/100
+**New Entries:** 2
+**Quality Score:** 96.36/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 71,361 |
-| Forks | 4,748 |
-| Stars this month | 42,602 |
+| Stars | 72,055 |
+| Forks | 4,803 |
+| Stars this month | 42,839 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 114,498 |
-| Forks | 7,700 |
-| Stars this month | 19,580 |
+| Stars | 115,163 |
+| Forks | 7,725 |
+| Stars this month | 19,948 |
 
 ---
 
@@ -41,9 +41,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 21,144 |
-| Forks | 2,858 |
-| Stars this month | 10,913 |
+| Stars | 21,275 |
+| Forks | 2,869 |
+| Stars this month | 10,385 |
 
 ---
 
@@ -54,9 +54,9 @@ For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,096 |
-| Forks | 130 |
-| Stars this month | 1,486 |
+| Stars | 2,119 |
+| Forks | 132 |
+| Stars this month | 1,478 |
 
 ---
 
@@ -67,9 +67,9 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 22,724 |
-| Forks | 1,283 |
-| Stars this month | 5,575 |
+| Stars | 22,812 |
+| Forks | 1,288 |
+| Stars this month | 5,588 |
 
 ---
 
@@ -80,9 +80,9 @@ Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,269 |
-| Forks | 392 |
-| Stars this month | 2,430 |
+| Stars | 4,299 |
+| Forks | 395 |
+| Stars this month | 2,391 |
 
 ---
 
@@ -93,9 +93,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 118,266 |
-| Forks | 36,955 |
-| Stars this month | 2,058 |
+| Stars | 118,340 |
+| Forks | 36,962 |
+| Stars this month | 2,086 |
 
 ---
 
@@ -106,47 +106,45 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 39,624 |
-| Forks | 2,859 |
-| Stars this month | 18,459 |
+| Stars | 39,761 |
+| Forks | 2,868 |
+| Stars this month | 18,461 |
 
 ---
 
-## 9. [jquery/jquery](https://github.com/jquery/jquery) 🆕
+## 9. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 7,691 |
+| Forks | 1,253 |
+| Stars this month | 2,906 |
+
+---
+
+## 10. [jquery/jquery](https://github.com/jquery/jquery)
 
 jQuery JavaScript Library
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 59,951 |
+| Stars | 59,946 |
 | Forks | 20,705 |
-| Stars this month | 446 |
+| Stars this month | 413 |
 
 ---
 
-## 10. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 11. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 🆕
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 302,118 |
-| Forks | 44,563 |
-| Stars this month | 25,575 |
-
----
-
-## 11. [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
-
-🎆Interactive Online Platform that Visualizes Algorithms from Code
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 49,490 |
-| Forks | 7,658 |
-| Stars this month | 684 |
+| Stars | 117,229 |
+| Forks | 12,261 |
+| Stars this month | 11,517 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-13T06:35:05Z
-**Total Repositories:** 13
+**Snapshot Time:** 2026-11-14T06:12:38Z
+**Total Repositories:** 12
 **New Entries:** 1
-**Quality Score:** 96.92/100
+**Quality Score:** 96.67/100
 
 ---
 
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,495 |
-| Forks | 690 |
-| Stars this month | 2,771 |
+| Stars | 10,503 |
+| Forks | 692 |
+| Stars this month | 2,773 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,524 |
-| Forks | 687 |
-| Stars this month | 3,569 |
+| Stars | 6,597 |
+| Forks | 705 |
+| Stars this month | 3,556 |
 
 ---
 
@@ -39,9 +39,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,511 |
-| Forks | 5,058 |
-| Stars this month | 1,532 |
+| Stars | 20,544 |
+| Forks | 5,069 |
+| Stars this month | 1,510 |
 
 ---
 
@@ -52,9 +52,9 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,624 |
-| Forks | 401 |
-| Stars this month | 3,461 |
+| Stars | 7,821 |
+| Forks | 411 |
+| Stars this month | 3,508 |
 
 ---
 
@@ -65,74 +65,74 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,082 |
-| Forks | 1,421 |
-| Stars this month | 627 |
+| Stars | 7,095 |
+| Forks | 1,424 |
+| Stars this month | 632 |
 
 ---
 
-## 6. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
-
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 44,632 |
-| Forks | 2,131 |
-| Stars this month | 2,028 |
-
----
-
-## 7. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+## 6. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,276 |
-| Forks | 761 |
-| Stars this month | 1,441 |
+| Stars | 13,326 |
+| Forks | 764 |
+| Stars this month | 1,453 |
 
 ---
 
-## 8. [damontecres/Wholphin](https://github.com/damontecres/Wholphin)
+## 7. [damontecres/Wholphin](https://github.com/damontecres/Wholphin)
 
 An OSS Android TV client for Jellyfin
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,324 |
-| Forks | 243 |
-| Stars this month | 298 |
+| Stars | 3,332 |
+| Forks | 244 |
+| Stars this month | 304 |
 
 ---
 
-## 9. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
+## 8. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
 
 YunX（云析）的官方 windows 桌面端
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,304 |
-| Forks | 411 |
-| Stars this month | 4,694 |
+| Stars | 5,709 |
+| Forks | 440 |
+| Stars this month | 5,050 |
 
 ---
 
-## 10. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
+## 9. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
 
 StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,033 |
+| Stars | 1,038 |
 | Forks | 177 |
 | Stars this month | 241 |
+
+---
+
+## 10. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 33,632 |
+| Forks | 3,649 |
+| Stars this month | 2,315 |
 
 ---
 
@@ -143,34 +143,21 @@ Block ads system-wide on Android using local VPN-based DNS filtering. No root ne
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,713 |
+| Stars | 2,723 |
 | Forks | 167 |
-| Stars this month | 556 |
+| Stars this month | 561 |
 
 ---
 
-## 12. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
+## 12. [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard) 🆕
 
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 33,560 |
-| Forks | 3,643 |
-| Stars this month | 2,278 |
-
----
-
-## 13. [xororz/local-dream](https://github.com/xororz/local-dream)
-
-Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 3,984 |
-| Forks | 301 |
-| Stars this month | 341 |
+| Stars | 954 |
+| Forks | 56 |
+| Stars this month | 420 |
 
 ---
