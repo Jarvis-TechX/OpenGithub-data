@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-14T06:11:58Z
+**Snapshot Time:** 2026-11-15T06:19:52Z
 **Total Repositories:** 12
-**New Entries:** 9
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
@@ -15,151 +15,151 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,708 |
-| Forks | 440 |
-| Stars today | 457 |
+| Stars | 5,976 |
+| Forks | 463 |
+| Stars today | 324 |
 
 ---
 
-## 2. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 2. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) 🆕
+
+🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,212 |
+| Forks | 54 |
+| Stars today | 15 |
+
+---
+
+## 3. [CYQawa/YunX](https://github.com/CYQawa/YunX)
 
 YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,821 |
-| Forks | 411 |
-| Stars today | 209 |
+| Stars | 7,954 |
+| Forks | 421 |
+| Stars today | 172 |
 
 ---
 
-## 3. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+## 4. [NarYuki/Dextop](https://github.com/NarYuki/Dextop) 🆕
 
-Android app for streaming and downloading media.
+Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,289 |
-| Forks | 1,209 |
-| Stars today | 20 |
+| Stars | 1,184 |
+| Forks | 73 |
+| Stars today | 12 |
 
 ---
 
-## 4. [Lelonio/Square](https://github.com/Lelonio/Square) 🆕
+## 5. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
 
-Unofficial YouTube Music / Spotify Premium client for Android, built in Liquid Glass. Audio effects, Spotify Connect, listening history, 8 languages. Rust core on librespot.
+Headunit App for displaying Android Auto
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 518 |
-| Forks | 53 |
-| Stars today | 4 |
+| Stars | 3,342 |
+| Forks | 326 |
+| Stars today | 22 |
 
 ---
 
-## 5. [tasks/tasks](https://github.com/tasks/tasks) 🆕
+## 6. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) 🆕
 
-Bringing Astrid Tasks back from the dead
+The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,742 |
-| Forks | 677 |
-| Stars today | 1 |
+| Stars | 4,153 |
+| Forks | 139 |
+| Stars today | 59 |
 
 ---
 
-## 6. [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) 🆕
+## 7. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) 🆕
 
-Fcitx5 input method framework and engines ported to Android
+Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,902 |
-| Forks | 510 |
+| Stars | 2,618 |
+| Forks | 137 |
+| Stars today | 22 |
+
+---
+
+## 8. [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) 🆕
+
+All in one emulator on Android!
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,514 |
+| Forks | 418 |
 | Stars today | 5 |
 
 ---
 
-## 7. [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV) 🆕
+## 9. [yairm210/Unciv](https://github.com/yairm210/Unciv) 🆕
 
-Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
+Open-source Android/Desktop remake of Civ V
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 812 |
-| Forks | 196 |
-| Stars today | 26 |
+| Stars | 11,578 |
+| Forks | 2,000 |
+| Stars today | 3 |
 
 ---
 
-## 8. [damontecres/Wholphin](https://github.com/damontecres/Wholphin) 🆕
+## 10. [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) 🆕
 
-An OSS Android TV client for Jellyfin
+Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,332 |
-| Forks | 244 |
+| Stars | 7,684 |
+| Forks | 437 |
+| Stars today | 7 |
+
+---
+
+## 11. [tyron12233/CodeAssist](https://github.com/tyron12233/CodeAssist) 🆕
+
+An IDE for building Android applicatons on Android.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,175 |
+| Forks | 424 |
 | Stars today | 10 |
 
 ---
 
-## 9. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) 🆕
+## 12. [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) 🆕
 
-A Download Manager that speeds up your downloads
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 19,271 |
-| Forks | 1,027 |
-| Stars today | 29 |
-
----
-
-## 10. [mihonapp/mihon](https://github.com/mihonapp/mihon) 🆕
-
-Free and open source manga reader for Android
+Gesture-first Android browser with Material 3 Expressive design and local privacy tools
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 25,278 |
-| Forks | 1,805 |
-| Stars today | 31 |
-
----
-
-## 11. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
-
-A V2Ray client for Android, support Xray core and v2fly core
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 65,853 |
-| Forks | 8,624 |
-| Stars today | 63 |
-
----
-
-## 12. [vivizzz007/vivi-music](https://github.com/vivizzz007/vivi-music) 🆕
-
-Vivi-Music is an expressive Material 3–based YouTube Music client for Android.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,158 |
-| Forks | 154 |
-| Stars today | 20 |
+| Stars | 665 |
+| Forks | 23 |
+| Stars today | 3 |
 
 ---

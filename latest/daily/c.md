@@ -1,152 +1,126 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-14T06:11:55Z
-**Total Repositories:** 11
-**New Entries:** 10
+**Snapshot Time:** 2026-11-15T06:19:49Z
+**Total Repositories:** 9
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [JustVugg/colibri](https://github.com/JustVugg/colibri) 🆕
+## 1. [JustVugg/colibri](https://github.com/JustVugg/colibri)
 
 A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 50,918 |
-| Forks | 6,030 |
-| Stars today | 488 |
+| Stars | 51,179 |
+| Forks | 6,145 |
+| Stars today | 313 |
 
 ---
 
-## 2. [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) 🆕
+## 2. [semgrep/semgrep](https://github.com/semgrep/semgrep) 🆕
 
-Display and control your Android device
+Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 154,769 |
-| Forks | 14,209 |
-| Stars today | 84 |
+| Stars | 17,685 |
+| Forks | 1,178 |
+| Stars today | 37 |
 
 ---
 
-## 3. [nothings/stb](https://github.com/nothings/stb) 🆕
+## 3. [microsoft/mimalloc](https://github.com/microsoft/mimalloc) 🆕
 
-stb single-file public domain libraries for C/C++
+mimalloc is a compact general purpose allocator with excellent performance.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 35,027 |
-| Forks | 8,123 |
-| Stars today | 8 |
+| Stars | 13,546 |
+| Forks | 1,217 |
+| Stars today | 4 |
 
 ---
 
-## 4. [pbatard/rufus](https://github.com/pbatard/rufus) 🆕
+## 4. [libsdl-org/SDL](https://github.com/libsdl-org/SDL) 🆕
 
-The Reliable USB Formatting Utility
+Simple DirectMedia Layer
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 38,333 |
-| Forks | 3,208 |
-| Stars today | 9 |
+| Stars | 16,995 |
+| Forks | 3,162 |
+| Stars today | 4 |
 
 ---
 
-## 5. [CTCaer/hekate](https://github.com/CTCaer/hekate)
-
-hekate - A GUI based Nintendo Switch Bootloader
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 9,024 |
-| Forks | 700 |
-| Stars today | 8 |
-
----
-
-## 6. [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs) 🆕
+## 5. [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
 
 QuickJS, the Next Generation: a mighty JavaScript engine
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,147 |
-| Forks | 443 |
-| Stars today | 15 |
+| Stars | 4,152 |
+| Forks | 446 |
+| Stars today | 4 |
 
 ---
 
-## 7. [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) 🆕
+## 6. [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) 🆕
 
-Playground (and dump) of stuff I make or modify for the Flipper Zero
+ClamAV - Documentation is here:https://docs.clamav.net
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,822 |
-| Forks | 3,930 |
-| Stars today | 5 |
+| Stars | 7,582 |
+| Forks | 965 |
+| Stars today | 25 |
 
 ---
 
-## 8. [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) 🆕
+## 7. [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) 🆕
 
-🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
+An opensource OpenWrt variant for mainland China users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,337 |
-| Forks | 2,788 |
-| Stars today | 18 |
+| Stars | 11,926 |
+| Forks | 4,099 |
+| Stars today | 6 |
 
 ---
 
-## 9. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) 🆕
+## 8. [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury) 🆕
 
-An advanced Kernel based root solution for Android
+Mercury is a Digital Radio OFDM protocol for HF broadcast and peer-to-peer ARQ connections with compatible TCP interfaces
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,834 |
-| Forks | 1,278 |
-| Stars today | 14 |
+| Stars | 370 |
+| Forks | 59 |
+| Stars today | 6 |
 
 ---
 
-## 10. [FreeRTOS/FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) 🆕
+## 9. [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) 🆕
 
-FreeRTOS kernel files only, submoduled intohttps://github.com/FreeRTOS/FreeRTOSand various other repos.
+Small and highly portable detection tests based on MITRE's ATT&CK.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,653 |
-| Forks | 1,655 |
-| Stars today | 1 |
-
----
-
-## 11. [daijro/camoufox](https://github.com/daijro/camoufox) 🆕
-
-🦊 Anti-detect browser
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 13,250 |
-| Forks | 1,117 |
-| Stars today | 22 |
+| Stars | 12,861 |
+| Forks | 3,269 |
+| Stars today | 10 |
 
 ---

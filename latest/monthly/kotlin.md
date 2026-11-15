@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-14T06:12:38Z
-**Total Repositories:** 12
-**New Entries:** 1
-**Quality Score:** 96.67/100
+**Snapshot Time:** 2026-11-15T06:20:29Z
+**Total Repositories:** 13
+**New Entries:** 2
+**Quality Score:** 96.92/100
 
 ---
 
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,503 |
-| Forks | 692 |
-| Stars this month | 2,773 |
+| Stars | 10,514 |
+| Forks | 695 |
+| Stars this month | 2,769 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,597 |
-| Forks | 705 |
-| Stars this month | 3,556 |
+| Stars | 6,677 |
+| Forks | 715 |
+| Stars this month | 3,554 |
 
 ---
 
@@ -39,9 +39,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,544 |
-| Forks | 5,069 |
-| Stars this month | 1,510 |
+| Stars | 20,587 |
+| Forks | 5,090 |
+| Stars this month | 1,501 |
 
 ---
 
@@ -52,9 +52,9 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,821 |
-| Forks | 411 |
-| Stars this month | 3,508 |
+| Stars | 7,954 |
+| Forks | 421 |
+| Stars this month | 3,609 |
 
 ---
 
@@ -65,9 +65,9 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,095 |
-| Forks | 1,424 |
-| Stars this month | 632 |
+| Stars | 7,113 |
+| Forks | 1,423 |
+| Stars this month | 633 |
 
 ---
 
@@ -78,35 +78,35 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,326 |
-| Forks | 764 |
-| Stars this month | 1,453 |
+| Stars | 13,385 |
+| Forks | 778 |
+| Stars this month | 1,445 |
 
 ---
 
-## 7. [damontecres/Wholphin](https://github.com/damontecres/Wholphin)
+## 7. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 33,712 |
+| Forks | 3,659 |
+| Stars this month | 2,350 |
+
+---
+
+## 8. [damontecres/Wholphin](https://github.com/damontecres/Wholphin)
 
 An OSS Android TV client for Jellyfin
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,332 |
-| Forks | 244 |
-| Stars this month | 304 |
-
----
-
-## 8. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
-
-YunX（云析）的官方 windows 桌面端
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 5,709 |
-| Forks | 440 |
-| Stars this month | 5,050 |
+| Stars | 3,343 |
+| Forks | 246 |
+| Stars this month | 307 |
 
 ---
 
@@ -117,22 +117,22 @@ StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jet
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,038 |
+| Stars | 1,047 |
 | Forks | 177 |
-| Stars this month | 241 |
+| Stars this month | 246 |
 
 ---
 
-## 10. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+## 10. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
 
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+YunX（云析）的官方 windows 桌面端
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 33,632 |
-| Forks | 3,649 |
-| Stars this month | 2,315 |
+| Stars | 5,976 |
+| Forks | 463 |
+| Stars this month | 5,326 |
 
 ---
 
@@ -143,21 +143,34 @@ Block ads system-wide on Android using local VPN-based DNS filtering. No root ne
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,723 |
-| Forks | 167 |
-| Stars this month | 561 |
+| Stars | 2,731 |
+| Forks | 169 |
+| Stars this month | 568 |
 
 ---
 
-## 12. [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard) 🆕
+## 12. [xororz/local-dream](https://github.com/xororz/local-dream) 🆕
 
-A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.
+Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 954 |
-| Forks | 56 |
-| Stars this month | 420 |
+| Stars | 4,015 |
+| Forks | 300 |
+| Stars this month | 351 |
+
+---
+
+## 13. [samolego/Canta](https://github.com/samolego/Canta) 🆕
+
+Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,315 |
+| Forks | 178 |
+| Stars this month | 1,143 |
 
 ---

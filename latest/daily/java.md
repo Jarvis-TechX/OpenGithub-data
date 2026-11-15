@@ -1,204 +1,243 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-14T06:11:57Z
-**Total Repositories:** 15
-**New Entries:** 11
+**Snapshot Time:** 2026-11-15T06:19:51Z
+**Total Repositories:** 18
+**New Entries:** 14
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [apache/iceberg](https://github.com/apache/iceberg) 🆕
+## 1. [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) 🆕
 
-Apache Iceberg
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 9,432 |
-| Forks | 3,692 |
-| Stars today | 3 |
-
----
-
-## 2. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
-
-All Algorithms implemented in Java
+[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 67,238 |
-| Forks | 21,530 |
-| Stars today | 31 |
-
----
-
-## 3. [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) 🆕
-
-一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 48,469 |
-| Forks | 16,217 |
-| Stars today | 14 |
-
----
-
-## 4. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
-
-Learn System Design concepts and prepare for interviews using free resources.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 43,369 |
-| Forks | 8,970 |
+| Stars | 3,535 |
+| Forks | 464 |
 | Stars today | 43 |
 
 ---
 
-## 5. [termux/termux-x11](https://github.com/termux/termux-x11)
+## 2. [zhukunpenglinyutong/jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) 🆕
 
-Termux X-server add-on.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,141 |
-| Forks | 832 |
-| Stars today | 12 |
-
----
-
-## 6. [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) 🆕
-
-This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+Jetbrains Claude Code and Codex GUI Plugin
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 24,140 |
-| Forks | 13,615 |
-| Stars today | 1 |
-
----
-
-## 7. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) 🆕
-
-🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 40,409 |
-| Forks | 8,672 |
-| Stars today | 21 |
-
----
-
-## 8. [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) 🆕
-
-OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 26,863 |
-| Forks | 7,761 |
-| Stars today | 2 |
-
----
-
-## 9. [apache/zookeeper](https://github.com/apache/zookeeper) 🆕
-
-Apache ZooKeeper
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 12,834 |
-| Forks | 7,331 |
-| Stars today | 1 |
-
----
-
-## 10. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) 🆕
-
-Mac.apk: Run Android apps natively on Apple Silicon Macs
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 4,221 |
-| Forks | 181 |
-| Stars today | 21 |
-
----
-
-## 11. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)
-
-Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,267 |
-| Forks | 78 |
+| Stars | 7,667 |
+| Forks | 703 |
 | Stars today | 9 |
 
 ---
 
-## 12. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
+## 3. [gsantner/markor](https://github.com/gsantner/markor) 🆕
 
-Build distributed, production-grade, long-running agents.
+Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,365 |
-| Forks | 1,608 |
-| Stars today | 14 |
+| Stars | 6,431 |
+| Forks | 568 |
+| Stars today | 5 |
 
 ---
 
-## 13. [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) 🆕
+## 4. [debezium/debezium](https://github.com/debezium/debezium) 🆕
 
-基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。
+Change data capture for a variety of databases. Please log issues athttps://github.com/debezium/dbz/issues.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 7,433 |
-| Forks | 2,144 |
+| Stars | 13,351 |
+| Forks | 3,128 |
 | Stars today | 2 |
 
 ---
 
-## 14. [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube) 🆕
+## 5. [apache/flink](https://github.com/apache/flink) 🆕
+
+Apache Flink
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 26,473 |
+| Forks | 14,184 |
+| Stars today | 1 |
+
+---
+
+## 6. [Anuken/Mindustry](https://github.com/Anuken/Mindustry) 🆕
+
+The automation tower defense RTS
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 29,854 |
+| Forks | 3,882 |
+| Stars today | 23 |
+
+---
+
+## 7. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
+
+Browse media content with your own rules on Android TV
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 36,342 |
+| Forks | 2,322 |
+| Stars today | 49 |
+
+---
+
+## 8. [crimera/piko](https://github.com/crimera/piko) 🆕
+
+morphe patches for twitter and instagram
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,989 |
+| Forks | 276 |
+| Stars today | 11 |
+
+---
+
+## 9. [GrimAnticheat/Grim](https://github.com/GrimAnticheat/Grim) 🆕
+
+Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, "bypassable" 1.8-1.21 minecraft anticheat.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,809 |
+| Forks | 698 |
+| Stars today | 6 |
+
+---
+
+## 10. [ModinMobileSTS/Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) 🆕
+
+an unofficial sts2 mobile launcher that support mods,optimized mobile control
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 586 |
+| Forks | 22 |
+| Stars today | 16 |
+
+---
+
+## 11. [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 🆕
+
+🔎 Open source distributed and RESTful search engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 14,012 |
+| Forks | 3,087 |
+| Stars today | 3 |
+
+---
+
+## 12. [aleixrodriala/newtube](https://github.com/aleixrodriala/newtube)
 
 SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 777 |
+| Stars | 787 |
 | Forks | 37 |
-| Stars today | 26 |
+| Stars today | 5 |
 
 ---
 
-## 15. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
+## 13. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)
 
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 708 |
-| Forks | 115 |
-| Stars today | 9 |
+| Stars | 1,278 |
+| Forks | 78 |
+| Stars today | 10 |
+
+---
+
+## 14. [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
+
+一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 48,484 |
+| Forks | 16,218 |
+| Stars today | 19 |
+
+---
+
+## 15. [apache/doris](https://github.com/apache/doris) 🆕
+
+Apache Doris is a real-time analytics and hybrid search database for AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 16,219 |
+| Forks | 4,022 |
+| Stars today | 3 |
+
+---
+
+## 16. [spring-projects/spring-security](https://github.com/spring-projects/spring-security) 🆕
+
+Spring Security
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,671 |
+| Forks | 6,395 |
+| Stars today | 2 |
+
+---
+
+## 17. [apache/iceberg](https://github.com/apache/iceberg)
+
+Apache Iceberg
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,435 |
+| Forks | 3,691 |
+| Stars today | 4 |
+
+---
+
+## 18. [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) 🆕
+
+An Application Framework for AI Engineering
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,647 |
+| Forks | 3,051 |
+| Stars today | 6 |
 
 ---

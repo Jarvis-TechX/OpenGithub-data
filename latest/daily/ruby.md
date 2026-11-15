@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-14T06:11:50Z
-**Total Repositories:** 14
-**New Entries:** 7
+**Snapshot Time:** 2026-11-15T06:19:45Z
+**Total Repositories:** 16
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
@@ -15,174 +15,200 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,875 |
-| Forks | 1,132 |
-| Stars today | 925 |
+| Stars | 15,419 |
+| Forks | 1,309 |
+| Stars today | 659 |
 
 ---
 
-## 2. [ruby/ruby](https://github.com/ruby/ruby)
+## 2. [spree/spree](https://github.com/spree/spree) 🆕
+
+Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 15,838 |
+| Forks | 5,319 |
+| Stars today | 2 |
+
+---
+
+## 3. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) 🆕
+
+🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 15,672 |
+| Forks | 13,965 |
+| Stars today | 2 |
+
+---
+
+## 4. [fastlane/fastlane](https://github.com/fastlane/fastlane) 🆕
+
+🚀 The easiest way to automate building and releasing your iOS and Android apps
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 42,389 |
+| Forks | 6,055 |
+
+---
+
+## 5. [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) 🆕
+
+GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 24,566 |
+| Forks | 5,943 |
+| Stars today | 1 |
+
+---
+
+## 6. [puma/puma](https://github.com/puma/puma) 🆕
+
+A Ruby/Rack web server built for parallelism
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 7,928 |
+| Forks | 1,517 |
+
+---
+
+## 7. [discourse/discourse](https://github.com/discourse/discourse) 🆕
+
+A platform for community discussion. Free, open, simple.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 48,085 |
+| Forks | 9,063 |
+| Stars today | 5 |
+
+---
+
+## 8. [ruby/ruby](https://github.com/ruby/ruby)
 
 The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,812 |
-| Forks | 5,686 |
+| Stars | 23,813 |
+| Forks | 5,687 |
 | Stars today | 3 |
 
 ---
 
-## 3. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+## 9. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) 🆕
 
-Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 39,834 |
-| Forks | 9,678 |
-| Stars today | 84 |
-
----
-
-## 4. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-
-🍻 Default casks (upstream binary packages) for the package manager for everywhere
+Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,297 |
-| Forks | 12,102 |
+| Stars | 12,415 |
+| Forks | 600 |
 | Stars today | 2 |
 
 ---
 
-## 5. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
+## 10. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 🆕
 
-A database of vulnerable Ruby Gems
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 1,083 |
-| Forks | 253 |
-| Stars today | 1 |
-
----
-
-## 6. [basecamp/once-campfire](https://github.com/basecamp/once-campfire) 🆕
-
-Super simple group chat, without a subscription
+🤖 Dependabot's core logic for creating update PRs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,833 |
-| Forks | 832 |
-| Stars today | 4 |
+| Stars | 5,849 |
+| Forks | 1,604 |
+| Stars today | 3 |
 
 ---
 
-## 7. [cncf/gitdm](https://github.com/cncf/gitdm) 🆕
-
-📜Fork for tracking CNCF projects
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 89 |
-| Forks | 1,004 |
-
----
-
-## 8. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection) 🆕
-
-A collection of RBS for gems.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 302 |
-| Forks | 141 |
-
----
-
-## 9. [github-linguist/linguist](https://github.com/github-linguist/linguist) 🆕
-
-Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 13,787 |
-| Forks | 5,530 |
-
----
-
-## 10. [basecamp/fizzy](https://github.com/basecamp/fizzy) 🆕
-
-Kanban as it should be. Not as it has been.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 8,298 |
-| Forks | 1,207 |
-| Stars today | 2 |
-
----
-
-## 11. [dependabot/demo](https://github.com/dependabot/demo) 🆕
+## 11. [dependabot/demo](https://github.com/dependabot/demo)
 
 🤖 Fork me to try out Dependabot
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 354 |
-| Forks | 5,139 |
+| Stars | 355 |
+| Forks | 5,142 |
 | Stars today | 1 |
 
 ---
 
-## 12. [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) 🆕
+## 12. [Homebrew/brew](https://github.com/Homebrew/brew) 🆕
 
-💱 Currency data API
+🍺 The Package Manager for Everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,100 |
-| Forks | 197 |
+| Stars | 50,337 |
+| Forks | 11,424 |
+| Stars today | 9 |
+
+---
+
+## 13. [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb) 🆕
+
+Datadog's client library for Ruby
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 419 |
+| Forks | 428 |
+
+---
+
+## 14. [postalserver/postal](https://github.com/postalserver/postal) 🆕
+
+📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 16,958 |
+| Forks | 1,324 |
 | Stars today | 3 |
 
 ---
 
-## 13. [basecamp/kamal](https://github.com/basecamp/kamal)
+## 15. [opf/openproject](https://github.com/opf/openproject) 🆕
 
-Deploy web apps anywhere.
+OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,727 |
-| Forks | 774 |
-| Stars today | 3 |
+| Stars | 17,386 |
+| Forks | 3,765 |
+| Stars today | 28 |
 
 ---
 
-## 14. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
+## 16. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
 
-API Documentation Browser
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,635 |
-| Forks | 2,655 |
-| Stars today | 4 |
+| Stars | 39,903 |
+| Forks | 9,702 |
+| Stars today | 78 |
 
 ---

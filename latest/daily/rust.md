@@ -1,139 +1,126 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-14T06:11:54Z
-**Total Repositories:** 10
+**Snapshot Time:** 2026-11-15T06:19:48Z
+**Total Repositories:** 9
 **New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [block/buzz](https://github.com/block/buzz) 🆕
+## 1. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) 🆕
 
-A hive mind communication platform
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 37,353 |
-| Forks | 4,944 |
-| Stars today | 97 |
-
----
-
-## 2. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) 🆕
-
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+A WiFi security auditing software
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 129,385 |
-| Forks | 20,675 |
-| Stars today | 146 |
+| Stars | 6,010 |
+| Forks | 1,043 |
+| Stars today | 270 |
 
 ---
 
-## 3. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) 🆕
-
-A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 154,286 |
-| Forks | 10,119 |
-| Stars today | 315 |
-
----
-
-## 4. [tw93/Pake](https://github.com/tw93/Pake)
-
-Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 63,575 |
-| Forks | 13,004 |
-| Stars today | 102 |
-
----
-
-## 5. [ShayanAbbas1/dbdelve](https://github.com/ShayanAbbas1/dbdelve)
-
-Fast and lightweight DB Client made in Rust and GPUI.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 1,312 |
-| Forks | 70 |
-| Stars today | 106 |
-
----
-
-## 6. [zellij-org/zellij](https://github.com/zellij-org/zellij)
-
-A terminal workspace with batteries included
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 36,044 |
-| Forks | 1,535 |
-| Stars today | 32 |
-
----
-
-## 7. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) 🆕
+## 2. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
 
 Object-storage native graph database with branching and typed ontology
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,276 |
-| Forks | 294 |
-| Stars today | 160 |
+| Stars | 2,467 |
+| Forks | 310 |
+| Stars today | 217 |
 
 ---
 
-## 8. [rustfs/rustfs](https://github.com/rustfs/rustfs) 🆕
+## 3. [verus-lang/verus](https://github.com/verus-lang/verus) 🆕
 
-RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+Verified Rust for low-level systems code
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 36,069 |
-| Forks | 1,666 |
-| Stars today | 44 |
+| Stars | 3,792 |
+| Forks | 264 |
+| Stars today | 23 |
 
 ---
 
-## 9. [rtk-ai/rtk](https://github.com/rtk-ai/rtk) 🆕
+## 4. [block/buzz](https://github.com/block/buzz)
 
-CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+A hive mind communication platform
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 86,523 |
-| Forks | 5,544 |
-| Stars today | 123 |
+| Stars | 37,452 |
+| Forks | 4,948 |
+| Stars today | 277 |
 
 ---
 
-## 10. [aimod-cc/Agent2API](https://github.com/aimod-cc/Agent2API) 🆕
+## 5. [aaif-goose/goose](https://github.com/aaif-goose/goose) 🆕
 
-Local AI routing gateway with Agent client takeover — reuse existing client logins, call 50+ AI clients through one base URL, with unified OpenAI / Anthropic / Images APIs, multi-account routing, check-in, balance and request reports · 本地 AI 路由网关 + Agent 客户端接管：复用各家客户端登录态，一个 base_url 调用 50+ 家模型额度，统一 OpenAI / Anthropic / 生图接口，多账号选路、签到、余额与请求报表一体管理
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,275 |
-| Forks | 601 |
-| Stars today | 59 |
+| Stars | 56,628 |
+| Forks | 6,591 |
+| Stars today | 72 |
+
+---
+
+## 6. [zeronsh/zeron](https://github.com/zeronsh/zeron) 🆕
+
+A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,672 |
+| Forks | 372 |
+| Stars today | 46 |
+
+---
+
+## 7. [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) 🆕
+
+A bunch of lints to catch common mistakes and improve your Rust code. Book:https://doc.rust-lang.org/clippy/
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 13,654 |
+| Forks | 2,256 |
+| Stars today | 5 |
+
+---
+
+## 8. [lance-format/lance](https://github.com/lance-format/lance) 🆕
+
+Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 7,307 |
+| Forks | 939 |
+| Stars today | 4 |
+
+---
+
+## 9. [trymirai/uzu](https://github.com/trymirai/uzu) 🆕
+
+A high-performance inference engine for AI models
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,339 |
+| Forks | 238 |
+| Stars today | 17 |
 
 ---

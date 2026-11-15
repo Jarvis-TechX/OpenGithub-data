@@ -1,47 +1,47 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-14T06:12:19Z
-**Total Repositories:** 15
-**New Entries:** 3
-**Quality Score:** 97.33/100
+**Snapshot Time:** 2026-11-15T06:20:10Z
+**Total Repositories:** 14
+**New Entries:** 1
+**Quality Score:** 97.14/100
 
 ---
 
-## 1. [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,935 |
-| Forks | 378 |
-| Stars this week | 2,117 |
-
----
-
-## 2. [dotnet/skills](https://github.com/dotnet/skills)
+## 1. [dotnet/skills](https://github.com/dotnet/skills)
 
 Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,155 |
-| Forks | 483 |
-| Stars this week | 295 |
+| Stars | 6,192 |
+| Forks | 490 |
+| Stars this week | 330 |
 
 ---
 
-## 3. [ShareX/ShareX](https://github.com/ShareX/ShareX)
+## 2. [ShareX/ShareX](https://github.com/ShareX/ShareX)
 
 ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 41,020 |
-| Forks | 4,078 |
-| Stars this week | 348 |
+| Stars | 41,045 |
+| Forks | 4,080 |
+| Stars this week | 309 |
+
+---
+
+## 3. [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 10,027 |
+| Forks | 383 |
+| Stars this week | 1,901 |
 
 ---
 
@@ -52,22 +52,22 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,710 |
-| Forks | 514 |
-| Stars this week | 691 |
+| Stars | 11,740 |
+| Forks | 516 |
+| Stars this week | 679 |
 
 ---
 
-## 5. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
+## 5. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) 🆕
 
-🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,558 |
-| Forks | 1,757 |
-| Stars this week | 162 |
+| Stars | 56,182 |
+| Forks | 8,541 |
+| Stars this week | 151 |
 
 ---
 
@@ -78,9 +78,9 @@ FluentCleaner is the transparent, community-powered CCleaner alternative for Win
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,111 |
-| Forks | 245 |
-| Stars this week | 391 |
+| Stars | 7,138 |
+| Forks | 246 |
+| Stars this week | 289 |
 
 ---
 
@@ -91,9 +91,9 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,241 |
-| Forks | 4,102 |
-| Stars this week | 136 |
+| Stars | 39,248 |
+| Forks | 4,104 |
+| Stars this week | 142 |
 
 ---
 
@@ -104,99 +104,86 @@ A free, open-source Windows desktop organizer with native-feeling WinUI 3 widget
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,102 |
-| Forks | 485 |
-| Stars this week | 718 |
+| Stars | 9,144 |
+| Forks | 487 |
+| Stars this week | 560 |
 
 ---
 
-## 9. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
-
-Telegram for Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,529 |
-| Forks | 713 |
-| Stars this week | 29 |
-
----
-
-## 10. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-
-Windows/macOS/Linux GUI client for GIT users
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,473 |
-| Forks | 613 |
-| Stars this week | 83 |
-
----
-
-## 11. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
+## 9. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
 
 A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 656 |
-| Forks | 62 |
-| Stars this week | 158 |
+| Stars | 701 |
+| Forks | 65 |
+| Stars this week | 198 |
 
 ---
 
-## 12. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox) 🆕
+## 10. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
 
-一款面向安卓开发的多功能玩机工具箱
+🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 889 |
-| Forks | 77 |
-| Stars this week | 111 |
+| Stars | 27,574 |
+| Forks | 1,759 |
+| Stars this week | 171 |
 
 ---
 
-## 13. [seerge/g-helper](https://github.com/seerge/g-helper) 🆕
+## 11. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
 
-Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
+Telegram for Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 16,040 |
-| Forks | 684 |
-| Stars this week | 126 |
+| Stars | 5,531 |
+| Forks | 714 |
+| Stars this week | 29 |
 
 ---
 
-## 14. [QuantConnect/Lean](https://github.com/QuantConnect/Lean) 🆕
+## 12. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+
+Windows/macOS/Linux GUI client for GIT users
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,481 |
+| Forks | 614 |
+| Stars this week | 82 |
+
+---
+
+## 13. [QuantConnect/Lean](https://github.com/QuantConnect/Lean)
 
 Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,521 |
-| Forks | 5,418 |
-| Stars this week | 109 |
+| Stars | 22,537 |
+| Forks | 5,421 |
+| Stars this week | 108 |
 
 ---
 
-## 15. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+## 14. [seerge/g-helper](https://github.com/seerge/g-helper)
 
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,871 |
-| Forks | 4,519 |
-| Stars this week | 42 |
+| Stars | 16,044 |
+| Forks | 686 |
+| Stars this week | 109 |
 
 ---

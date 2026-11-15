@@ -1,23 +1,23 @@
 # GitHub Trending - Php
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-14T06:12:10Z
-**Total Repositories:** 19
-**New Entries:** 7
+**Snapshot Time:** 2026-11-15T06:20:02Z
+**Total Repositories:** 17
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [symfony/symfony](https://github.com/symfony/symfony)
+## 1. [glpi-project/glpi](https://github.com/glpi-project/glpi)
 
-The Symfony PHP framework
+GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,437 |
-| Forks | 9,950 |
-| Stars this week | 120 |
+| Stars | 6,597 |
+| Forks | 1,870 |
+| Stars this week | 34 |
 
 ---
 
@@ -28,91 +28,104 @@ Own the flow: one open-source AI platform for your knowledge, models and channel
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 875 |
+| Stars | 925 |
 | Forks | 103 |
-| Stars this week | 381 |
+| Stars this week | 338 |
 
 ---
 
-## 3. [glpi-project/glpi](https://github.com/glpi-project/glpi) 🆕
-
-GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 6,594 |
-| Forks | 1,869 |
-| Stars this week | 32 |
-
----
-
-## 4. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
-
-mailcow: dockerized - 🐮 + 🐋 = 💕
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 13,806 |
-| Forks | 1,870 |
-| Stars this week | 60 |
-
----
-
-## 5. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) 🆕
-
-SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 74,751 |
-| Forks | 25,194 |
-| Stars this week | 178 |
-
----
-
-## 6. [espocrm/espocrm](https://github.com/espocrm/espocrm)
+## 3. [espocrm/espocrm](https://github.com/espocrm/espocrm)
 
 EspoCRM – Open Source CRM Application
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,611 |
-| Forks | 1,039 |
-| Stars this week | 59 |
+| Stars | 3,617 |
+| Forks | 1,041 |
+| Stars this week | 61 |
 
 ---
 
-## 7. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+## 4. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 
 Firefly III: a personal finances manager
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 25,246 |
-| Forks | 2,418 |
-| Stars this week | 120 |
-
----
-
-## 8. [Leantime/leantime](https://github.com/Leantime/leantime)
-
-Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 12,102 |
-| Forks | 1,181 |
+| Stars | 25,252 |
+| Forks | 2,417 |
 | Stars this week | 106 |
 
 ---
 
-## 9. [kanboard/kanboard](https://github.com/kanboard/kanboard)
+## 5. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+
+mailcow: dockerized - 🐮 + 🐋 = 💕
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 13,812 |
+| Forks | 1,870 |
+| Stars this week | 61 |
+
+---
+
+## 6. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 74,762 |
+| Forks | 25,196 |
+| Stars this week | 175 |
+
+---
+
+## 7. [symfony/symfony](https://github.com/symfony/symfony)
+
+The Symfony PHP framework
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 31,439 |
+| Forks | 9,949 |
+| Stars this week | 23 |
+
+---
+
+## 8. [nextcloud/server](https://github.com/nextcloud/server) 🆕
+
+☁️ Nextcloud server, a safe home for all your data
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 37,519 |
+| Forks | 5,358 |
+| Stars this week | 95 |
+
+---
+
+## 9. [coollabsio/coolify](https://github.com/coollabsio/coolify)
+
+An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 66,095 |
+| Forks | 5,989 |
+| Stars this week | 363 |
+
+---
+
+## 10. [kanboard/kanboard](https://github.com/kanboard/kanboard)
 
 Kanban project management software
 
@@ -121,33 +134,20 @@ Kanban project management software
 | Language | PHP |
 | Stars | 9,960 |
 | Forks | 2,026 |
-| Stars this week | 22 |
+| Stars this week | 23 |
 
 ---
 
-## 10. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
+## 11. [Leantime/leantime](https://github.com/Leantime/leantime)
 
-A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
+Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,599 |
-| Forks | 10,664 |
-| Stars this week | 21 |
-
----
-
-## 11. [vimeo/psalm](https://github.com/vimeo/psalm) 🆕
-
-A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,929 |
-| Forks | 730 |
-| Stars this week | 19 |
+| Stars | 12,108 |
+| Forks | 1,183 |
+| Stars this week | 95 |
 
 ---
 
@@ -158,9 +158,9 @@ Open-source event management and ticket selling platform — perfect for concert
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 4,176 |
-| Forks | 758 |
-| Stars this week | 45 |
+| Stars | 4,178 |
+| Forks | 756 |
+| Stars this week | 31 |
 
 ---
 
@@ -172,64 +172,51 @@ The Roundcube Webmail suite
 |--------|-------|
 | Language | PHP |
 | Stars | 7,278 |
-| Forks | 1,810 |
+| Forks | 1,811 |
 | Stars this week | 19 |
 
 ---
 
-## 14. [Qloapps/QloApps](https://github.com/Qloapps/QloApps) 🆕
+## 14. [Qloapps/QloApps](https://github.com/Qloapps/QloApps)
 
 QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 14,487 |
+| Stars | 14,488 |
 | Forks | 841 |
-| Stars this week | 21 |
+| Stars this week | 22 |
 
 ---
 
-## 15. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) 🆕
+## 15. [vimeo/psalm](https://github.com/vimeo/psalm)
 
-WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
+A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,514 |
-| Forks | 3,774 |
-| Stars this week | 11 |
+| Stars | 5,929 |
+| Forks | 731 |
+| Stars this week | 17 |
 
 ---
 
-## 16. [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)
+## 16. [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp)
 
-SuiteCRM - Open source CRM for the world
+Free and Open Source ERP software
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,864 |
-| Forks | 2,444 |
-| Stars this week | 16 |
+| Stars | 12,231 |
+| Forks | 626 |
+| Stars this week | 51 |
 
 ---
 
-## 17. [coollabsio/coolify](https://github.com/coollabsio/coolify) 🆕
-
-An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 66,060 |
-| Forks | 5,986 |
-| Stars this week | 361 |
-
----
-
-## 18. [shopware/shopware](https://github.com/shopware/shopware)
+## 17. [shopware/shopware](https://github.com/shopware/shopware)
 
 Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 
@@ -238,19 +225,6 @@ Shopware 6 is an open commerce platform based on Symfony Framework and Vue and s
 | Language | PHP |
 | Stars | 3,471 |
 | Forks | 1,226 |
-| Stars this week | 3 |
-
----
-
-## 19. [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) 🆕
-
-Free and Open Source ERP software
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 12,215 |
-| Forks | 625 |
-| Stars this week | 40 |
+| Stars this week | 2 |
 
 ---

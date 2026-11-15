@@ -1,36 +1,36 @@
 # GitHub Trending - Python
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-14T06:12:23Z
+**Snapshot Time:** 2026-11-15T06:20:15Z
 **Total Repositories:** 20
 **New Entries:** 1
 **Quality Score:** 98.00/100
 
 ---
 
-## 1. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
-
-DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 59,006 |
-| Forks | 7,161 |
-| Stars this month | 17,913 |
-
----
-
-## 2. [anthropics/skills](https://github.com/anthropics/skills)
+## 1. [anthropics/skills](https://github.com/anthropics/skills)
 
 Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 194,228 |
-| Forks | 22,850 |
-| Stars this month | 13,734 |
+| Stars | 194,714 |
+| Forks | 22,905 |
+| Stars this month | 13,927 |
+
+---
+
+## 2. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+
+DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 59,288 |
+| Forks | 7,184 |
+| Stars this month | 18,077 |
 
 ---
 
@@ -41,61 +41,61 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 29,124 |
-| Forks | 3,705 |
-| Stars this month | 10,190 |
+| Stars | 29,446 |
+| Forks | 3,726 |
+| Stars this month | 10,402 |
 
 ---
 
-## 4. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 110,119 |
-| Forks | 12,204 |
-| Stars this month | 48,848 |
-
----
-
-## 5. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
+## 4. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
 
 Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 35,687 |
-| Forks | 3,950 |
-| Stars this month | 6,311 |
+| Stars | 35,935 |
+| Forks | 3,973 |
+| Stars this month | 6,228 |
 
 ---
 
-## 6. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+## 5. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
 
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 47,224 |
-| Forks | 4,901 |
-| Stars this month | 9,580 |
+| Stars | 110,815 |
+| Forks | 12,277 |
+| Stars this month | 46,324 |
 
 ---
 
-## 7. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
+## 6. [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
 
 AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 46,866 |
-| Forks | 3,562 |
-| Stars this month | 5,279 |
+| Stars | 46,934 |
+| Forks | 3,578 |
+| Stars this month | 5,296 |
+
+---
+
+## 7. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 47,322 |
+| Forks | 4,917 |
+| Stars this month | 9,575 |
 
 ---
 
@@ -106,9 +106,9 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 102,564 |
-| Forks | 10,680 |
-| Stars this month | 15,639 |
+| Stars | 103,042 |
+| Forks | 10,737 |
+| Stars this month | 15,754 |
 
 ---
 
@@ -119,61 +119,61 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 25,924 |
-| Forks | 2,300 |
-| Stars this month | 5,808 |
+| Stars | 26,093 |
+| Forks | 2,317 |
+| Stars this month | 5,926 |
 
 ---
 
-## 10. [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
-
-A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 85,521 |
-| Forks | 12,974 |
-| Stars this month | 6,983 |
-
----
-
-## 11. [fastapi/fastapi](https://github.com/fastapi/fastapi)
-
-FastAPI framework, high performance, easy to learn, fast to code, ready for production
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 104,693 |
-| Forks | 10,248 |
-| Stars this month | 2,627 |
-
----
-
-## 12. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+## 10. [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
 
 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 16,124 |
-| Forks | 2,193 |
-| Stars this month | 2,776 |
+| Stars | 16,187 |
+| Forks | 2,204 |
+| Stars this month | 2,835 |
 
 ---
 
-## 13. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+## 11. [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 58,715 |
-| Forks | 5,286 |
-| Stars this month | 6,843 |
+| Stars | 85,628 |
+| Forks | 12,989 |
+| Stars this month | 6,766 |
+
+---
+
+## 12. [fastapi/fastapi](https://github.com/fastapi/fastapi)
+
+FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 104,737 |
+| Forks | 10,270 |
+| Stars this month | 2,599 |
+
+---
+
+## 13. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+
+利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 143,637 |
+| Forks | 23,010 |
+| Stars this month | 13,454 |
 
 ---
 
@@ -184,22 +184,22 @@ Community plugin to control Blender 3D with any LLM of your choice. Not affiliat
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 34,346 |
-| Forks | 3,128 |
-| Stars this month | 3,770 |
+| Stars | 34,463 |
+| Forks | 3,144 |
+| Stars this month | 3,730 |
 
 ---
 
-## 15. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) 🆕
+## 15. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 
-利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 143,362 |
-| Forks | 22,949 |
-| Stars this month | 13,471 |
+| Stars | 47,212 |
+| Forks | 5,751 |
+| Stars this month | 5,494 |
 
 ---
 
@@ -210,22 +210,22 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 146,721 |
-| Forks | 17,496 |
-| Stars this month | 9,850 |
+| Stars | 146,880 |
+| Forks | 17,517 |
+| Stars this month | 9,823 |
 
 ---
 
-## 17. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+## 17. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
 
-A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 47,161 |
-| Forks | 5,745 |
-| Stars this month | 5,483 |
+| Stars | 50,523 |
+| Forks | 20,741 |
+| Stars this month | 1,062 |
 
 ---
 
@@ -236,22 +236,22 @@ Design physical products with AI
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 26,274 |
-| Forks | 2,497 |
-| Stars this month | 6,489 |
+| Stars | 26,346 |
+| Forks | 2,510 |
+| Stars this month | 6,184 |
 
 ---
 
-## 19. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+## 19. [vllm-project/vllm](https://github.com/vllm-project/vllm) 🆕
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+A high-throughput and memory-efficient inference and serving engine for LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 50,512 |
-| Forks | 20,737 |
-| Stars this month | 1,069 |
+| Stars | 96,944 |
+| Forks | 24,834 |
+| Stars this month | 3,371 |
 
 ---
 
@@ -260,8 +260,8 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 15,477 |
-| Forks | 1,188 |
-| Stars this month | 12,943 |
+| Stars | 15,562 |
+| Forks | 1,200 |
+| Stars this month | 12,940 |
 
 ---

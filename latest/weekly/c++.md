@@ -1,10 +1,10 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-14T06:12:15Z
-**Total Repositories:** 13
-**New Entries:** 4
-**Quality Score:** 96.92/100
+**Snapshot Time:** 2026-11-15T06:20:07Z
+**Total Repositories:** 15
+**New Entries:** 5
+**Quality Score:** 97.33/100
 
 ---
 
@@ -15,9 +15,9 @@ Multi-Joint dynamics with Contact. A general purpose physics simulator.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,899 |
-| Forks | 2,187 |
-| Stars this week | 1,764 |
+| Stars | 18,004 |
+| Forks | 2,204 |
+| Stars this week | 1,859 |
 
 ---
 
@@ -28,9 +28,9 @@ LLM inference in C/C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 134,915 |
-| Forks | 25,584 |
-| Stars this week | 1,416 |
+| Stars | 135,111 |
+| Forks | 25,632 |
+| Stars this week | 1,539 |
 
 ---
 
@@ -41,72 +41,72 @@ A unified cross-platform AI client supporting seamless transitions between stand
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,291 |
-| Forks | 458 |
-| Stars this week | 700 |
+| Stars | 2,315 |
+| Forks | 463 |
+| Stars this week | 677 |
 
 ---
 
-## 4. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) 🆕
+## 4. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) 🆕
+
+Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 2,400 |
+| Forks | 201 |
+| Stars this week | 970 |
+
+---
+
+## 5. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker)
 
 DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,577 |
-| Forks | 82 |
-| Stars this week | 503 |
+| Stars | 2,618 |
+| Forks | 83 |
+| Stars this week | 452 |
 
 ---
 
-## 5. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port)
+## 6. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 618 |
-| Forks | 62 |
-| Stars this week | 128 |
+| Stars | 628 |
+| Forks | 64 |
+| Stars this week | 126 |
 
 ---
 
-## 6. [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)
-
-OpenToonz - An open-source full-featured 2D animation creation software
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 8,215 |
-| Forks | 943 |
-| Stars this week | 201 |
-
----
-
-## 7. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-
-An Open Source Machine Learning Framework for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 201,592 |
-| Forks | 77,960 |
-| Stars this week | 305 |
-
----
-
-## 8. [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) 🆕
+## 7. [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine)
 
 Self-hosted game stream host for Moonlight.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 43,372 |
-| Forks | 2,385 |
-| Stars this week | 326 |
+| Stars | 43,430 |
+| Forks | 2,388 |
+| Stars this week | 332 |
+
+---
+
+## 8. [azahar-emu/azahar](https://github.com/azahar-emu/azahar) 🆕
+
+An open-source 3DS emulator project based on Citra.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 8,680 |
+| Forks | 834 |
+| Stars this week | 100 |
 
 ---
 
@@ -117,22 +117,22 @@ A library for efficient similarity search and clustering of dense vectors.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,632 |
-| Forks | 4,633 |
-| Stars this week | 361 |
+| Stars | 41,680 |
+| Forks | 4,638 |
+| Stars this week | 409 |
 
 ---
 
-## 10. [google/googletest](https://github.com/google/googletest) 🆕
+## 10. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 
-GoogleTest - Google Testing and Mocking Framework
+An Open Source Machine Learning Framework for Everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 39,737 |
-| Forks | 10,942 |
-| Stars this week | 41 |
+| Stars | 201,620 |
+| Forks | 77,975 |
+| Stars this week | 294 |
 
 ---
 
@@ -143,34 +143,60 @@ Powerful yet simple to use screenshot software 🖥️ 📸
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,542 |
+| Stars | 31,549 |
 | Forks | 2,106 |
-| Stars this week | 126 |
+| Stars this week | 123 |
 
 ---
 
-## 12. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
+## 12. [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) 🆕
 
-Amnezia VPN Client (Desktop+Mobile)
+Port of OpenAI's Whisper model in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 15,940 |
-| Forks | 1,288 |
-| Stars this week | 155 |
+| Stars | 55,202 |
+| Forks | 6,301 |
+| Stars this week | 238 |
 
 ---
 
-## 13. [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) 🆕
+## 13. [google/googletest](https://github.com/google/googletest)
 
-Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
+GoogleTest - Google Testing and Mocking Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,046 |
-| Forks | 457 |
-| Stars this week | 326 |
+| Stars | 39,740 |
+| Forks | 10,951 |
+| Stars this week | 38 |
+
+---
+
+## 14. [alibaba/MNN](https://github.com/alibaba/MNN) 🆕
+
+MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 16,531 |
+| Forks | 2,532 |
+| Stars this week | 116 |
+
+---
+
+## 15. [nlohmann/json](https://github.com/nlohmann/json) 🆕
+
+JSON for Modern C++
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 50,893 |
+| Forks | 7,524 |
+| Stars this week | 76 |
 
 ---

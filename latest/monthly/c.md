@@ -1,7 +1,7 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-14T06:12:34Z
+**Snapshot Time:** 2026-11-15T06:20:25Z
 **Total Repositories:** 16
 **New Entries:** 1
 **Quality Score:** 95.00/100
@@ -15,9 +15,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,783 |
-| Forks | 8,530 |
-| Stars this month | 1,443 |
+| Stars | 41,786 |
+| Forks | 8,531 |
+| Stars this month | 1,447 |
 
 ---
 
@@ -28,9 +28,9 @@ A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,005 |
-| Forks | 1,853 |
-| Stars this month | 3,024 |
+| Stars | 12,094 |
+| Forks | 1,869 |
+| Stars this month | 3,078 |
 
 ---
 
@@ -41,22 +41,22 @@ General purpose TLS and crypto library
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,438 |
-| Forks | 11,610 |
-| Stars this month | 612 |
+| Stars | 31,447 |
+| Forks | 11,614 |
+| Stars this month | 610 |
 
 ---
 
-## 4. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp) 🆕
+## 4. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
-Static recompilation runtime libraries for PlayStation 3 titles.
+OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 690 |
-| Forks | 110 |
-| Stars this month | 288 |
+| Stars | 79,596 |
+| Forks | 11,266 |
+| Stars this month | 2,232 |
 
 ---
 
@@ -67,22 +67,22 @@ Unofficial native Nuvio client for LG webOS 3+, Samsung Tizen 4+, GoogleTV 7+. C
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 467 |
+| Stars | 473 |
 | Forks | 63 |
-| Stars this month | 265 |
+| Stars this month | 258 |
 
 ---
 
-## 6. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+## 6. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
 
-OBS Studio - Free and open source software for live streaming and screen recording
+Static recompilation runtime libraries for PlayStation 3 titles.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 79,528 |
-| Forks | 11,244 |
-| Stars this month | 2,253 |
+| Stars | 699 |
+| Forks | 111 |
+| Stars this month | 286 |
 
 ---
 
@@ -93,39 +93,65 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 140,963 |
-| Forks | 8,738 |
-| Stars this month | 2,103 |
+| Stars | 140,989 |
+| Forks | 8,742 |
+| Stars this month | 2,086 |
 
 ---
 
-## 8. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-
-An advanced Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 4,834 |
-| Forks | 1,278 |
-| Stars this month | 441 |
-
----
-
-## 9. [redis/redis](https://github.com/redis/redis)
+## 8. [redis/redis](https://github.com/redis/redis)
 
 For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 77,491 |
-| Forks | 25,056 |
-| Stars this month | 1,103 |
+| Stars | 77,525 |
+| Forks | 25,061 |
+| Stars this month | 1,081 |
 
 ---
 
-## 10. [systemd/systemd](https://github.com/systemd/systemd)
+## 9. [mpv-player/mpv](https://github.com/mpv-player/mpv)
+
+🎥 Command line media player
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 38,128 |
+| Forks | 3,656 |
+| Stars this month | 823 |
+
+---
+
+## 10. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+
+An advanced Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 4,846 |
+| Forks | 1,279 |
+| Stars this month | 437 |
+
+---
+
+## 11. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+
+ehviewer，用爱发电，快乐前行
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 29,118 |
+| Forks | 780 |
+| Stars this month | 1,456 |
+
+---
+
+## 12. [systemd/systemd](https://github.com/systemd/systemd)
 
 The systemd System and Service Manager
 
@@ -133,47 +159,21 @@ The systemd System and Service Manager
 |--------|-------|
 | Language | C |
 | Stars | 17,035 |
-| Forks | 4,825 |
-| Stars this month | 261 |
+| Forks | 4,826 |
+| Stars this month | 252 |
 
 ---
 
-## 11. [mpv-player/mpv](https://github.com/mpv-player/mpv)
+## 13. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 
-🎥 Command line media player
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 38,113 |
-| Forks | 3,656 |
-| Stars this month | 828 |
-
----
-
-## 12. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
-
-ehviewer，用爱发电，快乐前行
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 29,073 |
-| Forks | 777 |
-| Stars this month | 1,448 |
-
----
-
-## 13. [lz4/lz4](https://github.com/lz4/lz4)
-
-Extremely Fast Compression algorithm
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 12,778 |
-| Forks | 1,661 |
-| Stars this month | 696 |
+| Stars | 17,087 |
+| Forks | 10,435 |
+| Stars this month | 331 |
 
 ---
 
@@ -182,22 +182,22 @@ Extremely Fast Compression algorithm
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 6,039 |
-| Forks | 1,006 |
+| Stars | 6,056 |
+| Forks | 1,011 |
 | Stars this month | 481 |
 
 ---
 
-## 15. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+## 15. [JustVugg/colibri](https://github.com/JustVugg/colibri) 🆕
 
-Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,079 |
-| Forks | 10,432 |
-| Stars this month | 337 |
+| Stars | 51,179 |
+| Forks | 6,145 |
+| Stars this month | 9,388 |
 
 ---
 
@@ -206,8 +206,8 @@ Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scala
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 5,009 |
-| Forks | 477 |
-| Stars this month | 169 |
+| Stars | 5,014 |
+| Forks | 478 |
+| Stars this month | 170 |
 
 ---

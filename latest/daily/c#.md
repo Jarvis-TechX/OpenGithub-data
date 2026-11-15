@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-14T06:11:59Z
-**Total Repositories:** 12
-**New Entries:** 7
+**Snapshot Time:** 2026-11-15T06:19:54Z
+**Total Repositories:** 15
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
@@ -15,151 +15,190 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,155 |
-| Forks | 483 |
-| Stars today | 147 |
+| Stars | 6,192 |
+| Forks | 490 |
+| Stars today | 50 |
 
 ---
 
-## 2. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 2. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) 🆕
 
-PowerShell for every system!
+The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,160 |
-| Forks | 8,542 |
-| Stars today | 29 |
+| Stars | 59,381 |
+| Forks | 5,817 |
+| Stars today | 44 |
 
 ---
 
-## 3. [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core)
-
-An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,046 |
-| Forks | 381 |
-| Stars today | 6 |
-
----
-
-## 4. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
-
-A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 39,241 |
-| Forks | 4,102 |
-| Stars today | 15 |
-
----
-
-## 5. [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) 🆕
-
-mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 11,224 |
-| Forks | 1,642 |
-| Stars today | 3 |
-
----
-
-## 6. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
-
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 120,567 |
-| Forks | 16,318 |
-| Stars today | 81 |
-
----
-
-## 7. [4sval/FModel](https://github.com/4sval/FModel) 🆕
-
-Unreal Engine Archives Explorer
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,373 |
-| Forks | 495 |
-| Stars today | 6 |
-
----
-
-## 8. [bloxstraplabs/bloxstrap](https://github.com/bloxstraplabs/bloxstrap) 🆕
-
-An alternative bootstrapper for Roblox with a bunch of extra features.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,210 |
-| Forks | 1,113 |
-| Stars today | 3 |
-
----
-
-## 9. [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
-
-Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,446 |
-| Forks | 2,978 |
-| Stars today | 2 |
-
----
-
-## 10. [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) 🆕
-
-Downloads videos and playlists from YouTube
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 16,710 |
-| Forks | 2,106 |
-| Stars today | 8 |
-
----
-
-## 11. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck) 🆕
+## 3. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
 
 A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 656 |
-| Forks | 62 |
-| Stars today | 47 |
+| Stars | 701 |
+| Forks | 65 |
+| Stars today | 60 |
 
 ---
 
-## 12. [QuantConnect/Lean](https://github.com/QuantConnect/Lean) 🆕
+## 4. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
-Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,521 |
-| Forks | 5,418 |
+| Stars | 56,182 |
+| Forks | 8,541 |
+| Stars today | 26 |
+
+---
+
+## 5. [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) 🆕
+
+Bring macOS “Quick Look” feature to Windows
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 25,769 |
+| Forks | 1,375 |
 | Stars today | 16 |
+
+---
+
+## 6. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
+
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 38,525 |
+| Forks | 11,568 |
+| Stars today | 8 |
+
+---
+
+## 7. [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) 🆕
+
+This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,355 |
+| Forks | 333 |
+| Stars today | 27 |
+
+---
+
+## 8. [bitwarden/server](https://github.com/bitwarden/server) 🆕
+
+Bitwarden infrastructure/backend (API, database, Docker, etc).
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 20,639 |
+| Forks | 1,834 |
+| Stars today | 8 |
+
+---
+
+## 9. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) 🆕
+
+The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,719 |
+| Forks | 306 |
+| Stars today | 46 |
+
+---
+
+## 10. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) 🆕
+
+Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 11,740 |
+| Forks | 516 |
+| Stars today | 39 |
+
+---
+
+## 11. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
+
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 18,440 |
+| Forks | 5,818 |
+| Stars today | 3 |
+
+---
+
+## 12. [cyanfish/naps2](https://github.com/cyanfish/naps2) 🆕
+
+Scan documents to PDF and more, as simply as possible.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,786 |
+| Forks | 492 |
+| Stars today | 5 |
+
+---
+
+## 13. [microsoft/microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) 🆕
+
+Reactor is an experimental set of extensions to WinUI
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 897 |
+| Forks | 67 |
+| Stars today | 15 |
+
+---
+
+## 14. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) 🆕
+
+🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 27,574 |
+| Forks | 1,759 |
+| Stars today | 19 |
+
+---
+
+## 15. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) 🆕
+
+Advanced UX and interoperability extension for Wand (WeMod) app
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 33,765 |
+| Forks | 665 |
+| Stars today | 68 |
 
 ---

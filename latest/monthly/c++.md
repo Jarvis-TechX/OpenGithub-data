@@ -1,7 +1,7 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-14T06:12:35Z
+**Snapshot Time:** 2026-11-15T06:20:26Z
 **Total Repositories:** 16
 **New Entries:** 2
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ An MCP-based chatbot | 一个基于MCP的聊天机器人
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,191 |
-| Forks | 7,874 |
-| Stars this month | 2,389 |
+| Stars | 33,243 |
+| Forks | 7,893 |
+| Stars this month | 2,243 |
 
 ---
 
@@ -28,22 +28,22 @@ Hyprland is an independent, highly customizable, dynamic tiling Wayland composit
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,649 |
-| Forks | 2,181 |
-| Stars this month | 1,956 |
+| Stars | 40,659 |
+| Forks | 2,186 |
+| Stars this month | 1,957 |
 
 ---
 
-## 3. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
+## 3. [aardappel/goose](https://github.com/aardappel/goose) 🆕
 
-A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
+The Goose Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,291 |
-| Forks | 458 |
-| Stars this month | 1,130 |
+| Stars | 3,543 |
+| Forks | 168 |
+| Stars this month | 2,941 |
 
 ---
 
@@ -54,22 +54,22 @@ Build cross-platform desktop apps with JavaScript, HTML, and CSS
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 123,896 |
-| Forks | 17,939 |
-| Stars this month | 781 |
+| Stars | 123,907 |
+| Forks | 17,940 |
+| Stars this month | 777 |
 
 ---
 
-## 5. [geode-sdk/geode](https://github.com/geode-sdk/geode) 🆕
+## 5. [geode-sdk/geode](https://github.com/geode-sdk/geode)
 
 The ultimate Geometry Dash modding framework
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,294 |
+| Stars | 3,299 |
 | Forks | 646 |
-| Stars this month | 388 |
+| Stars this month | 391 |
 
 ---
 
@@ -80,9 +80,9 @@ Multi-Joint dynamics with Contact. A general purpose physics simulator.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 17,899 |
-| Forks | 2,187 |
-| Stars this month | 2,229 |
+| Stars | 18,004 |
+| Forks | 2,204 |
+| Stars this month | 2,310 |
 
 ---
 
@@ -93,9 +93,9 @@ Godot Engine – Multi-platform 2D and 3D game engine
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 120,110 |
-| Forks | 27,492 |
-| Stars this month | 2,159 |
+| Stars | 120,175 |
+| Forks | 27,518 |
+| Stars this month | 2,059 |
 
 ---
 
@@ -106,48 +106,48 @@ DLSS Multi Frame Generation Unlock and controls for any supported MFG title on R
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,577 |
-| Forks | 82 |
-| Stars this month | 1,371 |
+| Stars | 2,618 |
+| Forks | 83 |
+| Stars this month | 1,359 |
 
 ---
 
-## 9. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+## 9. [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)
 
-G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,463 |
-| Forks | 3,474 |
-| Stars this month | 548 |
+| Stars | 7,065 |
+| Forks | 460 |
+| Stars this month | 1,263 |
 
 ---
 
-## 10. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 35,429 |
-| Forks | 6,402 |
-| Stars this month | 1,260 |
-
----
-
-## 11. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+## 10. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 
 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,851 |
-| Forks | 2,629 |
-| Stars this month | 818 |
+| Stars | 55,864 |
+| Forks | 2,630 |
+| Stars this month | 772 |
+
+---
+
+## 11. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+
+Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 35,457 |
+| Forks | 6,405 |
+| Stars this month | 1,237 |
 
 ---
 
@@ -158,9 +158,9 @@ OpenToonz - An open-source full-featured 2D animation creation software
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 8,215 |
-| Forks | 943 |
-| Stars this month | 401 |
+| Stars | 8,238 |
+| Forks | 948 |
+| Stars this month | 415 |
 
 ---
 
@@ -171,47 +171,47 @@ Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,852 |
+| Stars | 3,858 |
 | Forks | 258 |
-| Stars this month | 463 |
+| Stars this month | 421 |
 
 ---
 
-## 14. [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)
-
-Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 7,046 |
-| Forks | 457 |
-| Stars this month | 1,259 |
-
----
-
-## 15. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+## 14. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
 
 KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 29,991 |
-| Forks | 2,036 |
-| Stars this month | 851 |
+| Stars | 29,994 |
+| Forks | 2,040 |
+| Stars this month | 852 |
 
 ---
 
-## 16. [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) 🆕
+## 15. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) 🆕
 
-ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 22,302 |
-| Forks | 4,445 |
-| Stars this month | 275 |
+| Stars | 2,400 |
+| Forks | 201 |
+| Stars this month | 1,226 |
+
+---
+
+## 16. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer)
+
+G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 16,478 |
+| Forks | 3,483 |
+| Stars this month | 547 |
 
 ---

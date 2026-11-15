@@ -1,215 +1,228 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-14T06:11:45Z
-**Total Repositories:** 16
-**New Entries:** 11
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-11-15T06:19:41Z
+**Total Repositories:** 17
+**New Entries:** 13
+**Quality Score:** 97.65/100
 
 ---
 
-## 1. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
-
-LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 71,842 |
-| Forks | 57,359 |
-| Stars today | 256 |
-
----
-
-## 2. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) 🆕
+## 1. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
 
 Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 4,289 |
-| Forks | 880 |
-| Stars today | 69 |
+| Stars | 4,973 |
+| Forks | 1,039 |
+| Stars today | 553 |
 
 ---
 
-## 3. [Tencent-Hunyuan/Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) 🆕
+## 2. [andrewyng/openworker](https://github.com/andrewyng/openworker) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 1,754 |
-| Forks | 185 |
-| Stars today | 28 |
+| Stars | 19,249 |
+| Forks | 2,748 |
+| Stars today | 100 |
 
 ---
 
-## 4. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+## 3. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) 🆕
 
-Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
+A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 33,496 |
-| Forks | 3,935 |
-| Stars today | 62 |
+| Stars | 5,859 |
+| Forks | 901 |
+| Stars today | 124 |
 
 ---
 
-## 5. [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin) 🆕
+## 4. [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) 🆕
 
-Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md
+Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 459 |
-| Forks | 75 |
-| Stars today | 51 |
+| Stars | 1,274 |
+| Forks | 152 |
+| Stars today | 133 |
 
 ---
 
-## 6. [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) 🆕
-
-Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 71,368 |
-| Forks | 11,490 |
-| Stars today | 73 |
-
----
-
-## 7. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) 🆕
-
-Official, Anthropic-managed directory of high quality Claude Code Plugins.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 47,224 |
-| Forks | 4,901 |
-| Stars today | 130 |
-
----
-
-## 8. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) 🆕
-
-Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 79,615 |
-| Forks | 6,229 |
-| Stars today | 120 |
-
----
-
-## 9. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+## 5. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 
 Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 69,950 |
-| Forks | 10,843 |
-| Stars today | 787 |
+| Stars | 70,326 |
+| Forks | 10,914 |
+| Stars today | 366 |
 
 ---
 
-## 10. [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) 🆕
+## 6. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
-Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
+Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 34,346 |
-| Forks | 3,128 |
+| Stars | 47,322 |
+| Forks | 4,917 |
 | Stars today | 136 |
 
 ---
 
-## 11. [realiti4/claude-swap](https://github.com/realiti4/claude-swap) 🆕
+## 7. [pnnbao97/VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS) 🆕
 
-Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
+Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 48kHz audio quality • Chuyển văn bản thành giọng nói tiếng Việt • Text to speech tiếng Việt • TTS tiếng Việt
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 4,702 |
-| Forks | 505 |
-| Stars today | 25 |
+| Stars | 3,358 |
+| Forks | 1,027 |
+| Stars today | 73 |
 
 ---
 
-## 12. [volcengine/OpenViking](https://github.com/volcengine/OpenViking) 🆕
+## 8. [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) 🆕
 
-Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 42,215 |
-| Forks | 3,480 |
-| Stars today | 113 |
+| Stars | 5,737 |
+| Forks | 559 |
+| Stars today | 39 |
 
 ---
 
-## 13. [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) 🆕
+## 9. [microsoft/PyRIT](https://github.com/microsoft/PyRIT) 🆕
 
-Build resilient agents.
+Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 44,936 |
-| Forks | 7,748 |
-| Stars today | 49 |
+| Stars | 4,847 |
+| Forks | 1,057 |
+| Stars today | 26 |
 
 ---
 
-## 14. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) 🆕
+## 10. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
 
-Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,471 |
-| Forks | 472 |
-| Stars today | 168 |
+| Stars | 79,683 |
+| Forks | 6,237 |
+| Stars today | 93 |
 
 ---
 
-## 15. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+## 11. [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) 🆕
 
-Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 25,924 |
-| Forks | 2,300 |
-| Stars today | 190 |
+| Stars | 36,161 |
+| Forks | 4,428 |
+| Stars today | 59 |
 
 ---
 
-## 16. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+## 12. [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) 🆕
 
-AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 67,581 |
-| Forks | 5,941 |
-| Stars today | 111 |
+| Stars | 16,549 |
+| Forks | 2,809 |
+| Stars today | 34 |
+
+---
+
+## 13. [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) 🆕
+
+Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 17,727 |
+| Forks | 1,858 |
+| Stars today | 130 |
+
+---
+
+## 14. [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) 🆕
+
+Main Sigma Rule Repository
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 11,511 |
+| Forks | 2,945 |
+| Stars today | 10 |
+
+---
+
+## 15. [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 🆕
+
+Breakthrough Method for Agile Ai Driven Development
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 55,377 |
+| Forks | 6,171 |
+| Stars today | 19 |
+
+---
+
+## 16. [zulip/zulip](https://github.com/zulip/zulip) 🆕
+
+Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 26,230 |
+| Forks | 10,595 |
+| Stars today | 8 |
+
+---
+
+## 17. [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) 🆕
+
+An open-source OpusClip alternative
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 3,122 |
+| Forks | 709 |
+| Stars today | 88 |
 
 ---
