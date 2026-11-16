@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-15T06:20:16Z
+**Snapshot Time:** 2026-11-16T06:19:50Z
 **Total Repositories:** 10
-**New Entries:** 0
-**Quality Score:** 100.00/100
+**New Entries:** 2
+**Quality Score:** 96.00/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 72,756 |
-| Forks | 4,863 |
-| Stars this month | 43,171 |
+| Stars | 73,373 |
+| Forks | 4,913 |
+| Stars this month | 43,540 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 115,755 |
-| Forks | 7,772 |
-| Stars this month | 20,043 |
+| Stars | 116,374 |
+| Forks | 7,802 |
+| Stars this month | 19,546 |
 
 ---
 
@@ -41,35 +41,35 @@ For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,152 |
-| Forks | 135 |
-| Stars this month | 1,487 |
+| Stars | 2,181 |
+| Forks | 139 |
+| Stars this month | 1,511 |
 
 ---
 
-## 4. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
-
-Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 21,404 |
-| Forks | 2,891 |
-| Stars this month | 9,809 |
-
----
-
-## 5. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+## 4. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 
 The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 22,899 |
-| Forks | 1,294 |
-| Stars this month | 5,583 |
+| Stars | 23,014 |
+| Forks | 1,299 |
+| Stars this month | 5,608 |
+
+---
+
+## 5. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+
+Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 21,607 |
+| Forks | 2,910 |
+| Stars this month | 9,371 |
 
 ---
 
@@ -80,9 +80,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 118,455 |
-| Forks | 36,975 |
-| Stars this month | 2,105 |
+| Stars | 118,572 |
+| Forks | 36,993 |
+| Stars this month | 2,181 |
 
 ---
 
@@ -93,47 +93,45 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 39,916 |
-| Forks | 2,881 |
-| Stars this month | 18,020 |
+| Stars | 40,061 |
+| Forks | 2,892 |
+| Stars this month | 17,582 |
 
 ---
 
-## 8. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
-
-Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,317 |
-| Forks | 396 |
-| Stars this month | 2,354 |
+| Stars | 7,713 |
+| Forks | 1,256 |
+| Stars this month | 2,915 |
 
 ---
 
-## 9. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-
-Production-grade engineering skills for AI coding agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 117,651 |
-| Forks | 12,310 |
-| Stars this month | 11,419 |
-
----
-
-## 10. [jquery/jquery](https://github.com/jquery/jquery)
+## 9. [jquery/jquery](https://github.com/jquery/jquery)
 
 jQuery JavaScript Library
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 59,956 |
-| Forks | 20,715 |
-| Stars this month | 412 |
+| Stars | 59,951 |
+| Forks | 20,706 |
+| Stars this month | 423 |
+
+---
+
+## 10. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) 🆕
+
+ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 15,249 |
+| Forks | 1,738 |
+| Stars this month | 2,377 |
 
 ---

@@ -1,23 +1,23 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-15T06:20:30Z
-**Total Repositories:** 17
-**New Entries:** 1
+**Snapshot Time:** 2026-11-16T06:20:07Z
+**Total Repositories:** 19
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+## 1. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
 
-WinUI app for building smaller, customized Windows 11 images.
+📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,954 |
-| Forks | 1,677 |
-| Stars this month | 1,960 |
+| Stars | 18,076 |
+| Forks | 1,347 |
+| Stars this month | 1,965 |
 
 ---
 
@@ -28,22 +28,22 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,192 |
-| Forks | 490 |
-| Stars this month | 567 |
+| Stars | 6,222 |
+| Forks | 492 |
+| Stars this month | 576 |
 
 ---
 
-## 3. [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
+## 3. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
-📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact
+WinUI app for building smaller, customized Windows 11 images.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,046 |
-| Forks | 1,343 |
-| Stars this month | 1,962 |
+| Stars | 21,981 |
+| Forks | 1,677 |
+| Stars this month | 1,604 |
 
 ---
 
@@ -54,9 +54,9 @@ ShareX is a free and open-source application that enables users to capture or re
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 41,045 |
-| Forks | 4,080 |
-| Stars this month | 1,093 |
+| Stars | 41,064 |
+| Forks | 4,084 |
+| Stars this month | 1,091 |
 
 ---
 
@@ -67,9 +67,9 @@ PCL 社区版 由社区开发者维护与管理
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,129 |
-| Forks | 482 |
-| Stars this month | 774 |
+| Stars | 5,142 |
+| Forks | 486 |
+| Stars this month | 789 |
 
 ---
 
@@ -80,9 +80,9 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,248 |
-| Forks | 4,104 |
-| Stars this month | 414 |
+| Stars | 39,268 |
+| Forks | 4,106 |
+| Stars this month | 407 |
 
 ---
 
@@ -93,61 +93,61 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,182 |
-| Forks | 8,541 |
-| Stars this month | 646 |
+| Stars | 56,196 |
+| Forks | 8,539 |
+| Stars this month | 635 |
 
 ---
 
-## 8. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
-
-A Launcher that Downloads and Updates Applications from Github Releases
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 2,086 |
-| Forks | 72 |
-| Stars this month | 328 |
-
----
-
-## 9. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+## 8. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
 Windows/macOS/Linux GUI client for GIT users
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,481 |
-| Forks | 614 |
-| Stars this month | 346 |
+| Stars | 6,493 |
+| Forks | 616 |
+| Stars this month | 348 |
 
 ---
 
-## 10. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox)
+## 9. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
 
-一款面向安卓开发的多功能玩机工具箱
+A Launcher that Downloads and Updates Applications from Github Releases
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 902 |
-| Forks | 78 |
-| Stars this month | 482 |
+| Stars | 2,087 |
+| Forks | 72 |
+| Stars this month | 310 |
 
 ---
 
-## 11. [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy)
+## 10. [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy)
 
 The Windows debloater.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,867 |
+| Stars | 5,869 |
 | Forks | 187 |
-| Stars this month | 233 |
+| Stars this month | 229 |
+
+---
+
+## 11. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox)
+
+一款面向安卓开发的多功能玩机工具箱
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 908 |
+| Forks | 80 |
+| Stars this month | 475 |
 
 ---
 
@@ -158,26 +158,39 @@ The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,874 |
+| Stars | 19,876 |
 | Forks | 4,520 |
-| Stars this month | 137 |
+| Stars this month | 132 |
 
 ---
 
-## 13. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
+## 13. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
 
-Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,976 |
-| Forks | 1,638 |
-| Stars this month | 1,077 |
+| Stars | 27,582 |
+| Forks | 1,760 |
+| Stars this month | 544 |
 
 ---
 
-## 14. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
+## 14. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 38,526 |
+| Forks | 11,567 |
+| Stars this month | 130 |
+
+---
+
+## 15. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
 Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
@@ -185,46 +198,59 @@ Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment proces
 |--------|-------|
 | Language | C# |
 | Stars | 7,921 |
-| Forks | 2,064 |
+| Forks | 2,065 |
 | Stars this month | 145 |
 
 ---
 
-## 15. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
+## 16. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
+
+Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 15,999 |
+| Forks | 1,636 |
+| Stars this month | 1,064 |
+
+---
+
+## 17. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) 🆕
+
+The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,727 |
+| Forks | 306 |
+| Stars this month | 381 |
+
+---
+
+## 18. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
 
 File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,692 |
-| Forks | 948 |
-| Stars this month | 386 |
+| Stars | 15,706 |
+| Forks | 952 |
+| Stars this month | 384 |
 
 ---
 
-## 16. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) 🆕
+## 19. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
 
-🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+Movie organizer/manager for usenet and torrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,574 |
-| Forks | 1,759 |
-| Stars this month | 542 |
-
----
-
-## 17. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 38,525 |
-| Forks | 11,568 |
-| Stars this month | 130 |
+| Stars | 14,790 |
+| Forks | 1,262 |
+| Stars this month | 247 |
 
 ---

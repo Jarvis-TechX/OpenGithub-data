@@ -1,53 +1,101 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-15T06:19:45Z
-**Total Repositories:** 16
-**New Entries:** 12
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-16T06:19:09Z
+**Total Repositories:** 19
+**New Entries:** 11
+**Quality Score:** 97.89/100
 
 ---
 
-## 1. [we-promise/sure](https://github.com/we-promise/sure)
-
-The personal finance app for everyone (by everyone)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 15,419 |
-| Forks | 1,309 |
-| Stars today | 659 |
-
----
-
-## 2. [spree/spree](https://github.com/spree/spree) 🆕
-
-Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 15,838 |
-| Forks | 5,319 |
-| Stars today | 2 |
-
----
-
-## 3. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) 🆕
+## 1. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 
 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,672 |
+| Stars | 15,671 |
 | Forks | 13,965 |
+| Stars today | 1 |
+
+---
+
+## 2. [ruby/ruby](https://github.com/ruby/ruby)
+
+The Ruby Programming Language
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 23,816 |
+| Forks | 5,689 |
 | Stars today | 2 |
 
 ---
 
-## 4. [fastlane/fastlane](https://github.com/fastlane/fastlane) 🆕
+## 3. [spree/spree](https://github.com/spree/spree)
+
+Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 15,841 |
+| Forks | 5,319 |
+| Stars today | 4 |
+
+---
+
+## 4. [we-promise/sure](https://github.com/we-promise/sure)
+
+The personal finance app for everyone (by everyone)
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 15,789 |
+| Forks | 1,383 |
+| Stars today | 520 |
+
+---
+
+## 5. [Homebrew/brew](https://github.com/Homebrew/brew)
+
+🍺 The Package Manager for Everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 50,345 |
+| Forks | 11,423 |
+| Stars today | 11 |
+
+---
+
+## 6. [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) 🆕
+
+The Cocoa Dependency Manager.
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 14,833 |
+| Forks | 2,687 |
+
+---
+
+## 7. [TheOdinProject/ruby-exercises](https://github.com/TheOdinProject/ruby-exercises) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 311 |
+| Forks | 1,810 |
+
+---
+
+## 8. [fastlane/fastlane](https://github.com/fastlane/fastlane)
 
 🚀 The easiest way to automate building and releasing your iOS and Android apps
 
@@ -55,75 +103,12 @@ Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST API
 |--------|-------|
 | Language | Ruby |
 | Stars | 42,389 |
-| Forks | 6,055 |
-
----
-
-## 5. [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) 🆕
-
-GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 24,566 |
-| Forks | 5,943 |
-| Stars today | 1 |
-
----
-
-## 6. [puma/puma](https://github.com/puma/puma) 🆕
-
-A Ruby/Rack web server built for parallelism
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 7,928 |
-| Forks | 1,517 |
-
----
-
-## 7. [discourse/discourse](https://github.com/discourse/discourse) 🆕
-
-A platform for community discussion. Free, open, simple.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 48,085 |
-| Forks | 9,063 |
-| Stars today | 5 |
-
----
-
-## 8. [ruby/ruby](https://github.com/ruby/ruby)
-
-The Ruby Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 23,813 |
-| Forks | 5,687 |
+| Forks | 6,057 |
 | Stars today | 3 |
 
 ---
 
-## 9. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) 🆕
-
-Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 12,415 |
-| Forks | 600 |
-| Stars today | 2 |
-
----
-
-## 10. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 🆕
+## 9. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
 
 🤖 Dependabot's core logic for creating update PRs.
 
@@ -131,84 +116,134 @@ Open source alternative to AWS. Elastic compute, block storage (non replicated),
 |--------|-------|
 | Language | Ruby |
 | Stars | 5,849 |
-| Forks | 1,604 |
+| Forks | 1,606 |
 | Stars today | 3 |
 
 ---
 
-## 11. [dependabot/demo](https://github.com/dependabot/demo)
+## 10. [inspec/inspec](https://github.com/inspec/inspec) 🆕
 
-🤖 Fork me to try out Dependabot
+InSpec: Auditing and Testing Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 355 |
-| Forks | 5,142 |
+| Stars | 3,105 |
+| Forks | 679 |
+
+---
+
+## 11. [chromebrew/chromebrew](https://github.com/chromebrew/chromebrew) 🆕
+
+Package manager for Chrome OS
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 2,533 |
+| Forks | 422 |
+
+---
+
+## 12. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) 🆕
+
+🍻 Default casks (upstream binary packages) for the package manager for everywhere
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,302 |
+| Forks | 12,111 |
+| Stars today | 2 |
+
+---
+
+## 13. [docusealco/docuseal](https://github.com/docusealco/docuseal) 🆕
+
+Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 19,056 |
+| Forks | 1,954 |
+| Stars today | 5 |
+
+---
+
+## 14. [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) 🆕
+
+Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 1,093 |
+| Forks | 508 |
 | Stars today | 1 |
 
 ---
 
-## 12. [Homebrew/brew](https://github.com/Homebrew/brew) 🆕
+## 15. [rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials) 🆕
 
-🍺 The Package Manager for Everywhere
+Human Essentials is an inventory management system for diaper, incontinence, and period-supply banks. It supports them in distributing to partners, tracking inventory, and reporting stats and analytics.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,337 |
-| Forks | 11,424 |
-| Stars today | 9 |
+| Stars | 600 |
+| Forks | 603 |
+| Stars today | 1 |
 
 ---
 
-## 13. [DataDog/dd-trace-rb](https://github.com/DataDog/dd-trace-rb) 🆕
+## 16. [puma/puma](https://github.com/puma/puma)
 
-Datadog's client library for Ruby
+A Ruby/Rack web server built for parallelism
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 419 |
-| Forks | 428 |
+| Stars | 7,928 |
+| Forks | 1,519 |
+| Stars today | 1 |
 
 ---
 
-## 14. [postalserver/postal](https://github.com/postalserver/postal) 🆕
+## 17. [rubyforgood/casa](https://github.com/rubyforgood/casa) 🆕
 
-📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+Volunteer management system for nonprofit CASA, which serves foster youth in counties across America.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,958 |
-| Forks | 1,324 |
-| Stars today | 3 |
+| Stars | 385 |
+| Forks | 561 |
+| Stars today | 1 |
 
 ---
 
-## 15. [opf/openproject](https://github.com/opf/openproject) 🆕
+## 18. [stripe/stripe-ruby](https://github.com/stripe/stripe-ruby) 🆕
 
-OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
+Ruby library for the Stripe API.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,386 |
-| Forks | 3,765 |
-| Stars today | 28 |
+| Stars | 2,187 |
+| Forks | 701 |
 
 ---
 
-## 16. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+## 19. [github/explore](https://github.com/github/explore) 🆕
 
-Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,903 |
-| Forks | 9,702 |
-| Stars today | 78 |
+| Stars | 4,962 |
+| Forks | 14,730 |
+| Stars today | 1 |
 
 ---

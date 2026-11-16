@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-15T06:19:59Z
-**Total Repositories:** 15
-**New Entries:** 2
+**Snapshot Time:** 2026-11-16T06:19:27Z
+**Total Repositories:** 16
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,35 +15,35 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 28,286 |
-| Forks | 2,199 |
-| Stars this week | 13,660 |
+| Stars | 29,084 |
+| Forks | 2,275 |
+| Stars this week | 13,501 |
 
 ---
 
-## 2. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-
-Open-source Grok Bot alternative with a virtual machine that bots can use
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 22,895 |
-| Forks | 3,189 |
-| Stars this week | 6,413 |
-
----
-
-## 3. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+## 2. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 
 The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,331 |
-| Forks | 965 |
-| Stars this week | 818 |
+| Stars | 12,034 |
+| Forks | 1,113 |
+| Stars this week | 1,719 |
+
+---
+
+## 3. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+
+Open-source Grok Bot alternative with a virtual machine that bots can use
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 23,642 |
+| Forks | 3,289 |
+| Stars this week | 5,463 |
 
 ---
 
@@ -54,151 +54,164 @@ OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,566 |
-| Forks | 1,057 |
-| Stars this week | 2,176 |
+| Stars | 13,645 |
+| Forks | 1,067 |
+| Stars this week | 2,294 |
 
 ---
 
-## 5. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) 🆕
+## 5. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 
 An open-source AI coding agent that lives in your terminal.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,414 |
-| Forks | 3,523 |
-| Stars this week | 1,173 |
+| Stars | 30,561 |
+| Forks | 3,539 |
+| Stars this week | 1,469 |
 
 ---
 
-## 6. [lobehub/lobehub](https://github.com/lobehub/lobehub)
-
-🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 85,540 |
-| Forks | 16,321 |
-| Stars this week | 1,258 |
-
----
-
-## 7. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+## 6. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 
 Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,308 |
-| Forks | 1,519 |
-| Stars this week | 1,900 |
+| Stars | 12,472 |
+| Forks | 1,543 |
+| Stars this week | 1,966 |
 
 ---
 
-## 8. [immich-app/immich](https://github.com/immich-app/immich)
+## 7. [lobehub/lobehub](https://github.com/lobehub/lobehub)
 
-High performance self-hosted photo and video management solution.
+🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 119,225 |
-| Forks | 7,608 |
-| Stars this week | 760 |
+| Stars | 85,598 |
+| Forks | 16,335 |
+| Stars this week | 1,210 |
 
 ---
 
-## 9. [every-app/open-seo](https://github.com/every-app/open-seo)
+## 8. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) 🆕
 
-Open source alternative to Semrush and Ahrefs
+A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 27,740 |
-| Forks | 3,889 |
-| Stars this week | 992 |
+| Stars | 9,448 |
+| Forks | 1,164 |
+| Stars this week | 442 |
 
 ---
 
-## 10. [elie222/rakazo](https://github.com/elie222/rakazo)
+## 9. [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) 🆕
 
-Open-source Grok Bot alternative. Choose your own model and sandbox.
+Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,465 |
-| Forks | 1,533 |
-| Stars this week | 966 |
+| Stars | 17,457 |
+| Forks | 1,414 |
+| Stars this week | 423 |
 
 ---
 
-## 11. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
-
-A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 7,450 |
-| Forks | 612 |
-| Stars this week | 2,942 |
-
----
-
-## 12. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-
-Keep your coding agent up to date with the latest web best practices
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 6,270 |
-| Forks | 463 |
-| Stars this week | 4,363 |
-
----
-
-## 13. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-
-The best way to control Claude Code, Codex and more from any computer or phone
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 60,802 |
-| Forks | 10,937 |
-| Stars this week | 9,668 |
-
----
-
-## 14. [garrytan/gbrain](https://github.com/garrytan/gbrain)
+## 10. [garrytan/gbrain](https://github.com/garrytan/gbrain)
 
 Garry's Opinionated OpenClaw/Hermes Agent Brain
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,035 |
-| Forks | 4,941 |
-| Stars this week | 1,351 |
+| Stars | 33,111 |
+| Forks | 4,954 |
+| Stars this week | 1,476 |
 
 ---
 
-## 15. [vuejs/core](https://github.com/vuejs/core) 🆕
+## 11. [every-app/open-seo](https://github.com/every-app/open-seo)
 
-🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+Open source alternative to Semrush and Ahrefs
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 55,041 |
-| Forks | 9,342 |
-| Stars this week | 211 |
+| Stars | 27,850 |
+| Forks | 3,915 |
+| Stars this week | 948 |
+
+---
+
+## 12. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+
+A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 7,583 |
+| Forks | 623 |
+| Stars this week | 2,575 |
+
+---
+
+## 13. [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote) 🆕
+
+基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,000 |
+| Forks | 225 |
+| Stars this week | 702 |
+
+---
+
+## 14. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+
+Keep your coding agent up to date with the latest web best practices
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 7,434 |
+| Forks | 639 |
+| Stars this week | 5,692 |
+
+---
+
+## 15. [elie222/rakazo](https://github.com/elie222/rakazo)
+
+Open-source Grok Bot alternative. Choose your own model and sandbox.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 8,704 |
+| Forks | 1,565 |
+| Stars this week | 1,064 |
+
+---
+
+## 16. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
+The best way to control Claude Code, Codex and more from any computer or phone
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 61,825 |
+| Forks | 11,063 |
+| Stars this week | 9,260 |
 
 ---

@@ -1,126 +1,98 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-15T06:19:49Z
-**Total Repositories:** 9
-**New Entries:** 7
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-16T06:19:15Z
+**Total Repositories:** 7
+**New Entries:** 6
+**Quality Score:** 94.29/100
 
 ---
 
-## 1. [JustVugg/colibri](https://github.com/JustVugg/colibri)
+## 1. [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone) 🆕
 
-A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
+Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 51,179 |
-| Forks | 6,145 |
-| Stars today | 313 |
+| Stars | 797 |
+| Forks | 543 |
+| Stars today | 1 |
 
 ---
 
-## 2. [semgrep/semgrep](https://github.com/semgrep/semgrep) 🆕
+## 2. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) 🆕
 
-Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+ehviewer，用爱发电，快乐前行
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,685 |
-| Forks | 1,178 |
-| Stars today | 37 |
+| Stars | 29,167 |
+| Forks | 783 |
+| Stars today | 42 |
 
 ---
 
-## 3. [microsoft/mimalloc](https://github.com/microsoft/mimalloc) 🆕
+## 3. [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) 🆕
 
-mimalloc is a compact general purpose allocator with excellent performance.
+Free and open source hybrid synthesizer as a virtual instrument (previously released by Vember Audio as Surge)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 13,546 |
-| Forks | 1,217 |
+| Stars | 4,136 |
+| Forks | 516 |
+| Stars today | 14 |
+
+---
+
+## 4. [EchoStretch/kstuff-lite](https://github.com/EchoStretch/kstuff-lite) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 950 |
+| Forks | 75 |
 | Stars today | 4 |
 
 ---
 
-## 4. [libsdl-org/SDL](https://github.com/libsdl-org/SDL) 🆕
+## 5. [brunodev85/winlator](https://github.com/brunodev85/winlator) 🆕
 
-Simple DirectMedia Layer
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 16,995 |
-| Forks | 3,162 |
-| Stars today | 4 |
-
----
-
-## 5. [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
-
-QuickJS, the Next Generation: a mighty JavaScript engine
+Android application for running Windows applications with Wine and Box86/Box64
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,152 |
-| Forks | 446 |
-| Stars today | 4 |
+| Stars | 20,003 |
+| Forks | 1,986 |
+| Stars today | 27 |
 
 ---
 
-## 6. [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) 🆕
-
-ClamAV - Documentation is here:https://docs.clamav.net
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 7,582 |
-| Forks | 965 |
-| Stars today | 25 |
-
----
-
-## 7. [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) 🆕
-
-An opensource OpenWrt variant for mainland China users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 11,926 |
-| Forks | 4,099 |
-| Stars today | 6 |
-
----
-
-## 8. [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury) 🆕
+## 6. [Rhizomatica/mercury](https://github.com/Rhizomatica/mercury)
 
 Mercury is a Digital Radio OFDM protocol for HF broadcast and peer-to-peer ARQ connections with compatible TCP interfaces
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 370 |
-| Forks | 59 |
-| Stars today | 6 |
+| Stars | 383 |
+| Forks | 61 |
+| Stars today | 7 |
 
 ---
 
-## 9. [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) 🆕
+## 7. [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) 🆕
 
-Small and highly portable detection tests based on MITRE's ATT&CK.
+GameStream client for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,861 |
-| Forks | 3,269 |
-| Stars today | 10 |
+| Stars | 7,499 |
+| Forks | 1,783 |
+| Stars today | 13 |
 
 ---

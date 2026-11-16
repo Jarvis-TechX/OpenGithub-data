@@ -1,165 +1,152 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-15T06:19:52Z
-**Total Repositories:** 12
-**New Entries:** 10
+**Snapshot Time:** 2026-11-16T06:19:19Z
+**Total Repositories:** 11
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
-
-YunX（云析）的官方 windows 桌面端
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 5,976 |
-| Forks | 463 |
-| Stars today | 324 |
-
----
-
-## 2. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) 🆕
+## 1. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
 
 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,212 |
-| Forks | 54 |
-| Stars today | 15 |
+| Stars | 1,236 |
+| Forks | 55 |
+| Stars today | 26 |
 
 ---
 
-## 3. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 2. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) 🆕
 
-YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
+A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,954 |
-| Forks | 421 |
-| Stars today | 172 |
+| Stars | 13,440 |
+| Forks | 785 |
+| Stars today | 56 |
 
 ---
 
-## 4. [NarYuki/Dextop](https://github.com/NarYuki/Dextop) 🆕
+## 3. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
 
-Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device.
+The Magic Mask for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,184 |
-| Forks | 73 |
-| Stars today | 12 |
+| Stars | 64,049 |
+| Forks | 19,374 |
+| Stars today | 38 |
 
 ---
 
-## 5. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
+## 4. [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix) 🆕
 
-Headunit App for displaying Android Auto
+A UI library for Compose Multiplatform
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,342 |
-| Forks | 326 |
-| Stars today | 22 |
+| Stars | 1,653 |
+| Forks | 136 |
+| Stars today | 6 |
 
 ---
 
-## 6. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store) 🆕
+## 5. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store)
 
 The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,153 |
-| Forks | 139 |
-| Stars today | 59 |
+| Stars | 4,181 |
+| Forks | 144 |
+| Stars today | 24 |
 
 ---
 
-## 7. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) 🆕
+## 6. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music) 🆕
 
-Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
+A modern, cool, sleek music player. made with <3
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,618 |
-| Forks | 137 |
-| Stars today | 22 |
+| Stars | 1,814 |
+| Forks | 87 |
+| Stars today | 91 |
 
 ---
 
-## 8. [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) 🆕
+## 7. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) 🆕
 
-All in one emulator on Android!
+翻墙-科学上网
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,514 |
-| Forks | 418 |
-| Stars today | 5 |
+| Stars | 56,711 |
+| Forks | 8,756 |
+| Stars today | 31 |
 
 ---
 
-## 9. [yairm210/Unciv](https://github.com/yairm210/Unciv) 🆕
+## 8. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
 
-Open-source Android/Desktop remake of Civ V
+Headunit App for displaying Android Auto
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,578 |
-| Forks | 2,000 |
-| Stars today | 3 |
+| Stars | 3,381 |
+| Forks | 331 |
+| Stars today | 31 |
 
 ---
 
-## 10. [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) 🆕
+## 9. [NarYuki/Dextop](https://github.com/NarYuki/Dextop)
 
-Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,684 |
-| Forks | 437 |
+| Stars | 1,210 |
+| Forks | 77 |
+| Stars today | 18 |
+
+---
+
+## 10. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+
+YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 8,077 |
+| Forks | 427 |
+| Stars today | 130 |
+
+---
+
+## 11. [ximeiorg/Xime](https://github.com/ximeiorg/Xime) 🆕
+
+我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,390 |
+| Forks | 114 |
 | Stars today | 7 |
-
----
-
-## 11. [tyron12233/CodeAssist](https://github.com/tyron12233/CodeAssist) 🆕
-
-An IDE for building Android applicatons on Android.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,175 |
-| Forks | 424 |
-| Stars today | 10 |
-
----
-
-## 12. [sk2andy/candy-browser](https://github.com/sk2andy/candy-browser) 🆕
-
-Gesture-first Android browser with Material 3 Expressive design and local privacy tools
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 665 |
-| Forks | 23 |
-| Stars today | 3 |
 
 ---

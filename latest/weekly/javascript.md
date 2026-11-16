@@ -1,7 +1,7 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-15T06:19:58Z
+**Snapshot Time:** 2026-11-16T06:19:26Z
 **Total Repositories:** 8
 **New Entries:** 2
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,651 |
-| Forks | 12,310 |
-| Stars this week | 3,670 |
+| Stars | 118,037 |
+| Forks | 12,349 |
+| Stars this week | 3,889 |
 
 ---
 
@@ -28,48 +28,48 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,389 |
-| Forks | 8,805 |
-| Stars this week | 1,303 |
+| Stars | 60,640 |
+| Forks | 8,835 |
+| Stars this week | 1,368 |
 
 ---
 
-## 3. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 72,756 |
-| Forks | 4,863 |
-| Stars this week | 7,601 |
-
----
-
-## 4. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+## 3. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
 
 ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 15,179 |
-| Forks | 1,735 |
-| Stars this week | 576 |
+| Stars | 15,249 |
+| Forks | 1,738 |
+| Stars this week | 550 |
 
 ---
 
-## 5. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) 🆕
+## 4. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 A fancy self-hosted monitoring tool
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 94,316 |
-| Forks | 8,835 |
-| Stars this week | 873 |
+| Stars | 94,450 |
+| Forks | 8,847 |
+| Stars this week | 1,088 |
+
+---
+
+## 5. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 116,373 |
+| Forks | 7,802 |
+| Stars this week | 4,234 |
 
 ---
 
@@ -80,34 +80,34 @@ Uncensored Open-source alternative to AI video platforms — Free AI image & vid
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,716 |
-| Forks | 6,683 |
-| Stars this week | 1,755 |
+| Stars | 34,896 |
+| Forks | 6,712 |
+| Stars this week | 1,552 |
 
 ---
 
-## 7. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+## 7. [maillab/cloud-mail](https://github.com/maillab/cloud-mail) 🆕
 
-Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 115,755 |
-| Forks | 7,772 |
-| Stars this week | 4,108 |
+| Stars | 16,234 |
+| Forks | 23,759 |
+| Stars this week | 667 |
 
 ---
 
-## 8. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
+## 8. [expressjs/express](https://github.com/expressjs/express) 🆕
 
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+Fast, unopinionated, minimalist web framework for node.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 191,024 |
-| Forks | 10,681 |
-| Stars this week | 4,727 |
+| Stars | 69,685 |
+| Forks | 25,533 |
+| Stars this week | 143 |
 
 ---

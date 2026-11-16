@@ -1,139 +1,178 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-15T06:19:55Z
-**Total Repositories:** 10
-**New Entries:** 7
+**Snapshot Time:** 2026-11-16T06:19:21Z
+**Total Repositories:** 13
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [apple/container](https://github.com/apple/container)
+## 1. [suversal/WrapPin](https://github.com/suversal/WrapPin) 🆕
 
-A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+iOS 27+ 本机虚拟定位与步行路线测试工具
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 51,479 |
-| Forks | 1,824 |
-| Stars today | 92 |
+| Stars | 942 |
+| Forks | 138 |
+| Stars today | 36 |
 
 ---
 
-## 2. [apple/coreai-models](https://github.com/apple/coreai-models) 🆕
+## 2. [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) 🆕
 
-Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+Dynamic Island for macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,347 |
-| Forks | 264 |
+| Stars | 5,283 |
+| Forks | 386 |
+| Stars today | 12 |
+
+---
+
+## 3. [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) 🆕
+
+Nuvio tvOS client
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 431 |
+| Forks | 44 |
+| Stars today | 9 |
+
+---
+
+## 4. [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) 🆕
+
+A cosy home for your LLMs.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,829 |
+| Forks | 149 |
 | Stars today | 8 |
 
 ---
 
-## 3. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+## 5. [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) 🆕
+
+Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 7,401 |
+| Forks | 482 |
+| Stars today | 20 |
+
+---
+
+## 6. [utmapp/UTM](https://github.com/utmapp/UTM) 🆕
+
+Virtual machines for iOS and macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 36,913 |
+| Forks | 1,921 |
+| Stars today | 25 |
+
+---
+
+## 7. [ResistanceTo/MiniWatts](https://github.com/ResistanceTo/MiniWatts) 🆕
+
+An iPhone battery, charging and thermal instrument built on private iOS APIs — real charger watts, what actually reaches the cell, all 30 temperature sensors, and the USB-PD handshake.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 513 |
+| Forks | 32 |
+| Stars today | 9 |
+
+---
+
+## 8. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
 An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,441 |
-| Forks | 115 |
-| Stars today | 21 |
-
----
-
-## 4. [tisfeng/Easydict](https://github.com/tisfeng/Easydict) 🆕
-
-一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 15,315 |
-| Forks | 813 |
+| Stars | 1,448 |
+| Forks | 116 |
 | Stars today | 14 |
 
 ---
 
-## 5. [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) 🆕
+## 9. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam) 🆕
 
-Excalidraw app for mac. Powered by pure SwiftUI.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,901 |
-| Forks | 104 |
-| Stars today | 17 |
-
----
-
-## 6. [caezium/burrow](https://github.com/caezium/burrow)
-
-🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.
+A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,784 |
-| Forks | 185 |
-| Stars today | 15 |
+| Stars | 479 |
+| Forks | 154 |
+| Stars today | 7 |
 
 ---
 
-## 7. [farzaa/clicky](https://github.com/farzaa/clicky) 🆕
+## 10. [rooootdev/lara](https://github.com/rooootdev/lara) 🆕
 
-The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
+iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,012 |
-| Forks | 1,607 |
-| Stars today | 5 |
+| Stars | 1,647 |
+| Forks | 235 |
+| Stars today | 7 |
 
 ---
 
-## 8. [zachlatta/freeflow](https://github.com/zachlatta/freeflow) 🆕
+## 11. [milika/SmartTubeIOS](https://github.com/milika/SmartTubeIOS) 🆕
 
-Free & fast alternative to Wispr Flow
+Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac — ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K. Open source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,105 |
-| Forks | 321 |
-| Stars today | 13 |
+| Stars | 573 |
+| Forks | 90 |
+| Stars today | 2 |
 
 ---
 
-## 9. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) 🆕
+## 12. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) 🆕
 
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,792 |
-| Forks | 2,668 |
-| Stars today | 24 |
+| Stars | 13,086 |
+| Forks | 987 |
+| Stars today | 45 |
 
 ---
 
-## 10. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) 🆕
+## 13. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
 
 Manga reading app for iOS, iPadOS, and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,748 |
-| Forks | 335 |
-| Stars today | 7 |
+| Stars | 4,759 |
+| Forks | 336 |
+| Stars today | 10 |
 
 ---

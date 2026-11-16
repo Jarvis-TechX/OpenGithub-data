@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-15T06:20:10Z
+**Snapshot Time:** 2026-11-16T06:19:43Z
 **Total Repositories:** 14
-**New Entries:** 1
+**New Entries:** 3
 **Quality Score:** 97.14/100
 
 ---
@@ -15,111 +15,111 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,192 |
-| Forks | 490 |
-| Stars this week | 330 |
+| Stars | 6,222 |
+| Forks | 492 |
+| Stars this week | 349 |
 
 ---
 
-## 2. [ShareX/ShareX](https://github.com/ShareX/ShareX)
-
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 41,045 |
-| Forks | 4,080 |
-| Stars this week | 309 |
-
----
-
-## 3. [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 10,027 |
-| Forks | 383 |
-| Stars this week | 1,901 |
-
----
-
-## 4. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+## 2. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
 
 Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,740 |
+| Stars | 11,759 |
 | Forks | 516 |
-| Stars this week | 679 |
+| Stars this week | 665 |
 
 ---
 
-## 5. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) 🆕
+## 3. [ShareX/ShareX](https://github.com/ShareX/ShareX)
+
+ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 41,064 |
+| Forks | 4,084 |
+| Stars this week | 255 |
+
+---
+
+## 4. [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 10,117 |
+| Forks | 387 |
+| Stars this week | 1,525 |
+
+---
+
+## 5. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
 PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,182 |
-| Forks | 8,541 |
-| Stars this week | 151 |
+| Stars | 56,196 |
+| Forks | 8,539 |
+| Stars this week | 152 |
 
 ---
 
-## 6. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
-
-FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,138 |
-| Forks | 246 |
-| Stars this week | 289 |
-
----
-
-## 7. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+## 6. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
 A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,248 |
-| Forks | 4,104 |
-| Stars this week | 142 |
+| Stars | 39,268 |
+| Forks | 4,106 |
+| Stars this week | 141 |
 
 ---
 
-## 8. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
+## 7. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
 
-A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
+FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,144 |
-| Forks | 487 |
-| Stars this week | 560 |
+| Stars | 7,181 |
+| Forks | 245 |
+| Stars this week | 276 |
 
 ---
 
-## 9. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
+## 8. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
 
 A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 701 |
-| Forks | 65 |
-| Stars this week | 198 |
+| Stars | 739 |
+| Forks | 71 |
+| Stars this week | 207 |
+
+---
+
+## 9. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) 🆕
+
+UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 27,055 |
+| Forks | 981 |
+| Stars this week | 152 |
 
 ---
 
@@ -130,60 +130,60 @@ A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, musi
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,574 |
-| Forks | 1,759 |
-| Stars this week | 171 |
+| Stars | 27,582 |
+| Forks | 1,760 |
+| Stars this week | 173 |
 
 ---
 
-## 11. [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
-
-Telegram for Windows
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,531 |
-| Forks | 714 |
-| Stars this week | 29 |
-
----
-
-## 12. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+## 11. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
 
 Windows/macOS/Linux GUI client for GIT users
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,481 |
-| Forks | 614 |
-| Stars this week | 82 |
+| Stars | 6,493 |
+| Forks | 616 |
+| Stars this week | 85 |
 
 ---
 
-## 13. [QuantConnect/Lean](https://github.com/QuantConnect/Lean)
+## 12. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) 🆕
 
-Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,537 |
-| Forks | 5,421 |
-| Stars this week | 108 |
+| Stars | 38,526 |
+| Forks | 11,567 |
+| Stars this week | 36 |
 
 ---
 
-## 14. [seerge/g-helper](https://github.com/seerge/g-helper)
+## 13. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) 🆕
 
-Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.
+The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 16,044 |
-| Forks | 686 |
-| Stars this week | 109 |
+| Stars | 4,727 |
+| Forks | 306 |
+| Stars this week | 120 |
+
+---
+
+## 14. [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox)
+
+A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,185 |
+| Forks | 489 |
+| Stars this week | 527 |
 
 ---

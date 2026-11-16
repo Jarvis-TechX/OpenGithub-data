@@ -1,204 +1,178 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-15T06:19:44Z
-**Total Repositories:** 15
-**New Entries:** 7
+**Snapshot Time:** 2026-11-16T06:19:08Z
+**Total Repositories:** 13
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
-
-The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 11,331 |
-| Forks | 965 |
-| Stars today | 408 |
-
----
-
-## 2. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-
-Keep your coding agent up to date with the latest web best practices
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 6,270 |
-| Forks | 463 |
-| Stars today | 1,231 |
-
----
-
-## 3. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-Chrome DevTools for coding agents
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 56,449 |
-| Forks | 4,777 |
-| Stars today | 664 |
-
----
-
-## 4. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-
-An open-source AI coding agent that lives in your terminal.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 30,414 |
-| Forks | 3,523 |
-| Stars today | 64 |
-
----
-
-## 5. [dream-num/univer](https://github.com/dream-num/univer) 🆕
+## 1. [dream-num/univer](https://github.com/dream-num/univer)
 
 Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 25,077 |
-| Forks | 2,294 |
-| Stars today | 495 |
+| Stars | 26,549 |
+| Forks | 2,415 |
+| Stars today | 988 |
 
 ---
 
-## 6. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🆕
+## 2. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 
 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,452 |
-| Forks | 1,714 |
-| Stars today | 9 |
+| Stars | 18,131 |
+| Forks | 1,858 |
+| Stars today | 355 |
 
 ---
 
-## 7. [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
+## 3. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) 🆕
 
-Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
+A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 18,552 |
-| Forks | 1,518 |
-| Stars today | 51 |
+| Stars | 9,448 |
+| Forks | 1,164 |
+| Stars today | 247 |
 
 ---
 
-## 8. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+## 4. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 
-Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,308 |
-| Forks | 1,519 |
-| Stars today | 206 |
+| Stars | 12,033 |
+| Forks | 1,113 |
+| Stars today | 866 |
 
 ---
 
-## 9. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) 🆕
+## 5. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
-Your AI workspace for models, agents, and productivity.
+Chrome DevTools for coding agents
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 53,527 |
-| Forks | 5,223 |
-| Stars today | 36 |
+| Stars | 57,185 |
+| Forks | 4,823 |
+| Stars today | 717 |
 
 ---
 
-## 10. [openai/codex-security](https://github.com/openai/codex-security)
+## 6. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 
-OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
+Keep your coding agent up to date with the latest web best practices
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,566 |
-| Forks | 1,057 |
-| Stars today | 595 |
+| Stars | 7,434 |
+| Forks | 639 |
+| Stars today | 1,219 |
 
 ---
 
-## 11. [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui)
+## 7. [motiondivision/motion](https://github.com/motiondivision/motion) 🆕
 
-Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
+A modern animation library for React and JavaScript
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,383 |
-| Forks | 1,410 |
-| Stars today | 54 |
+| Stars | 35,242 |
+| Forks | 1,550 |
+| Stars today | 76 |
 
 ---
 
-## 12. [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) 🆕
+## 8. [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) 🆕
 
-Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
+Typescript/React Library for AI Chat 💬🚀
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 5,188 |
-| Forks | 675 |
-| Stars today | 10 |
+| Stars | 13,247 |
+| Forks | 1,344 |
+| Stars today | 75 |
 
 ---
 
-## 13. [moeru-ai/airi](https://github.com/moeru-ai/airi) 🆕
+## 9. [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) 🆕
 
-💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 51,439 |
-| Forks | 5,185 |
-| Stars today | 46 |
+| Stars | 7,472 |
+| Forks | 399 |
+| Stars today | 96 |
 
 ---
 
-## 14. [Narcooo/inkos](https://github.com/Narcooo/inkos) 🆕
+## 10. [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research) 🆕
 
-Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
+Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,189 |
-| Forks | 2,027 |
-| Stars today | 21 |
+| Stars | 3,738 |
+| Forks | 705 |
+| Stars today | 23 |
 
 ---
 
-## 15. [LodyAI/Lody](https://github.com/LodyAI/Lody) 🆕
+## 11. [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) 🆕
 
-Share coding agents with your team on phone and desktop
+LIBERATED AI CHAT
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 1,769 |
-| Forks | 190 |
-| Stars today | 9 |
+| Stars | 12,463 |
+| Forks | 2,897 |
+| Stars today | 66 |
+
+---
+
+## 12. [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) 🆕
+
+Visualize Your Ideas With Code
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 19,963 |
+| Forks | 914 |
+| Stars today | 111 |
+
+---
+
+## 13. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) 🆕
+
+10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 53,004 |
+| Forks | 7,423 |
+| Stars today | 579 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-15T06:20:11Z
+**Snapshot Time:** 2026-11-16T06:19:44Z
 **Total Repositories:** 16
-**New Entries:** 2
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ A tool for creating and running Linux containers using lightweight virtual machi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 51,479 |
-| Forks | 1,824 |
-| Stars this week | 414 |
+| Stars | 51,554 |
+| Forks | 1,832 |
+| Stars this week | 435 |
 
 ---
 
-## 2. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 2. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
 
-Run iOS apps without actually installing them!
+Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,247 |
-| Forks | 1,326 |
-| Stars this week | 367 |
+| Stars | 1,932 |
+| Forks | 107 |
+| Stars this week | 252 |
 
 ---
 
@@ -41,177 +41,177 @@ Run iOS apps without actually installing them!
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 118,556 |
-| Forks | 10,312 |
-| Stars this week | 655 |
+| Stars | 118,623 |
+| Forks | 10,333 |
+| Stars this week | 630 |
 
 ---
 
-## 4. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
+## 4. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
+Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,912 |
-| Forks | 106 |
-| Stars this week | 327 |
+| Stars | 14,288 |
+| Forks | 1,329 |
+| Stars this week | 369 |
 
 ---
 
-## 5. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+## 5. [suversal/WrapPin](https://github.com/suversal/WrapPin) 🆕
 
-无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+iOS 27+ 本机虚拟定位与步行路线测试工具
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,914 |
-| Forks | 302 |
-| Stars this week | 271 |
+| Stars | 942 |
+| Forks | 138 |
+| Stars this week | 137 |
 
 ---
 
-## 6. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) 🆕
-
-An an app that installs Sidestore on iOS 27, fully on-device
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,441 |
-| Forks | 115 |
-| Stars this week | 111 |
-
----
-
-## 7. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
+## 6. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
 
 AI coding assistant for Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,389 |
-| Forks | 2,100 |
-| Stars this week | 22 |
+| Stars | 6,391 |
+| Forks | 2,104 |
+| Stars this week | 21 |
 
 ---
 
-## 8. [claration/feather](https://github.com/claration/feather)
+## 7. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
 
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,112 |
-| Forks | 487 |
-| Stars this week | 80 |
+| Stars | 2,942 |
+| Forks | 303 |
+| Stars this week | 248 |
 
 ---
 
-## 9. [apple/coreai-models](https://github.com/apple/coreai-models)
+## 8. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
-Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,347 |
-| Forks | 264 |
-| Stars this week | 52 |
+| Stars | 1,448 |
+| Forks | 116 |
+| Stars this week | 108 |
 
 ---
 
-## 10. [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
+## 9. [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
 
 Protect your SSH keys with your Mac's Secure Enclave
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,409 |
-| Forks | 239 |
-| Stars this week | 162 |
+| Stars | 9,446 |
+| Forks | 240 |
+| Stars this week | 164 |
 
 ---
 
-## 11. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
+## 10. [exelban/stats](https://github.com/exelban/stats) 🆕
 
-A native macOS launcher for everyday productivity. Lightweight and open source.
+macOS system monitor in your menu bar
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,452 |
-| Forks | 601 |
+| Stars | 43,424 |
+| Forks | 1,632 |
 | Stars this week | 204 |
 
 ---
 
-## 12. [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
+## 11. [claration/feather](https://github.com/claration/feather)
 
-Native iPhone and iPad console for herdr: watch and drive coding agents on your machines over SSH, in Herdr TUI or the Herdr desktop app (herdr-core), with a real libghostty terminal, native Chat, QR pairing, and push notifications when an agent needs you
+Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 889 |
-| Forks | 98 |
-| Stars this week | 85 |
+| Stars | 5,124 |
+| Forks | 488 |
+| Stars this week | 82 |
 
 ---
 
-## 13. [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
+## 12. [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
 
 Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,160 |
+| Stars | 4,175 |
 | Forks | 283 |
-| Stars this week | 101 |
+| Stars this week | 103 |
 
 ---
 
-## 14. [sozercan/kaset](https://github.com/sozercan/kaset)
+## 13. [sozercan/kaset](https://github.com/sozercan/kaset)
 
 📼 The missing YouTube and YouTube Music macOS app
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,600 |
-| Forks | 200 |
-| Stars this week | 84 |
+| Stars | 2,604 |
+| Forks | 202 |
+| Stars this week | 82 |
 
 ---
 
-## 15. [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
+## 14. [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) 🆕
 
-A private messenger for iOS.
+A cosy home for your LLMs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 12,333 |
-| Forks | 3,541 |
-| Stars this week | 29 |
+| Stars | 1,829 |
+| Forks | 149 |
+| Stars this week | 78 |
 
 ---
 
-## 16. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) 🆕
+## 15. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
 
 Manga reading app for iOS, iPadOS, and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,748 |
-| Forks | 335 |
+| Stars | 4,759 |
+| Forks | 336 |
 | Stars this week | 42 |
+
+---
+
+## 16. [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) 🆕
+
+Native Jellyfin Client for iOS and tvOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,286 |
+| Forks | 665 |
+| Stars this week | 24 |
 
 ---
