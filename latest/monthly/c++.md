@@ -1,23 +1,23 @@
 # GitHub Trending - C++
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-16T06:20:02Z
-**Total Repositories:** 15
-**New Entries:** 2
+**Snapshot Time:** 2026-11-17T07:49:44Z
+**Total Repositories:** 16
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+## 1. [godotengine/godot](https://github.com/godotengine/godot)
 
-Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+Godot Engine – Multi-platform 2D and 3D game engine
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 40,668 |
-| Forks | 2,189 |
-| Stars this month | 1,950 |
+| Stars | 120,297 |
+| Forks | 27,545 |
+| Stars this month | 2,070 |
 
 ---
 
@@ -28,74 +28,74 @@ An MCP-based chatbot | 一个基于MCP的聊天机器人
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 33,279 |
-| Forks | 7,917 |
-| Stars this month | 2,168 |
+| Stars | 33,335 |
+| Forks | 7,946 |
+| Stars this month | 2,146 |
 
 ---
 
-## 3. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) 🆕
+## 3. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 
-A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
+Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,356 |
-| Forks | 469 |
-| Stars this month | 1,229 |
+| Stars | 40,680 |
+| Forks | 2,194 |
+| Stars this month | 1,953 |
 
 ---
 
-## 4. [godotengine/godot](https://github.com/godotengine/godot)
+## 4. [aardappel/goose](https://github.com/aardappel/goose) 🆕
 
-Godot Engine – Multi-platform 2D and 3D game engine
+The Goose Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 120,247 |
-| Forks | 27,526 |
-| Stars this month | 2,077 |
+| Stars | 3,638 |
+| Forks | 175 |
+| Stars this month | 3,010 |
 
 ---
 
-## 5. [electron/electron](https://github.com/electron/electron)
-
-Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 123,915 |
-| Forks | 17,946 |
-| Stars this month | 773 |
-
----
-
-## 6. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
-
-Multi-Joint dynamics with Contact. A general purpose physics simulator.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 18,102 |
-| Forks | 2,215 |
-| Stars this month | 2,408 |
-
----
-
-## 7. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
+## 5. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
 
 Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,860 |
-| Forks | 222 |
-| Stars this month | 2,039 |
+| Stars | 3,118 |
+| Forks | 246 |
+| Stars this month | 2,248 |
+
+---
+
+## 6. [electron/electron](https://github.com/electron/electron)
+
+Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 123,946 |
+| Forks | 17,951 |
+| Stars this month | 759 |
+
+---
+
+## 7. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
+
+Multi-Joint dynamics with Contact. A general purpose physics simulator.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 18,215 |
+| Forks | 2,207 |
+| Stars this month | 2,485 |
 
 ---
 
@@ -106,99 +106,112 @@ The ultimate Geometry Dash modding framework
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,307 |
+| Stars | 3,315 |
 | Forks | 649 |
-| Stars this month | 393 |
+| Stars this month | 383 |
 
 ---
 
-## 9. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker)
+## 9. [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) 🆕
+
+A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 12,327 |
+| Forks | 1,027 |
+| Stars this month | 639 |
+
+---
+
+## 10. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker)
 
 DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,666 |
-| Forks | 83 |
-| Stars this month | 1,345 |
+| Stars | 2,702 |
+| Forks | 86 |
+| Stars this month | 1,341 |
 
 ---
 
-## 10. [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)
-
-Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 7,127 |
-| Forks | 462 |
-| Stars this month | 1,275 |
-
----
-
-## 11. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-
-Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 35,492 |
-| Forks | 6,415 |
-| Stars this month | 1,231 |
-
----
-
-## 12. [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)
+## 11. [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)
 
 OpenToonz - An open-source full-featured 2D animation creation software
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 8,261 |
+| Stars | 8,272 |
 | Forks | 951 |
-| Stars this month | 441 |
+| Stars this month | 447 |
 
 ---
 
-## 13. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+## 12. [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)
 
-KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 30,009 |
-| Forks | 2,044 |
-| Stars this month | 838 |
+| Stars | 7,171 |
+| Forks | 464 |
+| Stars this month | 1,317 |
 
 ---
 
-## 14. [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp)
+## 13. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
 
-Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+LLM inference in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,866 |
-| Forks | 256 |
-| Stars this month | 376 |
+| Stars | 135,397 |
+| Forks | 25,671 |
+| Stars this month | 4,449 |
 
 ---
 
-## 15. [facebookresearch/faiss](https://github.com/facebookresearch/faiss) 🆕
+## 14. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+
+Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 35,523 |
+| Forks | 6,418 |
+| Stars this month | 1,222 |
+
+---
+
+## 15. [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 
 A library for efficient similarity search and clustering of dense vectors.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,712 |
-| Forks | 4,646 |
-| Stars this month | 606 |
+| Stars | 41,766 |
+| Forks | 4,650 |
+| Stars this month | 626 |
+
+---
+
+## 16. [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+
+KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 30,025 |
+| Forks | 2,046 |
+| Stars this month | 837 |
 
 ---

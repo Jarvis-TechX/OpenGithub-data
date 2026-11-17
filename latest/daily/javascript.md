@@ -1,87 +1,178 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-16T06:19:07Z
-**Total Repositories:** 6
-**New Entries:** 4
+**Snapshot Time:** 2026-11-17T07:48:56Z
+**Total Repositories:** 13
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+## 1. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) 🆕
 
-A fancy self-hosted monitoring tool
+江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 94,450 |
-| Forks | 8,847 |
-| Stars today | 353 |
+| Stars | 7,324 |
+| Forks | 878 |
+| Stars today | 288 |
 
 ---
 
-## 2. [maillab/cloud-mail](https://github.com/maillab/cloud-mail) 🆕
+## 2. [sveltejs/svelte](https://github.com/sveltejs/svelte) 🆕
+
+web development for the rest of us
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 89,122 |
+| Forks | 6,139 |
+| Stars today | 115 |
+
+---
+
+## 3. [mrdoob/three.js](https://github.com/mrdoob/three.js) 🆕
+
+JavaScript 3D Library.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 118,699 |
+| Forks | 37,014 |
+| Stars today | 129 |
+
+---
+
+## 4. [axios/axios](https://github.com/axios/axios) 🆕
+
+Promise based HTTP client for the browser and node.js
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 109,365 |
+| Forks | 12,080 |
+| Stars today | 28 |
+
+---
+
+## 5. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) 🆕
+
+God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 65,346 |
+| Forks | 12,911 |
+| Stars today | 253 |
+
+---
+
+## 6. [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 
 An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 16,234 |
-| Forks | 23,759 |
-| Stars today | 316 |
+| Stars | 16,310 |
+| Forks | 23,856 |
+| Stars today | 146 |
 
 ---
 
-## 3. [qist/tvbox](https://github.com/qist/tvbox) 🆕
+## 7. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
 
-OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 12,970 |
-| Forks | 4,477 |
-| Stars today | 38 |
+| Stars | 304,831 |
+| Forks | 44,888 |
+| Stars today | 718 |
 
 ---
 
-## 4. [juliangarnier/anime](https://github.com/juliangarnier/anime)
+## 8. [saadeghi/daisyui](https://github.com/saadeghi/daisyui) 🆕
+
+🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 42,873 |
+| Forks | 1,721 |
+| Stars today | 11 |
+
+---
+
+## 9. [hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia) 🆕
+
+视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 1,494 |
+| Forks | 227 |
+| Stars today | 66 |
+
+---
+
+## 10. [airbnb/lottie-web](https://github.com/airbnb/lottie-web) 🆕
+
+Render After Effects animations natively on Web, Android and iOS, and React Native.http://airbnb.io/lottie/
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 32,481 |
+| Forks | 2,978 |
+| Stars today | 21 |
+
+---
+
+## 11. [jessepinkman9900/claude-second-brain](https://github.com/jessepinkman9900/claude-second-brain) 🆕
+
+Fastest way to scaffold your LLM powered personal knowledge base - Obsidian, Claude Code, qmd, Github
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 171 |
+| Forks | 23 |
+| Stars today | 14 |
+
+---
+
+## 12. [juliangarnier/anime](https://github.com/juliangarnier/anime)
 
 JavaScript animation engine
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 74,780 |
-| Forks | 5,109 |
-| Stars today | 99 |
+| Stars | 74,828 |
+| Forks | 5,116 |
+| Stars today | 79 |
 
 ---
 
-## 5. [itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) 🆕
+## 13. [byoungd/up](https://github.com/byoungd/up) 🆕
 
-A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
+韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 763 |
-| Forks | 81 |
-| Stars today | 4 |
-
----
-
-## 6. [vernesong/OpenClash](https://github.com/vernesong/OpenClash) 🆕
-
-A Clash Client For OpenWrt
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 28,222 |
-| Forks | 4,071 |
-| Stars today | 26 |
+| Stars | 70,644 |
+| Forks | 7,032 |
+| Stars today | 58 |
 
 ---

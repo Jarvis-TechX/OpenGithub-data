@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-16T06:19:54Z
-**Total Repositories:** 22
-**New Entries:** 2
+**Snapshot Time:** 2026-11-17T07:49:37Z
+**Total Repositories:** 21
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,35 +15,35 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,789 |
-| Forks | 1,383 |
-| Stars this month | 5,226 |
+| Stars | 16,088 |
+| Forks | 1,398 |
+| Stars this month | 5,436 |
 
 ---
 
-## 2. [rails/rails](https://github.com/rails/rails)
-
-Ruby on Rails
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 59,095 |
-| Forks | 23,117 |
-| Stars this month | 631 |
-
----
-
-## 3. [mastodon/mastodon](https://github.com/mastodon/mastodon)
+## 2. [mastodon/mastodon](https://github.com/mastodon/mastodon)
 
 Your self-hosted, globally interconnected microblogging community
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,606 |
-| Forks | 7,585 |
+| Stars | 50,587 |
+| Forks | 7,569 |
 | Stars this month | 299 |
+
+---
+
+## 3. [rails/rails](https://github.com/rails/rails)
+
+Ruby on Rails
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 59,050 |
+| Forks | 23,112 |
+| Stars this month | 632 |
 
 ---
 
@@ -54,9 +54,9 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,953 |
-| Forks | 9,721 |
-| Stars this month | 2,189 |
+| Stars | 40,013 |
+| Forks | 9,734 |
+| Stars this month | 2,201 |
 
 ---
 
@@ -67,9 +67,9 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,412 |
-| Forks | 3,772 |
-| Stars this month | 1,010 |
+| Stars | 17,455 |
+| Forks | 3,775 |
+| Stars this month | 1,034 |
 
 ---
 
@@ -80,87 +80,87 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,345 |
-| Forks | 11,423 |
-| Stars this month | 645 |
+| Stars | 50,360 |
+| Forks | 11,428 |
+| Stars this month | 646 |
 
 ---
 
-## 7. [github/explore](https://github.com/github/explore)
-
-Community-curated topic and collection pages on GitHub
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 4,962 |
-| Forks | 14,730 |
-| Stars this month | 68 |
-
----
-
-## 8. [huginn/huginn](https://github.com/huginn/huginn)
+## 7. [huginn/huginn](https://github.com/huginn/huginn)
 
 Create agents that monitor and act on your behalf. Your agents are standing by!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,552 |
-| Forks | 4,358 |
-| Stars this month | 570 |
+| Stars | 50,559 |
+| Forks | 4,356 |
+| Stars this month | 569 |
 
 ---
 
-## 9. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+## 8. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 
 Metasploit Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,584 |
-| Forks | 15,046 |
+| Stars | 39,593 |
+| Forks | 15,047 |
 | Stars this month | 495 |
 
 ---
 
-## 10. [ruby/ruby](https://github.com/ruby/ruby)
+## 9. [ruby/ruby](https://github.com/ruby/ruby)
 
 The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,816 |
-| Forks | 5,689 |
-| Stars this month | 93 |
+| Stars | 23,821 |
+| Forks | 5,690 |
+| Stars this month | 95 |
 
 ---
 
-## 11. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
-
-🌇 A collection of links for free stock photography, video and Illustration websites
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 14,847 |
-| Forks | 837 |
-| Stars this month | 263 |
-
----
-
-## 12. [jekyll/jekyll](https://github.com/jekyll/jekyll)
+## 10. [jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 🌐 Jekyll is a blog-aware static site generator in Ruby
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 51,783 |
-| Forks | 10,305 |
-| Stars this month | 132 |
+| Stars | 51,786 |
+| Forks | 10,304 |
+| Stars this month | 133 |
+
+---
+
+## 11. [forem/forem](https://github.com/forem/forem) 🆕
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,832 |
+| Forks | 4,270 |
+| Stars this month | 52 |
+
+---
+
+## 12. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+
+🌇 A collection of links for free stock photography, video and Illustration websites
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 14,855 |
+| Forks | 836 |
+| Stars this month | 268 |
 
 ---
 
@@ -171,9 +171,9 @@ Open source DocuSign alternative. Create, fill, and sign digital documents ✍�
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 19,056 |
-| Forks | 1,954 |
-| Stars this month | 355 |
+| Stars | 19,059 |
+| Forks | 1,957 |
+| Stars this month | 353 |
 
 ---
 
@@ -184,9 +184,9 @@ A curated list of engineering blogs
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 38,979 |
-| Forks | 2,070 |
-| Stars this month | 263 |
+| Stars | 38,987 |
+| Forks | 2,072 |
+| Stars this month | 262 |
 
 ---
 
@@ -197,99 +197,86 @@ A curated list of engineering blogs
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,671 |
-| Forks | 13,965 |
+| Stars | 15,676 |
+| Forks | 13,969 |
 | Stars this month | 65 |
 
 ---
 
-## 16. [puma/puma](https://github.com/puma/puma) 🆕
-
-A Ruby/Rack web server built for parallelism
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 7,928 |
-| Forks | 1,519 |
-| Stars this month | 15 |
-
----
-
-## 17. [Freika/dawarich](https://github.com/Freika/dawarich)
-
-Your favorite self-hostable alternative to Google Timeline (Google Location History)
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 10,968 |
-| Forks | 422 |
-| Stars this month | 318 |
-
----
-
-## 18. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 16. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,302 |
-| Forks | 12,111 |
-| Stars this month | 74 |
+| Stars | 22,304 |
+| Forks | 12,116 |
+| Stars this month | 75 |
 
 ---
 
-## 19. [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+## 17. [puma/puma](https://github.com/puma/puma)
 
-A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+A Ruby/Rack web server built for parallelism
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 26,381 |
-| Forks | 3,160 |
-| Stars this month | 98 |
+| Stars | 7,927 |
+| Forks | 1,522 |
+| Stars this month | 15 |
 
 ---
 
-## 20. [zammad/zammad](https://github.com/zammad/zammad) 🆕
+## 18. [zammad/zammad](https://github.com/zammad/zammad)
 
 Zammad is a web based open source helpdesk/customer support system.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 6,121 |
+| Stars | 6,123 |
 | Forks | 1,099 |
-| Stars this month | 120 |
+| Stars this month | 118 |
 
 ---
 
-## 21. [basecamp/kamal](https://github.com/basecamp/kamal)
+## 19. [Freika/dawarich](https://github.com/Freika/dawarich)
+
+Your favorite self-hostable alternative to Google Timeline (Google Location History)
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 10,976 |
+| Forks | 422 |
+| Stars this month | 320 |
+
+---
+
+## 20. [basecamp/kamal](https://github.com/basecamp/kamal)
 
 Deploy web apps anywhere.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,728 |
+| Stars | 14,729 |
 | Forks | 773 |
-| Stars this month | 106 |
+| Stars this month | 107 |
 
 ---
 
-## 22. [danbooru/danbooru](https://github.com/danbooru/danbooru)
+## 21. [danbooru/danbooru](https://github.com/danbooru/danbooru)
 
 A taggable image board written in Rails.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,936 |
-| Forks | 466 |
-| Stars this month | 117 |
+| Stars | 2,938 |
+| Forks | 467 |
+| Stars this month | 119 |
 
 ---

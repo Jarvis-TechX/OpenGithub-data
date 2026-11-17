@@ -1,156 +1,14 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-16T06:19:17Z
-**Total Repositories:** 13
-**New Entries:** 9
+**Snapshot Time:** 2026-11-17T07:49:07Z
+**Total Repositories:** 17
+**New Entries:** 13
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) 🆕
-
-Learn Low Level Design (LLD) and prepare for interviews using free resources.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 28,092 |
-| Forks | 6,708 |
-| Stars today | 55 |
-
----
-
-## 2. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) 🆕
-
-A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 10,997 |
-| Forks | 1,291 |
-| Stars today | 10 |
-
----
-
-## 3. [StarRocks/starrocks](https://github.com/StarRocks/starrocks) 🆕
-
-The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 12,256 |
-| Forks | 2,674 |
-| Stars today | 1 |
-
----
-
-## 4. [freeok/so-novel](https://github.com/freeok/so-novel) 🆕
-
-小说下载｜网文下载 | 网络小说
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 9,038 |
-| Forks | 764 |
-| Stars today | 17 |
-
----
-
-## 5. [MojoLauncher/MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) 🆕
-
-A Minecraft: Java Edition launcher, based on PojavLauncher
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,087 |
-| Forks | 566 |
-| Stars today | 1 |
-
----
-
-## 6. [termux/termux-app](https://github.com/termux/termux-app) 🆕
-
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 64,975 |
-| Forks | 8,326 |
-| Stars today | 90 |
-
----
-
-## 7. [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create) 🆕
-
-[NeoForge Mod] Building Tools and Aesthetic Technology
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 4,620 |
-| Forks | 1,446 |
-
----
-
-## 8. [FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) 🆕
-
-FTC Android Studio Workspace for robot programming in Android Studio
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,403 |
-| Forks | 10,958 |
-| Stars today | 2 |
-
----
-
-## 9. [ModinMobileSTS/Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher)
-
-an unofficial sts2 mobile launcher that support mods,optimized mobile control
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 603 |
-| Forks | 23 |
-| Stars today | 22 |
-
----
-
-## 10. [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-
-The automation tower defense RTS
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 29,865 |
-| Forks | 3,885 |
-| Stars today | 25 |
-
----
-
-## 11. [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
-
-[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,561 |
-| Forks | 470 |
-| Stars today | 19 |
-
----
-
-## 12. [cabaletta/baritone](https://github.com/cabaletta/baritone) 🆕
+## 1. [cabaletta/baritone](https://github.com/cabaletta/baritone)
 
 google maps for block game
 
@@ -158,20 +16,214 @@ google maps for block game
 |--------|-------|
 | Language | Java |
 | Stars | 9,360 |
-| Forks | 2,086 |
+| Forks | 2,084 |
 | Stars today | 5 |
 
 ---
 
-## 13. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
+## 2. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) 🆕
+
+Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,214 |
+| Forks | 385 |
+| Stars today | 11 |
+
+---
+
+## 3. [termux/termux-app](https://github.com/termux/termux-app)
+
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 65,044 |
+| Forks | 8,335 |
+| Stars today | 85 |
+
+---
+
+## 4. [LiteLDev/LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android) 🆕
+
+LeviLauncher for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 721 |
+| Forks | 200 |
+| Stars today | 7 |
+
+---
+
+## 5. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
+
+Free and Open Source, Distributed, RESTful Search Engine
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 78,681 |
+| Forks | 26,230 |
+| Stars today | 38 |
+
+---
+
+## 6. [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+
+Learn Low Level Design (LLD) and prepare for interviews using free resources.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 28,126 |
+| Forks | 6,712 |
+| Stars today | 33 |
+
+---
+
+## 7. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) 🆕
+
+Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 1,376 |
+| Forks | 83 |
+| Stars today | 70 |
+
+---
+
+## 8. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) 🆕
+
+No clever tagline needed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,958 |
+| Forks | 1,816 |
+| Stars today | 11 |
+
+---
+
+## 9. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
+
+Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 733 |
+| Forks | 119 |
+| Stars today | 9 |
+
+---
+
+## 10. [RikkaApps/Sui](https://github.com/RikkaApps/Sui) 🆕
+
+Modern super user interface implementation on Android.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 4,387 |
+| Forks | 497 |
+| Stars today | 4 |
+
+---
+
+## 11. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
 
 Browse media content with your own rules on Android TV
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 36,377 |
-| Forks | 2,331 |
-| Stars today | 29 |
+| Stars | 36,405 |
+| Forks | 2,340 |
+| Stars today | 47 |
+
+---
+
+## 12. [microg/GmsCore](https://github.com/microg/GmsCore) 🆕
+
+Free implementation of Play Services
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 15,347 |
+| Forks | 3,388 |
+| Stars today | 12 |
+
+---
+
+## 13. [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) 🆕
+
+Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 6,813 |
+| Forks | 1,748 |
+| Stars today | 6 |
+
+---
+
+## 14. [apache/maven](https://github.com/apache/maven) 🆕
+
+Apache Maven core
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,376 |
+| Forks | 3,076 |
+
+---
+
+## 15. [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) 🆕
+
+The API and the developer guide for Shizuku and Sui.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 2,795 |
+| Forks | 1,343 |
+| Stars today | 6 |
+
+---
+
+## 16. [TelegramMessenger/Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) 🆕
+
+Telegram for Android source
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 30,312 |
+| Forks | 10,588 |
+| Stars today | 7 |
+
+---
+
+## 17. [floci-io/floci](https://github.com/floci-io/floci) 🆕
+
+Light, fluffy, and always free - The AWS Local Emulator alternative
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 31,862 |
+| Forks | 3,516 |
+| Stars today | 64 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-16T06:20:01Z
-**Total Repositories:** 17
-**New Entries:** 2
-**Quality Score:** 95.29/100
+**Snapshot Time:** 2026-11-17T07:49:43Z
+**Total Repositories:** 15
+**New Entries:** 1
+**Quality Score:** 97.33/100
 
 ---
 
@@ -15,8 +15,8 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,787 |
-| Forks | 8,533 |
+| Stars | 41,789 |
+| Forks | 8,537 |
 | Stars this month | 1,446 |
 
 ---
@@ -28,9 +28,9 @@ General purpose TLS and crypto library
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,459 |
-| Forks | 11,618 |
-| Stars this month | 615 |
+| Stars | 31,469 |
+| Forks | 11,621 |
+| Stars this month | 617 |
 
 ---
 
@@ -41,48 +41,48 @@ OBS Studio - Free and open source software for live streaming and screen recordi
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 79,609 |
-| Forks | 11,273 |
-| Stars this month | 2,238 |
+| Stars | 79,630 |
+| Forks | 11,275 |
+| Stars this month | 2,252 |
 
 ---
 
-## 4. [iqui27/nuvio-native-legacy](https://github.com/iqui27/nuvio-native-legacy)
-
-Unofficial native Nuvio client for LG webOS 3+, Samsung Tizen 4+, GoogleTV 7+. C/SDL2/GLES2 on LG and on Samsung (native .tpk, Tizen 4.0-9), plus a WebAssembly .wgt for Tizen 5.5+. Install from the Homebrew Channel or the releases.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 496 |
-| Forks | 65 |
-| Stars this month | 254 |
-
----
-
-## 5. [mpv-player/mpv](https://github.com/mpv-player/mpv)
-
-🎥 Command line media player
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 38,139 |
-| Forks | 3,661 |
-| Stars this month | 824 |
-
----
-
-## 6. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+## 4. [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 
 Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 141,029 |
-| Forks | 8,749 |
-| Stars this month | 2,080 |
+| Stars | 141,086 |
+| Forks | 8,747 |
+| Stars this month | 2,091 |
+
+---
+
+## 5. [iqui27/nuvio-native-legacy](https://github.com/iqui27/nuvio-native-legacy)
+
+Unofficial native Nuvio client for LG webOS 3+, Samsung Tizen 4+, GoogleTV 7+. C/SDL2/GLES2 on LG and on Samsung (native .tpk, Tizen 4.0-9), plus a WebAssembly .wgt for Tizen 5.5+. Install from the Homebrew Channel or the releases.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 558 |
+| Forks | 70 |
+| Stars this month | 292 |
+
+---
+
+## 6. [mpv-player/mpv](https://github.com/mpv-player/mpv)
+
+🎥 Command line media player
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 38,164 |
+| Forks | 3,663 |
+| Stars this month | 822 |
 
 ---
 
@@ -93,85 +93,85 @@ For developers, who are building real-time data-driven applications, Redis is th
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 77,519 |
-| Forks | 25,057 |
-| Stars this month | 1,086 |
+| Stars | 77,511 |
+| Forks | 25,053 |
+| Stars this month | 1,033 |
 
 ---
 
-## 8. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
-
-Static recompilation runtime libraries for PlayStation 3 titles.
+## 8. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 704 |
-| Forks | 111 |
-| Stars this month | 269 |
+| Stars | 6,084 |
+| Forks | 1,014 |
+| Stars this month | 473 |
 
 ---
 
-## 9. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
-
-ehviewer，用爱发电，快乐前行
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 29,167 |
-| Forks | 783 |
-| Stars this month | 1,465 |
-
----
-
-## 10. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 6,069 |
-| Forks | 1,013 |
-| Stars this month | 483 |
-
----
-
-## 11. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+## 9. [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 
 An advanced Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,860 |
-| Forks | 1,282 |
-| Stars this month | 432 |
+| Stars | 4,869 |
+| Forks | 1,283 |
+| Stars this month | 435 |
 
 ---
 
-## 12. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
-
-Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 17,096 |
-| Forks | 10,439 |
-| Stars this month | 326 |
-
----
-
-## 13. [systemd/systemd](https://github.com/systemd/systemd)
+## 10. [systemd/systemd](https://github.com/systemd/systemd)
 
 The systemd System and Service Manager
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,037 |
-| Forks | 4,830 |
-| Stars this month | 246 |
+| Stars | 17,039 |
+| Forks | 4,837 |
+| Stars this month | 248 |
+
+---
+
+## 11. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 17,103 |
+| Forks | 10,447 |
+| Stars this month | 331 |
+
+---
+
+## 12. [sp00nznet/ps3recomp](https://github.com/sp00nznet/ps3recomp)
+
+Static recompilation runtime libraries for PlayStation 3 titles.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 710 |
+| Forks | 112 |
+| Stars this month | 261 |
+
+---
+
+## 13. [sp00nznet/xboxrecomp](https://github.com/sp00nznet/xboxrecomp) 🆕
+
+Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 418 |
+| Forks | 135 |
+| Stars this month | 194 |
 
 ---
 
@@ -182,45 +182,21 @@ A hierarchical inference engine for frontier MoE models: hot experts on the GPU 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 51,428 |
-| Forks | 6,219 |
-| Stars this month | 9,419 |
+| Stars | 51,624 |
+| Forks | 6,248 |
+| Stars this month | 9,415 |
 
 ---
 
-## 15. [lz4/lz4](https://github.com/lz4/lz4) 🆕
+## 15. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
 
-Extremely Fast Compression algorithm
+ehviewer，用爱发电，快乐前行
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,786 |
-| Forks | 1,663 |
-| Stars this month | 697 |
-
----
-
-## 16. [espressif/esp-idf](https://github.com/espressif/esp-idf) 🆕
-
-Espressif IoT Development Framework. Official development framework for Espressif SoCs.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 19,515 |
-| Forks | 8,600 |
-| Stars this month | 292 |
-
----
-
-## 17. [snesrev/zelda3](https://github.com/snesrev/zelda3)
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 5,016 |
-| Forks | 478 |
-| Stars this month | 171 |
+| Stars | 29,230 |
+| Forks | 785 |
+| Stars this month | 1,505 |
 
 ---

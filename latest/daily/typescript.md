@@ -1,62 +1,62 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-16T06:19:08Z
+**Snapshot Time:** 2026-11-17T07:48:57Z
 **Total Repositories:** 13
-**New Entries:** 8
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [dream-num/univer](https://github.com/dream-num/univer)
-
-Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 26,549 |
-| Forks | 2,415 |
-| Stars today | 988 |
-
----
-
-## 2. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+## 1. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 
 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 18,131 |
-| Forks | 1,858 |
-| Stars today | 355 |
+| Stars | 19,511 |
+| Forks | 2,019 |
+| Stars today | 791 |
 
 ---
 
-## 3. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) 🆕
-
-A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 9,448 |
-| Forks | 1,164 |
-| Stars today | 247 |
-
----
-
-## 4. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+## 2. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 
 The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,033 |
-| Forks | 1,113 |
-| Stars today | 866 |
+| Stars | 12,799 |
+| Forks | 1,271 |
+| Stars today | 696 |
+
+---
+
+## 3. [dream-num/univer](https://github.com/dream-num/univer)
+
+Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 28,475 |
+| Forks | 2,567 |
+| Stars today | 1,828 |
+
+---
+
+## 4. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+
+A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 9,843 |
+| Forks | 1,279 |
+| Stars today | 529 |
 
 ---
 
@@ -67,112 +67,112 @@ Chrome DevTools for coding agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 57,185 |
-| Forks | 4,823 |
-| Stars today | 717 |
+| Stars | 57,839 |
+| Forks | 4,857 |
+| Stars today | 841 |
 
 ---
 
-## 6. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
-
-Keep your coding agent up to date with the latest web best practices
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 7,434 |
-| Forks | 639 |
-| Stars today | 1,219 |
-
----
-
-## 7. [motiondivision/motion](https://github.com/motiondivision/motion) 🆕
-
-A modern animation library for React and JavaScript
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 35,242 |
-| Forks | 1,550 |
-| Stars today | 76 |
-
----
-
-## 8. [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) 🆕
-
-Typescript/React Library for AI Chat 💬🚀
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 13,247 |
-| Forks | 1,344 |
-| Stars today | 75 |
-
----
-
-## 9. [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) 🆕
-
-Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 7,472 |
-| Forks | 399 |
-| Stars today | 96 |
-
----
-
-## 10. [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research) 🆕
-
-Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 3,738 |
-| Forks | 705 |
-| Stars today | 23 |
-
----
-
-## 11. [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) 🆕
-
-LIBERATED AI CHAT
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 12,463 |
-| Forks | 2,897 |
-| Stars today | 66 |
-
----
-
-## 12. [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) 🆕
+## 6. [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
 
 Visualize Your Ideas With Code
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 19,963 |
-| Forks | 914 |
-| Stars today | 111 |
+| Stars | 19,993 |
+| Forks | 917 |
+| Stars today | 51 |
 
 ---
 
-## 13. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) 🆕
+## 7. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 
-10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+Keep your coding agent up to date with the latest web best practices
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 53,004 |
-| Forks | 7,423 |
-| Stars today | 579 |
+| Stars | 8,153 |
+| Forks | 706 |
+| Stars today | 1,200 |
+
+---
+
+## 8. [s0ld13rr/pentestcode](https://github.com/s0ld13rr/pentestcode) 🆕
+
+PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 1,097 |
+| Forks | 175 |
+| Stars today | 35 |
+
+---
+
+## 9. [elie222/rakazo](https://github.com/elie222/rakazo) 🆕
+
+Open-source Grok Bot alternative. Choose your own model and sandbox.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 8,906 |
+| Forks | 1,593 |
+| Stars today | 266 |
+
+---
+
+## 10. [nestjs/nest](https://github.com/nestjs/nest) 🆕
+
+A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 77,116 |
+| Forks | 8,726 |
+| Stars today | 29 |
+
+---
+
+## 11. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) 🆕
+
+Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 90,804 |
+| Forks | 14,098 |
+| Stars today | 74 |
+
+---
+
+## 12. [hieunc229/mailflare](https://github.com/hieunc229/mailflare) 🆕
+
+Email for professionals and teams
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 6,726 |
+| Forks | 1,152 |
+| Stars today | 254 |
+
+---
+
+## 13. [angular/angular](https://github.com/angular/angular) 🆕
+
+Deliver web apps with confidence 🚀
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 101,453 |
+| Forks | 28,199 |
+| Stars today | 29 |
 
 ---

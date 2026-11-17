@@ -1,8 +1,8 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-16T06:19:26Z
-**Total Repositories:** 8
+**Snapshot Time:** 2026-11-17T07:49:15Z
+**Total Repositories:** 10
 **New Entries:** 2
 **Quality Score:** 100.00/100
 
@@ -15,35 +15,35 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 118,037 |
-| Forks | 12,349 |
-| Stars this week | 3,889 |
+| Stars | 118,440 |
+| Forks | 12,360 |
+| Stars this week | 3,960 |
 
 ---
 
-## 2. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+## 2. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+
+Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 35,071 |
+| Forks | 6,732 |
+| Stars this week | 1,436 |
+
+---
+
+## 3. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,640 |
-| Forks | 8,835 |
-| Stars this week | 1,368 |
-
----
-
-## 3. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
-
-ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 15,249 |
-| Forks | 1,738 |
-| Stars this week | 550 |
+| Stars | 60,883 |
+| Forks | 8,872 |
+| Stars this week | 1,418 |
 
 ---
 
@@ -54,60 +54,86 @@ A fancy self-hosted monitoring tool
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 94,450 |
-| Forks | 8,847 |
-| Stars this week | 1,088 |
+| Stars | 94,518 |
+| Forks | 8,859 |
+| Stars this week | 1,123 |
 
 ---
 
-## 5. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+## 5. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+
+ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 15,326 |
+| Forks | 1,741 |
+| Stars this week | 511 |
+
+---
+
+## 6. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 116,373 |
-| Forks | 7,802 |
-| Stars this week | 4,234 |
+| Stars | 117,127 |
+| Forks | 7,839 |
+| Stars this week | 4,442 |
 
 ---
 
-## 6. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-
-Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 34,896 |
-| Forks | 6,712 |
-| Stars this week | 1,552 |
-
----
-
-## 7. [maillab/cloud-mail](https://github.com/maillab/cloud-mail) 🆕
+## 7. [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
 
 An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 16,234 |
-| Forks | 23,759 |
-| Stars this week | 667 |
+| Stars | 16,310 |
+| Forks | 23,856 |
+| Stars this week | 739 |
 
 ---
 
-## 8. [expressjs/express](https://github.com/expressjs/express) 🆕
+## 8. [expressjs/express](https://github.com/expressjs/express)
 
 Fast, unopinionated, minimalist web framework for node.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 69,685 |
-| Forks | 25,533 |
-| Stars this week | 143 |
+| Stars | 69,656 |
+| Forks | 25,595 |
+| Stars this week | 174 |
+
+---
+
+## 9. [axios/axios](https://github.com/axios/axios) 🆕
+
+Promise based HTTP client for the browser and node.js
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 109,365 |
+| Forks | 12,080 |
+| Stars this week | 167 |
+
+---
+
+## 10. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) 🆕
+
+江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 7,324 |
+| Forks | 878 |
+| Stars this week | 1,643 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-16T06:19:42Z
+**Snapshot Time:** 2026-11-17T07:49:27Z
 **Total Repositories:** 15
-**New Entries:** 3
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,35 +15,35 @@ Uninstall any Android app without root (with power of Shizuku). Debloat your dev
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,387 |
-| Forks | 179 |
-| Stars this week | 562 |
+| Stars | 7,452 |
+| Forks | 180 |
+| Stars this week | 510 |
 
 ---
 
-## 2. [CYQawa/YunX](https://github.com/CYQawa/YunX)
-
-YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 8,077 |
-| Forks | 427 |
-| Stars this week | 1,275 |
-
----
-
-## 3. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
+## 2. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
 
 YunX（云析）的官方 windows 桌面端
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,252 |
-| Forks | 486 |
-| Stars this week | 2,635 |
+| Stars | 6,494 |
+| Forks | 504 |
+| Stars this week | 2,673 |
+
+---
+
+## 3. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+
+YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 8,227 |
+| Forks | 430 |
+| Stars this week | 1,286 |
 
 ---
 
@@ -54,9 +54,9 @@ A modern, cool, sleek music player. made with <3
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,814 |
-| Forks | 87 |
-| Stars this week | 627 |
+| Stars | 1,891 |
+| Forks | 94 |
+| Stars this week | 594 |
 
 ---
 
@@ -67,138 +67,138 @@ Android app for streaming and downloading media.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 11,315 |
-| Forks | 1,218 |
-| Stars this week | 143 |
+| Stars | 11,329 |
+| Forks | 1,224 |
+| Stars this week | 141 |
 
 ---
 
-## 6. [gkd-kit/gkd](https://github.com/gkd-kit/gkd) 🆕
-
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 44,841 |
-| Forks | 2,140 |
-| Stars this week | 566 |
-
----
-
-## 7. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+## 6. [tiann/KernelSU](https://github.com/tiann/KernelSU)
 
 A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,634 |
-| Forks | 5,108 |
-| Stars this week | 328 |
+| Stars | 20,661 |
+| Forks | 5,120 |
+| Stars this week | 316 |
 
 ---
 
-## 8. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 33,794 |
-| Forks | 3,673 |
-| Stars this week | 641 |
-
----
-
-## 9. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) 🆕
-
-使用 Material Design 3 全新设计的阅读 3.0
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,035 |
-| Forks | 818 |
-| Stars this week | 140 |
-
----
-
-## 10. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
-
-A Download Manager that speeds up your downloads
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 19,312 |
-| Forks | 1,030 |
-| Stars this week | 260 |
-
----
-
-## 11. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+## 7. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,440 |
-| Forks | 785 |
-| Stars this week | 419 |
+| Stars | 13,505 |
+| Forks | 790 |
+| Stars this week | 420 |
 
 ---
 
-## 12. [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS) 🆕
+## 8. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
 
-A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.
+基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,134 |
-| Forks | 266 |
-| Stars this week | 137 |
+| Stars | 44,915 |
+| Forks | 2,141 |
+| Stars this week | 565 |
 
 ---
 
-## 13. [sameerasw/essentials](https://github.com/sameerasw/essentials)
+## 9. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
 
-Essential tools and mods for Android nerds
+A Download Manager that speeds up your downloads
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,899 |
-| Forks | 111 |
-| Stars this week | 166 |
+| Stars | 19,337 |
+| Forks | 1,031 |
+| Stars this week | 224 |
 
 ---
 
-## 14. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store)
+## 10. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store)
 
 The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,181 |
+| Stars | 4,199 |
 | Forks | 144 |
-| Stars this week | 168 |
+| Stars this week | 179 |
 
 ---
 
-## 15. [aistra0528/Hail](https://github.com/aistra0528/Hail)
+## 11. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
+
+使用 Material Design 3 全新设计的阅读 3.0
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,057 |
+| Forks | 825 |
+| Stars this week | 145 |
+
+---
+
+## 12. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 33,897 |
+| Forks | 3,687 |
+| Stars this week | 639 |
+
+---
+
+## 13. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) 🆕
+
+WhatsApp tools for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,897 |
+| Forks | 265 |
+| Stars this week | 39 |
+
+---
+
+## 14. [aistra0528/Hail](https://github.com/aistra0528/Hail)
 
 Disable / Hide / Suspend / Uninstall Android apps without root.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,315 |
-| Forks | 284 |
-| Stars this week | 126 |
+| Stars | 7,336 |
+| Forks | 285 |
+| Stars this week | 129 |
+
+---
+
+## 15. [sameerasw/essentials](https://github.com/sameerasw/essentials)
+
+Essential tools and mods for Android nerds
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,922 |
+| Forks | 111 |
+| Stars this week | 174 |
 
 ---

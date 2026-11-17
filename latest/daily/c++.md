@@ -1,139 +1,126 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-16T06:19:16Z
-**Total Repositories:** 10
-**New Entries:** 8
+**Snapshot Time:** 2026-11-17T07:49:05Z
+**Total Repositories:** 9
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [ggml-org/ggml](https://github.com/ggml-org/ggml)
-
-Tensor library for machine learning
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 15,992 |
-| Forks | 2,048 |
-| Stars today | 43 |
-
----
-
-## 2. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
+## 1. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
 
 Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,860 |
-| Forks | 222 |
-| Stars today | 736 |
+| Stars | 3,118 |
+| Forks | 246 |
+| Stars today | 322 |
 
 ---
 
-## 3. [sonicnext-dev/MarathonRecomp](https://github.com/sonicnext-dev/MarathonRecomp) 🆕
+## 2. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) 🆕
 
-An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation
+FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 894 |
-| Forks | 213 |
-| Stars today | 92 |
+| Stars | 33,912 |
+| Forks | 4,870 |
+| Stars today | 47 |
 
 ---
 
-## 4. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) 🆕
+## 3. [Helldez/BigMoeOnEdge](https://github.com/Helldez/BigMoeOnEdge) 🆕
+
+Run MoE models bigger than your RAM. Frontier-size MoE on a phone, laptop, edge. Lossless, on stock llama.cpp. An adaptive streaming optimizer. Any hardware, any OS, any model, any quantization, behind a local OpenAI-compatible server.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 988 |
+| Forks | 102 |
+| Stars today | 98 |
+
+---
+
+## 4. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 Tool for automatic PS5 executables porting to Linux and Windows
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 54,262 |
-| Forks | 5,196 |
-| Stars today | 238 |
+| Stars | 54,609 |
+| Forks | 5,235 |
+| Stars today | 317 |
 
 ---
 
-## 5. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) 🆕
-
-G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 16,499 |
-| Forks | 3,490 |
-| Stars today | 17 |
-
----
-
-## 6. [stenzek/duckstation](https://github.com/stenzek/duckstation) 🆕
-
-Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 11,017 |
-| Forks | 992 |
-| Stars today | 11 |
-
----
-
-## 7. [godotengine/godot](https://github.com/godotengine/godot) 🆕
+## 5. [godotengine/godot](https://github.com/godotengine/godot)
 
 Godot Engine – Multi-platform 2D and 3D game engine
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 120,247 |
-| Forks | 27,526 |
-| Stars today | 91 |
+| Stars | 120,297 |
+| Forks | 27,545 |
+| Stars today | 64 |
 
 ---
 
-## 8. [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) 🆕
+## 6. [ocornut/imgui](https://github.com/ocornut/imgui) 🆕
 
-A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.
+Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,322 |
-| Forks | 1,020 |
-| Stars today | 13 |
+| Stars | 77,140 |
+| Forks | 12,114 |
+| Stars today | 18 |
 
 ---
 
-## 9. [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) 🆕
+## 7. [deskflow/deskflow](https://github.com/deskflow/deskflow) 🆕
 
-Self-hosted game stream host for Moonlight.
+Share a single keyboard and mouse between multiple computers.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 43,455 |
-| Forks | 2,393 |
-| Stars today | 48 |
+| Stars | 31,276 |
+| Forks | 5,151 |
+| Stars today | 83 |
 
 ---
 
-## 10. [esphome/esphome](https://github.com/esphome/esphome) 🆕
+## 8. [stenzek/duckstation](https://github.com/stenzek/duckstation)
 
-ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,111 |
-| Forks | 5,807 |
-| Stars today | 4 |
+| Stars | 11,021 |
+| Forks | 993 |
+| Stars today | 5 |
+
+---
+
+## 9. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) 🆕
+
+PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 34,244 |
+| Forks | 2,909 |
+| Stars today | 53 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Php
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-16T06:19:55Z
+**Snapshot Time:** 2026-11-17T07:49:39Z
 **Total Repositories:** 21
-**New Entries:** 2
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 66,114 |
-| Forks | 6,000 |
-| Stars this month | 3,298 |
+| Stars | 66,157 |
+| Forks | 6,003 |
+| Stars this month | 3,292 |
 
 ---
 
@@ -28,87 +28,87 @@ The Symfony PHP framework
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,438 |
-| Forks | 9,947 |
-| Stars this month | 526 |
+| Stars | 31,444 |
+| Forks | 9,948 |
+| Stars this month | 530 |
 
 ---
 
-## 3. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
-
-📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,845 |
-| Forks | 1,134 |
-| Stars this month | 293 |
-
----
-
-## 4. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)
+## 3. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)
 
 The Roundcube Webmail suite
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,280 |
-| Forks | 1,812 |
+| Stars | 7,284 |
+| Forks | 1,813 |
 | Stars this month | 75 |
 
 ---
 
-## 5. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+## 4. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
 
-mailcow: dockerized - 🐮 + 🐋 = 💕
+📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,818 |
-| Forks | 1,868 |
-| Stars this month | 233 |
+| Stars | 10,853 |
+| Forks | 1,134 |
+| Stars this month | 295 |
 
 ---
 
-## 6. [nextcloud/server](https://github.com/nextcloud/server)
+## 5. [nextcloud/server](https://github.com/nextcloud/server)
 
 ☁️ Nextcloud server, a safe home for all your data
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 37,528 |
-| Forks | 5,360 |
-| Stars this month | 494 |
+| Stars | 37,540 |
+| Forks | 5,362 |
+| Stars this month | 474 |
 
 ---
 
-## 7. [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
+## 6. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 
-openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
+mailcow: dockerized - 🐮 + 🐋 = 💕
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,093 |
-| Forks | 621 |
-| Stars this month | 105 |
+| Stars | 13,830 |
+| Forks | 1,867 |
+| Stars this month | 241 |
 
 ---
 
-## 8. [laravel/framework](https://github.com/laravel/framework)
+## 7. [laravel/framework](https://github.com/laravel/framework)
 
 Laravel is a web application framework with expressive, elegant syntax.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 34,998 |
-| Forks | 12,028 |
-| Stars this month | 90 |
+| Stars | 35,000 |
+| Forks | 12,032 |
+| Stars this month | 91 |
+
+---
+
+## 8. [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
+
+openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,095 |
+| Forks | 621 |
+| Stars this month | 105 |
 
 ---
 
@@ -119,9 +119,9 @@ A free open source IT asset/license management system
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,191 |
-| Forks | 4,069 |
-| Stars this month | 168 |
+| Stars | 15,194 |
+| Forks | 4,071 |
+| Stars this month | 170 |
 
 ---
 
@@ -133,21 +133,21 @@ Dependency Manager for PHP
 |--------|-------|
 | Language | PHP |
 | Stars | 29,579 |
-| Forks | 4,867 |
+| Forks | 4,870 |
 | Stars this month | 55 |
 
 ---
 
-## 11. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
+## 11. [kimai/kimai](https://github.com/kimai/kimai)
 
-A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
+Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,603 |
-| Forks | 10,664 |
-| Stars this month | 70 |
+| Stars | 5,165 |
+| Forks | 889 |
+| Stars this month | 97 |
 
 ---
 
@@ -158,125 +158,125 @@ The PHP Unit Testing framework.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 20,073 |
+| Stars | 20,074 |
 | Forks | 2,214 |
 | Stars this month | 29 |
 
 ---
 
-## 13. [kimai/kimai](https://github.com/kimai/kimai)
+## 13. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
 
-Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
+A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,164 |
-| Forks | 888 |
-| Stars this month | 99 |
+| Stars | 10,604 |
+| Forks | 10,664 |
+| Stars this month | 70 |
 
 ---
 
-## 14. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+## 14. [karatektus/pl_mail](https://github.com/karatektus/pl_mail) 🆕
+
+Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 657 |
+| Forks | 51 |
+| Stars this month | 325 |
+
+---
+
+## 15. [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
 
 A free, self-hostable news aggregator…
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 16,596 |
-| Forks | 1,347 |
-| Stars this month | 346 |
+| Stars | 16,609 |
+| Forks | 1,348 |
+| Stars this month | 350 |
 
 ---
 
-## 15. [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)
+## 16. [glpi-project/glpi](https://github.com/glpi-project/glpi) 🆕
 
-A web interface for MySQL and MariaDB
+GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,975 |
-| Forks | 3,624 |
-| Stars this month | 32 |
+| Stars | 6,626 |
+| Forks | 1,939 |
+| Stars this month | 169 |
 
 ---
 
-## 16. [metadist/synaplan](https://github.com/metadist/synaplan)
+## 17. [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) 🆕
+
+The classic email sending library for PHP
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 22,340 |
+| Forks | 9,760 |
+| Stars this month | 70 |
+
+---
+
+## 18. [metadist/synaplan](https://github.com/metadist/synaplan)
 
 Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud & ownCloud. Local and cloud models side by side, with the cost on every answer.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 959 |
-| Forks | 110 |
-| Stars this month | 981 |
+| Stars | 991 |
+| Forks | 112 |
+| Stars this month | 1,007 |
 
 ---
 
-## 17. [livewire/livewire](https://github.com/livewire/livewire)
+## 19. [livewire/livewire](https://github.com/livewire/livewire)
 
 A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 23,594 |
-| Forks | 1,764 |
-| Stars this month | 39 |
+| Stars | 23,596 |
+| Forks | 1,765 |
+| Stars this month | 38 |
 
 ---
 
-## 18. [vimeo/psalm](https://github.com/vimeo/psalm)
+## 20. [kanboard/kanboard](https://github.com/kanboard/kanboard) 🆕
+
+Kanban project management software
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 9,962 |
+| Forks | 2,025 |
+| Stars this month | 76 |
+
+---
+
+## 21. [vimeo/psalm](https://github.com/vimeo/psalm)
 
 A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,931 |
+| Stars | 5,930 |
 | Forks | 731 |
-| Stars this month | 47 |
-
----
-
-## 19. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) 🆕
-
-A source-available invoice, quote, project and time-tracking app built with Laravel
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,590 |
-| Forks | 2,809 |
-| Stars this month | 323 |
-
----
-
-## 20. [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
-
-A pure PHP library for reading and writing spreadsheet files
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 14,005 |
-| Forks | 3,635 |
-| Stars this month | 35 |
-
----
-
-## 21. [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) 🆕
-
-SuiteCRM - Open source CRM for the world
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,866 |
-| Forks | 2,444 |
-| Stars this month | 80 |
+| Stars this month | 48 |
 
 ---

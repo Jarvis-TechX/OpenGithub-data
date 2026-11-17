@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-16T06:19:29Z
+**Snapshot Time:** 2026-11-17T07:49:18Z
 **Total Repositories:** 21
-**New Entries:** 1
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,789 |
-| Forks | 1,383 |
-| Stars this week | 4,556 |
+| Stars | 16,088 |
+| Forks | 1,398 |
+| Stars this week | 4,679 |
 
 ---
 
@@ -28,9 +28,9 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,412 |
-| Forks | 3,772 |
-| Stars this week | 287 |
+| Stars | 17,455 |
+| Forks | 3,775 |
+| Stars this week | 262 |
 
 ---
 
@@ -41,9 +41,9 @@ Your self-hosted, globally interconnected microblogging community
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,606 |
-| Forks | 7,585 |
-| Stars this week | 138 |
+| Stars | 50,587 |
+| Forks | 7,569 |
+| Stars this week | 164 |
 
 ---
 
@@ -54,9 +54,9 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,953 |
-| Forks | 9,721 |
-| Stars this week | 838 |
+| Stars | 40,013 |
+| Forks | 9,734 |
+| Stars this week | 530 |
 
 ---
 
@@ -67,9 +67,9 @@ A taggable image board written in Rails.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,936 |
-| Forks | 466 |
-| Stars this week | 47 |
+| Stars | 2,938 |
+| Forks | 467 |
+| Stars this week | 33 |
 
 ---
 
@@ -80,87 +80,87 @@ Ruby on Rails
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 59,095 |
-| Forks | 23,117 |
-| Stars this week | 153 |
+| Stars | 59,050 |
+| Forks | 23,112 |
+| Stars this week | 172 |
 
 ---
 
-## 7. [huginn/huginn](https://github.com/huginn/huginn)
-
-Create agents that monitor and act on your behalf. Your agents are standing by!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 50,552 |
-| Forks | 4,358 |
-| Stars this week | 150 |
-
----
-
-## 8. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+## 7. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 
 Metasploit Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,584 |
-| Forks | 15,046 |
-| Stars this week | 261 |
+| Stars | 39,593 |
+| Forks | 15,047 |
+| Stars this week | 263 |
 
 ---
 
-## 9. [jekyll/jekyll](https://github.com/jekyll/jekyll)
+## 8. [jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 🌐 Jekyll is a blog-aware static site generator in Ruby
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 51,783 |
-| Forks | 10,305 |
-| Stars this week | 36 |
+| Stars | 51,786 |
+| Forks | 10,304 |
+| Stars this week | 34 |
 
 ---
 
-## 10. [Freika/dawarich](https://github.com/Freika/dawarich)
+## 9. [huginn/huginn](https://github.com/huginn/huginn)
 
-Your favorite self-hostable alternative to Google Timeline (Google Location History)
+Create agents that monitor and act on your behalf. Your agents are standing by!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,968 |
-| Forks | 422 |
-| Stars this week | 113 |
+| Stars | 50,559 |
+| Forks | 4,356 |
+| Stars this week | 120 |
 
 ---
 
-## 11. [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+## 10. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
-A curated list of engineering blogs
+🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 38,979 |
-| Forks | 2,070 |
-| Stars this week | 86 |
+| Stars | 22,304 |
+| Forks | 12,116 |
+| Stars this week | 17 |
 
 ---
 
-## 12. [ruby/ruby](https://github.com/ruby/ruby)
+## 11. [ruby/ruby](https://github.com/ruby/ruby)
 
 The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,816 |
-| Forks | 5,689 |
-| Stars this week | 21 |
+| Stars | 23,821 |
+| Forks | 5,690 |
+| Stars this week | 24 |
+
+---
+
+## 12. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
+
+API Documentation Browser
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 39,648 |
+| Forks | 2,657 |
+| Stars this week | 33 |
 
 ---
 
@@ -171,26 +171,39 @@ The Ruby Programming Language
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,671 |
-| Forks | 13,965 |
-| Stars this week | 16 |
+| Stars | 15,676 |
+| Forks | 13,969 |
+| Stars this week | 15 |
 
 ---
 
-## 14. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 14. [Freika/dawarich](https://github.com/Freika/dawarich)
 
-🍻 Default casks (upstream binary packages) for the package manager for everywhere
+Your favorite self-hostable alternative to Google Timeline (Google Location History)
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,302 |
-| Forks | 12,111 |
-| Stars this week | 14 |
+| Stars | 10,976 |
+| Forks | 422 |
+| Stars this week | 97 |
 
 ---
 
-## 15. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+## 15. [otwcode/otwarchive](https://github.com/otwcode/otwarchive) 🆕
+
+The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 2,422 |
+| Forks | 905 |
+| Stars this week | 31 |
+
+---
+
+## 16. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
 
 🤖 Dependabot's core logic for creating update PRs.
 
@@ -198,21 +211,8 @@ The Ruby Programming Language
 |--------|-------|
 | Language | Ruby |
 | Stars | 5,849 |
-| Forks | 1,606 |
-| Stars this week | 16 |
-
----
-
-## 16. [github-linguist/linguist](https://github.com/github-linguist/linguist)
-
-Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 13,791 |
-| Forks | 5,526 |
-| Stars this week | 22 |
+| Forks | 1,607 |
+| Stars this week | 12 |
 
 ---
 
@@ -223,39 +223,26 @@ Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST API
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,841 |
-| Forks | 5,319 |
-| Stars this week | 27 |
+| Stars | 15,844 |
+| Forks | 5,318 |
+| Stars this week | 28 |
 
 ---
 
-## 18. [github/explore](https://github.com/github/explore)
+## 18. [github-linguist/linguist](https://github.com/github-linguist/linguist)
 
-Community-curated topic and collection pages on GitHub
+Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,962 |
-| Forks | 14,730 |
-| Stars this week | 9 |
+| Stars | 13,796 |
+| Forks | 5,529 |
+| Stars this week | 24 |
 
 ---
 
-## 19. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) 🆕
-
-API Documentation Browser
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 39,643 |
-| Forks | 2,656 |
-| Stars this week | 32 |
-
----
-
-## 20. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 19. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
 
 A collection of RBS for gems.
 
@@ -268,15 +255,28 @@ A collection of RBS for gems.
 
 ---
 
-## 21. [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+## 20. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) 🆕
 
-🌇 A collection of links for free stock photography, video and Illustration websites
+A database of vulnerable Ruby Gems
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 14,847 |
-| Forks | 837 |
-| Stars this week | 160 |
+| Stars | 1,085 |
+| Forks | 253 |
+| Stars this week | 5 |
+
+---
+
+## 21. [forem/forem](https://github.com/forem/forem) 🆕
+
+For empowering community 🌱
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 22,832 |
+| Forks | 4,270 |
+| Stars this week | 19 |
 
 ---

@@ -1,165 +1,165 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-16T06:19:20Z
+**Snapshot Time:** 2026-11-17T07:49:09Z
 **Total Repositories:** 12
-**New Entries:** 9
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+## 1. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) 🆕
 
-The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 4,727 |
-| Forks | 306 |
-| Stars today | 15 |
-
----
-
-## 2. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
-
-A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
+PCL 社区版 由社区开发者维护与管理
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 739 |
-| Forks | 71 |
-| Stars today | 26 |
-
----
-
-## 3. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)
-
-Advanced UX and interoperability extension for Wand (WeMod) app
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 33,811 |
-| Forks | 921 |
-| Stars today | 50 |
-
----
-
-## 4. [dotnet/efcore](https://github.com/dotnet/efcore) 🆕
-
-EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,820 |
-| Forks | 3,450 |
-| Stars today | 2 |
-
----
-
-## 5. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) 🆕
-
-UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 27,055 |
-| Forks | 981 |
-| Stars today | 15 |
-
----
-
-## 6. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
-
-Movie organizer/manager for usenet and torrent users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,790 |
-| Forks | 1,262 |
+| Stars | 5,156 |
+| Forks | 490 |
 | Stars today | 13 |
 
 ---
 
-## 7. [files-community/Files](https://github.com/files-community/Files) 🆕
+## 2. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) 🆕
 
-A modern file manager that helps users organize their files and folders.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 46,667 |
-| Forks | 3,032 |
-| Stars today | 18 |
-
----
-
-## 8. [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled) 🆕
-
-Wiicompiled
+The Free Software Media System - Server Backend & API
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,395 |
-| Forks | 134 |
-| Stars today | 9 |
+| Stars | 59,452 |
+| Forks | 5,826 |
+| Stars today | 38 |
 
 ---
 
-## 9. [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) 🆕
+## 3. [ppy/osu](https://github.com/ppy/osu) 🆕
 
-A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
+rhythm is just a *click* away!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,789 |
-| Forks | 2,198 |
-| Stars today | 3 |
+| Stars | 19,465 |
+| Forks | 2,898 |
+| Stars today | 22 |
 
 ---
 
-## 10. [openutau/OpenUtau](https://github.com/openutau/OpenUtau) 🆕
+## 4. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
+
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 120,795 |
+| Forks | 16,340 |
+| Stars today | 88 |
+
+---
+
+## 5. [openutau/OpenUtau](https://github.com/openutau/OpenUtau)
 
 Open singing synthesis platform / Open source UTAU successor
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,593 |
-| Forks | 599 |
+| Stars | 4,597 |
+| Forks | 602 |
+| Stars today | 5 |
+
+---
+
+## 6. [madoiscool/LuaTools](https://github.com/madoiscool/LuaTools) 🆕
+
+AppID Manager for ST
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 959 |
+| Forks | 104 |
+| Stars today | 4 |
+
+---
+
+## 7. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 🆕
+
+the subtitle editor :)
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 15,027 |
+| Forks | 1,381 |
+| Stars today | 13 |
+
+---
+
+## 8. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
+
+A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 786 |
+| Forks | 79 |
+| Stars today | 39 |
+
+---
+
+## 9. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
+
+OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 33,365 |
+| Forks | 2,278 |
+| Stars today | 39 |
+
+---
+
+## 10. [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) 🆕
+
+Downloads videos and playlists from YouTube
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 16,738 |
+| Forks | 2,110 |
+| Stars today | 17 |
+
+---
+
+## 11. [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) 🆕
+
+Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,606 |
+| Forks | 436 |
 | Stars today | 10 |
 
 ---
 
-## 11. [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) 🆕
+## 12. [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) 🆕
 
-A manager for game achievements in Steam.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 9,423 |
-| Forks | 933 |
-| Stars today | 6 |
-
----
-
-## 12. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🆕
-
-Integrate cutting-edge LLM technology quickly and easily into your apps
+Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 28,777 |
-| Forks | 4,859 |
-| Stars today | 9 |
+| Stars | 4,064 |
+| Forks | 356 |
+| Stars today | 14 |
 
 ---

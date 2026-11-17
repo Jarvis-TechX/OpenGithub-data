@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-16T06:19:59Z
+**Snapshot Time:** 2026-11-17T07:49:42Z
 **Total Repositories:** 21
-**New Entries:** 2
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 110,905 |
-| Forks | 6,631 |
-| Stars this month | 29,631 |
+| Stars | 111,596 |
+| Forks | 6,664 |
+| Stars this month | 29,881 |
 
 ---
 
@@ -28,35 +28,35 @@ Browser automation CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 51,737 |
-| Forks | 3,620 |
-| Stars this month | 7,545 |
+| Stars | 52,156 |
+| Forks | 3,648 |
+| Stars this month | 7,943 |
 
 ---
 
-## 3. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
-
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 15,972 |
-| Forks | 1,195 |
-| Stars this month | 6,683 |
-
----
-
-## 4. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+## 3. [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
 
 Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,552 |
-| Forks | 498 |
-| Stars this month | 3,348 |
+| Stars | 12,579 |
+| Forks | 502 |
+| Stars this month | 3,362 |
+
+---
+
+## 4. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 16,030 |
+| Forks | 1,202 |
+| Stars this month | 6,577 |
 
 ---
 
@@ -67,9 +67,9 @@ Code at the speed of thought – Zed is a high-performance, multiplayer code edi
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 95,111 |
-| Forks | 11,730 |
-| Stars this month | 3,878 |
+| Stars | 95,193 |
+| Forks | 11,743 |
+| Stars this month | 3,905 |
 
 ---
 
@@ -80,74 +80,74 @@ A free, open source, and extensible speech-to-text application that works comple
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 38,906 |
-| Forks | 3,676 |
-| Stars this month | 5,116 |
+| Stars | 39,032 |
+| Forks | 3,693 |
+| Stars this month | 5,146 |
 
 ---
 
-## 7. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
-
-Next Generation Agentic Proxy for AI Agents and MCP servers
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 6,206 |
-| Forks | 1,094 |
-| Stars this month | 855 |
-
----
-
-## 8. [astral-sh/ruff](https://github.com/astral-sh/ruff)
+## 7. [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 An extremely fast Python linter and code formatter, written in Rust.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 51,275 |
-| Forks | 2,714 |
-| Stars this month | 1,636 |
+| Stars | 51,258 |
+| Forks | 2,732 |
+| Stars this month | 1,673 |
 
 ---
 
-## 9. [ruvnet/RuView](https://github.com/ruvnet/RuView)
+## 8. [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
 
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+Next Generation Agentic Proxy for AI Agents and MCP servers
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 104,403 |
-| Forks | 13,579 |
-| Stars this month | 6,622 |
+| Stars | 6,238 |
+| Forks | 1,102 |
+| Stars this month | 860 |
 
 ---
 
-## 10. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+## 9. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
 
 Computer use CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 24,322 |
-| Forks | 1,807 |
-| Stars this month | 22,413 |
+| Stars | 24,740 |
+| Forks | 1,845 |
+| Stars this month | 22,859 |
 
 ---
 
-## 11. [xerj-org/xerj](https://github.com/xerj-org/xerj)
+## 10. [xerj-org/xerj](https://github.com/xerj-org/xerj)
 
 AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 19,133 |
-| Forks | 1,429 |
-| Stars this month | 15,800 |
+| Stars | 19,173 |
+| Forks | 1,438 |
+| Stars this month | 14,186 |
+
+---
+
+## 11. [ruvnet/RuView](https://github.com/ruvnet/RuView)
+
+π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 104,481 |
+| Forks | 13,586 |
+| Stars this month | 6,517 |
 
 ---
 
@@ -158,9 +158,9 @@ Beta: The truly free, open-source, local-first, cross-platform video editor. Scr
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 17,919 |
-| Forks | 2,201 |
-| Stars this month | 11,574 |
+| Stars | 18,215 |
+| Forks | 2,234 |
+| Stars this month | 10,824 |
 
 ---
 
@@ -171,9 +171,9 @@ Object-storage native graph database with branching and typed ontology
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,678 |
-| Forks | 321 |
-| Stars this month | 1,261 |
+| Stars | 2,873 |
+| Forks | 330 |
+| Stars this month | 1,471 |
 
 ---
 
@@ -184,48 +184,48 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,341 |
-| Forks | 596 |
-| Stars this month | 1,692 |
+| Stars | 6,352 |
+| Forks | 598 |
+| Stars this month | 1,701 |
 
 ---
 
-## 15. [oven-sh/bun](https://github.com/oven-sh/bun)
-
-Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 96,709 |
-| Forks | 5,285 |
-| Stars this month | 950 |
-
----
-
-## 16. [trymirai/uzu](https://github.com/trymirai/uzu)
-
-A high-performance inference engine for AI models
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,351 |
-| Forks | 240 |
-| Stars this month | 1,022 |
-
----
-
-## 17. [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
+## 15. [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
 
 Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,129 |
-| Forks | 520 |
-| Stars this month | 632 |
+| Stars | 4,142 |
+| Forks | 522 |
+| Stars this month | 646 |
+
+---
+
+## 16. [oven-sh/bun](https://github.com/oven-sh/bun)
+
+Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 96,725 |
+| Forks | 5,287 |
+| Stars this month | 945 |
+
+---
+
+## 17. [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 112,943 |
+| Forks | 4,225 |
+| Stars this month | 1,283 |
 
 ---
 
@@ -236,47 +236,47 @@ An extremely fast Python package and project manager, written in Rust.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 92,054 |
-| Forks | 3,842 |
-| Stars this month | 1,746 |
+| Stars | 92,045 |
+| Forks | 3,876 |
+| Stars this month | 1,783 |
 
 ---
 
-## 19. [memvid/memvid](https://github.com/memvid/memvid)
+## 19. [trymirai/uzu](https://github.com/trymirai/uzu)
+
+A high-performance inference engine for AI models
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 3,360 |
+| Forks | 242 |
+| Stars this month | 1,013 |
+
+---
+
+## 20. [memvid/memvid](https://github.com/memvid/memvid)
 
 Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 17,416 |
+| Stars | 17,425 |
 | Forks | 1,467 |
-| Stars this month | 848 |
+| Stars this month | 853 |
 
 ---
 
-## 20. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 🆕
+## 21. [nushell/nushell](https://github.com/nushell/nushell) 🆕
 
-Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+A new type of shell
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 112,941 |
-| Forks | 4,221 |
-| Stars this month | 1,258 |
-
----
-
-## 21. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) 🆕
-
-The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 7,248 |
-| Forks | 637 |
-| Stars this month | 1,117 |
+| Stars | 41,022 |
+| Forks | 2,353 |
+| Stars this month | 674 |
 
 ---

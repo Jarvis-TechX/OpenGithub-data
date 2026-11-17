@@ -1,62 +1,62 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-16T06:19:12Z
-**Total Repositories:** 17
-**New Entries:** 12
+**Snapshot Time:** 2026-11-17T07:49:02Z
+**Total Repositories:** 15
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+## 1. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) 🆕
+
+Modern Docker Management, Designed for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 8,931 |
+| Forks | 461 |
+| Stars today | 46 |
+
+---
+
+## 2. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 
 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 52,362 |
-| Forks | 4,175 |
-| Stars today | 691 |
+| Stars | 53,208 |
+| Forks | 4,361 |
+| Stars today | 951 |
 
 ---
 
-## 2. [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
+## 3. [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
 
 Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,805 |
-| Forks | 303 |
-| Stars today | 423 |
+| Stars | 2,526 |
+| Forks | 381 |
+| Stars today | 1,020 |
 
 ---
 
-## 3. [google/ax](https://github.com/google/ax) 🆕
+## 4. [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) 🆕
 
-Agent Executor (AX) is Google's open agentic orchestration runtime
+The cross-harness, self-improving memory layer for AI agents. Join our community:https://discord.com/invite/zdNChS2fBu
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 14,729 |
-| Forks | 794 |
-| Stars today | 31 |
-
----
-
-## 4. [tailscale/tailcat](https://github.com/tailscale/tailcat)
-
-like netcat, but over Tailscale's data plane, without Tailscale's control plane
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 9,960 |
-| Forks | 460 |
-| Stars today | 238 |
+| Stars | 3,548 |
+| Forks | 320 |
+| Stars today | 28 |
 
 ---
 
@@ -67,164 +67,138 @@ Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pip
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,924 |
+| Stars | 11,947 |
 | Forks | 1,110 |
-| Stars today | 13 |
+| Stars today | 27 |
 
 ---
 
-## 6. [trustwallet/assets](https://github.com/trustwallet/assets) 🆕
+## 6. [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) 🆕
 
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,417 |
-| Forks | 27,646 |
-| Stars today | 2 |
+| Stars | 16,399 |
+| Forks | 1,832 |
+| Stars today | 50 |
 
 ---
 
-## 7. [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5) 🆕
+## 7. [gnacho/netpulse](https://github.com/gnacho/netpulse) 🆕
+
+PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend, SQLite, multi-user, i18n ES/EN.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 359 |
+| Forks | 23 |
+| Stars today | 33 |
+
+---
+
+## 8. [agent-substrate/substrate](https://github.com/agent-substrate/substrate) 🆕
+
+Agent Substrate: the core system
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 6,940 |
+| Forks | 776 |
+| Stars today | 118 |
+
+---
+
+## 9. [openbkn-ai/bkn-foundry](https://github.com/openbkn-ai/bkn-foundry) 🆕
+
+BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven business semantics into runtime services: data, logic, actions, security governance, and observability.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 1,406 |
+| Forks | 139 |
+| Stars today | 48 |
+
+---
+
+## 10. [golang/go](https://github.com/golang/go) 🆕
+
+The Go programming language
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 139,981 |
+| Forks | 20,262 |
+| Stars today | 105 |
+
+---
+
+## 11. [docker/compose](https://github.com/docker/compose) 🆕
+
+Define and run multi-container applications with Docker
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 38,923 |
+| Forks | 6,025 |
+| Stars today | 94 |
+
+---
+
+## 12. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) 🆕
+
+Production-Grade Container Scheduling and Management
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 129,159 |
+| Forks | 45,097 |
+| Stars today | 111 |
+
+---
+
+## 13. [HuskerMinion/techo5](https://github.com/HuskerMinion/techo5)
 
 Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 702 |
-| Forks | 119 |
-| Stars today | 22 |
+| Stars | 726 |
+| Forks | 123 |
+| Stars today | 25 |
 
 ---
 
-## 8. [gravitational/teleport](https://github.com/gravitational/teleport) 🆕
+## 14. [dagucloud/dagu](https://github.com/dagucloud/dagu) 🆕
 
-The easiest, and most secure way to access and protect all of your infrastructure.
+Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 21,105 |
-| Forks | 2,190 |
-| Stars today | 2 |
+| Stars | 4,623 |
+| Forks | 404 |
+| Stars today | 7 |
 
 ---
 
-## 9. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) 🆕
-
-Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 42,935 |
-| Forks | 6,154 |
-| Stars today | 27 |
-
----
-
-## 10. [erigontech/erigon](https://github.com/erigontech/erigon) 🆕
+## 15. [erigontech/erigon](https://github.com/erigontech/erigon)
 
 Ethereum implementation on the efficiency frontier
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,633 |
-| Forks | 1,580 |
-| Stars today | 3 |
-
----
-
-## 11. [getlago/lago](https://github.com/getlago/lago)
-
-Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 10,880 |
-| Forks | 797 |
-| Stars today | 25 |
-
----
-
-## 12. [mudler/LocalAI](https://github.com/mudler/LocalAI) 🆕
-
-LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 50,388 |
-| Forks | 4,609 |
-| Stars today | 13 |
-
----
-
-## 13. [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) 🆕
-
-CNCF Jaeger, a Distributed Tracing Platform
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 23,415 |
-| Forks | 3,247 |
-| Stars today | 1 |
-
----
-
-## 14. [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) 🆕
-
-指纹浏览器
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 2,190 |
-| Forks | 358 |
-| Stars today | 9 |
-
----
-
-## 15. [meshery/meshery](https://github.com/meshery/meshery) 🆕
-
-Meshery, the cloud native manager
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 12,211 |
-| Forks | 4,190 |
-| Stars today | 14 |
-
----
-
-## 16. [gohugoio/hugo](https://github.com/gohugoio/hugo) 🆕
-
-The world’s fastest framework for building websites.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 90,480 |
-| Forks | 8,482 |
-| Stars today | 10 |
-
----
-
-## 17. [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) 🆕
-
-GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 5,055 |
-| Forks | 1,234 |
+| Stars | 3,642 |
+| Forks | 1,582 |
 | Stars today | 8 |
 
 ---

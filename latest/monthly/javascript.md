@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-16T06:19:50Z
-**Total Repositories:** 10
-**New Entries:** 2
-**Quality Score:** 96.00/100
+**Snapshot Time:** 2026-11-17T07:49:34Z
+**Total Repositories:** 11
+**New Entries:** 1
+**Quality Score:** 96.36/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 73,373 |
-| Forks | 4,913 |
-| Stars this month | 43,540 |
+| Stars | 74,173 |
+| Forks | 4,966 |
+| Stars this month | 43,924 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 116,374 |
-| Forks | 7,802 |
-| Stars this month | 19,546 |
+| Stars | 117,128 |
+| Forks | 7,839 |
+| Stars this month | 19,384 |
 
 ---
 
@@ -41,9 +41,9 @@ For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,181 |
-| Forks | 139 |
-| Stars this month | 1,511 |
+| Stars | 2,199 |
+| Forks | 141 |
+| Stars this month | 1,519 |
 
 ---
 
@@ -54,9 +54,9 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 23,014 |
-| Forks | 1,299 |
-| Stars this month | 5,608 |
+| Stars | 23,275 |
+| Forks | 1,320 |
+| Stars this month | 5,737 |
 
 ---
 
@@ -67,9 +67,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 21,607 |
-| Forks | 2,910 |
-| Stars this month | 9,371 |
+| Stars | 22,306 |
+| Forks | 2,968 |
+| Stars this month | 9,326 |
 
 ---
 
@@ -80,9 +80,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 118,572 |
-| Forks | 36,993 |
-| Stars this month | 2,181 |
+| Stars | 118,699 |
+| Forks | 37,014 |
+| Stars this month | 2,270 |
 
 ---
 
@@ -93,45 +93,58 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 40,061 |
-| Forks | 2,892 |
-| Stars this month | 17,582 |
+| Stars | 40,224 |
+| Forks | 2,902 |
+| Stars this month | 17,073 |
 
 ---
 
-## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 🆕
+## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,713 |
-| Forks | 1,256 |
-| Stars this month | 2,915 |
+| Stars | 7,720 |
+| Forks | 1,255 |
+| Stars this month | 2,912 |
 
 ---
 
-## 9. [jquery/jquery](https://github.com/jquery/jquery)
-
-jQuery JavaScript Library
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 59,951 |
-| Forks | 20,706 |
-| Stars this month | 423 |
-
----
-
-## 10. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) 🆕
+## 9. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
 
 ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 15,249 |
-| Forks | 1,738 |
-| Stars this month | 2,377 |
+| Stars | 15,326 |
+| Forks | 1,741 |
+| Stars this month | 2,426 |
+
+---
+
+## 10. [jquery/jquery](https://github.com/jquery/jquery)
+
+jQuery JavaScript Library
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 59,915 |
+| Forks | 20,690 |
+| Stars this month | 380 |
+
+---
+
+## 11. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 🆕
+
+Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 35,071 |
+| Forks | 6,732 |
+| Stars this month | 4,570 |
 
 ---

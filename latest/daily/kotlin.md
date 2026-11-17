@@ -1,152 +1,191 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-16T06:19:19Z
-**Total Repositories:** 11
-**New Entries:** 6
+**Snapshot Time:** 2026-11-17T07:49:08Z
+**Total Repositories:** 14
+**New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
-
-🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,236 |
-| Forks | 55 |
-| Stars today | 26 |
-
----
-
-## 2. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) 🆕
+## 1. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,440 |
-| Forks | 785 |
-| Stars today | 56 |
+| Stars | 13,505 |
+| Forks | 790 |
+| Stars today | 62 |
 
 ---
 
-## 3. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 🆕
+## 2. [tiann/KernelSU](https://github.com/tiann/KernelSU) 🆕
 
-The Magic Mask for Android
+A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 64,049 |
-| Forks | 19,374 |
-| Stars today | 38 |
+| Stars | 20,661 |
+| Forks | 5,120 |
+| Stars today | 43 |
 
 ---
 
-## 4. [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix) 🆕
+## 3. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) 🆕
 
-A UI library for Compose Multiplatform
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,653 |
-| Forks | 136 |
-| Stars today | 6 |
+| Stars | 33,897 |
+| Forks | 3,687 |
+| Stars today | 108 |
 
 ---
 
-## 5. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store)
-
-The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,181 |
-| Forks | 144 |
-| Stars today | 24 |
-
----
-
-## 6. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music) 🆕
-
-A modern, cool, sleek music player. made with <3
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,814 |
-| Forks | 87 |
-| Stars today | 91 |
-
----
-
-## 7. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) 🆕
-
-翻墙-科学上网
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 56,711 |
-| Forks | 8,756 |
-| Stars today | 31 |
-
----
-
-## 8. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
-
-Headunit App for displaying Android Auto
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 3,381 |
-| Forks | 331 |
-| Stars today | 31 |
-
----
-
-## 9. [NarYuki/Dextop](https://github.com/NarYuki/Dextop)
+## 4. [NarYuki/Dextop](https://github.com/NarYuki/Dextop)
 
 Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,210 |
-| Forks | 77 |
+| Stars | 1,216 |
+| Forks | 78 |
+| Stars today | 16 |
+
+---
+
+## 5. [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+
+The Magic Mask for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 64,072 |
+| Forks | 19,397 |
+| Stars today | 27 |
+
+---
+
+## 6. [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) 🆕
+
+Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,731 |
+| Forks | 144 |
+| Stars today | 67 |
+
+---
+
+## 7. [yairm210/Unciv](https://github.com/yairm210/Unciv) 🆕
+
+Open-source Android/Desktop remake of Civ V
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 11,590 |
+| Forks | 2,074 |
+| Stars today | 8 |
+
+---
+
+## 8. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
+
+🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,248 |
+| Forks | 56 |
 | Stars today | 18 |
 
 ---
 
-## 10. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 9. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid) 🆕
 
-YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
+Android GUI proxy utility (Empowered by sing-box)
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,077 |
-| Forks | 427 |
-| Stars today | 130 |
+| Stars | 835 |
+| Forks | 43 |
+| Stars today | 9 |
 
 ---
 
-## 11. [ximeiorg/Xime](https://github.com/ximeiorg/Xime) 🆕
+## 10. [JunkFood02/Seal](https://github.com/JunkFood02/Seal) 🆕
 
-我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。
+🦭 Video/Audio Downloader for Android, based on yt-dlp
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,390 |
-| Forks | 114 |
-| Stars today | 7 |
+| Stars | 30,741 |
+| Forks | 1,570 |
+| Stars today | 31 |
+
+---
+
+## 11. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) 🆕
+
+WhatsApp tools for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,897 |
+| Forks | 265 |
+| Stars today | 8 |
+
+---
+
+## 12. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) 🆕
+
+Android app for streaming and downloading media.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 11,329 |
+| Forks | 1,224 |
+| Stars today | 15 |
+
+---
+
+## 13. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova) 🆕
+
+Kernel-based Android Root Solution & KPM
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,159 |
+| Forks | 1,423 |
+| Stars today | 37 |
+
+---
+
+## 14. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
+
+A V2Ray client for Android, support Xray core and v2fly core
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 66,048 |
+| Forks | 8,662 |
+| Stars today | 70 |
 
 ---

@@ -1,7 +1,7 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-16T06:20:07Z
+**Snapshot Time:** 2026-11-17T07:49:48Z
 **Total Repositories:** 19
 **New Entries:** 2
 **Quality Score:** 100.00/100
@@ -15,35 +15,35 @@
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,076 |
-| Forks | 1,347 |
-| Stars this month | 1,965 |
+| Stars | 18,097 |
+| Forks | 1,353 |
+| Stars this month | 1,968 |
 
 ---
 
-## 2. [dotnet/skills](https://github.com/dotnet/skills)
-
-Repository for skills to assist AI coding agents with .NET and C#
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,222 |
-| Forks | 492 |
-| Stars this month | 576 |
-
----
-
-## 3. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+## 2. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
 WinUI app for building smaller, customized Windows 11 images.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 21,981 |
-| Forks | 1,677 |
-| Stars this month | 1,604 |
+| Stars | 22,008 |
+| Forks | 1,676 |
+| Stars this month | 1,523 |
+
+---
+
+## 3. [dotnet/skills](https://github.com/dotnet/skills)
+
+Repository for skills to assist AI coding agents with .NET and C#
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 6,243 |
+| Forks | 495 |
+| Stars this month | 601 |
 
 ---
 
@@ -54,9 +54,9 @@ ShareX is a free and open-source application that enables users to capture or re
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 41,064 |
-| Forks | 4,084 |
-| Stars this month | 1,091 |
+| Stars | 41,092 |
+| Forks | 4,087 |
+| Stars this month | 1,083 |
 
 ---
 
@@ -67,9 +67,9 @@ PCL 社区版 由社区开发者维护与管理
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,142 |
-| Forks | 486 |
-| Stars this month | 789 |
+| Stars | 5,156 |
+| Forks | 490 |
+| Stars this month | 799 |
 
 ---
 
@@ -80,9 +80,9 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,268 |
+| Stars | 39,285 |
 | Forks | 4,106 |
-| Stars this month | 407 |
+| Stars this month | 422 |
 
 ---
 
@@ -93,9 +93,9 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,196 |
-| Forks | 8,539 |
-| Stars this month | 635 |
+| Stars | 56,215 |
+| Forks | 8,540 |
+| Stars this month | 622 |
 
 ---
 
@@ -106,35 +106,35 @@ Windows/macOS/Linux GUI client for GIT users
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,493 |
-| Forks | 616 |
-| Stars this month | 348 |
+| Stars | 6,520 |
+| Forks | 619 |
+| Stars this month | 363 |
 
 ---
 
-## 9. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
-
-A Launcher that Downloads and Updates Applications from Github Releases
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 2,087 |
-| Forks | 72 |
-| Stars this month | 310 |
-
----
-
-## 10. [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy)
+## 9. [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy)
 
 The Windows debloater.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,869 |
+| Stars | 5,871 |
 | Forks | 187 |
-| Stars this month | 229 |
+| Stars this month | 225 |
+
+---
+
+## 10. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
+
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 18,448 |
+| Forks | 5,818 |
+| Stars this month | 124 |
 
 ---
 
@@ -145,52 +145,65 @@ The Windows debloater.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 908 |
-| Forks | 80 |
-| Stars this month | 475 |
+| Stars | 915 |
+| Forks | 81 |
+| Stars this month | 472 |
 
 ---
 
-## 12. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
-
-The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 19,876 |
-| Forks | 4,520 |
-| Stars this month | 132 |
-
----
-
-## 13. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
+## 12. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
 
 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,582 |
-| Forks | 1,760 |
-| Stars this month | 544 |
+| Stars | 27,604 |
+| Forks | 1,761 |
+| Stars this month | 540 |
 
 ---
 
-## 14. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 13. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,526 |
-| Forks | 11,567 |
-| Stars this month | 130 |
+| Stars | 38,531 |
+| Forks | 11,563 |
+| Stars this month | 132 |
 
 ---
 
-## 15. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
+## 14. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+
+The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 19,879 |
+| Forks | 4,521 |
+| Stars this month | 131 |
+
+---
+
+## 15. [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher)
+
+A Launcher that Downloads and Updates Applications from Github Releases
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 2,088 |
+| Forks | 72 |
+| Stars this month | 292 |
+
+---
+
+## 16. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
 Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
@@ -199,58 +212,45 @@ Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment proces
 | Language | C# |
 | Stars | 7,921 |
 | Forks | 2,065 |
-| Stars this month | 145 |
+| Stars this month | 146 |
 
 ---
 
-## 16. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
-
-Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 15,999 |
-| Forks | 1,636 |
-| Stars this month | 1,064 |
-
----
-
-## 17. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) 🆕
+## 17. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,727 |
+| Stars | 4,747 |
 | Forks | 306 |
-| Stars this month | 381 |
+| Stars this month | 389 |
 
 ---
 
-## 18. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
+## 18. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) 🆕
+
+Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 12,104 |
+| Forks | 528 |
+| Stars this month | 1,423 |
+
+---
+
+## 19. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
 
 File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,706 |
-| Forks | 952 |
-| Stars this month | 384 |
-
----
-
-## 19. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
-
-Movie organizer/manager for usenet and torrent users.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 14,790 |
-| Forks | 1,262 |
-| Stars this month | 247 |
+| Stars | 15,712 |
+| Forks | 953 |
+| Stars this month | 393 |
 
 ---

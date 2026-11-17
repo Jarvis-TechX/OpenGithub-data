@@ -1,49 +1,49 @@
 # GitHub Trending - Java
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-16T06:20:04Z
+**Snapshot Time:** 2026-11-17T07:49:46Z
 **Total Repositories:** 22
-**New Entries:** 3
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
-
-Ghidra is a software reverse engineering (SRE) framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 100,235 |
-| Forks | 11,395 |
-| Stars this month | 12,123 |
-
----
-
-## 2. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 1. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
 Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,694 |
-| Forks | 26,249 |
-| Stars this month | 601 |
+| Stars | 78,681 |
+| Forks | 26,230 |
+| Stars this month | 624 |
 
 ---
 
-## 3. [floci-io/floci](https://github.com/floci-io/floci)
+## 2. [floci-io/floci](https://github.com/floci-io/floci)
 
 Light, fluffy, and always free - The AWS Local Emulator alternative
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 31,801 |
-| Forks | 3,501 |
-| Stars this month | 5,035 |
+| Stars | 31,862 |
+| Forks | 3,516 |
+| Stars this month | 5,061 |
+
+---
+
+## 3. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
+
+A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 11,011 |
+| Forks | 1,292 |
+| Stars this month | 821 |
 
 ---
 
@@ -54,35 +54,35 @@ A tool for reverse engineering Android apk files
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 27,235 |
-| Forks | 4,262 |
-| Stars this month | 1,359 |
+| Stars | 27,253 |
+| Forks | 4,265 |
+| Stars this month | 1,354 |
 
 ---
 
-## 5. [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL)
-
-A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 10,997 |
-| Forks | 1,291 |
-| Stars this month | 813 |
-
----
-
-## 6. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+## 5. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 67,251 |
-| Forks | 21,535 |
-| Stars this month | 994 |
+| Stars | 67,264 |
+| Forks | 21,532 |
+| Stars this month | 996 |
+
+---
+
+## 6. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+Ghidra is a software reverse engineering (SRE) framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 100,384 |
+| Forks | 11,413 |
+| Stars this month | 11,235 |
 
 ---
 
@@ -93,9 +93,9 @@ Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/Amn
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 727 |
-| Forks | 118 |
-| Stars this month | 351 |
+| Stars | 733 |
+| Forks | 119 |
+| Stars this month | 349 |
 
 ---
 
@@ -106,190 +106,190 @@ Spring Framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 60,321 |
-| Forks | 38,801 |
-| Stars this month | 119 |
+| Stars | 60,318 |
+| Forks | 38,799 |
+| Stars this month | 114 |
 
 ---
 
-## 9. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 81,920 |
-| Forks | 42,741 |
-| Stars this month | 649 |
-
----
-
-## 10. [kdn251/interviews](https://github.com/kdn251/interviews)
+## 9. [kdn251/interviews](https://github.com/kdn251/interviews)
 
 Everything you need to know to get the job.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,557 |
-| Forks | 12,918 |
-| Stars this month | 337 |
+| Stars | 65,560 |
+| Forks | 12,917 |
+| Stars this month | 333 |
 
 ---
 
-## 11. [skylot/jadx](https://github.com/skylot/jadx)
-
-Dex to Java decompiler
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 51,843 |
-| Forks | 5,942 |
-| Stars this month | 984 |
-
----
-
-## 12. [trinodb/trino](https://github.com/trinodb/trino)
+## 10. [trinodb/trino](https://github.com/trinodb/trino)
 
 Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,514 |
-| Forks | 3,877 |
-| Stars this month | 192 |
+| Stars | 13,516 |
+| Forks | 3,879 |
+| Stars this month | 193 |
 
 ---
 
-## 13. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+## 11. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 81,888 |
+| Forks | 42,724 |
+| Stars this month | 593 |
+
+---
+
+## 12. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
 
 LSPosed Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 25,508 |
+| Stars | 25,526 |
 | Forks | 3,595 |
-| Stars this month | 601 |
+| Stars this month | 597 |
 
 ---
 
-## 14. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+## 13. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
 A libre lightweight streaming front-end for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,744 |
-| Forks | 4,004 |
-| Stars this month | 728 |
+| Stars | 40,775 |
+| Forks | 4,007 |
+| Stars this month | 742 |
 
 ---
 
-## 15. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
-
-Dual pane Android file manager with focus on APKs
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 569 |
-| Forks | 81 |
-| Stars this month | 333 |
-
----
-
-## 16. [termux/termux-app](https://github.com/termux/termux-app)
-
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 64,975 |
-| Forks | 8,326 |
-| Stars this month | 2,459 |
-
----
-
-## 17. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
-
-Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 4,462 |
-| Forks | 857 |
-| Stars this month | 180 |
-
----
-
-## 18. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo)
-
-Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 618 |
-| Forks | 126 |
-| Stars this month | 172 |
-
----
-
-## 19. [traccar/traccar](https://github.com/traccar/traccar) 🆕
+## 14. [traccar/traccar](https://github.com/traccar/traccar)
 
 Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 8,134 |
-| Forks | 3,492 |
-| Stars this month | 271 |
+| Stars | 8,138 |
+| Forks | 3,493 |
+| Stars this month | 269 |
 
 ---
 
-## 20. [openrewrite/rewrite](https://github.com/openrewrite/rewrite)
+## 15. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo)
 
-Automated mass refactoring of source code.
+Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,990 |
-| Forks | 608 |
-| Stars this month | 201 |
+| Stars | 622 |
+| Forks | 127 |
+| Stars this month | 171 |
 
 ---
 
-## 21. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) 🆕
-
-No clever tagline needed.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 13,954 |
-| Forks | 1,815 |
-| Stars this month | 302 |
-
----
-
-## 22. [halo-dev/halo](https://github.com/halo-dev/halo) 🆕
+## 16. [halo-dev/halo](https://github.com/halo-dev/halo)
 
 Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,285 |
-| Forks | 10,314 |
-| Stars this month | 438 |
+| Stars | 40,309 |
+| Forks | 10,316 |
+| Stars this month | 453 |
+
+---
+
+## 17. [termux/termux-app](https://github.com/termux/termux-app)
+
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 65,044 |
+| Forks | 8,335 |
+| Stars this month | 2,476 |
+
+---
+
+## 18. [openrewrite/rewrite](https://github.com/openrewrite/rewrite)
+
+Automated mass refactoring of source code.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,991 |
+| Forks | 608 |
+| Stars this month | 201 |
+
+---
+
+## 19. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
+
+Dual pane Android file manager with focus on APKs
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 571 |
+| Forks | 84 |
+| Stars this month | 323 |
+
+---
+
+## 20. [skylot/jadx](https://github.com/skylot/jadx)
+
+Dex to Java decompiler
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 51,864 |
+| Forks | 5,946 |
+| Stars this month | 961 |
+
+---
+
+## 21. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
+
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 4,470 |
+| Forks | 860 |
+| Stars this month | 187 |
+
+---
+
+## 22. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+
+No clever tagline needed.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,958 |
+| Forks | 1,816 |
+| Stars this month | 304 |
 
 ---
