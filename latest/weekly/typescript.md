@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-17T07:49:16Z
+**Snapshot Time:** 2026-11-18T07:18:31Z
 **Total Repositories:** 17
-**New Entries:** 4
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,100 +15,100 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,153 |
-| Forks | 706 |
-| Stars this week | 6,542 |
+| Stars | 8,560 |
+| Forks | 731 |
+| Stars this week | 7,015 |
 
 ---
 
-## 2. [meta/astryx](https://github.com/meta/astryx)
-
-An open source design system that's fully customizable and agent ready
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 29,812 |
-| Forks | 2,321 |
-| Stars this week | 10,939 |
-
----
-
-## 3. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+## 2. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 
 The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,799 |
-| Forks | 1,271 |
-| Stars this week | 2,325 |
+| Stars | 13,181 |
+| Forks | 1,320 |
+| Stars this week | 2,926 |
 
 ---
 
-## 4. [openai/codex-security](https://github.com/openai/codex-security)
+## 3. [meta/astryx](https://github.com/meta/astryx)
 
-OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
+An open source design system that's fully customizable and agent ready
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,833 |
-| Forks | 1,083 |
-| Stars this week | 2,352 |
+| Stars | 30,301 |
+| Forks | 2,366 |
+| Stars this week | 8,700 |
 
 ---
 
-## 5. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-
-An open-source AI coding agent that lives in your terminal.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 30,689 |
-| Forks | 3,554 |
-| Stars this week | 1,497 |
-
----
-
-## 6. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 🆕
+## 4. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
 Chrome DevTools for coding agents
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 57,839 |
-| Forks | 4,857 |
-| Stars this week | 2,593 |
+| Stars | 58,111 |
+| Forks | 4,874 |
+| Stars this week | 2,948 |
 
 ---
 
-## 7. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
-
-Open-source Grok Bot alternative with a virtual machine that bots can use
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 24,383 |
-| Forks | 3,390 |
-| Stars this week | 4,737 |
-
----
-
-## 8. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+## 5. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
 
 A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,843 |
-| Forks | 1,279 |
-| Stars this week | 943 |
+| Stars | 10,211 |
+| Forks | 1,335 |
+| Stars this week | 1,197 |
+
+---
+
+## 6. [openai/codex-security](https://github.com/openai/codex-security)
+
+OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 14,012 |
+| Forks | 1,095 |
+| Stars this week | 2,531 |
+
+---
+
+## 7. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+
+An open-source AI coding agent that lives in your terminal.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 30,741 |
+| Forks | 3,553 |
+| Stars this week | 1,603 |
+
+---
+
+## 8. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+
+AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 20,160 |
+| Forks | 2,078 |
+| Stars this week | 2,773 |
 
 ---
 
@@ -119,35 +119,35 @@ The open, self-hostable alternative to closed AI bots. Production-ready, fully c
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,646 |
-| Forks | 1,567 |
-| Stars this week | 2,035 |
+| Stars | 12,784 |
+| Forks | 1,586 |
+| Stars this week | 2,110 |
 
 ---
 
-## 10. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 🆕
-
-AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 19,511 |
-| Forks | 2,019 |
-| Stars this week | 1,569 |
-
----
-
-## 11. [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui)
+## 10. [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui)
 
 Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,526 |
-| Forks | 1,421 |
-| Stars this week | 473 |
+| Stars | 17,586 |
+| Forks | 1,426 |
+| Stars this week | 516 |
+
+---
+
+## 11. [dream-num/univer](https://github.com/dream-num/univer)
+
+Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 29,459 |
+| Forks | 2,637 |
+| Stars this week | 5,845 |
 
 ---
 
@@ -158,73 +158,73 @@ Open-source generative UI framework: agents stream layout data, and apps render 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 85,676 |
-| Forks | 16,343 |
-| Stars this week | 1,127 |
+| Stars | 85,736 |
+| Forks | 16,342 |
+| Stars this week | 961 |
 
 ---
 
-## 13. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+## 13. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
-A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .
+Open-source Grok Bot alternative with a virtual machine that bots can use
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,713 |
-| Forks | 616 |
-| Stars this week | 2,023 |
+| Stars | 25,002 |
+| Forks | 3,522 |
+| Stars this week | 4,284 |
 
 ---
 
-## 14. [dream-num/univer](https://github.com/dream-num/univer) 🆕
-
-Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 28,475 |
-| Forks | 2,567 |
-| Stars this week | 4,765 |
-
----
-
-## 15. [garrytan/gbrain](https://github.com/garrytan/gbrain)
+## 14. [garrytan/gbrain](https://github.com/garrytan/gbrain)
 
 Garry's Opinionated OpenClaw/Hermes Agent Brain
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,179 |
-| Forks | 4,962 |
-| Stars this week | 1,186 |
+| Stars | 33,243 |
+| Forks | 4,974 |
+| Stars this week | 814 |
 
 ---
 
-## 16. [hieunc229/mailflare](https://github.com/hieunc229/mailflare) 🆕
+## 15. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
 
-Email for professionals and teams
+A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 6,726 |
-| Forks | 1,152 |
-| Stars this week | 723 |
+| Stars | 7,808 |
+| Forks | 624 |
+| Stars this week | 1,743 |
 
 ---
 
-## 17. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+## 16. [immich-app/immich](https://github.com/immich-app/immich) 🆕
 
-The best way to control Claude Code, Codex and more from any computer or phone
+High performance self-hosted photo and video management solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 63,203 |
-| Forks | 11,197 |
-| Stars this week | 8,993 |
+| Stars | 119,510 |
+| Forks | 7,643 |
+| Stars this week | 806 |
+
+---
+
+## 17. [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) 🆕
+
+LIBERATED AI CHAT
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 12,651 |
+| Forks | 2,921 |
+| Stars this week | 440 |
 
 ---

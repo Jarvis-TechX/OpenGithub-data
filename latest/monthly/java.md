@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-17T07:49:46Z
-**Total Repositories:** 22
-**New Entries:** 0
+**Snapshot Time:** 2026-11-18T07:19:01Z
+**Total Repositories:** 19
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Free and Open Source, Distributed, RESTful Search Engine
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,681 |
-| Forks | 26,230 |
-| Stars this month | 624 |
+| Stars | 78,787 |
+| Forks | 26,280 |
+| Stars this month | 813 |
 
 ---
 
@@ -28,9 +28,9 @@ Light, fluffy, and always free - The AWS Local Emulator alternative
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 31,862 |
-| Forks | 3,516 |
-| Stars this month | 5,061 |
+| Stars | 31,897 |
+| Forks | 3,524 |
+| Stars this month | 5,089 |
 
 ---
 
@@ -41,35 +41,35 @@ A Minecraft Launcher which is multi-functional, cross-platform and popular
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 11,011 |
-| Forks | 1,292 |
-| Stars this month | 821 |
+| Stars | 11,014 |
+| Forks | 1,293 |
+| Stars this month | 815 |
 
 ---
 
-## 4. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
-
-A tool for reverse engineering Android apk files
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 27,253 |
-| Forks | 4,265 |
-| Stars this month | 1,354 |
-
----
-
-## 5. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+## 4. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
 All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 67,264 |
-| Forks | 21,532 |
-| Stars this month | 996 |
+| Stars | 67,275 |
+| Forks | 21,533 |
+| Stars this month | 1,004 |
+
+---
+
+## 5. [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+
+A tool for reverse engineering Android apk files
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 27,274 |
+| Forks | 4,265 |
+| Stars this month | 1,348 |
 
 ---
 
@@ -80,48 +80,48 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 100,384 |
-| Forks | 11,413 |
-| Stars this month | 11,235 |
+| Stars | 100,490 |
+| Forks | 11,429 |
+| Stars this month | 10,659 |
 
 ---
 
-## 7. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android)
-
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 733 |
-| Forks | 119 |
-| Stars this month | 349 |
-
----
-
-## 8. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
+## 7. [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
 
 Spring Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 60,318 |
+| Stars | 60,320 |
 | Forks | 38,799 |
-| Stars this month | 114 |
+| Stars this month | 119 |
 
 ---
 
-## 9. [kdn251/interviews](https://github.com/kdn251/interviews)
+## 8. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android)
 
-Everything you need to know to get the job.
+Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,560 |
-| Forks | 12,917 |
-| Stars this month | 333 |
+| Stars | 742 |
+| Forks | 120 |
+| Stars this month | 351 |
+
+---
+
+## 9. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+
+LSPosed Framework
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 25,542 |
+| Forks | 3,595 |
+| Stars this month | 600 |
 
 ---
 
@@ -132,164 +132,125 @@ Official repository of Trino, the distributed SQL query engine for big data, for
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,516 |
-| Forks | 3,879 |
-| Stars this month | 193 |
+| Stars | 13,523 |
+| Forks | 3,880 |
+| Stars this month | 194 |
 
 ---
 
-## 11. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 81,888 |
-| Forks | 42,724 |
-| Stars this month | 593 |
-
----
-
-## 12. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
-
-LSPosed Framework
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 25,526 |
-| Forks | 3,595 |
-| Stars this month | 597 |
-
----
-
-## 13. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+## 11. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
 A libre lightweight streaming front-end for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,775 |
-| Forks | 4,007 |
-| Stars this month | 742 |
+| Stars | 40,788 |
+| Forks | 4,004 |
+| Stars this month | 751 |
 
 ---
 
-## 14. [traccar/traccar](https://github.com/traccar/traccar)
-
-Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 8,138 |
-| Forks | 3,493 |
-| Stars this month | 269 |
-
----
-
-## 15. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo)
-
-Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 622 |
-| Forks | 127 |
-| Stars this month | 171 |
-
----
-
-## 16. [halo-dev/halo](https://github.com/halo-dev/halo)
+## 12. [halo-dev/halo](https://github.com/halo-dev/halo)
 
 Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,309 |
-| Forks | 10,316 |
-| Stars this month | 453 |
+| Stars | 40,332 |
+| Forks | 10,314 |
+| Stars this month | 480 |
 
 ---
 
-## 17. [termux/termux-app](https://github.com/termux/termux-app)
+## 13. [traccar/traccar](https://github.com/traccar/traccar)
+
+Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 8,145 |
+| Forks | 3,494 |
+| Stars this month | 270 |
+
+---
+
+## 14. [termux/termux-app](https://github.com/termux/termux-app)
 
 Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,044 |
-| Forks | 8,335 |
-| Stars this month | 2,476 |
+| Stars | 65,105 |
+| Forks | 8,351 |
+| Stars this month | 2,460 |
 
 ---
 
-## 18. [openrewrite/rewrite](https://github.com/openrewrite/rewrite)
-
-Automated mass refactoring of source code.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,991 |
-| Forks | 608 |
-| Stars this month | 201 |
-
----
-
-## 19. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
-
-Dual pane Android file manager with focus on APKs
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 571 |
-| Forks | 84 |
-| Stars this month | 323 |
-
----
-
-## 20. [skylot/jadx](https://github.com/skylot/jadx)
-
-Dex to Java decompiler
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 51,864 |
-| Forks | 5,946 |
-| Stars this month | 961 |
-
----
-
-## 21. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
+## 15. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)
 
 Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,470 |
-| Forks | 860 |
-| Stars this month | 187 |
+| Stars | 4,475 |
+| Forks | 861 |
+| Stars this month | 170 |
 
 ---
 
-## 22. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+## 16. [appdevforall/CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo)
+
+Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 626 |
+| Forks | 134 |
+| Stars this month | 172 |
+
+---
+
+## 17. [openrewrite/rewrite](https://github.com/openrewrite/rewrite)
+
+Automated mass refactoring of source code.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,992 |
+| Forks | 608 |
+| Stars this month | 201 |
+
+---
+
+## 18. [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) 🆕
+
+[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 3,599 |
+| Forks | 478 |
+| Stars this month | 486 |
+
+---
+
+## 19. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
 
 No clever tagline needed.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,958 |
+| Stars | 13,963 |
 | Forks | 1,816 |
-| Stars this month | 304 |
+| Stars this month | 311 |
 
 ---

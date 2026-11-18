@@ -1,217 +1,217 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-17T07:48:55Z
+**Snapshot Time:** 2026-11-18T07:18:11Z
 **Total Repositories:** 16
-**New Entries:** 10
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
-
-Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 6,576 |
-| Forks | 1,378 |
-| Stars today | 837 |
-
----
-
-## 2. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+## 1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 
 A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,787 |
-| Forks | 1,215 |
-| Stars today | 1,094 |
+| Stars | 9,897 |
+| Forks | 1,400 |
+| Stars today | 1,005 |
 
 ---
 
-## 3. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) 🆕
+## 2. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 68,386 |
-| Forks | 6,084 |
-| Stars today | 135 |
+| Stars | 69,379 |
+| Forks | 6,165 |
+| Stars today | 696 |
 
 ---
 
-## 4. [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
+## 3. [jingyaogong/minimind](https://github.com/jingyaogong/minimind) 🆕
 
-Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+🧠 Train a 64M-parameter LLM from scratch in just 2h!
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,012 |
-| Forks | 430 |
-| Stars today | 873 |
+| Stars | 66,257 |
+| Forks | 8,687 |
+| Stars today | 192 |
 
 ---
 
-## 5. [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) 🆕
+## 4. [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)
 
 PaperOrchestra is a multi-agent framework for automated AI research paper writing.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 1,867 |
-| Forks | 300 |
-| Stars today | 313 |
+| Stars | 3,401 |
+| Forks | 441 |
+| Stars today | 1,072 |
 
 ---
 
-## 6. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+## 5. [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)
+
+Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 3,413 |
+| Forks | 474 |
+| Stars today | 869 |
+
+---
+
+## 6. [usestrix/strix](https://github.com/usestrix/strix) 🆕
+
+Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 76,389 |
+| Forks | 8,675 |
+| Stars today | 337 |
+
+---
+
+## 7. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
+
+Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 6,937 |
+| Forks | 1,415 |
+| Stars today | 703 |
+
+---
+
+## 8. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
 Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,240 |
-| Forks | 655 |
-| Stars today | 367 |
+| Stars | 7,841 |
+| Forks | 730 |
+| Stars today | 1,292 |
 
 ---
 
-## 7. [isair/jarvis](https://github.com/isair/jarvis) 🆕
+## 9. [dograh-hq/dograh](https://github.com/dograh-hq/dograh) 🆕
 
-A 100% private and local AI assistant for your desktop. Always present, able to jump into conversations. Supports unlimited MCP tools and unlimited memory with self-learning. Free WisprFlow alternative with its dictation support. Runs on macOS, Windows and Linux.
+Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 2,331 |
-| Forks | 553 |
-| Stars today | 25 |
+| Stars | 6,195 |
+| Forks | 1,595 |
+| Stars today | 17 |
 
 ---
 
-## 8. [openai/whisper](https://github.com/openai/whisper) 🆕
+## 10. [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) 🆕
 
-Robust Speech Recognition via Large-Scale Weak Supervision
+Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 112,882 |
-| Forks | 13,676 |
-| Stars today | 126 |
+| Stars | 38,322 |
+| Forks | 4,077 |
+| Stars today | 160 |
 
 ---
 
-## 9. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+## 11. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🆕
 
-Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 33,891 |
-| Forks | 4,017 |
-| Stars today | 120 |
+| Stars | 79,758 |
+| Forks | 9,773 |
+| Stars today | 85 |
 
 ---
 
-## 10. [huggingface/transformers](https://github.com/huggingface/transformers) 🆕
+## 12. [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) 🆕
 
-🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+"RAG-Anything: All-in-One RAG Framework"
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 169,108 |
-| Forks | 35,219 |
-| Stars today | 132 |
+| Stars | 24,612 |
+| Forks | 2,882 |
+| Stars today | 17 |
 
 ---
 
-## 11. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) 🆕
+## 13. [HKUDS/AutoSwarm](https://github.com/HKUDS/AutoSwarm) 🆕
 
-Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.
+AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 46,160 |
-| Forks | 1,824 |
-| Stars today | 311 |
+| Stars | 2,635 |
+| Forks | 437 |
+| Stars today | 53 |
 
 ---
 
-## 12. [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) 🆕
+## 14. [3441293738/creatorhub](https://github.com/3441293738/creatorhub) 🆕
+
+多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 3,653 |
+| Forks | 712 |
+| Stars today | 100 |
+
+---
+
+## 15. [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos)
 
 Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 380 |
-| Forks | 65 |
-| Stars today | 59 |
+| Stars | 414 |
+| Forks | 74 |
+| Stars today | 44 |
 
 ---
 
-## 13. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+## 16. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) 🆕
 
-"Vibe-Trading: Your Personal Trading Agent"
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 38,401 |
-| Forks | 6,251 |
-| Stars today | 92 |
-
----
-
-## 14. [bkerler/mtkclient](https://github.com/bkerler/mtkclient) 🆕
-
-Mediatek Flash and Repair Utility
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 1,543 |
-| Forks | 314 |
-| Stars today | 9 |
-
----
-
-## 15. [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip) 🆕
-
-An open-source OpusClip alternative
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 3,351 |
-| Forks | 751 |
-| Stars today | 109 |
-
----
-
-## 16. [superdesigndev/treg](https://github.com/superdesigndev/treg) 🆕
-
-OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 8,185 |
-| Forks | 781 |
-| Stars today | 88 |
+| Stars | 149,797 |
+| Forks | 14,391 |
+| Stars today | 649 |
 
 ---

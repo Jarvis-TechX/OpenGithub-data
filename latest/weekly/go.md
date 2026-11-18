@@ -1,8 +1,8 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-17T07:49:20Z
-**Total Repositories:** 18
+**Snapshot Time:** 2026-11-18T07:18:35Z
+**Total Repositories:** 17
 **New Entries:** 2
 **Quality Score:** 100.00/100
 
@@ -15,35 +15,35 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 53,209 |
-| Forks | 4,361 |
-| Stars this week | 3,056 |
+| Stars | 53,954 |
+| Forks | 4,449 |
+| Stars this week | 3,675 |
 
 ---
 
-## 2. [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
+## 2. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
+
+Modern Docker Management, Designed for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 9,481 |
+| Forks | 520 |
+| Stars this week | 856 |
+
+---
+
+## 3. [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
 
 Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,405 |
-| Forks | 1,668 |
-| Stars this week | 600 |
-
----
-
-## 3. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-
-Agent Substrate: the core system
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 6,940 |
-| Forks | 776 |
-| Stars this week | 600 |
+| Stars | 17,510 |
+| Forks | 1,687 |
+| Stars this week | 363 |
 
 ---
 
@@ -54,190 +54,177 @@ Find, verify, and analyze leaked credentials
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 29,448 |
-| Forks | 2,767 |
-| Stars this week | 370 |
+| Stars | 29,487 |
+| Forks | 2,778 |
+| Stars this week | 328 |
 
 ---
 
-## 5. [cli/cli](https://github.com/cli/cli)
-
-GitHub’s official command line tool
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 47,053 |
-| Forks | 9,389 |
-| Stars this week | 147 |
-
----
-
-## 6. [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)
-
-NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 1,235 |
-| Forks | 164 |
-| Stars this week | 232 |
-
----
-
-## 7. [tailscale/tailcat](https://github.com/tailscale/tailcat)
-
-like netcat, but over Tailscale's data plane, without Tailscale's control plane
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 10,025 |
-| Forks | 464 |
-| Stars this week | 1,212 |
-
----
-
-## 8. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-
-🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 120,843 |
-| Forks | 7,060 |
-| Stars this week | 2,258 |
-
----
-
-## 9. [runkids/skillshare](https://github.com/runkids/skillshare)
-
-📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 3,197 |
-| Forks | 385 |
-| Stars this week | 191 |
-
----
-
-## 10. [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
-
-Cloud Native Agentic AI | Discord:https://bit.ly/kagentdiscord
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 4,388 |
-| Forks | 923 |
-| Stars this week | 169 |
-
----
-
-## 11. [evcc-io/evcc](https://github.com/evcc-io/evcc)
-
-smart charging ☀️🚘
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 7,621 |
-| Forks | 1,646 |
-| Stars this week | 73 |
-
----
-
-## 12. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
+## 5. [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)
 
 scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,156 |
-| Forks | 1,296 |
-| Stars this week | 438 |
+| Stars | 8,204 |
+| Forks | 1,310 |
+| Stars this week | 345 |
 
 ---
 
-## 13. [multica-ai/multica](https://github.com/multica-ai/multica)
+## 6. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
 
-Make humans and AI agents work as one team — open-source and self-hostable.
+Agent Substrate: the core system
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 56,416 |
-| Forks | 7,438 |
-| Stars this week | 985 |
+| Stars | 7,418 |
+| Forks | 817 |
+| Stars this week | 758 |
 
 ---
 
-## 14. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+## 7. [cli/cli](https://github.com/cli/cli)
 
-Find secrets with Gitleaks 🔑
+GitHub’s official command line tool
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 31,107 |
-| Forks | 2,384 |
-| Stars this week | 271 |
+| Stars | 47,069 |
+| Forks | 9,411 |
+| Stars this week | 148 |
 
 ---
 
-## 15. [docker/compose](https://github.com/docker/compose) 🆕
+## 8. [tailscale/tailcat](https://github.com/tailscale/tailcat)
+
+like netcat, but over Tailscale's data plane, without Tailscale's control plane
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 10,066 |
+| Forks | 467 |
+| Stars this week | 1,277 |
+
+---
+
+## 9. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+
+why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 121,139 |
+| Forks | 7,078 |
+| Stars this week | 2,293 |
+
+---
+
+## 10. [runkids/skillshare](https://github.com/runkids/skillshare)
+
+📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 3,217 |
+| Forks | 386 |
+| Stars this week | 207 |
+
+---
+
+## 11. [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
+
+Cloud Native Agentic AI | Discord:https://bit.ly/kagentdiscord
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 4,418 |
+| Forks | 928 |
+| Stars this week | 178 |
+
+---
+
+## 12. [evcc-io/evcc](https://github.com/evcc-io/evcc)
+
+smart charging ☀️🚘
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,631 |
+| Forks | 1,642 |
+| Stars this week | 61 |
+
+---
+
+## 13. [docker/compose](https://github.com/docker/compose)
 
 Define and run multi-container applications with Docker
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 38,923 |
-| Forks | 6,025 |
-| Stars this week | 321 |
+| Stars | 39,102 |
+| Forks | 6,081 |
+| Stars this week | 406 |
 
 ---
 
-## 16. [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+## 14. [multica-ai/multica](https://github.com/multica-ai/multica)
 
-Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+Make humans and AI agents work as one team — open-source and self-hostable.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 58,781 |
-| Forks | 9,013 |
-| Stars this week | 736 |
+| Stars | 56,527 |
+| Forks | 7,456 |
+| Stars this week | 980 |
 
 ---
 
-## 17. [henrygd/beszel](https://github.com/henrygd/beszel)
+## 15. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
 
-Lightweight server monitoring with historical data, docker stats, and alerts.
+Find secrets with Gitleaks 🔑
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 27,420 |
-| Forks | 1,188 |
-| Stars this week | 384 |
+| Stars | 31,153 |
+| Forks | 2,386 |
+| Stars this week | 272 |
 
 ---
 
-## 18. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) 🆕
+## 16. [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) 🆕
 
-Modern Docker Management, Designed for Everyone
+BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,931 |
-| Forks | 461 |
-| Stars this week | 199 |
+| Stars | 16,410 |
+| Forks | 1,831 |
+| Stars this week | 192 |
+
+---
+
+## 17. [navidrome/navidrome](https://github.com/navidrome/navidrome) 🆕
+
+🎧 Your Personal Streaming Service
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 24,826 |
+| Forks | 1,821 |
+| Stars this week | 189 |
 
 ---

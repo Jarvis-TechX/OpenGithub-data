@@ -1,165 +1,163 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-17T07:49:09Z
+**Snapshot Time:** 2026-11-18T07:18:24Z
 **Total Repositories:** 12
 **New Entries:** 10
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE) 🆕
-
-PCL 社区版 由社区开发者维护与管理
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,156 |
-| Forks | 490 |
-| Stars today | 13 |
-
----
-
-## 2. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) 🆕
-
-The Free Software Media System - Server Backend & API
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 59,452 |
-| Forks | 5,826 |
-| Stars today | 38 |
-
----
-
-## 3. [ppy/osu](https://github.com/ppy/osu) 🆕
+## 1. [ppy/osu](https://github.com/ppy/osu)
 
 rhythm is just a *click* away!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,465 |
-| Forks | 2,898 |
+| Stars | 19,479 |
+| Forks | 2,900 |
 | Stars today | 22 |
 
 ---
 
-## 4. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
+## 2. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) 🆕
 
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 120,795 |
-| Forks | 16,340 |
-| Stars today | 88 |
-
----
-
-## 5. [openutau/OpenUtau](https://github.com/openutau/OpenUtau)
-
-Open singing synthesis platform / Open source UTAU successor
+Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,597 |
-| Forks | 602 |
-| Stars today | 5 |
+| Stars | 12,495 |
+| Forks | 548 |
+| Stars today | 537 |
 
 ---
 
-## 6. [madoiscool/LuaTools](https://github.com/madoiscool/LuaTools) 🆕
+## 3. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
 
-AppID Manager for ST
+Movie organizer/manager for usenet and torrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 959 |
-| Forks | 104 |
-| Stars today | 4 |
+| Stars | 14,811 |
+| Forks | 1,264 |
+| Stars today | 14 |
 
 ---
 
-## 7. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 🆕
+## 4. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🆕
 
-the subtitle editor :)
+Integrate cutting-edge LLM technology quickly and easily into your apps
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,027 |
-| Forks | 1,381 |
-| Stars today | 13 |
+| Stars | 28,787 |
+| Forks | 4,858 |
+| Stars today | 6 |
 
 ---
 
-## 8. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
+## 5. [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) 🆕
 
-A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
+Technitium DNS Server
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 786 |
-| Forks | 79 |
-| Stars today | 39 |
+| Stars | 10,399 |
+| Forks | 826 |
+| Stars today | 9 |
 
 ---
 
-## 9. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
+## 6. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) 🆕
 
-OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 33,365 |
-| Forks | 2,278 |
-| Stars today | 39 |
+| Stars | 27,096 |
+| Forks | 983 |
+| Stars today | 30 |
 
 ---
 
-## 10. [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) 🆕
+## 7. [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) 🆕
 
-Downloads videos and playlists from YouTube
+AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 16,738 |
-| Forks | 2,110 |
-| Stars today | 17 |
+| Stars | 4,659 |
+| Forks | 411 |
+| Stars today | 9 |
 
 ---
 
-## 11. [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) 🆕
-
-Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 7,606 |
-| Forks | 436 |
-| Stars today | 10 |
-
----
-
-## 12. [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) 🆕
+## 8. [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader)
 
 Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,064 |
-| Forks | 356 |
+| Stars | 4,078 |
+| Forks | 357 |
 | Stars today | 14 |
+
+---
+
+## 9. [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) 🆕
+
+Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 4,093 |
+| Forks | 305 |
+| Stars today | 5 |
+
+---
+
+## 10. [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) 🆕
+
+Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 10,675 |
+| Forks | 1,713 |
+| Stars today | 5 |
+
+---
+
+## 11. [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) 🆕
+
+Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 2,637 |
+| Forks | 652 |
+
+---
+
+## 12. [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) 🆕
+
+Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,286 |
+| Forks | 2,956 |
 
 ---

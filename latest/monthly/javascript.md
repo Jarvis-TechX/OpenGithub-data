@@ -1,10 +1,10 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-17T07:49:34Z
-**Total Repositories:** 11
-**New Entries:** 1
-**Quality Score:** 96.36/100
+**Snapshot Time:** 2026-11-18T07:18:48Z
+**Total Repositories:** 12
+**New Entries:** 3
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 74,173 |
-| Forks | 4,966 |
-| Stars this month | 43,924 |
+| Stars | 74,985 |
+| Forks | 5,031 |
+| Stars this month | 44,314 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 117,128 |
-| Forks | 7,839 |
-| Stars this month | 19,384 |
+| Stars | 117,965 |
+| Forks | 7,891 |
+| Stars this month | 19,688 |
 
 ---
 
@@ -41,9 +41,9 @@ For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,199 |
-| Forks | 141 |
-| Stars this month | 1,519 |
+| Stars | 2,226 |
+| Forks | 144 |
+| Stars this month | 1,529 |
 
 ---
 
@@ -54,9 +54,9 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 23,275 |
-| Forks | 1,320 |
-| Stars this month | 5,737 |
+| Stars | 23,453 |
+| Forks | 1,331 |
+| Stars this month | 5,906 |
 
 ---
 
@@ -67,9 +67,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 22,306 |
-| Forks | 2,968 |
-| Stars this month | 9,326 |
+| Stars | 22,603 |
+| Forks | 3,003 |
+| Stars this month | 9,515 |
 
 ---
 
@@ -80,9 +80,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 118,699 |
-| Forks | 37,014 |
-| Stars this month | 2,270 |
+| Stars | 118,791 |
+| Forks | 37,024 |
+| Stars this month | 2,339 |
 
 ---
 
@@ -93,20 +93,22 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 40,224 |
-| Forks | 2,902 |
-| Stars this month | 17,073 |
+| Stars | 40,372 |
+| Forks | 2,909 |
+| Stars this month | 16,399 |
 
 ---
 
-## 8. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+## 8. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 🆕
+
+Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,720 |
-| Forks | 1,255 |
-| Stars this month | 2,912 |
+| Stars | 61,098 |
+| Forks | 8,907 |
+| Stars this month | 5,960 |
 
 ---
 
@@ -117,34 +119,47 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 15,326 |
-| Forks | 1,741 |
-| Stars this month | 2,426 |
+| Stars | 15,403 |
+| Forks | 1,746 |
+| Stars this month | 2,473 |
 
 ---
 
-## 10. [jquery/jquery](https://github.com/jquery/jquery)
+## 10. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) 🆕
 
-jQuery JavaScript Library
+A fancy self-hosted monitoring tool
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 59,915 |
-| Forks | 20,690 |
-| Stars this month | 380 |
+| Stars | 94,574 |
+| Forks | 8,866 |
+| Stars this month | 2,189 |
 
 ---
 
-## 11. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 🆕
+## 11. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 🆕
+
+Production-grade engineering skills for AI coding agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 118,736 |
+| Forks | 12,378 |
+| Stars this month | 11,397 |
+
+---
+
+## 12. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
 Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 35,071 |
-| Forks | 6,732 |
-| Stars this month | 4,570 |
+| Stars | 35,215 |
+| Forks | 6,764 |
+| Stars this month | 4,620 |
 
 ---

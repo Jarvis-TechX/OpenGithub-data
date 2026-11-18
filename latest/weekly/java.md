@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-17T07:49:26Z
+**Snapshot Time:** 2026-11-18T07:18:40Z
 **Total Repositories:** 18
-**New Entries:** 5
+**New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ All Algorithms implemented in Java
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 67,264 |
-| Forks | 21,532 |
-| Stars this week | 503 |
+| Stars | 67,275 |
+| Forks | 21,533 |
+| Stars this week | 478 |
 
 ---
 
@@ -28,35 +28,35 @@ Free and Open Source, Distributed, RESTful Search Engine
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,681 |
-| Forks | 26,230 |
-| Stars this week | 237 |
+| Stars | 78,787 |
+| Forks | 26,280 |
+| Stars this week | 412 |
 
 ---
 
-## 3. [keycloak/keycloak](https://github.com/keycloak/keycloak)
-
-Open Source Identity and Access Management For Modern Applications and Services
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 37,900 |
-| Forks | 9,200 |
-| Stars this week | 131 |
-
----
-
-## 4. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+## 3. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 
 A libre lightweight streaming front-end for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,775 |
-| Forks | 4,007 |
-| Stars this week | 249 |
+| Stars | 40,788 |
+| Forks | 4,004 |
+| Stars this week | 254 |
+
+---
+
+## 4. [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
+
+The main repository of Telegram X — official alternative Telegram client for Android.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 6,211 |
+| Forks | 1,200 |
+| Stars this week | 34 |
 
 ---
 
@@ -67,177 +67,177 @@ Learn System Design concepts and prepare for interviews using free resources.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 43,444 |
-| Forks | 8,972 |
-| Stars this week | 279 |
+| Stars | 43,466 |
+| Forks | 8,975 |
+| Stars this week | 285 |
 
 ---
 
-## 6. [RikkaApps/Sui](https://github.com/RikkaApps/Sui) 🆕
+## 6. [xD3I/PZ_Optimization](https://github.com/xD3I/PZ_Optimization) 🆕
 
-Modern super user interface implementation on Android.
+Project Zomboid Build 42 performance work: class overrides, harness, findings
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,387 |
-| Forks | 497 |
-| Stars this week | 27 |
+| Stars | 233 |
+| Forks | 31 |
+| Stars this week | 37 |
 
 ---
 
-## 7. [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
-
-The main repository of Telegram X — official alternative Telegram client for Android.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 6,204 |
-| Forks | 1,200 |
-| Stars this week | 31 |
-
----
-
-## 8. [termux/termux-x11](https://github.com/termux/termux-x11) 🆕
-
-Termux X-server add-on.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 5,160 |
-| Forks | 837 |
-| Stars this week | 58 |
-
----
-
-## 9. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)
+## 7. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)
 
 Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,376 |
-| Forks | 83 |
-| Stars this week | 168 |
+| Stars | 1,393 |
+| Forks | 85 |
+| Stars this week | 171 |
 
 ---
 
-## 10. [termux/termux-app](https://github.com/termux/termux-app)
+## 8. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
 
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
+Browse media content with your own rules on Android TV
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,044 |
-| Forks | 8,335 |
-| Stars this week | 568 |
+| Stars | 36,433 |
+| Forks | 2,341 |
+| Stars this week | 282 |
 
 ---
 
-## 11. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 81,888 |
-| Forks | 42,724 |
-| Stars this week | 205 |
-
----
-
-## 12. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
+## 9. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
 
 Jenkins automation server
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,782 |
-| Forks | 9,835 |
-| Stars this week | 49 |
+| Stars | 26,792 |
+| Forks | 9,839 |
+| Stars this week | 48 |
 
 ---
 
-## 13. [LiteLDev/LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android) 🆕
+## 10. [LiteLDev/LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android)
 
 LeviLauncher for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 721 |
+| Stars | 724 |
 | Forks | 200 |
-| Stars this week | 37 |
+| Stars this week | 38 |
 
 ---
 
-## 14. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+## 11. [termux/termux-x11](https://github.com/termux/termux-x11)
+
+Termux X-server add-on.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,171 |
+| Forks | 837 |
+| Stars this week | 64 |
+
+---
+
+## 12. [keycloak/keycloak](https://github.com/keycloak/keycloak)
+
+Open Source Identity and Access Management For Modern Applications and Services
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 37,922 |
+| Forks | 9,204 |
+| Stars this week | 125 |
+
+---
+
+## 13. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 81,996 |
+| Forks | 42,761 |
+| Stars this week | 363 |
+
+---
+
+## 14. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
+
+Build distributed, production-grade, long-running agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 6,406 |
+| Forks | 1,621 |
+| Stars this week | 86 |
+
+---
+
+## 15. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
 
 LSPosed Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 25,526 |
+| Stars | 25,542 |
 | Forks | 3,595 |
-| Stars this week | 144 |
+| Stars this week | 142 |
 
 ---
 
-## 15. [apache/fineract](https://github.com/apache/fineract)
+## 16. [termux/termux-app](https://github.com/termux/termux-app)
 
-Apache Fineract
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,631 |
-| Forks | 2,976 |
-| Stars this week | 20 |
+| Stars | 65,105 |
+| Forks | 8,351 |
+| Stars this week | 566 |
 
 ---
 
-## 16. [freerouting/freerouting](https://github.com/freerouting/freerouting)
+## 17. [freerouting/freerouting](https://github.com/freerouting/freerouting)
 
 Advanced PCB auto-router
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,242 |
+| Stars | 2,247 |
 | Forks | 363 |
 | Stars this week | 42 |
 
 ---
 
-## 17. [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) 🆕
+## 18. [apache/kafka](https://github.com/apache/kafka) 🆕
 
-Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 1,862 |
-| Forks | 756 |
-| Stars this week | 18 |
-
----
-
-## 18. [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) 🆕
-
-Open-source third-party Telegram client with not many but useful modifications.
+Apache Kafka - A distributed event streaming platform
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,029 |
-| Forks | 336 |
-| Stars this week | 39 |
+| Stars | 34,228 |
+| Forks | 15,705 |
+| Stars this week | 42 |
 
 ---

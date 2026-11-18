@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-17T07:49:27Z
+**Snapshot Time:** 2026-11-18T07:18:41Z
 **Total Repositories:** 15
-**New Entries:** 1
+**New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Uninstall any Android app without root (with power of Shizuku). Debloat your dev
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,452 |
-| Forks | 180 |
-| Stars this week | 510 |
+| Stars | 7,505 |
+| Forks | 182 |
+| Stars this week | 501 |
 
 ---
 
@@ -28,9 +28,9 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,494 |
-| Forks | 504 |
-| Stars this week | 2,673 |
+| Stars | 6,662 |
+| Forks | 525 |
+| Stars this week | 2,520 |
 
 ---
 
@@ -41,9 +41,9 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,227 |
-| Forks | 430 |
-| Stars this week | 1,286 |
+| Stars | 8,343 |
+| Forks | 440 |
+| Stars this week | 1,265 |
 
 ---
 
@@ -54,48 +54,48 @@ A modern, cool, sleek music player. made with <3
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,891 |
-| Forks | 94 |
-| Stars this week | 594 |
+| Stars | 1,971 |
+| Forks | 96 |
+| Stars this week | 582 |
 
 ---
 
-## 5. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
-
-Android app for streaming and downloading media.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 11,329 |
-| Forks | 1,224 |
-| Stars this week | 141 |
-
----
-
-## 6. [tiann/KernelSU](https://github.com/tiann/KernelSU)
-
-A Kernel based root solution for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 20,661 |
-| Forks | 5,120 |
-| Stars this week | 316 |
-
----
-
-## 7. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+## 5. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,505 |
-| Forks | 790 |
-| Stars this week | 420 |
+| Stars | 13,556 |
+| Forks | 794 |
+| Stars this week | 417 |
+
+---
+
+## 6. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
+
+使用 Material Design 3 全新设计的阅读 3.0
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,076 |
+| Forks | 825 |
+| Stars this week | 145 |
+
+---
+
+## 7. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store)
+
+The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,213 |
+| Forks | 144 |
+| Stars this week | 182 |
 
 ---
 
@@ -106,99 +106,99 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 44,915 |
-| Forks | 2,141 |
-| Stars this week | 565 |
+| Stars | 44,976 |
+| Forks | 2,140 |
+| Stars this week | 539 |
 
 ---
 
-## 9. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
-
-A Download Manager that speeds up your downloads
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 19,337 |
-| Forks | 1,031 |
-| Stars this week | 224 |
-
----
-
-## 10. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store)
-
-The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,199 |
-| Forks | 144 |
-| Stars this week | 179 |
-
----
-
-## 11. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
-
-使用 Material Design 3 全新设计的阅读 3.0
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,057 |
-| Forks | 825 |
-| Stars this week | 145 |
-
----
-
-## 12. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+## 9. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
 
 Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 33,897 |
-| Forks | 3,687 |
-| Stars this week | 639 |
+| Stars | 33,983 |
+| Forks | 3,707 |
+| Stars this week | 643 |
 
 ---
 
-## 13. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) 🆕
+## 10. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer)
 
 WhatsApp tools for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,897 |
-| Forks | 265 |
-| Stars this week | 39 |
+| Stars | 1,901 |
+| Forks | 267 |
+| Stars this week | 38 |
 
 ---
 
-## 14. [aistra0528/Hail](https://github.com/aistra0528/Hail)
+## 11. [aistra0528/Hail](https://github.com/aistra0528/Hail)
 
 Disable / Hide / Suspend / Uninstall Android apps without root.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,336 |
-| Forks | 285 |
-| Stars this week | 129 |
+| Stars | 7,356 |
+| Forks | 288 |
+| Stars this week | 127 |
 
 ---
 
-## 15. [sameerasw/essentials](https://github.com/sameerasw/essentials)
+## 12. [tiann/KernelSU](https://github.com/tiann/KernelSU)
 
-Essential tools and mods for Android nerds
+A Kernel based root solution for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,922 |
-| Forks | 111 |
-| Stars this week | 174 |
+| Stars | 20,704 |
+| Forks | 5,137 |
+| Stars this week | 297 |
+
+---
+
+## 13. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
+
+A V2Ray client for Android, support Xray core and v2fly core
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 66,098 |
+| Forks | 8,678 |
+| Stars this week | 461 |
+
+---
+
+## 14. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+
+Android app for streaming and downloading media.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 11,343 |
+| Forks | 1,227 |
+| Stars this week | 127 |
+
+---
+
+## 15. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid) 🆕
+
+Android GUI proxy utility (Empowered by sing-box)
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 844 |
+| Forks | 43 |
+| Stars this week | 76 |
 
 ---

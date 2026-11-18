@@ -1,49 +1,49 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-17T07:49:10Z
-**Total Repositories:** 12
-**New Entries:** 8
+**Snapshot Time:** 2026-11-18T07:18:25Z
+**Total Repositories:** 13
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [Xplo8E/Liter8](https://github.com/Xplo8E/Liter8) 🆕
-
-Tethered iOS 27 jailbreak
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 230 |
-| Forks | 40 |
-| Stars today | 31 |
-
----
-
-## 2. [Mak5er/AirCard](https://github.com/Mak5er/AirCard) 🆕
-
-Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 7,148 |
-| Forks | 513 |
-| Stars today | 9 |
-
----
-
-## 3. [apple/container](https://github.com/apple/container) 🆕
+## 1. [apple/container](https://github.com/apple/container)
 
 A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 51,787 |
-| Forks | 1,840 |
-| Stars today | 106 |
+| Stars | 51,873 |
+| Forks | 1,846 |
+| Stars today | 222 |
+
+---
+
+## 2. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
+
+iOS 27 MobileGestalt editor
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,240 |
+| Forks | 95 |
+| Stars today | 43 |
+
+---
+
+## 3. [Xplo8E/Liter8](https://github.com/Xplo8E/Liter8)
+
+Tethered iOS 27 jailbreak
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 236 |
+| Forks | 41 |
+| Stars today | 12 |
 
 ---
 
@@ -54,61 +54,61 @@ iOS 27+ 本机虚拟定位与步行路线测试工具
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 961 |
-| Forks | 144 |
-| Stars today | 32 |
+| Stars | 987 |
+| Forks | 145 |
+| Stars today | 24 |
 
 ---
 
-## 5. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) 🆕
+## 5. [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) 🆕
 
-iOS 27 MobileGestalt editor
+Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,214 |
-| Forks | 93 |
-| Stars today | 125 |
-
----
-
-## 6. [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll)
-
-Dynamic Island for macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 5,289 |
-| Forks | 389 |
+| Stars | 7,425 |
+| Forks | 484 |
 | Stars today | 12 |
 
 ---
 
-## 7. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
-
-Telegram-iOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,448 |
-| Forks | 3,315 |
-| Stars today | 4 |
-
----
-
-## 8. [consolelabs/hidden](https://github.com/consolelabs/hidden) 🆕
+## 6. [consolelabs/hidden](https://github.com/consolelabs/hidden)
 
 An ultra-light MacOS utility that helps hide menu bar icons
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,438 |
+| Stars | 15,460 |
 | Forks | 542 |
-| Stars today | 19 |
+| Stars today | 20 |
+
+---
+
+## 7. [github/CopilotForXcode](https://github.com/github/CopilotForXcode) 🆕
+
+AI coding assistant for Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,398 |
+| Forks | 2,107 |
+| Stars today | 3 |
+
+---
+
+## 8. [robinebers/openusage](https://github.com/robinebers/openusage) 🆕
+
+Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,605 |
+| Forks | 559 |
+| Stars today | 4 |
 
 ---
 
@@ -119,47 +119,60 @@ Nuvio tvOS client
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 439 |
-| Forks | 47 |
-| Stars today | 9 |
+| Stars | 442 |
+| Forks | 48 |
+| Stars today | 6 |
 
 ---
 
-## 10. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+## 10. [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 🆕
 
-Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight! Android, Linux waitlist open! A local Wispr Flow alternative. Followhttps://x.com/fluidvoiceappfor more
+🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 13,106 |
-| Forks | 989 |
-| Stars today | 26 |
+| Stars | 34,765 |
+| Forks | 1,045 |
+| Stars today | 17 |
 
 ---
 
-## 11. [yattee/yattee](https://github.com/yattee/yattee) 🆕
+## 11. [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) 🆕
 
-Privacy oriented video player for iOS, tvOS and macOS
+An iOS library to natively render After Effects vector animations
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,824 |
-| Forks | 191 |
+| Stars | 26,945 |
+| Forks | 3,838 |
+| Stars today | 2 |
+
+---
+
+## 12. [Finb/Bark](https://github.com/Finb/Bark) 🆕
+
+Bark is an iOS App which allows you to push custom notifications to your iPhone
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,590 |
+| Forks | 763 |
 | Stars today | 5 |
 
 ---
 
-## 12. [openai/tart](https://github.com/openai/tart) 🆕
+## 13. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) 🆕
 
-macOS and Linux VMs on Apple Silicon to use in CI and other automations
+Run a virtual iPhone on an Apple Silicon Mac.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,937 |
-| Forks | 438 |
+| Stars | 16,725 |
+| Forks | 1,963 |
 | Stars today | 16 |
 
 ---

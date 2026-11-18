@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-17T07:49:28Z
-**Total Repositories:** 15
-**New Entries:** 3
-**Quality Score:** 100.00/100
+**Snapshot Time:** 2026-11-18T07:18:42Z
+**Total Repositories:** 17
+**New Entries:** 4
+**Quality Score:** 97.65/100
 
 ---
 
@@ -15,9 +15,9 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,243 |
-| Forks | 495 |
-| Stars this week | 376 |
+| Stars | 6,266 |
+| Forks | 499 |
+| Stars this week | 380 |
 
 ---
 
@@ -28,22 +28,22 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 12,104 |
-| Forks | 528 |
-| Stars this week | 481 |
+| Stars | 12,495 |
+| Forks | 548 |
+| Stars this week | 900 |
 
 ---
 
-## 3. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+## 3. [ppy/osu](https://github.com/ppy/osu)
 
-A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+rhythm is just a *click* away!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,285 |
-| Forks | 4,106 |
-| Stars this week | 149 |
+| Stars | 19,479 |
+| Forks | 2,900 |
+| Stars this week | 95 |
 
 ---
 
@@ -54,35 +54,35 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,215 |
-| Forks | 8,540 |
-| Stars this week | 157 |
+| Stars | 56,226 |
+| Forks | 8,543 |
+| Stars this week | 151 |
 
 ---
 
-## 5. [ShareX/ShareX](https://github.com/ShareX/ShareX)
+## 5. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
-ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 41,092 |
-| Forks | 4,087 |
-| Stars this week | 218 |
+| Stars | 39,299 |
+| Forks | 4,112 |
+| Stars this week | 140 |
 
 ---
 
-## 6. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
+## 6. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
 
-FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
+UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,207 |
-| Forks | 246 |
-| Stars this week | 253 |
+| Stars | 27,096 |
+| Forks | 983 |
+| Stars this week | 151 |
 
 ---
 
@@ -93,35 +93,35 @@ A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, musi
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 786 |
-| Forks | 79 |
-| Stars this week | 229 |
+| Stars | 807 |
+| Forks | 84 |
+| Stars this week | 250 |
 
 ---
 
-## 8. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
+## 8. [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) 🆕
 
-UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+Downloads videos and playlists from YouTube
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,080 |
-| Forks | 982 |
-| Stars this week | 142 |
+| Stars | 16,754 |
+| Forks | 2,113 |
+| Stars this week | 77 |
 
 ---
 
-## 9. [ppy/osu](https://github.com/ppy/osu) 🆕
+## 9. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
 
-rhythm is just a *click* away!
+FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,465 |
-| Forks | 2,898 |
-| Stars this week | 78 |
+| Stars | 7,282 |
+| Forks | 248 |
+| Stars this week | 247 |
 
 ---
 
@@ -132,73 +132,97 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,531 |
-| Forks | 11,563 |
-| Stars this week | 38 |
+| Stars | 38,535 |
+| Forks | 11,565 |
+| Stars this week | 39 |
 
 ---
 
-## 11. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
-
-A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 120,795 |
-| Forks | 16,340 |
-| Stars this week | 568 |
-
----
-
-## 12. [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-
-Windows/macOS/Linux GUI client for GIT users
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 6,520 |
-| Forks | 619 |
-| Stars this week | 88 |
-
----
-
-## 13. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
+## 11. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
 
 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,604 |
+| Stars | 27,625 |
 | Forks | 1,761 |
-| Stars this week | 181 |
+| Stars this week | 166 |
 
 ---
 
-## 14. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+## 12. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) 🆕
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 13,865 |
+| Forks | 1,212 |
+| Stars this week | 60 |
+
+---
+
+## 13. [ShareX/ShareX](https://github.com/ShareX/ShareX)
+
+ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 41,128 |
+| Forks | 4,088 |
+| Stars this week | 219 |
+
+---
+
+## 14. [2dust/v2rayN](https://github.com/2dust/v2rayN)
+
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 120,852 |
+| Forks | 16,350 |
+| Stars this week | 574 |
+
+---
+
+## 15. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
+
+Movie organizer/manager for usenet and torrent users.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 14,811 |
+| Forks | 1,264 |
+| Stars this week | 70 |
+
+---
+
+## 16. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,747 |
-| Forks | 306 |
-| Stars this week | 120 |
+| Stars | 4,749 |
+| Forks | 307 |
+| Stars this week | 125 |
 
 ---
 
-## 15. [actions/runner](https://github.com/actions/runner) 🆕
+## 17. [dotnet/runtime](https://github.com/dotnet/runtime) 🆕
 
-The Runner for GitHub Actions 🚀
+.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,399 |
-| Forks | 1,496 |
-| Stars this week | 17 |
+| Stars | 18,453 |
+| Forks | 5,821 |
+| Stars this week | 34 |
 
 ---

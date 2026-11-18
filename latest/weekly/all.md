@@ -1,191 +1,191 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-17T07:49:12Z
+**Snapshot Time:** 2026-11-18T07:18:27Z
 **Total Repositories:** 14
 **New Entries:** 4
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) 🆕
+## 1. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
 
 Keep your coding agent up to date with the latest web best practices
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,153 |
-| Forks | 706 |
-| Stars this week | 6,542 |
+| Stars | 8,560 |
+| Forks | 731 |
+| Stars this week | 7,015 |
 
 ---
 
-## 2. [meta/astryx](https://github.com/meta/astryx)
-
-An open source design system that's fully customizable and agent ready
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 29,812 |
-| Forks | 2,321 |
-| Stars this week | 10,939 |
-
----
-
-## 3. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+## 2. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 
 The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,799 |
-| Forks | 1,271 |
-| Stars this week | 2,325 |
+| Stars | 13,181 |
+| Forks | 1,320 |
+| Stars this week | 2,926 |
 
 ---
 
-## 4. [anthropics/skills](https://github.com/anthropics/skills)
+## 3. [meta/astryx](https://github.com/meta/astryx)
 
-Public repository for Agent Skills
+An open source design system that's fully customizable and agent ready
 
 | Metric | Value |
 |--------|-------|
-| Language | Python |
-| Stars | 196,265 |
-| Forks | 23,035 |
-| Stars this week | 5,666 |
+| Language | TypeScript |
+| Stars | 30,301 |
+| Forks | 2,366 |
+| Stars this week | 8,700 |
 
 ---
 
-## 5. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
-
-Browser automation CLI for AI agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 52,156 |
-| Forks | 3,648 |
-| Stars this week | 3,760 |
-
----
-
-## 6. [we-promise/sure](https://github.com/we-promise/sure)
+## 4. [we-promise/sure](https://github.com/we-promise/sure)
 
 The personal finance app for everyone (by everyone)
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,088 |
-| Forks | 1,398 |
-| Stars this week | 4,679 |
+| Stars | 16,326 |
+| Forks | 1,423 |
+| Stars this week | 4,786 |
 
 ---
 
-## 7. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+## 5. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
 
 LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 72,922 |
-| Forks | 57,710 |
-| Stars this week | 4,355 |
+| Stars | 73,177 |
+| Forks | 57,823 |
+| Stars this week | 3,653 |
 
 ---
 
-## 8. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+## 6. [anthropics/skills](https://github.com/anthropics/skills)
 
-Hunt down social media accounts by username across social networks
+Public repository for Agent Skills
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 113,374 |
-| Forks | 13,057 |
-| Stars this week | 7,067 |
+| Stars | 196,894 |
+| Forks | 23,072 |
+| Stars this week | 4,847 |
 
 ---
 
-## 9. [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
+## 7. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) 🆕
 
-Open-source plugin for designing and reviewing software with agents
+A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 20,513 |
-| Forks | 1,519 |
-| Stars this week | 4,249 |
+| Stars | 9,898 |
+| Forks | 1,400 |
+| Stars this week | 2,508 |
 
 ---
 
-## 10. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
-
-Multi-Joint dynamics with Contact. A general purpose physics simulator.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 18,215 |
-| Forks | 2,207 |
-| Stars this week | 1,448 |
-
----
-
-## 11. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) 🆕
+## 8. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
 
 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 53,209 |
-| Forks | 4,361 |
-| Stars this week | 3,056 |
+| Stars | 53,954 |
+| Forks | 4,449 |
+| Stars this week | 3,675 |
 
 ---
 
-## 12. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+## 9. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 
-Production-grade engineering skills for AI coding agents.
+Browser automation CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
-| Language | JavaScript |
-| Stars | 118,440 |
-| Forks | 12,360 |
-| Stars this week | 3,960 |
+| Language | Rust |
+| Stars | 52,465 |
+| Forks | 3,669 |
+| Stars this week | 3,429 |
 
 ---
 
-## 13. [openai/codex-security](https://github.com/openai/codex-security) 🆕
+## 10. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) 🆕
+
+Chrome DevTools for coding agents
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 58,111 |
+| Forks | 4,874 |
+| Stars this week | 2,948 |
+
+---
+
+## 11. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) 🆕
+
+Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 6,937 |
+| Forks | 1,415 |
+| Stars this week | 2,985 |
+
+---
+
+## 12. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) 🆕
+
+A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 10,211 |
+| Forks | 1,335 |
+| Stars this week | 1,197 |
+
+---
+
+## 13. [openai/codex-security](https://github.com/openai/codex-security)
 
 OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,833 |
-| Forks | 1,083 |
-| Stars this week | 2,352 |
+| Stars | 14,012 |
+| Forks | 1,095 |
+| Stars this week | 2,531 |
 
 ---
 
-## 14. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) 🆕
+## 14. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
-An open-source AI coding agent that lives in your terminal.
+Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
-| Language | TypeScript |
-| Stars | 30,689 |
-| Forks | 3,554 |
-| Stars this week | 1,497 |
+| Language | JavaScript |
+| Stars | 118,736 |
+| Forks | 12,378 |
+| Stars this week | 3,884 |
 
 ---

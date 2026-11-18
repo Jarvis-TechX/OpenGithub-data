@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-17T07:49:49Z
-**Total Repositories:** 16
-**New Entries:** 3
+**Snapshot Time:** 2026-11-18T07:19:05Z
+**Total Repositories:** 18
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Free up your Mac. Safely. A free, open-source native Mac app that clears the cac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,944 |
+| Stars | 1,964 |
 | Forks | 107 |
-| Stars this month | 690 |
+| Stars this month | 696 |
 
 ---
 
@@ -28,48 +28,48 @@ Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,968 |
+| Stars | 1,988 |
 | Forks | 108 |
-| Stars this month | 1,286 |
+| Stars this month | 1,313 |
 
 ---
 
-## 3. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+## 3. [pauljoda/Crest](https://github.com/pauljoda/Crest) 🆕
 
-无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+An open source browser for Mac, iPhone, and iPad.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,981 |
-| Forks | 310 |
-| Stars this month | 1,071 |
+| Stars | 1,348 |
+| Forks | 133 |
+| Stars this month | 951 |
 
 ---
 
-## 4. [claration/feather](https://github.com/claration/feather)
-
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 5,130 |
-| Forks | 490 |
-| Stars this month | 309 |
-
----
-
-## 5. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
+## 4. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
 
 iOS 27 MobileGestalt editor
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,214 |
-| Forks | 93 |
-| Stars this month | 377 |
+| Stars | 1,240 |
+| Forks | 95 |
+| Stars this month | 423 |
+
+---
+
+## 5. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+
+无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,019 |
+| Forks | 317 |
+| Stars this month | 1,097 |
 
 ---
 
@@ -80,48 +80,48 @@ A toolkit for SQLite databases, with a focus on application development
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,752 |
+| Stars | 8,751 |
 | Forks | 1,116 |
-| Stars this month | 67 |
+| Stars this month | 68 |
 
 ---
 
-## 7. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
+## 7. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit) 🆕
 
-A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
+Conduit — native SwiftUI iOS client for Hermes Agent
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 484 |
-| Forks | 154 |
-| Stars this month | 93 |
+| Stars | 627 |
+| Forks | 91 |
+| Stars this month | 306 |
 
 ---
 
-## 8. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+## 8. [claration/feather](https://github.com/claration/feather)
+
+Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 5,143 |
+| Forks | 490 |
+| Stars this month | 318 |
+
+---
+
+## 9. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 
 Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,805 |
+| Stars | 28,814 |
 | Forks | 2,677 |
-| Stars this month | 831 |
-
----
-
-## 9. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
-
-Run iOS apps without actually installing them!
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 14,330 |
-| Forks | 1,331 |
-| Stars this month | 1,558 |
+| Stars this month | 835 |
 
 ---
 
@@ -132,9 +132,9 @@ An an app that installs Sidestore on iOS 27, fully on-device
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,463 |
-| Forks | 118 |
-| Stars this month | 402 |
+| Stars | 1,479 |
+| Forks | 120 |
+| Stars this month | 408 |
 
 ---
 
@@ -145,73 +145,99 @@ bluetooth mesh chat, IRC vibes
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 37,164 |
-| Forks | 5,896 |
-| Stars this month | 651 |
+| Stars | 37,174 |
+| Forks | 5,898 |
+| Stars this month | 636 |
 
 ---
 
-## 12. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
+## 12. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
+
+A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 485 |
+| Forks | 153 |
+| Stars this month | 95 |
+
+---
+
+## 13. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+
+Run iOS apps without actually installing them!
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,372 |
+| Forks | 1,336 |
+| Stars this month | 1,565 |
+
+---
+
+## 14. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
 
 AI coding assistant for Xcode
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,394 |
-| Forks | 2,106 |
+| Stars | 6,398 |
+| Forks | 2,107 |
 | Stars this month | 76 |
 
 ---
 
-## 13. [momenbasel/PureMac](https://github.com/momenbasel/PureMac) 🆕
+## 15. [farzaa/clicky](https://github.com/farzaa/clicky) 🆕
 
-Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 7,830 |
-| Forks | 456 |
-| Stars this month | 694 |
-
----
-
-## 14. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
-
-Telegram-iOS
+The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,448 |
-| Forks | 3,315 |
-| Stars this month | 244 |
+| Stars | 8,036 |
+| Forks | 1,608 |
+| Stars this month | 329 |
 
 ---
 
-## 15. [swiftlang/swift](https://github.com/swiftlang/swift) 🆕
+## 16. [suversal/WrapPin](https://github.com/suversal/WrapPin) 🆕
+
+iOS 27+ 本机虚拟定位与步行路线测试工具
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 987 |
+| Forks | 145 |
+| Stars this month | 437 |
+
+---
+
+## 17. [swiftlang/swift](https://github.com/swiftlang/swift)
 
 The Swift Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 70,562 |
-| Forks | 10,902 |
-| Stars this month | 148 |
+| Stars | 70,566 |
+| Forks | 10,905 |
+| Stars this month | 146 |
 
 ---
 
-## 16. [ob-f/OpenBot](https://github.com/ob-f/OpenBot) 🆕
+## 18. [Finb/Bark](https://github.com/Finb/Bark) 🆕
 
-OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.
+Bark is an iOS App which allows you to push custom notifications to your iPhone
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,669 |
-| Forks | 699 |
-| Stars this month | 140 |
+| Stars | 9,590 |
+| Forks | 763 |
+| Stars this month | 280 |
 
 ---

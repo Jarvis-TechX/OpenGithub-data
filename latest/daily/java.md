@@ -1,229 +1,203 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-17T07:49:07Z
-**Total Repositories:** 17
-**New Entries:** 13
+**Snapshot Time:** 2026-11-18T07:18:22Z
+**Total Repositories:** 15
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [cabaletta/baritone](https://github.com/cabaletta/baritone)
+## 1. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) 🆕
 
-google maps for block game
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 9,360 |
-| Forks | 2,084 |
-| Stars today | 5 |
-
----
-
-## 2. [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) 🆕
-
-Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,214 |
-| Forks | 385 |
-| Stars today | 11 |
+| Stars | 81,996 |
+| Forks | 42,761 |
+| Stars today | 187 |
 
 ---
 
-## 3. [termux/termux-app](https://github.com/termux/termux-app)
-
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 65,044 |
-| Forks | 8,335 |
-| Stars today | 85 |
-
----
-
-## 4. [LiteLDev/LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android) 🆕
-
-LeviLauncher for Android
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 721 |
-| Forks | 200 |
-| Stars today | 7 |
-
----
-
-## 5. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
-
-Free and Open Source, Distributed, RESTful Search Engine
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 78,681 |
-| Forks | 26,230 |
-| Stars today | 38 |
-
----
-
-## 6. [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
-
-Learn Low Level Design (LLD) and prepare for interviews using free resources.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 28,126 |
-| Forks | 6,712 |
-| Stars today | 33 |
-
----
-
-## 7. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) 🆕
+## 2. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)
 
 Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,376 |
-| Forks | 83 |
-| Stars today | 70 |
+| Stars | 1,393 |
+| Forks | 85 |
+| Stars today | 18 |
 
 ---
 
-## 8. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) 🆕
+## 3. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) 🆕
 
-No clever tagline needed.
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,958 |
-| Forks | 1,816 |
-| Stars today | 11 |
+| Stars | 4,475 |
+| Forks | 861 |
+| Stars today | 7 |
 
 ---
 
-## 9. [mlmvpn/mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) 🆕
+## 4. [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) 🆕
 
-Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
+IntelliJ IDEA & IntelliJ Platform
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 733 |
-| Forks | 119 |
+| Stars | 20,740 |
+| Forks | 6,154 |
 | Stars today | 9 |
 
 ---
 
-## 10. [RikkaApps/Sui](https://github.com/RikkaApps/Sui) 🆕
+## 5. [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
 
-Modern super user interface implementation on Android.
+Learn Low Level Design (LLD) and prepare for interviews using free resources.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,387 |
-| Forks | 497 |
+| Stars | 28,143 |
+| Forks | 6,712 |
+| Stars today | 21 |
+
+---
+
+## 6. [kestra-io/kestra](https://github.com/kestra-io/kestra) 🆕
+
+Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 30,269 |
+| Forks | 3,540 |
+| Stars today | 15 |
+
+---
+
+## 7. [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) 🆕
+
+A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 30,671 |
+| Forks | 11,490 |
 | Stars today | 4 |
 
 ---
 
-## 11. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
+## 8. [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) 🆕
+
+Design patterns implemented in Java
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 94,885 |
+| Forks | 27,340 |
+| Stars today | 10 |
+
+---
+
+## 9. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
 
 Browse media content with your own rules on Android TV
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 36,405 |
-| Forks | 2,340 |
-| Stars today | 47 |
+| Stars | 36,433 |
+| Forks | 2,341 |
+| Stars today | 27 |
 
 ---
 
-## 12. [microg/GmsCore](https://github.com/microg/GmsCore) 🆕
+## 10. [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) 🆕
 
-Free implementation of Play Services
+🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 15,347 |
-| Forks | 3,388 |
-| Stars today | 12 |
+| Stars | 5,603 |
+| Forks | 4,994 |
+| Stars today | 4 |
 
 ---
 
-## 13. [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) 🆕
+## 11. [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) 🆕
 
-Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
+Mac.apk: Run Android apps natively on Apple Silicon Macs
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,813 |
-| Forks | 1,748 |
-| Stars today | 6 |
+| Stars | 4,333 |
+| Forks | 187 |
+| Stars today | 21 |
 
 ---
 
-## 14. [apache/maven](https://github.com/apache/maven) 🆕
+## 12. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) 🆕
 
-Apache Maven core
+🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,376 |
-| Forks | 3,076 |
+| Stars | 40,489 |
+| Forks | 8,687 |
+| Stars today | 25 |
 
 ---
 
-## 15. [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) 🆕
+## 13. [hibernate/hibernate-orm](https://github.com/hibernate/hibernate-orm) 🆕
 
-The API and the developer guide for Shizuku and Sui.
+Idiomatic persistence for Java and relational databases
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,795 |
-| Forks | 1,343 |
-| Stars today | 6 |
+| Stars | 6,488 |
+| Forks | 3,838 |
 
 ---
 
-## 16. [TelegramMessenger/Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) 🆕
+## 14. [keycloak/keycloak](https://github.com/keycloak/keycloak) 🆕
 
-Telegram for Android source
+Open Source Identity and Access Management For Modern Applications and Services
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,312 |
-| Forks | 10,588 |
-| Stars today | 7 |
+| Stars | 37,922 |
+| Forks | 9,204 |
+| Stars today | 25 |
 
 ---
 
-## 17. [floci-io/floci](https://github.com/floci-io/floci) 🆕
+## 15. [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) 🆕
 
-Light, fluffy, and always free - The AWS Local Emulator alternative
+一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 31,862 |
-| Forks | 3,516 |
-| Stars today | 64 |
+| Stars | 11,860 |
+| Forks | 1,350 |
+| Stars today | 8 |
 
 ---

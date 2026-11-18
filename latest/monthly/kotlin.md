@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-17T07:49:47Z
-**Total Repositories:** 14
+**Snapshot Time:** 2026-11-18T07:19:02Z
+**Total Repositories:** 15
 **New Entries:** 3
-**Quality Score:** 97.14/100
+**Quality Score:** 97.33/100
 
 ---
 
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,616 |
-| Forks | 696 |
-| Stars this month | 2,697 |
+| Stars | 10,637 |
+| Forks | 697 |
+| Stars this month | 2,345 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,809 |
-| Forks | 731 |
-| Stars this month | 3,498 |
+| Stars | 6,889 |
+| Forks | 746 |
+| Stars this month | 3,494 |
 
 ---
 
@@ -39,9 +39,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,661 |
-| Forks | 5,120 |
-| Stars this month | 1,492 |
+| Stars | 20,704 |
+| Forks | 5,137 |
+| Stars this month | 1,476 |
 
 ---
 
@@ -52,9 +52,9 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,227 |
-| Forks | 430 |
-| Stars this month | 3,693 |
+| Stars | 8,343 |
+| Forks | 440 |
+| Stars this month | 3,708 |
 
 ---
 
@@ -65,9 +65,9 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,505 |
-| Forks | 790 |
-| Stars this month | 1,488 |
+| Stars | 13,556 |
+| Forks | 794 |
+| Stars this month | 1,527 |
 
 ---
 
@@ -78,112 +78,125 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 44,915 |
-| Forks | 2,141 |
-| Stars this month | 2,146 |
+| Stars | 44,976 |
+| Forks | 2,140 |
+| Stars this month | 2,165 |
 
 ---
 
-## 7. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 33,897 |
-| Forks | 3,687 |
-| Stars this month | 2,422 |
-
----
-
-## 8. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova)
+## 7. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova)
 
 Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,159 |
-| Forks | 1,423 |
-| Stars this month | 658 |
+| Stars | 7,212 |
+| Forks | 1,432 |
+| Stars this month | 675 |
 
 ---
 
-## 9. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
+## 8. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
 
-StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,059 |
-| Forks | 179 |
-| Stars this month | 255 |
+| Stars | 33,983 |
+| Forks | 3,707 |
+| Stars this month | 2,452 |
 
 ---
 
-## 10. [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) 🆕
-
-Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,583 |
-| Forks | 73 |
-| Stars this month | 686 |
-
----
-
-## 11. [damontecres/Wholphin](https://github.com/damontecres/Wholphin)
+## 9. [damontecres/Wholphin](https://github.com/damontecres/Wholphin)
 
 An OSS Android TV client for Jellyfin
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,351 |
-| Forks | 247 |
-| Stars this month | 297 |
+| Stars | 3,360 |
+| Forks | 249 |
+| Stars this month | 299 |
 
 ---
 
-## 12. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
+## 10. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
+
+StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,065 |
+| Forks | 178 |
+| Stars this month | 258 |
+
+---
+
+## 11. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
 
 YunX（云析）的官方 windows 桌面端
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,494 |
-| Forks | 504 |
-| Stars this month | 5,750 |
+| Stars | 6,662 |
+| Forks | 525 |
+| Stars this month | 5,884 |
 
 ---
 
-## 13. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) 🆕
+## 12. [kuafuai/andee](https://github.com/kuafuai/andee) 🆕
+
+Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any model; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆和密码绝不离开设备。
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,154 |
+| Forks | 293 |
+| Stars this month | 6,317 |
+
+---
+
+## 13. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) 🆕
+
+Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,759 |
+| Forks | 172 |
+| Stars this month | 576 |
+
+---
+
+## 14. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
 
 Headunit App for displaying Android Auto
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,396 |
-| Forks | 334 |
-| Stars this month | 565 |
+| Stars | 3,417 |
+| Forks | 337 |
+| Stars this month | 568 |
 
 ---
 
-## 14. [samolego/Canta](https://github.com/samolego/Canta) 🆕
+## 15. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) 🆕
 
-Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
+使用 Material Design 3 全新设计的阅读 3.0
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,452 |
-| Forks | 180 |
-| Stars this month | 1,281 |
+| Stars | 7,076 |
+| Forks | 825 |
+| Stars this month | 606 |
 
 ---

@@ -1,157 +1,182 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-17T07:49:00Z
+**Snapshot Time:** 2026-11-18T07:18:16Z
 **Total Repositories:** 22
-**New Entries:** 12
+**New Entries:** 14
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [openemr/openemr](https://github.com/openemr/openemr)
-
-The most popular open source electronic health records and medical practice management solution.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,605 |
-| Forks | 3,136 |
-| Stars today | 2 |
-
----
-
-## 2. [nextcloud/server](https://github.com/nextcloud/server)
-
-☁️ Nextcloud server, a safe home for all your data
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 37,540 |
-| Forks | 5,362 |
-| Stars today | 12 |
-
----
-
-## 3. [glpi-project/glpi](https://github.com/glpi-project/glpi) 🆕
+## 1. [glpi-project/glpi](https://github.com/glpi-project/glpi)
 
 GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,626 |
-| Forks | 1,939 |
-| Stars today | 25 |
+| Stars | 6,634 |
+| Forks | 1,944 |
+| Stars today | 8 |
 
 ---
 
-## 4. [InvoiceShelf/InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf)
+## 2. [symfony/symfony](https://github.com/symfony/symfony) 🆕
 
-Open Source Invoicing Solution for Individuals & Businesses
+The Symfony PHP framework
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 2,052 |
-| Forks | 424 |
-| Stars today | 17 |
+| Stars | 31,446 |
+| Forks | 9,948 |
+| Stars today | 8 |
 
 ---
 
-## 5. [matomo-org/matomo](https://github.com/matomo-org/matomo)
+## 3. [matomo-org/matomo](https://github.com/matomo-org/matomo)
 
 Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 22,031 |
+| Stars | 22,036 |
 | Forks | 2,939 |
-| Stars today | 4 |
-
----
-
-## 6. [vimeo/psalm](https://github.com/vimeo/psalm)
-
-A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 5,930 |
-| Forks | 731 |
 | Stars today | 2 |
 
 ---
 
-## 7. [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp)
+## 4. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
 
-Free and Open Source ERP software
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 12,249 |
-| Forks | 628 |
-| Stars today | 8 |
-
----
-
-## 8. [filamentphp/filament](https://github.com/filamentphp/filament) 🆕
-
-An open-source framework for building polished, maintainable business software with Laravel.
+📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 32,518 |
-| Forks | 4,246 |
-| Stars today | 9 |
+| Stars | 10,860 |
+| Forks | 1,135 |
+| Stars today | 7 |
 
 ---
 
-## 9. [akaunting/akaunting](https://github.com/akaunting/akaunting) 🆕
-
-Online Accounting Software
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,314 |
-| Forks | 3,026 |
-| Stars today | 1 |
-
----
-
-## 10. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) 🆕
+## 5. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 74,797 |
-| Forks | 25,202 |
-| Stars today | 20 |
+| Stars | 74,825 |
+| Forks | 25,203 |
+| Stars today | 27 |
 
 ---
 
-## 11. [wallabag/wallabag](https://github.com/wallabag/wallabag)
+## 6. [digininja/DVWA](https://github.com/digininja/DVWA) 🆕
 
-wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+Damn Vulnerable Web Application (DVWA)
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,064 |
-| Forks | 916 |
+| Stars | 14,050 |
+| Forks | 5,267 |
+| Stars today | 6 |
+
+---
+
+## 7. [bagisto/bagisto](https://github.com/bagisto/bagisto) 🆕
+
+Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 28,383 |
+| Forks | 3,391 |
+| Stars today | 6 |
+
+---
+
+## 8. [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) 🆕
+
+FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 4,671 |
+| Forks | 747 |
+
+---
+
+## 9. [librenms/librenms](https://github.com/librenms/librenms) 🆕
+
+Community-based GPL-licensed network monitoring system
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,015 |
+| Forks | 2,874 |
+| Stars today | 5 |
+
+---
+
+## 10. [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) 🆕
+
+SuiteCRM - Open source CRM for the world
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,869 |
+| Forks | 2,447 |
 | Stars today | 3 |
 
 ---
 
-## 12. [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM)
+## 11. [matomo-org/device-detector](https://github.com/matomo-org/device-detector) 🆕
+
+The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 3,558 |
+| Forks | 525 |
+| Stars today | 3 |
+
+---
+
+## 12. [pestphp/pest](https://github.com/pestphp/pest) 🆕
+
+The elegant testing framework for PHP developers and AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 11,780 |
+| Forks | 560 |
+| Stars today | 1 |
+
+---
+
+## 13. [grokability/snipe-it](https://github.com/grokability/snipe-it) 🆕
+
+A free open source IT asset/license management system
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 15,199 |
+| Forks | 4,074 |
+| Stars today | 2 |
+
+---
+
+## 14. [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM)
 
 Free, open-source church management software for people, families, groups, events, attendance, giving, volunteers, and more. No subscription. Your data is yours.
 
@@ -159,90 +184,25 @@ Free, open-source church management software for people, families, groups, event
 |--------|-------|
 | Language | PHP |
 | Stars | 1,001 |
-| Forks | 611 |
+| Forks | 612 |
 | Stars today | 3 |
 
 ---
 
-## 13. [karatektus/pl_mail](https://github.com/karatektus/pl_mail)
+## 15. [cedar2025/Xboard](https://github.com/cedar2025/Xboard) 🆕
 
-Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 657 |
-| Forks | 51 |
-| Stars today | 11 |
-
----
-
-## 14. [pterodactyl/panel](https://github.com/pterodactyl/panel) 🆕
-
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+High-performance panel based on V2board secondary development supporting new protocols and new features
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,520 |
-| Forks | 2,751 |
-| Stars today | 6 |
+| Stars | 4,872 |
+| Forks | 1,390 |
+| Stars today | 2 |
 
 ---
 
-## 15. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) 🆕
-
-Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 7,876 |
-| Forks | 3,627 |
-| Stars today | 4 |
-
----
-
-## 16. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)
-
-📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,853 |
-| Forks | 1,134 |
-| Stars today | 8 |
-
----
-
-## 17. [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) 🆕
-
-A source-available invoice, quote, project and time-tracking app built with Laravel
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 10,597 |
-| Forks | 2,810 |
-| Stars today | 6 |
-
----
-
-## 18. [elabftw/elabftw](https://github.com/elabftw/elabftw) 🆕
-
-📓 eLabFTW is the most popular open source electronic lab notebook for research labs.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 1,494 |
-| Forks | 372 |
-| Stars today | 1 |
-
----
-
-## 19. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) 🆕
+## 16. [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
 
 WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket onhttps://core.trac.wordpress.org/with every pull request.
 
@@ -251,45 +211,83 @@ WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, incl
 | Language | PHP |
 | Stars | 3,515 |
 | Forks | 3,775 |
-| Stars today | 1 |
 
 ---
 
-## 20. [metadist/synaplan](https://github.com/metadist/synaplan) 🆕
+## 17. [akaunting/akaunting](https://github.com/akaunting/akaunting)
 
-Own the flow: one open-source AI platform for your knowledge, models and channels – web, WhatsApp, email, Outlook, Nextcloud & ownCloud. Local and cloud models side by side, with the cost on every answer.
+Online Accounting Software
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 991 |
-| Forks | 112 |
-| Stars today | 32 |
+| Stars | 10,317 |
+| Forks | 3,028 |
+| Stars today | 4 |
 
 ---
 
-## 21. [monicahq/monica](https://github.com/monicahq/monica) 🆕
+## 18. [espocrm/espocrm](https://github.com/espocrm/espocrm) 🆕
 
-Personal CRM. Remember everything about your friends, family and business relationships.
+EspoCRM – Open Source CRM Application
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 25,793 |
-| Forks | 2,641 |
+| Stars | 3,635 |
+| Forks | 1,049 |
+| Stars today | 9 |
+
+---
+
+## 19. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr)
+
+Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 7,881 |
+| Forks | 3,630 |
 | Stars today | 5 |
 
 ---
 
-## 22. [EC-CUBE/ec-cube](https://github.com/EC-CUBE/ec-cube) 🆕
+## 20. [MISP/MISP](https://github.com/MISP/MISP) 🆕
 
-EC-CUBE is the most popular e-commerce solution in Japan
+MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 793 |
-| Forks | 712 |
+| Stars | 6,673 |
+| Forks | 1,670 |
+| Stars today | 2 |
+
+---
+
+## 21. [magento/magento2](https://github.com/magento/magento2) 🆕
+
+Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at:https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 12,242 |
+| Forks | 9,354 |
+| Stars today | 4 |
+
+---
+
+## 22. [craftcms/cms](https://github.com/craftcms/cms) 🆕
+
+Build bespoke content experiences with Craft.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 3,634 |
+| Forks | 801 |
 | Stars today | 1 |
 
 ---

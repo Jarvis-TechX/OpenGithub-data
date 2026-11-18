@@ -1,9 +1,9 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-17T07:49:21Z
+**Snapshot Time:** 2026-11-18T07:18:36Z
 **Total Repositories:** 10
-**New Entries:** 0
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,125 +15,125 @@ Browser automation CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 52,156 |
-| Forks | 3,648 |
-| Stars this week | 3,760 |
+| Stars | 52,465 |
+| Forks | 3,669 |
+| Stars this week | 3,429 |
 
 ---
 
-## 2. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
-
-A batteries-included framework for building web apps
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 7,245 |
-| Forks | 312 |
-| Stars this week | 836 |
-
----
-
-## 3. [block/buzz](https://github.com/block/buzz)
+## 2. [block/buzz](https://github.com/block/buzz)
 
 A hive mind communication platform
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 37,540 |
-| Forks | 4,959 |
-| Stars this week | 728 |
+| Stars | 37,563 |
+| Forks | 4,958 |
+| Stars this week | 759 |
 
 ---
 
-## 4. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
+## 3. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
 
-Computer use CLI for AI agents
+A batteries-included framework for building web apps
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 24,740 |
-| Forks | 1,845 |
-| Stars this week | 4,451 |
+| Stars | 7,253 |
+| Forks | 313 |
+| Stars this week | 627 |
 
 ---
 
-## 5. [zellij-org/zellij](https://github.com/zellij-org/zellij)
+## 4. [zellij-org/zellij](https://github.com/zellij-org/zellij)
 
 A terminal workspace with batteries included
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 36,108 |
-| Forks | 1,544 |
-| Stars this week | 177 |
+| Stars | 36,127 |
+| Forks | 1,546 |
+| Stars this week | 183 |
 
 ---
 
-## 6. [ruvnet/RuView](https://github.com/ruvnet/RuView)
+## 5. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)
 
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+Computer use CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 104,481 |
-| Forks | 13,586 |
-| Stars this week | 1,353 |
+| Stars | 25,109 |
+| Forks | 1,879 |
+| Stars this week | 3,817 |
 
 ---
 
-## 7. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 129,801 |
-| Forks | 20,793 |
-| Stars this week | 1,010 |
-
----
-
-## 8. [astral-sh/ruff](https://github.com/astral-sh/ruff)
-
-An extremely fast Python linter and code formatter, written in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 51,258 |
-| Forks | 2,732 |
-| Stars this week | 365 |
-
----
-
-## 9. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+## 6. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
 
 Object-storage native graph database with branching and typed ontology
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 2,873 |
-| Forks | 330 |
-| Stars this week | 800 |
+| Stars | 2,991 |
+| Forks | 334 |
+| Stars this week | 956 |
 
 ---
 
-## 10. [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+## 7. [crmne/zapfast](https://github.com/crmne/zapfast) 🆕
 
-Open source Loom alternative. Beautiful, shareable screen recordings.
+ZapFast: a fast, native WhatsApp client in Rust and egui
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 25,149 |
-| Forks | 2,370 |
-| Stars this week | 397 |
+| Stars | 4,701 |
+| Forks | 473 |
+| Stars this week | 888 |
+
+---
+
+## 8. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) 🆕
+
+A WiFi security auditing software
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 6,612 |
+| Forks | 1,093 |
+| Stars this week | 1,468 |
+
+---
+
+## 9. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 129,969 |
+| Forks | 20,859 |
+| Stars this week | 1,031 |
+
+---
+
+## 10. [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) 🆕
+
+Comfortably monitor your network traffic 🕵️‍♂️
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 43,055 |
+| Forks | 2,023 |
+| Stars this week | 730 |
 
 ---
