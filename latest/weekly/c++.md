@@ -1,10 +1,10 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-18T07:18:38Z
-**Total Repositories:** 19
-**New Entries:** 4
-**Quality Score:** 97.89/100
+**Snapshot Time:** 2026-11-19T07:16:31Z
+**Total Repositories:** 20
+**New Entries:** 5
+**Quality Score:** 98.00/100
 
 ---
 
@@ -15,240 +15,253 @@ A library for efficient similarity search and clustering of dense vectors.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,798 |
-| Forks | 4,652 |
-| Stars this week | 470 |
+| Stars | 41,811 |
+| Forks | 4,655 |
+| Stars this week | 401 |
 
 ---
 
-## 2. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
-
-Multi-Joint dynamics with Contact. A general purpose physics simulator.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 18,264 |
-| Forks | 2,211 |
-| Stars this week | 1,102 |
-
----
-
-## 3. [google/googletest](https://github.com/google/googletest)
+## 2. [google/googletest](https://github.com/google/googletest)
 
 GoogleTest - Google Testing and Mocking Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 39,752 |
-| Forks | 10,959 |
-| Stars this week | 36 |
+| Stars | 39,755 |
+| Forks | 10,962 |
+| Stars this week | 39 |
 
 ---
 
-## 4. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
+## 3. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
 
 Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 3,294 |
-| Forks | 240 |
-| Stars this week | 2,136 |
+| Stars | 3,761 |
+| Forks | 265 |
+| Stars this week | 2,329 |
 
 ---
 
-## 5. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+## 4. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 LLM inference in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 135,690 |
-| Forks | 25,762 |
-| Stars this week | 1,874 |
+| Stars | 135,646 |
+| Forks | 25,755 |
+| Stars this week | 2,050 |
 
 ---
 
-## 6. [alibaba/MNN](https://github.com/alibaba/MNN)
-
-MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 16,566 |
-| Forks | 2,539 |
-| Stars this week | 88 |
-
----
-
-## 7. [ggml-org/ggml](https://github.com/ggml-org/ggml)
+## 5. [ggml-org/ggml](https://github.com/ggml-org/ggml)
 
 Tensor library for machine learning
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,107 |
-| Forks | 2,078 |
-| Stars this week | 516 |
+| Stars | 16,117 |
+| Forks | 2,082 |
+| Stars this week | 522 |
 
 ---
 
-## 8. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port)
+## 6. [dariulone/cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 681 |
-| Forks | 70 |
-| Stars this week | 139 |
+| Stars | 687 |
+| Forks | 71 |
+| Stars this week | 117 |
 
 ---
 
-## 9. [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client)
+## 7. [alibaba/MNN](https://github.com/alibaba/MNN)
 
-A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
+MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,406 |
-| Forks | 480 |
-| Stars this week | 311 |
+| Stars | 16,576 |
+| Forks | 2,540 |
+| Stars this week | 87 |
 
 ---
 
-## 10. [opencv/opencv](https://github.com/opencv/opencv)
+## 8. [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
 
-Open Source Computer Vision Library
+Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 91,623 |
-| Forks | 57,109 |
-| Stars this week | 134 |
+| Stars | 18,304 |
+| Forks | 2,219 |
+| Stars this week | 725 |
 
 ---
 
-## 11. [BruceDevices/firmware](https://github.com/BruceDevices/firmware)
+## 9. [BruceDevices/firmware](https://github.com/BruceDevices/firmware)
 
 Predatory ESP32 Firmware
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,291 |
-| Forks | 2,470 |
-| Stars this week | 88 |
+| Stars | 7,304 |
+| Forks | 2,476 |
+| Stars this week | 91 |
 
 ---
 
-## 12. [azahar-emu/azahar](https://github.com/azahar-emu/azahar)
+## 10. [azahar-emu/azahar](https://github.com/azahar-emu/azahar)
 
 An open-source 3DS emulator project based on Citra.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 8,722 |
-| Forks | 846 |
+| Stars | 8,730 |
+| Forks | 849 |
 | Stars this week | 98 |
 
 ---
 
-## 13. [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine)
-
-Self-hosted game stream host for Moonlight.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 43,518 |
-| Forks | 2,398 |
-| Stars this week | 315 |
-
----
-
-## 14. [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) 🆕
-
-Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 20,410 |
-| Forks | 1,529 |
-| Stars this week | 100 |
-
----
-
-## 15. [dashdogy/MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker)
-
-DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 2,725 |
-| Forks | 86 |
-| Stars this week | 278 |
-
----
-
-## 16. [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) 🆕
-
-Telegram Desktop messaging app
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 33,594 |
-| Forks | 7,662 |
-| Stars this week | 83 |
-
----
-
-## 17. [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) 🆕
-
-Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,Minimax H3,...) inference in pure C/C++
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 8,063 |
-| Forks | 972 |
-| Stars this week | 90 |
-
----
-
-## 18. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) 🆕
+## 11. [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)
 
 Amnezia VPN Client (Desktop+Mobile)
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,001 |
-| Forks | 1,302 |
-| Stars this week | 136 |
+| Stars | 16,022 |
+| Forks | 1,304 |
+| Stars this week | 145 |
 
 ---
 
-## 19. [sonicnext-dev/MarathonRecomp](https://github.com/sonicnext-dev/MarathonRecomp)
+## 12. [microsoft/BitNet](https://github.com/microsoft/BitNet) 🆕
+
+Official inference framework for 1-bit LLMs
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 42,110 |
+| Forks | 3,963 |
+| Stars this week | 420 |
+
+---
+
+## 13. [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
+
+Telegram Desktop messaging app
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 33,601 |
+| Forks | 7,669 |
+| Stars this week | 78 |
+
+---
+
+## 14. [wazuh/wazuh](https://github.com/wazuh/wazuh) 🆕
+
+Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 17,821 |
+| Forks | 2,621 |
+| Stars this week | 144 |
+
+---
+
+## 15. [sonicnext-dev/MarathonRecomp](https://github.com/sonicnext-dev/MarathonRecomp)
 
 An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 953 |
-| Forks | 218 |
-| Stars this week | 189 |
+| Stars | 961 |
+| Forks | 220 |
+| Stars this week | 207 |
+
+---
+
+## 16. [deskflow/deskflow](https://github.com/deskflow/deskflow) 🆕
+
+Share a single keyboard and mouse between multiple computers.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 31,434 |
+| Forks | 5,170 |
+| Stars this week | 500 |
+
+---
+
+## 17. [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine)
+
+Self-hosted game stream host for Moonlight.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 43,557 |
+| Forks | 2,404 |
+| Stars this week | 303 |
+
+---
+
+## 18. [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+
+Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 20,416 |
+| Forks | 1,530 |
+| Stars this week | 78 |
+
+---
+
+## 19. [wszqkzqk/PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) 🆕
+
+A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition.
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 932 |
+| Forks | 210 |
+| Stars this week | 44 |
+
+---
+
+## 20. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
+
+An Open Source Machine Learning Framework for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 201,600 |
+| Forks | 77,959 |
+| Stars this week | 522 |
 
 ---

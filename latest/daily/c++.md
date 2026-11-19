@@ -1,36 +1,36 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-18T07:18:21Z
+**Snapshot Time:** 2026-11-19T07:16:11Z
 **Total Repositories:** 11
-**New Entries:** 8
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [deskflow/deskflow](https://github.com/deskflow/deskflow)
+## 1. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) 🆕
 
-Share a single keyboard and mouse between multiple computers.
+OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,369 |
-| Forks | 5,164 |
-| Stars today | 61 |
+| Stars | 11,405 |
+| Forks | 3,608 |
+| Stars today | 24 |
 
 ---
 
-## 2. [Helldez/BigMoeOnEdge](https://github.com/Helldez/BigMoeOnEdge)
+## 2. [microsoft/BitNet](https://github.com/microsoft/BitNet) 🆕
 
-Run MoE models bigger than your RAM. Frontier-size MoE on a phone, laptop, edge. Lossless, on stock llama.cpp. An adaptive streaming optimizer. Any hardware, any OS, any model, any quantization, behind a local OpenAI-compatible server.
+Official inference framework for 1-bit LLMs
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,023 |
-| Forks | 104 |
-| Stars today | 45 |
+| Stars | 42,110 |
+| Forks | 3,963 |
+| Stars today | 325 |
 
 ---
 
@@ -41,112 +41,112 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,024 |
-| Forks | 5,283 |
-| Stars today | 367 |
+| Stars | 56,449 |
+| Forks | 5,426 |
+| Stars today | 693 |
 
 ---
 
-## 4. [sonicnext-dev/MarathonRecomp](https://github.com/sonicnext-dev/MarathonRecomp) 🆕
+## 4. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) 🆕
 
-An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation
+An Open Source Machine Learning Framework for Everyone
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 953 |
-| Forks | 218 |
-| Stars today | 30 |
+| Stars | 201,600 |
+| Forks | 77,959 |
+| Stars today | 111 |
 
 ---
 
-## 5. [jimmgreen/pulse](https://github.com/jimmgreen/pulse) 🆕
+## 5. [carla-simulator/carla](https://github.com/carla-simulator/carla) 🆕
 
-为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162
+Open-source simulator for autonomous driving research.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,764 |
-| Forks | 130 |
-| Stars today | 31 |
+| Stars | 14,646 |
+| Forks | 4,750 |
+| Stars today | 20 |
 
 ---
 
-## 6. [gabime/spdlog](https://github.com/gabime/spdlog) 🆕
+## 6. [gabime/spdlog](https://github.com/gabime/spdlog)
 
 Fast C++ logging library.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 29,768 |
-| Forks | 5,343 |
-| Stars today | 6 |
+| Stars | 29,773 |
+| Forks | 5,338 |
+| Stars today | 7 |
 
 ---
 
-## 7. [clice-io/clice](https://github.com/clice-io/clice) 🆕
+## 7. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) 🆕
 
-A C/C++, Objective-C and CUDA language server built on Clang: crash-isolated worker processes, C++20 modules and compilation contexts out of the box, plus a CLI to index, query and refactor whole projects.
+LLM inference in C/C++
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,785 |
-| Forks | 102 |
-| Stars today | 84 |
+| Stars | 135,646 |
+| Forks | 25,755 |
+| Stars today | 306 |
 
 ---
 
-## 8. [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed) 🆕
+## 8. [incoai/splash](https://github.com/incoai/splash) 🆕
 
-Reimplementation of GTA:SA 1.0 US
+A local inference engine for Apple silicon, built around the model.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,299 |
-| Forks | 285 |
-| Stars today | 14 |
+| Stars | 2,423 |
+| Forks | 233 |
+| Stars today | 49 |
 
 ---
 
-## 9. [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) 🆕
+## 9. [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel) 🆕
 
-Open source IFC library and geometry engine
+A Wayland compositor designed for daily use, with scrolling, dwindle, master, and stacking layouts, per-output workspaces, window rules, blur, shadows, and fluid animations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,968 |
-| Forks | 1,018 |
-| Stars today | 5 |
+| Stars | 1,760 |
+| Forks | 138 |
+| Stars today | 20 |
 
 ---
 
-## 10. [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) 🆕
+## 10. [Neroued/ninfer](https://github.com/Neroued/ninfer) 🆕
 
-G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+High-performance single-GPU inference for selected model checkpoints and GPUs.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,536 |
-| Forks | 3,504 |
-| Stars today | 15 |
+| Stars | 3,383 |
+| Forks | 728 |
+| Stars today | 7 |
 
 ---
 
-## 11. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) 🆕
+## 11. [socquique/TamaPoke](https://github.com/socquique/TamaPoke) 🆕
 
-Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+A Pokemon Gen-1 Tamagotchi for the Waveshare ESP32-S3-Touch-AMOLED-1.75 round display — open firmware + one-click web installer. Case remixed from yoyothechicken's Pokeball.
 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 13,543 |
-| Forks | 4,743 |
-| Stars today | 6 |
+| Stars | 329 |
+| Forks | 155 |
+| Stars today | 9 |
 
 ---

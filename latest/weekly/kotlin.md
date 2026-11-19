@@ -1,49 +1,49 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-18T07:18:41Z
-**Total Repositories:** 15
+**Snapshot Time:** 2026-11-19T07:16:33Z
+**Total Repositories:** 16
 **New Entries:** 2
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [samolego/Canta](https://github.com/samolego/Canta)
+## 1. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) 🆕
+
+翻墙-科学上网
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 57,925 |
+| Forks | 8,852 |
+| Stars this week | 1,364 |
+
+---
+
+## 2. [samolego/Canta](https://github.com/samolego/Canta)
 
 Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,505 |
-| Forks | 182 |
-| Stars this week | 501 |
+| Stars | 7,540 |
+| Forks | 181 |
+| Stars this week | 443 |
 
 ---
 
-## 2. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
+## 3. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
 
 YunX（云析）的官方 windows 桌面端
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,662 |
-| Forks | 525 |
-| Stars this week | 2,520 |
-
----
-
-## 3. [CYQawa/YunX](https://github.com/CYQawa/YunX)
-
-YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 8,343 |
-| Forks | 440 |
-| Stars this week | 1,265 |
+| Stars | 6,810 |
+| Forks | 539 |
+| Stars this week | 2,176 |
 
 ---
 
@@ -54,9 +54,9 @@ A modern, cool, sleek music player. made with <3
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,971 |
-| Forks | 96 |
-| Stars this week | 582 |
+| Stars | 2,033 |
+| Forks | 103 |
+| Stars this week | 558 |
 
 ---
 
@@ -67,9 +67,9 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,556 |
-| Forks | 794 |
-| Stars this week | 417 |
+| Stars | 13,613 |
+| Forks | 798 |
+| Stars this week | 429 |
 
 ---
 
@@ -80,61 +80,61 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,076 |
-| Forks | 825 |
-| Stars this week | 145 |
+| Stars | 7,097 |
+| Forks | 828 |
+| Stars this week | 156 |
 
 ---
 
-## 7. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store)
-
-The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 4,213 |
-| Forks | 144 |
-| Stars this week | 182 |
-
----
-
-## 8. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
-
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 44,976 |
-| Forks | 2,140 |
-| Stars this week | 539 |
-
----
-
-## 9. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 33,983 |
-| Forks | 3,707 |
-| Stars this week | 643 |
-
----
-
-## 10. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer)
+## 7. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer)
 
 WhatsApp tools for Android
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,901 |
-| Forks | 267 |
-| Stars this week | 38 |
+| Stars | 1,903 |
+| Forks | 268 |
+| Stars this week | 28 |
+
+---
+
+## 8. [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store)
+
+The ultimate home for Open Source and Cleaned apps. OrionStore offers instant access to YouTube Morphe, YT Music Morphe, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,235 |
+| Forks | 149 |
+| Stars this week | 191 |
+
+---
+
+## 9. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+
+YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 8,417 |
+| Forks | 443 |
+| Stars this week | 1,126 |
+
+---
+
+## 10. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+
+A V2Ray client for Android, support Xray core and v2fly core
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 66,159 |
+| Forks | 8,694 |
+| Stars this week | 459 |
 
 ---
 
@@ -145,60 +145,73 @@ Disable / Hide / Suspend / Uninstall Android apps without root.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,356 |
+| Stars | 7,368 |
 | Forks | 288 |
-| Stars this week | 127 |
+| Stars this week | 124 |
 
 ---
 
-## 12. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+## 12. [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
 
-A Kernel based root solution for Android
+Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,704 |
-| Forks | 5,137 |
-| Stars this week | 297 |
+| Stars | 34,061 |
+| Forks | 3,719 |
+| Stars this week | 633 |
 
 ---
 
-## 13. [2dust/v2rayNG](https://github.com/2dust/v2rayNG) 🆕
-
-A V2Ray client for Android, support Xray core and v2fly core
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 66,098 |
-| Forks | 8,678 |
-| Stars this week | 461 |
-
----
-
-## 14. [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
-
-Android app for streaming and downloading media.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 11,343 |
-| Forks | 1,227 |
-| Stars this week | 127 |
-
----
-
-## 15. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid) 🆕
+## 13. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid)
 
 Android GUI proxy utility (Empowered by sing-box)
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 844 |
-| Forks | 43 |
-| Stars this week | 76 |
+| Stars | 850 |
+| Forks | 44 |
+| Stars this week | 71 |
+
+---
+
+## 14. [tiann/KernelSU](https://github.com/tiann/KernelSU)
+
+A Kernel based root solution for Android
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 20,745 |
+| Forks | 5,149 |
+| Stars this week | 296 |
+
+---
+
+## 15. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+
+基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 45,029 |
+| Forks | 2,142 |
+| Stars this week | 534 |
+
+---
+
+## 16. [sameerasw/essentials](https://github.com/sameerasw/essentials) 🆕
+
+Essential tools and mods for Android nerds
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,948 |
+| Forks | 111 |
+| Stars this week | 156 |
 
 ---

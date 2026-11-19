@@ -1,23 +1,23 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-18T07:18:14Z
-**Total Repositories:** 17
-**New Entries:** 10
+**Snapshot Time:** 2026-11-19T07:16:03Z
+**Total Repositories:** 16
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [dream-num/univer](https://github.com/dream-num/univer)
+## 1. [cursor/plugins](https://github.com/cursor/plugins)
 
-Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+Cursor plugin specification and official plugins
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,459 |
-| Forks | 2,637 |
-| Stars today | 1,774 |
+| Stars | 17,329 |
+| Forks | 1,914 |
+| Stars today | 314 |
 
 ---
 
@@ -28,203 +28,190 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,211 |
-| Forks | 1,335 |
-| Stars today | 350 |
+| Stars | 10,504 |
+| Forks | 1,372 |
+| Stars today | 365 |
 
 ---
 
-## 3. [cursor/plugins](https://github.com/cursor/plugins) 🆕
+## 3. [appwrite/appwrite](https://github.com/appwrite/appwrite) 🆕
 
-Cursor plugin specification and official plugins
+The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 16,989 |
-| Forks | 1,842 |
-| Stars today | 201 |
+| Stars | 58,310 |
+| Forks | 5,887 |
+| Stars today | 232 |
 
 ---
 
-## 4. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+## 4. [n8n-io/n8n](https://github.com/n8n-io/n8n) 🆕
 
-AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,160 |
-| Forks | 2,078 |
-| Stars today | 1,445 |
+| Stars | 211,252 |
+| Forks | 61,578 |
+| Stars today | 325 |
 
 ---
 
-## 5. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+## 5. [solidjs/solid](https://github.com/solidjs/solid) 🆕
+
+A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 36,686 |
+| Forks | 1,190 |
+| Stars today | 40 |
+
+---
+
+## 6. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
 
 The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,181 |
-| Forks | 1,320 |
-| Stars today | 691 |
+| Stars | 13,529 |
+| Forks | 1,363 |
+| Stars today | 392 |
 
 ---
 
-## 6. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+## 7. [angular/angular](https://github.com/angular/angular) 🆕
 
-Chrome DevTools for coding agents
+Deliver web apps with confidence 🚀
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 58,111 |
-| Forks | 4,874 |
-| Stars today | 478 |
+| Stars | 101,442 |
+| Forks | 28,192 |
+| Stars today | 182 |
 
 ---
 
-## 7. [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) 🆕
+## 8. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 
-A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,668 |
-| Forks | 1,659 |
-| Stars today | 40 |
+| Stars | 20,510 |
+| Forks | 2,109 |
+| Stars today | 513 |
 
 ---
 
-## 8. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) 🆕
+## 9. [nestjs/nest](https://github.com/nestjs/nest) 🆕
 
-10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 54,206 |
-| Forks | 7,621 |
-| Stars today | 613 |
+| Stars | 77,094 |
+| Forks | 8,722 |
+| Stars today | 214 |
 
 ---
 
-## 9. [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) 🆕
+## 10. [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) 🆕
 
-LIBERATED AI CHAT
+Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,651 |
-| Forks | 2,921 |
-| Stars today | 91 |
+| Stars | 78,034 |
+| Forks | 5,206 |
+| Stars today | 119 |
 
 ---
 
-## 10. [stablyai/orca](https://github.com/stablyai/orca) 🆕
+## 11. [storybookjs/storybook](https://github.com/storybookjs/storybook) 🆕
 
-Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 128,184 |
-| Forks | 8,123 |
-| Stars today | 1,066 |
+| Stars | 91,640 |
+| Forks | 10,598 |
+| Stars today | 23 |
 
 ---
 
-## 11. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) 🆕
+## 12. [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 🆕
 
-Open-source Grok Bot alternative with a virtual machine that bots can use
+Clone any website with one command using AI coding agents
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 25,002 |
-| Forks | 3,522 |
-| Stars today | 640 |
-
----
-
-## 12. [mastra-ai/mastra](https://github.com/mastra-ai/mastra) 🆕
-
-Mastra is the modern TypeScript framework for AI-powered applications and agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 29,592 |
-| Forks | 3,114 |
-| Stars today | 22 |
-
----
-
-## 13. [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
-
-Email for professionals and teams
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 6,944 |
-| Forks | 1,202 |
-| Stars today | 190 |
-
----
-
-## 14. [elie222/rakazo](https://github.com/elie222/rakazo)
-
-Open-source Grok Bot alternative. Choose your own model and sandbox.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 9,071 |
-| Forks | 1,626 |
-| Stars today | 188 |
-
----
-
-## 15. [nightly-labs/openbot](https://github.com/nightly-labs/openbot) 🆕
-
-A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 8,742 |
-| Forks | 844 |
-| Stars today | 343 |
-
----
-
-## 16. [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) 🆕
-
-An app that brings language models directly to your phone.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 9,551 |
-| Forks | 1,146 |
+| Stars | 39,478 |
+| Forks | 5,885 |
 | Stars today | 94 |
 
 ---
 
-## 17. [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) 🆕
+## 13. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 🆕
 
-Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,579 |
-| Forks | 1,187 |
-| Stars today | 103 |
+| Stars | 21,460 |
+| Forks | 1,977 |
+| Stars today | 237 |
+
+---
+
+## 14. [dream-num/univer](https://github.com/dream-num/univer)
+
+Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 30,028 |
+| Forks | 2,713 |
+| Stars today | 1,152 |
+
+---
+
+## 15. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 🆕
+
+The best way to control Claude Code, Codex and more from any computer or phone
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 65,565 |
+| Forks | 11,479 |
+| Stars today | 1,220 |
+
+---
+
+## 16. [vercel/eve](https://github.com/vercel/eve) 🆕
+
+The Open Framework for Building Agents
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 6,003 |
+| Forks | 665 |
+| Stars today | 42 |
 
 ---

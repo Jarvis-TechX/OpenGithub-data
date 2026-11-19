@@ -1,9 +1,9 @@
 # GitHub Trending - Php
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-18T07:18:33Z
-**Total Repositories:** 19
-**New Entries:** 3
+**Snapshot Time:** 2026-11-19T07:16:25Z
+**Total Repositories:** 20
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ GLPI is a Free Asset and IT Management Software package, Data center management,
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,634 |
-| Forks | 1,944 |
-| Stars this week | 59 |
+| Stars | 6,639 |
+| Forks | 1,948 |
+| Stars this week | 60 |
 
 ---
 
@@ -28,9 +28,9 @@ Own the flow: one open-source AI platform for your knowledge, models and channel
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,025 |
-| Forks | 118 |
-| Stars this week | 315 |
+| Stars | 1,027 |
+| Forks | 119 |
+| Stars this week | 286 |
 
 ---
 
@@ -41,48 +41,48 @@ EspoCRM – Open Source CRM Application
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,635 |
-| Forks | 1,049 |
-| Stars this week | 68 |
+| Stars | 3,645 |
+| Forks | 1,054 |
+| Stars this week | 58 |
 
 ---
 
-## 4. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-
-Firefly III: a personal finances manager
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 25,273 |
-| Forks | 2,407 |
-| Stars this week | 82 |
-
----
-
-## 5. [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp)
+## 4. [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp)
 
 Free and Open Source ERP software
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 12,254 |
-| Forks | 630 |
-| Stars this week | 62 |
+| Stars | 12,262 |
+| Forks | 629 |
+| Stars this week | 66 |
 
 ---
 
-## 6. [nextcloud/server](https://github.com/nextcloud/server)
+## 5. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 
-☁️ Nextcloud server, a safe home for all your data
+mailcow: dockerized - 🐮 + 🐋 = 💕
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 37,549 |
-| Forks | 5,364 |
-| Stars this week | 93 |
+| Stars | 13,842 |
+| Forks | 1,872 |
+| Stars this week | 67 |
+
+---
+
+## 6. [grokability/snipe-it](https://github.com/grokability/snipe-it)
+
+A free open source IT asset/license management system
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 15,202 |
+| Forks | 4,075 |
+| Stars this week | 39 |
 
 ---
 
@@ -94,99 +94,99 @@ A PHP static analysis tool for finding errors and security vulnerabilities in PH
 |--------|-------|
 | Language | PHP |
 | Stars | 5,932 |
-| Forks | 731 |
-| Stars this week | 9 |
+| Forks | 734 |
+| Stars this week | 8 |
 
 ---
 
-## 8. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+## 8. [kimai/kimai](https://github.com/kimai/kimai) 🆕
+
+Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version:https://www.kimai.org
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,170 |
+| Forks | 891 |
+| Stars this week | 24 |
+
+---
+
+## 9. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 74,825 |
-| Forks | 25,203 |
-| Stars this week | 162 |
+| Stars | 74,836 |
+| Forks | 25,202 |
+| Stars this week | 155 |
 
 ---
 
-## 9. [grokability/snipe-it](https://github.com/grokability/snipe-it)
-
-A free open source IT asset/license management system
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 15,199 |
-| Forks | 4,074 |
-| Stars this week | 32 |
-
----
-
-## 10. [kanboard/kanboard](https://github.com/kanboard/kanboard)
-
-Kanban project management software
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 9,963 |
-| Forks | 2,026 |
-| Stars this week | 17 |
-
----
-
-## 11. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
-
-mailcow: dockerized - 🐮 + 🐋 = 💕
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 13,837 |
-| Forks | 1,869 |
-| Stars this week | 65 |
-
----
-
-## 12. [wallabag/wallabag](https://github.com/wallabag/wallabag)
-
-wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 13,066 |
-| Forks | 918 |
-| Stars this week | 15 |
-
----
-
-## 13. [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
-
-Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
-
-| Metric | Value |
-|--------|-------|
-| Language | PHP |
-| Stars | 24,178 |
-| Forks | 1,690 |
-| Stars this week | 48 |
-
----
-
-## 14. [matomo-org/matomo](https://github.com/matomo-org/matomo) 🆕
+## 10. [matomo-org/matomo](https://github.com/matomo-org/matomo)
 
 Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 22,036 |
-| Forks | 2,939 |
-| Stars this week | 18 |
+| Stars | 22,034 |
+| Forks | 2,940 |
+| Stars this week | 16 |
+
+---
+
+## 11. [nextcloud/server](https://github.com/nextcloud/server)
+
+☁️ Nextcloud server, a safe home for all your data
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 37,555 |
+| Forks | 5,365 |
+| Stars this week | 95 |
+
+---
+
+## 12. [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
+
+Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 24,185 |
+| Forks | 1,691 |
+| Stars this week | 52 |
+
+---
+
+## 13. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+
+Firefly III: a personal finances manager
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 25,287 |
+| Forks | 2,407 |
+| Stars this week | 83 |
+
+---
+
+## 14. [filamentphp/filament](https://github.com/filamentphp/filament) 🆕
+
+An open-source framework for building polished, maintainable business software with Laravel.
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 32,530 |
+| Forks | 4,249 |
+| Stars this week | 65 |
 
 ---
 
@@ -197,39 +197,52 @@ Leantime is a goals focused project management system for non-project managers. 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 12,120 |
+| Stars | 12,125 |
 | Forks | 1,185 |
-| Stars this week | 71 |
+| Stars this week | 51 |
 
 ---
 
-## 16. [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail)
+## 16. [digininja/DVWA](https://github.com/digininja/DVWA) 🆕
 
-The Roundcube Webmail suite
+Damn Vulnerable Web Application (DVWA)
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,288 |
-| Forks | 1,813 |
-| Stars this week | 20 |
+| Stars | 14,054 |
+| Forks | 5,270 |
+| Stars this week | 43 |
 
 ---
 
-## 17. [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) 🆕
+## 17. [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) 🆕
 
-SuiteCRM - Open source CRM for the world
+Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,869 |
-| Forks | 2,447 |
-| Stars this week | 15 |
+| Stars | 7,886 |
+| Forks | 3,633 |
+| Stars this week | 37 |
 
 ---
 
-## 18. [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM) 🆕
+## 18. [librenms/librenms](https://github.com/librenms/librenms) 🆕
+
+Community-based GPL-licensed network monitoring system
+
+| Metric | Value |
+|--------|-------|
+| Language | PHP |
+| Stars | 5,018 |
+| Forks | 2,876 |
+| Stars this week | 16 |
+
+---
+
+## 19. [ChurchCRM/CRM](https://github.com/ChurchCRM/CRM)
 
 Free, open-source church management software for people, families, groups, events, attendance, giving, volunteers, and more. No subscription. Your data is yours.
 
@@ -237,20 +250,20 @@ Free, open-source church management software for people, families, groups, event
 |--------|-------|
 | Language | PHP |
 | Stars | 1,001 |
-| Forks | 612 |
+| Forks | 614 |
 | Stars this week | 9 |
 
 ---
 
-## 19. [openemr/openemr](https://github.com/openemr/openemr)
+## 20. [FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling) 🆕
 
-The most popular open source electronic health records and medical practice management solution.
+Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,608 |
-| Forks | 3,136 |
-| Stars this week | 18 |
+| Stars | 1,755 |
+| Forks | 374 |
+| Stars this week | 6 |
 
 ---

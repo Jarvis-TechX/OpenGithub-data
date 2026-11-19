@@ -1,243 +1,256 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-18T07:19:05Z
-**Total Repositories:** 18
-**New Entries:** 5
+**Snapshot Time:** 2026-11-19T07:16:59Z
+**Total Repositories:** 19
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
-
-Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,964 |
-| Forks | 107 |
-| Stars this month | 696 |
-
----
-
-## 2. [lingyired/status-trio](https://github.com/lingyired/status-trio)
+## 1. [lingyired/status-trio](https://github.com/lingyired/status-trio)
 
 Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into one compact, configurable status icon for the menu bar, the Dock, or both, inspired by the iPhone Duo combined status bar.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,988 |
+| Stars | 2,002 |
 | Forks | 108 |
-| Stars this month | 1,313 |
+| Stars this month | 1,333 |
 
 ---
 
-## 3. [pauljoda/Crest](https://github.com/pauljoda/Crest) 🆕
-
-An open source browser for Mac, iPhone, and iPad.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,348 |
-| Forks | 133 |
-| Stars this month | 951 |
-
----
-
-## 4. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
+## 2. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
 
 iOS 27 MobileGestalt editor
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,240 |
-| Forks | 95 |
-| Stars this month | 423 |
+| Stars | 1,253 |
+| Forks | 94 |
+| Stars this month | 443 |
 
 ---
 
-## 5. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
+## 3. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app)
 
 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,019 |
-| Forks | 317 |
-| Stars this month | 1,097 |
+| Stars | 3,042 |
+| Forks | 318 |
+| Stars this month | 1,101 |
 
 ---
 
-## 6. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
+## 4. [groue/GRDB.swift](https://github.com/groue/GRDB.swift)
 
 A toolkit for SQLite databases, with a focus on application development
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,751 |
-| Forks | 1,116 |
-| Stars this month | 68 |
+| Stars | 8,752 |
+| Forks | 1,118 |
+| Stars this month | 66 |
 
 ---
 
-## 7. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit) 🆕
+## 5. [kaishi00/hermes-conduit](https://github.com/kaishi00/hermes-conduit)
 
 Conduit — native SwiftUI iOS client for Hermes Agent
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 627 |
-| Forks | 91 |
-| Stars this month | 306 |
+| Stars | 643 |
+| Forks | 92 |
+| Stars this month | 322 |
 
 ---
 
-## 8. [claration/feather](https://github.com/claration/feather)
+## 6. [claration/feather](https://github.com/claration/feather)
 
 Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,143 |
-| Forks | 490 |
-| Stars this month | 318 |
+| Stars | 5,148 |
+| Forks | 492 |
+| Stars this month | 316 |
 
 ---
 
-## 9. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+## 7. [milika/SmartTubeIOS](https://github.com/milika/SmartTubeIOS) 🆕
 
-Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac — ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K. Open source.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,814 |
-| Forks | 2,677 |
-| Stars this month | 835 |
+| Stars | 581 |
+| Forks | 92 |
+| Stars this month | 178 |
 
 ---
 
-## 10. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
-
-An an app that installs Sidestore on iOS 27, fully on-device
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,479 |
-| Forks | 120 |
-| Stars this month | 408 |
-
----
-
-## 11. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+## 8. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 
 bluetooth mesh chat, IRC vibes
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 37,174 |
-| Forks | 5,898 |
-| Stars this month | 636 |
+| Stars | 37,184 |
+| Forks | 5,896 |
+| Stars this month | 638 |
 
 ---
 
-## 12. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
+## 9. [apple/coreai-models](https://github.com/apple/coreai-models) 🆕
 
-A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
+Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 485 |
-| Forks | 153 |
-| Stars this month | 95 |
+| Stars | 2,362 |
+| Forks | 270 |
+| Stars this month | 165 |
 
 ---
 
-## 13. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 10. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
 
-Run iOS apps without actually installing them!
+Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,372 |
-| Forks | 1,336 |
-| Stars this month | 1,565 |
+| Stars | 1,976 |
+| Forks | 108 |
+| Stars this month | 709 |
 
 ---
 
-## 14. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
+## 11. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
-AI coding assistant for Xcode
+An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,398 |
-| Forks | 2,107 |
-| Stars this month | 76 |
+| Stars | 1,494 |
+| Forks | 123 |
+| Stars this month | 408 |
 
 ---
 
-## 15. [farzaa/clicky](https://github.com/farzaa/clicky) 🆕
-
-The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 8,036 |
-| Forks | 1,608 |
-| Stars this month | 329 |
-
----
-
-## 16. [suversal/WrapPin](https://github.com/suversal/WrapPin) 🆕
+## 12. [suversal/WrapPin](https://github.com/suversal/WrapPin)
 
 iOS 27+ 本机虚拟定位与步行路线测试工具
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 987 |
-| Forks | 145 |
-| Stars this month | 437 |
+| Stars | 1,085 |
+| Forks | 154 |
+| Stars this month | 486 |
 
 ---
 
-## 17. [swiftlang/swift](https://github.com/swiftlang/swift)
+## 13. [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 
-The Swift Programming Language
+Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 70,566 |
-| Forks | 10,905 |
-| Stars this month | 146 |
+| Stars | 28,829 |
+| Forks | 2,683 |
+| Stars this month | 830 |
 
 ---
 
-## 18. [Finb/Bark](https://github.com/Finb/Bark) 🆕
+## 14. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+
+Run iOS apps without actually installing them!
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 14,404 |
+| Forks | 1,338 |
+| Stars this month | 1,455 |
+
+---
+
+## 15. [farzaa/clicky](https://github.com/farzaa/clicky)
+
+The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 8,044 |
+| Forks | 1,609 |
+| Stars this month | 333 |
+
+---
+
+## 16. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
+
+A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 491 |
+| Forks | 153 |
+| Stars this month | 96 |
+
+---
+
+## 17. [Finb/Bark](https://github.com/Finb/Bark)
 
 Bark is an iOS App which allows you to push custom notifications to your iPhone
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,590 |
+| Stars | 9,595 |
 | Forks | 763 |
-| Stars this month | 280 |
+| Stars this month | 279 |
+
+---
+
+## 18. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
+
+AI coding assistant for Xcode
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 6,400 |
+| Forks | 2,107 |
+| Stars this month | 80 |
+
+---
+
+## 19. [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) 🆕
+
+Native Jellyfin Client for iOS and tvOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,291 |
+| Forks | 669 |
+| Stars this month | 91 |
 
 ---

@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-18T07:19:02Z
-**Total Repositories:** 15
-**New Entries:** 3
-**Quality Score:** 97.33/100
+**Snapshot Time:** 2026-11-19T07:16:56Z
+**Total Repositories:** 16
+**New Entries:** 1
+**Quality Score:** 97.50/100
 
 ---
 
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,637 |
+| Stars | 10,655 |
 | Forks | 697 |
-| Stars this month | 2,345 |
+| Stars this month | 2,018 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,889 |
-| Forks | 746 |
-| Stars this month | 3,494 |
+| Stars | 6,943 |
+| Forks | 759 |
+| Stars this month | 3,464 |
 
 ---
 
@@ -39,9 +39,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,704 |
-| Forks | 5,137 |
-| Stars this month | 1,476 |
+| Stars | 20,745 |
+| Forks | 5,149 |
+| Stars this month | 1,463 |
 
 ---
 
@@ -52,9 +52,9 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,343 |
-| Forks | 440 |
-| Stars this month | 3,708 |
+| Stars | 8,417 |
+| Forks | 443 |
+| Stars this month | 3,701 |
 
 ---
 
@@ -65,35 +65,35 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,556 |
-| Forks | 794 |
-| Stars this month | 1,527 |
+| Stars | 13,613 |
+| Forks | 798 |
+| Stars this month | 1,544 |
 
 ---
 
-## 6. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
-
-基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 44,976 |
-| Forks | 2,140 |
-| Stars this month | 2,165 |
-
----
-
-## 7. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova)
+## 6. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova)
 
 Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,212 |
-| Forks | 1,432 |
-| Stars this month | 675 |
+| Stars | 7,251 |
+| Forks | 1,436 |
+| Stars this month | 724 |
+
+---
+
+## 7. [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+
+基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 45,029 |
+| Forks | 2,142 |
+| Stars this month | 2,177 |
 
 ---
 
@@ -104,9 +104,9 @@ Using system APIs directly with adb/root privileges from normal apps through a J
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 33,983 |
-| Forks | 3,707 |
-| Stars this month | 2,452 |
+| Stars | 34,061 |
+| Forks | 3,719 |
+| Stars this month | 2,471 |
 
 ---
 
@@ -117,9 +117,9 @@ An OSS Android TV client for Jellyfin
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,360 |
+| Stars | 3,364 |
 | Forks | 249 |
-| Stars this month | 299 |
+| Stars this month | 293 |
 
 ---
 
@@ -130,9 +130,9 @@ StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jet
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,065 |
-| Forks | 178 |
-| Stars this month | 258 |
+| Stars | 1,070 |
+| Forks | 179 |
+| Stars this month | 262 |
 
 ---
 
@@ -143,35 +143,35 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,662 |
-| Forks | 525 |
-| Stars this month | 5,884 |
+| Stars | 6,810 |
+| Forks | 539 |
+| Stars this month | 5,992 |
 
 ---
 
-## 12. [kuafuai/andee](https://github.com/kuafuai/andee) 🆕
-
-Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any model; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆和密码绝不离开设备。
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,154 |
-| Forks | 293 |
-| Stars this month | 6,317 |
-
----
-
-## 13. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) 🆕
+## 12. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
 
 Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,759 |
-| Forks | 172 |
-| Stars this month | 576 |
+| Stars | 2,771 |
+| Forks | 173 |
+| Stars this month | 588 |
+
+---
+
+## 13. [kuafuai/andee](https://github.com/kuafuai/andee)
+
+Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any model; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆和密码绝不离开设备。
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,157 |
+| Forks | 294 |
+| Stars this month | 6,259 |
 
 ---
 
@@ -182,21 +182,34 @@ Headunit App for displaying Android Auto
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,417 |
-| Forks | 337 |
-| Stars this month | 568 |
+| Stars | 3,438 |
+| Forks | 339 |
+| Stars this month | 573 |
 
 ---
 
-## 15. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) 🆕
+## 15. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
 
 使用 Material Design 3 全新设计的阅读 3.0
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,076 |
-| Forks | 825 |
-| Stars this month | 606 |
+| Stars | 7,097 |
+| Forks | 828 |
+| Stars this month | 617 |
+
+---
+
+## 16. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) 🆕
+
+GhostLock One-Tap Execution App (CVE-2026-43499)
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,107 |
+| Forks | 728 |
+| Stars this month | 1,082 |
 
 ---

@@ -1,127 +1,127 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-18T07:18:40Z
+**Snapshot Time:** 2026-11-19T07:16:32Z
 **Total Repositories:** 18
-**New Entries:** 4
-**Quality Score:** 100.00/100
+**New Entries:** 7
+**Quality Score:** 97.78/100
 
 ---
 
-## 1. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
-
-All Algorithms implemented in Java
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 67,275 |
-| Forks | 21,533 |
-| Stars this week | 478 |
-
----
-
-## 2. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 1. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
 Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,787 |
-| Forks | 26,280 |
-| Stars this week | 412 |
+| Stars | 78,654 |
+| Forks | 26,226 |
+| Stars this week | 420 |
 
 ---
 
-## 3. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
-
-A libre lightweight streaming front-end for Android.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 40,788 |
-| Forks | 4,004 |
-| Stars this week | 254 |
-
----
-
-## 4. [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
-
-The main repository of Telegram X — official alternative Telegram client for Android.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 6,211 |
-| Forks | 1,200 |
-| Stars this week | 34 |
-
----
-
-## 5. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+## 2. [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
 Learn System Design concepts and prepare for interviews using free resources.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 43,466 |
-| Forks | 8,975 |
-| Stars this week | 285 |
+| Stars | 43,482 |
+| Forks | 8,976 |
+| Stars this week | 254 |
 
 ---
 
-## 6. [xD3I/PZ_Optimization](https://github.com/xD3I/PZ_Optimization) 🆕
+## 3. [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
 
-Project Zomboid Build 42 performance work: class overrides, harness, findings
+The main repository of Telegram X — official alternative Telegram client for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 233 |
-| Forks | 31 |
-| Stars this week | 37 |
+| Stars | 6,218 |
+| Forks | 1,201 |
+| Stars this week | 36 |
 
 ---
 
-## 7. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)
+## 4. [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+
+A libre lightweight streaming front-end for Android.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 40,814 |
+| Forks | 4,009 |
+| Stars this week | 246 |
+
+---
+
+## 5. [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)
 
 Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,393 |
-| Forks | 85 |
-| Stars this week | 171 |
+| Stars | 1,402 |
+| Forks | 86 |
+| Stars this week | 173 |
 
 ---
 
-## 8. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) 🆕
+## 6. [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
 
-Browse media content with your own rules on Android TV
+All Algorithms implemented in Java
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 36,433 |
-| Forks | 2,341 |
-| Stars this week | 282 |
+| Stars | 67,284 |
+| Forks | 21,538 |
+| Stars this week | 386 |
 
 ---
 
-## 9. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
+## 7. [termux/termux-app](https://github.com/termux/termux-app)
 
-Jenkins automation server
+Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 26,792 |
-| Forks | 9,839 |
-| Stars this week | 48 |
+| Stars | 65,176 |
+| Forks | 8,364 |
+| Stars this week | 586 |
+
+---
+
+## 8. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+
+Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 81,878 |
+| Forks | 42,715 |
+| Stars this week | 386 |
+
+---
+
+## 9. [openjdk/jdk](https://github.com/openjdk/jdk) 🆕
+
+JDK main-line developmenthttps://openjdk.org/projects/jdk
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 23,545 |
+| Forks | 6,612 |
+| Stars this week | 39 |
 
 ---
 
@@ -133,111 +133,109 @@ LeviLauncher for Android
 |--------|-------|
 | Language | Java |
 | Stars | 724 |
-| Forks | 200 |
-| Stars this week | 38 |
+| Forks | 203 |
+| Stars this week | 37 |
 
 ---
 
-## 11. [termux/termux-x11](https://github.com/termux/termux-x11)
+## 11. [microg/GmsCore](https://github.com/microg/GmsCore) 🆕
+
+Free implementation of Play Services
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 15,370 |
+| Forks | 3,389 |
+| Stars this week | 97 |
+
+---
+
+## 12. [termux/termux-x11](https://github.com/termux/termux-x11)
 
 Termux X-server add-on.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,171 |
-| Forks | 837 |
-| Stars this week | 64 |
+| Stars | 5,176 |
+| Forks | 839 |
+| Stars this week | 65 |
 
 ---
 
-## 12. [keycloak/keycloak](https://github.com/keycloak/keycloak)
+## 13. [apache/nifi](https://github.com/apache/nifi) 🆕
 
-Open Source Identity and Access Management For Modern Applications and Services
+Apache NiFi
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 37,922 |
-| Forks | 9,204 |
-| Stars this week | 125 |
+| Stars | 6,328 |
+| Forks | 3,007 |
+| Stars this week | 16 |
 
 ---
 
-## 13. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+## 14. [Sketchware-Pro/Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) 🆕
 
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 81,996 |
-| Forks | 42,761 |
-| Stars this week | 363 |
+| Stars | 1,866 |
+| Forks | 760 |
+| Stars this week | 23 |
 
 ---
 
-## 14. [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) 🆕
-
-Build distributed, production-grade, long-running agents.
+## 15. [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,406 |
-| Forks | 1,621 |
-| Stars this week | 86 |
+| Stars | 1,530 |
+| Forks | 243 |
+| Stars this week | 21 |
 
 ---
 
-## 15. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+## 16. [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) 🆕
 
-LSPosed Framework
+No clever tagline needed.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 25,542 |
-| Forks | 3,595 |
-| Stars this week | 142 |
+| Stars | 13,968 |
+| Forks | 1,818 |
+| Stars this week | 72 |
 
 ---
 
-## 16. [termux/termux-app](https://github.com/termux/termux-app)
+## 17. [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) 🆕
 
-Termux - a terminal emulator application for Android OS extendible by variety of packages.
+Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,105 |
-| Forks | 8,351 |
-| Stars this week | 566 |
+| Stars | 6,828 |
+| Forks | 1,752 |
+| Stars this week | 41 |
 
 ---
 
-## 17. [freerouting/freerouting](https://github.com/freerouting/freerouting)
+## 18. [freerouting/freerouting](https://github.com/freerouting/freerouting)
 
 Advanced PCB auto-router
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,247 |
+| Stars | 2,251 |
 | Forks | 363 |
-| Stars this week | 42 |
-
----
-
-## 18. [apache/kafka](https://github.com/apache/kafka) 🆕
-
-Apache Kafka - A distributed event streaming platform
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 34,228 |
-| Forks | 15,705 |
-| Stars this week | 42 |
+| Stars this week | 40 |
 
 ---

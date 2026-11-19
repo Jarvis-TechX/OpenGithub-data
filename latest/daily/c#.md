@@ -1,163 +1,176 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-18T07:18:24Z
-**Total Repositories:** 12
+**Snapshot Time:** 2026-11-19T07:16:15Z
+**Total Repositories:** 13
 **New Entries:** 10
-**Quality Score:** 100.00/100
+**Quality Score:** 96.92/100
 
 ---
 
-## 1. [ppy/osu](https://github.com/ppy/osu)
-
-rhythm is just a *click* away!
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 19,479 |
-| Forks | 2,900 |
-| Stars today | 22 |
-
----
-
-## 2. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) 🆕
+## 1. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
 
 Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 12,495 |
-| Forks | 548 |
-| Stars today | 537 |
+| Stars | 12,704 |
+| Forks | 561 |
+| Stars today | 311 |
 
 ---
 
-## 3. [Radarr/Radarr](https://github.com/Radarr/Radarr) 🆕
-
-Movie organizer/manager for usenet and torrent users.
+## 2. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) 🆕
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,811 |
-| Forks | 1,264 |
-| Stars today | 14 |
+| Stars | 13,874 |
+| Forks | 1,211 |
+| Stars today | 17 |
 
 ---
 
-## 4. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🆕
+## 3. [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) 🆕
 
-Integrate cutting-edge LLM technology quickly and easily into your apps
+Clean Architecture Solution Template for ASP.NET Core
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 28,787 |
-| Forks | 4,858 |
+| Stars | 20,733 |
+| Forks | 4,300 |
+| Stars today | 7 |
+
+---
+
+## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) 🆕
+
+FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,369 |
+| Forks | 250 |
+| Stars today | 112 |
+
+---
+
+## 5. [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) 🆕
+
+Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,620 |
+| Forks | 435 |
 | Stars today | 6 |
 
 ---
 
-## 5. [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) 🆕
+## 6. [dotnet/roslyn](https://github.com/dotnet/roslyn) 🆕
 
-Technitium DNS Server
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 10,399 |
-| Forks | 826 |
-| Stars today | 9 |
-
----
-
-## 6. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) 🆕
-
-UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,096 |
-| Forks | 983 |
-| Stars today | 30 |
+| Stars | 20,788 |
+| Forks | 4,384 |
+| Stars today | 4 |
 
 ---
 
-## 7. [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) 🆕
+## 7. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) 🆕
 
-AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.
+.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,659 |
-| Forks | 411 |
-| Stars today | 9 |
+| Stars | 27,103 |
+| Forks | 3,845 |
+| Stars today | 8 |
 
 ---
 
-## 8. [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader)
+## 8. [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) 🆕
+
+Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 9,423 |
+| Forks | 1,061 |
+| Stars today | 6 |
+
+---
+
+## 9. [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) 🆕
+
+Unity plugin for third-party agent platforms
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 658 |
+| Forks | 68 |
+| Stars today | 8 |
+
+---
+
+## 10. [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader)
 
 Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,078 |
-| Forks | 357 |
-| Stars today | 14 |
+| Stars | 4,094 |
+| Forks | 362 |
+| Stars today | 16 |
 
 ---
 
-## 9. [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) 🆕
+## 11. [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
 
-Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
+AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,093 |
-| Forks | 305 |
-| Stars today | 5 |
+| Stars | 4,665 |
+| Forks | 411 |
+| Stars today | 8 |
 
 ---
 
-## 10. [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) 🆕
+## 12. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
 
-Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.
+OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,675 |
-| Forks | 1,713 |
-| Stars today | 5 |
+| Stars | 33,441 |
+| Forks | 2,286 |
+| Stars today | 52 |
 
 ---
 
-## 11. [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) 🆕
+## 13. [STranslate/STranslate](https://github.com/STranslate/STranslate) 🆕
 
-Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
+A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,637 |
-| Forks | 652 |
-
----
-
-## 12. [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) 🆕
-
-Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 5,286 |
-| Forks | 2,956 |
+| Stars | 8,653 |
+| Forks | 465 |
+| Stars today | 17 |
 
 ---

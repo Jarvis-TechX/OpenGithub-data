@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-18T07:18:31Z
-**Total Repositories:** 17
-**New Entries:** 2
+**Snapshot Time:** 2026-11-19T07:16:22Z
+**Total Repositories:** 16
+**New Entries:** 3
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,560 |
-| Forks | 731 |
-| Stars this week | 7,015 |
+| Stars | 8,929 |
+| Forks | 744 |
+| Stars this week | 7,257 |
 
 ---
 
@@ -28,9 +28,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,181 |
-| Forks | 1,320 |
-| Stars this week | 2,926 |
+| Stars | 13,529 |
+| Forks | 1,363 |
+| Stars this week | 3,290 |
 
 ---
 
@@ -41,87 +41,87 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,301 |
-| Forks | 2,366 |
-| Stars this week | 8,700 |
+| Stars | 30,691 |
+| Forks | 2,404 |
+| Stars this week | 6,250 |
 
 ---
 
-## 4. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-Chrome DevTools for coding agents
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 58,111 |
-| Forks | 4,874 |
-| Stars this week | 2,948 |
-
----
-
-## 5. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+## 4. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
 
 A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,211 |
-| Forks | 1,335 |
-| Stars this week | 1,197 |
+| Stars | 10,504 |
+| Forks | 1,372 |
+| Stars this week | 1,567 |
 
 ---
 
-## 6. [openai/codex-security](https://github.com/openai/codex-security)
+## 5. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 
-OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
+Chrome DevTools for coding agents
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,012 |
-| Forks | 1,095 |
-| Stars this week | 2,531 |
+| Stars | 58,254 |
+| Forks | 4,879 |
+| Stars this week | 3,143 |
 
 ---
 
-## 7. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-
-An open-source AI coding agent that lives in your terminal.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 30,741 |
-| Forks | 3,553 |
-| Stars this week | 1,603 |
-
----
-
-## 8. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+## 6. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 
 AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,160 |
-| Forks | 2,078 |
-| Stars this week | 2,773 |
+| Stars | 20,510 |
+| Forks | 2,109 |
+| Stars this week | 3,221 |
 
 ---
 
-## 9. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+## 7. [openai/codex-security](https://github.com/openai/codex-security)
 
-The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.
+OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,784 |
-| Forks | 1,586 |
-| Stars this week | 2,110 |
+| Stars | 14,141 |
+| Forks | 1,104 |
+| Stars this week | 2,630 |
+
+---
+
+## 8. [dream-num/univer](https://github.com/dream-num/univer)
+
+Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 30,028 |
+| Forks | 2,713 |
+| Stars this week | 6,840 |
+
+---
+
+## 9. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+
+An open-source AI coding agent that lives in your terminal.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 30,774 |
+| Forks | 3,557 |
+| Stars this week | 1,387 |
 
 ---
 
@@ -132,99 +132,86 @@ Open-source generative UI framework: agents stream layout data, and apps render 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,586 |
-| Forks | 1,426 |
-| Stars this week | 516 |
+| Stars | 17,626 |
+| Forks | 1,429 |
+| Stars this week | 557 |
 
 ---
 
-## 11. [dream-num/univer](https://github.com/dream-num/univer)
+## 11. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 
-Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,459 |
-| Forks | 2,637 |
-| Stars this week | 5,845 |
+| Stars | 12,899 |
+| Forks | 1,602 |
+| Stars this week | 1,901 |
 
 ---
 
-## 12. [lobehub/lobehub](https://github.com/lobehub/lobehub)
-
-🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 85,736 |
-| Forks | 16,342 |
-| Stars this week | 961 |
-
----
-
-## 13. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+## 12. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
 Open-source Grok Bot alternative with a virtual machine that bots can use
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 25,002 |
-| Forks | 3,522 |
-| Stars this week | 4,284 |
+| Stars | 25,528 |
+| Forks | 3,615 |
+| Stars this week | 4,246 |
 
 ---
 
-## 14. [garrytan/gbrain](https://github.com/garrytan/gbrain)
+## 13. [lobehub/lobehub](https://github.com/lobehub/lobehub)
 
-Garry's Opinionated OpenClaw/Hermes Agent Brain
+🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,243 |
-| Forks | 4,974 |
-| Stars this week | 814 |
+| Stars | 85,831 |
+| Forks | 16,350 |
+| Stars this week | 829 |
 
 ---
 
-## 15. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+## 14. [elie222/rakazo](https://github.com/elie222/rakazo) 🆕
 
-A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .
+Open-source Grok Bot alternative. Choose your own model and sandbox.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,808 |
-| Forks | 624 |
-| Stars this week | 1,743 |
+| Stars | 9,163 |
+| Forks | 1,648 |
+| Stars this week | 1,230 |
 
 ---
 
-## 16. [immich-app/immich](https://github.com/immich-app/immich) 🆕
+## 15. [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) 🆕
 
-High performance self-hosted photo and video management solution.
+AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 119,510 |
-| Forks | 7,643 |
-| Stars this week | 806 |
+| Stars | 3,275 |
+| Forks | 955 |
+| Stars this week | 136 |
 
 ---
 
-## 17. [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) 🆕
+## 16. [hieunc229/mailflare](https://github.com/hieunc229/mailflare) 🆕
 
-LIBERATED AI CHAT
+Email for professionals and teams
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,651 |
-| Forks | 2,921 |
-| Stars this week | 440 |
+| Stars | 7,144 |
+| Forks | 1,234 |
+| Stars this week | 991 |
 
 ---

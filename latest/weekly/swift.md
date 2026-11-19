@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-18T07:18:43Z
-**Total Repositories:** 17
-**New Entries:** 3
+**Snapshot Time:** 2026-11-19T07:16:36Z
+**Total Repositories:** 16
+**New Entries:** 6
 **Quality Score:** 100.00/100
 
 ---
@@ -15,48 +15,48 @@ A tool for creating and running Linux containers using lightweight virtual machi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 51,873 |
-| Forks | 1,846 |
-| Stars this week | 733 |
+| Stars | 51,959 |
+| Forks | 1,849 |
+| Stars this week | 812 |
 
 ---
 
-## 2. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+## 2. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) 🆕
+
+iOS 27 MobileGestalt editor
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,253 |
+| Forks | 94 |
+| Stars this week | 289 |
+
+---
+
+## 3. [apple/coreai-models](https://github.com/apple/coreai-models) 🆕
+
+Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,362 |
+| Forks | 270 |
+| Stars this week | 53 |
+
+---
+
+## 4. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 118,788 |
-| Forks | 10,395 |
-| Stars this week | 595 |
-
----
-
-## 3. [consolelabs/hidden](https://github.com/consolelabs/hidden)
-
-An ultra-light MacOS utility that helps hide menu bar icons
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 15,460 |
-| Forks | 542 |
-| Stars this week | 77 |
-
----
-
-## 4. [github/CopilotForXcode](https://github.com/github/CopilotForXcode)
-
-AI coding assistant for Xcode
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 6,398 |
-| Forks | 2,107 |
-| Stars this week | 19 |
+| Stars | 118,860 |
+| Forks | 10,423 |
+| Stars this week | 609 |
 
 ---
 
@@ -67,9 +67,9 @@ Protect your SSH keys with your Mac's Secure Enclave
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,485 |
+| Stars | 9,497 |
 | Forks | 241 |
-| Stars this week | 203 |
+| Stars this week | 152 |
 
 ---
 
@@ -80,9 +80,9 @@ iOS 27+ 本机虚拟定位与步行路线测试工具
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 987 |
-| Forks | 145 |
-| Stars this week | 154 |
+| Stars | 1,085 |
+| Forks | 154 |
+| Stars this week | 198 |
 
 ---
 
@@ -93,48 +93,48 @@ An an app that installs Sidestore on iOS 27, fully on-device
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,479 |
-| Forks | 120 |
-| Stars this week | 110 |
+| Stars | 1,494 |
+| Forks | 123 |
+| Stars this week | 109 |
 
 ---
 
-## 8. [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS)
+## 8. [exelban/stats](https://github.com/exelban/stats) 🆕
 
-A cosy home for your LLMs.
+macOS system monitor in your menu bar
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,844 |
-| Forks | 150 |
-| Stars this week | 79 |
+| Stars | 43,504 |
+| Forks | 1,635 |
+| Stars this week | 202 |
 
 ---
 
-## 9. [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)
+## 9. [consolelabs/hidden](https://github.com/consolelabs/hidden)
 
-The mouse and trackpad utility for Mac.
+An ultra-light MacOS utility that helps hide menu bar icons
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,214 |
-| Forks | 204 |
-| Stars this week | 58 |
+| Stars | 15,490 |
+| Forks | 546 |
+| Stars this week | 108 |
 
 ---
 
-## 10. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 10. [claration/feather](https://github.com/claration/feather)
 
-Run iOS apps without actually installing them!
+Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,372 |
-| Forks | 1,336 |
-| Stars this week | 324 |
+| Stars | 5,148 |
+| Forks | 492 |
+| Stars this week | 73 |
 
 ---
 
@@ -145,61 +145,61 @@ Manga reading app for iOS, iPadOS, and macOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,766 |
-| Forks | 339 |
-| Stars this week | 44 |
+| Stars | 4,770 |
+| Forks | 341 |
+| Stars this week | 42 |
 
 ---
 
-## 12. [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) 🆕
+## 12. [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 🆕
 
-Nuvio tvOS client
+🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 442 |
-| Forks | 48 |
-| Stars this week | 44 |
+| Stars | 34,770 |
+| Forks | 1,047 |
+| Stars this week | 92 |
 
 ---
 
-## 13. [LoopKit/Loop](https://github.com/LoopKit/Loop) 🆕
+## 13. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) 🆕
 
-An automated insulin delivery app for iOS, built on LoopKit
+无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,755 |
-| Forks | 1,460 |
-| Stars this week | 1 |
+| Stars | 3,042 |
+| Forks | 318 |
+| Stars this week | 208 |
 
 ---
 
-## 14. [claration/feather](https://github.com/claration/feather)
+## 14. [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS)
 
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
+A cosy home for your LLMs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,143 |
-| Forks | 490 |
-| Stars this week | 80 |
+| Stars | 1,848 |
+| Forks | 150 |
+| Stars this week | 76 |
 
 ---
 
-## 15. [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin)
+## 15. [sozercan/kaset](https://github.com/sozercan/kaset) 🆕
 
-Native Jellyfin Client for iOS and tvOS
+📼 The missing YouTube and YouTube Music macOS app
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,287 |
-| Forks | 668 |
-| Stars this week | 22 |
+| Stars | 2,623 |
+| Forks | 203 |
+| Stars this week | 68 |
 
 ---
 
@@ -210,21 +210,8 @@ Feature-packed native macOS screenshot & recording tool: annotate, auto-redact P
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,202 |
-| Forks | 287 |
-| Stars this week | 107 |
-
----
-
-## 17. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
-
-Telegram-iOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,451 |
-| Forks | 3,318 |
-| Stars this week | 43 |
+| Stars | 4,232 |
+| Forks | 294 |
+| Stars this week | 108 |
 
 ---

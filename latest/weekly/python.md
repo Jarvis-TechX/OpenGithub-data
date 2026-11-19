@@ -1,23 +1,23 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-18T07:18:28Z
-**Total Repositories:** 17
+**Snapshot Time:** 2026-11-19T07:16:19Z
+**Total Repositories:** 15
 **New Entries:** 3
-**Quality Score:** 97.65/100
+**Quality Score:** 97.33/100
 
 ---
 
-## 1. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+## 1. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
 
-LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 73,177 |
-| Forks | 57,823 |
-| Stars this week | 3,653 |
+| Stars | 7,115 |
+| Forks | 1,445 |
+| Stars this week | 3,242 |
 
 ---
 
@@ -28,201 +28,175 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 196,894 |
-| Forks | 23,072 |
-| Stars this week | 4,847 |
+| Stars | 197,358 |
+| Forks | 23,110 |
+| Stars this week | 4,381 |
 
 ---
 
-## 3. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+## 3. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
 
-A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,898 |
-| Forks | 1,400 |
-| Stars this week | 2,508 |
+| Stars | 73,408 |
+| Forks | 57,919 |
+| Stars this week | 3,566 |
 
 ---
 
-## 4. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)
-
-Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 6,937 |
-| Forks | 1,415 |
-| Stars this week | 2,985 |
-
----
-
-## 5. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+## 4. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
 
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 69,379 |
-| Forks | 6,165 |
-| Stars this week | 1,548 |
+| Stars | 70,280 |
+| Forks | 6,260 |
+| Stars this week | 2,423 |
 
 ---
 
-## 6. [soxoj/maigret](https://github.com/soxoj/maigret)
-
-🕵️‍♂️ Collect a dossier on a person by username from 6K websites
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 40,873 |
-| Forks | 3,303 |
-| Stars this week | 776 |
-
----
-
-## 7. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
-
-Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 7,966 |
-| Forks | 469 |
-| Stars this week | 1,568 |
-
----
-
-## 8. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+## 5. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
 Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,841 |
-| Forks | 730 |
-| Stars this week | 2,666 |
+| Stars | 8,085 |
+| Forks | 759 |
+| Stars this week | 2,894 |
 
 ---
 
-## 9. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+## 6. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
 
 Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 33,938 |
-| Forks | 4,027 |
-| Stars this week | 671 |
+| Stars | 33,987 |
+| Forks | 4,045 |
+| Stars this week | 675 |
 
 ---
 
-## 10. [blader/humanizer](https://github.com/blader/humanizer) 🆕
+## 7. [soxoj/maigret](https://github.com/soxoj/maigret)
 
-Agent skill that removes signs of AI-generated writing from text
+🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 70,510 |
-| Forks | 5,540 |
-| Stars this week | 2,866 |
+| Stars | 40,920 |
+| Forks | 3,309 |
+| Stars this week | 571 |
 
 ---
 
-## 11. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+## 8. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
 
-Hunt down social media accounts by username across social networks
+Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 113,914 |
-| Forks | 13,104 |
-| Stars this week | 5,346 |
+| Stars | 7,989 |
+| Forks | 473 |
+| Stars this week | 965 |
 
 ---
 
-## 12. [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
-
-Open-source plugin for designing and reviewing software with agents
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 20,881 |
-| Forks | 1,539 |
-| Stars this week | 3,701 |
-
----
-
-## 13. [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip)
+## 9. [FujiwaraChoki/supoclip](https://github.com/FujiwaraChoki/supoclip)
 
 An open-source OpusClip alternative
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,470 |
-| Forks | 777 |
-| Stars this week | 627 |
+| Stars | 3,586 |
+| Forks | 814 |
+| Stars this week | 682 |
 
 ---
 
-## 14. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+## 10. [microsoft/PyRIT](https://github.com/microsoft/PyRIT) 🆕
+
+Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 4,946 |
+| Forks | 1,084 |
+| Stars this week | 146 |
+
+---
+
+## 11. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
 
 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 26,684 |
-| Forks | 2,377 |
-| Stars this week | 1,430 |
+| Stars | 26,857 |
+| Forks | 2,392 |
+| Stars this week | 1,447 |
 
 ---
 
-## 15. [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)
-
-Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.
+## 12. [andrewyng/openworker](https://github.com/andrewyng/openworker)
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,019 |
-| Forks | 1,361 |
-| Stars this week | 1,160 |
+| Stars | 19,451 |
+| Forks | 2,779 |
+| Stars this week | 479 |
 
 ---
 
-## 16. [andrewyng/openworker](https://github.com/andrewyng/openworker) 🆕
+## 13. [openai/whisper](https://github.com/openai/whisper) 🆕
+
+Robust Speech Recognition via Large-Scale Weak Supervision
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 19,436 |
-| Forks | 2,774 |
-| Stars this week | 499 |
+| Stars | 113,041 |
+| Forks | 13,695 |
+| Stars this week | 910 |
 
 ---
 
-## 17. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) 🆕
+## 14. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🆕
 
-Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,153 |
-| Forks | 11,039 |
-| Stars this week | 3,235 |
+| Stars | 79,844 |
+| Forks | 9,788 |
+| Stars this week | 604 |
+
+---
+
+## 15. [blader/humanizer](https://github.com/blader/humanizer)
+
+Agent skill that removes signs of AI-generated writing from text
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 70,927 |
+| Forks | 5,564 |
+| Stars this week | 2,924 |
 
 ---

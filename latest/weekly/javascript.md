@@ -1,23 +1,23 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-18T07:18:29Z
-**Total Repositories:** 10
-**New Entries:** 2
+**Snapshot Time:** 2026-11-19T07:16:20Z
+**Total Repositories:** 13
+**New Entries:** 7
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+## 1. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
 
-Production-grade engineering skills for AI coding agents.
+Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 118,736 |
-| Forks | 12,378 |
-| Stars this week | 3,884 |
+| Stars | 35,339 |
+| Forks | 6,792 |
+| Stars this week | 1,251 |
 
 ---
 
@@ -28,48 +28,48 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 61,098 |
-| Forks | 8,907 |
-| Stars this week | 1,476 |
+| Stars | 61,320 |
+| Forks | 8,944 |
+| Stars this week | 1,531 |
 
 ---
 
-## 3. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+## 3. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
-Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 35,215 |
-| Forks | 6,764 |
-| Stars this week | 1,340 |
+| Stars | 119,028 |
+| Forks | 12,397 |
+| Stars this week | 3,331 |
 
 ---
 
-## 4. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+## 4. [jquery/jquery](https://github.com/jquery/jquery) 🆕
+
+jQuery JavaScript Library
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 60,062 |
+| Forks | 20,711 |
+| Stars this week | 420 |
+
+---
+
+## 5. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 
 A fancy self-hosted monitoring tool
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 94,574 |
-| Forks | 8,866 |
-| Stars this week | 1,144 |
-
----
-
-## 5. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
-
-Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 117,965 |
-| Forks | 7,892 |
-| Stars this week | 4,805 |
+| Stars | 94,622 |
+| Forks | 8,874 |
+| Stars this week | 1,140 |
 
 ---
 
@@ -80,60 +80,99 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 7,714 |
-| Forks | 931 |
-| Stars this week | 2,397 |
+| Stars | 8,222 |
+| Forks | 1,006 |
+| Stars this week | 2,476 |
 
 ---
 
-## 7. [mrdoob/three.js](https://github.com/mrdoob/three.js) 🆕
+## 7. [axios/axios](https://github.com/axios/axios) 🆕
 
-JavaScript 3D Library.
+Promise based HTTP client for the browser and node.js
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 118,791 |
-| Forks | 37,024 |
-| Stars this week | 725 |
-
----
-
-## 8. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
-
-ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 15,403 |
-| Forks | 1,746 |
-| Stars this week | 500 |
-
----
-
-## 9. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) 🆕
-
-Vercel's official collection of agent skills
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 34,423 |
-| Forks | 2,994 |
-| Stars this week | 511 |
-
----
-
-## 10. [expressjs/express](https://github.com/expressjs/express)
-
-Fast, unopinionated, minimalist web framework for node.
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 69,770 |
-| Forks | 25,669 |
+| Stars | 109,363 |
+| Forks | 12,116 |
 | Stars this week | 375 |
+
+---
+
+## 8. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 118,598 |
+| Forks | 7,934 |
+| Stars this week | 5,013 |
+
+---
+
+## 9. [sveltejs/svelte](https://github.com/sveltejs/svelte) 🆕
+
+web development for the rest of us
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 89,696 |
+| Forks | 6,217 |
+| Stars this week | 1,433 |
+
+---
+
+## 10. [affaan-m/ECC](https://github.com/affaan-m/ECC) 🆕
+
+The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 306,763 |
+| Forks | 45,159 |
+| Stars this week | 5,411 |
+
+---
+
+## 11. [react/react](https://github.com/react/react) 🆕
+
+The library for web and native user interfaces.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 252,741 |
+| Forks | 52,804 |
+| Stars this week | 771 |
+
+---
+
+## 12. [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) 🆕
+
+Automated auditing, performance metrics, and best practices for the web.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 31,158 |
+| Forks | 9,795 |
+| Stars this week | 119 |
+
+---
+
+## 13. [saadeghi/daisyui](https://github.com/saadeghi/daisyui) 🆕
+
+🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 42,898 |
+| Forks | 1,726 |
+| Stars this week | 107 |
 
 ---
