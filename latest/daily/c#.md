@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-19T07:16:15Z
-**Total Repositories:** 13
-**New Entries:** 10
-**Quality Score:** 96.92/100
+**Snapshot Time:** 2026-11-20T07:05:42Z
+**Total Repositories:** 16
+**New Entries:** 11
+**Quality Score:** 100.00/100
 
 ---
 
@@ -15,111 +15,113 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 12,704 |
-| Forks | 561 |
-| Stars today | 311 |
+| Stars | 12,763 |
+| Forks | 566 |
+| Stars today | 116 |
 
 ---
 
-## 2. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) 🆕
+## 2. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 🆕
+
+WinUI app for building smaller, customized Windows 11 images.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,874 |
-| Forks | 1,211 |
-| Stars today | 17 |
+| Stars | 22,320 |
+| Forks | 1,692 |
+| Stars today | 89 |
 
 ---
 
-## 3. [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) 🆕
+## 3. [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) 🆕
 
-Clean Architecture Solution Template for ASP.NET Core
+Advanced UX and interoperability extension for Wand (WeMod) app
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,733 |
-| Forks | 4,300 |
-| Stars today | 7 |
+| Stars | 33,629 |
+| Forks | 541 |
+| Stars today | 94 |
 
 ---
 
-## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) 🆕
+## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
 
 FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,369 |
-| Forks | 250 |
-| Stars today | 112 |
+| Stars | 7,429 |
+| Forks | 249 |
+| Stars today | 60 |
 
 ---
 
-## 5. [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) 🆕
+## 5. [2dust/v2rayN](https://github.com/2dust/v2rayN) 🆕
 
-Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,620 |
-| Forks | 435 |
-| Stars today | 6 |
+| Stars | 121,017 |
+| Forks | 16,369 |
+| Stars today | 99 |
 
 ---
 
-## 6. [dotnet/roslyn](https://github.com/dotnet/roslyn) 🆕
+## 6. [dlsandy/Transub-Player](https://github.com/dlsandy/Transub-Player) 🆕
 
-The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+Open a video. Subtitles follow. Windows player with live dual-language subtitles.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,788 |
-| Forks | 4,384 |
-| Stars today | 4 |
+| Stars | 1,213 |
+| Forks | 102 |
+| Stars today | 35 |
 
 ---
 
-## 7. [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) 🆕
+## 7. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) 🆕
 
-.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,103 |
-| Forks | 3,845 |
-| Stars today | 8 |
+| Stars | 16,079 |
+| Forks | 1,646 |
+| Stars today | 15 |
 
 ---
 
-## 8. [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) 🆕
+## 8. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 🆕
 
-Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
+the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 9,423 |
-| Forks | 1,061 |
-| Stars today | 6 |
+| Stars | 15,071 |
+| Forks | 1,389 |
+| Stars today | 16 |
 
 ---
 
-## 9. [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) 🆕
+## 9. [Cysharp/UniTask](https://github.com/Cysharp/UniTask) 🆕
 
-Unity plugin for third-party agent platforms
+Provides an efficient allocation free async/await integration for Unity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 658 |
-| Forks | 68 |
-| Stars today | 8 |
+| Stars | 11,315 |
+| Forks | 1,017 |
+| Stars today | 1 |
 
 ---
 
@@ -130,47 +132,86 @@ Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,094 |
-| Forks | 362 |
-| Stars today | 16 |
+| Stars | 4,107 |
+| Forks | 364 |
+| Stars today | 15 |
 
 ---
 
-## 11. [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
+## 11. [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) 🆕
 
-AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.
+”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,665 |
-| Forks | 411 |
-| Stars today | 8 |
+| Stars | 10,570 |
+| Forks | 719 |
+| Stars today | 2 |
 
 ---
 
-## 12. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) 🆕
+## 12. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 
 OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 33,441 |
-| Forks | 2,286 |
-| Stars today | 52 |
+| Stars | 33,467 |
+| Forks | 2,288 |
+| Stars today | 34 |
 
 ---
 
-## 13. [STranslate/STranslate](https://github.com/STranslate/STranslate) 🆕
+## 13. [bitwarden/server](https://github.com/bitwarden/server) 🆕
+
+Bitwarden infrastructure/backend (API, database, Docker, etc).
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 20,688 |
+| Forks | 1,850 |
+| Stars today | 21 |
+
+---
+
+## 14. [greenshot/greenshot](https://github.com/greenshot/greenshot) 🆕
+
+Greenshot for Windows - for more information look here:
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 5,277 |
+| Forks | 724 |
+| Stars today | 5 |
+
+---
+
+## 15. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) 🆕
+
+Download web video and audio
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,748 |
+| Forks | 381 |
+| Stars today | 40 |
+
+---
+
+## 16. [STranslate/STranslate](https://github.com/STranslate/STranslate)
 
 A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,653 |
+| Stars | 8,668 |
 | Forks | 465 |
-| Stars today | 17 |
+| Stars today | 20 |
 
 ---

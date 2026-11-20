@@ -1,230 +1,241 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-19T07:16:13Z
-**Total Repositories:** 17
-**New Entries:** 13
+**Snapshot Time:** 2026-11-20T07:05:39Z
+**Total Repositories:** 18
+**New Entries:** 14
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) 🆕
-
-Free and Open Source, Distributed, RESTful Search Engine
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 78,654 |
-| Forks | 26,226 |
-| Stars today | 81 |
-
----
-
-## 2. [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 81,878 |
-| Forks | 42,715 |
-| Stars today | 98 |
-
----
-
-## 3. [TelegramMessenger/Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) 🆕
-
-Telegram for Android source
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 30,335 |
-| Forks | 10,609 |
-| Stars today | 18 |
-
----
-
-## 4. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-
-🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 40,530 |
-| Forks | 8,690 |
-| Stars today | 43 |
-
----
-
-## 5. [openjdk/jdk](https://github.com/openjdk/jdk) 🆕
+## 1. [openjdk/jdk](https://github.com/openjdk/jdk)
 
 JDK main-line developmenthttps://openjdk.org/projects/jdk
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 23,545 |
-| Forks | 6,612 |
-| Stars today | 9 |
+| Stars | 23,552 |
+| Forks | 6,616 |
+| Stars today | 3 |
 
 ---
 
-## 6. [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) 🆕
+## 2. [keycloak/keycloak](https://github.com/keycloak/keycloak) 🆕
+
+Open Source Identity and Access Management For Modern Applications and Services
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 37,974 |
+| Forks | 9,228 |
+| Stars today | 33 |
+
+---
+
+## 3. [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 🆕
+
+🔎 Open source distributed and RESTful search engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 14,038 |
+| Forks | 3,088 |
+| Stars today | 10 |
+
+---
+
+## 4. [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) 🆕
+
+Free universal database tool and SQL client
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 52,488 |
+| Forks | 4,463 |
+| Stars today | 13 |
+
+---
+
+## 5. [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk)
 
 Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,694 |
-| Forks | 1,532 |
-| Stars today | 11 |
+| Stars | 10,699 |
+| Forks | 1,535 |
+| Stars today | 12 |
 
 ---
 
-## 7. [apache/doris](https://github.com/apache/doris) 🆕
+## 6. [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) 🆕
 
-Apache Doris is a real-time analytics and hybrid search database for AI agents.
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 16,242 |
-| Forks | 4,027 |
-| Stars today | 6 |
+| Stars | 4,484 |
+| Forks | 865 |
+| Stars today | 5 |
 
 ---
 
-## 8. [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) 🆕
-
-All-in-one IoT Platform - Device management, data collection, processing and visualization.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 22,696 |
-| Forks | 6,565 |
-| Stars today | 2 |
-
----
-
-## 9. [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) 🆕
+## 7. [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports)
 
 Disable Player Chat Reporting and make user messages untrackable.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,158 |
+| Stars | 1,166 |
 | Forks | 232 |
-| Stars today | 38 |
+| Stars today | 11 |
 
 ---
 
-## 10. [Aizistral-Studios/No-Chat-Restrictions](https://github.com/Aizistral-Studios/No-Chat-Restrictions) 🆕
+## 8. [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) 🆕
 
-A Minecraft mod dedicated to removing restrictions around the use of multiplayer features, including in-game chat.
+Dual pane Android file manager with focus on APKs
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 212 |
-| Forks | 95 |
+| Stars | 603 |
+| Forks | 88 |
 | Stars today | 13 |
 
 ---
 
-## 11. [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) 🆕
+## 9. [apache/polaris](https://github.com/apache/polaris) 🆕
 
-AndroidIDE is an IDE for Android to develop full featured Android apps.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 3,404 |
-| Forks | 764 |
-| Stars today | 12 |
-
----
-
-## 12. [zalexdev/strykerapp](https://github.com/zalexdev/strykerapp) 🆕
-
-Magic tool for pentest from your android device!
+Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,095 |
-| Forks | 307 |
-| Stars today | 9 |
+| Stars | 2,123 |
+| Forks | 575 |
+| Stars today | 1 |
 
 ---
 
-## 13. [kestra-io/kestra](https://github.com/kestra-io/kestra)
+## 10. [apache/skywalking](https://github.com/apache/skywalking) 🆕
+
+APM, Application Performance Monitoring System
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 25,014 |
+| Forks | 6,628 |
+| Stars today | 4 |
+
+---
+
+## 11. [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) 🆕
+
+Apache Kafka® running on Kubernetes
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 5,981 |
+| Forks | 1,574 |
+
+---
+
+## 12. [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) 🆕
+
+LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 13,423 |
+| Forks | 2,688 |
+| Stars today | 4 |
+
+---
+
+## 13. [apache/seatunnel](https://github.com/apache/seatunnel) 🆕
+
+SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 9,819 |
+| Forks | 2,472 |
+| Stars today | 7 |
+
+---
+
+## 14. [StarRocks/starrocks](https://github.com/StarRocks/starrocks) 🆕
+
+The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 12,271 |
+| Forks | 2,683 |
+| Stars today | 4 |
+
+---
+
+## 15. [apache/nifi](https://github.com/apache/nifi) 🆕
+
+Apache NiFi
+
+| Metric | Value |
+|--------|-------|
+| Language | Java |
+| Stars | 6,329 |
+| Forks | 3,010 |
+| Stars today | 3 |
+
+---
+
+## 16. [kestra-io/kestra](https://github.com/kestra-io/kestra)
 
 Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,285 |
+| Stars | 30,290 |
 | Forks | 3,544 |
-| Stars today | 29 |
+| Stars today | 13 |
 
 ---
 
-## 14. [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+## 17. [apache/fineract](https://github.com/apache/fineract) 🆕
 
-Design patterns implemented in Java
+Apache Fineract
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 94,886 |
-| Forks | 27,338 |
-| Stars today | 9 |
+| Stars | 2,637 |
+| Forks | 2,988 |
+| Stars today | 3 |
 
 ---
 
-## 15. [dotnetdreamer/open-android-dex](https://github.com/dotnetdreamer/open-android-dex) 🆕
+## 18. [apache/solr](https://github.com/apache/solr) 🆕
 
-Turn any android phone into Desktop class experience including full linux environment without root
+Apache Solr open-source search software
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 348 |
-| Forks | 20 |
-| Stars today | 6 |
-
----
-
-## 16. [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) 🆕
-
-Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 6,828 |
-| Forks | 1,752 |
-| Stars today | 8 |
-
----
-
-## 17. [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) 🆕
-
-Agentic AI Framework for Java Developers
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 11,162 |
-| Forks | 2,474 |
-| Stars today | 8 |
+| Stars | 1,705 |
+| Forks | 874 |
 
 ---

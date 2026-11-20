@@ -1,165 +1,152 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-19T07:16:02Z
-**Total Repositories:** 12
-**New Entries:** 7
+**Snapshot Time:** 2026-11-20T07:05:28Z
+**Total Repositories:** 11
+**New Entries:** 8
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [sveltejs/svelte](https://github.com/sveltejs/svelte)
-
-web development for the rest of us
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 89,696 |
-| Forks | 6,217 |
-| Stars today | 692 |
-
----
-
-## 2. [jquery/jquery](https://github.com/jquery/jquery) 🆕
-
-jQuery JavaScript Library
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 60,062 |
-| Forks | 20,711 |
-| Stars today | 266 |
-
----
-
-## 3. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 1. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 306,763 |
-| Forks | 45,159 |
-| Stars today | 1,108 |
+| Stars | 307,412 |
+| Forks | 45,245 |
+| Stars today | 959 |
 
 ---
 
-## 4. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map)
+## 2. [sveltejs/svelte](https://github.com/sveltejs/svelte)
 
-江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+web development for the rest of us
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 8,222 |
-| Forks | 1,006 |
-| Stars today | 218 |
+| Stars | 89,815 |
+| Forks | 6,212 |
+| Stars today | 321 |
 
 ---
 
-## 5. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+## 3. [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 🆕
 
-Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
+This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 22,799 |
-| Forks | 3,034 |
-| Stars today | 257 |
+| Stars | 10,371 |
+| Forks | 1,301 |
+| Stars today | 14 |
 
 ---
 
-## 6. [vercel/next.js](https://github.com/vercel/next.js) 🆕
+## 4. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) 🆕
 
-The React Framework
+Vercel's official collection of agent skills
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 143,572 |
-| Forks | 32,816 |
-| Stars today | 71 |
+| Stars | 34,568 |
+| Forks | 3,008 |
+| Stars today | 68 |
 
 ---
 
-## 7. [axios/axios](https://github.com/axios/axios) 🆕
+## 5. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
 
-Promise based HTTP client for the browser and node.js
+Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 109,363 |
-| Forks | 12,116 |
-| Stars today | 111 |
+| Stars | 4,601 |
+| Forks | 423 |
+| Stars today | 72 |
 
 ---
 
-## 8. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 🆕
+## 6. [micromatch/picomatch](https://github.com/micromatch/picomatch) 🆕
 
-Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i…
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 118,598 |
-| Forks | 7,934 |
-| Stars today | 737 |
+| Stars | 1,331 |
+| Forks | 212 |
+| Stars today | 2 |
 
 ---
 
-## 9. [qwdwqfwq/topconf-paper-figure-gallery](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) 🆕
+## 7. [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) 🆕
 
-3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting
+WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,897 |
-| Forks | 93 |
-| Stars today | 39 |
+| Stars | 3,299 |
+| Forks | 358 |
+| Stars today | 46 |
 
 ---
 
-## 10. [pugarte7/spanish-top-tech-companies](https://github.com/pugarte7/spanish-top-tech-companies) 🆕
+## 8. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
 
-MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 601 |
-| Forks | 21 |
-| Stars today | 25 |
+| Stars | 195,061 |
+| Forks | 10,988 |
+| Stars today | 878 |
 
 ---
 
-## 11. [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
+## 9. [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 🆕
 
-DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
+Use Codex from Claude Code to review code or delegate tasks.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,550 |
-| Forks | 635 |
-| Stars today | 70 |
+| Stars | 35,305 |
+| Forks | 2,453 |
+| Stars today | 41 |
 
 ---
 
-## 12. [github/awesome-copilot](https://github.com/github/awesome-copilot) 🆕
+## 10. [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) 🆕
 
-Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
+Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 41,336 |
-| Forks | 5,389 |
-| Stars today | 61 |
+| Stars | 2,019 |
+| Forks | 203 |
+| Stars today | 6 |
+
+---
+
+## 11. [jquery/jquery](https://github.com/jquery/jquery)
+
+jQuery JavaScript Library
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 60,105 |
+| Forks | 20,715 |
+| Stars today | 173 |
 
 ---

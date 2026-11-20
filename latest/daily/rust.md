@@ -1,230 +1,191 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-19T07:16:09Z
-**Total Repositories:** 17
-**New Entries:** 13
+**Snapshot Time:** 2026-11-20T07:05:35Z
+**Total Repositories:** 14
+**New Entries:** 11
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [astral-sh/uv](https://github.com/astral-sh/uv) 🆕
+## 1. [janhq/jan](https://github.com/janhq/jan) 🆕
 
-An extremely fast Python package and project manager, written in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 92,313 |
-| Forks | 3,926 |
-| Stars today | 258 |
-
----
-
-## 2. [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) 🆕
-
-⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,539 |
-| Forks | 381 |
-| Stars today | 17 |
+| Stars | 45,899 |
+| Forks | 3,214 |
+| Stars today | 54 |
 
 ---
 
-## 3. [rustfs/rustfs](https://github.com/rustfs/rustfs)
-
-RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 36,269 |
-| Forks | 1,682 |
-| Stars today | 42 |
-
----
-
-## 4. [leepokai/Codync](https://github.com/leepokai/Codync)
-
-Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,268 |
-| Forks | 232 |
-| Stars today | 35 |
-
----
-
-## 5. [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) 🆕
-
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 70,055 |
-| Forks | 3,586 |
-| Stars today | 39 |
-
----
-
-## 6. [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein) 🆕
-
-Tiny, Performant & 100% Native client for Discord made in Rust
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 1,448 |
-| Forks | 144 |
-| Stars today | 33 |
-
----
-
-## 7. [microsoft/edit](https://github.com/microsoft/edit) 🆕
-
-We all edit.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 14,787 |
-| Forks | 746 |
-| Stars today | 8 |
-
----
-
-## 8. [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
-
-Property-based testing for web and terminal UIs
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 2,742 |
-| Forks | 98 |
-| Stars today | 148 |
-
----
-
-## 9. [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) 🆕
-
-YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 22,462 |
-| Forks | 2,310 |
-| Stars today | 18 |
-
----
-
-## 10. [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) 🆕
-
-All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 16,045 |
-| Forks | 1,058 |
-| Stars today | 27 |
-
----
-
-## 11. [louis-e/arnis](https://github.com/louis-e/arnis) 🆕
-
-Generate any location from the real world in Minecraft with a high level of detail.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 18,721 |
-| Forks | 1,588 |
-| Stars today | 18 |
-
----
-
-## 12. [astral-sh/ruff](https://github.com/astral-sh/ruff) 🆕
-
-An extremely fast Python linter and code formatter, written in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 51,280 |
-| Forks | 2,764 |
-| Stars today | 120 |
-
----
-
-## 13. [rust-lang/rust](https://github.com/rust-lang/rust) 🆕
-
-Empowering everyone to build reliable and efficient software.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 122,209 |
-| Forks | 16,663 |
-| Stars today | 175 |
-
----
-
-## 14. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 🆕
-
-Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 112,962 |
-| Forks | 4,222 |
-| Stars today | 141 |
-
----
-
-## 15. [Automattic/harper](https://github.com/Automattic/harper) 🆕
-
-Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 17,848 |
-| Forks | 845 |
-| Stars today | 28 |
-
----
-
-## 16. [malisper/pgrust](https://github.com/malisper/pgrust)
+## 2. [malisper/pgrust](https://github.com/malisper/pgrust)
 
 Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,929 |
-| Forks | 239 |
+| Stars | 5,955 |
+| Forks | 241 |
 | Stars today | 47 |
 
 ---
 
-## 17. [trycua/cua](https://github.com/trycua/cua) 🆕
+## 3. [pola-rs/polars](https://github.com/pola-rs/polars) 🆕
 
-Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
+Extremely fast Query Engine for DataFrames, written in Rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 32,631 |
-| Forks | 2,460 |
-| Stars today | 101 |
+| Stars | 40,392 |
+| Forks | 3,250 |
+| Stars today | 10 |
+
+---
+
+## 4. [t8y2/dbx](https://github.com/t8y2/dbx) 🆕
+
+25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 30,997 |
+| Forks | 2,827 |
+| Stars today | 155 |
+
+---
+
+## 5. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) 🆕
+
+Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 45,851 |
+| Forks | 6,695 |
+| Stars today | 35 |
+
+---
+
+## 6. [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) 🆕
+
+Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 33,423 |
+| Forks | 3,563 |
+| Stars today | 91 |
+
+---
+
+## 7. [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
+
+⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 5,543 |
+| Forks | 381 |
+| Stars today | 19 |
+
+---
+
+## 8. [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) 🆕
+
+⚙️🦀 Build modular and scalable LLM Applications in Rust
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 9,197 |
+| Forks | 1,026 |
+| Stars today | 6 |
+
+---
+
+## 9. [rtk-ai/rtk](https://github.com/rtk-ai/rtk) 🆕
+
+CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 87,224 |
+| Forks | 5,610 |
+| Stars today | 146 |
+
+---
+
+## 10. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) 🆕
+
+An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 130,379 |
+| Forks | 20,977 |
+| Stars today | 221 |
+
+---
+
+## 11. [perspective-dev/perspective](https://github.com/perspective-dev/perspective) 🆕
+
+A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 11,613 |
+| Forks | 1,372 |
+| Stars today | 36 |
+
+---
+
+## 12. [louis-e/arnis](https://github.com/louis-e/arnis)
+
+Generate any location from the real world in Minecraft with a high level of detail.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 18,746 |
+| Forks | 1,588 |
+| Stars today | 26 |
+
+---
+
+## 13. [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) 🆕
+
+A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 9,615 |
+| Forks | 839 |
+| Stars today | 31 |
+
+---
+
+## 14. [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) 🆕
+
+A Flash Player emulator written in Rust
+
+| Metric | Value |
+|--------|-------|
+| Language | Rust |
+| Stars | 18,892 |
+| Forks | 1,201 |
+| Stars today | 6 |
 
 ---

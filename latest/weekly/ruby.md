@@ -1,9 +1,9 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-19T07:16:23Z
-**Total Repositories:** 18
-**New Entries:** 2
+**Snapshot Time:** 2026-11-20T07:05:50Z
+**Total Repositories:** 14
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,563 |
-| Forks | 1,452 |
-| Stars this week | 3,866 |
+| Stars | 16,771 |
+| Forks | 1,481 |
+| Stars this week | 3,226 |
 
 ---
 
-## 2. [mastodon/mastodon](https://github.com/mastodon/mastodon)
+## 2. [puma/puma](https://github.com/puma/puma)
 
-Your self-hosted, globally interconnected microblogging community
+A Ruby/Rack web server built for parallelism
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,561 |
-| Forks | 7,562 |
-| Stars this week | 319 |
+| Stars | 7,928 |
+| Forks | 1,525 |
+| Stars this week | 3 |
 
 ---
 
@@ -41,22 +41,22 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 40,149 |
-| Forks | 9,762 |
-| Stars this week | 477 |
+| Stars | 40,223 |
+| Forks | 9,781 |
+| Stars this week | 491 |
 
 ---
 
-## 4. [rails/rails](https://github.com/rails/rails)
+## 4. [ruby/ruby](https://github.com/ruby/ruby)
 
-Ruby on Rails
+The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 59,042 |
-| Forks | 23,096 |
-| Stars this week | 305 |
+| Stars | 23,854 |
+| Forks | 5,693 |
+| Stars this week | 49 |
 
 ---
 
@@ -67,130 +67,78 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,533 |
-| Forks | 3,787 |
+| Stars | 17,567 |
+| Forks | 3,798 |
 | Stars this week | 248 |
 
 ---
 
-## 6. [puma/puma](https://github.com/puma/puma)
-
-A Ruby/Rack web server built for parallelism
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 7,928 |
-| Forks | 1,525 |
-| Stars this week | 2 |
-
----
-
-## 7. [otwcode/otwarchive](https://github.com/otwcode/otwarchive)
+## 6. [otwcode/otwarchive](https://github.com/otwcode/otwarchive)
 
 The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,427 |
-| Forks | 905 |
-| Stars this week | 35 |
+| Stars | 2,442 |
+| Forks | 908 |
+| Stars this week | 46 |
 
 ---
 
-## 8. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+## 7. [mastodon/mastodon](https://github.com/mastodon/mastodon)
 
-Metasploit Framework
+Your self-hosted, globally interconnected microblogging community
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,613 |
-| Forks | 15,054 |
-| Stars this week | 87 |
+| Stars | 50,605 |
+| Forks | 7,578 |
+| Stars this week | 370 |
 
 ---
 
-## 9. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
+## 8. [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 
 API Documentation Browser
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,654 |
+| Stars | 39,655 |
 | Forks | 2,657 |
-| Stars this week | 37 |
+| Stars this week | 32 |
 
 ---
 
-## 10. [ruby/ruby](https://github.com/ruby/ruby)
-
-The Ruby Programming Language
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 23,828 |
-| Forks | 5,687 |
-| Stars this week | 27 |
-
----
-
-## 11. [forem/forem](https://github.com/forem/forem)
+## 9. [forem/forem](https://github.com/forem/forem)
 
 For empowering community 🌱
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,838 |
-| Forks | 4,271 |
-| Stars this week | 19 |
+| Stars | 22,840 |
+| Forks | 4,270 |
+| Stars this week | 22 |
 
 ---
 
-## 12. [jekyll/jekyll](https://github.com/jekyll/jekyll)
+## 10. [jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 🌐 Jekyll is a blog-aware static site generator in Ruby
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 51,793 |
-| Forks | 10,307 |
-| Stars this week | 30 |
+| Stars | 51,790 |
+| Forks | 10,308 |
+| Stars this week | 26 |
 
 ---
 
-## 13. [danbooru/danbooru](https://github.com/danbooru/danbooru)
-
-A taggable image board written in Rails.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 2,938 |
-| Forks | 467 |
-| Stars this week | 14 |
-
----
-
-## 14. [crmne/ruby_llm](https://github.com/crmne/ruby_llm) 🆕
-
-The Ruby AI framework.
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 4,517 |
-| Forks | 539 |
-| Stars this week | 14 |
-
----
-
-## 15. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 11. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
@@ -198,46 +146,46 @@ The Ruby AI framework.
 |--------|-------|
 | Language | Ruby |
 | Stars | 22,310 |
-| Forks | 12,120 |
-| Stars this week | 18 |
+| Forks | 12,123 |
+| Stars this week | 15 |
 
 ---
 
-## 16. [github-linguist/linguist](https://github.com/github-linguist/linguist)
+## 12. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 
-Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+Metasploit Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 13,799 |
-| Forks | 5,530 |
-| Stars this week | 20 |
+| Stars | 39,624 |
+| Forks | 15,055 |
+| Stars this week | 70 |
 
 ---
 
-## 17. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) 🆕
+## 13. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 
 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,681 |
-| Forks | 13,971 |
-| Stars this week | 17 |
+| Stars | 15,682 |
+| Forks | 13,972 |
+| Stars this week | 18 |
 
 ---
 
-## 18. [ruby/gem_rbs_collection](https://github.com/ruby/gem_rbs_collection)
+## 14. [github-linguist/linguist](https://github.com/github-linguist/linguist)
 
-A collection of RBS for gems.
+Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 302 |
-| Forks | 142 |
-| Stars this week | 1 |
+| Stars | 13,798 |
+| Forks | 5,528 |
+| Stars this week | 15 |
 
 ---

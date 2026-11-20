@@ -1,10 +1,10 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-19T07:16:52Z
-**Total Repositories:** 16
-**New Entries:** 1
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-11-20T07:06:17Z
+**Total Repositories:** 19
+**New Entries:** 3
+**Quality Score:** 97.89/100
 
 ---
 
@@ -15,9 +15,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,818 |
-| Forks | 8,575 |
-| Stars this month | 1,454 |
+| Stars | 41,845 |
+| Forks | 8,590 |
+| Stars this month | 1,480 |
 
 ---
 
@@ -28,9 +28,9 @@ A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,421 |
-| Forks | 1,921 |
-| Stars this month | 3,319 |
+| Stars | 12,481 |
+| Forks | 1,932 |
+| Stars this month | 3,424 |
 
 ---
 
@@ -41,22 +41,22 @@ General purpose TLS and crypto library
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,479 |
-| Forks | 11,627 |
-| Stars this month | 616 |
+| Stars | 31,487 |
+| Forks | 11,631 |
+| Stars this month | 611 |
 
 ---
 
-## 4. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+## 4. [JustVugg/colibri](https://github.com/JustVugg/colibri)
 
-OBS Studio - Free and open source software for live streaming and screen recording
+A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 79,715 |
-| Forks | 11,289 |
-| Stars this month | 2,500 |
+| Stars | 52,300 |
+| Forks | 6,333 |
+| Stars this month | 9,545 |
 
 ---
 
@@ -67,61 +67,61 @@ Extremely Fast Compression algorithm
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,800 |
-| Forks | 1,662 |
-| Stars this month | 703 |
+| Stars | 12,809 |
+| Forks | 1,666 |
+| Stars this month | 706 |
 
 ---
 
-## 6. [JustVugg/colibri](https://github.com/JustVugg/colibri)
+## 6. [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 
-A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
+OBS Studio - Free and open source software for live streaming and screen recording
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 52,045 |
-| Forks | 6,299 |
-| Stars this month | 9,414 |
+| Stars | 79,790 |
+| Forks | 11,313 |
+| Stars this month | 2,541 |
 
 ---
 
-## 7. [redis/redis](https://github.com/redis/redis)
-
-For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-
-| Metric | Value |
-|--------|-------|
-| Language | C |
-| Stars | 77,528 |
-| Forks | 25,044 |
-| Stars this month | 1,273 |
-
----
-
-## 8. [mpv-player/mpv](https://github.com/mpv-player/mpv)
+## 7. [mpv-player/mpv](https://github.com/mpv-player/mpv)
 
 🎥 Command line media player
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 38,191 |
-| Forks | 3,675 |
-| Stars this month | 829 |
+| Stars | 38,210 |
+| Forks | 3,678 |
+| Stars this month | 833 |
 
 ---
 
-## 9. [iqui27/nuvio-native-legacy](https://github.com/iqui27/nuvio-native-legacy)
+## 8. [iqui27/nuvio-native-legacy](https://github.com/iqui27/nuvio-native-legacy)
 
 Unofficial native Nuvio client for LG webOS 3+, Samsung Tizen 4+, GoogleTV 7+. C/SDL2/GLES2 on LG and on Samsung (native .tpk, Tizen 4.0-9), plus a WebAssembly .wgt for Tizen 5.5+. Install from the Homebrew Channel or the releases.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 577 |
-| Forks | 72 |
-| Stars this month | 339 |
+| Stars | 589 |
+| Forks | 73 |
+| Stars this month | 345 |
+
+---
+
+## 9. [redis/redis](https://github.com/redis/redis)
+
+For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 77,570 |
+| Forks | 25,069 |
+| Stars this month | 1,227 |
 
 ---
 
@@ -132,9 +132,9 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 141,154 |
-| Forks | 8,750 |
-| Stars this month | 2,093 |
+| Stars | 141,198 |
+| Forks | 8,747 |
+| Stars this month | 2,102 |
 
 ---
 
@@ -145,46 +145,46 @@ An advanced Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,892 |
-| Forks | 1,289 |
-| Stars this month | 425 |
+| Stars | 4,899 |
+| Forks | 1,291 |
+| Stars this month | 403 |
 
 ---
 
-## 12. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
-
-ehviewer，用爱发电，快乐前行
+## 12. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 29,316 |
-| Forks | 785 |
-| Stars this month | 1,538 |
+| Stars | 6,120 |
+| Forks | 1,020 |
+| Stars this month | 469 |
 
 ---
 
-## 13. [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright)
+## 13. [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) 🆕
+
+Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 6,105 |
-| Forks | 1,016 |
-| Stars this month | 470 |
+| Stars | 17,143 |
+| Forks | 10,526 |
+| Stars this month | 338 |
 
 ---
 
-## 14. [curl/curl](https://github.com/curl/curl)
+## 14. [nginx/nginx](https://github.com/nginx/nginx) 🆕
 
-A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+The official NGINX Open Source repository.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 43,587 |
-| Forks | 7,501 |
-| Stars this month | 537 |
+| Stars | 32,409 |
+| Forks | 8,420 |
+| Stars this month | 434 |
 
 ---
 
@@ -195,21 +195,60 @@ The systemd System and Service Manager
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,047 |
-| Forks | 4,845 |
-| Stars this month | 245 |
+| Stars | 17,052 |
+| Forks | 4,850 |
+| Stars this month | 240 |
 
 ---
 
-## 16. [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) 🆕
+## 16. [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav)
 
 ClamAV - Documentation is here:https://docs.clamav.net
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,670 |
-| Forks | 982 |
-| Stars this month | 279 |
+| Stars | 7,683 |
+| Forks | 983 |
+| Stars this month | 294 |
+
+---
+
+## 17. [curl/curl](https://github.com/curl/curl)
+
+A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 43,605 |
+| Forks | 7,502 |
+| Stars this month | 569 |
+
+---
+
+## 18. [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)
+
+ehviewer，用爱发电，快乐前行
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 29,347 |
+| Forks | 789 |
+| Stars this month | 1,538 |
+
+---
+
+## 19. [espressif/esp-idf](https://github.com/espressif/esp-idf) 🆕
+
+Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 19,549 |
+| Forks | 8,609 |
+| Stars this month | 290 |
 
 ---

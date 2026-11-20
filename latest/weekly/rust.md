@@ -1,8 +1,8 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-19T07:16:28Z
-**Total Repositories:** 9
+**Snapshot Time:** 2026-11-20T07:05:55Z
+**Total Repositories:** 7
 **New Entries:** 2
 **Quality Score:** 100.00/100
 
@@ -15,112 +15,86 @@ Browser automation CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 52,715 |
-| Forks | 3,692 |
-| Stars this week | 2,987 |
+| Stars | 52,936 |
+| Forks | 3,702 |
+| Stars this week | 2,691 |
 
 ---
 
-## 2. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
-
-Object-storage native graph database with branching and typed ontology
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 3,069 |
-| Forks | 339 |
-| Stars this week | 1,045 |
-
----
-
-## 3. [block/buzz](https://github.com/block/buzz)
+## 2. [block/buzz](https://github.com/block/buzz)
 
 A hive mind communication platform
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 37,582 |
-| Forks | 4,960 |
-| Stars this week | 658 |
+| Stars | 37,618 |
+| Forks | 4,959 |
+| Stars this week | 549 |
 
 ---
 
-## 4. [zellij-org/zellij](https://github.com/zellij-org/zellij)
+## 3. [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
 
-A terminal workspace with batteries included
+Object-storage native graph database with branching and typed ontology
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 36,140 |
-| Forks | 1,549 |
-| Stars this week | 182 |
+| Stars | 3,109 |
+| Forks | 340 |
+| Stars this week | 1,094 |
 
 ---
 
-## 5. [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
-
-A batteries-included framework for building web apps
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 7,268 |
-| Forks | 312 |
-| Stars this week | 202 |
-
----
-
-## 6. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)
+## 4. [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)
 
 A WiFi security auditing software
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,663 |
-| Forks | 1,096 |
-| Stars this week | 1,528 |
+| Stars | 6,694 |
+| Forks | 1,101 |
+| Stars this week | 1,560 |
 
 ---
 
-## 7. [crmne/zapfast](https://github.com/crmne/zapfast)
+## 5. [crmne/zapfast](https://github.com/crmne/zapfast)
 
 ZapFast: a fast, native WhatsApp client in Rust and egui
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,746 |
-| Forks | 479 |
-| Stars this week | 646 |
+| Stars | 4,789 |
+| Forks | 486 |
+| Stars this week | 523 |
 
 ---
 
-## 8. [astral-sh/ruff](https://github.com/astral-sh/ruff) 🆕
+## 6. [rustfs/rustfs](https://github.com/rustfs/rustfs) 🆕
 
-An extremely fast Python linter and code formatter, written in Rust.
+RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 51,280 |
-| Forks | 2,764 |
-| Stars this week | 554 |
+| Stars | 36,311 |
+| Forks | 1,687 |
+| Stars this week | 310 |
 
 ---
 
-## 9. [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) 🆕
+## 7. [ViceVerse-cz/Serein](https://github.com/ViceVerse-cz/Serein) 🆕
 
-Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
+Tiny, Performant & 100% Native client for Discord made in Rust
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,651 |
-| Forks | 378 |
-| Stars this week | 138 |
+| Stars | 1,508 |
+| Forks | 151 |
+| Stars this week | 215 |
 
 ---

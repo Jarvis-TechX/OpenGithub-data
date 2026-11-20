@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-19T07:16:03Z
-**Total Repositories:** 16
-**New Entries:** 11
+**Snapshot Time:** 2026-11-20T07:05:30Z
+**Total Repositories:** 17
+**New Entries:** 12
 **Quality Score:** 100.00/100
 
 ---
@@ -15,203 +15,216 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,329 |
-| Forks | 1,914 |
-| Stars today | 314 |
+| Stars | 17,640 |
+| Forks | 1,943 |
+| Stars today | 384 |
 
 ---
 
-## 2. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+## 2. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) 🆕
+
+Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 204,531 |
+| Forks | 10,719 |
+| Stars today | 825 |
+
+---
+
+## 3. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
 
 A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,504 |
-| Forks | 1,372 |
-| Stars today | 365 |
+| Stars | 10,815 |
+| Forks | 1,393 |
+| Stars today | 302 |
 
 ---
 
-## 3. [appwrite/appwrite](https://github.com/appwrite/appwrite) 🆕
+## 4. [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) 🆕
+
+There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 75,331 |
+| Forks | 5,570 |
+| Stars today | 182 |
+
+---
+
+## 5. [bendlang/bend](https://github.com/bendlang/bend) 🆕
+
+Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSLhttps://bend-lang.com/install.sh| sh
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 25,629 |
+| Forks | 819 |
+| Stars today | 98 |
+
+---
+
+## 6. [appwrite/appwrite](https://github.com/appwrite/appwrite)
 
 The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 58,310 |
-| Forks | 5,887 |
-| Stars today | 232 |
-
----
-
-## 4. [n8n-io/n8n](https://github.com/n8n-io/n8n) 🆕
-
-Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 211,252 |
-| Forks | 61,578 |
+| Stars | 58,417 |
+| Forks | 5,905 |
 | Stars today | 325 |
 
 ---
 
-## 5. [solidjs/solid](https://github.com/solidjs/solid) 🆕
+## 7. [mastra-ai/mastra](https://github.com/mastra-ai/mastra) 🆕
 
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 36,686 |
-| Forks | 1,190 |
-| Stars today | 40 |
-
----
-
-## 6. [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
-
-The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+Mastra is the modern TypeScript framework for AI-powered applications and agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,529 |
-| Forks | 1,363 |
-| Stars today | 392 |
+| Stars | 29,682 |
+| Forks | 3,124 |
+| Stars today | 49 |
 
 ---
 
-## 7. [angular/angular](https://github.com/angular/angular) 🆕
+## 8. [tianma-if/edgeever](https://github.com/tianma-if/edgeever) 🆕
 
-Deliver web apps with confidence 🚀
+AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 101,442 |
-| Forks | 28,192 |
-| Stars today | 182 |
+| Stars | 3,449 |
+| Forks | 1,790 |
+| Stars today | 45 |
 
 ---
 
-## 8. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+## 9. [twentyhq/twenty](https://github.com/twentyhq/twenty) 🆕
 
-AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+The open alternative to Salesforce, designed for AI.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,510 |
-| Forks | 2,109 |
-| Stars today | 513 |
+| Stars | 61,234 |
+| Forks | 10,153 |
+| Stars today | 68 |
 
 ---
 
-## 9. [nestjs/nest](https://github.com/nestjs/nest) 🆕
+## 10. [hieunc229/mailflare](https://github.com/hieunc229/mailflare) 🆕
 
-A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀
+Email for professionals and teams
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 77,094 |
-| Forks | 8,722 |
-| Stars today | 214 |
+| Stars | 7,322 |
+| Forks | 1,269 |
+| Stars today | 211 |
 
 ---
 
-## 10. [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) 🆕
+## 11. [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
 
 Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 78,034 |
-| Forks | 5,206 |
-| Stars today | 119 |
+| Stars | 78,174 |
+| Forks | 5,217 |
+| Stars today | 153 |
 
 ---
 
-## 11. [storybookjs/storybook](https://github.com/storybookjs/storybook) 🆕
+## 12. [visgl/deck.gl](https://github.com/visgl/deck.gl) 🆕
 
-Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+WebGL2 powered visualization framework
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 91,640 |
-| Forks | 10,598 |
+| Stars | 14,781 |
+| Forks | 2,307 |
+| Stars today | 6 |
+
+---
+
+## 13. [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 🆕
+
+Spec-driven development (SDD) for AI coding assistants.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 75,300 |
+| Forks | 5,158 |
+| Stars today | 95 |
+
+---
+
+## 14. [solidjs/solid](https://github.com/solidjs/solid)
+
+A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 36,840 |
+| Forks | 1,200 |
+| Stars today | 459 |
+
+---
+
+## 15. [croffasia/itsaplan](https://github.com/croffasia/itsaplan) 🆕
+
+⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 2,426 |
+| Forks | 321 |
 | Stars today | 23 |
 
 ---
 
-## 12. [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) 🆕
+## 16. [anomalyco/opencode](https://github.com/anomalyco/opencode) 🆕
 
-Clone any website with one command using AI coding agents
+The open source coding agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 39,478 |
-| Forks | 5,885 |
-| Stars today | 94 |
+| Stars | 228,103 |
+| Forks | 30,960 |
+| Stars today | 249 |
 
 ---
 
-## 13. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) 🆕
+## 17. [earendil-works/pi](https://github.com/earendil-works/pi) 🆕
 
-AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 21,460 |
-| Forks | 1,977 |
-| Stars today | 237 |
-
----
-
-## 14. [dream-num/univer](https://github.com/dream-num/univer)
-
-Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
+AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,028 |
-| Forks | 2,713 |
-| Stars today | 1,152 |
-
----
-
-## 15. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 🆕
-
-The best way to control Claude Code, Codex and more from any computer or phone
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 65,565 |
-| Forks | 11,479 |
-| Stars today | 1,220 |
-
----
-
-## 16. [vercel/eve](https://github.com/vercel/eve) 🆕
-
-The Open Framework for Building Agents
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 6,003 |
-| Forks | 665 |
-| Stars today | 42 |
+| Stars | 122,973 |
+| Forks | 15,868 |
+| Stars today | 194 |
 
 ---

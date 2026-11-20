@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-19T07:16:36Z
-**Total Repositories:** 16
-**New Entries:** 6
+**Snapshot Time:** 2026-11-20T07:06:03Z
+**Total Repositories:** 17
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
@@ -15,100 +15,100 @@ A tool for creating and running Linux containers using lightweight virtual machi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 51,959 |
-| Forks | 1,849 |
-| Stars this week | 812 |
+| Stars | 51,981 |
+| Forks | 1,848 |
+| Stars this week | 694 |
 
 ---
 
-## 2. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) 🆕
-
-iOS 27 MobileGestalt editor
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,253 |
-| Forks | 94 |
-| Stars this week | 289 |
-
----
-
-## 3. [apple/coreai-models](https://github.com/apple/coreai-models) 🆕
-
-Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 2,362 |
-| Forks | 270 |
-| Stars this week | 53 |
-
----
-
-## 4. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+## 2. [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 118,860 |
-| Forks | 10,423 |
-| Stars this week | 609 |
+| Stars | 118,927 |
+| Forks | 10,440 |
+| Stars this week | 581 |
 
 ---
 
-## 5. [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
-
-Protect your SSH keys with your Mac's Secure Enclave
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 9,497 |
-| Forks | 241 |
-| Stars this week | 152 |
-
----
-
-## 6. [suversal/WrapPin](https://github.com/suversal/WrapPin)
-
-iOS 27+ 本机虚拟定位与步行路线测试工具
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,085 |
-| Forks | 154 |
-| Stars this week | 198 |
-
----
-
-## 7. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+## 3. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
 An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,494 |
-| Forks | 123 |
-| Stars this week | 109 |
+| Stars | 1,508 |
+| Forks | 124 |
+| Stars this week | 106 |
 
 ---
 
-## 8. [exelban/stats](https://github.com/exelban/stats) 🆕
+## 4. [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) 🆕
+
+Process Explorer for MacOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,015 |
+| Forks | 34 |
+| Stars this week | 243 |
+
+---
+
+## 5. [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit)
+
+iOS 27 MobileGestalt editor
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,276 |
+| Forks | 94 |
+| Stars this week | 264 |
+
+---
+
+## 6. [apple/coreai-models](https://github.com/apple/coreai-models)
+
+Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 2,363 |
+| Forks | 268 |
+| Stars this week | 54 |
+
+---
+
+## 7. [suversal/WrapPin](https://github.com/suversal/WrapPin)
+
+iOS 27+ 本机虚拟定位与步行路线测试工具
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 1,114 |
+| Forks | 158 |
+| Stars this week | 269 |
+
+---
+
+## 8. [exelban/stats](https://github.com/exelban/stats)
 
 macOS system monitor in your menu bar
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 43,504 |
-| Forks | 1,635 |
-| Stars this week | 202 |
+| Stars | 43,527 |
+| Forks | 1,638 |
+| Stars this week | 192 |
 
 ---
 
@@ -119,99 +119,112 @@ An ultra-light MacOS utility that helps hide menu bar icons
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,490 |
-| Forks | 546 |
-| Stars this week | 108 |
+| Stars | 15,515 |
+| Forks | 548 |
+| Stars this week | 126 |
 
 ---
 
-## 10. [claration/feather](https://github.com/claration/feather)
-
-Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 5,148 |
-| Forks | 492 |
-| Stars this week | 73 |
-
----
-
-## 11. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
-
-Manga reading app for iOS, iPadOS, and macOS
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 4,770 |
-| Forks | 341 |
-| Stars this week | 42 |
-
----
-
-## 12. [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 🆕
+## 10. [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 34,770 |
-| Forks | 1,047 |
-| Stars this week | 92 |
+| Stars | 34,780 |
+| Forks | 1,048 |
+| Stars this week | 88 |
 
 ---
 
-## 13. [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) 🆕
+## 11. [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) 🆕
 
-无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution. Built in Swift.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,042 |
-| Forks | 318 |
-| Stars this week | 208 |
+| Stars | 8,187 |
+| Forks | 496 |
+| Stars this week | 37 |
 
 ---
 
-## 14. [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS)
+## 12. [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) 🆕
 
-A cosy home for your LLMs.
+Nuvio tvOS client
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,848 |
-| Forks | 150 |
-| Stars this week | 76 |
+| Stars | 447 |
+| Forks | 52 |
+| Stars this week | 47 |
 
 ---
 
-## 15. [sozercan/kaset](https://github.com/sozercan/kaset) 🆕
+## 13. [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
 
-📼 The missing YouTube and YouTube Music macOS app
+Protect your SSH keys with your Mac's Secure Enclave
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,623 |
-| Forks | 203 |
-| Stars this week | 68 |
+| Stars | 9,505 |
+| Forks | 242 |
+| Stars this week | 122 |
 
 ---
 
-## 16. [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
+## 14. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
+
+Manga reading app for iOS, iPadOS, and macOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 4,768 |
+| Forks | 342 |
+| Stars this week | 44 |
+
+---
+
+## 15. [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
 
 Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,232 |
-| Forks | 294 |
-| Stars this week | 108 |
+| Stars | 4,258 |
+| Forks | 295 |
+| Stars this week | 130 |
+
+---
+
+## 16. [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) 🆕
+
+The mouse and trackpad utility for Mac.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 7,222 |
+| Forks | 205 |
+| Stars this week | 51 |
+
+---
+
+## 17. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
+
+Telegram-iOS
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 9,461 |
+| Forks | 3,336 |
+| Stars this week | 36 |
 
 ---

@@ -1,139 +1,191 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-19T07:16:14Z
-**Total Repositories:** 10
-**New Entries:** 7
+**Snapshot Time:** 2026-11-20T07:05:41Z
+**Total Repositories:** 14
+**New Entries:** 9
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
+## 1. [ianshulyadav/PixelMusic](https://github.com/ianshulyadav/PixelMusic) 🆕
+
+Pixel Music is an open-source Android music player. Stream YouTube Music & Telegram, play Hi-Res lossless FLAC, with synced lyrics & 10-band EQ.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 385 |
+| Forks | 32 |
+| Stars today | 13 |
+
+---
+
+## 2. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)
 
 翻墙-科学上网
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 57,925 |
-| Forks | 8,852 |
-| Stars today | 325 |
+| Stars | 57,962 |
+| Forks | 8,851 |
+| Stars today | 66 |
 
 ---
 
-## 2. [bitwarden/android](https://github.com/bitwarden/android)
+## 3. [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) 🆕
 
-Bitwarden mobile apps (Password Manager and Authenticator) for Android.
+A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,664 |
-| Forks | 1,207 |
-| Stars today | 7 |
+| Stars | 25,386 |
+| Forks | 2,837 |
+| Stars today | 27 |
 
 ---
 
-## 3. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
+## 4. [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard) 🆕
 
-RikkaHub is an Android APP that supports for multiple LLM providers.
+Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,014 |
-| Forks | 913 |
-| Stars today | 42 |
+| Stars | 1,667 |
+| Forks | 81 |
+| Stars today | 39 |
 
 ---
 
-## 4. [carlelieser/shizzi](https://github.com/carlelieser/shizzi) 🆕
-
-Rootless wifi-tethering bypass for Android with Shizuku.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 344 |
-| Forks | 38 |
-| Stars today | 7 |
-
----
-
-## 5. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) 🆕
-
-Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,771 |
-| Forks | 173 |
-| Stars today | 16 |
-
----
-
-## 6. [aquamarine5/ChaoxingSignFaker](https://github.com/aquamarine5/ChaoxingSignFaker) 🆕
-
-伪造学习通的签到活动🙋学习通签到神器。支持滑动验证码签到、签退、人脸识别功能，支持自定义位置签到、动态二维码签到、自选照片进行拍照签到等全部签到形式以及给其他用户无限代签的功能 Falsifying the signing activity of Chaoxing, supporting slide captcha and signing out, and location-signing by custom position, selecting a picture from gallery for photo-signing and all types. Also supported signing for infinite accounts in only one device
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,174 |
-| Forks | 84 |
-| Stars today | 19 |
-
----
-
-## 7. [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) 🆕
-
-A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 2,550 |
-| Forks | 259 |
-| Stars today | 7 |
-
----
-
-## 8. [justshivv/Opentune](https://github.com/justshivv/Opentune) 🆕
-
-A free, open-source Android music app with no ads, synced lyrics, background playback, and customisable themes.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 328 |
-| Forks | 29 |
-| Stars today | 20 |
-
----
-
-## 9. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova) 🆕
+## 5. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova)
 
 Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,251 |
-| Forks | 1,436 |
-| Stars today | 59 |
+| Stars | 7,273 |
+| Forks | 1,438 |
+| Stars today | 38 |
 
 ---
 
-## 10. [software-mansion/react-native-bottom-sheet](https://github.com/software-mansion/react-native-bottom-sheet) 🆕
+## 6. [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) 🆕
 
-Provides bottom-sheet components for React Native.
+🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 523 |
-| Forks | 23 |
-| Stars today | 9 |
+| Stars | 8,533 |
+| Forks | 374 |
+| Stars today | 123 |
+
+---
+
+## 7. [madkongo/CallVault](https://github.com/madkongo/CallVault) 🆕
+
+FOSS call recorder for Android, no root or PC — records both sides of a call on its own over built-in ADB, or through Shizuku if you already use it. Fork of ShizuCallRecorder.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 294 |
+| Forks | 38 |
+| Stars today | 8 |
+
+---
+
+## 8. [justshivv/Opentune](https://github.com/justshivv/Opentune)
+
+A free, open-source Android music app with no ads, synced lyrics, background playback, and customisable themes.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 345 |
+| Forks | 30 |
+| Stars today | 17 |
+
+---
+
+## 9. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
+
+Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,781 |
+| Forks | 173 |
+| Stars today | 16 |
+
+---
+
+## 10. [EchoMusicApp/Echo-Music](https://github.com/EchoMusicApp/Echo-Music) 🆕
+
+An YouTube Music Client
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 2,659 |
+| Forks | 266 |
+| Stars today | 49 |
+
+---
+
+## 11. [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) 🆕
+
+A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 4,306 |
+| Forks | 173 |
+| Stars today | 23 |
+
+---
+
+## 12. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
+
+RikkaHub is an Android APP that supports for multiple LLM providers.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 9,047 |
+| Forks | 917 |
+| Stars today | 45 |
+
+---
+
+## 13. [JunkFood02/Seal](https://github.com/JunkFood02/Seal) 🆕
+
+🦭 Video/Audio Downloader for Android, based on yt-dlp
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 30,848 |
+| Forks | 1,576 |
+| Stars today | 43 |
+
+---
+
+## 14. [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) 🆕
+
+短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 28,956 |
+| Forks | 3,530 |
+| Stars today | 24 |
 
 ---

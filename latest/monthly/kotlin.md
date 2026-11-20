@@ -1,10 +1,10 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-19T07:16:56Z
-**Total Repositories:** 16
+**Snapshot Time:** 2026-11-20T07:06:21Z
+**Total Repositories:** 17
 **New Entries:** 1
-**Quality Score:** 97.50/100
+**Quality Score:** 97.65/100
 
 ---
 
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,655 |
-| Forks | 697 |
-| Stars this month | 2,018 |
+| Stars | 10,668 |
+| Forks | 699 |
+| Stars this month | 1,726 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,943 |
-| Forks | 759 |
-| Stars this month | 3,464 |
+| Stars | 7,027 |
+| Forks | 773 |
+| Stars this month | 3,389 |
 
 ---
 
@@ -39,48 +39,48 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,745 |
-| Forks | 5,149 |
-| Stars this month | 1,463 |
+| Stars | 20,774 |
+| Forks | 5,164 |
+| Stars this month | 1,469 |
 
 ---
 
-## 4. [CYQawa/YunX](https://github.com/CYQawa/YunX)
-
-YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 8,417 |
-| Forks | 443 |
-| Stars this month | 3,701 |
-
----
-
-## 5. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
-
-A cross-platform music app using YouTube Music for backend
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 13,613 |
-| Forks | 798 |
-| Stars this month | 1,544 |
-
----
-
-## 6. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova)
+## 4. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova)
 
 Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,251 |
-| Forks | 1,436 |
-| Stars this month | 724 |
+| Stars | 7,273 |
+| Forks | 1,438 |
+| Stars this month | 747 |
+
+---
+
+## 5. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+
+YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 8,494 |
+| Forks | 446 |
+| Stars this month | 3,648 |
+
+---
+
+## 6. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+
+A cross-platform music app using YouTube Music for backend
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 13,640 |
+| Forks | 799 |
+| Stars this month | 1,550 |
 
 ---
 
@@ -91,9 +91,9 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 45,029 |
-| Forks | 2,142 |
-| Stars this month | 2,177 |
+| Stars | 45,089 |
+| Forks | 2,145 |
+| Stars this month | 2,185 |
 
 ---
 
@@ -104,9 +104,9 @@ Using system APIs directly with adb/root privileges from normal apps through a J
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 34,061 |
-| Forks | 3,719 |
-| Stars this month | 2,471 |
+| Stars | 34,142 |
+| Forks | 3,727 |
+| Stars this month | 2,485 |
 
 ---
 
@@ -117,48 +117,48 @@ An OSS Android TV client for Jellyfin
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,364 |
-| Forks | 249 |
+| Stars | 3,370 |
+| Forks | 250 |
 | Stars this month | 293 |
 
 ---
 
-## 10. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
-
-StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 1,070 |
-| Forks | 179 |
-| Stars this month | 262 |
-
----
-
-## 11. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
-
-YunX（云析）的官方 windows 桌面端
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 6,810 |
-| Forks | 539 |
-| Stars this month | 5,992 |
-
----
-
-## 12. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
+## 10. [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
 
 Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,771 |
+| Stars | 2,781 |
 | Forks | 173 |
-| Stars this month | 588 |
+| Stars this month | 603 |
+
+---
+
+## 11. [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV)
+
+StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,073 |
+| Forks | 178 |
+| Stars this month | 261 |
+
+---
+
+## 12. [tidain/YunX-Desktop](https://github.com/tidain/YunX-Desktop)
+
+YunX（云析）的官方 windows 桌面端
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 6,937 |
+| Forks | 546 |
+| Stars this month | 6,047 |
 
 ---
 
@@ -169,47 +169,60 @@ Andee lives on your phone or Mac and uses any app like you do—no integrations,
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,157 |
+| Stars | 6,155 |
 | Forks | 294 |
-| Stars this month | 6,259 |
+| Stars this month | 5,654 |
 
 ---
 
-## 14. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
-
-Headunit App for displaying Android Auto
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 3,438 |
-| Forks | 339 |
-| Stars this month | 573 |
-
----
-
-## 15. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
-
-使用 Material Design 3 全新设计的阅读 3.0
-
-| Metric | Value |
-|--------|-------|
-| Language | Kotlin |
-| Stars | 7,097 |
-| Forks | 828 |
-| Stars this month | 617 |
-
----
-
-## 16. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) 🆕
+## 14. [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
 
 GhostLock One-Tap Execution App (CVE-2026-43499)
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,107 |
-| Forks | 728 |
-| Stars this month | 1,082 |
+| Stars | 3,125 |
+| Forks | 730 |
+| Stars this month | 1,066 |
+
+---
+
+## 15. [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
+
+Headunit App for displaying Android Auto
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 3,442 |
+| Forks | 341 |
+| Stars this month | 567 |
+
+---
+
+## 16. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
+
+使用 Material Design 3 全新设计的阅读 3.0
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,118 |
+| Forks | 831 |
+| Stars this month | 611 |
+
+---
+
+## 17. [aistra0528/Hail](https://github.com/aistra0528/Hail) 🆕
+
+Disable / Hide / Suspend / Uninstall Android apps without root.
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 7,378 |
+| Forks | 289 |
+| Stars this month | 478 |
 
 ---

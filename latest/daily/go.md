@@ -1,140 +1,140 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-19T07:16:07Z
-**Total Repositories:** 16
-**New Entries:** 11
+**Snapshot Time:** 2026-11-20T07:05:33Z
+**Total Repositories:** 12
+**New Entries:** 5
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
+## 1. [datazip-inc/olake-go](https://github.com/datazip-inc/olake-go) 🆕
 
-Modern Docker Management, Designed for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 9,959 |
-| Forks | 570 |
-| Stars today | 547 |
-
----
-
-## 2. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-
-Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 54,239 |
-| Forks | 4,487 |
-| Stars today | 622 |
+| Stars | 2,055 |
+| Forks | 313 |
+| Stars today | 84 |
 
 ---
 
-## 3. [docker/compose](https://github.com/docker/compose) 🆕
-
-Define and run multi-container applications with Docker
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 38,985 |
-| Forks | 6,039 |
-| Stars today | 173 |
-
----
-
-## 4. [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
-
-Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 3,915 |
-| Forks | 563 |
-| Stars today | 821 |
-
----
-
-## 5. [golang/go](https://github.com/golang/go) 🆕
-
-The Go programming language
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 140,049 |
-| Forks | 20,261 |
-| Stars today | 150 |
-
----
-
-## 6. [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 🆕
-
-Secure, Fast, and Extensible Sandbox runtime for AI agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 17,629 |
-| Forks | 1,701 |
-| Stars today | 106 |
-
----
-
-## 7. [agent-substrate/substrate](https://github.com/agent-substrate/substrate) 🆕
-
-Agent Substrate: the core system
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 7,672 |
-| Forks | 843 |
-| Stars today | 377 |
-
----
-
-## 8. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) 🆕
+## 2. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
 
 Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 34,584 |
-| Forks | 5,497 |
-| Stars today | 127 |
+| Stars | 34,649 |
+| Forks | 5,517 |
+| Stars today | 98 |
 
 ---
 
-## 9. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) 🆕
+## 3. [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
 
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,520 |
-| Forks | 909 |
-| Stars today | 38 |
+| Stars | 5,121 |
+| Forks | 711 |
+| Stars today | 276 |
 
 ---
 
-## 10. [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) 🆕
+## 4. [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
 
-📂 Web File Browser
+Agent Substrate: the core system
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 9,232 |
-| Forks | 555 |
-| Stars today | 19 |
+| Stars | 7,858 |
+| Forks | 861 |
+| Stars today | 244 |
+
+---
+
+## 5. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
+
+Modern Docker Management, Designed for Everyone
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 10,155 |
+| Forks | 575 |
+| Stars today | 497 |
+
+---
+
+## 6. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
+
+Make humans and AI agents work as one team — open-source and self-hostable.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 56,817 |
+| Forks | 7,482 |
+| Stars today | 155 |
+
+---
+
+## 7. [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
+
+Secure, Fast, and Extensible Sandbox runtime for AI agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 17,686 |
+| Forks | 1,704 |
+| Stars today | 92 |
+
+---
+
+## 8. [nats-io/nats-server](https://github.com/nats-io/nats-server) 🆕
+
+High-Performance server for NATS.io, the cloud and edge native messaging system.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 21,072 |
+| Forks | 2,049 |
+| Stars today | 8 |
+
+---
+
+## 9. [gastownhall/beads](https://github.com/gastownhall/beads) 🆕
+
+Beads - A memory upgrade for your coding agent
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 28,854 |
+| Forks | 1,950 |
+| Stars today | 22 |
+
+---
+
+## 10. [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+
+Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 13,382 |
+| Forks | 1,241 |
+| Stars today | 21 |
 
 ---
 
@@ -145,73 +145,21 @@ ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,537 |
-| Forks | 643 |
-| Stars today | 51 |
+| Stars | 2,564 |
+| Forks | 657 |
+| Stars today | 30 |
 
 ---
 
-## 12. [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) 🆕
+## 12. [putyy/res-downloader](https://github.com/putyy/res-downloader) 🆕
 
-Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 46,288 |
-| Forks | 10,035 |
-| Stars today | 92 |
-
----
-
-## 13. [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) 🆕
-
-Production-Grade Container Scheduling and Management
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 129,190 |
-| Forks | 45,091 |
-| Stars today | 135 |
-
----
-
-## 14. [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
-
-Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 52,205 |
-| Forks | 12,738 |
-| Stars today | 80 |
-
----
-
-## 15. [gohugoio/hugo](https://github.com/gohugoio/hugo) 🆕
-
-The world’s fastest framework for building websites.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 90,512 |
-| Forks | 8,542 |
-| Stars today | 15 |
-
----
-
-## 16. [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) 🆕
-
-Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 13,366 |
-| Forks | 1,238 |
-| Stars today | 41 |
+| Stars | 21,392 |
+| Forks | 2,619 |
+| Stars today | 26 |
 
 ---

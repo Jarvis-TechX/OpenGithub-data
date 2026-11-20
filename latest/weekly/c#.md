@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-19T07:16:35Z
-**Total Repositories:** 16
-**New Entries:** 3
-**Quality Score:** 97.50/100
+**Snapshot Time:** 2026-11-20T07:06:01Z
+**Total Repositories:** 14
+**New Entries:** 0
+**Quality Score:** 97.14/100
 
 ---
 
@@ -15,9 +15,9 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,287 |
-| Forks | 500 |
-| Stars this week | 337 |
+| Stars | 6,302 |
+| Forks | 501 |
+| Stars this week | 304 |
 
 ---
 
@@ -28,9 +28,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 12,704 |
-| Forks | 561 |
-| Stars this week | 1,135 |
+| Stars | 12,763 |
+| Forks | 566 |
+| Stars this week | 1,169 |
 
 ---
 
@@ -41,22 +41,22 @@ rhythm is just a *click* away!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,483 |
-| Forks | 2,901 |
-| Stars this week | 100 |
+| Stars | 19,492 |
+| Forks | 2,903 |
+| Stars this week | 99 |
 
 ---
 
-## 4. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
 
-PowerShell for every system!
+FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,234 |
-| Forks | 8,544 |
-| Stars this week | 145 |
+| Stars | 7,429 |
+| Forks | 249 |
+| Stars this week | 370 |
 
 ---
 
@@ -67,48 +67,48 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 120,937 |
-| Forks | 16,361 |
-| Stars this week | 576 |
+| Stars | 121,017 |
+| Forks | 16,369 |
+| Stars this week | 588 |
 
 ---
 
-## 6. [Radarr/Radarr](https://github.com/Radarr/Radarr)
+## 6. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
+
+UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 27,138 |
+| Forks | 986 |
+| Stars this week | 145 |
+
+---
+
+## 7. [Radarr/Radarr](https://github.com/Radarr/Radarr)
 
 Movie organizer/manager for usenet and torrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,822 |
-| Forks | 1,264 |
-| Stars this week | 69 |
+| Stars | 14,833 |
+| Forks | 1,265 |
+| Stars this week | 78 |
 
 ---
 
-## 7. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
+## 8. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
 
-FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
+the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,369 |
-| Forks | 250 |
-| Stars this week | 327 |
-
----
-
-## 8. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
-
-A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 39,311 |
-| Forks | 4,115 |
-| Stars this week | 134 |
+| Stars | 15,071 |
+| Forks | 1,389 |
+| Stars this week | 102 |
 
 ---
 
@@ -119,97 +119,71 @@ A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, musi
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 830 |
-| Forks | 86 |
-| Stars this week | 251 |
+| Stars | 848 |
+| Forks | 89 |
+| Stars this week | 257 |
 
 ---
 
-## 10. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+## 10. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+
+A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,874 |
-| Forks | 1,211 |
-| Stars this week | 66 |
+| Stars | 39,335 |
+| Forks | 4,116 |
+| Stars this week | 125 |
 
 ---
 
-## 11. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
-
-UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+## 11. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,113 |
-| Forks | 985 |
-| Stars this week | 135 |
+| Stars | 13,878 |
+| Forks | 1,215 |
+| Stars this week | 68 |
 
 ---
 
-## 12. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-
-ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 38,533 |
-| Forks | 11,562 |
-| Stars this week | 39 |
-
----
-
-## 13. [dotnet/extensions](https://github.com/dotnet/extensions) 🆕
-
-This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 3,280 |
-| Forks | 925 |
-| Stars this week | 6 |
-
----
-
-## 14. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+## 12. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,760 |
+| Stars | 4,769 |
 | Forks | 308 |
-| Stars this week | 121 |
+| Stars this week | 135 |
 
 ---
 
-## 15. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) 🆕
+## 13. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
-the subtitle editor :)
+ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,053 |
-| Forks | 1,389 |
-| Stars this week | 94 |
+| Stars | 38,542 |
+| Forks | 11,553 |
+| Stars this week | 50 |
 
 ---
 
-## 16. [openutau/OpenUtau](https://github.com/openutau/OpenUtau) 🆕
+## 14. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
-Open singing synthesis platform / Open source UTAU successor
+PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,619 |
-| Forks | 606 |
-| Stars this week | 58 |
+| Stars | 56,252 |
+| Forks | 8,551 |
+| Stars this week | 144 |
 
 ---

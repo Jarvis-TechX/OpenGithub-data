@@ -1,255 +1,217 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-19T07:15:59Z
-**Total Repositories:** 19
-**New Entries:** 11
-**Quality Score:** 98.42/100
+**Snapshot Time:** 2026-11-20T07:05:25Z
+**Total Repositories:** 16
+**New Entries:** 10
+**Quality Score:** 100.00/100
 
 ---
 
-## 1. [cursor/plugins](https://github.com/cursor/plugins)
+## 1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) 🆕
 
-Cursor plugin specification and official plugins
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 17,329 |
-| Forks | 1,914 |
-| Stars today | 314 |
-
----
-
-## 2. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 🆕
-
-"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
+A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 60,014 |
-| Forks | 5,449 |
-| Stars today | 389 |
+| Stars | 12,966 |
+| Forks | 1,619 |
+| Stars today | 1,349 |
 
 ---
 
-## 3. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
-
-AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 70,279 |
-| Forks | 6,260 |
-| Stars today | 1,059 |
-
----
-
-## 4. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
-
-Modern Docker Management, Designed for Everyone
-
-| Metric | Value |
-|--------|-------|
-| Language | Go |
-| Stars | 9,959 |
-| Forks | 570 |
-| Stars today | 547 |
-
----
-
-## 5. [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) 🆕
-
-Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 3,887 |
-| Forks | 531 |
-| Stars today | 312 |
-
----
-
-## 6. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 🆕
-
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
-
-| Metric | Value |
-|--------|-------|
-| Language | Shell |
-| Stars | 96,189 |
-| Forks | 10,790 |
-| Stars today | 237 |
-
----
-
-## 7. [astral-sh/uv](https://github.com/astral-sh/uv) 🆕
-
-An extremely fast Python package and project manager, written in Rust.
-
-| Metric | Value |
-|--------|-------|
-| Language | Rust |
-| Stars | 92,313 |
-| Forks | 3,926 |
-| Stars today | 258 |
-
----
-
-## 8. [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)
-
-PaperOrchestra is a multi-agent framework for automated AI research paper writing.
-
-| Metric | Value |
-|--------|-------|
-| Language | Python |
-| Stars | 4,573 |
-| Forks | 567 |
-| Stars today | 1,524 |
-
----
-
-## 9. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
-
-A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 10,504 |
-| Forks | 1,372 |
-| Stars today | 365 |
-
----
-
-## 10. [sveltejs/svelte](https://github.com/sveltejs/svelte)
-
-web development for the rest of us
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 89,696 |
-| Forks | 6,217 |
-| Stars today | 692 |
-
----
-
-## 11. [jquery/jquery](https://github.com/jquery/jquery) 🆕
-
-jQuery JavaScript Library
-
-| Metric | Value |
-|--------|-------|
-| Language | JavaScript |
-| Stars | 60,062 |
-| Forks | 20,711 |
-| Stars today | 266 |
-
----
-
-## 12. [appwrite/appwrite](https://github.com/appwrite/appwrite) 🆕
-
-The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 58,310 |
-| Forks | 5,887 |
-| Stars today | 232 |
-
----
-
-## 13. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) 🆕
-
-OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-
-| Metric | Value |
-|--------|-------|
-| Language | C++ |
-| Stars | 11,405 |
-| Forks | 3,608 |
-| Stars today | 24 |
-
----
-
-## 14. [obra/superpowers](https://github.com/obra/superpowers)
+## 2. [obra/superpowers](https://github.com/obra/superpowers)
 
 An agentic skills framework & software development methodology that works.
 
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 321,497 |
-| Forks | 28,578 |
-| Stars today | 822 |
+| Stars | 322,302 |
+| Forks | 28,644 |
+| Stars today | 2,028 |
 
 ---
 
-## 15. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+## 3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 
-The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
 
 | Metric | Value |
 |--------|-------|
-| Language | JavaScript |
-| Stars | 306,763 |
-| Forks | 45,159 |
-| Stars today | 1,108 |
+| Language | Python |
+| Stars | 60,781 |
+| Forks | 5,514 |
+| Stars today | 898 |
 
 ---
 
-## 16. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) 🆕
+## 4. [jingyaogong/minimind](https://github.com/jingyaogong/minimind) 🆕
 
-江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
+🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 
 | Metric | Value |
 |--------|-------|
-| Language | JavaScript |
-| Stars | 8,222 |
-| Forks | 1,006 |
-| Stars today | 218 |
+| Language | Python |
+| Stars | 67,196 |
+| Forks | 8,820 |
+| Stars today | 238 |
 
 ---
 
-## 17. [n8n-io/n8n](https://github.com/n8n-io/n8n) 🆕
+## 5. [cursor/plugins](https://github.com/cursor/plugins)
 
-Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-| Metric | Value |
-|--------|-------|
-| Language | TypeScript |
-| Stars | 211,252 |
-| Forks | 61,578 |
-| Stars today | 325 |
-
----
-
-## 18. [solidjs/solid](https://github.com/solidjs/solid) 🆕
-
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
+Cursor plugin specification and official plugins
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 36,686 |
-| Forks | 1,190 |
-| Stars today | 40 |
+| Stars | 17,640 |
+| Forks | 1,943 |
+| Stars today | 384 |
 
 ---
 
-## 19. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) 🆕
+## 6. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) 🆕
 
-A collection of MCP servers.
+Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 
 | Metric | Value |
 |--------|-------|
-| Stars | 98,143 |
-| Forks | 20,374 |
-| Stars today | 53 |
+| Language | TypeScript |
+| Stars | 204,531 |
+| Forks | 10,719 |
+| Stars today | 825 |
+
+---
+
+## 7. [nginx/nginx](https://github.com/nginx/nginx) 🆕
+
+The official NGINX Open Source repository.
+
+| Metric | Value |
+|--------|-------|
+| Language | C |
+| Stars | 32,409 |
+| Forks | 8,420 |
+| Stars today | 73 |
+
+---
+
+## 8. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+
+OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+
+| Metric | Value |
+|--------|-------|
+| Language | C++ |
+| Stars | 11,622 |
+| Forks | 3,624 |
+| Stars today | 246 |
+
+---
+
+## 9. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) 🆕
+
+Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+
+| Metric | Value |
+|--------|-------|
+| Language | HTML |
+| Stars | 68,837 |
+| Forks | 4,625 |
+| Stars today | 271 |
+
+---
+
+## 10. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+
+AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 71,001 |
+| Forks | 6,321 |
+| Stars today | 954 |
+
+---
+
+## 11. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+
+A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 10,815 |
+| Forks | 1,393 |
+| Stars today | 302 |
+
+---
+
+## 12. [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) 🆕
+
+Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
+
+| Metric | Value |
+|--------|-------|
+| Language | Shell |
+| Stars | 2,124 |
+| Forks | 140 |
+| Stars today | 377 |
+
+---
+
+## 13. [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) 🆕
+
+The open-source agent for CI/CD reliability.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 13,258 |
+| Forks | 1,910 |
+| Stars today | 38 |
+
+---
+
+## 14. [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) 🆕
+
+There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 75,331 |
+| Forks | 5,570 |
+| Stars today | 182 |
+
+---
+
+## 15. [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) 🆕
+
+The only downloader you need. 下载器的集大成者。
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 13,078 |
+| Forks | 814 |
+| Stars today | 341 |
+
+---
+
+## 16. [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) 🆕
+
+AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 11,585 |
+| Forks | 1,964 |
+| Stars today | 126 |
 
 ---
