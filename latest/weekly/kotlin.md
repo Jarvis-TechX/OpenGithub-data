@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-20T07:06:00Z
-**Total Repositories:** 17
-**New Entries:** 6
+**Snapshot Time:** 2026-11-21T06:59:18Z
+**Total Repositories:** 18
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,8 +15,8 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 57,962 |
-| Forks | 8,851 |
+| Stars | 57,998 |
+| Forks | 8,854 |
 | Stars this week | 1,392 |
 
 ---
@@ -28,182 +28,195 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,937 |
-| Forks | 546 |
-| Stars this week | 1,778 |
+| Stars | 7,070 |
+| Forks | 553 |
+| Stars this week | 1,486 |
 
 ---
 
-## 3. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+## 3. [N3urda/hongguoTV](https://github.com/N3urda/hongguoTV) 🆕
+
+安卓 TV 红果短剧客户端
+
+| Metric | Value |
+|--------|-------|
+| Language | Kotlin |
+| Stars | 1,454 |
+| Forks | 251 |
+| Stars this week | 457 |
+
+---
+
+## 4. [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
 
 A cross-platform music app using YouTube Music for backend
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,640 |
-| Forks | 799 |
-| Stars this week | 398 |
+| Stars | 13,680 |
+| Forks | 803 |
+| Stars this week | 394 |
 
 ---
 
-## 4. [samolego/Canta](https://github.com/samolego/Canta)
+## 5. [samolego/Canta](https://github.com/samolego/Canta)
 
 Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,578 |
-| Forks | 183 |
-| Stars this week | 423 |
+| Stars | 7,624 |
+| Forks | 184 |
+| Stars this week | 430 |
 
 ---
 
-## 5. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
+## 6. [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3)
 
 使用 Material Design 3 全新设计的阅读 3.0
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,118 |
+| Stars | 7,139 |
 | Forks | 831 |
-| Stars this week | 155 |
+| Stars this week | 153 |
 
 ---
 
-## 6. [aistra0528/Hail](https://github.com/aistra0528/Hail)
+## 7. [aistra0528/Hail](https://github.com/aistra0528/Hail)
 
 Disable / Hide / Suspend / Uninstall Android apps without root.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,378 |
-| Forks | 289 |
-| Stars this week | 119 |
+| Stars | 7,391 |
+| Forks | 290 |
+| Stars this week | 111 |
 
 ---
 
-## 7. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova) 🆕
+## 8. [SukiSU-Nova/SukiSU-Nova](https://github.com/SukiSU-Nova/SukiSU-Nova)
 
 Kernel-based Android Root Solution & KPM
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,273 |
-| Forks | 1,438 |
-| Stars this week | 226 |
+| Stars | 7,320 |
+| Forks | 1,444 |
+| Stars this week | 231 |
 
 ---
 
-## 8. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music)
+## 9. [realidkroo/Mochy-Music](https://github.com/realidkroo/Mochy-Music)
 
 A modern, cool, sleek music player. made with <3
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,077 |
-| Forks | 106 |
-| Stars this week | 536 |
+| Stars | 2,133 |
+| Forks | 110 |
+| Stars this week | 510 |
 
 ---
 
-## 9. [bitwarden/android](https://github.com/bitwarden/android) 🆕
+## 10. [bitwarden/android](https://github.com/bitwarden/android)
 
 Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,666 |
-| Forks | 1,210 |
-| Stars this week | 47 |
+| Stars | 9,667 |
+| Forks | 1,208 |
+| Stars this week | 44 |
 
 ---
 
-## 10. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+## 11. [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
 
 A V2Ray client for Android, support Xray core and v2fly core
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 66,206 |
-| Forks | 8,702 |
+| Stars | 66,264 |
+| Forks | 8,698 |
 | Stars this week | 461 |
 
 ---
 
-## 11. [tasks/tasks](https://github.com/tasks/tasks) 🆕
+## 12. [tasks/tasks](https://github.com/tasks/tasks)
 
 Bringing Astrid Tasks back from the dead
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,774 |
-| Forks | 682 |
-| Stars this week | 43 |
+| Stars | 5,782 |
+| Forks | 685 |
+| Stars this week | 47 |
 
 ---
 
-## 12. [CYQawa/YunX](https://github.com/CYQawa/YunX)
+## 13. [CYQawa/YunX](https://github.com/CYQawa/YunX)
 
 YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,494 |
-| Forks | 446 |
-| Stars this week | 954 |
+| Stars | 8,596 |
+| Forks | 449 |
+| Stars this week | 841 |
 
 ---
 
-## 13. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer) 🆕
+## 14. [MuwMx/YumaPlayer](https://github.com/MuwMx/YumaPlayer)
 
 🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,289 |
-| Forks | 56 |
-| Stars this week | 117 |
+| Stars | 1,309 |
+| Forks | 57 |
+| Stars this week | 121 |
 
 ---
 
-## 14. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) 🆕
+## 15. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
 
 RikkaHub is an Android APP that supports for multiple LLM providers.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,047 |
-| Forks | 917 |
-| Stars this week | 247 |
+| Stars | 9,067 |
+| Forks | 920 |
+| Stars this week | 255 |
 
 ---
 
-## 15. [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) 🆕
+## 16. [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
 
 A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 25,386 |
-| Forks | 2,837 |
-| Stars this week | 107 |
+| Stars | 25,394 |
+| Forks | 2,839 |
+| Stars this week | 110 |
 
 ---
 
-## 16. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer)
+## 17. [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer)
 
 WhatsApp tools for Android
 
@@ -211,20 +224,20 @@ WhatsApp tools for Android
 |--------|-------|
 | Language | Kotlin |
 | Stars | 1,902 |
-| Forks | 269 |
-| Stars this week | 27 |
+| Forks | 270 |
+| Stars this week | 26 |
 
 ---
 
-## 17. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid)
+## 18. [throneproj/ThroneForAndroid](https://github.com/throneproj/ThroneForAndroid)
 
 Android GUI proxy utility (Empowered by sing-box)
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 857 |
-| Forks | 44 |
-| Stars this week | 66 |
+| Stars | 865 |
+| Forks | 45 |
+| Stars this week | 63 |
 
 ---

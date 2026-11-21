@@ -1,23 +1,23 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-20T07:05:33Z
+**Snapshot Time:** 2026-11-21T06:58:55Z
 **Total Repositories:** 12
-**New Entries:** 5
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
 
-## 1. [datazip-inc/olake-go](https://github.com/datazip-inc/olake-go) 🆕
+## 1. [datazip-inc/olake-go](https://github.com/datazip-inc/olake-go)
 
 OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,055 |
-| Forks | 313 |
-| Stars today | 84 |
+| Stars | 2,144 |
+| Forks | 320 |
+| Stars today | 62 |
 
 ---
 
@@ -28,9 +28,9 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 34,649 |
-| Forks | 5,517 |
-| Stars today | 98 |
+| Stars | 34,709 |
+| Forks | 5,528 |
+| Stars today | 72 |
 
 ---
 
@@ -41,9 +41,9 @@ Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,121 |
-| Forks | 711 |
-| Stars today | 276 |
+| Stars | 5,338 |
+| Forks | 734 |
+| Stars today | 1,216 |
 
 ---
 
@@ -54,9 +54,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,858 |
-| Forks | 861 |
-| Stars today | 244 |
+| Stars | 8,042 |
+| Forks | 882 |
+| Stars today | 224 |
 
 ---
 
@@ -67,22 +67,22 @@ Modern Docker Management, Designed for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,155 |
-| Forks | 575 |
-| Stars today | 497 |
+| Stars | 10,206 |
+| Forks | 577 |
+| Stars today | 90 |
 
 ---
 
-## 6. [multica-ai/multica](https://github.com/multica-ai/multica) 🆕
+## 6. [multica-ai/multica](https://github.com/multica-ai/multica)
 
 Make humans and AI agents work as one team — open-source and self-hostable.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 56,817 |
-| Forks | 7,482 |
-| Stars today | 155 |
+| Stars | 56,972 |
+| Forks | 7,502 |
+| Stars today | 173 |
 
 ---
 
@@ -93,35 +93,35 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,686 |
-| Forks | 1,704 |
-| Stars today | 92 |
+| Stars | 17,745 |
+| Forks | 1,709 |
+| Stars today | 72 |
 
 ---
 
-## 8. [nats-io/nats-server](https://github.com/nats-io/nats-server) 🆕
+## 8. [nats-io/nats-server](https://github.com/nats-io/nats-server)
 
 High-Performance server for NATS.io, the cloud and edge native messaging system.
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 21,072 |
-| Forks | 2,049 |
-| Stars today | 8 |
+| Stars | 21,090 |
+| Forks | 2,051 |
+| Stars today | 13 |
 
 ---
 
-## 9. [gastownhall/beads](https://github.com/gastownhall/beads) 🆕
+## 9. [gastownhall/beads](https://github.com/gastownhall/beads)
 
 Beads - A memory upgrade for your coding agent
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 28,854 |
-| Forks | 1,950 |
-| Stars today | 22 |
+| Stars | 28,881 |
+| Forks | 1,949 |
+| Stars today | 17 |
 
 ---
 
@@ -132,9 +132,9 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 13,382 |
+| Stars | 13,391 |
 | Forks | 1,241 |
-| Stars today | 21 |
+| Stars today | 15 |
 
 ---
 
@@ -145,21 +145,21 @@ ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,564 |
-| Forks | 657 |
-| Stars today | 30 |
+| Stars | 2,588 |
+| Forks | 673 |
+| Stars today | 18 |
 
 ---
 
-## 12. [putyy/res-downloader](https://github.com/putyy/res-downloader) 🆕
+## 12. [putyy/res-downloader](https://github.com/putyy/res-downloader)
 
 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 21,392 |
-| Forks | 2,619 |
-| Stars today | 26 |
+| Stars | 21,409 |
+| Forks | 2,622 |
+| Stars today | 23 |
 
 ---

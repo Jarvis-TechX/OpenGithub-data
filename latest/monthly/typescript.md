@@ -1,7 +1,7 @@
 # GitHub Trending - Typescript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-20T07:06:09Z
+**Snapshot Time:** 2026-11-21T06:59:26Z
 **Total Repositories:** 22
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 25,930 |
-| Forks | 3,689 |
-| Stars this month | 20,640 |
+| Stars | 26,290 |
+| Forks | 3,747 |
+| Stars this month | 21,024 |
 
 ---
 
@@ -28,9 +28,9 @@ The best way to control Claude Code, Codex and more from any computer or phone
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 66,762 |
-| Forks | 11,613 |
-| Stars this month | 37,642 |
+| Stars | 68,279 |
+| Forks | 11,765 |
+| Stars this month | 38,744 |
 
 ---
 
@@ -41,9 +41,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 118,507 |
-| Forks | 10,311 |
-| Stars this month | 17,313 |
+| Stars | 118,708 |
+| Forks | 10,314 |
+| Stars this month | 17,381 |
 
 ---
 
@@ -54,9 +54,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,733 |
-| Forks | 1,389 |
-| Stars this month | 4,143 |
+| Stars | 13,964 |
+| Forks | 1,393 |
+| Stars this month | 4,344 |
 
 ---
 
@@ -67,9 +67,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,816 |
-| Forks | 1,393 |
-| Stars this month | 2,107 |
+| Stars | 11,129 |
+| Forks | 1,413 |
+| Stars this month | 2,406 |
 
 ---
 
@@ -80,9 +80,9 @@ AI video you can actually edit. HyperFrames is a free, open-source AI video edit
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 87,154 |
-| Forks | 8,107 |
-| Stars this month | 20,032 |
+| Stars | 87,563 |
+| Forks | 8,134 |
+| Stars this month | 19,612 |
 
 ---
 
@@ -93,9 +93,9 @@ AI video skill for Claude Code & Codex — cinematic, editable product promos wi
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 21,710 |
-| Forks | 2,005 |
-| Stars this month | 9,209 |
+| Stars | 21,860 |
+| Forks | 2,020 |
+| Stars this month | 9,286 |
 
 ---
 
@@ -106,9 +106,9 @@ ThinkRail is the agentic IDE that gets better every time you use it
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 8,367 |
-| Forks | 532 |
-| Stars this month | 7,537 |
+| Stars | 8,380 |
+| Forks | 533 |
+| Stars this month | 7,479 |
 
 ---
 
@@ -119,9 +119,9 @@ The open, self-hostable alternative to closed AI bots. Production-ready, fully c
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,997 |
-| Forks | 1,619 |
-| Stars this month | 6,364 |
+| Stars | 13,089 |
+| Forks | 1,634 |
+| Stars this month | 6,425 |
 
 ---
 
@@ -132,9 +132,9 @@ The open agent skills tool - npx skills
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 40,138 |
-| Forks | 3,552 |
-| Stars this month | 4,587 |
+| Stars | 40,268 |
+| Forks | 3,562 |
+| Stars this month | 4,536 |
 
 ---
 
@@ -145,9 +145,9 @@ The open agent skills tool - npx skills
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 74,432 |
-| Forks | 6,311 |
-| Stars this month | 9,293 |
+| Stars | 74,625 |
+| Forks | 6,336 |
+| Stars this month | 9,206 |
 
 ---
 
@@ -158,9 +158,9 @@ The open agent skills tool - npx skills
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 55,352 |
-| Forks | 7,862 |
-| Stars this month | 18,018 |
+| Stars | 55,799 |
+| Forks | 7,945 |
+| Stars this month | 17,878 |
 
 ---
 
@@ -171,9 +171,9 @@ The open agent skills tool - npx skills
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 42,018 |
-| Forks | 8,020 |
-| Stars this month | 4,732 |
+| Stars | 42,070 |
+| Forks | 8,040 |
+| Stars this month | 4,750 |
 
 ---
 
@@ -184,9 +184,9 @@ An open-source AI coding agent that lives in your terminal.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,800 |
-| Forks | 3,563 |
-| Stars this month | 2,371 |
+| Stars | 30,827 |
+| Forks | 3,566 |
+| Stars this month | 2,376 |
 
 ---
 
@@ -197,9 +197,9 @@ An open-source AI coding agent that lives in your terminal.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 25,412 |
-| Forks | 31,511 |
-| Stars this month | 5,711 |
+| Stars | 25,478 |
+| Forks | 31,545 |
+| Stars this month | 5,382 |
 
 ---
 
@@ -210,9 +210,9 @@ A context-compression plugin for month-long single sessions (billions of tokens)
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,978 |
-| Forks | 643 |
-| Stars this month | 6,034 |
+| Stars | 8,046 |
+| Forks | 645 |
+| Stars this month | 6,005 |
 
 ---
 
@@ -223,9 +223,9 @@ A context-compression plugin for month-long single sessions (billions of tokens)
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 85,898 |
-| Forks | 16,349 |
-| Stars this month | 2,774 |
+| Stars | 85,936 |
+| Forks | 16,341 |
+| Stars this month | 2,807 |
 
 ---
 
@@ -236,9 +236,9 @@ AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,687 |
-| Forks | 2,125 |
-| Stars this month | 3,955 |
+| Stars | 20,855 |
+| Forks | 2,128 |
+| Stars this month | 4,110 |
 
 ---
 
@@ -249,9 +249,9 @@ The open-source repo for docs.github.com
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 21,518 |
-| Forks | 69,665 |
-| Stars this month | 788 |
+| Stars | 21,529 |
+| Forks | 69,690 |
+| Stars this month | 799 |
 
 ---
 
@@ -262,9 +262,9 @@ A lightweight sandboxing tool for enforcing filesystem and network restrictions 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,194 |
-| Forks | 654 |
-| Stars this month | 1,617 |
+| Stars | 7,206 |
+| Forks | 656 |
+| Stars this month | 1,613 |
 
 ---
 
@@ -275,9 +275,9 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 108,951 |
-| Forks | 14,966 |
-| Stars this month | 2,042 |
+| Stars | 108,959 |
+| Forks | 14,968 |
+| Stars this month | 2,044 |
 
 ---
 
@@ -288,8 +288,8 @@ Open-source Grok Bot alternative. Choose your own model and sandbox.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,255 |
-| Forks | 1,666 |
-| Stars this month | 4,569 |
+| Stars | 9,347 |
+| Forks | 1,684 |
+| Stars this month | 4,493 |
 
 ---

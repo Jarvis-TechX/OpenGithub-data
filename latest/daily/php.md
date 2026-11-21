@@ -1,9 +1,9 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-20T07:05:32Z
+**Snapshot Time:** 2026-11-21T06:58:54Z
 **Total Repositories:** 21
-**New Entries:** 13
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ A free open source IT asset/license management system
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,209 |
+| Stars | 15,217 |
 | Forks | 4,076 |
-| Stars today | 6 |
+| Stars today | 11 |
 
 ---
 
-## 2. [mautic/mautic](https://github.com/mautic/mautic) 🆕
+## 2. [mautic/mautic](https://github.com/mautic/mautic)
 
 Mautic: Open Source Marketing Automation Software.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 11,053 |
-| Forks | 3,556 |
-| Stars today | 40 |
+| Stars | 11,063 |
+| Forks | 3,562 |
+| Stars today | 18 |
 
 ---
 
@@ -41,35 +41,35 @@ Community-based GPL-licensed network monitoring system
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,017 |
-| Forks | 2,877 |
-| Stars today | 5 |
+| Stars | 5,018 |
+| Forks | 2,880 |
+| Stars today | 2 |
 
 ---
 
-## 4. [magento/magento2](https://github.com/magento/magento2) 🆕
+## 4. [magento/magento2](https://github.com/magento/magento2)
 
 Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at:https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 12,241 |
+| Stars | 12,242 |
 | Forks | 9,355 |
-| Stars today | 3 |
+| Stars today | 2 |
 
 ---
 
-## 5. [MISP/MISP](https://github.com/MISP/MISP) 🆕
+## 5. [MISP/MISP](https://github.com/MISP/MISP)
 
 MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,683 |
-| Forks | 1,675 |
-| Stars today | 10 |
+| Stars | 6,687 |
+| Forks | 1,676 |
+| Stars today | 4 |
 
 ---
 
@@ -80,9 +80,9 @@ Personal CRM. Remember everything about your friends, family and business relati
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 25,813 |
-| Forks | 2,641 |
-| Stars today | 5 |
+| Stars | 25,821 |
+| Forks | 2,640 |
+| Stars today | 8 |
 
 ---
 
@@ -95,11 +95,10 @@ Security, performance, marketing, and design tools — Jetpack is made by WordPr
 | Language | PHP |
 | Stars | 1,859 |
 | Forks | 908 |
-| Stars today | 1 |
 
 ---
 
-## 8. [shopware/shopware](https://github.com/shopware/shopware) 🆕
+## 8. [shopware/shopware](https://github.com/shopware/shopware)
 
 Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 
@@ -107,8 +106,7 @@ Shopware 6 is an open commerce platform based on Symfony Framework and Vue and s
 |--------|-------|
 | Language | PHP |
 | Stars | 3,475 |
-| Forks | 1,228 |
-| Stars today | 1 |
+| Forks | 1,229 |
 
 ---
 
@@ -119,48 +117,48 @@ PrestaShop is the universal open-source software platform to build your e-commer
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,257 |
+| Stars | 9,259 |
 | Forks | 5,059 |
-| Stars today | 1 |
+| Stars today | 2 |
 
 ---
 
-## 10. [krayin/laravel-crm](https://github.com/krayin/laravel-crm) 🆕
+## 10. [krayin/laravel-crm](https://github.com/krayin/laravel-crm)
 
 Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 24,185 |
-| Forks | 1,691 |
-| Stars today | 1 |
+| Stars | 24,190 |
+| Forks | 1,692 |
+| Stars today | 3 |
 
 ---
 
-## 11. [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events) 🆕
+## 11. [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)
 
 Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️ If you find this project helpful, please consider giving us a star ⭐️
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 4,196 |
-| Forks | 758 |
+| Stars | 4,197 |
+| Forks | 759 |
 | Stars today | 2 |
 
 ---
 
-## 12. [matomo-org/matomo](https://github.com/matomo-org/matomo) 🆕
+## 12. [matomo-org/matomo](https://github.com/matomo-org/matomo)
 
 Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo.org/jobsMatomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 22,035 |
+| Stars | 22,041 |
 | Forks | 2,942 |
-| Stars today | 2 |
+| Stars today | 5 |
 
 ---
 
@@ -172,8 +170,7 @@ WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, incl
 |--------|-------|
 | Language | PHP |
 | Stars | 3,515 |
-| Forks | 3,775 |
-| Stars today | 1 |
+| Forks | 3,779 |
 
 ---
 
@@ -184,22 +181,22 @@ Laravel is a web application framework with expressive, elegant syntax.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 35,003 |
-| Forks | 12,041 |
-| Stars today | 3 |
+| Stars | 35,014 |
+| Forks | 12,042 |
+| Stars today | 6 |
 
 ---
 
-## 15. [relaticle/relaticle](https://github.com/relaticle/relaticle) 🆕
+## 15. [relaticle/relaticle](https://github.com/relaticle/relaticle)
 
 Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks and notes. REST API, self-hosted or cloud.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,898 |
-| Forks | 238 |
-| Stars today | 16 |
+| Stars | 1,913 |
+| Forks | 239 |
+| Stars today | 17 |
 
 ---
 
@@ -210,72 +207,73 @@ Damn Vulnerable Web Application (DVWA)
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 14,058 |
-| Forks | 5,274 |
-| Stars today | 5 |
+| Stars | 14,062 |
+| Forks | 5,279 |
+| Stars today | 4 |
 
 ---
 
-## 17. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) 🆕
+## 17. [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 
 mailcow: dockerized - 🐮 + 🐋 = 💕
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,850 |
-| Forks | 1,875 |
-| Stars today | 8 |
+| Stars | 13,855 |
+| Forks | 1,877 |
+| Stars today | 6 |
 
 ---
 
-## 18. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) 🆕
+## 18. [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce)
 
 A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,606 |
-| Forks | 10,665 |
-| Stars today | 1 |
+| Stars | 10,607 |
+| Forks | 10,668 |
+| Stars today | 2 |
 
 ---
 
-## 19. [Leantime/leantime](https://github.com/Leantime/leantime) 🆕
+## 19. [Leantime/leantime](https://github.com/Leantime/leantime)
 
 Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 12,126 |
-| Forks | 1,187 |
-| Stars today | 1 |
+| Stars | 12,129 |
+| Forks | 1,186 |
+| Stars today | 3 |
 
 ---
 
-## 20. [openemr/openemr](https://github.com/openemr/openemr) 🆕
+## 20. [openemr/openemr](https://github.com/openemr/openemr)
 
 The most popular open source electronic health records and medical practice management solution.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,611 |
+| Stars | 5,614 |
 | Forks | 3,138 |
+| Stars today | 2 |
 
 ---
 
-## 21. [cedar2025/Xboard](https://github.com/cedar2025/Xboard) 🆕
+## 21. [cedar2025/Xboard](https://github.com/cedar2025/Xboard)
 
 High-performance panel based on V2board secondary development supporting new protocols and new features
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 4,876 |
-| Forks | 1,395 |
+| Stars | 4,879 |
+| Forks | 1,397 |
 | Stars today | 3 |
 
 ---

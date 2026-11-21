@@ -1,7 +1,7 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-20T07:06:22Z
+**Snapshot Time:** 2026-11-21T06:59:38Z
 **Total Repositories:** 20
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,178 |
-| Forks | 1,366 |
-| Stars this month | 1,955 |
+| Stars | 18,200 |
+| Forks | 1,367 |
+| Stars this month | 1,922 |
 
 ---
 
@@ -28,9 +28,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 12,764 |
-| Forks | 566 |
-| Stars this month | 2,308 |
+| Stars | 12,808 |
+| Forks | 568 |
+| Stars this month | 2,347 |
 
 ---
 
@@ -41,9 +41,9 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,302 |
-| Forks | 501 |
-| Stars this month | 636 |
+| Stars | 6,314 |
+| Forks | 504 |
+| Stars this month | 642 |
 
 ---
 
@@ -54,9 +54,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,320 |
-| Forks | 1,692 |
-| Stars this month | 1,670 |
+| Stars | 22,383 |
+| Forks | 1,695 |
+| Stars this month | 1,714 |
 
 ---
 
@@ -67,9 +67,9 @@ ShareX is a free and open-source application that enables users to capture or re
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 41,237 |
-| Forks | 4,094 |
-| Stars this month | 1,117 |
+| Stars | 41,273 |
+| Forks | 4,095 |
+| Stars this month | 1,133 |
 
 ---
 
@@ -80,8 +80,8 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,335 |
-| Forks | 4,116 |
+| Stars | 39,347 |
+| Forks | 4,117 |
 | Stars this month | 452 |
 
 ---
@@ -93,9 +93,9 @@ PCL 社区版 由社区开发者维护与管理
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,168 |
-| Forks | 491 |
-| Stars this month | 805 |
+| Stars | 5,178 |
+| Forks | 495 |
+| Stars this month | 588 |
 
 ---
 
@@ -106,9 +106,9 @@ Windows Llama App Companion
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 471 |
-| Forks | 63 |
-| Stars this month | 231 |
+| Stars | 476 |
+| Forks | 64 |
+| Stars this month | 232 |
 
 ---
 
@@ -119,9 +119,9 @@ Windows Llama App Companion
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 957 |
+| Stars | 979 |
 | Forks | 85 |
-| Stars this month | 461 |
+| Stars this month | 473 |
 
 ---
 
@@ -132,8 +132,8 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,542 |
-| Forks | 11,553 |
+| Stars | 38,543 |
+| Forks | 11,551 |
 | Stars this month | 148 |
 
 ---
@@ -145,9 +145,9 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,463 |
-| Forks | 5,831 |
-| Stars this month | 131 |
+| Stars | 18,464 |
+| Forks | 5,768 |
+| Stars this month | 130 |
 
 ---
 
@@ -158,9 +158,9 @@ The Windows debloater.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,883 |
+| Stars | 5,885 |
 | Forks | 187 |
-| Stars this month | 231 |
+| Stars this month | 230 |
 
 ---
 
@@ -171,9 +171,9 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,252 |
-| Forks | 8,551 |
-| Stars this month | 602 |
+| Stars | 56,266 |
+| Forks | 8,552 |
+| Stars this month | 584 |
 
 ---
 
@@ -184,9 +184,9 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,650 |
+| Stars | 27,664 |
 | Forks | 1,765 |
-| Stars this month | 564 |
+| Stars this month | 572 |
 
 ---
 
@@ -197,9 +197,9 @@ This project aims to create an easy to use, extendable and customizable server f
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,295 |
+| Stars | 1,296 |
 | Forks | 699 |
-| Stars this month | 82 |
+| Stars this month | 76 |
 
 ---
 
@@ -210,9 +210,9 @@ Movie organizer/manager for usenet and torrent users.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,833 |
-| Forks | 1,265 |
-| Stars this month | 260 |
+| Stars | 14,846 |
+| Forks | 1,264 |
+| Stars this month | 270 |
 
 ---
 
@@ -223,9 +223,9 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,017 |
-| Forks | 16,369 |
-| Stars this month | 2,794 |
+| Stars | 121,089 |
+| Forks | 16,358 |
+| Stars this month | 2,808 |
 
 ---
 
@@ -236,9 +236,9 @@ The media player for language learning, with dual subtitles, AI-generated subtit
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,769 |
+| Stars | 4,775 |
 | Forks | 308 |
-| Stars this month | 403 |
+| Stars this month | 404 |
 
 ---
 
@@ -249,9 +249,9 @@ Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment proces
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,920 |
+| Stars | 7,923 |
 | Forks | 2,065 |
-| Stars this month | 135 |
+| Stars this month | 131 |
 
 ---
 
@@ -262,8 +262,8 @@ File Converter is a very simple tool which allows you to convert and compress fi
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,740 |
-| Forks | 958 |
-| Stars this month | 389 |
+| Stars | 15,747 |
+| Forks | 960 |
+| Stars this month | 376 |
 
 ---

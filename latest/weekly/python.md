@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-20T07:05:46Z
+**Snapshot Time:** 2026-11-21T06:59:05Z
 **Total Repositories:** 15
-**New Entries:** 4
+**New Entries:** 0
 **Quality Score:** 97.33/100
 
 ---
@@ -15,9 +15,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,001 |
-| Forks | 6,321 |
-| Stars this week | 3,179 |
+| Stars | 71,582 |
+| Forks | 6,342 |
+| Stars this week | 3,788 |
 
 ---
 
@@ -28,9 +28,9 @@ Claude Code skills for equity investors and traders — market analysis, technic
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,302 |
-| Forks | 1,466 |
-| Stars this week | 3,385 |
+| Stars | 7,478 |
+| Forks | 1,471 |
+| Stars this week | 3,471 |
 
 ---
 
@@ -41,9 +41,9 @@ Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,488 |
-| Forks | 787 |
-| Stars this week | 2,998 |
+| Stars | 8,982 |
+| Forks | 819 |
+| Stars this week | 3,268 |
 
 ---
 
@@ -54,9 +54,9 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 73,511 |
-| Forks | 57,973 |
-| Stars this week | 2,595 |
+| Stars | 73,585 |
+| Forks | 57,989 |
+| Stars this week | 2,174 |
 
 ---
 
@@ -65,9 +65,9 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 19,473 |
-| Forks | 2,787 |
-| Stars this week | 460 |
+| Stars | 19,499 |
+| Forks | 2,795 |
+| Stars this week | 398 |
 
 ---
 
@@ -78,22 +78,22 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 197,812 |
-| Forks | 23,171 |
-| Stars this week | 4,235 |
+| Stars | 198,159 |
+| Forks | 23,193 |
+| Stars this week | 4,086 |
 
 ---
 
-## 7. [jingyaogong/minimind](https://github.com/jingyaogong/minimind) 🆕
+## 7. [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 
 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 67,196 |
-| Forks | 8,820 |
-| Stars this week | 1,612 |
+| Stars | 67,821 |
+| Forks | 8,866 |
+| Stars this week | 2,479 |
 
 ---
 
@@ -104,9 +104,9 @@ An open-source OpusClip alternative
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,657 |
-| Forks | 828 |
-| Stars this week | 711 |
+| Stars | 3,889 |
+| Forks | 902 |
+| Stars this week | 829 |
 
 ---
 
@@ -117,9 +117,9 @@ Open-source registry and CLI for Claude Code components: agents, commands, skill
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 34,017 |
-| Forks | 4,058 |
-| Stars this week | 615 |
+| Stars | 34,044 |
+| Forks | 4,071 |
+| Stars this week | 581 |
 
 ---
 
@@ -130,9 +130,9 @@ Open-source AI red teaming toolkit from Microsoft. Test generative AI systems wi
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 4,969 |
-| Forks | 1,086 |
-| Stars this week | 161 |
+| Stars | 5,001 |
+| Forks | 1,096 |
+| Stars this week | 184 |
 
 ---
 
@@ -143,22 +143,22 @@ Open-source AI red teaming toolkit from Microsoft. Test generative AI systems wi
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 41,078 |
-| Forks | 3,323 |
-| Stars this week | 548 |
+| Stars | 41,101 |
+| Forks | 3,328 |
+| Stars this week | 524 |
 
 ---
 
-## 12. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) 🆕
+## 12. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 
 A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 12,966 |
-| Forks | 1,619 |
-| Stars this week | 6,517 |
+| Stars | 14,703 |
+| Forks | 1,727 |
+| Stars this week | 8,268 |
 
 ---
 
@@ -169,34 +169,34 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 79,910 |
-| Forks | 9,801 |
-| Stars this week | 599 |
+| Stars | 79,966 |
+| Forks | 9,793 |
+| Stars this week | 581 |
 
 ---
 
-## 14. [PostHog/posthog](https://github.com/PostHog/posthog) 🆕
+## 14. [PostHog/posthog](https://github.com/PostHog/posthog)
 
 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 40,979 |
-| Forks | 3,718 |
-| Stars this week | 227 |
+| Stars | 40,997 |
+| Forks | 3,714 |
+| Stars this week | 246 |
 
 ---
 
-## 15. [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) 🆕
+## 15. [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
 
 AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,585 |
-| Forks | 1,964 |
-| Stars this week | 717 |
+| Stars | 12,359 |
+| Forks | 2,031 |
+| Stars this week | 1,694 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-20T07:06:14Z
+**Snapshot Time:** 2026-11-21T06:59:30Z
 **Total Repositories:** 20
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 187,697 |
-| Forks | 19,179 |
-| Stars this month | 4,841 |
+| Stars | 187,790 |
+| Forks | 19,112 |
+| Stars this month | 4,526 |
 
 ---
 
@@ -28,9 +28,9 @@ The Prometheus monitoring system and time series database.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 67,730 |
-| Forks | 11,049 |
-| Stars this month | 1,535 |
+| Stars | 67,743 |
+| Forks | 11,038 |
+| Stars this month | 1,522 |
 
 ---
 
@@ -41,9 +41,9 @@ Define and run multi-container applications with Docker
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,060 |
-| Forks | 6,055 |
-| Stars this month | 1,157 |
+| Stars | 39,067 |
+| Forks | 6,054 |
+| Stars this month | 1,230 |
 
 ---
 
@@ -54,9 +54,9 @@ Modern Docker Management, Designed for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,155 |
-| Forks | 575 |
-| Stars this month | 2,168 |
+| Stars | 10,206 |
+| Forks | 577 |
+| Stars this month | 2,246 |
 
 ---
 
@@ -67,9 +67,9 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,556 |
-| Forks | 912 |
-| Stars this month | 1,096 |
+| Stars | 39,582 |
+| Forks | 915 |
+| Stars this month | 1,099 |
 
 ---
 
@@ -80,9 +80,9 @@ freehire — the open-source search engine for job seekers
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,596 |
-| Forks | 391 |
-| Stars this month | 2,507 |
+| Stars | 3,610 |
+| Forks | 393 |
+| Stars this month | 2,053 |
 
 ---
 
@@ -93,9 +93,9 @@ The Moby Project - a collaborative project for the container ecosystem to assemb
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 72,299 |
-| Forks | 19,413 |
-| Stars this month | 459 |
+| Stars | 72,304 |
+| Forks | 19,340 |
+| Stars this month | 466 |
 
 ---
 
@@ -106,9 +106,9 @@ NetBird securely connects people, machines and AI agents across any network with
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 31,159 |
-| Forks | 1,873 |
-| Stars this month | 1,152 |
+| Stars | 31,185 |
+| Forks | 1,875 |
+| Stars this month | 1,161 |
 
 ---
 
@@ -119,9 +119,9 @@ Declarative Continuous Deployment for Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 24,664 |
-| Forks | 8,160 |
-| Stars this month | 262 |
+| Stars | 24,668 |
+| Forks | 8,105 |
+| Stars this month | 269 |
 
 ---
 
@@ -132,9 +132,9 @@ GitHub’s official command line tool
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,094 |
+| Stars | 47,113 |
 | Forks | 9,433 |
-| Stars this month | 531 |
+| Stars this month | 546 |
 
 ---
 
@@ -145,9 +145,9 @@ RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engi
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 94,461 |
-| Forks | 11,363 |
-| Stars this month | 2,198 |
+| Stars | 94,493 |
+| Forks | 11,354 |
+| Stars this month | 2,172 |
 
 ---
 
@@ -158,9 +158,9 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,686 |
-| Forks | 1,704 |
-| Stars this month | 1,713 |
+| Stars | 17,745 |
+| Forks | 1,709 |
+| Stars this month | 1,767 |
 
 ---
 
@@ -171,9 +171,9 @@ scrape data from Google Maps. Extracts data such as the name, address, phone num
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,262 |
-| Forks | 1,315 |
-| Stars this month | 1,658 |
+| Stars | 8,286 |
+| Forks | 1,319 |
+| Stars this month | 1,639 |
 
 ---
 
@@ -184,9 +184,9 @@ Git with a cup of tea! Painless self-hosted all-in-one software development serv
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 59,178 |
-| Forks | 7,422 |
-| Stars this month | 734 |
+| Stars | 59,197 |
+| Forks | 7,412 |
+| Stars this month | 728 |
 
 ---
 
@@ -197,9 +197,9 @@ Make humans and AI agents work as one team — open-source and self-hostable.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 56,817 |
-| Forks | 7,482 |
-| Stars this month | 3,751 |
+| Stars | 56,972 |
+| Forks | 7,502 |
+| Stars this month | 3,831 |
 
 ---
 
@@ -210,22 +210,22 @@ Make humans and AI agents work as one team — open-source and self-hostable.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 61,125 |
-| Forks | 5,724 |
-| Stars this month | 854 |
+| Stars | 61,143 |
+| Forks | 5,711 |
+| Stars this month | 843 |
 
 ---
 
-## 17. [google/osv-scanner](https://github.com/google/osv-scanner) 🆕
+## 17. [google/osv-scanner](https://github.com/google/osv-scanner)
 
 Vulnerability scanner written in Go which uses the data provided byhttps://osv.dev
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,570 |
-| Forks | 857 |
-| Stars this month | 376 |
+| Stars | 11,577 |
+| Forks | 858 |
+| Stars this month | 379 |
 
 ---
 
@@ -236,9 +236,9 @@ Distributed reliable key-value store for the most critical data of a distributed
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 52,643 |
+| Stars | 52,645 |
 | Forks | 10,620 |
-| Stars this month | 527 |
+| Stars this month | 526 |
 
 ---
 
@@ -249,9 +249,9 @@ The easiest, most secure way to use WireGuard and 2FA.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,359 |
-| Forks | 3,521 |
-| Stars this month | 1,693 |
+| Stars | 39,401 |
+| Forks | 3,520 |
+| Stars this month | 1,678 |
 
 ---
 
@@ -262,8 +262,8 @@ VictoriaMetrics: fast, cost-effective monitoring solution and time series databa
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 18,138 |
-| Forks | 1,812 |
-| Stars this month | 289 |
+| Stars | 18,152 |
+| Forks | 1,813 |
+| Stars this month | 296 |
 
 ---

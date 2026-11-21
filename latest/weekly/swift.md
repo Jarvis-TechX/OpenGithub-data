@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-20T07:06:03Z
-**Total Repositories:** 17
-**New Entries:** 5
+**Snapshot Time:** 2026-11-21T06:59:20Z
+**Total Repositories:** 18
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ A tool for creating and running Linux containers using lightweight virtual machi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 51,981 |
-| Forks | 1,848 |
-| Stars this week | 694 |
+| Stars | 52,003 |
+| Forks | 1,847 |
+| Stars this week | 655 |
 
 ---
 
@@ -28,9 +28,9 @@ A tool for creating and running Linux containers using lightweight virtual machi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 118,927 |
-| Forks | 10,440 |
-| Stars this week | 581 |
+| Stars | 119,000 |
+| Forks | 10,466 |
+| Stars this week | 574 |
 
 ---
 
@@ -41,22 +41,22 @@ An an app that installs Sidestore on iOS 27, fully on-device
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,508 |
-| Forks | 124 |
-| Stars this week | 106 |
+| Stars | 1,522 |
+| Forks | 126 |
+| Stars this week | 111 |
 
 ---
 
-## 4. [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) 🆕
+## 4. [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac)
 
 Process Explorer for MacOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,015 |
+| Stars | 1,029 |
 | Forks | 34 |
-| Stars this week | 243 |
+| Stars this week | 126 |
 
 ---
 
@@ -67,9 +67,9 @@ iOS 27 MobileGestalt editor
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,276 |
-| Forks | 94 |
-| Stars this week | 264 |
+| Stars | 1,283 |
+| Forks | 95 |
+| Stars this week | 261 |
 
 ---
 
@@ -80,151 +80,164 @@ Model export recipes, Python primitives, and Swift runtime utilities for on-devi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,363 |
-| Forks | 268 |
-| Stars this week | 54 |
+| Stars | 2,367 |
+| Forks | 271 |
+| Stars this week | 30 |
 
 ---
 
-## 7. [suversal/WrapPin](https://github.com/suversal/WrapPin)
+## 7. [driceroland/Search](https://github.com/driceroland/Search) 🆕
+
+A small, fast WebKit browser for macOS, by Office Commun.
+
+| Metric | Value |
+|--------|-------|
+| Language | Swift |
+| Stars | 3,606 |
+| Forks | 369 |
+| Stars this week | 520 |
+
+---
+
+## 8. [suversal/WrapPin](https://github.com/suversal/WrapPin)
 
 iOS 27+ 本机虚拟定位与步行路线测试工具
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,114 |
+| Stars | 1,136 |
 | Forks | 158 |
-| Stars this week | 269 |
+| Stars this week | 286 |
 
 ---
 
-## 8. [exelban/stats](https://github.com/exelban/stats)
+## 9. [exelban/stats](https://github.com/exelban/stats)
 
 macOS system monitor in your menu bar
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 43,527 |
+| Stars | 43,544 |
 | Forks | 1,638 |
-| Stars this week | 192 |
+| Stars this week | 185 |
 
 ---
 
-## 9. [consolelabs/hidden](https://github.com/consolelabs/hidden)
+## 10. [consolelabs/hidden](https://github.com/consolelabs/hidden)
 
 An ultra-light MacOS utility that helps hide menu bar icons
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,515 |
-| Forks | 548 |
-| Stars this week | 126 |
+| Stars | 15,529 |
+| Forks | 550 |
+| Stars this week | 138 |
 
 ---
 
-## 10. [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
+## 11. [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 34,780 |
-| Forks | 1,048 |
-| Stars this week | 88 |
+| Stars | 34,785 |
+| Forks | 1,050 |
+| Stars this week | 83 |
 
 ---
 
-## 11. [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) 🆕
+## 12. [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
 
 Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution. Built in Swift.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,187 |
+| Stars | 8,189 |
 | Forks | 496 |
-| Stars this week | 37 |
+| Stars this week | 38 |
 
 ---
 
-## 12. [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) 🆕
+## 13. [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS)
 
 Nuvio tvOS client
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 447 |
+| Stars | 450 |
 | Forks | 52 |
-| Stars this week | 47 |
+| Stars this week | 42 |
 
 ---
 
-## 13. [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
+## 14. [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
 
 Protect your SSH keys with your Mac's Secure Enclave
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,505 |
+| Stars | 9,510 |
 | Forks | 242 |
-| Stars this week | 122 |
+| Stars this week | 124 |
 
 ---
 
-## 14. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
+## 15. [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
 
 Manga reading app for iOS, iPadOS, and macOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,768 |
-| Forks | 342 |
-| Stars this week | 44 |
+| Stars | 4,773 |
+| Forks | 344 |
+| Stars this week | 37 |
 
 ---
 
-## 15. [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
+## 16. [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
 
 Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,258 |
-| Forks | 295 |
-| Stars this week | 130 |
+| Stars | 4,270 |
+| Forks | 296 |
+| Stars this week | 131 |
 
 ---
 
-## 16. [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) 🆕
+## 17. [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)
 
 The mouse and trackpad utility for Mac.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,222 |
-| Forks | 205 |
-| Stars this week | 51 |
+| Stars | 7,224 |
+| Forks | 203 |
+| Stars this week | 50 |
 
 ---
 
-## 17. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) 🆕
+## 18. [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
 
 Telegram-iOS
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,461 |
-| Forks | 3,336 |
-| Stars this week | 36 |
+| Stars | 9,465 |
+| Forks | 3,341 |
+| Stars this week | 37 |
 
 ---

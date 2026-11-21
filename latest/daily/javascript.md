@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-20T07:05:28Z
+**Snapshot Time:** 2026-11-21T06:58:50Z
 **Total Repositories:** 11
-**New Entries:** 8
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 307,412 |
-| Forks | 45,245 |
-| Stars today | 959 |
+| Stars | 307,972 |
+| Forks | 45,322 |
+| Stars today | 649 |
 
 ---
 
@@ -28,113 +28,112 @@ web development for the rest of us
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 89,815 |
-| Forks | 6,212 |
-| Stars today | 321 |
+| Stars | 89,840 |
+| Forks | 6,132 |
+| Stars today | 104 |
 
 ---
 
-## 3. [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 🆕
+## 3. [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
 This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,371 |
-| Forks | 1,301 |
-| Stars today | 14 |
+| Stars | 10,380 |
+| Forks | 1,303 |
+| Stars today | 10 |
 
 ---
 
-## 4. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) 🆕
+## 4. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
 
 Vercel's official collection of agent skills
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,568 |
-| Forks | 3,008 |
-| Stars today | 68 |
+| Stars | 34,626 |
+| Forks | 3,013 |
+| Stars today | 71 |
 
 ---
 
-## 5. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 🆕
+## 5. [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
 
-Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
+Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,601 |
-| Forks | 423 |
-| Stars today | 72 |
+| Stars | 4,637 |
+| Forks | 429 |
+| Stars today | 48 |
 
 ---
 
-## 6. [micromatch/picomatch](https://github.com/micromatch/picomatch) 🆕
+## 6. [micromatch/picomatch](https://github.com/micromatch/picomatch)
 
 Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i…
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,331 |
+| Stars | 1,332 |
 | Forks | 212 |
-| Stars today | 2 |
 
 ---
 
-## 7. [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) 🆕
+## 7. [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy)
 
 WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,299 |
-| Forks | 358 |
-| Stars today | 46 |
+| Stars | 3,314 |
+| Forks | 361 |
+| Stars today | 31 |
 
 ---
 
-## 8. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🆕
+## 8. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 195,061 |
-| Forks | 10,988 |
-| Stars today | 878 |
+| Stars | 195,784 |
+| Forks | 11,025 |
+| Stars today | 743 |
 
 ---
 
-## 9. [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) 🆕
+## 9. [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 
 Use Codex from Claude Code to review code or delegate tasks.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 35,305 |
-| Forks | 2,453 |
-| Stars today | 41 |
+| Stars | 35,316 |
+| Forks | 2,456 |
+| Stars today | 24 |
 
 ---
 
-## 10. [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) 🆕
+## 10. [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay)
 
 Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,019 |
+| Stars | 2,022 |
 | Forks | 203 |
-| Stars today | 6 |
+| Stars today | 5 |
 
 ---
 
@@ -145,8 +144,7 @@ jQuery JavaScript Library
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,105 |
-| Forks | 20,715 |
-| Stars today | 173 |
+| Stars | 60,108 |
+| Forks | 20,639 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-20T07:05:56Z
+**Snapshot Time:** 2026-11-21T06:59:14Z
 **Total Repositories:** 9
-**New Entries:** 2
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Lightweight static analysis for many languages. Find bug variants with patterns 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,838 |
+| Stars | 17,867 |
 | Forks | 1,200 |
-| Stars this week | 214 |
+| Stars this week | 213 |
 
 ---
 
@@ -28,9 +28,9 @@ A hierarchical inference engine for frontier MoE models: hot experts on the GPU 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 52,300 |
-| Forks | 6,333 |
-| Stars this week | 1,868 |
+| Stars | 52,526 |
+| Forks | 6,357 |
+| Stars this week | 1,669 |
 
 ---
 
@@ -41,9 +41,9 @@ Display and control your Android device
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 155,247 |
-| Forks | 14,258 |
-| Stars this week | 611 |
+| Stars | 155,300 |
+| Forks | 14,245 |
+| Stars this week | 597 |
 
 ---
 
@@ -54,9 +54,9 @@ ClamAV - Documentation is here:https://docs.clamav.net
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,683 |
-| Forks | 983 |
-| Stars this week | 140 |
+| Stars | 7,694 |
+| Forks | 985 |
+| Stars this week | 139 |
 
 ---
 
@@ -67,9 +67,9 @@ A new bootable USB solution.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 81,005 |
-| Forks | 5,097 |
-| Stars this week | 533 |
+| Stars | 81,024 |
+| Forks | 5,084 |
+| Stars this week | 508 |
 
 ---
 
@@ -80,35 +80,35 @@ stb single-file public domain libraries for C/C++
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 35,064 |
+| Stars | 35,070 |
 | Forks | 8,126 |
-| Stars this week | 57 |
+| Stars this week | 53 |
 
 ---
 
-## 7. [nginx/nginx](https://github.com/nginx/nginx) 🆕
+## 7. [nginx/nginx](https://github.com/nginx/nginx)
 
 The official NGINX Open Source repository.
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 32,409 |
-| Forks | 8,420 |
-| Stars this week | 205 |
+| Stars | 32,618 |
+| Forks | 8,368 |
+| Stars this week | 428 |
 
 ---
 
-## 8. [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) 🆕
+## 8. [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)
 
 Eclipse Mosquitto - An open source MQTT broker
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 11,475 |
-| Forks | 2,673 |
-| Stars this week | 113 |
+| Stars | 11,477 |
+| Forks | 2,675 |
+| Stars this week | 112 |
 
 ---
 
@@ -119,8 +119,8 @@ A new lightweight, hybrid routing mesh protocol for packet radios
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,102 |
-| Forks | 1,617 |
-| Stars this week | 53 |
+| Stars | 4,108 |
+| Forks | 1,626 |
+| Stars this week | 54 |
 
 ---

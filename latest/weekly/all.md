@@ -1,9 +1,9 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-20T07:05:44Z
+**Snapshot Time:** 2026-11-21T06:59:04Z
 **Total Repositories:** 13
-**New Entries:** 2
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,733 |
-| Forks | 1,389 |
-| Stars this week | 3,468 |
+| Stars | 13,964 |
+| Forks | 1,393 |
+| Stars this week | 3,555 |
 
 ---
 
@@ -28,9 +28,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,815 |
-| Forks | 1,393 |
-| Stars this week | 1,829 |
+| Stars | 11,129 |
+| Forks | 1,413 |
+| Stars this week | 2,152 |
 
 ---
 
@@ -41,9 +41,9 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,295 |
-| Forks | 762 |
-| Stars this week | 6,858 |
+| Stars | 9,605 |
+| Forks | 770 |
+| Stars this week | 5,224 |
 
 ---
 
@@ -54,9 +54,9 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 54,473 |
-| Forks | 4,511 |
-| Stars this week | 4,492 |
+| Stars | 54,871 |
+| Forks | 4,531 |
+| Stars this week | 4,457 |
 
 ---
 
@@ -67,9 +67,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,001 |
-| Forks | 6,321 |
-| Stars this week | 3,179 |
+| Stars | 71,582 |
+| Forks | 6,342 |
+| Stars this week | 3,788 |
 
 ---
 
@@ -80,9 +80,9 @@ Chrome DevTools for coding agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 58,414 |
-| Forks | 4,880 |
-| Stars this week | 3,229 |
+| Stars | 58,580 |
+| Forks | 4,888 |
+| Stars this week | 3,306 |
 
 ---
 
@@ -93,9 +93,9 @@ Claude Code skills for equity investors and traders — market analysis, technic
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,302 |
-| Forks | 1,466 |
-| Stars this week | 3,385 |
+| Stars | 7,478 |
+| Forks | 1,471 |
+| Stars this week | 3,471 |
 
 ---
 
@@ -106,9 +106,9 @@ AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,687 |
-| Forks | 2,125 |
-| Stars this week | 3,455 |
+| Stars | 20,855 |
+| Forks | 2,128 |
+| Stars this week | 3,621 |
 
 ---
 
@@ -119,22 +119,22 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,112 |
-| Forks | 2,441 |
-| Stars this week | 4,977 |
+| Stars | 31,458 |
+| Forks | 2,470 |
+| Stars this week | 4,131 |
 
 ---
 
-## 10. [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) 🆕
+## 10. [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler)
 
 Enable Hermès Watch Faces on any Apple Watch devices
 
 | Metric | Value |
 |--------|-------|
 | Language | Objective-C |
-| Stars | 2,263 |
-| Forks | 190 |
-| Stars this week | 904 |
+| Stars | 2,315 |
+| Forks | 194 |
+| Stars this week | 582 |
 
 ---
 
@@ -145,9 +145,9 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 16,771 |
-| Forks | 1,481 |
-| Stars this week | 3,226 |
+| Stars | 16,957 |
+| Forks | 1,489 |
+| Stars this week | 2,476 |
 
 ---
 
@@ -158,21 +158,21 @@ Build your own AI office with Univer Office SDK. Bring editing, calculation, col
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,459 |
-| Forks | 2,765 |
-| Stars this week | 7,248 |
+| Stars | 30,991 |
+| Forks | 2,827 |
+| Stars this week | 7,539 |
 
 ---
 
-## 13. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) 🆕
+## 13. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
 Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,488 |
-| Forks | 787 |
-| Stars this week | 2,998 |
+| Stars | 8,982 |
+| Forks | 819 |
+| Stars this week | 3,268 |
 
 ---

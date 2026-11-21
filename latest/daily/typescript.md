@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-20T07:05:30Z
+**Snapshot Time:** 2026-11-21T06:58:52Z
 **Total Repositories:** 17
-**New Entries:** 12
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,640 |
-| Forks | 1,943 |
-| Stars today | 384 |
+| Stars | 17,910 |
+| Forks | 1,964 |
+| Stars today | 299 |
 
 ---
 
-## 2. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) 🆕
+## 2. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 
-Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 204,531 |
-| Forks | 10,719 |
-| Stars today | 825 |
+| Stars | 205,512 |
+| Forks | 10,746 |
+| Stars today | 1,241 |
 
 ---
 
@@ -41,35 +41,35 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,815 |
-| Forks | 1,393 |
-| Stars today | 302 |
+| Stars | 11,129 |
+| Forks | 1,413 |
+| Stars today | 315 |
 
 ---
 
-## 4. [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) 🆕
+## 4. [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 
 There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 75,331 |
-| Forks | 5,570 |
-| Stars today | 182 |
+| Stars | 75,926 |
+| Forks | 5,584 |
+| Stars today | 676 |
 
 ---
 
-## 5. [bendlang/bend](https://github.com/bendlang/bend) 🆕
+## 5. [bendlang/bend](https://github.com/bendlang/bend)
 
 Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSLhttps://bend-lang.com/install.sh| sh
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 25,629 |
-| Forks | 819 |
-| Stars today | 98 |
+| Stars | 25,706 |
+| Forks | 820 |
+| Stars today | 95 |
 
 ---
 
@@ -80,61 +80,61 @@ The open-source cloud for agents & devs. Including Auth, Databases, Storage, Fun
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 58,417 |
-| Forks | 5,905 |
-| Stars today | 325 |
+| Stars | 58,457 |
+| Forks | 5,910 |
+| Stars today | 44 |
 
 ---
 
-## 7. [mastra-ai/mastra](https://github.com/mastra-ai/mastra) 🆕
+## 7. [mastra-ai/mastra](https://github.com/mastra-ai/mastra)
 
 Mastra is the modern TypeScript framework for AI-powered applications and agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,682 |
-| Forks | 3,124 |
-| Stars today | 49 |
+| Stars | 29,708 |
+| Forks | 3,126 |
+| Stars today | 50 |
 
 ---
 
-## 8. [tianma-if/edgeever](https://github.com/tianma-if/edgeever) 🆕
+## 8. [tianma-if/edgeever](https://github.com/tianma-if/edgeever)
 
 AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,449 |
-| Forks | 1,790 |
-| Stars today | 45 |
+| Stars | 3,465 |
+| Forks | 1,800 |
+| Stars today | 28 |
 
 ---
 
-## 9. [twentyhq/twenty](https://github.com/twentyhq/twenty) 🆕
+## 9. [twentyhq/twenty](https://github.com/twentyhq/twenty)
 
 The open alternative to Salesforce, designed for AI.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 61,234 |
-| Forks | 10,153 |
-| Stars today | 68 |
+| Stars | 61,274 |
+| Forks | 10,139 |
+| Stars today | 60 |
 
 ---
 
-## 10. [hieunc229/mailflare](https://github.com/hieunc229/mailflare) 🆕
+## 10. [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
 
 Email for professionals and teams
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,322 |
-| Forks | 1,269 |
-| Stars today | 211 |
+| Stars | 7,383 |
+| Forks | 1,292 |
+| Stars today | 135 |
 
 ---
 
@@ -145,35 +145,35 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 78,174 |
-| Forks | 5,217 |
-| Stars today | 153 |
+| Stars | 78,274 |
+| Forks | 5,204 |
+| Stars today | 151 |
 
 ---
 
-## 12. [visgl/deck.gl](https://github.com/visgl/deck.gl) 🆕
+## 12. [visgl/deck.gl](https://github.com/visgl/deck.gl)
 
 WebGL2 powered visualization framework
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,781 |
+| Stars | 14,788 |
 | Forks | 2,307 |
-| Stars today | 6 |
+| Stars today | 11 |
 
 ---
 
-## 13. [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 🆕
+## 13. [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
 
 Spec-driven development (SDD) for AI coding assistants.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 75,300 |
-| Forks | 5,158 |
-| Stars today | 95 |
+| Stars | 75,367 |
+| Forks | 5,149 |
+| Stars today | 79 |
 
 ---
 
@@ -184,47 +184,47 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 36,840 |
-| Forks | 1,200 |
-| Stars today | 459 |
+| Stars | 36,888 |
+| Forks | 1,204 |
+| Stars today | 109 |
 
 ---
 
-## 15. [croffasia/itsaplan](https://github.com/croffasia/itsaplan) 🆕
+## 15. [croffasia/itsaplan](https://github.com/croffasia/itsaplan)
 
 ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 2,426 |
-| Forks | 321 |
-| Stars today | 23 |
+| Stars | 2,452 |
+| Forks | 323 |
+| Stars today | 24 |
 
 ---
 
-## 16. [anomalyco/opencode](https://github.com/anomalyco/opencode) 🆕
+## 16. [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
 The open source coding agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 228,103 |
-| Forks | 30,960 |
-| Stars today | 249 |
+| Stars | 228,284 |
+| Forks | 31,003 |
+| Stars today | 247 |
 
 ---
 
-## 17. [earendil-works/pi](https://github.com/earendil-works/pi) 🆕
+## 17. [earendil-works/pi](https://github.com/earendil-works/pi)
 
 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 122,973 |
-| Forks | 15,868 |
-| Stars today | 194 |
+| Stars | 123,102 |
+| Forks | 15,877 |
+| Stars today | 165 |
 
 ---

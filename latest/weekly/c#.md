@@ -1,7 +1,7 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-20T07:06:01Z
+**Snapshot Time:** 2026-11-21T06:59:19Z
 **Total Repositories:** 14
 **New Entries:** 0
 **Quality Score:** 97.14/100
@@ -15,9 +15,9 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,302 |
-| Forks | 501 |
-| Stars this week | 304 |
+| Stars | 6,314 |
+| Forks | 504 |
+| Stars this week | 170 |
 
 ---
 
@@ -28,9 +28,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 12,763 |
-| Forks | 566 |
-| Stars this week | 1,169 |
+| Stars | 12,808 |
+| Forks | 568 |
+| Stars this week | 1,120 |
 
 ---
 
@@ -41,9 +41,9 @@ rhythm is just a *click* away!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,492 |
-| Forks | 2,903 |
-| Stars this week | 99 |
+| Stars | 19,496 |
+| Forks | 2,902 |
+| Stars this week | 102 |
 
 ---
 
@@ -54,9 +54,9 @@ FluentCleaner is the transparent, community-powered CCleaner alternative for Win
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,429 |
-| Forks | 249 |
-| Stars this week | 370 |
+| Stars | 7,459 |
+| Forks | 250 |
+| Stars this week | 365 |
 
 ---
 
@@ -67,9 +67,9 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,017 |
-| Forks | 16,369 |
-| Stars this week | 588 |
+| Stars | 121,089 |
+| Forks | 16,358 |
+| Stars this week | 599 |
 
 ---
 
@@ -80,9 +80,9 @@ UniGetUI: The Graphical Interface for your package managers. Could be terribly d
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,138 |
-| Forks | 986 |
-| Stars this week | 145 |
+| Stars | 27,168 |
+| Forks | 989 |
+| Stars this week | 158 |
 
 ---
 
@@ -93,9 +93,9 @@ Movie organizer/manager for usenet and torrent users.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,833 |
-| Forks | 1,265 |
-| Stars this week | 78 |
+| Stars | 14,846 |
+| Forks | 1,264 |
+| Stars this week | 82 |
 
 ---
 
@@ -106,9 +106,9 @@ the subtitle editor :)
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,071 |
+| Stars | 15,083 |
 | Forks | 1,389 |
-| Stars this week | 102 |
+| Stars this week | 108 |
 
 ---
 
@@ -119,9 +119,9 @@ A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, musi
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 848 |
-| Forks | 89 |
-| Stars this week | 257 |
+| Stars | 858 |
+| Forks | 90 |
+| Stars this week | 222 |
 
 ---
 
@@ -132,9 +132,9 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,335 |
-| Forks | 4,116 |
-| Stars this week | 125 |
+| Stars | 39,347 |
+| Forks | 4,117 |
+| Stars this week | 127 |
 
 ---
 
@@ -143,9 +143,9 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,878 |
+| Stars | 13,882 |
 | Forks | 1,215 |
-| Stars this week | 68 |
+| Stars this week | 64 |
 
 ---
 
@@ -156,9 +156,9 @@ The media player for language learning, with dual subtitles, AI-generated subtit
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,769 |
+| Stars | 4,775 |
 | Forks | 308 |
-| Stars this week | 135 |
+| Stars this week | 95 |
 
 ---
 
@@ -169,9 +169,9 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,542 |
-| Forks | 11,553 |
-| Stars this week | 50 |
+| Stars | 38,543 |
+| Forks | 11,551 |
+| Stars this week | 43 |
 
 ---
 
@@ -182,8 +182,8 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,252 |
-| Forks | 8,551 |
-| Stars this week | 144 |
+| Stars | 56,266 |
+| Forks | 8,552 |
+| Stars this week | 131 |
 
 ---
