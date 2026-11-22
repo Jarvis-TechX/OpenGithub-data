@@ -1,7 +1,7 @@
 # GitHub Trending - All
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-21T06:58:48Z
+**Snapshot Time:** 2026-11-22T06:38:43Z
 **Total Repositories:** 16
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ A Claude Code skill bundle for bug hunting and external red-team work - 82 skill
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 14,702 |
-| Forks | 1,727 |
-| Stars today | 1,622 |
+| Stars | 16,415 |
+| Forks | 1,862 |
+| Stars today | 1,803 |
 
 ---
 
@@ -28,9 +28,9 @@ An agentic skills framework & software development methodology that works.
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 322,992 |
-| Forks | 28,678 |
-| Stars today | 890 |
+| Stars | 323,871 |
+| Forks | 28,726 |
+| Stars today | 883 |
 
 ---
 
@@ -41,9 +41,9 @@ An agentic skills framework & software development methodology that works.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 61,565 |
-| Forks | 5,582 |
-| Stars today | 773 |
+| Stars | 62,229 |
+| Forks | 5,647 |
+| Stars today | 769 |
 
 ---
 
@@ -54,9 +54,9 @@ An agentic skills framework & software development methodology that works.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 67,821 |
-| Forks | 8,866 |
-| Stars today | 847 |
+| Stars | 68,268 |
+| Forks | 8,927 |
+| Stars today | 488 |
 
 ---
 
@@ -67,9 +67,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,910 |
-| Forks | 1,964 |
-| Stars today | 299 |
+| Stars | 18,177 |
+| Forks | 1,986 |
+| Stars today | 260 |
 
 ---
 
@@ -80,9 +80,9 @@ Knowledge infrastructure to make your agents smarter. Search, scrape and access 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 205,512 |
-| Forks | 10,746 |
-| Stars today | 1,241 |
+| Stars | 206,397 |
+| Forks | 10,792 |
+| Stars today | 1,006 |
 
 ---
 
@@ -93,9 +93,9 @@ The official NGINX Open Source repository.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 32,618 |
-| Forks | 8,368 |
-| Stars today | 246 |
+| Stars | 32,776 |
+| Forks | 8,375 |
+| Stars today | 189 |
 
 ---
 
@@ -106,9 +106,9 @@ OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 11,833 |
-| Forks | 3,641 |
-| Stars today | 217 |
+| Stars | 11,978 |
+| Forks | 3,654 |
+| Stars today | 200 |
 
 ---
 
@@ -119,9 +119,9 @@ Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory
 | Metric | Value |
 |--------|-------|
 | Language | HTML |
-| Stars | 69,431 |
-| Forks | 4,660 |
-| Stars today | 636 |
+| Stars | 69,911 |
+| Forks | 4,690 |
+| Stars today | 583 |
 
 ---
 
@@ -132,9 +132,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,581 |
-| Forks | 6,342 |
-| Stars today | 681 |
+| Stars | 72,167 |
+| Forks | 6,390 |
+| Stars today | 560 |
 
 ---
 
@@ -145,22 +145,22 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,129 |
-| Forks | 1,413 |
-| Stars today | 315 |
+| Stars | 11,571 |
+| Forks | 1,450 |
+| Stars today | 326 |
 
 ---
 
 ## 12. [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
 
-Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
+Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 2,910 |
-| Forks | 183 |
-| Stars today | 869 |
+| Stars | 3,537 |
+| Forks | 217 |
+| Stars today | 720 |
 
 ---
 
@@ -171,9 +171,9 @@ The open-source agent for CI/CD reliability.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 13,710 |
-| Forks | 1,929 |
-| Stars today | 466 |
+| Stars | 14,084 |
+| Forks | 1,946 |
+| Stars today | 450 |
 
 ---
 
@@ -184,9 +184,9 @@ There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 75,926 |
-| Forks | 5,584 |
-| Stars today | 676 |
+| Stars | 76,420 |
+| Forks | 5,602 |
+| Stars today | 574 |
 
 ---
 
@@ -197,9 +197,9 @@ The only downloader you need. 下载器的集大成者。
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 13,935 |
-| Forks | 849 |
-| Stars today | 1,082 |
+| Stars | 14,616 |
+| Forks | 884 |
+| Stars today | 779 |
 
 ---
 
@@ -210,8 +210,8 @@ AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，�
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 12,358 |
-| Forks | 2,031 |
-| Stars today | 979 |
+| Stars | 12,997 |
+| Forks | 2,088 |
+| Stars today | 683 |
 
 ---

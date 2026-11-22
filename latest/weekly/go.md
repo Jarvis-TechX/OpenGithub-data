@@ -1,7 +1,7 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-21T06:59:12Z
+**Snapshot Time:** 2026-11-22T06:39:09Z
 **Total Repositories:** 14
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 54,871 |
-| Forks | 4,531 |
-| Stars this week | 4,457 |
+| Stars | 55,179 |
+| Forks | 4,574 |
+| Stars this week | 4,032 |
 
 ---
 
@@ -28,9 +28,9 @@ Modern Docker Management, Designed for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,206 |
-| Forks | 577 |
-| Stars this week | 1,868 |
+| Stars | 10,267 |
+| Forks | 578 |
+| Stars this week | 1,916 |
 
 ---
 
@@ -41,9 +41,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,042 |
-| Forks | 882 |
-| Stars this week | 1,425 |
+| Stars | 8,106 |
+| Forks | 891 |
+| Stars this week | 1,457 |
 
 ---
 
@@ -54,9 +54,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,261 |
+| Stars | 3,272 |
 | Forks | 385 |
-| Stars this week | 161 |
+| Stars this week | 147 |
 
 ---
 
@@ -67,9 +67,9 @@ Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,338 |
-| Forks | 734 |
-| Stars this week | 4,599 |
+| Stars | 5,557 |
+| Forks | 773 |
+| Stars this week | 4,716 |
 
 ---
 
@@ -80,9 +80,9 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,745 |
-| Forks | 1,709 |
-| Stars this week | 457 |
+| Stars | 17,778 |
+| Forks | 1,712 |
+| Stars this week | 475 |
 
 ---
 
@@ -93,9 +93,9 @@ why use many token when few token do trick. Skill + local proxy for coding agent
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 121,827 |
-| Forks | 7,106 |
-| Stars this week | 2,236 |
+| Stars | 122,023 |
+| Forks | 7,117 |
+| Stars this week | 2,166 |
 
 ---
 
@@ -106,9 +106,9 @@ Cloud Native Agentic AI | Discord:https://bit.ly/kagentdiscord
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,474 |
+| Stars | 4,485 |
 | Forks | 937 |
-| Stars this week | 199 |
+| Stars this week | 183 |
 
 ---
 
@@ -119,9 +119,9 @@ The painless way to host your own Git service
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,962 |
+| Stars | 47,979 |
 | Forks | 5,080 |
-| Stars this week | 41 |
+| Stars this week | 45 |
 
 ---
 
@@ -132,9 +132,9 @@ GitHub’s official command line tool
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,113 |
-| Forks | 9,433 |
-| Stars this week | 159 |
+| Stars | 47,133 |
+| Forks | 9,436 |
+| Stars this week | 153 |
 
 ---
 
@@ -145,9 +145,9 @@ BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fu
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,441 |
+| Stars | 16,448 |
 | Forks | 1,834 |
-| Stars this week | 165 |
+| Stars this week | 159 |
 
 ---
 
@@ -158,9 +158,9 @@ Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pip
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,967 |
-| Forks | 1,116 |
-| Stars this week | 91 |
+| Stars | 11,968 |
+| Forks | 1,118 |
+| Stars this week | 81 |
 
 ---
 
@@ -171,9 +171,9 @@ Define and run multi-container applications with Docker
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,067 |
-| Forks | 6,054 |
-| Stars this week | 694 |
+| Stars | 39,058 |
+| Forks | 6,052 |
+| Stars this week | 676 |
 
 ---
 
@@ -184,8 +184,8 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,582 |
-| Forks | 915 |
-| Stars this week | 304 |
+| Stars | 39,604 |
+| Forks | 919 |
+| Stars this week | 275 |
 
 ---

@@ -1,7 +1,7 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-21T06:59:08Z
+**Snapshot Time:** 2026-11-22T06:39:05Z
 **Total Repositories:** 17
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,964 |
-| Forks | 1,393 |
-| Stars this week | 3,555 |
+| Stars | 14,221 |
+| Forks | 1,414 |
+| Stars this week | 3,396 |
 
 ---
 
@@ -28,9 +28,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,129 |
-| Forks | 1,413 |
-| Stars this week | 2,152 |
+| Stars | 11,571 |
+| Forks | 1,450 |
+| Stars this week | 2,431 |
 
 ---
 
@@ -41,9 +41,9 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,605 |
-| Forks | 770 |
-| Stars this week | 5,224 |
+| Stars | 9,961 |
+| Forks | 798 |
+| Stars this week | 4,400 |
 
 ---
 
@@ -54,9 +54,9 @@ Chrome DevTools for coding agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 58,580 |
-| Forks | 4,888 |
-| Stars this week | 3,306 |
+| Stars | 58,724 |
+| Forks | 4,906 |
+| Stars this week | 2,795 |
 
 ---
 
@@ -67,9 +67,9 @@ AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 20,855 |
-| Forks | 2,128 |
-| Stars this week | 3,621 |
+| Stars | 21,060 |
+| Forks | 2,149 |
+| Stars this week | 3,792 |
 
 ---
 
@@ -80,9 +80,9 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,458 |
-| Forks | 2,470 |
-| Stars this week | 4,131 |
+| Stars | 31,918 |
+| Forks | 2,505 |
+| Stars this week | 3,967 |
 
 ---
 
@@ -93,9 +93,9 @@ Build your own AI office with Univer Office SDK. Bring editing, calculation, col
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,991 |
-| Forks | 2,827 |
-| Stars this week | 7,539 |
+| Stars | 31,131 |
+| Forks | 2,838 |
+| Stars this week | 7,240 |
 
 ---
 
@@ -106,9 +106,9 @@ Open-source generative UI framework: agents stream layout data, and apps render 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,698 |
-| Forks | 1,432 |
-| Stars this week | 413 |
+| Stars | 17,870 |
+| Forks | 1,437 |
+| Stars this week | 383 |
 
 ---
 
@@ -119,9 +119,9 @@ An open-source AI coding agent that lives in your terminal.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,827 |
-| Forks | 3,566 |
-| Stars this week | 767 |
+| Stars | 30,851 |
+| Forks | 3,577 |
+| Stars this week | 667 |
 
 ---
 
@@ -132,9 +132,9 @@ OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,230 |
-| Forks | 1,121 |
-| Stars this week | 1,387 |
+| Stars | 14,260 |
+| Forks | 1,127 |
+| Stars this week | 774 |
 
 ---
 
@@ -145,9 +145,9 @@ Email for professionals and teams
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,383 |
-| Forks | 1,292 |
-| Stars this week | 1,216 |
+| Stars | 7,426 |
+| Forks | 1,303 |
+| Stars this week | 1,236 |
 
 ---
 
@@ -158,9 +158,9 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,290 |
-| Forks | 3,747 |
-| Stars this week | 4,158 |
+| Stars | 26,598 |
+| Forks | 3,792 |
+| Stars this week | 3,909 |
 
 ---
 
@@ -171,9 +171,9 @@ AIOStreams brings your Stremio addons, debrid services and Usenet together into 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,290 |
-| Forks | 956 |
-| Stars this week | 138 |
+| Stars | 3,297 |
+| Forks | 959 |
+| Stars this week | 135 |
 
 ---
 
@@ -184,9 +184,9 @@ AIOStreams brings your Stremio addons, debrid services and Usenet together into 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 85,936 |
+| Stars | 85,963 |
 | Forks | 16,341 |
-| Stars this week | 700 |
+| Stars this week | 489 |
 
 ---
 
@@ -197,9 +197,9 @@ The open, self-hostable alternative to closed AI bots. Production-ready, fully c
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,089 |
-| Forks | 1,634 |
-| Stars this week | 1,066 |
+| Stars | 13,151 |
+| Forks | 1,646 |
+| Stars this week | 922 |
 
 ---
 
@@ -210,9 +210,9 @@ A format specification for describing a visual identity to coding agents. DESIGN
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 28,992 |
-| Forks | 2,324 |
-| Stars this week | 143 |
+| Stars | 29,022 |
+| Forks | 2,334 |
+| Stars this week | 150 |
 
 ---
 
@@ -223,8 +223,8 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,310 |
+| Stars | 31,328 |
 | Forks | 1,976 |
-| Stars this week | 202 |
+| Stars this week | 206 |
 
 ---

@@ -1,7 +1,7 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-21T06:58:55Z
+**Snapshot Time:** 2026-11-22T06:38:54Z
 **Total Repositories:** 12
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,144 |
-| Forks | 320 |
-| Stars today | 62 |
+| Stars | 2,221 |
+| Forks | 325 |
+| Stars today | 93 |
 
 ---
 
@@ -28,9 +28,9 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 34,709 |
-| Forks | 5,528 |
-| Stars today | 72 |
+| Stars | 34,761 |
+| Forks | 5,544 |
+| Stars today | 60 |
 
 ---
 
@@ -41,9 +41,9 @@ Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,338 |
-| Forks | 734 |
-| Stars today | 1,216 |
+| Stars | 5,557 |
+| Forks | 773 |
+| Stars today | 228 |
 
 ---
 
@@ -54,9 +54,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,042 |
-| Forks | 882 |
-| Stars today | 224 |
+| Stars | 8,106 |
+| Forks | 891 |
+| Stars today | 87 |
 
 ---
 
@@ -67,9 +67,9 @@ Modern Docker Management, Designed for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,206 |
-| Forks | 577 |
-| Stars today | 90 |
+| Stars | 10,267 |
+| Forks | 578 |
+| Stars today | 68 |
 
 ---
 
@@ -80,9 +80,9 @@ Make humans and AI agents work as one team — open-source and self-hostable.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 56,972 |
-| Forks | 7,502 |
-| Stars today | 173 |
+| Stars | 57,075 |
+| Forks | 7,516 |
+| Stars today | 127 |
 
 ---
 
@@ -93,9 +93,9 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,745 |
-| Forks | 1,709 |
-| Stars today | 72 |
+| Stars | 17,778 |
+| Forks | 1,712 |
+| Stars today | 44 |
 
 ---
 
@@ -106,9 +106,9 @@ High-Performance server for NATS.io, the cloud and edge native messaging system.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 21,090 |
-| Forks | 2,051 |
-| Stars today | 13 |
+| Stars | 21,101 |
+| Forks | 2,054 |
+| Stars today | 18 |
 
 ---
 
@@ -119,9 +119,9 @@ Beads - A memory upgrade for your coding agent
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 28,881 |
-| Forks | 1,949 |
-| Stars today | 17 |
+| Stars | 28,901 |
+| Forks | 1,950 |
+| Stars today | 29 |
 
 ---
 
@@ -132,9 +132,9 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 13,391 |
+| Stars | 13,392 |
 | Forks | 1,241 |
-| Stars today | 15 |
+| Stars today | 8 |
 
 ---
 
@@ -145,9 +145,9 @@ ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,588 |
-| Forks | 673 |
-| Stars today | 18 |
+| Stars | 2,610 |
+| Forks | 683 |
+| Stars today | 35 |
 
 ---
 
@@ -158,8 +158,8 @@ ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 21,409 |
+| Stars | 21,422 |
 | Forks | 2,622 |
-| Stars today | 23 |
+| Stars today | 16 |
 
 ---

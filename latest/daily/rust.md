@@ -1,7 +1,7 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-21T06:58:56Z
+**Snapshot Time:** 2026-11-22T06:38:55Z
 **Total Repositories:** 14
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Jan is an open source alternative to ChatGPT that runs 100% offline on your comp
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 45,972 |
-| Forks | 3,226 |
-| Stars today | 101 |
+| Stars | 46,007 |
+| Forks | 3,235 |
+| Stars today | 45 |
 
 ---
 
@@ -28,9 +28,9 @@ Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,973 |
+| Stars | 5,989 |
 | Forks | 244 |
-| Stars today | 28 |
+| Stars today | 17 |
 
 ---
 
@@ -41,9 +41,9 @@ Extremely fast Query Engine for DataFrames, written in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 40,411 |
-| Forks | 3,253 |
-| Stars today | 17 |
+| Stars | 40,425 |
+| Forks | 3,256 |
+| Stars today | 23 |
 
 ---
 
@@ -54,9 +54,9 @@ Extremely fast Query Engine for DataFrames, written in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,077 |
-| Forks | 2,830 |
-| Stars today | 159 |
+| Stars | 31,110 |
+| Forks | 2,834 |
+| Stars today | 48 |
 
 ---
 
@@ -67,9 +67,9 @@ Open source, composable payments platform | PCI compliant | SaaS and Self-host o
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 45,859 |
+| Stars | 45,867 |
 | Forks | 6,696 |
-| Stars today | 15 |
+| Stars today | 7 |
 
 ---
 
@@ -80,9 +80,9 @@ Professional Antigravity Account Manager & Switcher. One-click seamless account 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 33,517 |
-| Forks | 3,569 |
-| Stars today | 87 |
+| Stars | 33,581 |
+| Forks | 3,574 |
+| Stars today | 86 |
 
 ---
 
@@ -93,9 +93,9 @@ Professional Antigravity Account Manager & Switcher. One-click seamless account 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,548 |
+| Stars | 5,555 |
 | Forks | 382 |
-| Stars today | 7 |
+| Stars today | 8 |
 
 ---
 
@@ -106,9 +106,9 @@ Professional Antigravity Account Manager & Switcher. One-click seamless account 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,207 |
+| Stars | 9,216 |
 | Forks | 1,030 |
-| Stars today | 15 |
+| Stars today | 12 |
 
 ---
 
@@ -119,9 +119,9 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 87,324 |
-| Forks | 5,610 |
-| Stars today | 104 |
+| Stars | 87,440 |
+| Forks | 5,612 |
+| Stars today | 125 |
 
 ---
 
@@ -132,9 +132,9 @@ An open-source remote desktop application designed for self-hosting, as an alter
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 130,546 |
-| Forks | 21,018 |
-| Stars today | 250 |
+| Stars | 130,679 |
+| Forks | 21,056 |
+| Stars today | 147 |
 
 ---
 
@@ -145,9 +145,9 @@ A data visualization and analytics component, especially well-suited for large a
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,648 |
+| Stars | 11,674 |
 | Forks | 1,375 |
-| Stars today | 43 |
+| Stars today | 36 |
 
 ---
 
@@ -158,9 +158,9 @@ Generate any location from the real world in Minecraft with a high level of deta
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,761 |
+| Stars | 18,778 |
 | Forks | 1,590 |
-| Stars today | 27 |
+| Stars today | 14 |
 
 ---
 
@@ -171,9 +171,9 @@ A beautiful, private, local-first personal finance tracker. Investments, net wor
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,657 |
-| Forks | 845 |
-| Stars today | 46 |
+| Stars | 9,681 |
+| Forks | 847 |
+| Stars today | 40 |
 
 ---
 
@@ -184,7 +184,7 @@ A Flash Player emulator written in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,902 |
+| Stars | 18,908 |
 | Forks | 1,201 |
 | Stars today | 9 |
 

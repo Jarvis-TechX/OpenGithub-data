@@ -1,7 +1,7 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-21T06:58:53Z
+**Snapshot Time:** 2026-11-22T06:38:51Z
 **Total Repositories:** 19
 **New Entries:** 1
 **Quality Score:** 97.89/100
@@ -15,125 +15,126 @@
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,686 |
+| Stars | 15,688 |
 | Forks | 13,975 |
-| Stars today | 4 |
+| Stars today | 3 |
 
 ---
 
-## 2. [ruby/ruby](https://github.com/ruby/ruby)
+## 2. [antiwork/gumroad](https://github.com/antiwork/gumroad) 🆕
+
+See what sticks
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 10,194 |
+| Forks | 2,132 |
+| Stars today | 7 |
+
+---
+
+## 3. [ruby/ruby](https://github.com/ruby/ruby)
 
 The Ruby Programming Language
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,855 |
-| Forks | 5,693 |
-| Stars today | 27 |
+| Stars | 23,856 |
+| Forks | 5,694 |
+| Stars today | 3 |
 
 ---
 
-## 3. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+## 4. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
 
 Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 40,272 |
-| Forks | 9,805 |
-| Stars today | 56 |
+| Stars | 40,312 |
+| Forks | 9,818 |
+| Stars today | 45 |
 
 ---
 
-## 4. [opf/openproject](https://github.com/opf/openproject)
+## 5. [opf/openproject](https://github.com/opf/openproject)
 
 OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,597 |
-| Forks | 3,803 |
-| Stars today | 24 |
+| Stars | 17,624 |
+| Forks | 3,805 |
+| Stars today | 34 |
 
 ---
 
-## 5. [docusealco/docuseal](https://github.com/docusealco/docuseal)
+## 6. [docusealco/docuseal](https://github.com/docusealco/docuseal)
 
 Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 19,110 |
-| Forks | 1,967 |
-| Stars today | 5 |
+| Stars | 19,118 |
+| Forks | 1,971 |
+| Stars today | 9 |
 
 ---
 
-## 6. [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)
+## 7. [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)
 
 Informative site with EoL dates of everything
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,450 |
-| Forks | 1,360 |
-| Stars today | 1 |
+| Stars | 3,452 |
+| Forks | 1,361 |
+| Stars today | 2 |
 
 ---
 
-## 7. [zammad/zammad](https://github.com/zammad/zammad)
+## 8. [zammad/zammad](https://github.com/zammad/zammad)
 
 Zammad is a web based open source helpdesk/customer support system.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 6,133 |
-| Forks | 1,108 |
-| Stars today | 2 |
+| Stars | 6,134 |
+| Forks | 1,109 |
+| Stars today | 3 |
 
 ---
 
-## 8. [forem/forem](https://github.com/forem/forem)
+## 9. [forem/forem](https://github.com/forem/forem)
 
 For empowering community 🌱
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,842 |
-| Forks | 4,272 |
-| Stars today | 1 |
+| Stars | 22,844 |
+| Forks | 4,273 |
+| Stars today | 2 |
 
 ---
 
-## 9. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+## 10. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 
 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,312 |
-| Forks | 12,135 |
-| Stars today | 3 |
-
----
-
-## 10. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db)
-
-A database of vulnerable Ruby Gems
-
-| Metric | Value |
-|--------|-------|
-| Language | Ruby |
-| Stars | 1,084 |
-| Forks | 257 |
+| Stars | 22,314 |
+| Forks | 12,141 |
+| Stars today | 2 |
 
 ---
 
@@ -150,15 +151,15 @@ Library packaging and distribution for Ruby.
 
 ---
 
-## 12. [github/explore](https://github.com/github/explore) 🆕
+## 12. [github/explore](https://github.com/github/explore)
 
 Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,969 |
-| Forks | 14,741 |
+| Stars | 4,970 |
+| Forks | 14,746 |
 | Stars today | 1 |
 
 ---
@@ -170,9 +171,9 @@ Create agents that monitor and act on your behalf. Your agents are standing by!
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,601 |
-| Forks | 4,364 |
-| Stars today | 14 |
+| Stars | 50,606 |
+| Forks | 4,362 |
+| Stars today | 7 |
 
 ---
 
@@ -183,9 +184,9 @@ The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Proje
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,444 |
+| Stars | 2,445 |
 | Forks | 910 |
-| Stars today | 8 |
+| Stars today | 2 |
 
 ---
 
@@ -206,9 +207,9 @@ Official repository for Citation Style Language (CSL) citation styles.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 595 |
-| Forks | 108 |
-| Stars today | 3 |
+| Stars | 597 |
+| Forks | 109 |
+| Stars today | 1 |
 
 ---
 
@@ -221,7 +222,6 @@ A Ruby/Rack web server built for parallelism
 | Language | Ruby |
 | Stars | 7,928 |
 | Forks | 1,525 |
-| Stars today | 1 |
 
 ---
 
@@ -234,7 +234,7 @@ A Ruby/Rack web server built for parallelism
 | Language | Ruby |
 | Stars | 5,860 |
 | Forks | 1,609 |
-| Stars today | 8 |
+| Stars today | 2 |
 
 ---
 
@@ -245,8 +245,8 @@ The Rails application that powers OpenStreetMap
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,896 |
-| Forks | 1,111 |
-| Stars today | 2 |
+| Stars | 2,897 |
+| Forks | 1,113 |
+| Stars today | 1 |
 
 ---

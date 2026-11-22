@@ -1,9 +1,9 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-21T06:59:36Z
+**Snapshot Time:** 2026-11-22T06:39:33Z
 **Total Repositories:** 18
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 97.78/100
 
 ---
@@ -13,9 +13,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 10,682 |
-| Forks | 701 |
-| Stars this month | 1,693 |
+| Stars | 10,695 |
+| Forks | 702 |
+| Stars this month | 1,596 |
 
 ---
 
@@ -26,9 +26,9 @@ BitChord - A modern YouTube music client with clean aesthetics inspired from App
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,098 |
-| Forks | 786 |
-| Stars this month | 3,305 |
+| Stars | 7,164 |
+| Forks | 803 |
+| Stars this month | 3,212 |
 
 ---
 
@@ -39,9 +39,9 @@ A Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 20,829 |
-| Forks | 5,182 |
-| Stars this month | 1,474 |
+| Stars | 20,883 |
+| Forks | 5,197 |
+| Stars this month | 1,494 |
 
 ---
 
@@ -52,9 +52,9 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,320 |
-| Forks | 1,444 |
-| Stars this month | 760 |
+| Stars | 7,360 |
+| Forks | 1,447 |
+| Stars this month | 813 |
 
 ---
 
@@ -65,9 +65,9 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,596 |
-| Forks | 449 |
-| Stars this month | 3,637 |
+| Stars | 8,730 |
+| Forks | 450 |
+| Stars this month | 3,680 |
 
 ---
 
@@ -78,22 +78,22 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,680 |
-| Forks | 803 |
-| Stars this month | 1,563 |
+| Stars | 13,725 |
+| Forks | 805 |
+| Stars this month | 1,573 |
 
 ---
 
-## 7. [N3urda/hongguoTV](https://github.com/N3urda/hongguoTV) 🆕
+## 7. [N3urda/hongguoTV](https://github.com/N3urda/hongguoTV)
 
 安卓 TV 红果短剧客户端
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,454 |
-| Forks | 251 |
-| Stars this month | 755 |
+| Stars | 1,532 |
+| Forks | 258 |
+| Stars this month | 823 |
 
 ---
 
@@ -104,9 +104,9 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 45,142 |
-| Forks | 2,145 |
-| Stars this month | 2,194 |
+| Stars | 45,198 |
+| Forks | 2,149 |
+| Stars this month | 2,195 |
 
 ---
 
@@ -117,9 +117,9 @@ Using system APIs directly with adb/root privileges from normal apps through a J
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 34,227 |
-| Forks | 3,743 |
-| Stars this month | 2,514 |
+| Stars | 34,325 |
+| Forks | 3,751 |
+| Stars this month | 2,558 |
 
 ---
 
@@ -130,9 +130,9 @@ An OSS Android TV client for Jellyfin
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,373 |
-| Forks | 251 |
-| Stars this month | 286 |
+| Stars | 3,379 |
+| Forks | 254 |
+| Stars this month | 279 |
 
 ---
 
@@ -143,9 +143,9 @@ Block ads system-wide on Android using local VPN-based DNS filtering. No root ne
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,786 |
-| Forks | 174 |
-| Stars this month | 604 |
+| Stars | 2,794 |
+| Forks | 175 |
+| Stars this month | 609 |
 
 ---
 
@@ -156,9 +156,9 @@ StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jet
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,081 |
+| Stars | 1,082 |
 | Forks | 180 |
-| Stars this month | 263 |
+| Stars this month | 265 |
 
 ---
 
@@ -169,9 +169,9 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,070 |
-| Forks | 553 |
-| Stars this month | 6,080 |
+| Stars | 7,198 |
+| Forks | 563 |
+| Stars this month | 6,147 |
 
 ---
 
@@ -182,9 +182,9 @@ Andee lives on your phone or Mac and uses any app like you do—no integrations,
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 6,166 |
+| Stars | 6,176 |
 | Forks | 295 |
-| Stars this month | 5,089 |
+| Stars this month | 4,480 |
 
 ---
 
@@ -195,9 +195,9 @@ GhostLock One-Tap Execution App (CVE-2026-43499)
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,148 |
-| Forks | 731 |
-| Stars this month | 1,064 |
+| Stars | 3,169 |
+| Forks | 734 |
+| Stars this month | 1,054 |
 
 ---
 
@@ -208,9 +208,9 @@ Headunit App for displaying Android Auto
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,450 |
-| Forks | 346 |
-| Stars this month | 552 |
+| Stars | 3,456 |
+| Forks | 348 |
+| Stars this month | 550 |
 
 ---
 
@@ -221,9 +221,9 @@ Headunit App for displaying Android Auto
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,139 |
-| Forks | 831 |
-| Stars this month | 610 |
+| Stars | 7,173 |
+| Forks | 834 |
+| Stars this month | 614 |
 
 ---
 
@@ -234,8 +234,8 @@ Disable / Hide / Suspend / Uninstall Android apps without root.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,391 |
-| Forks | 290 |
-| Stars this month | 484 |
+| Stars | 7,403 |
+| Forks | 292 |
+| Stars this month | 492 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-21T06:59:03Z
+**Snapshot Time:** 2026-11-22T06:39:01Z
 **Total Repositories:** 12
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ An ultra-light MacOS utility that helps hide menu bar icons
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,529 |
+| Stars | 15,547 |
 | Forks | 550 |
-| Stars today | 24 |
+| Stars today | 13 |
 
 ---
 
-## 2. [driceroland/Search](https://github.com/driceroland/Search) 🆕
+## 2. [driceroland/Search](https://github.com/driceroland/Search)
 
 A small, fast WebKit browser for macOS, by Office Commun.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,606 |
-| Forks | 369 |
-| Stars today | 74 |
+| Stars | 3,731 |
+| Forks | 387 |
+| Stars today | 230 |
 
 ---
 
@@ -41,9 +41,9 @@ iOS 27+ 本机虚拟定位与步行路线测试工具
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,136 |
-| Forks | 158 |
-| Stars today | 30 |
+| Stars | 1,143 |
+| Forks | 157 |
+| Stars today | 12 |
 
 ---
 
@@ -54,9 +54,9 @@ Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth d
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,206 |
-| Forks | 717 |
-| Stars today | 21 |
+| Stars | 14,245 |
+| Forks | 721 |
+| Stars today | 63 |
 
 ---
 
@@ -67,22 +67,22 @@ Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth d
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 119,000 |
-| Forks | 10,466 |
-| Stars today | 77 |
+| Stars | 119,090 |
+| Forks | 10,494 |
+| Stars today | 92 |
 
 ---
 
 ## 6. [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser)
 
-A Gecko-based web browser for iOS 13+. Currently in beta.
+A Gecko-based web browser for iOS 13+.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,990 |
-| Forks | 173 |
-| Stars today | 8 |
+| Stars | 2,000 |
+| Forks | 177 |
+| Stars today | 16 |
 
 ---
 
@@ -93,9 +93,9 @@ Virtual machines for iOS and macOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 36,985 |
+| Stars | 36,996 |
 | Forks | 1,920 |
-| Stars today | 18 |
+| Stars today | 9 |
 
 ---
 
@@ -108,7 +108,7 @@ macos (mac) Wallhaven · MotionBG · Anime | 壁纸 · 动态壁纸 · 番剧
 | Language | Swift |
 | Stars | 1,686 |
 | Forks | 69 |
-| Stars today | 21 |
+| Stars today | 3 |
 
 ---
 
@@ -119,9 +119,9 @@ An an app that installs Sidestore on iOS 27, fully on-device
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,522 |
-| Forks | 126 |
-| Stars today | 16 |
+| Stars | 1,535 |
+| Forks | 129 |
+| Stars today | 9 |
 
 ---
 
@@ -132,9 +132,9 @@ Feature-packed native macOS screenshot & recording tool: annotate, auto-redact P
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,270 |
+| Stars | 4,274 |
 | Forks | 296 |
-| Stars today | 11 |
+| Stars today | 9 |
 
 ---
 
@@ -145,7 +145,7 @@ Free up your Mac. Safely. A free, open-source native Mac app that clears the cac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,991 |
+| Stars | 1,993 |
 | Forks | 108 |
 | Stars today | 8 |
 
@@ -158,8 +158,8 @@ Run Windows games on Apple Silicon — free, open source, with an open compatibi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,305 |
+| Stars | 2,315 |
 | Forks | 106 |
-| Stars today | 10 |
+| Stars today | 14 |
 
 ---
