@@ -1,7 +1,7 @@
 # GitHub Trending - C++
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-22T06:39:12Z
+**Snapshot Time:** 2026-11-23T07:27:57Z
 **Total Repositories:** 21
 **New Entries:** 0
 **Quality Score:** 98.10/100
@@ -15,9 +15,9 @@ A library for efficient similarity search and clustering of dense vectors.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,852 |
-| Forks | 4,659 |
-| Stars this week | 202 |
+| Stars | 41,875 |
+| Forks | 4,663 |
+| Stars this week | 175 |
 
 ---
 
@@ -28,9 +28,9 @@ Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and captu
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 5,184 |
-| Forks | 355 |
-| Stars this week | 3,053 |
+| Stars | 5,496 |
+| Forks | 377 |
+| Stars this week | 2,668 |
 
 ---
 
@@ -41,9 +41,9 @@ LLM inference in C/C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 135,968 |
-| Forks | 25,885 |
-| Stars this week | 1,453 |
+| Stars | 136,151 |
+| Forks | 25,947 |
+| Stars this week | 1,526 |
 
 ---
 
@@ -54,9 +54,9 @@ GoogleTest - Google Testing and Mocking Framework
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 39,766 |
-| Forks | 10,978 |
-| Stars this week | 35 |
+| Stars | 39,770 |
+| Forks | 10,996 |
+| Stars this week | 38 |
 
 ---
 
@@ -67,9 +67,9 @@ Tensor library for machine learning
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,149 |
-| Forks | 2,087 |
-| Stars this week | 367 |
+| Stars | 16,164 |
+| Forks | 2,089 |
+| Stars this week | 315 |
 
 ---
 
@@ -80,9 +80,9 @@ Official inference framework for 1-bit LLMs
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 42,382 |
-| Forks | 4,001 |
-| Stars this week | 816 |
+| Stars | 42,431 |
+| Forks | 4,007 |
+| Stars this week | 853 |
 
 ---
 
@@ -93,9 +93,9 @@ MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powe
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,590 |
-| Forks | 2,545 |
-| Stars this week | 65 |
+| Stars | 16,601 |
+| Forks | 2,546 |
+| Stars this week | 64 |
 
 ---
 
@@ -104,9 +104,9 @@ MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powe
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 719 |
-| Forks | 75 |
-| Stars this week | 90 |
+| Stars | 725 |
+| Forks | 77 |
+| Stars this week | 82 |
 
 ---
 
@@ -117,9 +117,9 @@ OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 11,978 |
-| Forks | 3,654 |
-| Stars this week | 755 |
+| Stars | 12,155 |
+| Forks | 3,669 |
+| Stars this week | 911 |
 
 ---
 
@@ -130,9 +130,9 @@ Predatory ESP32 Firmware
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,354 |
-| Forks | 2,498 |
-| Stars this week | 116 |
+| Stars | 7,364 |
+| Forks | 2,503 |
+| Stars this week | 113 |
 
 ---
 
@@ -143,9 +143,9 @@ Share a single keyboard and mouse between multiple computers.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 31,562 |
-| Forks | 5,185 |
-| Stars this week | 477 |
+| Stars | 31,592 |
+| Forks | 5,187 |
+| Stars this week | 414 |
 
 ---
 
@@ -156,9 +156,9 @@ Multi-Joint dynamics with Contact. A general purpose physics simulator.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 18,378 |
-| Forks | 2,221 |
-| Stars this week | 440 |
+| Stars | 18,415 |
+| Forks | 2,227 |
+| Stars this week | 350 |
 
 ---
 
@@ -169,9 +169,9 @@ Port of OpenAI's Whisper model in C/C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 55,415 |
-| Forks | 6,334 |
-| Stars this week | 225 |
+| Stars | 55,442 |
+| Forks | 6,342 |
+| Stars this week | 235 |
 
 ---
 
@@ -182,9 +182,9 @@ Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, B
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,340 |
-| Forks | 442 |
-| Stars this week | 80 |
+| Stars | 1,355 |
+| Forks | 445 |
+| Stars this week | 71 |
 
 ---
 
@@ -195,9 +195,9 @@ qBittorrent BitTorrent client
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 41,805 |
-| Forks | 5,003 |
-| Stars this week | 207 |
+| Stars | 41,834 |
+| Forks | 5,000 |
+| Stars this week | 198 |
 
 ---
 
@@ -208,9 +208,9 @@ Open-source simulator for autonomous driving research.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 14,676 |
-| Forks | 4,751 |
-| Stars this week | 68 |
+| Stars | 14,686 |
+| Forks | 4,753 |
+| Stars this week | 71 |
 
 ---
 
@@ -221,9 +221,9 @@ ClickHouse® is a real-time analytics database management system
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 51,060 |
-| Forks | 9,303 |
-| Stars this week | 150 |
+| Stars | 51,069 |
+| Forks | 9,307 |
+| Stars this week | 145 |
 
 ---
 
@@ -234,9 +234,9 @@ An open-source 3DS emulator project based on Citra.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 8,751 |
-| Forks | 858 |
-| Stars this week | 83 |
+| Stars | 8,758 |
+| Forks | 867 |
+| Stars this week | 76 |
 
 ---
 
@@ -247,9 +247,9 @@ An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) creat
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 978 |
-| Forks | 226 |
-| Stars this week | 197 |
+| Stars | 981 |
+| Forks | 227 |
+| Stars this week | 119 |
 
 ---
 
@@ -260,8 +260,8 @@ An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) creat
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,072 |
-| Forks | 1,724 |
+| Stars | 16,088 |
+| Forks | 1,730 |
 | Stars this week | 117 |
 
 ---
@@ -273,8 +273,8 @@ Fast and minimalist 3D viewer.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 5,090 |
-| Forks | 482 |
-| Stars this week | 47 |
+| Stars | 5,093 |
+| Forks | 484 |
+| Stars this week | 30 |
 
 ---

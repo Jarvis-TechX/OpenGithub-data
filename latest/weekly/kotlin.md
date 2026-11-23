@@ -1,7 +1,7 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-22T06:39:14Z
+**Snapshot Time:** 2026-11-23T07:28:00Z
 **Total Repositories:** 18
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 58,091 |
-| Forks | 8,856 |
-| Stars this week | 1,449 |
+| Stars | 58,165 |
+| Forks | 8,861 |
+| Stars this week | 1,510 |
 
 ---
 
@@ -28,9 +28,9 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,198 |
-| Forks | 563 |
-| Stars this week | 1,281 |
+| Stars | 7,324 |
+| Forks | 576 |
+| Stars this week | 1,163 |
 
 ---
 
@@ -41,9 +41,9 @@ YunX（云析）的官方 windows 桌面端
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,532 |
-| Forks | 258 |
-| Stars this week | 487 |
+| Stars | 1,592 |
+| Forks | 262 |
+| Stars this week | 534 |
 
 ---
 
@@ -54,9 +54,9 @@ A cross-platform music app using YouTube Music for backend
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 13,725 |
-| Forks | 805 |
-| Stars this week | 374 |
+| Stars | 13,772 |
+| Forks | 810 |
+| Stars this week | 365 |
 
 ---
 
@@ -67,9 +67,9 @@ Uninstall any Android app without root (with power of Shizuku). Debloat your dev
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,654 |
+| Stars | 7,691 |
 | Forks | 184 |
-| Stars this week | 368 |
+| Stars this week | 329 |
 
 ---
 
@@ -80,9 +80,9 @@ Uninstall any Android app without root (with power of Shizuku). Debloat your dev
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,173 |
-| Forks | 834 |
-| Stars this week | 158 |
+| Stars | 7,191 |
+| Forks | 837 |
+| Stars this week | 173 |
 
 ---
 
@@ -93,9 +93,9 @@ Disable / Hide / Suspend / Uninstall Android apps without root.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,403 |
-| Forks | 292 |
-| Stars this week | 116 |
+| Stars | 7,425 |
+| Forks | 294 |
+| Stars this week | 121 |
 
 ---
 
@@ -106,9 +106,9 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,360 |
-| Forks | 1,447 |
-| Stars this week | 276 |
+| Stars | 7,397 |
+| Forks | 1,452 |
+| Stars this week | 290 |
 
 ---
 
@@ -119,9 +119,9 @@ A modern, cool, sleek music player. made with <3
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,184 |
-| Forks | 112 |
-| Stars this week | 474 |
+| Stars | 2,222 |
+| Forks | 114 |
+| Stars this week | 434 |
 
 ---
 
@@ -132,9 +132,9 @@ Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,671 |
-| Forks | 1,207 |
-| Stars this week | 42 |
+| Stars | 9,680 |
+| Forks | 1,208 |
+| Stars this week | 50 |
 
 ---
 
@@ -145,9 +145,9 @@ A V2Ray client for Android, support Xray core and v2fly core
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 66,323 |
-| Forks | 8,705 |
-| Stars this week | 462 |
+| Stars | 66,386 |
+| Forks | 8,715 |
+| Stars this week | 470 |
 
 ---
 
@@ -158,9 +158,9 @@ Bringing Astrid Tasks back from the dead
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 5,785 |
-| Forks | 685 |
-| Stars this week | 44 |
+| Stars | 5,795 |
+| Forks | 687 |
+| Stars this week | 45 |
 
 ---
 
@@ -171,9 +171,9 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,730 |
-| Forks | 450 |
-| Stars this week | 799 |
+| Stars | 8,860 |
+| Forks | 455 |
+| Stars this week | 827 |
 
 ---
 
@@ -184,9 +184,9 @@ YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,325 |
+| Stars | 1,335 |
 | Forks | 57 |
-| Stars this week | 120 |
+| Stars this week | 112 |
 
 ---
 
@@ -197,9 +197,9 @@ RikkaHub is an Android APP that supports for multiple LLM providers.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,093 |
-| Forks | 923 |
-| Stars this week | 254 |
+| Stars | 9,119 |
+| Forks | 930 |
+| Stars this week | 247 |
 
 ---
 
@@ -210,9 +210,9 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 25,400 |
-| Forks | 2,839 |
-| Stars this week | 115 |
+| Stars | 25,417 |
+| Forks | 2,843 |
+| Stars this week | 120 |
 
 ---
 
@@ -223,9 +223,9 @@ WhatsApp tools for Android
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,903 |
-| Forks | 271 |
-| Stars this week | 23 |
+| Stars | 1,905 |
+| Forks | 272 |
+| Stars this week | 19 |
 
 ---
 
@@ -236,8 +236,8 @@ Android GUI proxy utility (Empowered by sing-box)
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 874 |
+| Stars | 881 |
 | Forks | 46 |
-| Stars this week | 59 |
+| Stars this week | 53 |
 
 ---

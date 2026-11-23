@@ -1,7 +1,7 @@
 # GitHub Trending - Python
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-22T06:39:03Z
+**Snapshot Time:** 2026-11-23T07:27:46Z
 **Total Repositories:** 15
 **New Entries:** 0
 **Quality Score:** 97.33/100
@@ -15,9 +15,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 72,167 |
-| Forks | 6,390 |
-| Stars this week | 4,198 |
+| Stars | 72,979 |
+| Forks | 6,453 |
+| Stars this week | 4,731 |
 
 ---
 
@@ -28,9 +28,9 @@ Claude Code skills for equity investors and traders — market analysis, technic
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 7,667 |
-| Forks | 1,485 |
-| Stars this week | 3,113 |
+| Stars | 7,841 |
+| Forks | 1,502 |
+| Stars this week | 2,616 |
 
 ---
 
@@ -41,9 +41,9 @@ Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,377 |
-| Forks | 843 |
-| Stars this week | 3,598 |
+| Stars | 9,900 |
+| Forks | 874 |
+| Stars this week | 3,748 |
 
 ---
 
@@ -54,9 +54,9 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 73,652 |
-| Forks | 58,034 |
-| Stars this week | 1,532 |
+| Stars | 73,782 |
+| Forks | 58,104 |
+| Stars this week | 1,359 |
 
 ---
 
@@ -65,9 +65,9 @@ LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、�
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 19,530 |
-| Forks | 2,799 |
-| Stars this week | 351 |
+| Stars | 19,546 |
+| Forks | 2,803 |
+| Stars this week | 232 |
 
 ---
 
@@ -78,9 +78,9 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 198,614 |
-| Forks | 23,244 |
-| Stars this week | 4,064 |
+| Stars | 199,148 |
+| Forks | 23,311 |
+| Stars this week | 3,864 |
 
 ---
 
@@ -91,9 +91,9 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 68,269 |
-| Forks | 8,927 |
-| Stars this week | 2,879 |
+| Stars | 69,008 |
+| Forks | 9,017 |
+| Stars this week | 3,331 |
 
 ---
 
@@ -104,9 +104,9 @@ An open-source OpusClip alternative
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 4,014 |
-| Forks | 949 |
-| Stars this week | 897 |
+| Stars | 4,089 |
+| Forks | 975 |
+| Stars this week | 868 |
 
 ---
 
@@ -117,9 +117,9 @@ Open-source registry and CLI for Claude Code components: agents, commands, skill
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 34,075 |
-| Forks | 4,086 |
-| Stars this week | 524 |
+| Stars | 34,117 |
+| Forks | 4,096 |
+| Stars this week | 387 |
 
 ---
 
@@ -130,9 +130,9 @@ Open-source AI red teaming toolkit from Microsoft. Test generative AI systems wi
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,017 |
-| Forks | 1,107 |
-| Stars this week | 182 |
+| Stars | 5,029 |
+| Forks | 1,114 |
+| Stars this week | 174 |
 
 ---
 
@@ -143,9 +143,9 @@ Open-source AI red teaming toolkit from Microsoft. Test generative AI systems wi
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 41,147 |
-| Forks | 3,329 |
-| Stars this week | 483 |
+| Stars | 41,190 |
+| Forks | 3,334 |
+| Stars this week | 465 |
 
 ---
 
@@ -156,9 +156,9 @@ A Claude Code skill bundle for bug hunting and external red-team work - 82 skill
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 16,415 |
-| Forks | 1,862 |
-| Stars this week | 9,758 |
+| Stars | 18,410 |
+| Forks | 2,020 |
+| Stars this week | 11,269 |
 
 ---
 
@@ -169,9 +169,9 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 80,024 |
-| Forks | 9,812 |
-| Stars this week | 565 |
+| Stars | 80,095 |
+| Forks | 9,834 |
+| Stars this week | 550 |
 
 ---
 
@@ -182,9 +182,9 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 41,010 |
-| Forks | 3,720 |
-| Stars this week | 250 |
+| Stars | 41,036 |
+| Forks | 3,728 |
+| Stars this week | 249 |
 
 ---
 
@@ -195,8 +195,8 @@ AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，�
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 12,997 |
-| Forks | 2,088 |
-| Stars this week | 2,236 |
+| Stars | 13,807 |
+| Forks | 2,172 |
+| Stars this week | 2,808 |
 
 ---

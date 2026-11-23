@@ -1,7 +1,7 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-22T06:38:56Z
+**Snapshot Time:** 2026-11-23T07:27:36Z
 **Total Repositories:** 16
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ The official NGINX Open Source repository.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 32,776 |
-| Forks | 8,375 |
-| Stars today | 189 |
+| Stars | 32,936 |
+| Forks | 8,392 |
+| Stars today | 163 |
 
 ---
 
@@ -28,9 +28,9 @@ Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scala
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,157 |
-| Forks | 10,547 |
-| Stars today | 10 |
+| Stars | 17,167 |
+| Forks | 10,552 |
+| Stars today | 9 |
 
 ---
 
@@ -41,8 +41,8 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,851 |
-| Forks | 8,527 |
+| Stars | 41,857 |
+| Forks | 8,532 |
 | Stars today | 5 |
 
 ---
@@ -54,9 +54,9 @@ A free Windows-compatible Operating System
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,847 |
-| Forks | 61 |
-| Stars today | 284 |
+| Stars | 2,018 |
+| Forks | 73 |
+| Stars today | 133 |
 
 ---
 
@@ -67,7 +67,7 @@ Zstandard - Fast real-time compression algorithm
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,282 |
+| Stars | 28,291 |
 | Forks | 2,704 |
 | Stars today | 7 |
 
@@ -80,9 +80,9 @@ Lightweight static analysis for many languages. Find bug variants with patterns 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,881 |
-| Forks | 1,201 |
-| Stars today | 23 |
+| Stars | 17,895 |
+| Forks | 1,204 |
+| Stars today | 11 |
 
 ---
 
@@ -93,7 +93,7 @@ A massively spiffy yet delicately unobtrusive compression library.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,244 |
+| Stars | 7,245 |
 | Forks | 2,914 |
 | Stars today | 2 |
 
@@ -106,9 +106,9 @@ Espressif IoT Development Framework. Official development framework for Espressi
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 19,566 |
-| Forks | 8,617 |
-| Stars today | 9 |
+| Stars | 19,571 |
+| Forks | 8,616 |
+| Stars today | 12 |
 
 ---
 
@@ -119,7 +119,7 @@ A project aimed at providing a better PC VR mode for BotW using the Cemu emulato
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,699 |
+| Stars | 1,702 |
 | Forks | 219 |
 | Stars today | 5 |
 
@@ -132,9 +132,9 @@ Open-source vector similarity search for Postgres
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 23,770 |
-| Forks | 1,401 |
-| Stars today | 15 |
+| Stars | 23,784 |
+| Forks | 1,403 |
+| Stars today | 14 |
 
 ---
 
@@ -145,9 +145,9 @@ General purpose TLS and crypto library
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,507 |
-| Forks | 11,637 |
-| Stars today | 5 |
+| Stars | 31,513 |
+| Forks | 11,640 |
+| Stars today | 10 |
 
 ---
 
@@ -158,9 +158,9 @@ An open source cross-platform USB stack for embedded system
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,291 |
-| Forks | 1,587 |
-| Stars today | 5 |
+| Stars | 7,296 |
+| Forks | 1,588 |
+| Stars today | 4 |
 
 ---
 
@@ -171,9 +171,9 @@ Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 14,668 |
-| Forks | 2,394 |
-| Stars today | 8 |
+| Stars | 14,684 |
+| Forks | 2,395 |
+| Stars today | 9 |
 
 ---
 
@@ -184,8 +184,8 @@ ImageMagick is a free, open-source software suite for creating, editing, convert
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,912 |
-| Forks | 1,714 |
+| Stars | 17,918 |
+| Forks | 1,715 |
 | Stars today | 8 |
 
 ---
@@ -197,9 +197,9 @@ Simple DirectMedia Layer
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,048 |
-| Forks | 3,177 |
-| Stars today | 7 |
+| Stars | 17,056 |
+| Forks | 3,180 |
+| Stars today | 8 |
 
 ---
 
@@ -210,8 +210,8 @@ Flipper Zero firmware source code
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 16,953 |
-| Forks | 3,545 |
-| Stars today | 8 |
+| Stars | 16,962 |
+| Forks | 3,547 |
+| Stars today | 11 |
 
 ---

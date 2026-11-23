@@ -1,7 +1,7 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-22T06:39:10Z
+**Snapshot Time:** 2026-11-23T07:27:54Z
 **Total Repositories:** 7
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Browser automation CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 53,268 |
-| Forks | 3,730 |
-| Stars this week | 2,193 |
+| Stars | 53,484 |
+| Forks | 3,745 |
+| Stars this week | 1,964 |
 
 ---
 
@@ -28,9 +28,9 @@ A hive mind communication platform
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 37,649 |
-| Forks | 4,961 |
-| Stars this week | 240 |
+| Stars | 37,675 |
+| Forks | 4,964 |
+| Stars this week | 216 |
 
 ---
 
@@ -41,9 +41,9 @@ Object-storage native graph database with branching and typed ontology
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,191 |
-| Forks | 346 |
-| Stars this week | 800 |
+| Stars | 3,222 |
+| Forks | 350 |
+| Stars this week | 675 |
 
 ---
 
@@ -54,9 +54,9 @@ A WiFi security auditing software
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,812 |
-| Forks | 1,109 |
-| Stars this week | 1,188 |
+| Stars | 6,907 |
+| Forks | 1,125 |
+| Stars this week | 658 |
 
 ---
 
@@ -67,9 +67,9 @@ ZapFast: a fast, native WhatsApp client in Rust and egui
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,886 |
-| Forks | 499 |
-| Stars this week | 406 |
+| Stars | 4,957 |
+| Forks | 509 |
+| Stars this week | 386 |
 
 ---
 
@@ -80,9 +80,9 @@ RustFS is an open-source, S3-compatible high-performance object storage system s
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 36,351 |
+| Stars | 36,387 |
 | Forks | 1,687 |
-| Stars this week | 282 |
+| Stars this week | 267 |
 
 ---
 
@@ -93,8 +93,8 @@ Tiny, Performant & 100% Native client for Discord made in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,694 |
-| Forks | 170 |
-| Stars this week | 371 |
+| Stars | 1,728 |
+| Forks | 178 |
+| Stars this week | 375 |
 
 ---

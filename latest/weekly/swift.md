@@ -1,7 +1,7 @@
 # GitHub Trending - Swift
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-22T06:39:17Z
+**Snapshot Time:** 2026-11-23T07:28:03Z
 **Total Repositories:** 18
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ A tool for creating and running Linux containers using lightweight virtual machi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 52,026 |
-| Forks | 1,848 |
-| Stars this week | 575 |
+| Stars | 52,033 |
+| Forks | 1,850 |
+| Stars this week | 551 |
 
 ---
 
@@ -28,9 +28,9 @@ A tool for creating and running Linux containers using lightweight virtual machi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 119,090 |
-| Forks | 10,494 |
-| Stars this week | 590 |
+| Stars | 119,168 |
+| Forks | 10,522 |
+| Stars this week | 611 |
 
 ---
 
@@ -41,9 +41,9 @@ An an app that installs Sidestore on iOS 27, fully on-device
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,535 |
-| Forks | 129 |
-| Stars this week | 96 |
+| Stars | 1,558 |
+| Forks | 131 |
+| Stars this week | 112 |
 
 ---
 
@@ -54,9 +54,9 @@ Process Explorer for MacOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,043 |
+| Stars | 1,051 |
 | Forks | 34 |
-| Stars this week | 103 |
+| Stars this week | 90 |
 
 ---
 
@@ -67,9 +67,9 @@ iOS 27 MobileGestalt editor
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,290 |
-| Forks | 95 |
-| Stars this week | 254 |
+| Stars | 1,298 |
+| Forks | 98 |
+| Stars this week | 243 |
 
 ---
 
@@ -80,8 +80,8 @@ Model export recipes, Python primitives, and Swift runtime utilities for on-devi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,370 |
-| Forks | 271 |
+| Stars | 2,372 |
+| Forks | 270 |
 | Stars this week | 24 |
 
 ---
@@ -93,9 +93,9 @@ A small, fast WebKit browser for macOS, by Office Commun.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,731 |
-| Forks | 387 |
-| Stars this week | 785 |
+| Stars | 3,846 |
+| Forks | 396 |
+| Stars this week | 814 |
 
 ---
 
@@ -106,9 +106,9 @@ iOS 27+ 本机虚拟定位与步行路线测试工具
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,143 |
+| Stars | 1,165 |
 | Forks | 157 |
-| Stars this week | 260 |
+| Stars this week | 245 |
 
 ---
 
@@ -119,9 +119,9 @@ macOS system monitor in your menu bar
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 43,561 |
-| Forks | 1,640 |
-| Stars this week | 174 |
+| Stars | 43,572 |
+| Forks | 1,645 |
+| Stars this week | 179 |
 
 ---
 
@@ -132,9 +132,9 @@ An ultra-light MacOS utility that helps hide menu bar icons
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,547 |
-| Forks | 550 |
-| Stars this week | 152 |
+| Stars | 15,567 |
+| Forks | 551 |
+| Stars this week | 158 |
 
 ---
 
@@ -145,8 +145,8 @@ An ultra-light MacOS utility that helps hide menu bar icons
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 34,791 |
-| Forks | 1,050 |
+| Stars | 34,803 |
+| Forks | 1,051 |
 | Stars this week | 75 |
 
 ---
@@ -158,9 +158,9 @@ Own your AI. The open-source agent harness for macOS. Run local or cloud models 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,195 |
+| Stars | 8,204 |
 | Forks | 496 |
-| Stars this week | 39 |
+| Stars this week | 49 |
 
 ---
 
@@ -171,9 +171,9 @@ Nuvio tvOS client
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 455 |
+| Stars | 458 |
 | Forks | 52 |
-| Stars this week | 36 |
+| Stars this week | 34 |
 
 ---
 
@@ -184,8 +184,8 @@ Protect your SSH keys with your Mac's Secure Enclave
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,513 |
-| Forks | 242 |
+| Stars | 9,518 |
+| Forks | 244 |
 | Stars this week | 109 |
 
 ---
@@ -197,9 +197,9 @@ Manga reading app for iOS, iPadOS, and macOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,776 |
+| Stars | 4,785 |
 | Forks | 345 |
-| Stars this week | 32 |
+| Stars this week | 34 |
 
 ---
 
@@ -210,7 +210,7 @@ Feature-packed native macOS screenshot & recording tool: annotate, auto-redact P
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,274 |
+| Stars | 4,289 |
 | Forks | 296 |
 | Stars this week | 121 |
 
@@ -223,9 +223,9 @@ The mouse and trackpad utility for Mac.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 7,229 |
+| Stars | 7,231 |
 | Forks | 203 |
-| Stars this week | 49 |
+| Stars this week | 47 |
 
 ---
 
@@ -236,8 +236,8 @@ Telegram-iOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 9,470 |
-| Forks | 3,352 |
-| Stars this week | 39 |
+| Stars | 9,474 |
+| Forks | 3,361 |
+| Stars this week | 36 |
 
 ---

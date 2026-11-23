@@ -1,7 +1,7 @@
 # GitHub Trending - Php
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-22T06:39:25Z
+**Snapshot Time:** 2026-11-23T07:28:13Z
 **Total Repositories:** 20
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 66,340 |
-| Forks | 6,007 |
-| Stars this month | 3,187 |
+| Stars | 66,374 |
+| Forks | 6,013 |
+| Stars this month | 3,108 |
 
 ---
 
@@ -28,9 +28,9 @@ The Symfony PHP framework
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 31,457 |
-| Forks | 9,960 |
-| Stars this month | 543 |
+| Stars | 31,459 |
+| Forks | 9,963 |
+| Stars this month | 532 |
 
 ---
 
@@ -41,9 +41,9 @@ The Symfony PHP framework
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 37,601 |
-| Forks | 5,378 |
-| Stars this month | 478 |
+| Stars | 37,614 |
+| Forks | 5,379 |
+| Stars this month | 461 |
 
 ---
 
@@ -54,9 +54,9 @@ mailcow: dockerized - 🐮 + 🐋 = 💕
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,858 |
-| Forks | 1,877 |
-| Stars this month | 247 |
+| Stars | 13,859 |
+| Forks | 1,880 |
+| Stars this month | 227 |
 
 ---
 
@@ -67,9 +67,9 @@ The Roundcube Webmail suite
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,296 |
+| Stars | 7,295 |
 | Forks | 1,818 |
-| Stars this month | 75 |
+| Stars this month | 68 |
 
 ---
 
@@ -80,9 +80,9 @@ A customizable, open-source ecommerce platform built on WordPress. Build any com
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,608 |
-| Forks | 10,669 |
-| Stars this month | 70 |
+| Stars | 10,609 |
+| Forks | 10,670 |
+| Stars this month | 69 |
 
 ---
 
@@ -93,9 +93,9 @@ Laravel is a web application framework with expressive, elegant syntax.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 35,031 |
-| Forks | 12,046 |
-| Stars this month | 108 |
+| Stars | 35,057 |
+| Forks | 12,064 |
+| Stars this month | 129 |
 
 ---
 
@@ -106,9 +106,9 @@ Laravel is a web application framework with expressive, elegant syntax.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 10,883 |
-| Forks | 1,133 |
-| Stars this month | 273 |
+| Stars | 10,885 |
+| Forks | 1,135 |
+| Stars this month | 232 |
 
 ---
 
@@ -119,9 +119,9 @@ Dependency Manager for PHP
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 29,588 |
-| Forks | 4,869 |
-| Stars this month | 61 |
+| Stars | 29,589 |
+| Forks | 4,868 |
+| Stars this month | 60 |
 
 ---
 
@@ -132,9 +132,9 @@ openmediavault is the next generation network attached storage (NAS) solution ba
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,101 |
-| Forks | 622 |
-| Stars this month | 103 |
+| Stars | 7,103 |
+| Forks | 623 |
+| Stars this month | 102 |
 
 ---
 
@@ -145,9 +145,9 @@ Kimai is the #1 open-source time-tracking application. From freelancers to compa
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,173 |
+| Stars | 5,174 |
 | Forks | 895 |
-| Stars this month | 97 |
+| Stars this month | 93 |
 
 ---
 
@@ -158,9 +158,9 @@ The classic email sending library for PHP
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 22,343 |
-| Forks | 9,758 |
-| Stars this month | 72 |
+| Stars | 22,344 |
+| Forks | 9,759 |
+| Stars this month | 68 |
 
 ---
 
@@ -171,9 +171,9 @@ A free open source IT asset/license management system
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,221 |
-| Forks | 4,078 |
-| Stars this month | 180 |
+| Stars | 15,235 |
+| Forks | 4,079 |
+| Stars this month | 186 |
 
 ---
 
@@ -184,7 +184,7 @@ Guzzle, an extensible PHP HTTP client
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 23,443 |
+| Stars | 23,442 |
 | Forks | 2,393 |
 | Stars this month | 20 |
 
@@ -197,7 +197,7 @@ A full-stack framework for Laravel that takes the pain out of building dynamic U
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 23,594 |
+| Stars | 23,596 |
 | Forks | 1,766 |
 | Stars this month | 34 |
 
@@ -210,9 +210,9 @@ Own the flow: one open-source AI platform for your knowledge, models and channel
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,051 |
-| Forks | 125 |
-| Stars this month | 1,154 |
+| Stars | 1,128 |
+| Forks | 126 |
+| Stars this month | 1,219 |
 
 ---
 
@@ -224,8 +224,8 @@ A source-available invoice, quote, project and time-tracking app built with Lara
 |--------|-------|
 | Language | PHP |
 | Stars | 10,613 |
-| Forks | 2,817 |
-| Stars this month | 320 |
+| Forks | 2,818 |
+| Stars this month | 319 |
 
 ---
 
@@ -236,8 +236,8 @@ SuiteCRM - Open source CRM for the world
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,871 |
-| Forks | 2,446 |
+| Stars | 5,874 |
+| Forks | 2,445 |
 | Stars this month | 77 |
 
 ---
@@ -251,7 +251,7 @@ The PHP Unit Testing framework.
 | Language | PHP |
 | Stars | 20,078 |
 | Forks | 2,213 |
-| Stars this month | 31 |
+| Stars this month | 29 |
 
 ---
 
@@ -262,8 +262,8 @@ A web interface for MySQL and MariaDB
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 7,976 |
-| Forks | 3,624 |
-| Stars this month | 37 |
+| Stars | 7,977 |
+| Forks | 3,625 |
+| Stars this month | 35 |
 
 ---

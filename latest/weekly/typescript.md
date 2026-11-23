@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-22T06:39:05Z
-**Total Repositories:** 17
-**New Entries:** 0
+**Snapshot Time:** 2026-11-23T07:27:49Z
+**Total Repositories:** 18
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,221 |
-| Forks | 1,414 |
-| Stars this week | 3,396 |
+| Stars | 14,515 |
+| Forks | 1,434 |
+| Stars this week | 2,815 |
 
 ---
 
@@ -28,9 +28,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,571 |
-| Forks | 1,450 |
-| Stars this week | 2,431 |
+| Stars | 12,042 |
+| Forks | 1,493 |
+| Stars this week | 2,683 |
 
 ---
 
@@ -41,9 +41,9 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 9,961 |
-| Forks | 798 |
-| Stars this week | 4,400 |
+| Stars | 10,301 |
+| Forks | 813 |
+| Stars this week | 3,575 |
 
 ---
 
@@ -54,9 +54,9 @@ Chrome DevTools for coding agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 58,724 |
-| Forks | 4,906 |
-| Stars this week | 2,795 |
+| Stars | 58,906 |
+| Forks | 4,920 |
+| Stars this week | 2,268 |
 
 ---
 
@@ -67,9 +67,9 @@ AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 21,060 |
-| Forks | 2,149 |
-| Stars this week | 3,792 |
+| Stars | 21,255 |
+| Forks | 2,160 |
+| Stars this week | 3,620 |
 
 ---
 
@@ -80,9 +80,9 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,918 |
-| Forks | 2,505 |
-| Stars this week | 3,967 |
+| Stars | 32,331 |
+| Forks | 2,540 |
+| Stars this week | 3,626 |
 
 ---
 
@@ -93,9 +93,9 @@ Build your own AI office with Univer Office SDK. Bring editing, calculation, col
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,131 |
-| Forks | 2,838 |
-| Stars this week | 7,240 |
+| Stars | 31,338 |
+| Forks | 2,845 |
+| Stars this week | 6,436 |
 
 ---
 
@@ -106,9 +106,9 @@ Open-source generative UI framework: agents stream layout data, and apps render 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 17,870 |
-| Forks | 1,437 |
-| Stars this week | 383 |
+| Stars | 18,192 |
+| Forks | 1,463 |
+| Stars this week | 640 |
 
 ---
 
@@ -119,112 +119,125 @@ An open-source AI coding agent that lives in your terminal.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,851 |
-| Forks | 3,577 |
-| Stars this week | 667 |
+| Stars | 30,881 |
+| Forks | 3,581 |
+| Stars this week | 385 |
 
 ---
 
-## 10. [openai/codex-security](https://github.com/openai/codex-security)
+## 10. [ardia-browser/ardia](https://github.com/ardia-browser/ardia) 🆕
+
+A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 2,858 |
+| Forks | 378 |
+| Stars this week | 519 |
+
+---
+
+## 11. [openai/codex-security](https://github.com/openai/codex-security)
 
 OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,260 |
-| Forks | 1,127 |
-| Stars this week | 774 |
+| Stars | 14,287 |
+| Forks | 1,132 |
+| Stars this week | 694 |
 
 ---
 
-## 11. [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
+## 12. [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
 
 Email for professionals and teams
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,426 |
-| Forks | 1,303 |
-| Stars this week | 1,236 |
+| Stars | 7,470 |
+| Forks | 1,321 |
+| Stars this week | 1,082 |
 
 ---
 
-## 12. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
+## 13. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)
 
 Open-source Grok Bot alternative with a virtual machine that bots can use
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,598 |
-| Forks | 3,792 |
-| Stars this week | 3,909 |
+| Stars | 26,955 |
+| Forks | 3,846 |
+| Stars this week | 3,728 |
 
 ---
 
-## 13. [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)
+## 14. [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams)
 
 AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,297 |
-| Forks | 959 |
-| Stars this week | 135 |
+| Stars | 3,306 |
+| Forks | 962 |
+| Stars this week | 107 |
 
 ---
 
-## 14. [lobehub/lobehub](https://github.com/lobehub/lobehub)
+## 15. [lobehub/lobehub](https://github.com/lobehub/lobehub)
 
 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 85,963 |
-| Forks | 16,341 |
-| Stars this week | 489 |
+| Stars | 86,021 |
+| Forks | 16,352 |
+| Stars this week | 498 |
 
 ---
 
-## 15. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+## 16. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
 
 The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,151 |
-| Forks | 1,646 |
-| Stars this week | 922 |
+| Stars | 13,239 |
+| Forks | 1,654 |
+| Stars this week | 844 |
 
 ---
 
-## 16. [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+## 17. [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
 
 A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,022 |
-| Forks | 2,334 |
-| Stars this week | 150 |
+| Stars | 29,049 |
+| Forks | 2,348 |
+| Stars this week | 161 |
 
 ---
 
-## 17. [tobi/qmd](https://github.com/tobi/qmd)
+## 18. [tobi/qmd](https://github.com/tobi/qmd)
 
 mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,328 |
-| Forks | 1,976 |
-| Stars this week | 206 |
+| Stars | 31,360 |
+| Forks | 1,978 |
+| Stars this week | 203 |
 
 ---

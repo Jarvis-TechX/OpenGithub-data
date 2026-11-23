@@ -1,7 +1,7 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-22T06:39:09Z
+**Snapshot Time:** 2026-11-23T07:27:53Z
 **Total Repositories:** 14
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 55,179 |
-| Forks | 4,574 |
-| Stars this week | 4,032 |
+| Stars | 55,508 |
+| Forks | 4,612 |
+| Stars this week | 3,700 |
 
 ---
 
@@ -28,9 +28,9 @@ Modern Docker Management, Designed for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,267 |
-| Forks | 578 |
-| Stars this week | 1,916 |
+| Stars | 10,317 |
+| Forks | 585 |
+| Stars this week | 1,933 |
 
 ---
 
@@ -41,9 +41,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,106 |
-| Forks | 891 |
-| Stars this week | 1,457 |
+| Stars | 8,183 |
+| Forks | 903 |
+| Stars this week | 1,381 |
 
 ---
 
@@ -54,9 +54,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,272 |
-| Forks | 385 |
-| Stars this week | 147 |
+| Stars | 3,294 |
+| Forks | 387 |
+| Stars this week | 141 |
 
 ---
 
@@ -67,9 +67,9 @@ Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,557 |
-| Forks | 773 |
-| Stars this week | 4,716 |
+| Stars | 5,769 |
+| Forks | 806 |
+| Stars this week | 4,316 |
 
 ---
 
@@ -80,9 +80,9 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,778 |
-| Forks | 1,712 |
-| Stars this week | 475 |
+| Stars | 17,814 |
+| Forks | 1,720 |
+| Stars this week | 487 |
 
 ---
 
@@ -93,9 +93,9 @@ why use many token when few token do trick. Skill + local proxy for coding agent
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 122,023 |
-| Forks | 7,117 |
-| Stars this week | 2,166 |
+| Stars | 122,229 |
+| Forks | 7,133 |
+| Stars this week | 1,881 |
 
 ---
 
@@ -106,9 +106,9 @@ Cloud Native Agentic AI | Discord:https://bit.ly/kagentdiscord
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,485 |
+| Stars | 4,492 |
 | Forks | 937 |
-| Stars this week | 183 |
+| Stars this week | 135 |
 
 ---
 
@@ -119,9 +119,9 @@ The painless way to host your own Git service
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,979 |
-| Forks | 5,080 |
-| Stars this week | 45 |
+| Stars | 47,988 |
+| Forks | 5,079 |
+| Stars this week | 60 |
 
 ---
 
@@ -132,9 +132,9 @@ GitHub’s official command line tool
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,133 |
-| Forks | 9,436 |
-| Stars this week | 153 |
+| Stars | 47,159 |
+| Forks | 9,439 |
+| Stars this week | 158 |
 
 ---
 
@@ -145,9 +145,9 @@ BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fu
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,448 |
+| Stars | 16,454 |
 | Forks | 1,834 |
-| Stars this week | 159 |
+| Stars this week | 110 |
 
 ---
 
@@ -158,9 +158,9 @@ Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pip
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,968 |
-| Forks | 1,118 |
-| Stars this week | 81 |
+| Stars | 11,971 |
+| Forks | 1,122 |
+| Stars this week | 72 |
 
 ---
 
@@ -171,9 +171,9 @@ Define and run multi-container applications with Docker
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,058 |
-| Forks | 6,052 |
-| Stars this week | 676 |
+| Stars | 39,129 |
+| Forks | 6,053 |
+| Stars this week | 752 |
 
 ---
 
@@ -184,8 +184,8 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,604 |
-| Forks | 919 |
-| Stars this week | 275 |
+| Stars | 39,636 |
+| Forks | 922 |
+| Stars this week | 259 |
 
 ---

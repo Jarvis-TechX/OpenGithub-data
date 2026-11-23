@@ -1,7 +1,7 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-22T06:39:21Z
+**Snapshot Time:** 2026-11-23T07:28:08Z
 **Total Repositories:** 13
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 76,780 |
-| Forks | 5,176 |
-| Stars this month | 41,810 |
+| Stars | 77,220 |
+| Forks | 5,203 |
+| Stars this month | 39,307 |
 
 ---
 
@@ -28,9 +28,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 119,818 |
-| Forks | 8,027 |
-| Stars this month | 19,755 |
+| Stars | 120,300 |
+| Forks | 8,061 |
+| Stars this month | 19,542 |
 
 ---
 
@@ -41,9 +41,9 @@ For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,308 |
+| Stars | 2,326 |
 | Forks | 151 |
-| Stars this month | 1,429 |
+| Stars this month | 1,400 |
 
 ---
 
@@ -54,9 +54,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 23,179 |
-| Forks | 3,103 |
-| Stars this month | 8,844 |
+| Stars | 23,346 |
+| Forks | 3,130 |
+| Stars this month | 8,565 |
 
 ---
 
@@ -67,9 +67,9 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 23,984 |
-| Forks | 1,360 |
-| Stars this month | 5,563 |
+| Stars | 24,078 |
+| Forks | 1,370 |
+| Stars this month | 5,361 |
 
 ---
 
@@ -80,9 +80,9 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 61,920 |
-| Forks | 9,040 |
-| Stars this month | 6,244 |
+| Stars | 62,113 |
+| Forks | 9,073 |
+| Stars this month | 6,240 |
 
 ---
 
@@ -93,9 +93,9 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 15,623 |
-| Forks | 1,768 |
-| Stars this month | 2,596 |
+| Stars | 15,674 |
+| Forks | 1,775 |
+| Stars this month | 2,561 |
 
 ---
 
@@ -106,9 +106,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 119,108 |
-| Forks | 36,994 |
-| Stars this month | 2,478 |
+| Stars | 119,189 |
+| Forks | 37,004 |
+| Stars this month | 2,501 |
 
 ---
 
@@ -119,9 +119,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 40,869 |
-| Forks | 2,941 |
-| Stars this month | 14,363 |
+| Stars | 40,999 |
+| Forks | 2,945 |
+| Stars this month | 14,228 |
 
 ---
 
@@ -132,9 +132,9 @@ jQuery JavaScript Library
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,136 |
-| Forks | 20,641 |
-| Stars this month | 724 |
+| Stars | 60,211 |
+| Forks | 20,644 |
+| Stars this month | 844 |
 
 ---
 
@@ -145,9 +145,9 @@ Community-contributed instructions, agents, skills, and configurations to help y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 41,433 |
-| Forks | 5,403 |
-| Stars this month | 1,311 |
+| Stars | 41,455 |
+| Forks | 5,412 |
+| Stars this month | 1,296 |
 
 ---
 
@@ -158,9 +158,9 @@ Vercel's official collection of agent skills
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,681 |
-| Forks | 3,021 |
-| Stars this month | 2,010 |
+| Stars | 34,768 |
+| Forks | 3,029 |
+| Stars this month | 2,021 |
 
 ---
 
@@ -171,8 +171,8 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 119,628 |
-| Forks | 12,437 |
-| Stars this month | 10,774 |
+| Stars | 119,850 |
+| Forks | 12,456 |
+| Stars this month | 10,628 |
 
 ---

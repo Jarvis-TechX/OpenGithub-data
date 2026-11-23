@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-22T06:39:15Z
-**Total Repositories:** 13
-**New Entries:** 0
-**Quality Score:** 96.92/100
+**Snapshot Time:** 2026-11-23T07:28:01Z
+**Total Repositories:** 14
+**New Entries:** 1
+**Quality Score:** 97.14/100
 
 ---
 
@@ -15,9 +15,9 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,321 |
+| Stars | 6,335 |
 | Forks | 506 |
-| Stars this week | 143 |
+| Stars this week | 126 |
 
 ---
 
@@ -28,9 +28,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 12,899 |
-| Forks | 570 |
-| Stars this week | 1,131 |
+| Stars | 12,989 |
+| Forks | 575 |
+| Stars this week | 1,211 |
 
 ---
 
@@ -41,115 +41,128 @@ rhythm is just a *click* away!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,503 |
+| Stars | 19,507 |
 | Forks | 2,903 |
-| Stars this week | 105 |
+| Stars this week | 82 |
 
 ---
 
-## 4. [2dust/v2rayN](https://github.com/2dust/v2rayN)
+## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) 🆕
+
+FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,584 |
+| Forks | 255 |
+| Stars this week | 410 |
+
+---
+
+## 5. [2dust/v2rayN](https://github.com/2dust/v2rayN)
 
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,142 |
-| Forks | 16,361 |
-| Stars this week | 601 |
+| Stars | 121,207 |
+| Forks | 16,377 |
+| Stars this week | 590 |
 
 ---
 
-## 5. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
+## 6. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
 
 UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,195 |
+| Stars | 27,209 |
 | Forks | 992 |
-| Stars this week | 170 |
+| Stars this week | 184 |
 
 ---
 
-## 6. [Radarr/Radarr](https://github.com/Radarr/Radarr)
+## 7. [Radarr/Radarr](https://github.com/Radarr/Radarr)
 
 Movie organizer/manager for usenet and torrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,852 |
-| Forks | 1,266 |
-| Stars this week | 84 |
+| Stars | 14,860 |
+| Forks | 1,267 |
+| Stars this week | 74 |
 
 ---
 
-## 7. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+## 8. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
 
 the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,092 |
-| Forks | 1,393 |
-| Stars this week | 110 |
+| Stars | 15,104 |
+| Forks | 1,394 |
+| Stars this week | 101 |
 
 ---
 
-## 8. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
+## 9. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
 
 A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 863 |
-| Forks | 90 |
-| Stars this week | 171 |
+| Stars | 881 |
+| Forks | 92 |
+| Stars this week | 152 |
 
 ---
 
-## 9. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+## 10. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
 A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,357 |
-| Forks | 4,117 |
-| Stars this week | 126 |
+| Stars | 39,368 |
+| Forks | 4,116 |
+| Stars this week | 120 |
 
 ---
 
-## 10. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+## 11. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,887 |
+| Stars | 13,900 |
 | Forks | 1,214 |
-| Stars this week | 68 |
+| Stars this week | 69 |
 
 ---
 
-## 11. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+## 12. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,785 |
+| Stars | 4,790 |
 | Forks | 309 |
-| Stars this week | 74 |
+| Stars this week | 64 |
 
 ---
 
-## 12. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 13. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -157,20 +170,20 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 |--------|-------|
 | Language | C# |
 | Stars | 38,541 |
-| Forks | 11,554 |
+| Forks | 11,556 |
 | Stars this week | 39 |
 
 ---
 
-## 13. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 14. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
 PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,276 |
-| Forks | 8,554 |
-| Stars this week | 126 |
+| Stars | 56,277 |
+| Forks | 8,555 |
+| Stars this week | 117 |
 
 ---

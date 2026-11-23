@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-22T06:39:00Z
-**Total Repositories:** 15
-**New Entries:** 0
+**Snapshot Time:** 2026-11-23T07:27:41Z
+**Total Repositories:** 16
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 12,899 |
-| Forks | 570 |
-| Stars today | 49 |
+| Stars | 12,989 |
+| Forks | 575 |
+| Stars today | 118 |
 
 ---
 
@@ -28,9 +28,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,438 |
-| Forks | 1,695 |
-| Stars today | 61 |
+| Stars | 22,486 |
+| Forks | 1,700 |
+| Stars today | 57 |
 
 ---
 
@@ -42,77 +42,90 @@ Advanced UX and interoperability extension for Wand (WeMod) app
 |--------|-------|
 | Language | C# |
 | Stars | 33,621 |
-| Forks | 814 |
-| Stars today | 24 |
+| Forks | 929 |
+| Stars today | 31 |
 
 ---
 
-## 4. [2dust/v2rayN](https://github.com/2dust/v2rayN)
+## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) 🆕
+
+FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
+
+| Metric | Value |
+|--------|-------|
+| Language | C# |
+| Stars | 7,584 |
+| Forks | 255 |
+| Stars today | 62 |
+
+---
+
+## 5. [2dust/v2rayN](https://github.com/2dust/v2rayN)
 
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,142 |
-| Forks | 16,361 |
-| Stars today | 82 |
+| Stars | 121,207 |
+| Forks | 16,377 |
+| Stars today | 71 |
 
 ---
 
-## 5. [dlsandy/Transub-Player](https://github.com/dlsandy/Transub-Player)
+## 6. [dlsandy/Transub-Player](https://github.com/dlsandy/Transub-Player)
 
 Open a video. Subtitles follow. Windows player with live dual-language subtitles.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,266 |
-| Forks | 102 |
-| Stars today | 21 |
+| Stars | 1,288 |
+| Forks | 107 |
+| Stars today | 29 |
 
 ---
 
-## 6. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
+## 7. [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
 
 Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 16,109 |
-| Forks | 1,644 |
-| Stars today | 17 |
+| Stars | 16,130 |
+| Forks | 1,647 |
+| Stars today | 19 |
 
 ---
 
-## 7. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+## 8. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
 
 the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,092 |
-| Forks | 1,393 |
-| Stars today | 14 |
+| Stars | 15,104 |
+| Forks | 1,394 |
+| Stars today | 9 |
 
 ---
 
-## 8. [Cysharp/UniTask](https://github.com/Cysharp/UniTask)
+## 9. [Cysharp/UniTask](https://github.com/Cysharp/UniTask)
 
 Provides an efficient allocation free async/await integration for Unity.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,316 |
+| Stars | 11,318 |
 | Forks | 1,017 |
-| Stars today | 1 |
+| Stars today | 2 |
 
 ---
 
-## 9. [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader)
+## 10. [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader)
 
 Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 
@@ -121,84 +134,84 @@ Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 | Language | C# |
 | Stars | 4,132 |
 | Forks | 371 |
-| Stars today | 10 |
+| Stars today | 3 |
 
 ---
 
-## 10. [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)
+## 11. [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)
 
 ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,574 |
+| Stars | 10,576 |
 | Forks | 719 |
-| Stars today | 2 |
+| Stars today | 4 |
 
 ---
 
-## 11. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+## 12. [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 
 OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 33,518 |
-| Forks | 2,292 |
-| Stars today | 30 |
+| Stars | 33,528 |
+| Forks | 2,295 |
+| Stars today | 22 |
 
 ---
 
-## 12. [bitwarden/server](https://github.com/bitwarden/server)
+## 13. [bitwarden/server](https://github.com/bitwarden/server)
 
 Bitwarden infrastructure/backend (API, database, Docker, etc).
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,700 |
+| Stars | 20,707 |
 | Forks | 1,848 |
-| Stars today | 8 |
+| Stars today | 11 |
 
 ---
 
-## 13. [greenshot/greenshot](https://github.com/greenshot/greenshot)
+## 14. [greenshot/greenshot](https://github.com/greenshot/greenshot)
 
 Greenshot for Windows - for more information look here:
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,281 |
+| Stars | 5,283 |
 | Forks | 723 |
-| Stars today | 1 |
+| Stars today | 3 |
 
 ---
 
-## 14. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
+## 15. [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic)
 
 Download web video and audio
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,772 |
+| Stars | 7,786 |
 | Forks | 382 |
-| Stars today | 11 |
+| Stars today | 16 |
 
 ---
 
-## 15. [STranslate/STranslate](https://github.com/STranslate/STranslate)
+## 16. [STranslate/STranslate](https://github.com/STranslate/STranslate)
 
 A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,684 |
-| Forks | 466 |
-| Stars today | 9 |
+| Stars | 8,698 |
+| Forks | 470 |
+| Stars today | 16 |
 
 ---

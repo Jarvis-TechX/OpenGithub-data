@@ -1,7 +1,7 @@
 # GitHub Trending - Java
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-22T06:38:58Z
+**Snapshot Time:** 2026-11-23T07:27:39Z
 **Total Repositories:** 18
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ JDK main-line developmenthttps://openjdk.org/projects/jdk
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 23,564 |
-| Forks | 6,558 |
-| Stars today | 7 |
+| Stars | 23,566 |
+| Forks | 6,557 |
+| Stars today | 6 |
 
 ---
 
@@ -28,9 +28,9 @@ Open Source Identity and Access Management For Modern Applications and Services
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 37,993 |
-| Forks | 9,234 |
-| Stars today | 15 |
+| Stars | 38,005 |
+| Forks | 9,235 |
+| Stars today | 11 |
 
 ---
 
@@ -41,9 +41,9 @@ Open Source Identity and Access Management For Modern Applications and Services
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 14,046 |
-| Forks | 3,022 |
-| Stars today | 3 |
+| Stars | 14,052 |
+| Forks | 3,023 |
+| Stars today | 7 |
 
 ---
 
@@ -54,8 +54,8 @@ Free universal database tool and SQL client
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 52,507 |
-| Forks | 4,465 |
+| Stars | 52,513 |
+| Forks | 4,467 |
 | Stars today | 7 |
 
 ---
@@ -67,9 +67,9 @@ Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 10,700 |
-| Forks | 1,535 |
-| Stars today | 4 |
+| Stars | 10,704 |
+| Forks | 1,534 |
+| Stars today | 2 |
 
 ---
 
@@ -80,9 +80,9 @@ Dependency-Track is an intelligent Component Analysis platform that allows organ
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,498 |
-| Forks | 868 |
-| Stars today | 7 |
+| Stars | 4,501 |
+| Forks | 871 |
+| Stars today | 1 |
 
 ---
 
@@ -93,9 +93,9 @@ Disable Player Chat Reporting and make user messages untrackable.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,206 |
-| Forks | 260 |
-| Stars today | 29 |
+| Stars | 1,211 |
+| Forks | 263 |
+| Stars today | 11 |
 
 ---
 
@@ -106,9 +106,9 @@ Dual pane Android file manager with focus on APKs
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 645 |
-| Forks | 91 |
-| Stars today | 8 |
+| Stars | 665 |
+| Forks | 90 |
+| Stars today | 48 |
 
 ---
 
@@ -119,8 +119,9 @@ Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,123 |
-| Forks | 577 |
+| Stars | 2,124 |
+| Forks | 578 |
+| Stars today | 1 |
 
 ---
 
@@ -131,9 +132,9 @@ APM, Application Performance Monitoring System
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 25,018 |
+| Stars | 25,022 |
 | Forks | 6,630 |
-| Stars today | 1 |
+| Stars today | 2 |
 
 ---
 
@@ -145,8 +146,7 @@ Apache Kafka® running on Kubernetes
 |--------|-------|
 | Language | Java |
 | Stars | 5,982 |
-| Forks | 1,574 |
-| Stars today | 1 |
+| Forks | 1,573 |
 
 ---
 
@@ -157,9 +157,9 @@ LangChain4j is an idiomatic, open-source Java library for building LLM-powered a
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 13,432 |
-| Forks | 2,695 |
-| Stars today | 2 |
+| Stars | 13,437 |
+| Forks | 2,698 |
+| Stars today | 6 |
 
 ---
 
@@ -170,9 +170,9 @@ SeaTunnel is a multimodal, high-performance, distributed, massive data integrati
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 9,823 |
+| Stars | 9,826 |
 | Forks | 2,476 |
-| Stars today | 3 |
+| Stars today | 2 |
 
 ---
 
@@ -183,9 +183,9 @@ The world's fastest open query engine for sub-second analytics both on and off t
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 12,278 |
-| Forks | 2,689 |
-| Stars today | 6 |
+| Stars | 12,279 |
+| Forks | 2,691 |
+| Stars today | 1 |
 
 ---
 
@@ -196,9 +196,8 @@ Apache NiFi
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,331 |
+| Stars | 6,332 |
 | Forks | 3,013 |
-| Stars today | 3 |
 
 ---
 
@@ -209,9 +208,9 @@ Orchestrate everything, everywhere. The open-source control plane for workflows 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 30,309 |
-| Forks | 3,548 |
-| Stars today | 13 |
+| Stars | 30,322 |
+| Forks | 3,549 |
+| Stars today | 10 |
 
 ---
 
@@ -222,8 +221,8 @@ Apache Fineract
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 2,639 |
-| Forks | 3,002 |
+| Stars | 2,644 |
+| Forks | 3,008 |
 | Stars today | 2 |
 
 ---
@@ -236,7 +235,6 @@ Apache Solr open-source search software
 |--------|-------|
 | Language | Java |
 | Stars | 1,706 |
-| Forks | 876 |
-| Stars today | 1 |
+| Forks | 877 |
 
 ---
