@@ -1,9 +1,9 @@
 # GitHub Trending - Python
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-23T07:28:06Z
-**Total Repositories:** 16
-**New Entries:** 0
+**Snapshot Time:** 2026-11-24T09:47:54Z
+**Total Repositories:** 17
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 199,148 |
-| Forks | 23,311 |
-| Stars this month | 16,473 |
+| Stars | 199,649 |
+| Forks | 23,364 |
+| Stars this month | 16,727 |
 
 ---
 
@@ -28,9 +28,9 @@ Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook f
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,402 |
-| Forks | 1,527 |
-| Stars this month | 5,773 |
+| Stars | 8,762 |
+| Forks | 1,560 |
+| Stars this month | 6,023 |
 
 ---
 
@@ -41,9 +41,9 @@ DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 61,721 |
-| Forks | 7,440 |
-| Stars this month | 19,718 |
+| Stars | 62,106 |
+| Forks | 7,473 |
+| Stars this month | 19,919 |
 
 ---
 
@@ -54,9 +54,9 @@ Hunt down social media accounts by username across social networks
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 115,989 |
-| Forks | 13,260 |
-| Stars this month | 21,408 |
+| Stars | 116,604 |
+| Forks | 13,308 |
+| Stars this month | 21,780 |
 
 ---
 
@@ -67,22 +67,22 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 31,719 |
-| Forks | 3,904 |
-| Stars this month | 12,006 |
+| Stars | 32,037 |
+| Forks | 3,926 |
+| Stars this month | 12,148 |
 
 ---
 
 ## 6. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 
-A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 18,410 |
-| Forks | 2,020 |
-| Stars this month | 11,667 |
+| Stars | 20,437 |
+| Forks | 2,161 |
+| Stars this month | 13,817 |
 
 ---
 
@@ -93,9 +93,9 @@ Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,900 |
-| Forks | 874 |
-| Stars this month | 7,477 |
+| Stars | 10,437 |
+| Forks | 906 |
+| Stars this month | 8,031 |
 
 ---
 
@@ -106,22 +106,22 @@ Open source repository of plugins primarily intended for knowledge workers to us
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 36,716 |
-| Forks | 4,055 |
-| Stars this month | 5,429 |
+| Stars | 36,760 |
+| Forks | 4,060 |
+| Stars this month | 4,772 |
 
 ---
 
 ## 9. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 
-TradingAgents: Multi-Agents LLM Financial Trading Framework
+TradingAgents: Towards Agentic Finance Research
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 123,531 |
-| Forks | 23,660 |
-| Stars this month | 11,118 |
+| Stars | 123,652 |
+| Forks | 23,682 |
+| Stars this month | 10,724 |
 
 ---
 
@@ -132,9 +132,9 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 27,335 |
-| Forks | 2,430 |
-| Stars this month | 6,431 |
+| Stars | 27,470 |
+| Forks | 2,454 |
+| Stars this month | 6,423 |
 
 ---
 
@@ -145,9 +145,9 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 105,116 |
-| Forks | 10,998 |
-| Stars this month | 16,285 |
+| Stars | 105,410 |
+| Forks | 11,035 |
+| Stars this month | 16,398 |
 
 ---
 
@@ -158,9 +158,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 72,981 |
-| Forks | 6,453 |
-| Stars this month | 7,681 |
+| Stars | 73,734 |
+| Forks | 6,504 |
+| Stars this month | 8,382 |
 
 ---
 
@@ -171,9 +171,9 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 47,366 |
-| Forks | 3,655 |
-| Stars this month | 4,826 |
+| Stars | 47,426 |
+| Forks | 3,665 |
+| Stars this month | 4,689 |
 
 ---
 
@@ -184,9 +184,9 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 16,579 |
-| Forks | 2,241 |
-| Stars this month | 3,079 |
+| Stars | 16,615 |
+| Forks | 2,243 |
+| Stars this month | 3,097 |
 
 ---
 
@@ -197,21 +197,34 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 145,141 |
-| Forks | 23,346 |
-| Stars this month | 11,664 |
+| Stars | 145,342 |
+| Forks | 23,384 |
+| Stars this month | 11,379 |
 
 ---
 
-## 16. [fastapi/fastapi](https://github.com/fastapi/fastapi)
+## 16. [blader/humanizer](https://github.com/blader/humanizer) 🆕
+
+Agent skill that removes signs of AI-generated writing from text
+
+| Metric | Value |
+|--------|-------|
+| Language | Python |
+| Stars | 72,915 |
+| Forks | 5,719 |
+| Stars this month | 13,016 |
+
+---
+
+## 17. [fastapi/fastapi](https://github.com/fastapi/fastapi)
 
 FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 105,056 |
-| Forks | 10,368 |
-| Stars this month | 2,944 |
+| Stars | 104,953 |
+| Forks | 10,360 |
+| Stars this month | 2,471 |
 
 ---

@@ -1,7 +1,7 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-23T07:27:29Z
+**Snapshot Time:** 2026-11-24T09:47:15Z
 **Total Repositories:** 17
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 18,573 |
-| Forks | 2,023 |
-| Stars today | 294 |
+| Stars | 18,955 |
+| Forks | 2,053 |
+| Stars today | 397 |
 
 ---
 
@@ -28,9 +28,9 @@ Knowledge infrastructure to make your agents smarter. Search, scrape and access 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 207,288 |
-| Forks | 10,837 |
-| Stars today | 915 |
+| Stars | 208,312 |
+| Forks | 10,883 |
+| Stars today | 924 |
 
 ---
 
@@ -41,9 +41,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,042 |
-| Forks | 1,493 |
-| Stars today | 494 |
+| Stars | 12,466 |
+| Forks | 1,519 |
+| Stars today | 422 |
 
 ---
 
@@ -54,9 +54,9 @@ There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 76,994 |
-| Forks | 5,645 |
-| Stars today | 542 |
+| Stars | 77,619 |
+| Forks | 5,676 |
+| Stars today | 595 |
 
 ---
 
@@ -67,9 +67,9 @@ Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSLht
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 25,790 |
-| Forks | 826 |
-| Stars today | 53 |
+| Stars | 25,832 |
+| Forks | 828 |
+| Stars today | 50 |
 
 ---
 
@@ -80,9 +80,9 @@ The open-source cloud for agents & devs. Including Auth, Databases, Storage, Fun
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 58,607 |
-| Forks | 5,917 |
-| Stars today | 121 |
+| Stars | 58,554 |
+| Forks | 5,913 |
+| Stars today | 75 |
 
 ---
 
@@ -93,9 +93,9 @@ Mastra is the modern TypeScript framework for AI-powered applications and agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,751 |
-| Forks | 3,132 |
-| Stars today | 18 |
+| Stars | 29,780 |
+| Forks | 3,131 |
+| Stars today | 31 |
 
 ---
 
@@ -106,9 +106,9 @@ AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,510 |
-| Forks | 1,828 |
-| Stars today | 26 |
+| Stars | 3,531 |
+| Forks | 1,838 |
+| Stars today | 27 |
 
 ---
 
@@ -119,9 +119,9 @@ The open alternative to Salesforce, designed for AI.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 61,349 |
-| Forks | 10,153 |
-| Stars today | 43 |
+| Stars | 61,402 |
+| Forks | 10,161 |
+| Stars today | 47 |
 
 ---
 
@@ -132,9 +132,9 @@ Email for professionals and teams
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,470 |
-| Forks | 1,321 |
-| Stars today | 42 |
+| Stars | 7,538 |
+| Forks | 1,339 |
+| Stars today | 40 |
 
 ---
 
@@ -145,9 +145,9 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 78,453 |
-| Forks | 5,223 |
-| Stars today | 101 |
+| Stars | 78,556 |
+| Forks | 5,229 |
+| Stars today | 123 |
 
 ---
 
@@ -158,9 +158,9 @@ WebGL2 powered visualization framework
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,805 |
-| Forks | 2,309 |
-| Stars today | 6 |
+| Stars | 14,812 |
+| Forks | 2,310 |
+| Stars today | 9 |
 
 ---
 
@@ -171,9 +171,9 @@ Spec-driven development (SDD) for AI coding assistants.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 75,502 |
-| Forks | 5,162 |
-| Stars today | 48 |
+| Stars | 75,596 |
+| Forks | 5,168 |
+| Stars today | 96 |
 
 ---
 
@@ -184,9 +184,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 36,925 |
-| Forks | 1,207 |
-| Stars today | 25 |
+| Stars | 36,941 |
+| Forks | 1,205 |
+| Stars today | 19 |
 
 ---
 
@@ -197,9 +197,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 2,502 |
-| Forks | 339 |
-| Stars today | 24 |
+| Stars | 2,592 |
+| Forks | 340 |
+| Stars today | 54 |
 
 ---
 
@@ -210,9 +210,9 @@ The open source coding agent.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 228,680 |
-| Forks | 31,081 |
-| Stars today | 189 |
+| Stars | 228,883 |
+| Forks | 31,125 |
+| Stars today | 263 |
 
 ---
 
@@ -223,8 +223,8 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 123,416 |
-| Forks | 15,927 |
-| Stars today | 159 |
+| Stars | 123,622 |
+| Forks | 15,967 |
+| Stars today | 193 |
 
 ---

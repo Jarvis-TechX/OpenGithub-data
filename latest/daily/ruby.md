@@ -1,7 +1,7 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-23T07:27:30Z
+**Snapshot Time:** 2026-11-24T09:47:17Z
 **Total Repositories:** 19
 **New Entries:** 0
 **Quality Score:** 97.89/100
@@ -15,8 +15,8 @@
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,691 |
-| Forks | 13,978 |
+| Stars | 15,692 |
+| Forks | 13,982 |
 | Stars today | 2 |
 
 ---
@@ -28,9 +28,9 @@ See what sticks
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,197 |
-| Forks | 2,132 |
-| Stars today | 7 |
+| Stars | 10,204 |
+| Forks | 2,134 |
+| Stars today | 5 |
 
 ---
 
@@ -41,9 +41,9 @@ The Ruby Programming Language
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,859 |
-| Forks | 5,697 |
-| Stars today | 6 |
+| Stars | 23,853 |
+| Forks | 5,699 |
+| Stars today | 2 |
 
 ---
 
@@ -54,9 +54,9 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 40,382 |
-| Forks | 9,829 |
-| Stars today | 54 |
+| Stars | 40,463 |
+| Forks | 9,852 |
+| Stars today | 78 |
 
 ---
 
@@ -67,9 +67,9 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,644 |
-| Forks | 3,814 |
-| Stars today | 18 |
+| Stars | 17,676 |
+| Forks | 3,825 |
+| Stars today | 30 |
 
 ---
 
@@ -80,9 +80,9 @@ Open source DocuSign alternative. Create, fill, and sign digital documents ✍�
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 19,128 |
-| Forks | 1,973 |
-| Stars today | 13 |
+| Stars | 19,139 |
+| Forks | 1,970 |
+| Stars today | 12 |
 
 ---
 
@@ -93,8 +93,8 @@ Informative site with EoL dates of everything
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,454 |
-| Forks | 1,364 |
+| Stars | 3,455 |
+| Forks | 1,363 |
 | Stars today | 1 |
 
 ---
@@ -108,7 +108,7 @@ Zammad is a web based open source helpdesk/customer support system.
 | Language | Ruby |
 | Stars | 6,138 |
 | Forks | 1,110 |
-| Stars today | 1 |
+| Stars today | 4 |
 
 ---
 
@@ -120,8 +120,8 @@ For empowering community 🌱
 |--------|-------|
 | Language | Ruby |
 | Stars | 22,845 |
-| Forks | 4,273 |
-| Stars today | 1 |
+| Forks | 4,272 |
+| Stars today | 2 |
 
 ---
 
@@ -133,8 +133,8 @@ For empowering community 🌱
 |--------|-------|
 | Language | Ruby |
 | Stars | 22,318 |
-| Forks | 12,143 |
-| Stars today | 2 |
+| Forks | 12,152 |
+| Stars today | 5 |
 
 ---
 
@@ -145,8 +145,8 @@ Library packaging and distribution for Ruby.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,995 |
-| Forks | 1,970 |
+| Stars | 3,994 |
+| Forks | 1,973 |
 
 ---
 
@@ -157,8 +157,8 @@ Community-curated topic and collection pages on GitHub
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,972 |
-| Forks | 14,748 |
+| Stars | 4,969 |
+| Forks | 14,752 |
 | Stars today | 1 |
 
 ---
@@ -170,9 +170,9 @@ Create agents that monitor and act on your behalf. Your agents are standing by!
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,610 |
+| Stars | 50,619 |
 | Forks | 4,362 |
-| Stars today | 6 |
+| Stars today | 13 |
 
 ---
 
@@ -183,8 +183,9 @@ The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Proje
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,446 |
+| Stars | 2,449 |
 | Forks | 910 |
+| Stars today | 2 |
 
 ---
 
@@ -195,8 +196,9 @@ Official repository for Citation Style Language (CSL) citation styles.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,939 |
-| Forks | 4,196 |
+| Stars | 3,940 |
+| Forks | 4,197 |
+| Stars today | 1 |
 
 ---
 
@@ -206,8 +208,8 @@ Official repository for Citation Style Language (CSL) citation styles.
 |--------|-------|
 | Language | Ruby |
 | Stars | 598 |
-| Forks | 109 |
-| Stars today | 3 |
+| Forks | 110 |
+| Stars today | 1 |
 
 ---
 
@@ -219,7 +221,7 @@ A Ruby/Rack web server built for parallelism
 |--------|-------|
 | Language | Ruby |
 | Stars | 7,930 |
-| Forks | 1,525 |
+| Forks | 1,526 |
 | Stars today | 1 |
 
 ---
@@ -231,9 +233,9 @@ A Ruby/Rack web server built for parallelism
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 5,862 |
-| Forks | 1,609 |
-| Stars today | 1 |
+| Stars | 5,867 |
+| Forks | 1,610 |
+| Stars today | 4 |
 
 ---
 
@@ -244,7 +246,7 @@ The Rails application that powers OpenStreetMap
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,898 |
+| Stars | 2,899 |
 | Forks | 1,114 |
 | Stars today | 1 |
 

@@ -1,9 +1,9 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-23T07:27:43Z
-**Total Repositories:** 13
-**New Entries:** 1
+**Snapshot Time:** 2026-11-24T09:47:30Z
+**Total Repositories:** 12
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,7 +15,7 @@ An ultra-light MacOS utility that helps hide menu bar icons
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,567 |
+| Stars | 15,584 |
 | Forks | 551 |
 | Stars today | 23 |
 
@@ -28,9 +28,9 @@ A small, fast WebKit browser for macOS, by Office Commun.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,846 |
-| Forks | 396 |
-| Stars today | 129 |
+| Stars | 3,966 |
+| Forks | 418 |
+| Stars today | 117 |
 
 ---
 
@@ -41,9 +41,9 @@ iOS 27+ 本机虚拟定位与步行路线测试工具
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,165 |
-| Forks | 157 |
-| Stars today | 12 |
+| Stars | 1,180 |
+| Forks | 160 |
+| Stars today | 15 |
 
 ---
 
@@ -54,22 +54,22 @@ Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth d
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,263 |
+| Stars | 14,266 |
 | Forks | 719 |
 | Stars today | 13 |
 
 ---
 
-## 5. [Saffsanity/sill](https://github.com/Saffsanity/sill) 🆕
+## 5. [Saffsanity/sill](https://github.com/Saffsanity/sill)
 
 Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,053 |
-| Forks | 319 |
-| Stars today | 11 |
+| Stars | 5,084 |
+| Forks | 323 |
+| Stars today | 38 |
 
 ---
 
@@ -80,9 +80,9 @@ Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 119,168 |
-| Forks | 10,522 |
-| Stars today | 94 |
+| Stars | 119,236 |
+| Forks | 10,565 |
+| Stars today | 77 |
 
 ---
 
@@ -93,9 +93,9 @@ A Gecko-based web browser for iOS 13+.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,005 |
+| Stars | 2,013 |
 | Forks | 179 |
-| Stars today | 10 |
+| Stars today | 9 |
 
 ---
 
@@ -106,73 +106,60 @@ Virtual machines for iOS and macOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 37,011 |
+| Stars | 37,025 |
 | Forks | 1,924 |
-| Stars today | 10 |
+| Stars today | 19 |
 
 ---
 
-## 9. [jipika/WaifuX](https://github.com/jipika/WaifuX)
-
-macos (mac) Wallhaven · MotionBG · Anime | 壁纸 · 动态壁纸 · 番剧
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 1,692 |
-| Forks | 69 |
-| Stars today | 2 |
-
----
-
-## 10. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+## 9. [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
 
 An an app that installs Sidestore on iOS 27, fully on-device
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,558 |
-| Forks | 131 |
-| Stars today | 22 |
+| Stars | 1,572 |
+| Forks | 132 |
+| Stars today | 16 |
 
 ---
 
-## 11. [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
+## 10. [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
 
 Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,289 |
-| Forks | 296 |
-| Stars today | 9 |
+| Stars | 4,314 |
+| Forks | 298 |
+| Stars today | 21 |
 
 ---
 
-## 12. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
+## 11. [jithin-sabu/purge-app](https://github.com/jithin-sabu/purge-app)
 
 Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,000 |
+| Stars | 2,015 |
 | Forks | 109 |
-| Stars today | 4 |
+| Stars today | 8 |
 
 ---
 
-## 13. [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball)
+## 12. [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball)
 
 Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works.
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,324 |
+| Stars | 2,336 |
 | Forks | 106 |
-| Stars today | 6 |
+| Stars today | 12 |
 
 ---

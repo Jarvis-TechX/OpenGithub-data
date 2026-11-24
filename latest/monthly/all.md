@@ -1,9 +1,9 @@
 # GitHub Trending - All
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-23T07:28:04Z
-**Total Repositories:** 17
-**New Entries:** 0
+**Snapshot Time:** 2026-11-24T09:47:52Z
+**Total Repositories:** 18
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 | Metric | Value |
 |--------|-------|
 | Language | CSS |
-| Stars | 59,687 |
-| Forks | 3,266 |
-| Stars this month | 29,000 |
+| Stars | 60,283 |
+| Forks | 3,296 |
+| Stars this month | 29,144 |
 
 ---
 
@@ -28,9 +28,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 77,220 |
-| Forks | 5,203 |
-| Stars this month | 39,307 |
+| Stars | 77,691 |
+| Forks | 5,239 |
+| Stars this month | 36,869 |
 
 ---
 
@@ -41,9 +41,9 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 26,955 |
-| Forks | 3,846 |
-| Stars this month | 21,485 |
+| Stars | 27,333 |
+| Forks | 3,894 |
+| Stars this month | 21,809 |
 
 ---
 
@@ -54,9 +54,9 @@ The best way to control Claude Code, Codex and more from any computer or phone
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 72,724 |
-| Forks | 12,208 |
-| Stars this month | 41,514 |
+| Stars | 76,131 |
+| Forks | 12,552 |
+| Stars this month | 44,453 |
 
 ---
 
@@ -67,9 +67,9 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 199,148 |
-| Forks | 23,311 |
-| Stars this month | 16,473 |
+| Stars | 199,649 |
+| Forks | 23,364 |
+| Stars this month | 16,727 |
 
 ---
 
@@ -80,9 +80,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 119,148 |
-| Forks | 10,353 |
-| Stars this month | 17,416 |
+| Stars | 119,415 |
+| Forks | 10,377 |
+| Stars this month | 17,492 |
 
 ---
 
@@ -93,9 +93,9 @@ Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook f
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,402 |
-| Forks | 1,527 |
-| Stars this month | 5,773 |
+| Stars | 8,762 |
+| Forks | 1,560 |
+| Stars this month | 6,023 |
 
 ---
 
@@ -106,9 +106,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,515 |
-| Forks | 1,434 |
-| Stars this month | 4,793 |
+| Stars | 14,779 |
+| Forks | 1,430 |
+| Stars this month | 5,093 |
 
 ---
 
@@ -119,112 +119,125 @@ DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 61,721 |
-| Forks | 7,440 |
-| Stars this month | 19,718 |
+| Stars | 62,106 |
+| Forks | 7,473 |
+| Stars this month | 19,919 |
 
 ---
 
-## 10. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+## 10. [yetone/magpie](https://github.com/yetone/magpie) 🆕
+
+Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 40,813 |
+| Forks | 3,734 |
+| Stars this month | 20,747 |
+
+---
+
+## 11. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 115,211 |
-| Forks | 6,868 |
-| Stars this month | 30,634 |
+| Stars | 115,885 |
+| Forks | 6,903 |
+| Stars this month | 30,675 |
 
 ---
 
-## 11. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+## 12. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
 Hunt down social media accounts by username across social networks
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 115,989 |
-| Forks | 13,260 |
-| Stars this month | 21,408 |
+| Stars | 116,604 |
+| Forks | 13,308 |
+| Stars this month | 21,780 |
 
 ---
 
-## 12. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
+## 13. [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
 
 Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 31,719 |
-| Forks | 3,904 |
-| Stars this month | 12,006 |
+| Stars | 32,037 |
+| Forks | 3,926 |
+| Stars this month | 12,148 |
 
 ---
 
-## 13. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
+## 14. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
 
 A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,042 |
-| Forks | 1,493 |
-| Stars this month | 3,189 |
+| Stars | 12,466 |
+| Forks | 1,519 |
+| Stars this month | 3,630 |
 
 ---
 
-## 14. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+## 15. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
 Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 88,477 |
-| Forks | 8,236 |
-| Stars this month | 18,847 |
+| Stars | 89,207 |
+| Forks | 8,317 |
+| Stars this month | 18,679 |
 
 ---
 
-## 15. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+## 16. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 
-A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 18,410 |
-| Forks | 2,020 |
-| Stars this month | 11,667 |
+| Stars | 20,437 |
+| Forks | 2,161 |
+| Stars this month | 13,817 |
 
 ---
 
-## 16. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+## 17. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
 Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,900 |
-| Forks | 874 |
-| Stars this month | 7,477 |
+| Stars | 10,437 |
+| Forks | 906 |
+| Stars this month | 8,031 |
 
 ---
 
-## 17. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+## 18. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 
 Browser automation CLI for AI agents
 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 53,484 |
-| Forks | 3,745 |
-| Stars this month | 9,083 |
+| Stars | 53,693 |
+| Forks | 3,767 |
+| Stars this month | 9,273 |
 
 ---

@@ -1,7 +1,7 @@
 # GitHub Trending - Ruby
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-23T07:27:50Z
+**Snapshot Time:** 2026-11-24T09:47:37Z
 **Total Repositories:** 14
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,406 |
-| Forks | 1,532 |
-| Stars this week | 1,771 |
+| Stars | 17,671 |
+| Forks | 1,538 |
+| Stars this week | 1,612 |
 
 ---
 
@@ -29,8 +29,8 @@ A Ruby/Rack web server built for parallelism
 |--------|-------|
 | Language | Ruby |
 | Stars | 7,930 |
-| Forks | 1,525 |
-| Stars this week | 3 |
+| Forks | 1,526 |
+| Stars this week | 5 |
 
 ---
 
@@ -41,9 +41,9 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 40,382 |
-| Forks | 9,829 |
-| Stars this week | 450 |
+| Stars | 40,463 |
+| Forks | 9,852 |
+| Stars this week | 458 |
 
 ---
 
@@ -54,9 +54,9 @@ The Ruby Programming Language
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,859 |
-| Forks | 5,697 |
-| Stars this week | 53 |
+| Stars | 23,853 |
+| Forks | 5,699 |
+| Stars this week | 52 |
 
 ---
 
@@ -67,9 +67,9 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,644 |
-| Forks | 3,814 |
-| Stars this week | 242 |
+| Stars | 17,676 |
+| Forks | 3,825 |
+| Stars this week | 228 |
 
 ---
 
@@ -80,9 +80,9 @@ The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Proje
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,446 |
+| Stars | 2,449 |
 | Forks | 910 |
-| Stars this week | 36 |
+| Stars this week | 29 |
 
 ---
 
@@ -93,9 +93,9 @@ Your self-hosted, globally interconnected microblogging community
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,708 |
-| Forks | 7,570 |
-| Stars this week | 467 |
+| Stars | 50,606 |
+| Forks | 7,561 |
+| Stars this week | 454 |
 
 ---
 
@@ -106,9 +106,9 @@ API Documentation Browser
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,658 |
-| Forks | 2,657 |
-| Stars this week | 25 |
+| Stars | 39,657 |
+| Forks | 2,656 |
+| Stars this week | 22 |
 
 ---
 
@@ -120,8 +120,8 @@ For empowering community 🌱
 |--------|-------|
 | Language | Ruby |
 | Stars | 22,845 |
-| Forks | 4,273 |
-| Stars this week | 24 |
+| Forks | 4,272 |
+| Stars this week | 17 |
 
 ---
 
@@ -132,8 +132,8 @@ For empowering community 🌱
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 51,792 |
-| Forks | 10,306 |
+| Stars | 51,796 |
+| Forks | 10,304 |
 | Stars this week | 20 |
 
 ---
@@ -146,8 +146,8 @@ For empowering community 🌱
 |--------|-------|
 | Language | Ruby |
 | Stars | 22,318 |
-| Forks | 12,143 |
-| Stars this week | 15 |
+| Forks | 12,152 |
+| Stars this week | 18 |
 
 ---
 
@@ -158,9 +158,9 @@ Metasploit Framework
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,646 |
-| Forks | 15,059 |
-| Stars this week | 73 |
+| Stars | 39,653 |
+| Forks | 15,058 |
+| Stars this week | 71 |
 
 ---
 
@@ -171,8 +171,8 @@ Metasploit Framework
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,691 |
-| Forks | 13,978 |
+| Stars | 15,692 |
+| Forks | 13,982 |
 | Stars this week | 23 |
 
 ---
@@ -184,8 +184,8 @@ Language Savant. If your repository's language is being reported incorrectly, se
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 13,802 |
-| Forks | 5,534 |
-| Stars this week | 18 |
+| Stars | 13,804 |
+| Forks | 5,533 |
+| Stars this week | 13 |
 
 ---
