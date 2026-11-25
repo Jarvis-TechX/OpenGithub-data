@@ -1,9 +1,9 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-24T09:47:49Z
+**Snapshot Time:** 2026-11-25T08:23:10Z
 **Total Repositories:** 15
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 97.33/100
 
 ---
@@ -15,9 +15,9 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,346 |
-| Forks | 508 |
-| Stars this week | 103 |
+| Stars | 6,357 |
+| Forks | 510 |
+| Stars this week | 94 |
 
 ---
 
@@ -28,22 +28,22 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,054 |
-| Forks | 575 |
-| Stars this week | 1,183 |
+| Stars | 13,090 |
+| Forks | 578 |
+| Stars this week | 719 |
 
 ---
 
-## 3. [dulaiduwang003/Pavise-Game](https://github.com/dulaiduwang003/Pavise-Game) 🆕
+## 3. [dulaiduwang003/Pavise-Game](https://github.com/dulaiduwang003/Pavise-Game)
 
 Open-source Windows game resource manager. Suppresses background processes, gives games exclusive CPU cores, steers device interrupts off game cores, applies per-game GPU driver, memory and power policies, and restores every change after play. No injection, no telemetry. GPL-3.0.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,560 |
-| Forks | 110 |
-| Stars this week | 442 |
+| Stars | 2,595 |
+| Forks | 111 |
+| Stars this week | 388 |
 
 ---
 
@@ -54,9 +54,9 @@ rhythm is just a *click* away!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,513 |
-| Forks | 2,897 |
-| Stars this week | 64 |
+| Stars | 19,522 |
+| Forks | 2,900 |
+| Stars this week | 48 |
 
 ---
 
@@ -67,9 +67,9 @@ FluentCleaner is the transparent, community-powered CCleaner alternative for Win
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,647 |
-| Forks | 256 |
-| Stars this week | 427 |
+| Stars | 7,707 |
+| Forks | 258 |
+| Stars this week | 463 |
 
 ---
 
@@ -80,9 +80,9 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,312 |
-| Forks | 16,386 |
-| Stars this week | 599 |
+| Stars | 121,411 |
+| Forks | 16,397 |
+| Stars this week | 610 |
 
 ---
 
@@ -93,9 +93,9 @@ UniGetUI: The Graphical Interface for your package managers. Could be terribly d
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,230 |
-| Forks | 993 |
-| Stars this week | 175 |
+| Stars | 27,248 |
+| Forks | 996 |
+| Stars this week | 180 |
 
 ---
 
@@ -106,9 +106,9 @@ Movie organizer/manager for usenet and torrent users.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,870 |
-| Forks | 1,270 |
-| Stars this week | 74 |
+| Stars | 14,879 |
+| Forks | 1,269 |
+| Stars this week | 73 |
 
 ---
 
@@ -119,9 +119,9 @@ the subtitle editor :)
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,119 |
-| Forks | 1,396 |
-| Stars this week | 103 |
+| Stars | 15,126 |
+| Forks | 1,398 |
+| Stars this week | 102 |
 
 ---
 
@@ -132,9 +132,9 @@ A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, musi
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 901 |
-| Forks | 92 |
-| Stars this week | 130 |
+| Stars | 913 |
+| Forks | 95 |
+| Stars this week | 115 |
 
 ---
 
@@ -145,9 +145,9 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,385 |
-| Forks | 4,117 |
-| Stars this week | 118 |
+| Stars | 39,397 |
+| Forks | 4,119 |
+| Stars this week | 116 |
 
 ---
 
@@ -156,9 +156,9 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,909 |
+| Stars | 13,912 |
 | Forks | 1,214 |
-| Stars this week | 76 |
+| Stars this week | 68 |
 
 ---
 
@@ -169,9 +169,9 @@ The media player for language learning, with dual subtitles, AI-generated subtit
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,796 |
-| Forks | 311 |
-| Stars this week | 58 |
+| Stars | 4,800 |
+| Forks | 312 |
+| Stars this week | 56 |
 
 ---
 
@@ -182,9 +182,9 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,539 |
-| Forks | 11,534 |
-| Stars this week | 38 |
+| Stars | 38,543 |
+| Forks | 11,496 |
+| Stars this week | 33 |
 
 ---
 
@@ -195,8 +195,8 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,278 |
-| Forks | 8,559 |
-| Stars this week | 105 |
+| Stars | 56,300 |
+| Forks | 8,561 |
+| Stars this week | 108 |
 
 ---

@@ -1,7 +1,7 @@
 # GitHub Trending - Javascript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-24T09:47:34Z
+**Snapshot Time:** 2026-11-25T08:22:54Z
 **Total Repositories:** 11
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Uncensored AI Image & Video Generator — Free AI image & video generation studi
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 36,047 |
-| Forks | 6,923 |
-| Stars this week | 993 |
+| Stars | 36,188 |
+| Forks | 6,952 |
+| Stars this week | 1,020 |
 
 ---
 
@@ -28,9 +28,9 @@ Uncensored AI Image & Video Generator — Free AI image & video generation studi
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 9,071 |
-| Forks | 1,130 |
-| Stars this week | 2,311 |
+| Stars | 9,181 |
+| Forks | 1,141 |
+| Stars this week | 1,516 |
 
 ---
 
@@ -41,9 +41,9 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 62,332 |
-| Forks | 9,107 |
-| Stars this week | 1,510 |
+| Stars | 62,515 |
+| Forks | 9,126 |
+| Stars this week | 1,465 |
 
 ---
 
@@ -54,9 +54,9 @@ jQuery JavaScript Library
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,118 |
-| Forks | 20,636 |
-| Stars this week | 624 |
+| Stars | 60,146 |
+| Forks | 20,635 |
+| Stars this week | 433 |
 
 ---
 
@@ -67,9 +67,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 309,808 |
-| Forks | 45,559 |
-| Stars this week | 5,283 |
+| Stars | 310,379 |
+| Forks | 45,614 |
+| Stars this week | 5,088 |
 
 ---
 
@@ -80,9 +80,9 @@ web development for the rest of us
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 89,817 |
-| Forks | 6,114 |
-| Stars this week | 1,773 |
+| Stars | 89,866 |
+| Forks | 6,076 |
+| Stars this week | 1,356 |
 
 ---
 
@@ -93,9 +93,9 @@ A fancy self-hosted monitoring tool
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 94,818 |
-| Forks | 8,873 |
-| Stars this week | 364 |
+| Stars | 94,856 |
+| Forks | 8,879 |
+| Stars this week | 348 |
 
 ---
 
@@ -106,9 +106,9 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 120,083 |
-| Forks | 12,479 |
-| Stars this week | 1,764 |
+| Stars | 120,286 |
+| Forks | 12,504 |
+| Stars this week | 1,645 |
 
 ---
 
@@ -119,9 +119,9 @@ Vercel's official collection of agent skills
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,835 |
-| Forks | 3,035 |
-| Stars this week | 636 |
+| Stars | 34,887 |
+| Forks | 3,043 |
+| Stars this week | 547 |
 
 ---
 
@@ -132,9 +132,9 @@ Vercel's official collection of agent skills
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 42,964 |
+| Stars | 42,991 |
 | Forks | 1,727 |
-| Stars this week | 119 |
+| Stars this week | 110 |
 
 ---
 
@@ -145,8 +145,8 @@ Automated auditing, performance metrics, and best practices for the web.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 31,197 |
-| Forks | 9,804 |
-| Stars this week | 78 |
+| Stars | 31,202 |
+| Forks | 9,803 |
+| Stars this week | 70 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-24T09:47:55Z
-**Total Repositories:** 13
-**New Entries:** 0
+**Snapshot Time:** 2026-11-25T08:23:18Z
+**Total Repositories:** 14
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,164 +15,177 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 77,691 |
-| Forks | 5,239 |
-| Stars this month | 36,869 |
+| Stars | 78,098 |
+| Forks | 5,275 |
+| Stars this month | 35,068 |
 
 ---
 
-## 2. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+## 2. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) 🆕
+
+在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 86,541 |
+| Forks | 2,453 |
+| Stars this month | 48,193 |
+
+---
+
+## 3. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 120,855 |
-| Forks | 8,112 |
-| Stars this month | 19,622 |
+| Stars | 121,269 |
+| Forks | 8,141 |
+| Stars this month | 19,674 |
 
 ---
 
-## 3. [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
+## 4. [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
 
 For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,339 |
+| Stars | 2,353 |
 | Forks | 152 |
-| Stars this month | 1,351 |
+| Stars this month | 1,294 |
 
 ---
 
-## 4. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+## 5. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
 
 Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 23,766 |
-| Forks | 3,187 |
-| Stars this month | 8,612 |
+| Stars | 23,976 |
+| Forks | 3,220 |
+| Stars this month | 8,546 |
 
 ---
 
-## 5. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+## 6. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
 
 The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 24,296 |
-| Forks | 1,378 |
-| Stars this month | 5,272 |
+| Stars | 24,451 |
+| Forks | 1,384 |
+| Stars this month | 5,279 |
 
 ---
 
-## 6. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+## 7. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 62,332 |
-| Forks | 9,107 |
-| Stars this month | 6,220 |
+| Stars | 62,515 |
+| Forks | 9,126 |
+| Stars this month | 6,283 |
 
 ---
 
-## 7. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+## 8. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
 
 ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 15,730 |
-| Forks | 1,778 |
-| Stars this month | 2,570 |
+| Stars | 15,786 |
+| Forks | 1,784 |
+| Stars this month | 2,584 |
 
 ---
 
-## 8. [mrdoob/three.js](https://github.com/mrdoob/three.js)
+## 9. [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 JavaScript 3D Library.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 119,261 |
-| Forks | 37,012 |
-| Stars this month | 2,520 |
+| Stars | 119,333 |
+| Forks | 37,022 |
+| Stars this month | 2,556 |
 
 ---
 
-## 9. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+## 10. [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
 
 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 41,108 |
-| Forks | 2,956 |
-| Stars this month | 14,117 |
+| Stars | 41,238 |
+| Forks | 2,968 |
+| Stars this month | 13,967 |
 
 ---
 
-## 10. [jquery/jquery](https://github.com/jquery/jquery)
+## 11. [jquery/jquery](https://github.com/jquery/jquery)
 
 jQuery JavaScript Library
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,118 |
-| Forks | 20,636 |
-| Stars this month | 858 |
+| Stars | 60,146 |
+| Forks | 20,635 |
+| Stars this month | 872 |
 
 ---
 
-## 11. [github/awesome-copilot](https://github.com/github/awesome-copilot)
+## 12. [github/awesome-copilot](https://github.com/github/awesome-copilot)
 
 Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 41,506 |
+| Stars | 41,542 |
 | Forks | 5,426 |
-| Stars this month | 1,294 |
+| Stars this month | 1,311 |
 
 ---
 
-## 12. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
+## 13. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)
 
 Vercel's official collection of agent skills
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,835 |
-| Forks | 3,035 |
+| Stars | 34,887 |
+| Forks | 3,043 |
 | Stars this month | 2,036 |
 
 ---
 
-## 13. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+## 14. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 Production-grade engineering skills for AI coding agents.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 120,083 |
-| Forks | 12,479 |
-| Stars this month | 10,572 |
+| Stars | 120,286 |
+| Forks | 12,504 |
+| Stars this month | 10,482 |
 
 ---

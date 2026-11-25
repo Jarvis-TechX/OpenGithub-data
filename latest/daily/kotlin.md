@@ -1,7 +1,7 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-24T09:47:27Z
+**Snapshot Time:** 2026-11-25T08:22:47Z
 **Total Repositories:** 15
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Pixel Music is an open-source Android music player. Stream YouTube Music & Teleg
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 440 |
-| Forks | 35 |
-| Stars today | 9 |
+| Stars | 449 |
+| Forks | 36 |
+| Stars today | 12 |
 
 ---
 
@@ -28,9 +28,9 @@ Pixel Music is an open-source Android music player. Stream YouTube Music & Teleg
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,681 |
-| Forks | 270 |
-| Stars today | 83 |
+| Stars | 1,732 |
+| Forks | 278 |
+| Stars today | 75 |
 
 ---
 
@@ -41,7 +41,7 @@ Pixel Music is an open-source Android music player. Stream YouTube Music & Teleg
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 58,214 |
+| Stars | 58,243 |
 | Forks | 8,860 |
 | Stars today | 43 |
 
@@ -54,9 +54,9 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 25,433 |
-| Forks | 2,845 |
-| Stars today | 17 |
+| Stars | 25,455 |
+| Forks | 2,851 |
+| Stars today | 21 |
 
 ---
 
@@ -67,9 +67,9 @@ Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools o
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,727 |
-| Forks | 87 |
-| Stars today | 10 |
+| Stars | 1,740 |
+| Forks | 88 |
+| Stars today | 8 |
 
 ---
 
@@ -80,9 +80,9 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,421 |
-| Forks | 1,454 |
-| Stars today | 28 |
+| Stars | 7,449 |
+| Forks | 1,458 |
+| Stars today | 24 |
 
 ---
 
@@ -93,9 +93,9 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,773 |
-| Forks | 381 |
-| Stars today | 66 |
+| Stars | 8,806 |
+| Forks | 382 |
+| Stars today | 49 |
 
 ---
 
@@ -106,9 +106,9 @@ FOSS call recorder for Android, no root or PC — records both sides of a call o
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 309 |
-| Forks | 40 |
-| Stars today | 3 |
+| Stars | 311 |
+| Forks | 41 |
+| Stars today | 5 |
 
 ---
 
@@ -119,9 +119,9 @@ A free, open-source Android music app with no ads, synced lyrics, background pla
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 412 |
-| Forks | 39 |
-| Stars today | 27 |
+| Stars | 423 |
+| Forks | 41 |
+| Stars today | 19 |
 
 ---
 
@@ -132,9 +132,9 @@ Block ads system-wide on Android using local VPN-based DNS filtering. No root ne
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,826 |
+| Stars | 2,838 |
 | Forks | 176 |
-| Stars today | 13 |
+| Stars today | 26 |
 
 ---
 
@@ -145,9 +145,9 @@ An YouTube Music Client
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,744 |
-| Forks | 280 |
-| Stars today | 20 |
+| Stars | 2,760 |
+| Forks | 282 |
+| Stars today | 18 |
 
 ---
 
@@ -158,9 +158,9 @@ A native Android audio player that combines multi-source streaming, local contro
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,466 |
-| Forks | 178 |
-| Stars today | 40 |
+| Stars | 4,489 |
+| Forks | 180 |
+| Stars today | 29 |
 
 ---
 
@@ -171,9 +171,9 @@ RikkaHub is an Android APP that supports for multiple LLM providers.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,151 |
-| Forks | 935 |
-| Stars today | 30 |
+| Stars | 9,189 |
+| Forks | 939 |
+| Stars today | 29 |
 
 ---
 
@@ -184,9 +184,9 @@ RikkaHub is an Android APP that supports for multiple LLM providers.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 30,970 |
-| Forks | 1,583 |
-| Stars today | 39 |
+| Stars | 30,994 |
+| Forks | 1,591 |
+| Stars today | 35 |
 
 ---
 
@@ -197,8 +197,8 @@ RikkaHub is an Android APP that supports for multiple LLM providers.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 29,008 |
-| Forks | 3,532 |
-| Stars today | 17 |
+| Stars | 29,017 |
+| Forks | 3,535 |
+| Stars today | 11 |
 
 ---

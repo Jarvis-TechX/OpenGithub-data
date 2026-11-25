@@ -1,7 +1,7 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-24T09:47:31Z
+**Snapshot Time:** 2026-11-25T08:22:51Z
 **Total Repositories:** 13
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,779 |
-| Forks | 1,430 |
-| Stars this week | 2,395 |
+| Stars | 14,966 |
+| Forks | 1,438 |
+| Stars this week | 1,956 |
 
 ---
 
@@ -28,9 +28,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,466 |
-| Forks | 1,519 |
-| Stars this week | 2,572 |
+| Stars | 12,781 |
+| Forks | 1,530 |
+| Stars this week | 2,626 |
 
 ---
 
@@ -41,9 +41,9 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 10,665 |
-| Forks | 814 |
-| Stars this week | 2,694 |
+| Stars | 10,906 |
+| Forks | 826 |
+| Stars this week | 2,494 |
 
 ---
 
@@ -54,9 +54,9 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 55,897 |
-| Forks | 4,621 |
-| Stars this week | 3,015 |
+| Stars | 56,163 |
+| Forks | 4,635 |
+| Stars this week | 2,638 |
 
 ---
 
@@ -67,9 +67,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 73,734 |
-| Forks | 6,504 |
-| Stars this week | 5,448 |
+| Stars | 74,572 |
+| Forks | 6,573 |
+| Stars this week | 5,369 |
 
 ---
 
@@ -80,9 +80,9 @@ Chrome DevTools for coding agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 59,117 |
-| Forks | 4,908 |
-| Stars this week | 1,581 |
+| Stars | 59,268 |
+| Forks | 4,886 |
+| Stars this week | 1,258 |
 
 ---
 
@@ -93,9 +93,9 @@ Claude Code skills for equity investors and traders — market analysis, technic
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,186 |
-| Forks | 1,522 |
-| Stars this week | 1,903 |
+| Stars | 8,363 |
+| Forks | 1,540 |
+| Stars this week | 1,504 |
 
 ---
 
@@ -106,9 +106,9 @@ AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 21,465 |
-| Forks | 2,165 |
-| Stars this week | 2,966 |
+| Stars | 21,639 |
+| Forks | 2,177 |
+| Stars this week | 1,753 |
 
 ---
 
@@ -119,9 +119,9 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 32,713 |
-| Forks | 2,567 |
-| Stars this week | 3,165 |
+| Stars | 32,958 |
+| Forks | 2,582 |
+| Stars this week | 2,890 |
 
 ---
 
@@ -132,9 +132,9 @@ Enable Hermès Watch Faces on any Apple Watch devices
 | Metric | Value |
 |--------|-------|
 | Language | Objective-C |
-| Stars | 2,471 |
-| Forks | 205 |
-| Stars this week | 390 |
+| Stars | 2,501 |
+| Forks | 206 |
+| Stars this week | 328 |
 
 ---
 
@@ -145,9 +145,9 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,671 |
-| Forks | 1,538 |
-| Stars this week | 1,612 |
+| Stars | 17,827 |
+| Forks | 1,550 |
+| Stars this week | 1,567 |
 
 ---
 
@@ -158,9 +158,9 @@ Build your own AI office with Univer Office SDK. Bring editing, calculation, col
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,598 |
-| Forks | 2,852 |
-| Stars this week | 4,324 |
+| Stars | 31,768 |
+| Forks | 2,865 |
+| Stars this week | 3,278 |
 
 ---
 
@@ -171,8 +171,8 @@ Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 10,437 |
-| Forks | 906 |
-| Stars this week | 3,891 |
+| Stars | 10,838 |
+| Forks | 925 |
+| Stars this week | 2,993 |
 
 ---

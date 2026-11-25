@@ -1,7 +1,7 @@
 # GitHub Trending - Swift
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-24T09:47:30Z
+**Snapshot Time:** 2026-11-25T08:22:49Z
 **Total Repositories:** 12
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ An ultra-light MacOS utility that helps hide menu bar icons
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 15,584 |
+| Stars | 15,607 |
 | Forks | 551 |
-| Stars today | 23 |
+| Stars today | 20 |
 
 ---
 
@@ -28,9 +28,9 @@ A small, fast WebKit browser for macOS, by Office Commun.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,966 |
-| Forks | 418 |
-| Stars today | 117 |
+| Stars | 4,052 |
+| Forks | 432 |
+| Stars today | 112 |
 
 ---
 
@@ -41,8 +41,8 @@ iOS 27+ 本机虚拟定位与步行路线测试工具
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,180 |
-| Forks | 160 |
+| Stars | 1,221 |
+| Forks | 165 |
 | Stars today | 15 |
 
 ---
@@ -54,9 +54,9 @@ Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth d
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,266 |
+| Stars | 14,272 |
 | Forks | 719 |
-| Stars today | 13 |
+| Stars today | 4 |
 
 ---
 
@@ -67,9 +67,9 @@ Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,084 |
-| Forks | 323 |
-| Stars today | 38 |
+| Stars | 5,104 |
+| Forks | 324 |
+| Stars today | 23 |
 
 ---
 
@@ -80,9 +80,9 @@ Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 119,236 |
-| Forks | 10,565 |
-| Stars today | 77 |
+| Stars | 119,315 |
+| Forks | 10,591 |
+| Stars today | 74 |
 
 ---
 
@@ -93,9 +93,9 @@ A Gecko-based web browser for iOS 13+.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,013 |
+| Stars | 2,019 |
 | Forks | 179 |
-| Stars today | 9 |
+| Stars today | 13 |
 
 ---
 
@@ -106,9 +106,9 @@ Virtual machines for iOS and macOS
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 37,025 |
-| Forks | 1,924 |
-| Stars today | 19 |
+| Stars | 37,042 |
+| Forks | 1,926 |
+| Stars today | 17 |
 
 ---
 
@@ -119,9 +119,9 @@ An an app that installs Sidestore on iOS 27, fully on-device
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,572 |
-| Forks | 132 |
-| Stars today | 16 |
+| Stars | 1,648 |
+| Forks | 134 |
+| Stars today | 15 |
 
 ---
 
@@ -132,9 +132,9 @@ Feature-packed native macOS screenshot & recording tool: annotate, auto-redact P
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 4,314 |
-| Forks | 298 |
-| Stars today | 21 |
+| Stars | 4,333 |
+| Forks | 299 |
+| Stars today | 22 |
 
 ---
 
@@ -145,9 +145,9 @@ Free up your Mac. Safely. A free, open-source native Mac app that clears the cac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,015 |
-| Forks | 109 |
-| Stars today | 8 |
+| Stars | 2,024 |
+| Forks | 110 |
+| Stars today | 16 |
 
 ---
 
@@ -158,8 +158,8 @@ Run Windows games on Apple Silicon — free, open source, with an open compatibi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,336 |
-| Forks | 106 |
-| Stars today | 12 |
+| Stars | 2,342 |
+| Forks | 107 |
+| Stars today | 10 |
 
 ---

@@ -1,7 +1,7 @@
 # GitHub Trending - Php
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-24T09:47:19Z
+**Snapshot Time:** 2026-11-25T08:22:37Z
 **Total Repositories:** 21
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ A free open source IT asset/license management system
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,242 |
-| Forks | 4,080 |
-| Stars today | 12 |
+| Stars | 15,252 |
+| Forks | 4,082 |
+| Stars today | 10 |
 
 ---
 
@@ -28,9 +28,9 @@ Mautic: Open Source Marketing Automation Software.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 11,100 |
-| Forks | 3,566 |
-| Stars today | 15 |
+| Stars | 11,110 |
+| Forks | 3,568 |
+| Stars today | 8 |
 
 ---
 
@@ -41,8 +41,8 @@ Community-based GPL-licensed network monitoring system
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,029 |
-| Forks | 2,882 |
+| Stars | 5,030 |
+| Forks | 2,883 |
 | Stars today | 3 |
 
 ---
@@ -56,7 +56,7 @@ Prior to making any Submission(s), you must sign an Adobe Contributor License Ag
 | Language | PHP |
 | Stars | 12,244 |
 | Forks | 9,353 |
-| Stars today | 2 |
+| Stars today | 1 |
 
 ---
 
@@ -68,21 +68,21 @@ MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 |--------|-------|
 | Language | PHP |
 | Stars | 6,704 |
-| Forks | 1,680 |
+| Forks | 1,679 |
 | Stars today | 5 |
 
 ---
 
 ## 6. [monicahq/monica](https://github.com/monicahq/monica)
 
-Personal CRM. Remember everything about your friends, family and business relationships.
+Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 25,831 |
-| Forks | 2,639 |
-| Stars today | 5 |
+| Stars | 25,832 |
+| Forks | 2,640 |
+| Stars today | 7 |
 
 ---
 
@@ -105,8 +105,9 @@ Shopware 6 is an open commerce platform based on Symfony Framework and Vue and s
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,480 |
+| Stars | 3,478 |
 | Forks | 1,226 |
+| Stars today | 3 |
 
 ---
 
@@ -117,9 +118,9 @@ PrestaShop is the universal open-source software platform to build your e-commer
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 9,265 |
-| Forks | 5,064 |
-| Stars today | 1 |
+| Stars | 9,266 |
+| Forks | 5,063 |
+| Stars today | 3 |
 
 ---
 
@@ -130,9 +131,9 @@ Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 24,203 |
-| Forks | 1,697 |
-| Stars today | 7 |
+| Stars | 24,207 |
+| Forks | 1,699 |
+| Stars today | 6 |
 
 ---
 
@@ -144,8 +145,8 @@ Open-source event management and ticket selling platform — perfect for concert
 |--------|-------|
 | Language | PHP |
 | Stars | 4,201 |
-| Forks | 759 |
-| Stars today | 1 |
+| Forks | 760 |
+| Stars today | 2 |
 
 ---
 
@@ -156,9 +157,9 @@ Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 22,049 |
-| Forks | 2,942 |
-| Stars today | 1 |
+| Stars | 22,050 |
+| Forks | 2,944 |
+| Stars today | 5 |
 
 ---
 
@@ -169,8 +170,8 @@ WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, incl
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,515 |
-| Forks | 3,785 |
+| Stars | 3,516 |
+| Forks | 3,782 |
 
 ---
 
@@ -181,9 +182,9 @@ Laravel is a web application framework with expressive, elegant syntax.
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 35,095 |
-| Forks | 12,073 |
-| Stars today | 33 |
+| Stars | 35,116 |
+| Forks | 12,076 |
+| Stars today | 32 |
 
 ---
 
@@ -194,9 +195,9 @@ Open-source CRM your AI agents can read and update: companies, people, opportuni
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,923 |
-| Forks | 238 |
-| Stars today | 5 |
+| Stars | 1,928 |
+| Forks | 239 |
+| Stars today | 3 |
 
 ---
 
@@ -207,9 +208,9 @@ Damn Vulnerable Web Application (DVWA)
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 14,076 |
-| Forks | 5,278 |
-| Stars today | 4 |
+| Stars | 14,082 |
+| Forks | 5,280 |
+| Stars today | 5 |
 
 ---
 
@@ -220,9 +221,9 @@ mailcow: dockerized - 🐮 + 🐋 = 💕
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,864 |
-| Forks | 1,877 |
-| Stars today | 4 |
+| Stars | 13,870 |
+| Forks | 1,876 |
+| Stars today | 3 |
 
 ---
 
@@ -234,7 +235,8 @@ A customizable, open-source ecommerce platform built on WordPress. Build any com
 |--------|-------|
 | Language | PHP |
 | Stars | 10,610 |
-| Forks | 10,671 |
+| Forks | 10,670 |
+| Stars today | 1 |
 
 ---
 
@@ -245,9 +247,9 @@ Leantime is a goals focused project management system for non-project managers. 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 12,141 |
+| Stars | 12,144 |
 | Forks | 1,188 |
-| Stars today | 7 |
+| Stars today | 5 |
 
 ---
 
@@ -258,9 +260,9 @@ The most popular open source electronic health records and medical practice mana
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,623 |
-| Forks | 3,142 |
-| Stars today | 2 |
+| Stars | 5,626 |
+| Forks | 3,143 |
+| Stars today | 5 |
 
 ---
 
@@ -271,8 +273,8 @@ High-performance panel based on V2board secondary development supporting new pro
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 4,891 |
-| Forks | 1,393 |
+| Stars | 4,893 |
+| Forks | 1,392 |
 | Stars today | 6 |
 
 ---

@@ -1,7 +1,7 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-24T09:47:46Z
+**Snapshot Time:** 2026-11-25T08:23:07Z
 **Total Repositories:** 17
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,7 +15,7 @@ JDK main-line developmenthttps://openjdk.org/projects/jdk
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 23,567 |
+| Stars | 23,574 |
 | Forks | 6,559 |
 | Stars this week | 44 |
 
@@ -28,9 +28,9 @@ JDK main-line developmenthttps://openjdk.org/projects/jdk
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 48,602 |
-| Forks | 16,217 |
-| Stars this week | 111 |
+| Stars | 48,617 |
+| Forks | 16,216 |
+| Stars this week | 122 |
 
 ---
 
@@ -41,9 +41,9 @@ A browser automation framework and ecosystem.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 34,609 |
-| Forks | 8,736 |
-| Stars this week | 30 |
+| Stars | 34,611 |
+| Forks | 8,735 |
+| Stars this week | 25 |
 
 ---
 
@@ -54,9 +54,9 @@ Instagram without Reels, feed or ads: an open-source, updatable Instagram app fo
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,437 |
-| Forks | 88 |
-| Stars this week | 68 |
+| Stars | 1,441 |
+| Forks | 89 |
+| Stars this week | 56 |
 
 ---
 
@@ -67,9 +67,9 @@ The main repository of Telegram X — official alternative Telegram client for A
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,246 |
-| Forks | 1,208 |
-| Stars this week | 47 |
+| Stars | 6,249 |
+| Forks | 1,211 |
+| Stars this week | 46 |
 
 ---
 
@@ -80,9 +80,9 @@ The world's fastest open query engine for sub-second analytics both on and off t
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 12,281 |
+| Stars | 12,286 |
 | Forks | 2,691 |
-| Stars this week | 26 |
+| Stars this week | 24 |
 
 ---
 
@@ -93,8 +93,8 @@ A libre lightweight streaming front-end for Android.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,904 |
-| Forks | 4,026 |
+| Stars | 40,928 |
+| Forks | 4,031 |
 | Stars this week | 158 |
 
 ---
@@ -106,9 +106,9 @@ Open Source Identity and Access Management For Modern Applications and Services
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 38,026 |
-| Forks | 9,238 |
-| Stars this week | 139 |
+| Stars | 38,045 |
+| Forks | 9,242 |
+| Stars this week | 138 |
 
 ---
 
@@ -119,9 +119,9 @@ Apache NiFi
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,332 |
-| Forks | 3,013 |
-| Stars this week | 13 |
+| Stars | 6,334 |
+| Forks | 3,012 |
+| Stars this week | 11 |
 
 ---
 
@@ -132,9 +132,9 @@ Apache NiFi
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,704 |
-| Forks | 498 |
-| Stars this week | 123 |
+| Stars | 3,718 |
+| Forks | 499 |
+| Stars this week | 125 |
 
 ---
 
@@ -145,9 +145,9 @@ Free and Open Source, Distributed, RESTful Search Engine
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,718 |
-| Forks | 26,147 |
-| Stars this week | 453 |
+| Stars | 78,780 |
+| Forks | 26,148 |
+| Stars this week | 313 |
 
 ---
 
@@ -158,9 +158,9 @@ Termux - a terminal emulator application for Android OS extendible by variety of
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,584 |
-| Forks | 8,424 |
-| Stars this week | 584 |
+| Stars | 65,648 |
+| Forks | 8,439 |
+| Stars this week | 570 |
 
 ---
 
@@ -171,8 +171,8 @@ Apache ZooKeeper
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 12,833 |
-| Forks | 7,330 |
+| Stars | 12,834 |
+| Forks | 7,328 |
 | Stars this week | 9 |
 
 ---
@@ -184,9 +184,9 @@ LeviLauncher for Android
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 734 |
-| Forks | 211 |
-| Stars this week | 14 |
+| Stars | 740 |
+| Forks | 214 |
+| Stars this week | 15 |
 
 ---
 
@@ -197,9 +197,9 @@ LSPosed Framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 25,624 |
-| Forks | 3,596 |
-| Stars this week | 123 |
+| Stars | 25,642 |
+| Forks | 3,597 |
+| Stars this week | 118 |
 
 ---
 
@@ -210,9 +210,9 @@ Apache Iceberg
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 9,452 |
-| Forks | 3,706 |
-| Stars this week | 18 |
+| Stars | 9,454 |
+| Forks | 3,709 |
+| Stars this week | 14 |
 
 ---
 
@@ -223,8 +223,8 @@ Model-rocketry aerodynamics and trajectory simulation software
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,275 |
-| Forks | 724 |
-| Stars this week | 37 |
+| Stars | 3,280 |
+| Forks | 725 |
+| Stars this week | 31 |
 
 ---

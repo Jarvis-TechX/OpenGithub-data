@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-24T09:47:40Z
+**Snapshot Time:** 2026-11-25T08:23:01Z
 **Total Repositories:** 15
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 55,897 |
-| Forks | 4,621 |
-| Stars this week | 3,015 |
+| Stars | 56,163 |
+| Forks | 4,635 |
+| Stars this week | 2,638 |
 
 ---
 
@@ -28,9 +28,9 @@ Modern Docker Management, Designed for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,366 |
-| Forks | 586 |
-| Stars this week | 1,850 |
+| Stars | 10,433 |
+| Forks | 594 |
+| Stars this week | 1,235 |
 
 ---
 
@@ -41,9 +41,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,254 |
-| Forks | 911 |
-| Stars this week | 1,353 |
+| Stars | 8,313 |
+| Forks | 918 |
+| Stars this week | 1,115 |
 
 ---
 
@@ -54,9 +54,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,324 |
+| Stars | 3,330 |
 | Forks | 378 |
-| Stars this week | 132 |
+| Stars this week | 128 |
 
 ---
 
@@ -67,9 +67,9 @@ Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 5,936 |
-| Forks | 830 |
-| Stars this week | 3,608 |
+| Stars | 6,051 |
+| Forks | 852 |
+| Stars this week | 3,024 |
 
 ---
 
@@ -80,9 +80,9 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,860 |
-| Forks | 1,721 |
-| Stars this week | 493 |
+| Stars | 17,901 |
+| Forks | 1,729 |
+| Stars this week | 428 |
 
 ---
 
@@ -93,9 +93,9 @@ why use many token when few token do trick. Skill + local proxy for coding agent
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 122,521 |
-| Forks | 7,150 |
-| Stars this week | 1,809 |
+| Stars | 122,709 |
+| Forks | 7,164 |
+| Stars this week | 1,752 |
 
 ---
 
@@ -106,9 +106,9 @@ Cloud Native Agentic AI | Discord:https://bit.ly/kagentdiscord
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 4,511 |
-| Forks | 939 |
-| Stars this week | 126 |
+| Stars | 4,521 |
+| Forks | 941 |
+| Stars this week | 116 |
 
 ---
 
@@ -119,8 +119,8 @@ The painless way to host your own Git service
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,989 |
-| Forks | 5,077 |
+| Stars | 47,994 |
+| Forks | 5,076 |
 | Stars this week | 64 |
 
 ---
@@ -132,9 +132,9 @@ GitHub’s official command line tool
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,171 |
-| Forks | 9,439 |
-| Stars this week | 165 |
+| Stars | 47,194 |
+| Forks | 9,446 |
+| Stars this week | 166 |
 
 ---
 
@@ -145,9 +145,9 @@ BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fu
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 16,469 |
-| Forks | 1,835 |
-| Stars this week | 84 |
+| Stars | 16,476 |
+| Forks | 1,836 |
+| Stars this week | 76 |
 
 ---
 
@@ -158,9 +158,9 @@ Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pip
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,975 |
-| Forks | 1,124 |
-| Stars this week | 47 |
+| Stars | 11,984 |
+| Forks | 1,125 |
+| Stars this week | 34 |
 
 ---
 
@@ -171,9 +171,9 @@ Define and run multi-container applications with Docker
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,015 |
-| Forks | 6,050 |
-| Stars this week | 739 |
+| Stars | 39,049 |
+| Forks | 6,049 |
+| Stars this week | 654 |
 
 ---
 
@@ -184,21 +184,21 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,675 |
-| Forks | 929 |
-| Stars this week | 264 |
+| Stars | 39,715 |
+| Forks | 934 |
+| Stars this week | 229 |
 
 ---
 
-## 15. [misakano7545/workbuddy2api-panel](https://github.com/misakano7545/workbuddy2api-panel) 🆕
+## 15. [misakano7545/workbuddy2api-panel](https://github.com/misakano7545/workbuddy2api-panel)
 
 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 1,437 |
-| Forks | 368 |
-| Stars this week | 216 |
+| Stars | 1,458 |
+| Forks | 370 |
+| Stars this week | 193 |
 
 ---

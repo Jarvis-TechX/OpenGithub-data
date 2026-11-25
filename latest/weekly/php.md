@@ -1,7 +1,7 @@
 # GitHub Trending - Php
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-24T09:47:39Z
+**Snapshot Time:** 2026-11-25T08:22:59Z
 **Total Repositories:** 17
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ GLPI is a Free Asset and IT Management Software package, Data center management,
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 6,654 |
-| Forks | 1,949 |
-| Stars this week | 32 |
+| Stars | 6,657 |
+| Forks | 1,953 |
+| Stars this week | 30 |
 
 ---
 
@@ -28,9 +28,9 @@ Own the flow: one open-source AI platform for your knowledge, models and channel
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 1,191 |
-| Forks | 131 |
-| Stars this week | 296 |
+| Stars | 1,242 |
+| Forks | 134 |
+| Stars this week | 328 |
 
 ---
 
@@ -41,7 +41,7 @@ EspoCRM – Open Source CRM Application
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 3,661 |
+| Stars | 3,666 |
 | Forks | 1,059 |
 | Stars this week | 37 |
 
@@ -54,9 +54,9 @@ A free open source IT asset/license management system
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 15,242 |
-| Forks | 4,080 |
-| Stars this week | 55 |
+| Stars | 15,252 |
+| Forks | 4,082 |
+| Stars this week | 63 |
 
 ---
 
@@ -67,9 +67,9 @@ mailcow: dockerized - 🐮 + 🐋 = 💕
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 13,864 |
-| Forks | 1,877 |
-| Stars this week | 39 |
+| Stars | 13,870 |
+| Forks | 1,876 |
+| Stars this week | 35 |
 
 ---
 
@@ -81,8 +81,8 @@ A PHP static analysis tool for finding errors and security vulnerabilities in PH
 |--------|-------|
 | Language | PHP |
 | Stars | 5,934 |
-| Forks | 739 |
-| Stars this week | 6 |
+| Forks | 740 |
+| Stars this week | 7 |
 
 ---
 
@@ -93,9 +93,9 @@ Free and Open Source ERP software
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 12,288 |
+| Stars | 12,290 |
 | Forks | 632 |
-| Stars this week | 44 |
+| Stars this week | 43 |
 
 ---
 
@@ -106,9 +106,9 @@ Damn Vulnerable Web Application (DVWA)
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 14,076 |
-| Forks | 5,278 |
-| Stars this week | 43 |
+| Stars | 14,082 |
+| Forks | 5,280 |
+| Stars this week | 41 |
 
 ---
 
@@ -119,9 +119,9 @@ Kimai is the #1 open-source time-tracking application. From freelancers to compa
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,177 |
-| Forks | 894 |
-| Stars this week | 15 |
+| Stars | 5,181 |
+| Forks | 896 |
+| Stars this week | 13 |
 
 ---
 
@@ -132,9 +132,9 @@ Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and 
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 24,203 |
-| Forks | 1,697 |
-| Stars this week | 39 |
+| Stars | 24,207 |
+| Forks | 1,699 |
+| Stars this week | 37 |
 
 ---
 
@@ -145,9 +145,9 @@ Firefly III: a personal finances manager
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 25,328 |
+| Stars | 25,338 |
 | Forks | 2,413 |
-| Stars this week | 77 |
+| Stars this week | 78 |
 
 ---
 
@@ -158,9 +158,9 @@ SecLists is the security tester's companion. It's a collection of multiple types
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 74,920 |
-| Forks | 25,185 |
-| Stars this week | 130 |
+| Stars | 74,944 |
+| Forks | 25,189 |
+| Stars this week | 132 |
 
 ---
 
@@ -171,9 +171,9 @@ SecLists is the security tester's companion. It's a collection of multiple types
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 37,622 |
-| Forks | 5,382 |
-| Stars this week | 101 |
+| Stars | 37,629 |
+| Forks | 5,385 |
+| Stars this week | 107 |
 
 ---
 
@@ -186,7 +186,7 @@ wallabag is a self hostable application for saving web pages: Save and classify 
 | Language | PHP |
 | Stars | 13,066 |
 | Forks | 921 |
-| Stars this week | 14 |
+| Stars this week | 13 |
 
 ---
 
@@ -197,9 +197,9 @@ An open-source framework for building polished, maintainable business software w
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 32,551 |
-| Forks | 4,256 |
-| Stars this week | 52 |
+| Stars | 32,565 |
+| Forks | 4,260 |
+| Stars this week | 60 |
 
 ---
 
@@ -210,8 +210,8 @@ Empowering People Ethically 🚀 — Matomo is hiring! Join us →https://matomo
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 22,049 |
-| Forks | 2,942 |
+| Stars | 22,050 |
+| Forks | 2,944 |
 | Stars this week | 22 |
 
 ---
@@ -223,8 +223,8 @@ The most popular open source electronic health records and medical practice mana
 | Metric | Value |
 |--------|-------|
 | Language | PHP |
-| Stars | 5,623 |
-| Forks | 3,142 |
-| Stars this week | 18 |
+| Stars | 5,626 |
+| Forks | 3,143 |
+| Stars this week | 23 |
 
 ---
