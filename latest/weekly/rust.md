@@ -1,7 +1,7 @@
 # GitHub Trending - Rust
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-25T08:23:02Z
+**Snapshot Time:** 2026-11-26T08:08:12Z
 **Total Repositories:** 7
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Browser automation CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 53,868 |
-| Forks | 3,770 |
-| Stars this week | 1,527 |
+| Stars | 54,041 |
+| Forks | 3,773 |
+| Stars this week | 1,402 |
 
 ---
 
@@ -28,9 +28,9 @@ A hive mind communication platform
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 37,747 |
-| Forks | 4,968 |
-| Stars this week | 197 |
+| Stars | 37,768 |
+| Forks | 4,971 |
+| Stars this week | 200 |
 
 ---
 
@@ -41,9 +41,9 @@ Object-storage native graph database with branching and typed ontology
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,268 |
+| Stars | 3,287 |
 | Forks | 345 |
-| Stars this week | 330 |
+| Stars this week | 259 |
 
 ---
 
@@ -54,9 +54,9 @@ A WiFi security auditing software
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 7,032 |
+| Stars | 7,071 |
 | Forks | 1,130 |
-| Stars this week | 438 |
+| Stars this week | 423 |
 
 ---
 
@@ -67,9 +67,9 @@ ZapFast: a fast, native WhatsApp client in Rust and egui
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,053 |
-| Forks | 520 |
-| Stars this week | 371 |
+| Stars | 5,088 |
+| Forks | 526 |
+| Stars this week | 363 |
 
 ---
 
@@ -80,9 +80,9 @@ RustFS is an open-source, S3-compatible high-performance object storage system s
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 36,495 |
-| Forks | 1,688 |
-| Stars this week | 276 |
+| Stars | 36,532 |
+| Forks | 1,690 |
+| Stars this week | 275 |
 
 ---
 
@@ -93,8 +93,8 @@ Tiny, Performant & 100% Native client for Discord made in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 1,766 |
-| Forks | 189 |
-| Stars this week | 383 |
+| Stars | 1,806 |
+| Forks | 191 |
+| Stars this week | 378 |
 
 ---

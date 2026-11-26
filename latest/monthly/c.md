@@ -1,9 +1,9 @@
 # GitHub Trending - C
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-25T08:23:30Z
+**Snapshot Time:** 2026-11-26T08:08:39Z
 **Total Repositories:** 20
-**New Entries:** 2
+**New Entries:** 0
 **Quality Score:** 96.00/100
 
 ---
@@ -15,9 +15,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,867 |
-| Forks | 8,535 |
-| Stars this month | 296 |
+| Stars | 41,874 |
+| Forks | 8,537 |
+| Stars this month | 291 |
 
 ---
 
@@ -28,19 +28,19 @@ A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,657 |
-| Forks | 1,964 |
-| Stars this month | 3,555 |
+| Stars | 12,685 |
+| Forks | 1,967 |
+| Stars this month | 3,564 |
 
 ---
 
-## 3. [diabl0w/DFRoot](https://github.com/diabl0w/DFRoot) 🆕
+## 3. [diabl0w/DFRoot](https://github.com/diabl0w/DFRoot)
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,115 |
-| Forks | 515 |
+| Stars | 1,131 |
+| Forks | 516 |
 | Stars this month | 585 |
 
 ---
@@ -52,9 +52,9 @@ General purpose TLS and crypto library
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,530 |
-| Forks | 11,648 |
-| Stars this month | 587 |
+| Stars | 31,540 |
+| Forks | 11,652 |
+| Stars this month | 585 |
 
 ---
 
@@ -65,22 +65,22 @@ A hierarchical inference engine for frontier MoE models: hot experts on the GPU 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 53,375 |
-| Forks | 6,458 |
-| Stars this month | 9,830 |
+| Stars | 53,525 |
+| Forks | 6,479 |
+| Stars this month | 9,852 |
 
 ---
 
-## 6. [lz4/lz4](https://github.com/lz4/lz4) 🆕
+## 6. [lz4/lz4](https://github.com/lz4/lz4)
 
 Extremely Fast Compression algorithm
 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 12,849 |
+| Stars | 12,865 |
 | Forks | 1,674 |
-| Stars this month | 738 |
+| Stars this month | 741 |
 
 ---
 
@@ -91,9 +91,9 @@ OBS Studio - Free and open source software for live streaming and screen recordi
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 80,093 |
-| Forks | 11,365 |
-| Stars this month | 2,592 |
+| Stars | 80,159 |
+| Forks | 11,374 |
+| Stars this month | 2,605 |
 
 ---
 
@@ -104,9 +104,9 @@ OBS Studio - Free and open source software for live streaming and screen recordi
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 38,290 |
-| Forks | 3,694 |
-| Stars this month | 832 |
+| Stars | 38,302 |
+| Forks | 3,697 |
+| Stars this month | 831 |
 
 ---
 
@@ -117,9 +117,9 @@ Unofficial native Nuvio client for LG webOS 3+, Samsung Tizen 4+, GoogleTV 7+. C
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 619 |
-| Forks | 83 |
-| Stars this month | 322 |
+| Stars | 647 |
+| Forks | 85 |
+| Stars this month | 326 |
 
 ---
 
@@ -130,9 +130,9 @@ For developers, who are building real-time data-driven applications, Redis is th
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 77,712 |
-| Forks | 24,975 |
-| Stars this month | 1,377 |
+| Stars | 77,770 |
+| Forks | 24,982 |
+| Stars this month | 1,419 |
 
 ---
 
@@ -143,9 +143,9 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 141,373 |
-| Forks | 8,733 |
-| Stars this month | 1,928 |
+| Stars | 141,414 |
+| Forks | 8,737 |
+| Stars this month | 1,860 |
 
 ---
 
@@ -156,9 +156,9 @@ An advanced Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,974 |
-| Forks | 1,305 |
-| Stars this month | 413 |
+| Stars | 4,991 |
+| Forks | 1,309 |
+| Stars this month | 420 |
 
 ---
 
@@ -167,9 +167,9 @@ An advanced Kernel based root solution for Android
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 6,167 |
-| Forks | 1,029 |
-| Stars this month | 449 |
+| Stars | 6,170 |
+| Forks | 1,033 |
+| Stars this month | 448 |
 
 ---
 
@@ -180,9 +180,9 @@ Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scala
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,180 |
-| Forks | 10,573 |
-| Stars this month | 327 |
+| Stars | 17,187 |
+| Forks | 10,584 |
+| Stars this month | 319 |
 
 ---
 
@@ -193,9 +193,9 @@ The official NGINX Open Source repository.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 33,281 |
-| Forks | 8,398 |
-| Stars this month | 1,330 |
+| Stars | 33,427 |
+| Forks | 8,410 |
+| Stars this month | 1,450 |
 
 ---
 
@@ -206,9 +206,9 @@ The systemd System and Service Manager
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,063 |
-| Forks | 4,858 |
-| Stars this month | 199 |
+| Stars | 17,066 |
+| Forks | 4,862 |
+| Stars this month | 186 |
 
 ---
 
@@ -219,9 +219,9 @@ ClamAV - Documentation is here:https://docs.clamav.net
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,728 |
-| Forks | 992 |
-| Stars this month | 296 |
+| Stars | 7,740 |
+| Forks | 993 |
+| Stars this month | 305 |
 
 ---
 
@@ -232,9 +232,9 @@ A command line tool and library for transferring data with URL syntax, supportin
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 43,673 |
-| Forks | 7,511 |
-| Stars this month | 661 |
+| Stars | 43,685 |
+| Forks | 7,509 |
+| Stars this month | 657 |
 
 ---
 
@@ -245,9 +245,9 @@ ehviewer，用爱发电，快乐前行
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 29,565 |
-| Forks | 791 |
-| Stars this month | 1,478 |
+| Stars | 29,597 |
+| Forks | 793 |
+| Stars this month | 1,476 |
 
 ---
 
@@ -258,8 +258,8 @@ Espressif IoT Development Framework. Official development framework for Espressi
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 19,590 |
-| Forks | 8,614 |
-| Stars this month | 278 |
+| Stars | 19,604 |
+| Forks | 8,618 |
+| Stars this month | 285 |
 
 ---

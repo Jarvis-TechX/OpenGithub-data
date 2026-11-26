@@ -1,7 +1,7 @@
 # GitHub Trending - Rust
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-25T08:22:40Z
+**Snapshot Time:** 2026-11-26T08:07:50Z
 **Total Repositories:** 14
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Jan is an open source alternative to ChatGPT that runs 100% offline on your comp
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 46,100 |
-| Forks | 3,264 |
-| Stars today | 34 |
+| Stars | 46,169 |
+| Forks | 3,269 |
+| Stars today | 45 |
 
 ---
 
@@ -28,9 +28,9 @@ Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,061 |
-| Forks | 248 |
-| Stars today | 20 |
+| Stars | 6,082 |
+| Forks | 249 |
+| Stars today | 28 |
 
 ---
 
@@ -41,9 +41,9 @@ Extremely fast Query Engine for DataFrames, written in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 40,495 |
-| Forks | 3,264 |
-| Stars today | 25 |
+| Stars | 40,518 |
+| Forks | 3,268 |
+| Stars today | 30 |
 
 ---
 
@@ -54,9 +54,9 @@ Extremely fast Query Engine for DataFrames, written in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 31,383 |
-| Forks | 2,854 |
-| Stars today | 108 |
+| Stars | 31,487 |
+| Forks | 2,865 |
+| Stars today | 101 |
 
 ---
 
@@ -67,9 +67,9 @@ Open source, composable payments platform | PCI compliant | SaaS and Self-host o
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 45,903 |
+| Stars | 45,917 |
 | Forks | 6,702 |
-| Stars today | 18 |
+| Stars today | 25 |
 
 ---
 
@@ -80,9 +80,9 @@ Professional Antigravity Account Manager & Switcher. One-click seamless account 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 33,968 |
-| Forks | 3,597 |
-| Stars today | 128 |
+| Stars | 34,112 |
+| Forks | 3,603 |
+| Stars today | 135 |
 
 ---
 
@@ -93,9 +93,9 @@ Professional Antigravity Account Manager & Switcher. One-click seamless account 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,578 |
+| Stars | 5,583 |
 | Forks | 385 |
-| Stars today | 7 |
+| Stars today | 8 |
 
 ---
 
@@ -106,8 +106,8 @@ Professional Antigravity Account Manager & Switcher. One-click seamless account 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,256 |
-| Forks | 1,030 |
+| Stars | 9,271 |
+| Forks | 1,031 |
 | Stars today | 14 |
 
 ---
@@ -119,9 +119,9 @@ CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 87,754 |
-| Forks | 5,633 |
-| Stars today | 131 |
+| Stars | 87,872 |
+| Forks | 5,639 |
+| Stars today | 125 |
 
 ---
 
@@ -132,9 +132,9 @@ An open-source remote desktop application designed for self-hosting, as an alter
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 131,358 |
-| Forks | 21,223 |
-| Stars today | 269 |
+| Stars | 131,548 |
+| Forks | 21,267 |
+| Stars today | 246 |
 
 ---
 
@@ -145,9 +145,9 @@ A data visualization and analytics component, especially well-suited for large a
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 11,769 |
-| Forks | 1,384 |
-| Stars today | 28 |
+| Stars | 11,790 |
+| Forks | 1,387 |
+| Stars today | 22 |
 
 ---
 
@@ -158,9 +158,9 @@ Generate any location from the real world in Minecraft with a high level of deta
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,822 |
-| Forks | 1,597 |
-| Stars today | 17 |
+| Stars | 18,846 |
+| Forks | 1,599 |
+| Stars today | 13 |
 
 ---
 
@@ -171,9 +171,9 @@ A beautiful, private, local-first personal finance tracker. Investments, net wor
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 9,747 |
-| Forks | 851 |
-| Stars today | 18 |
+| Stars | 9,770 |
+| Forks | 853 |
+| Stars today | 17 |
 
 ---
 
@@ -184,8 +184,8 @@ A Flash Player emulator written in Rust
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 18,950 |
-| Forks | 1,203 |
-| Stars today | 12 |
+| Stars | 18,956 |
+| Forks | 1,204 |
+| Stars today | 13 |
 
 ---

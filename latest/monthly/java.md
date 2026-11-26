@@ -1,7 +1,7 @@
 # GitHub Trending - Java
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-25T08:23:33Z
+**Snapshot Time:** 2026-11-26T08:08:43Z
 **Total Repositories:** 18
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Free and Open Source, Distributed, RESTful Search Engine
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,780 |
+| Stars | 78,833 |
 | Forks | 26,148 |
-| Stars this month | 1,050 |
+| Stars this month | 1,088 |
 
 ---
 
@@ -28,9 +28,9 @@ Light, fluffy, and always free - The AWS Local Emulator alternative
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 32,103 |
-| Forks | 3,558 |
-| Stars this month | 5,103 |
+| Stars | 32,130 |
+| Forks | 3,567 |
+| Stars this month | 5,094 |
 
 ---
 
@@ -41,9 +41,9 @@ All Algorithms implemented in Java
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 67,333 |
-| Forks | 21,524 |
-| Stars this month | 1,029 |
+| Stars | 67,343 |
+| Forks | 21,531 |
+| Stars this month | 979 |
 
 ---
 
@@ -54,9 +54,9 @@ A tool for reverse engineering Android apk files
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 27,365 |
-| Forks | 4,273 |
-| Stars this month | 773 |
+| Stars | 27,379 |
+| Forks | 4,275 |
+| Stars this month | 753 |
 
 ---
 
@@ -67,9 +67,9 @@ Spring Framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 60,329 |
-| Forks | 38,820 |
-| Stars this month | 119 |
+| Stars | 60,333 |
+| Forks | 38,901 |
+| Stars this month | 116 |
 
 ---
 
@@ -80,9 +80,9 @@ Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/Amn
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 772 |
-| Forks | 125 |
-| Stars this month | 253 |
+| Stars | 767 |
+| Forks | 132 |
+| Stars this month | 243 |
 
 ---
 
@@ -93,9 +93,9 @@ Mac.apk: Run Android apps natively on Apple Silicon Macs
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,433 |
-| Forks | 194 |
-| Stars this month | 1,441 |
+| Stars | 4,459 |
+| Forks | 197 |
+| Stars this month | 1,263 |
 
 ---
 
@@ -106,9 +106,9 @@ Ghidra is a software reverse engineering (SRE) framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 101,266 |
-| Forks | 11,519 |
-| Stars this month | 7,532 |
+| Stars | 101,385 |
+| Forks | 11,529 |
+| Stars this month | 7,359 |
 
 ---
 
@@ -119,9 +119,9 @@ JDK main-line developmenthttps://openjdk.org/projects/jdk
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 23,574 |
-| Forks | 6,559 |
-| Stars this month | 158 |
+| Stars | 23,584 |
+| Forks | 6,560 |
+| Stars this month | 159 |
 
 ---
 
@@ -132,9 +132,9 @@ Dependency-Track is an intelligent Component Analysis platform that allows organ
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,517 |
-| Forks | 877 |
-| Stars this month | 184 |
+| Stars | 4,526 |
+| Forks | 884 |
+| Stars this month | 185 |
 
 ---
 
@@ -145,9 +145,9 @@ LSPosed Framework
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 25,642 |
+| Stars | 25,662 |
 | Forks | 3,597 |
-| Stars this month | 584 |
+| Stars this month | 581 |
 
 ---
 
@@ -158,9 +158,9 @@ Code on the Go is an IDE that lets you build Android apps on Android phones, wit
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 665 |
-| Forks | 145 |
-| Stars this month | 183 |
+| Stars | 671 |
+| Forks | 147 |
+| Stars this month | 186 |
 
 ---
 
@@ -171,9 +171,9 @@ Code on the Go is an IDE that lets you build Android apps on Android phones, wit
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,718 |
-| Forks | 499 |
-| Stars this month | 538 |
+| Stars | 3,735 |
+| Forks | 500 |
+| Stars this month | 545 |
 
 ---
 
@@ -184,9 +184,9 @@ A libre lightweight streaming front-end for Android.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,928 |
-| Forks | 4,031 |
-| Stars this month | 779 |
+| Stars | 40,956 |
+| Forks | 4,035 |
+| Stars this month | 788 |
 
 ---
 
@@ -197,9 +197,9 @@ Open source GPS tracking platform - self-hosted or managed, 200+ device protocol
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 8,189 |
-| Forks | 3,501 |
-| Stars this month | 285 |
+| Stars | 8,196 |
+| Forks | 3,502 |
+| Stars this month | 288 |
 
 ---
 
@@ -210,9 +210,9 @@ Automated mass refactoring of source code.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 4,014 |
+| Stars | 4,016 |
 | Forks | 612 |
-| Stars this month | 204 |
+| Stars this month | 207 |
 
 ---
 
@@ -223,9 +223,9 @@ Halo 是一款强大易用的开源建站工具，从个人博客、知识库，
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,401 |
-| Forks | 10,316 |
-| Stars this month | 499 |
+| Stars | 40,412 |
+| Forks | 10,318 |
+| Stars this month | 489 |
 
 ---
 
@@ -236,8 +236,8 @@ Dual pane Android file manager with focus on APKs
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 688 |
-| Forks | 93 |
-| Stars this month | 326 |
+| Stars | 700 |
+| Forks | 94 |
+| Stars this month | 311 |
 
 ---

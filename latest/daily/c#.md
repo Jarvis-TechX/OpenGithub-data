@@ -1,7 +1,7 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-25T08:22:48Z
+**Snapshot Time:** 2026-11-26T08:07:58Z
 **Total Repositories:** 15
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,090 |
-| Forks | 578 |
-| Stars today | 63 |
+| Stars | 13,151 |
+| Forks | 580 |
+| Stars today | 28 |
 
 ---
 
@@ -28,9 +28,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,549 |
-| Forks | 1,707 |
-| Stars today | 33 |
+| Stars | 22,572 |
+| Forks | 1,709 |
+| Stars today | 22 |
 
 ---
 
@@ -41,9 +41,9 @@ Advanced UX and interoperability extension for Wand (WeMod) app
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 33,627 |
-| Forks | 1,108 |
-| Stars today | 29 |
+| Stars | 33,637 |
+| Forks | 1,210 |
+| Stars today | 23 |
 
 ---
 
@@ -54,9 +54,9 @@ FluentCleaner is the transparent, community-powered CCleaner alternative for Win
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,707 |
+| Stars | 7,736 |
 | Forks | 258 |
-| Stars today | 74 |
+| Stars today | 50 |
 
 ---
 
@@ -67,9 +67,9 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,411 |
-| Forks | 16,397 |
-| Stars today | 95 |
+| Stars | 121,494 |
+| Forks | 16,402 |
+| Stars today | 93 |
 
 ---
 
@@ -80,9 +80,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 16,172 |
-| Forks | 1,651 |
-| Stars today | 18 |
+| Stars | 16,203 |
+| Forks | 1,653 |
+| Stars today | 35 |
 
 ---
 
@@ -93,9 +93,9 @@ the subtitle editor :)
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,126 |
-| Forks | 1,398 |
-| Stars today | 14 |
+| Stars | 15,135 |
+| Forks | 1,399 |
+| Stars today | 12 |
 
 ---
 
@@ -106,9 +106,9 @@ Provides an efficient allocation free async/await integration for Unity.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,320 |
-| Forks | 1,015 |
-| Stars today | 3 |
+| Stars | 11,321 |
+| Forks | 1,016 |
+| Stars today | 1 |
 
 ---
 
@@ -119,9 +119,9 @@ Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,137 |
+| Stars | 4,147 |
 | Forks | 372 |
-| Stars today | 3 |
+| Stars today | 6 |
 
 ---
 
@@ -132,7 +132,7 @@ Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,579 |
+| Stars | 10,586 |
 | Forks | 721 |
 | Stars today | 4 |
 
@@ -145,9 +145,9 @@ OfficeCLI is the first and best Office suite purpose-built for AI agents to read
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 33,564 |
-| Forks | 2,301 |
-| Stars today | 21 |
+| Stars | 33,589 |
+| Forks | 2,300 |
+| Stars today | 27 |
 
 ---
 
@@ -158,7 +158,7 @@ Bitwarden infrastructure/backend (API, database, Docker, etc).
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,722 |
+| Stars | 20,731 |
 | Forks | 1,843 |
 | Stars today | 9 |
 
@@ -171,9 +171,9 @@ Greenshot for Windows - for more information look here:
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,290 |
+| Stars | 5,289 |
 | Forks | 724 |
-| Stars today | 3 |
+| Stars today | 1 |
 
 ---
 
@@ -184,9 +184,9 @@ Download web video and audio
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,802 |
-| Forks | 385 |
-| Stars today | 9 |
+| Stars | 7,812 |
+| Forks | 387 |
+| Stars today | 11 |
 
 ---
 
@@ -197,8 +197,8 @@ A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,726 |
-| Forks | 473 |
-| Stars today | 7 |
+| Stars | 8,733 |
+| Forks | 472 |
+| Stars today | 17 |
 
 ---

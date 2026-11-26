@@ -1,7 +1,7 @@
 # GitHub Trending - Kotlin
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-25T08:22:47Z
+**Snapshot Time:** 2026-11-26T08:07:55Z
 **Total Repositories:** 15
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Pixel Music is an open-source Android music player. Stream YouTube Music & Teleg
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 449 |
+| Stars | 453 |
 | Forks | 36 |
-| Stars today | 12 |
+| Stars today | 7 |
 
 ---
 
@@ -28,9 +28,9 @@ Pixel Music is an open-source Android music player. Stream YouTube Music & Teleg
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,732 |
-| Forks | 278 |
-| Stars today | 75 |
+| Stars | 1,789 |
+| Forks | 283 |
+| Stars today | 61 |
 
 ---
 
@@ -41,9 +41,9 @@ Pixel Music is an open-source Android music player. Stream YouTube Music & Teleg
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 58,243 |
-| Forks | 8,860 |
-| Stars today | 43 |
+| Stars | 58,267 |
+| Forks | 8,859 |
+| Stars today | 33 |
 
 ---
 
@@ -54,9 +54,9 @@ A gallery that showcases on-device ML/GenAI use cases and allows people to try a
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 25,455 |
-| Forks | 2,851 |
-| Stars today | 21 |
+| Stars | 25,473 |
+| Forks | 2,857 |
+| Stars today | 24 |
 
 ---
 
@@ -67,9 +67,9 @@ Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools o
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 1,740 |
+| Stars | 1,756 |
 | Forks | 88 |
-| Stars today | 8 |
+| Stars today | 12 |
 
 ---
 
@@ -80,9 +80,9 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 7,449 |
-| Forks | 1,458 |
-| Stars today | 24 |
+| Stars | 7,481 |
+| Forks | 1,459 |
+| Stars today | 29 |
 
 ---
 
@@ -93,9 +93,9 @@ Kernel-based Android Root Solution & KPM
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 8,806 |
-| Forks | 382 |
-| Stars today | 49 |
+| Stars | 8,844 |
+| Forks | 384 |
+| Stars today | 39 |
 
 ---
 
@@ -108,7 +108,7 @@ FOSS call recorder for Android, no root or PC — records both sides of a call o
 | Language | Kotlin |
 | Stars | 311 |
 | Forks | 41 |
-| Stars today | 5 |
+| Stars today | 1 |
 
 ---
 
@@ -119,8 +119,8 @@ A free, open-source Android music app with no ads, synced lyrics, background pla
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 423 |
-| Forks | 41 |
+| Stars | 441 |
+| Forks | 43 |
 | Stars today | 19 |
 
 ---
@@ -132,9 +132,9 @@ Block ads system-wide on Android using local VPN-based DNS filtering. No root ne
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,838 |
+| Stars | 2,854 |
 | Forks | 176 |
-| Stars today | 26 |
+| Stars today | 17 |
 
 ---
 
@@ -145,9 +145,9 @@ An YouTube Music Client
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 2,760 |
-| Forks | 282 |
-| Stars today | 18 |
+| Stars | 2,778 |
+| Forks | 283 |
+| Stars today | 19 |
 
 ---
 
@@ -158,9 +158,9 @@ A native Android audio player that combines multi-source streaming, local contro
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 4,489 |
+| Stars | 4,517 |
 | Forks | 180 |
-| Stars today | 29 |
+| Stars today | 30 |
 
 ---
 
@@ -171,9 +171,9 @@ RikkaHub is an Android APP that supports for multiple LLM providers.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 9,189 |
-| Forks | 939 |
-| Stars today | 29 |
+| Stars | 9,219 |
+| Forks | 944 |
+| Stars today | 41 |
 
 ---
 
@@ -184,8 +184,8 @@ RikkaHub is an Android APP that supports for multiple LLM providers.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 30,994 |
-| Forks | 1,591 |
+| Stars | 31,029 |
+| Forks | 1,595 |
 | Stars today | 35 |
 
 ---
@@ -197,8 +197,8 @@ RikkaHub is an Android APP that supports for multiple LLM providers.
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 29,017 |
+| Stars | 29,037 |
 | Forks | 3,535 |
-| Stars today | 11 |
+| Stars today | 17 |
 
 ---

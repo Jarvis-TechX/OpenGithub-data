@@ -1,7 +1,7 @@
 # GitHub Trending - Rust
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-25T08:23:28Z
+**Snapshot Time:** 2026-11-26T08:08:37Z
 **Total Repositories:** 21
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 116,484 |
-| Forks | 6,961 |
-| Stars this month | 30,688 |
+| Stars | 117,111 |
+| Forks | 7,008 |
+| Stars this month | 30,151 |
 
 ---
 
@@ -28,9 +28,9 @@ Browser automation CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 53,868 |
-| Forks | 3,770 |
-| Stars this month | 9,395 |
+| Stars | 54,041 |
+| Forks | 3,773 |
+| Stars this month | 9,541 |
 
 ---
 
@@ -41,9 +41,9 @@ Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 12,739 |
+| Stars | 12,752 |
 | Forks | 513 |
-| Stars this month | 3,335 |
+| Stars this month | 3,325 |
 
 ---
 
@@ -54,9 +54,9 @@ Code at the speed of thought â€“ Zed is a high-performance, multiplayer code edi
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 95,691 |
-| Forks | 11,839 |
-| Stars this month | 4,040 |
+| Stars | 95,757 |
+| Forks | 11,861 |
+| Stars this month | 4,105 |
 
 ---
 
@@ -67,9 +67,9 @@ A free, open source, and extensible speech-to-text application that works comple
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 40,129 |
-| Forks | 3,787 |
-| Stars this month | 5,623 |
+| Stars | 40,273 |
+| Forks | 3,802 |
+| Stars this month | 5,714 |
 
 ---
 
@@ -80,9 +80,9 @@ Next Generation Agentic Proxy for AI Agents and MCP servers
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,413 |
-| Forks | 1,132 |
-| Stars this month | 876 |
+| Stars | 6,438 |
+| Forks | 1,135 |
+| Stars this month | 872 |
 
 ---
 
@@ -93,9 +93,9 @@ Computer use CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 26,561 |
-| Forks | 2,001 |
-| Stars this month | 24,824 |
+| Stars | 26,756 |
+| Forks | 2,009 |
+| Stars this month | 24,956 |
 
 ---
 
@@ -106,9 +106,9 @@ An extremely fast Python linter and code formatter, written in Rust.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 51,478 |
-| Forks | 2,778 |
-| Stars this month | 2,103 |
+| Stars | 51,548 |
+| Forks | 2,784 |
+| Stars this month | 2,190 |
 
 ---
 
@@ -119,9 +119,9 @@ An extremely fast Python linter and code formatter, written in Rust.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 105,100 |
-| Forks | 13,630 |
-| Stars this month | 6,023 |
+| Stars | 105,221 |
+| Forks | 13,655 |
+| Stars this month | 5,987 |
 
 ---
 
@@ -132,9 +132,9 @@ AI search engine and MCP server for bots and agents. One Rust binary indexes cod
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 21,399 |
-| Forks | 1,330 |
-| Stars this month | 9,168 |
+| Stars | 21,553 |
+| Forks | 1,337 |
+| Stars this month | 9,075 |
 
 ---
 
@@ -145,8 +145,8 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 6,475 |
-| Forks | 605 |
+| Stars | 6,526 |
+| Forks | 613 |
 | Stars this month | 1,608 |
 
 ---
@@ -158,9 +158,9 @@ Object-storage native graph database with branching and typed ontology
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 3,268 |
+| Stars | 3,287 |
 | Forks | 345 |
-| Stars this month | 1,535 |
+| Stars this month | 1,539 |
 
 ---
 
@@ -171,9 +171,9 @@ The open-source CapCut alternative.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 20,073 |
-| Forks | 2,450 |
-| Stars this month | 8,858 |
+| Stars | 20,686 |
+| Forks | 2,516 |
+| Stars this month | 8,819 |
 
 ---
 
@@ -184,9 +184,9 @@ ZapFast: a fast, native WhatsApp client in Rust and egui
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 5,053 |
-| Forks | 520 |
-| Stars this month | 2,884 |
+| Stars | 5,088 |
+| Forks | 526 |
+| Stars this month | 2,896 |
 
 ---
 
@@ -197,9 +197,9 @@ Distributed AI/LLM for the people. Share compute privately or publicly to power 
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 4,220 |
-| Forks | 534 |
-| Stars this month | 685 |
+| Stars | 4,225 |
+| Forks | 536 |
+| Stars this month | 690 |
 
 ---
 
@@ -210,9 +210,9 @@ Build smaller, faster, and more secure desktop and mobile applications with a we
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 113,136 |
-| Forks | 4,232 |
-| Stars this month | 1,726 |
+| Stars | 113,185 |
+| Forks | 4,234 |
+| Stars this month | 1,754 |
 
 ---
 
@@ -223,9 +223,9 @@ A modern runtime for JavaScript and TypeScript.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 108,997 |
-| Forks | 6,588 |
-| Stars this month | 1,073 |
+| Stars | 109,027 |
+| Forks | 6,598 |
+| Stars this month | 1,126 |
 
 ---
 
@@ -236,9 +236,9 @@ Incredibly fast JavaScript runtime, bundler, test runner, and package manager â€
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 96,924 |
-| Forks | 5,222 |
-| Stars this month | 929 |
+| Stars | 96,980 |
+| Forks | 5,225 |
+| Stars this month | 1,009 |
 
 ---
 
@@ -249,9 +249,9 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 16,370 |
-| Forks | 1,245 |
-| Stars this month | 3,229 |
+| Stars | 16,431 |
+| Forks | 1,250 |
+| Stars this month | 3,048 |
 
 ---
 
@@ -262,9 +262,9 @@ Open source Loom alternative. Beautiful, shareable screen recordings.
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 25,560 |
-| Forks | 2,435 |
-| Stars this month | 1,923 |
+| Stars | 25,608 |
+| Forks | 2,443 |
+| Stars this month | 1,906 |
 
 ---
 
@@ -275,8 +275,8 @@ The Rust package manager
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 15,795 |
-| Forks | 3,250 |
-| Stars this month | 195 |
+| Stars | 15,802 |
+| Forks | 3,252 |
+| Stars this month | 197 |
 
 ---

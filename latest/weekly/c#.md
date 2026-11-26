@@ -1,7 +1,7 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-25T08:23:10Z
+**Snapshot Time:** 2026-11-26T08:08:20Z
 **Total Repositories:** 15
 **New Entries:** 0
 **Quality Score:** 97.33/100
@@ -15,9 +15,9 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,357 |
+| Stars | 6,373 |
 | Forks | 510 |
-| Stars this week | 94 |
+| Stars this week | 95 |
 
 ---
 
@@ -28,9 +28,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,090 |
-| Forks | 578 |
-| Stars this week | 719 |
+| Stars | 13,151 |
+| Forks | 580 |
+| Stars this week | 469 |
 
 ---
 
@@ -41,9 +41,9 @@ Open-source Windows game resource manager. Suppresses background processes, give
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,595 |
-| Forks | 111 |
-| Stars this week | 388 |
+| Stars | 2,646 |
+| Forks | 112 |
+| Stars this week | 304 |
 
 ---
 
@@ -54,9 +54,9 @@ rhythm is just a *click* away!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,522 |
-| Forks | 2,900 |
-| Stars this week | 48 |
+| Stars | 19,535 |
+| Forks | 2,911 |
+| Stars this week | 54 |
 
 ---
 
@@ -67,9 +67,9 @@ FluentCleaner is the transparent, community-powered CCleaner alternative for Win
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,707 |
+| Stars | 7,736 |
 | Forks | 258 |
-| Stars this week | 463 |
+| Stars this week | 388 |
 
 ---
 
@@ -80,9 +80,9 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,411 |
-| Forks | 16,397 |
-| Stars this week | 610 |
+| Stars | 121,495 |
+| Forks | 16,402 |
+| Stars this week | 627 |
 
 ---
 
@@ -93,9 +93,9 @@ UniGetUI: The Graphical Interface for your package managers. Could be terribly d
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,248 |
+| Stars | 27,267 |
 | Forks | 996 |
-| Stars this week | 180 |
+| Stars this week | 172 |
 
 ---
 
@@ -106,9 +106,9 @@ Movie organizer/manager for usenet and torrent users.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,879 |
+| Stars | 14,888 |
 | Forks | 1,269 |
-| Stars this week | 73 |
+| Stars this week | 76 |
 
 ---
 
@@ -119,9 +119,9 @@ the subtitle editor :)
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,126 |
-| Forks | 1,398 |
-| Stars this week | 102 |
+| Stars | 15,135 |
+| Forks | 1,399 |
+| Stars this week | 97 |
 
 ---
 
@@ -132,9 +132,9 @@ A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, musi
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 913 |
-| Forks | 95 |
-| Stars this week | 115 |
+| Stars | 930 |
+| Forks | 96 |
+| Stars this week | 110 |
 
 ---
 
@@ -145,9 +145,9 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,397 |
-| Forks | 4,119 |
-| Stars this week | 116 |
+| Stars | 39,427 |
+| Forks | 4,121 |
+| Stars this week | 121 |
 
 ---
 
@@ -156,9 +156,9 @@ A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,912 |
+| Stars | 13,919 |
 | Forks | 1,214 |
-| Stars this week | 68 |
+| Stars this week | 57 |
 
 ---
 
@@ -169,9 +169,9 @@ The media player for language learning, with dual subtitles, AI-generated subtit
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,800 |
+| Stars | 4,803 |
 | Forks | 312 |
-| Stars this week | 56 |
+| Stars this week | 49 |
 
 ---
 
@@ -182,9 +182,9 @@ ASP.NET Core is a cross-platform .NET framework for building modern cloud-based 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,543 |
-| Forks | 11,496 |
-| Stars this week | 33 |
+| Stars | 38,546 |
+| Forks | 11,497 |
+| Stars this week | 32 |
 
 ---
 
@@ -195,8 +195,8 @@ PowerShell for every system!
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,300 |
-| Forks | 8,561 |
-| Stars this week | 108 |
+| Stars | 56,317 |
+| Forks | 8,563 |
+| Stars this week | 109 |
 
 ---

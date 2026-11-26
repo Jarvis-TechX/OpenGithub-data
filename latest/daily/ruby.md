@@ -1,10 +1,10 @@
 # GitHub Trending - Ruby
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-25T08:22:35Z
-**Total Repositories:** 19
-**New Entries:** 0
-**Quality Score:** 97.89/100
+**Snapshot Time:** 2026-11-26T08:07:45Z
+**Total Repositories:** 20
+**New Entries:** 1
+**Quality Score:** 98.00/100
 
 ---
 
@@ -15,8 +15,8 @@
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,691 |
-| Forks | 13,981 |
+| Stars | 15,693 |
+| Forks | 13,984 |
 | Stars today | 2 |
 
 ---
@@ -28,9 +28,9 @@ See what sticks
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 10,209 |
-| Forks | 2,138 |
-| Stars today | 7 |
+| Stars | 10,213 |
+| Forks | 2,139 |
+| Stars today | 5 |
 
 ---
 
@@ -41,9 +41,9 @@ The Ruby Programming Language
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,861 |
+| Stars | 23,868 |
 | Forks | 5,701 |
-| Stars today | 8 |
+| Stars today | 7 |
 
 ---
 
@@ -54,9 +54,9 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 40,523 |
-| Forks | 9,876 |
-| Stars today | 64 |
+| Stars | 40,588 |
+| Forks | 9,890 |
+| Stars today | 77 |
 
 ---
 
@@ -67,9 +67,9 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,711 |
-| Forks | 3,833 |
-| Stars today | 33 |
+| Stars | 17,749 |
+| Forks | 3,842 |
+| Stars today | 39 |
 
 ---
 
@@ -80,9 +80,9 @@ Open source DocuSign alternative. Create, fill, and sign digital documents ✍�
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 19,151 |
-| Forks | 1,970 |
-| Stars today | 14 |
+| Stars | 19,166 |
+| Forks | 1,976 |
+| Stars today | 10 |
 
 ---
 
@@ -93,9 +93,9 @@ Informative site with EoL dates of everything
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,456 |
+| Stars | 3,458 |
 | Forks | 1,366 |
-| Stars today | 1 |
+| Stars today | 2 |
 
 ---
 
@@ -106,9 +106,9 @@ Zammad is a web based open source helpdesk/customer support system.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 6,144 |
-| Forks | 1,112 |
-| Stars today | 3 |
+| Stars | 6,149 |
+| Forks | 1,111 |
+| Stars today | 6 |
 
 ---
 
@@ -119,8 +119,8 @@ For empowering community 🌱
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,843 |
-| Forks | 4,272 |
+| Stars | 22,842 |
+| Forks | 4,277 |
 
 ---
 
@@ -131,50 +131,64 @@ For empowering community 🌱
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,318 |
-| Forks | 12,152 |
-| Stars today | 1 |
+| Stars | 22,322 |
+| Forks | 12,154 |
+| Stars today | 3 |
 
 ---
 
-## 11. [ruby/rubygems](https://github.com/ruby/rubygems)
+## 11. [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) 🆕
+
+A database of vulnerable Ruby Gems
+
+| Metric | Value |
+|--------|-------|
+| Language | Ruby |
+| Stars | 1,083 |
+| Forks | 258 |
+
+---
+
+## 12. [ruby/rubygems](https://github.com/ruby/rubygems)
 
 Library packaging and distribution for Ruby.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,996 |
-| Forks | 1,972 |
+| Stars | 3,997 |
+| Forks | 1,975 |
+| Stars today | 1 |
 
 ---
 
-## 12. [github/explore](https://github.com/github/explore)
+## 13. [github/explore](https://github.com/github/explore)
 
 Community-curated topic and collection pages on GitHub
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 4,971 |
-| Forks | 14,753 |
+| Stars | 4,972 |
+| Forks | 14,754 |
+| Stars today | 1 |
 
 ---
 
-## 13. [huginn/huginn](https://github.com/huginn/huginn)
+## 14. [huginn/huginn](https://github.com/huginn/huginn)
 
 Create agents that monitor and act on your behalf. Your agents are standing by!
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,632 |
-| Forks | 4,366 |
-| Stars today | 12 |
+| Stars | 50,645 |
+| Forks | 4,365 |
+| Stars today | 15 |
 
 ---
 
-## 14. [otwcode/otwarchive](https://github.com/otwcode/otwarchive)
+## 15. [otwcode/otwarchive](https://github.com/otwcode/otwarchive)
 
 The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project
 
@@ -183,11 +197,11 @@ The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Proje
 | Language | Ruby |
 | Stars | 2,454 |
 | Forks | 911 |
-| Stars today | 2 |
+| Stars today | 4 |
 
 ---
 
-## 15. [citation-style-language/styles](https://github.com/citation-style-language/styles)
+## 16. [citation-style-language/styles](https://github.com/citation-style-language/styles)
 
 Official repository for Citation Style Language (CSL) citation styles.
 
@@ -195,11 +209,12 @@ Official repository for Citation Style Language (CSL) citation styles.
 |--------|-------|
 | Language | Ruby |
 | Stars | 3,941 |
-| Forks | 4,197 |
+| Forks | 4,198 |
+| Stars today | 1 |
 
 ---
 
-## 16. [e621ng/e621ng](https://github.com/e621ng/e621ng)
+## 17. [e621ng/e621ng](https://github.com/e621ng/e621ng)
 
 | Metric | Value |
 |--------|-------|
@@ -210,7 +225,7 @@ Official repository for Citation Style Language (CSL) citation styles.
 
 ---
 
-## 17. [puma/puma](https://github.com/puma/puma)
+## 18. [puma/puma](https://github.com/puma/puma)
 
 A Ruby/Rack web server built for parallelism
 
@@ -219,24 +234,23 @@ A Ruby/Rack web server built for parallelism
 | Language | Ruby |
 | Stars | 7,930 |
 | Forks | 1,527 |
-| Stars today | 1 |
 
 ---
 
-## 18. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+## 19. [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
 
 🤖 Dependabot's core logic for creating update PRs.
 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 5,869 |
-| Forks | 1,613 |
-| Stars today | 5 |
+| Stars | 5,870 |
+| Forks | 1,614 |
+| Stars today | 3 |
 
 ---
 
-## 19. [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
+## 20. [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
 
 The Rails application that powers OpenStreetMap
 
@@ -245,6 +259,6 @@ The Rails application that powers OpenStreetMap
 | Language | Ruby |
 | Stars | 2,902 |
 | Forks | 1,113 |
-| Stars today | 2 |
+| Stars today | 1 |
 
 ---

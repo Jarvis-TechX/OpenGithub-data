@@ -1,9 +1,9 @@
 # GitHub Trending - All
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-25T08:23:14Z
+**Snapshot Time:** 2026-11-26T08:08:24Z
 **Total Repositories:** 19
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 | Metric | Value |
 |--------|-------|
 | Language | CSS |
-| Stars | 60,751 |
-| Forks | 3,323 |
-| Stars this month | 29,170 |
+| Stars | 61,265 |
+| Forks | 3,360 |
+| Stars this month | 28,295 |
 
 ---
 
@@ -28,9 +28,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 78,098 |
-| Forks | 5,275 |
-| Stars this month | 35,068 |
+| Stars | 78,485 |
+| Forks | 5,311 |
+| Stars this month | 32,663 |
 
 ---
 
@@ -41,9 +41,9 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 27,654 |
-| Forks | 3,950 |
-| Stars this month | 22,073 |
+| Stars | 27,951 |
+| Forks | 3,986 |
+| Stars this month | 22,391 |
 
 ---
 
@@ -54,9 +54,9 @@ The best way to control Claude Code, Codex and more from any computer or phone
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 78,341 |
-| Forks | 13,596 |
-| Stars this month | 47,147 |
+| Stars | 79,984 |
+| Forks | 14,128 |
+| Stars this month | 49,283 |
 
 ---
 
@@ -67,9 +67,9 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 200,152 |
-| Forks | 23,409 |
-| Stars this month | 16,946 |
+| Stars | 200,709 |
+| Forks | 23,469 |
+| Stars this month | 17,272 |
 
 ---
 
@@ -80,9 +80,9 @@ Persistent Context Across Sessions for Every Agent – Captures everything your 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 119,625 |
-| Forks | 10,396 |
-| Stars this month | 17,462 |
+| Stars | 119,839 |
+| Forks | 10,420 |
+| Stars this month | 17,424 |
 
 ---
 
@@ -93,9 +93,9 @@ Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook f
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,089 |
-| Forks | 1,594 |
-| Stars this month | 6,218 |
+| Stars | 9,391 |
+| Forks | 1,612 |
+| Stars this month | 6,421 |
 
 ---
 
@@ -106,22 +106,22 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,966 |
-| Forks | 1,438 |
-| Stars this month | 5,292 |
+| Stars | 15,146 |
+| Forks | 1,452 |
+| Stars this month | 5,475 |
 
 ---
 
-## 9. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) 🆕
+## 9. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
 
 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 86,541 |
-| Forks | 2,453 |
-| Stars this month | 48,193 |
+| Stars | 87,539 |
+| Forks | 2,480 |
+| Stars this month | 47,629 |
 
 ---
 
@@ -132,9 +132,9 @@ DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 62,509 |
-| Forks | 7,524 |
-| Stars this month | 20,099 |
+| Stars | 62,951 |
+| Forks | 7,592 |
+| Stars this month | 20,351 |
 
 ---
 
@@ -145,9 +145,9 @@ Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 41,238 |
-| Forks | 3,781 |
-| Stars this month | 20,773 |
+| Stars | 41,737 |
+| Forks | 3,825 |
+| Stars this month | 20,593 |
 
 ---
 
@@ -158,9 +158,9 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 116,484 |
-| Forks | 6,961 |
-| Stars this month | 30,688 |
+| Stars | 117,111 |
+| Forks | 7,008 |
+| Stars this month | 30,151 |
 
 ---
 
@@ -171,9 +171,9 @@ Hunt down social media accounts by username across social networks
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 117,243 |
-| Forks | 13,371 |
-| Stars this month | 22,382 |
+| Stars | 117,744 |
+| Forks | 13,435 |
+| Stars this month | 22,950 |
 
 ---
 
@@ -184,9 +184,9 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,256 |
-| Forks | 3,943 |
-| Stars this month | 12,213 |
+| Stars | 32,482 |
+| Forks | 3,958 |
+| Stars this month | 12,180 |
 
 ---
 
@@ -197,9 +197,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 12,781 |
-| Forks | 1,530 |
-| Stars this month | 4,010 |
+| Stars | 13,096 |
+| Forks | 1,545 |
+| Stars this month | 4,344 |
 
 ---
 
@@ -210,22 +210,22 @@ Open-source AI video editor: edit your own footage, or create and remake any vid
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 89,768 |
-| Forks | 8,371 |
-| Stars this month | 18,583 |
+| Stars | 90,375 |
+| Forks | 8,416 |
+| Stars this month | 18,511 |
 
 ---
 
 ## 17. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
 
-A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 21,973 |
-| Forks | 2,273 |
-| Stars this month | 15,607 |
+| Stars | 23,474 |
+| Forks | 2,398 |
+| Stars this month | 17,223 |
 
 ---
 
@@ -236,9 +236,9 @@ Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 10,838 |
-| Forks | 925 |
-| Stars this month | 8,190 |
+| Stars | 11,255 |
+| Forks | 947 |
+| Stars this month | 8,284 |
 
 ---
 
@@ -249,8 +249,8 @@ Browser automation CLI for AI agents
 | Metric | Value |
 |--------|-------|
 | Language | Rust |
-| Stars | 53,868 |
-| Forks | 3,770 |
-| Stars this month | 9,395 |
+| Stars | 54,041 |
+| Forks | 3,773 |
+| Stars this month | 9,541 |
 
 ---

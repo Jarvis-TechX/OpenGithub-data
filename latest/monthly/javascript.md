@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-25T08:23:18Z
+**Snapshot Time:** 2026-11-26T08:08:28Z
 **Total Repositories:** 14
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 78,098 |
-| Forks | 5,275 |
-| Stars this month | 35,068 |
+| Stars | 78,485 |
+| Forks | 5,311 |
+| Stars this month | 32,663 |
 
 ---
 
-## 2. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) 🆕
+## 2. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
 
 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 86,541 |
-| Forks | 2,453 |
-| Stars this month | 48,193 |
+| Stars | 87,539 |
+| Forks | 2,480 |
+| Stars this month | 47,629 |
 
 ---
 
@@ -41,9 +41,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 121,269 |
-| Forks | 8,141 |
-| Stars this month | 19,674 |
+| Stars | 121,700 |
+| Forks | 8,184 |
+| Stars this month | 19,661 |
 
 ---
 
@@ -54,9 +54,9 @@ For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,353 |
-| Forks | 152 |
-| Stars this month | 1,294 |
+| Stars | 2,376 |
+| Forks | 155 |
+| Stars this month | 1,225 |
 
 ---
 
@@ -67,9 +67,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 23,976 |
-| Forks | 3,220 |
-| Stars this month | 8,546 |
+| Stars | 24,116 |
+| Forks | 3,253 |
+| Stars this month | 8,503 |
 
 ---
 
@@ -80,9 +80,9 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 24,451 |
-| Forks | 1,384 |
-| Stars this month | 5,279 |
+| Stars | 24,583 |
+| Forks | 1,392 |
+| Stars this month | 5,178 |
 
 ---
 
@@ -93,9 +93,9 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 62,515 |
-| Forks | 9,126 |
-| Stars this month | 6,283 |
+| Stars | 62,718 |
+| Forks | 9,160 |
+| Stars this month | 6,301 |
 
 ---
 
@@ -106,9 +106,9 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 15,786 |
-| Forks | 1,784 |
-| Stars this month | 2,584 |
+| Stars | 15,828 |
+| Forks | 1,786 |
+| Stars this month | 2,609 |
 
 ---
 
@@ -119,9 +119,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 119,333 |
-| Forks | 37,022 |
-| Stars this month | 2,556 |
+| Stars | 119,433 |
+| Forks | 37,032 |
+| Stars this month | 2,582 |
 
 ---
 
@@ -132,9 +132,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 41,238 |
-| Forks | 2,968 |
-| Stars this month | 13,967 |
+| Stars | 41,358 |
+| Forks | 2,976 |
+| Stars this month | 13,853 |
 
 ---
 
@@ -145,9 +145,9 @@ jQuery JavaScript Library
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,146 |
+| Stars | 60,168 |
 | Forks | 20,635 |
-| Stars this month | 872 |
+| Stars this month | 890 |
 
 ---
 
@@ -158,9 +158,9 @@ Community-contributed instructions, agents, skills, and configurations to help y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 41,542 |
-| Forks | 5,426 |
-| Stars this month | 1,311 |
+| Stars | 41,579 |
+| Forks | 5,436 |
+| Stars this month | 1,327 |
 
 ---
 
@@ -171,9 +171,9 @@ Vercel's official collection of agent skills
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,887 |
-| Forks | 3,043 |
-| Stars this month | 2,036 |
+| Stars | 34,943 |
+| Forks | 3,052 |
+| Stars this month | 2,027 |
 
 ---
 
@@ -184,8 +184,8 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 120,286 |
-| Forks | 12,504 |
-| Stars this month | 10,482 |
+| Stars | 120,491 |
+| Forks | 12,534 |
+| Stars this month | 10,440 |
 
 ---
