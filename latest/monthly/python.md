@@ -1,7 +1,7 @@
 # GitHub Trending - Python
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-26T08:08:26Z
+**Snapshot Time:** 2026-11-27T08:18:36Z
 **Total Repositories:** 17
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Public repository for Agent Skills
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 200,709 |
-| Forks | 23,469 |
-| Stars this month | 17,272 |
+| Stars | 201,207 |
+| Forks | 23,544 |
+| Stars this month | 17,538 |
 
 ---
 
@@ -28,9 +28,9 @@ Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook f
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,391 |
-| Forks | 1,612 |
-| Stars this month | 6,421 |
+| Stars | 9,687 |
+| Forks | 1,641 |
+| Stars this month | 6,511 |
 
 ---
 
@@ -41,9 +41,9 @@ DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 62,951 |
-| Forks | 7,592 |
-| Stars this month | 20,351 |
+| Stars | 63,562 |
+| Forks | 7,666 |
+| Stars this month | 20,206 |
 
 ---
 
@@ -54,9 +54,9 @@ Hunt down social media accounts by username across social networks
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 117,744 |
-| Forks | 13,435 |
-| Stars this month | 22,950 |
+| Stars | 118,276 |
+| Forks | 13,494 |
+| Stars this month | 23,328 |
 
 ---
 
@@ -67,9 +67,9 @@ Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 32,482 |
-| Forks | 3,958 |
-| Stars this month | 12,180 |
+| Stars | 32,729 |
+| Forks | 3,974 |
+| Stars this month | 10,958 |
 
 ---
 
@@ -80,9 +80,9 @@ A Claude Code skill bundle for bug hunting and external red-team work - 85 skill
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 23,474 |
-| Forks | 2,399 |
-| Stars this month | 17,223 |
+| Stars | 25,102 |
+| Forks | 2,552 |
+| Stars this month | 18,637 |
 
 ---
 
@@ -93,9 +93,9 @@ Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,255 |
-| Forks | 947 |
-| Stars this month | 8,284 |
+| Stars | 11,667 |
+| Forks | 973 |
+| Stars this month | 8,408 |
 
 ---
 
@@ -106,9 +106,9 @@ Open source repository of plugins primarily intended for knowledge workers to us
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 36,986 |
-| Forks | 4,099 |
-| Stars this month | 4,108 |
+| Stars | 37,126 |
+| Forks | 4,119 |
+| Stars this month | 3,988 |
 
 ---
 
@@ -119,9 +119,9 @@ TradingAgents: Towards Agentic Finance Research
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 123,806 |
-| Forks | 23,713 |
-| Stars this month | 9,995 |
+| Stars | 123,877 |
+| Forks | 23,722 |
+| Stars this month | 8,636 |
 
 ---
 
@@ -132,9 +132,9 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 27,723 |
-| Forks | 2,483 |
-| Stars this month | 6,165 |
+| Stars | 27,851 |
+| Forks | 2,498 |
+| Stars this month | 5,956 |
 
 ---
 
@@ -145,9 +145,9 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 105,874 |
-| Forks | 11,097 |
-| Stars this month | 16,552 |
+| Stars | 106,093 |
+| Forks | 11,128 |
+| Stars this month | 16,563 |
 
 ---
 
@@ -158,9 +158,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 75,343 |
-| Forks | 6,647 |
-| Stars this month | 9,790 |
+| Stars | 75,993 |
+| Forks | 6,710 |
+| Stars this month | 10,327 |
 
 ---
 
@@ -171,9 +171,9 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 47,522 |
-| Forks | 3,671 |
-| Stars this month | 4,359 |
+| Stars | 47,619 |
+| Forks | 3,684 |
+| Stars this month | 4,055 |
 
 ---
 
@@ -184,9 +184,9 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 16,680 |
-| Forks | 2,253 |
-| Stars this month | 3,127 |
+| Stars | 16,702 |
+| Forks | 2,257 |
+| Stars this month | 3,135 |
 
 ---
 
@@ -197,9 +197,9 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 145,775 |
-| Forks | 23,466 |
-| Stars this month | 11,272 |
+| Stars | 145,917 |
+| Forks | 23,498 |
+| Stars this month | 11,112 |
 
 ---
 
@@ -210,9 +210,9 @@ Agent skill that removes signs of AI-generated writing from text
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 73,720 |
-| Forks | 5,781 |
-| Stars this month | 13,261 |
+| Stars | 74,115 |
+| Forks | 5,831 |
+| Stars this month | 13,236 |
 
 ---
 
@@ -223,8 +223,8 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 105,048 |
-| Forks | 10,363 |
-| Stars this month | 2,517 |
+| Stars | 105,091 |
+| Forks | 10,382 |
+| Stars this month | 2,494 |
 
 ---

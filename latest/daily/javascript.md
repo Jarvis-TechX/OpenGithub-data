@@ -1,9 +1,9 @@
 # GitHub Trending - Javascript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-26T08:07:42Z
-**Total Repositories:** 10
-**New Entries:** 0
+**Snapshot Time:** 2026-11-27T08:17:53Z
+**Total Repositories:** 11
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 310,894 |
-| Forks | 45,673 |
-| Stars today | 573 |
+| Stars | 311,459 |
+| Forks | 45,759 |
+| Stars today | 602 |
 
 ---
 
@@ -28,9 +28,9 @@ web development for the rest of us
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 89,936 |
+| Stars | 89,977 |
 | Forks | 6,076 |
-| Stars today | 136 |
+| Stars today | 43 |
 
 ---
 
@@ -41,9 +41,9 @@ This is MCP server for Claude that gives it terminal control, file system search
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 10,424 |
-| Forks | 1,315 |
-| Stars today | 8 |
+| Stars | 10,439 |
+| Forks | 1,316 |
+| Stars today | 16 |
 
 ---
 
@@ -54,9 +54,9 @@ Vercel's official collection of agent skills
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 34,943 |
-| Forks | 3,052 |
-| Stars today | 56 |
+| Stars | 35,007 |
+| Forks | 3,057 |
+| Stars today | 61 |
 
 ---
 
@@ -67,9 +67,9 @@ Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 4,898 |
-| Forks | 455 |
-| Stars today | 51 |
+| Stars | 4,933 |
+| Forks | 459 |
+| Stars today | 46 |
 
 ---
 
@@ -80,8 +80,8 @@ Blazing fast and accurate glob matcher written JavaScript, with no dependencies 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 1,339 |
-| Forks | 210 |
+| Stars | 1,340 |
+| Forks | 209 |
 | Stars today | 1 |
 
 ---
@@ -93,9 +93,9 @@ WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查�
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 3,488 |
-| Forks | 380 |
-| Stars today | 31 |
+| Stars | 3,524 |
+| Forks | 387 |
+| Stars today | 48 |
 
 ---
 
@@ -106,9 +106,9 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 198,926 |
-| Forks | 11,287 |
-| Stars today | 672 |
+| Stars | 199,556 |
+| Forks | 11,338 |
+| Stars today | 687 |
 
 ---
 
@@ -119,21 +119,34 @@ Use Codex from Claude Code to review code or delegate tasks.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 35,462 |
-| Forks | 2,474 |
-| Stars today | 20 |
+| Stars | 35,487 |
+| Forks | 2,476 |
+| Stars today | 30 |
 
 ---
 
-## 10. [jquery/jquery](https://github.com/jquery/jquery)
+## 10. [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) 🆕
+
+Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
+
+| Metric | Value |
+|--------|-------|
+| Language | JavaScript |
+| Stars | 2,081 |
+| Forks | 223 |
+| Stars today | 42 |
+
+---
+
+## 11. [jquery/jquery](https://github.com/jquery/jquery)
 
 jQuery JavaScript Library
 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,168 |
+| Stars | 60,193 |
 | Forks | 20,635 |
-| Stars today | 34 |
+| Stars today | 22 |
 
 ---

@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-26T08:08:06Z
+**Snapshot Time:** 2026-11-27T08:18:17Z
 **Total Repositories:** 19
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 15,146 |
-| Forks | 1,452 |
-| Stars this week | 1,764 |
+| Stars | 15,310 |
+| Forks | 1,466 |
+| Stars this week | 1,631 |
 
 ---
 
@@ -28,9 +28,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,096 |
-| Forks | 1,545 |
-| Stars this week | 2,616 |
+| Stars | 13,396 |
+| Forks | 1,578 |
+| Stars this week | 2,619 |
 
 ---
 
@@ -41,22 +41,22 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,122 |
-| Forks | 836 |
-| Stars this week | 2,309 |
+| Stars | 11,327 |
+| Forks | 843 |
+| Stars this week | 2,209 |
 
 ---
 
-## 4. [n8n-io/nod](https://github.com/n8n-io/nod) 🆕
+## 4. [n8n-io/nod](https://github.com/n8n-io/nod)
 
 Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,672 |
-| Forks | 584 |
-| Stars this week | 1,008 |
+| Stars | 4,103 |
+| Forks | 624 |
+| Stars this week | 1,165 |
 
 ---
 
@@ -67,9 +67,9 @@ Chrome DevTools for coding agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 59,408 |
-| Forks | 4,891 |
-| Stars this week | 1,203 |
+| Stars | 59,543 |
+| Forks | 4,901 |
+| Stars this week | 1,175 |
 
 ---
 
@@ -80,9 +80,9 @@ AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 21,774 |
-| Forks | 2,189 |
-| Stars this week | 1,421 |
+| Stars | 21,881 |
+| Forks | 2,190 |
+| Stars this week | 1,269 |
 
 ---
 
@@ -93,9 +93,9 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,215 |
-| Forks | 2,595 |
-| Stars this week | 2,635 |
+| Stars | 33,427 |
+| Forks | 2,605 |
+| Stars this week | 2,519 |
 
 ---
 
@@ -106,9 +106,9 @@ Build your own AI office with Univer Office SDK. Bring editing, calculation, col
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,900 |
-| Forks | 2,869 |
-| Stars this week | 2,319 |
+| Stars | 32,006 |
+| Forks | 2,874 |
+| Stars this week | 1,825 |
 
 ---
 
@@ -119,9 +119,9 @@ Open-source generative UI framework: agents stream layout data, and apps render 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 18,696 |
-| Forks | 1,501 |
-| Stars this week | 1,044 |
+| Stars | 18,846 |
+| Forks | 1,503 |
+| Stars this week | 1,101 |
 
 ---
 
@@ -132,9 +132,9 @@ An open-source AI coding agent that lives in your terminal.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 30,949 |
-| Forks | 3,585 |
-| Stars this week | 218 |
+| Stars | 30,972 |
+| Forks | 3,589 |
+| Stars this week | 198 |
 
 ---
 
@@ -145,9 +145,9 @@ A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discor
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,050 |
-| Forks | 405 |
-| Stars this week | 471 |
+| Stars | 3,169 |
+| Forks | 413 |
+| Stars this week | 476 |
 
 ---
 
@@ -158,9 +158,9 @@ OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixi
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,380 |
-| Forks | 1,141 |
-| Stars this week | 312 |
+| Stars | 14,417 |
+| Forks | 1,148 |
+| Stars this week | 237 |
 
 ---
 
@@ -171,9 +171,9 @@ Email for professionals and teams
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,706 |
-| Forks | 1,383 |
-| Stars this week | 606 |
+| Stars | 7,763 |
+| Forks | 1,389 |
+| Stars this week | 521 |
 
 ---
 
@@ -184,9 +184,9 @@ Open-source Grok Bot alternative with a virtual machine that bots can use
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 27,951 |
-| Forks | 3,986 |
-| Stars this week | 2,595 |
+| Stars | 28,306 |
+| Forks | 4,028 |
+| Stars this week | 2,461 |
 
 ---
 
@@ -197,9 +197,9 @@ AIOStreams brings your Stremio addons, debrid services and Usenet together into 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,336 |
-| Forks | 968 |
-| Stars this week | 68 |
+| Stars | 3,339 |
+| Forks | 970 |
+| Stars this week | 66 |
 
 ---
 
@@ -210,9 +210,9 @@ AIOStreams brings your Stremio addons, debrid services and Usenet together into 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 86,169 |
-| Forks | 16,373 |
-| Stars this week | 427 |
+| Stars | 86,196 |
+| Forks | 16,370 |
+| Stars this week | 397 |
 
 ---
 
@@ -223,9 +223,9 @@ The open, self-hostable alternative to closed AI bots. Production-ready, fully c
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,558 |
-| Forks | 1,692 |
-| Stars this week | 693 |
+| Stars | 13,706 |
+| Forks | 1,713 |
+| Stars this week | 680 |
 
 ---
 
@@ -236,9 +236,9 @@ A format specification for describing a visual identity to coding agents. DESIGN
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,135 |
-| Forks | 2,353 |
-| Stars this week | 192 |
+| Stars | 29,168 |
+| Forks | 2,356 |
+| Stars this week | 198 |
 
 ---
 
@@ -249,8 +249,8 @@ mini cli search engine for your docs, knowledge bases, meeting notes, whatever. 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,616 |
+| Stars | 31,641 |
 | Forks | 1,992 |
-| Stars this week | 383 |
+| Stars this week | 390 |
 
 ---

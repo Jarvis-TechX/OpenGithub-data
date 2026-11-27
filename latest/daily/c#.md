@@ -1,7 +1,7 @@
 # GitHub Trending - C#
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-26T08:07:58Z
+**Snapshot Time:** 2026-11-27T08:18:09Z
 **Total Repositories:** 15
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ Free, open-source Windows optimization tool for performance, privacy, and simpli
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 13,151 |
-| Forks | 580 |
-| Stars today | 28 |
+| Stars | 13,239 |
+| Forks | 586 |
+| Stars today | 110 |
 
 ---
 
@@ -28,9 +28,9 @@ WinUI app for building smaller, customized Windows 11 images.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,572 |
-| Forks | 1,709 |
-| Stars today | 22 |
+| Stars | 22,600 |
+| Forks | 1,711 |
+| Stars today | 33 |
 
 ---
 
@@ -41,9 +41,9 @@ Advanced UX and interoperability extension for Wand (WeMod) app
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 33,637 |
-| Forks | 1,210 |
-| Stars today | 23 |
+| Stars | 33,641 |
+| Forks | 1,295 |
+| Stars today | 27 |
 
 ---
 
@@ -54,9 +54,9 @@ FluentCleaner is the transparent, community-powered CCleaner alternative for Win
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,736 |
+| Stars | 7,757 |
 | Forks | 258 |
-| Stars today | 50 |
+| Stars today | 29 |
 
 ---
 
@@ -67,9 +67,9 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,494 |
-| Forks | 16,402 |
-| Stars today | 93 |
+| Stars | 121,556 |
+| Forks | 16,413 |
+| Stars today | 101 |
 
 ---
 
@@ -80,9 +80,9 @@ Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 16,203 |
-| Forks | 1,653 |
-| Stars today | 35 |
+| Stars | 16,231 |
+| Forks | 1,659 |
+| Stars today | 23 |
 
 ---
 
@@ -93,9 +93,9 @@ the subtitle editor :)
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,135 |
-| Forks | 1,399 |
-| Stars today | 12 |
+| Stars | 15,144 |
+| Forks | 1,398 |
+| Stars today | 8 |
 
 ---
 
@@ -106,9 +106,8 @@ Provides an efficient allocation free async/await integration for Unity.
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 11,321 |
+| Stars | 11,322 |
 | Forks | 1,016 |
-| Stars today | 1 |
 
 ---
 
@@ -119,7 +118,7 @@ Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,147 |
+| Stars | 4,152 |
 | Forks | 372 |
 | Stars today | 6 |
 
@@ -132,9 +131,9 @@ Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 10,586 |
+| Stars | 10,592 |
 | Forks | 721 |
-| Stars today | 4 |
+| Stars today | 8 |
 
 ---
 
@@ -145,9 +144,9 @@ OfficeCLI is the first and best Office suite purpose-built for AI agents to read
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 33,589 |
-| Forks | 2,300 |
-| Stars today | 27 |
+| Stars | 33,620 |
+| Forks | 2,302 |
+| Stars today | 25 |
 
 ---
 
@@ -158,9 +157,9 @@ Bitwarden infrastructure/backend (API, database, Docker, etc).
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 20,731 |
+| Stars | 20,741 |
 | Forks | 1,843 |
-| Stars today | 9 |
+| Stars today | 11 |
 
 ---
 
@@ -171,7 +170,7 @@ Greenshot for Windows - for more information look here:
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,289 |
+| Stars | 5,292 |
 | Forks | 724 |
 | Stars today | 1 |
 
@@ -184,9 +183,9 @@ Download web video and audio
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,812 |
-| Forks | 387 |
-| Stars today | 11 |
+| Stars | 7,824 |
+| Forks | 388 |
+| Stars today | 12 |
 
 ---
 
@@ -197,8 +196,8 @@ A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用�
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 8,733 |
-| Forks | 472 |
-| Stars today | 17 |
+| Stars | 8,744 |
+| Forks | 473 |
+| Stars today | 9 |
 
 ---

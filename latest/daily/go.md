@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-26T08:07:48Z
-**Total Repositories:** 12
-**New Entries:** 0
+**Snapshot Time:** 2026-11-27T08:18:00Z
+**Total Repositories:** 13
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,356 |
-| Forks | 350 |
-| Stars today | 21 |
+| Stars | 2,373 |
+| Forks | 352 |
+| Stars today | 16 |
 
 ---
 
@@ -28,9 +28,9 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 35,063 |
-| Forks | 5,625 |
-| Stars today | 81 |
+| Stars | 35,134 |
+| Forks | 5,644 |
+| Stars today | 65 |
 
 ---
 
@@ -41,9 +41,9 @@ Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex an
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 6,133 |
-| Forks | 874 |
-| Stars today | 112 |
+| Stars | 6,057 |
+| Forks | 867 |
+| Stars today | 97 |
 
 ---
 
@@ -54,9 +54,9 @@ Agent Substrate: the core system
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,372 |
-| Forks | 926 |
-| Stars today | 64 |
+| Stars | 8,466 |
+| Forks | 943 |
+| Stars today | 48 |
 
 ---
 
@@ -67,9 +67,9 @@ Modern Docker Management, Designed for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,513 |
+| Stars | 10,604 |
 | Forks | 598 |
-| Stars today | 79 |
+| Stars today | 95 |
 
 ---
 
@@ -80,9 +80,9 @@ Shared task board where people and AI coding agents work as teammates. Source-av
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 58,009 |
-| Forks | 7,630 |
-| Stars today | 197 |
+| Stars | 58,140 |
+| Forks | 7,649 |
+| Stars today | 173 |
 
 ---
 
@@ -93,9 +93,9 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,937 |
-| Forks | 1,733 |
-| Stars today | 39 |
+| Stars | 17,970 |
+| Forks | 1,740 |
+| Stars today | 29 |
 
 ---
 
@@ -106,9 +106,9 @@ High-Performance server for NATS.io, the cloud and edge native messaging system.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 21,156 |
-| Forks | 2,063 |
-| Stars today | 14 |
+| Stars | 21,173 |
+| Forks | 2,065 |
+| Stars today | 13 |
 
 ---
 
@@ -119,9 +119,9 @@ Beads - A memory upgrade for your coding agent
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 29,094 |
-| Forks | 1,961 |
-| Stars today | 56 |
+| Stars | 29,139 |
+| Forks | 1,963 |
+| Stars today | 59 |
 
 ---
 
@@ -132,9 +132,9 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 13,466 |
-| Forks | 1,248 |
-| Stars today | 13 |
+| Stars | 13,476 |
+| Forks | 1,252 |
+| Stars today | 18 |
 
 ---
 
@@ -145,21 +145,34 @@ ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 2,705 |
-| Forks | 727 |
-| Stars today | 17 |
+| Stars | 2,724 |
+| Forks | 737 |
+| Stars today | 25 |
 
 ---
 
-## 12. [putyy/res-downloader](https://github.com/putyy/res-downloader)
+## 12. [egoist/mygo](https://github.com/egoist/mygo) 🆕
+
+Develop desktop apps with native UI or web frontend in Go
+
+| Metric | Value |
+|--------|-------|
+| Language | Go |
+| Stars | 7,004 |
+| Forks | 459 |
+| Stars today | 54 |
+
+---
+
+## 13. [putyy/res-downloader](https://github.com/putyy/res-downloader)
 
 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 21,579 |
-| Forks | 2,642 |
-| Stars today | 41 |
+| Stars | 21,596 |
+| Forks | 2,646 |
+| Stars today | 38 |
 
 ---

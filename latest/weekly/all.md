@@ -1,8 +1,8 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-26T08:08:01Z
-**Total Repositories:** 14
+**Snapshot Time:** 2026-11-27T08:18:13Z
+**Total Repositories:** 15
 **New Entries:** 1
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 15,146 |
-| Forks | 1,452 |
-| Stars this week | 1,764 |
+| Stars | 15,310 |
+| Forks | 1,466 |
+| Stars this week | 1,631 |
 
 ---
 
@@ -28,9 +28,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,096 |
-| Forks | 1,545 |
-| Stars this week | 2,616 |
+| Stars | 13,396 |
+| Forks | 1,578 |
+| Stars this week | 2,619 |
 
 ---
 
@@ -41,22 +41,22 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,122 |
-| Forks | 836 |
-| Stars this week | 2,309 |
+| Stars | 11,327 |
+| Forks | 843 |
+| Stars this week | 2,209 |
 
 ---
 
-## 4. [n8n-io/nod](https://github.com/n8n-io/nod) 🆕
+## 4. [n8n-io/nod](https://github.com/n8n-io/nod)
 
 Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,672 |
-| Forks | 584 |
-| Stars this week | 1,008 |
+| Stars | 4,103 |
+| Forks | 624 |
+| Stars this week | 1,165 |
 
 ---
 
@@ -67,9 +67,9 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 56,449 |
-| Forks | 4,666 |
-| Stars this week | 2,259 |
+| Stars | 56,738 |
+| Forks | 4,697 |
+| Stars this week | 2,284 |
 
 ---
 
@@ -80,9 +80,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 75,342 |
-| Forks | 6,647 |
-| Stars this week | 5,302 |
+| Stars | 75,993 |
+| Forks | 6,710 |
+| Stars this week | 5,090 |
 
 ---
 
@@ -93,9 +93,9 @@ Chrome DevTools for coding agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 59,408 |
-| Forks | 4,891 |
-| Stars this week | 1,203 |
+| Stars | 59,543 |
+| Forks | 4,901 |
+| Stars this week | 1,175 |
 
 ---
 
@@ -106,9 +106,9 @@ Claude Code skills for equity investors and traders — market analysis, technic
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,503 |
-| Forks | 1,556 |
-| Stars this week | 1,422 |
+| Stars | 8,646 |
+| Forks | 1,565 |
+| Stars this week | 1,381 |
 
 ---
 
@@ -119,9 +119,9 @@ AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 21,774 |
-| Forks | 2,189 |
-| Stars this week | 1,421 |
+| Stars | 21,881 |
+| Forks | 2,190 |
+| Stars this week | 1,269 |
 
 ---
 
@@ -132,9 +132,9 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,215 |
-| Forks | 2,595 |
-| Stars this week | 2,635 |
+| Stars | 33,427 |
+| Forks | 2,605 |
+| Stars this week | 2,519 |
 
 ---
 
@@ -145,9 +145,9 @@ Enable Hermès Watch Faces on any Apple Watch devices
 | Metric | Value |
 |--------|-------|
 | Language | Objective-C |
-| Stars | 2,526 |
-| Forks | 207 |
-| Stars this week | 318 |
+| Stars | 2,555 |
+| Forks | 206 |
+| Stars this week | 325 |
 
 ---
 
@@ -158,34 +158,47 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,981 |
-| Forks | 1,565 |
-| Stars this week | 1,509 |
+| Stars | 18,139 |
+| Forks | 1,575 |
+| Stars this week | 1,430 |
 
 ---
 
-## 13. [dream-num/univer](https://github.com/dream-num/univer)
+## 13. [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) 🆕
+
+Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
+
+| Metric | Value |
+|--------|-------|
+| Language | Shell |
+| Stars | 54,131 |
+| Forks | 3,852 |
+| Stars this week | 704 |
+
+---
+
+## 14. [dream-num/univer](https://github.com/dream-num/univer)
 
 Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 31,900 |
-| Forks | 2,869 |
-| Stars this week | 2,319 |
+| Stars | 32,006 |
+| Forks | 2,874 |
+| Stars this week | 1,825 |
 
 ---
 
-## 14. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
+## 15. [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)
 
 Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
 
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,255 |
-| Forks | 947 |
-| Stars this week | 3,048 |
+| Stars | 11,667 |
+| Forks | 973 |
+| Stars this week | 3,229 |
 
 ---
