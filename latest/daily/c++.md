@@ -1,7 +1,7 @@
 # GitHub Trending - C++
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-27T08:18:04Z
+**Snapshot Time:** 2026-11-28T07:39:45Z
 **Total Repositories:** 12
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 12,863 |
-| Forks | 3,753 |
-| Stars today | 176 |
+| Stars | 12,978 |
+| Forks | 3,814 |
+| Stars today | 151 |
 
 ---
 
@@ -28,9 +28,9 @@ Tool for automatic PS5 executables porting to Linux and Windows
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 62,453 |
-| Forks | 6,091 |
-| Stars today | 319 |
+| Stars | 62,919 |
+| Forks | 6,141 |
+| Stars today | 753 |
 
 ---
 
@@ -41,9 +41,9 @@ Official inference framework for 1-bit LLMs
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 42,507 |
-| Forks | 4,021 |
-| Stars today | 23 |
+| Stars | 42,511 |
+| Forks | 4,023 |
+| Stars today | 16 |
 
 ---
 
@@ -54,9 +54,9 @@ Open-source simulator for autonomous driving research.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 14,716 |
-| Forks | 4,758 |
-| Stars today | 5 |
+| Stars | 14,720 |
+| Forks | 4,760 |
+| Stars today | 7 |
 
 ---
 
@@ -67,9 +67,9 @@ Intrinsic Core™ provides an open, local runtime, SDK, and hardware agnostic, r
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 807 |
-| Forks | 103 |
-| Stars today | 8 |
+| Stars | 812 |
+| Forks | 104 |
+| Stars today | 6 |
 
 ---
 
@@ -80,9 +80,9 @@ Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source 
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 16,274 |
-| Forks | 1,926 |
-| Stars today | 26 |
+| Stars | 16,290 |
+| Forks | 1,931 |
+| Stars today | 25 |
 
 ---
 
@@ -93,9 +93,9 @@ Fast C++ logging library.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 29,834 |
-| Forks | 5,337 |
-| Stars today | 6 |
+| Stars | 29,839 |
+| Forks | 5,333 |
+| Stars today | 9 |
 
 ---
 
@@ -106,9 +106,9 @@ A local inference engine for Apple silicon, built around the model.
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 2,914 |
-| Forks | 275 |
-| Stars today | 52 |
+| Stars | 2,985 |
+| Forks | 285 |
+| Stars today | 118 |
 
 ---
 
@@ -119,9 +119,9 @@ Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, B
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 1,465 |
-| Forks | 473 |
-| Stars today | 44 |
+| Stars | 1,486 |
+| Forks | 478 |
+| Stars today | 40 |
 
 ---
 
@@ -132,9 +132,9 @@ Mooncake is the serving platform for Kimi, a leading LLM service provided by Moo
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 7,147 |
-| Forks | 1,540 |
-| Stars today | 9 |
+| Stars | 7,152 |
+| Forks | 1,541 |
+| Stars today | 11 |
 
 ---
 
@@ -145,8 +145,8 @@ Production-grade client-side tracing, profiling, and analysis for complex softwa
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 6,850 |
-| Forks | 968 |
+| Stars | 6,855 |
+| Forks | 969 |
 | Stars today | 9 |
 
 ---
@@ -158,8 +158,8 @@ JSON for Modern C++
 | Metric | Value |
 |--------|-------|
 | Language | C++ |
-| Stars | 51,001 |
-| Forks | 7,579 |
-| Stars today | 15 |
+| Stars | 51,016 |
+| Forks | 7,584 |
+| Stars today | 12 |
 
 ---

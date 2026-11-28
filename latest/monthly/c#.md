@@ -1,8 +1,8 @@
 # GitHub Trending - C#
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-27T08:18:55Z
-**Total Repositories:** 20
+**Snapshot Time:** 2026-11-28T07:40:27Z
+**Total Repositories:** 19
 **New Entries:** 0
 **Quality Score:** 100.00/100
 
@@ -15,182 +15,169 @@
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,357 |
+| Stars | 18,375 |
 | Forks | 1,375 |
-| Stars this month | 1,439 |
+| Stars this month | 1,278 |
 
 ---
 
-## 2. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
-
-Free, open-source Windows optimization tool for performance, privacy, and simplicity.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 13,239 |
-| Forks | 586 |
-| Stars this month | 2,656 |
-
----
-
-## 3. [dotnet/skills](https://github.com/dotnet/skills)
+## 2. [dotnet/skills](https://github.com/dotnet/skills)
 
 Repository for skills to assist AI coding agents with .NET and C#
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,380 |
+| Stars | 6,388 |
 | Forks | 510 |
-| Stars this month | 657 |
+| Stars this month | 652 |
 
 ---
 
-## 4. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+## 3. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 
 WinUI app for building smaller, customized Windows 11 images.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 22,600 |
-| Forks | 1,711 |
-| Stars this month | 1,490 |
+| Stars | 22,625 |
+| Forks | 1,712 |
+| Stars this month | 1,434 |
 
 ---
 
-## 5. [ShareX/ShareX](https://github.com/ShareX/ShareX)
+## 4. [ShareX/ShareX](https://github.com/ShareX/ShareX)
 
 ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 41,405 |
-| Forks | 4,111 |
-| Stars this month | 1,092 |
+| Stars | 41,437 |
+| Forks | 4,115 |
+| Stars this month | 1,093 |
 
 ---
 
-## 6. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+## 5. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
 A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,431 |
+| Stars | 39,442 |
 | Forks | 4,121 |
-| Stars this month | 502 |
+| Stars this month | 501 |
 
 ---
 
-## 7. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
+## 6. [PCL-Community/PCL-CE](https://github.com/PCL-Community/PCL-CE)
 
 PCL 社区版 由社区开发者维护与管理
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,221 |
-| Forks | 500 |
-| Stars this month | 325 |
+| Stars | 5,224 |
+| Forks | 501 |
+| Stars this month | 304 |
 
 ---
 
-## 8. [ggml-org/Llama-Windows](https://github.com/ggml-org/Llama-Windows)
+## 7. [ggml-org/Llama-Windows](https://github.com/ggml-org/Llama-Windows)
 
 Windows Llama App Companion
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 535 |
-| Forks | 72 |
-| Stars this month | 236 |
+| Stars | 542 |
+| Forks | 75 |
+| Stars this month | 238 |
 
 ---
 
-## 9. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox)
+## 8. [Smart-Paocai/VioletToolBox](https://github.com/Smart-Paocai/VioletToolBox)
 
 一款面向安卓开发的多功能玩机工具箱
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 1,612 |
-| Forks | 148 |
-| Stars this month | 975 |
+| Stars | 1,676 |
+| Forks | 150 |
+| Stars this month | 1,051 |
 
 ---
 
-## 10. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 9. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,548 |
-| Forks | 11,495 |
-| Stars this month | 130 |
+| Stars | 38,545 |
+| Forks | 11,441 |
+| Stars this month | 129 |
 
 ---
 
-## 11. [dotnet/runtime](https://github.com/dotnet/runtime)
+## 10. [dotnet/runtime](https://github.com/dotnet/runtime)
 
 .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 18,469 |
+| Stars | 18,470 |
 | Forks | 5,775 |
-| Stars this month | 116 |
+| Stars this month | 118 |
 
 ---
 
-## 12. [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy)
+## 11. [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy)
 
 The Windows debloater.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 5,929 |
-| Forks | 190 |
-| Stars this month | 193 |
+| Stars | 5,932 |
+| Forks | 192 |
+| Stars this month | 198 |
 
 ---
 
-## 13. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 12. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
 PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,333 |
-| Forks | 8,563 |
-| Stars this month | 529 |
+| Stars | 56,349 |
+| Forks | 8,564 |
+| Stars this month | 528 |
 
 ---
 
-## 14. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
+## 13. [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)
 
 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,795 |
+| Stars | 27,824 |
 | Forks | 1,774 |
-| Stars this month | 608 |
+| Stars this month | 627 |
 
 ---
 
-## 15. [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
+## 14. [MUnique/OpenMU](https://github.com/MUnique/OpenMU)
 
 This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
 
@@ -198,51 +185,51 @@ This project aims to create an easy to use, extendable and customizable server f
 |--------|-------|
 | Language | C# |
 | Stars | 1,308 |
-| Forks | 705 |
-| Stars this month | 65 |
+| Forks | 706 |
+| Stars this month | 63 |
 
 ---
 
-## 16. [Radarr/Radarr](https://github.com/Radarr/Radarr)
+## 15. [Radarr/Radarr](https://github.com/Radarr/Radarr)
 
 Movie organizer/manager for usenet and torrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,891 |
-| Forks | 1,271 |
+| Stars | 14,899 |
+| Forks | 1,273 |
 | Stars this month | 264 |
 
 ---
 
-## 17. [2dust/v2rayN](https://github.com/2dust/v2rayN)
+## 16. [2dust/v2rayN](https://github.com/2dust/v2rayN)
 
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,556 |
-| Forks | 16,413 |
-| Stars this month | 2,760 |
+| Stars | 121,630 |
+| Forks | 16,423 |
+| Stars this month | 2,739 |
 
 ---
 
-## 18. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+## 17. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,809 |
-| Forks | 311 |
-| Stars this month | 416 |
+| Stars | 4,814 |
+| Forks | 312 |
+| Stars this month | 419 |
 
 ---
 
-## 19. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
+## 18. [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
 Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
@@ -251,19 +238,19 @@ Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment proces
 | Language | C# |
 | Stars | 7,936 |
 | Forks | 2,073 |
-| Stars this month | 94 |
+| Stars this month | 91 |
 
 ---
 
-## 20. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
+## 19. [Tichau/FileConverter](https://github.com/Tichau/FileConverter)
 
 File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,805 |
-| Forks | 968 |
-| Stars this month | 339 |
+| Stars | 15,814 |
+| Forks | 969 |
+| Stars this month | 342 |
 
 ---

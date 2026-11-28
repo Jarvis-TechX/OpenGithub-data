@@ -1,9 +1,9 @@
 # GitHub Trending - Go
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-27T08:18:46Z
+**Snapshot Time:** 2026-11-28T07:40:19Z
 **Total Repositories:** 22
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 42,268 |
-| Forks | 3,885 |
-| Stars this month | 20,130 |
+| Stars | 42,639 |
+| Forks | 3,923 |
+| Stars this month | 19,543 |
 
 ---
 
-## 2. [egoist/mygo](https://github.com/egoist/mygo) 🆕
+## 2. [egoist/mygo](https://github.com/egoist/mygo)
 
 Develop desktop apps with native UI or web frontend in Go
 
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 7,004 |
-| Forks | 459 |
-| Stars this month | 3,745 |
+| Stars | 7,083 |
+| Forks | 461 |
+| Stars this month | 3,710 |
 
 ---
 
@@ -41,9 +41,9 @@ Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 188,277 |
-| Forks | 19,225 |
-| Stars this month | 4,244 |
+| Stars | 188,346 |
+| Forks | 19,250 |
+| Stars this month | 4,202 |
 
 ---
 
@@ -54,9 +54,9 @@ The Prometheus monitoring system and time series database.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 67,931 |
-| Forks | 11,050 |
-| Stars this month | 1,564 |
+| Stars | 67,913 |
+| Forks | 11,058 |
+| Stars this month | 1,561 |
 
 ---
 
@@ -67,9 +67,9 @@ Define and run multi-container applications with Docker
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,141 |
-| Forks | 6,059 |
-| Stars this month | 1,484 |
+| Stars | 38,980 |
+| Forks | 6,075 |
+| Stars this month | 1,510 |
 
 ---
 
@@ -80,9 +80,9 @@ Modern Docker Management, Designed for Everyone
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 10,604 |
-| Forks | 598 |
-| Stars this month | 2,530 |
+| Stars | 10,654 |
+| Forks | 599 |
+| Stars this month | 2,590 |
 
 ---
 
@@ -93,9 +93,9 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,810 |
-| Forks | 955 |
-| Stars this month | 1,100 |
+| Stars | 39,839 |
+| Forks | 961 |
+| Stars this month | 1,103 |
 
 ---
 
@@ -106,9 +106,9 @@ freehire — the open-source search engine for job seekers
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 3,764 |
-| Forks | 406 |
-| Stars this month | 841 |
+| Stars | 3,780 |
+| Forks | 407 |
+| Stars this month | 797 |
 
 ---
 
@@ -119,9 +119,9 @@ The Moby Project - a collaborative project for the container ecosystem to assemb
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 72,324 |
-| Forks | 19,351 |
-| Stars this month | 452 |
+| Stars | 72,316 |
+| Forks | 19,367 |
+| Stars this month | 447 |
 
 ---
 
@@ -132,8 +132,8 @@ NetBird securely connects people, machines and AI agents across any network with
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 31,310 |
-| Forks | 1,890 |
+| Stars | 31,337 |
+| Forks | 1,894 |
 | Stars this month | 1,137 |
 
 ---
@@ -145,9 +145,9 @@ Declarative Continuous Deployment for Kubernetes
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 24,704 |
-| Forks | 8,126 |
-| Stars this month | 266 |
+| Stars | 24,707 |
+| Forks | 8,128 |
+| Stars this month | 261 |
 
 ---
 
@@ -158,9 +158,9 @@ GitHub’s official command line tool
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 47,248 |
-| Forks | 9,464 |
-| Stars this month | 596 |
+| Stars | 47,278 |
+| Forks | 9,495 |
+| Stars this month | 623 |
 
 ---
 
@@ -171,9 +171,9 @@ RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engi
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 94,809 |
-| Forks | 11,419 |
-| Stars this month | 2,078 |
+| Stars | 94,847 |
+| Forks | 11,425 |
+| Stars this month | 2,082 |
 
 ---
 
@@ -184,9 +184,9 @@ Secure, Fast, and Extensible Sandbox runtime for AI agents.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 17,970 |
-| Forks | 1,740 |
-| Stars this month | 1,801 |
+| Stars | 17,990 |
+| Forks | 1,746 |
+| Stars this month | 1,819 |
 
 ---
 
@@ -197,9 +197,9 @@ scrape data from Google Maps. Extracts data such as the name, address, phone num
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 8,441 |
-| Forks | 1,342 |
-| Stars this month | 1,572 |
+| Stars | 8,459 |
+| Forks | 1,347 |
+| Stars this month | 1,553 |
 
 ---
 
@@ -210,9 +210,9 @@ Git with a cup of tea! Painless self-hosted all-in-one software development serv
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 59,301 |
-| Forks | 7,439 |
-| Stars this month | 695 |
+| Stars | 59,327 |
+| Forks | 7,443 |
+| Stars this month | 714 |
 
 ---
 
@@ -223,9 +223,9 @@ Shared task board where people and AI coding agents work as teammates. Source-av
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 58,140 |
-| Forks | 7,649 |
-| Stars this month | 4,429 |
+| Stars | 58,230 |
+| Forks | 7,667 |
+| Stars this month | 4,433 |
 
 ---
 
@@ -236,9 +236,9 @@ Shared task board where people and AI coding agents work as teammates. Source-av
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 61,318 |
-| Forks | 5,754 |
-| Stars this month | 874 |
+| Stars | 61,333 |
+| Forks | 5,761 |
+| Stars this month | 883 |
 
 ---
 
@@ -249,9 +249,9 @@ Vulnerability scanner written in Go which uses the data provided byhttps://osv.d
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 11,643 |
-| Forks | 870 |
-| Stars this month | 376 |
+| Stars | 11,648 |
+| Forks | 874 |
+| Stars this month | 372 |
 
 ---
 
@@ -262,9 +262,9 @@ Distributed reliable key-value store for the most critical data of a distributed
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 52,660 |
-| Forks | 10,635 |
-| Stars this month | 500 |
+| Stars | 52,661 |
+| Forks | 10,632 |
+| Stars this month | 498 |
 
 ---
 
@@ -275,9 +275,9 @@ The easiest, most secure way to use WireGuard and 2FA.
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 39,693 |
-| Forks | 3,563 |
-| Stars this month | 1,642 |
+| Stars | 39,766 |
+| Forks | 3,569 |
+| Stars this month | 1,657 |
 
 ---
 
@@ -288,8 +288,8 @@ VictoriaMetrics: fast, cost-effective monitoring solution and time series databa
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 18,220 |
-| Forks | 1,815 |
-| Stars this month | 343 |
+| Stars | 18,232 |
+| Forks | 1,816 |
+| Stars this month | 349 |
 
 ---

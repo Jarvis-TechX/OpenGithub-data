@@ -1,7 +1,7 @@
 # GitHub Trending - C
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-27T08:18:03Z
+**Snapshot Time:** 2026-11-28T07:39:44Z
 **Total Repositories:** 17
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ The official NGINX Open Source repository.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 33,570 |
-| Forks | 8,436 |
-| Stars today | 150 |
+| Stars | 33,700 |
+| Forks | 8,486 |
+| Stars today | 146 |
 
 ---
 
@@ -28,9 +28,9 @@ Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scala
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,195 |
-| Forks | 10,591 |
-| Stars today | 8 |
+| Stars | 17,205 |
+| Forks | 10,598 |
+| Stars today | 12 |
 
 ---
 
@@ -41,9 +41,9 @@ The PHP Interpreter
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 41,874 |
+| Stars | 41,871 |
 | Forks | 8,538 |
-| Stars today | 6 |
+| Stars today | 7 |
 
 ---
 
@@ -54,9 +54,9 @@ A free Windows-compatible Operating System
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 2,291 |
-| Forks | 102 |
-| Stars today | 53 |
+| Stars | 2,322 |
+| Forks | 107 |
+| Stars today | 35 |
 
 ---
 
@@ -67,7 +67,7 @@ LibreELEC with High Quality Dolby Vision & HDR10+ support for Intel, AMD, Nvidia
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 432 |
+| Stars | 447 |
 | Forks | 36 |
 | Stars today | 7 |
 
@@ -80,9 +80,9 @@ Zstandard - Fast real-time compression algorithm
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 28,349 |
-| Forks | 2,713 |
-| Stars today | 13 |
+| Stars | 28,363 |
+| Forks | 2,716 |
+| Stars today | 18 |
 
 ---
 
@@ -93,9 +93,9 @@ Lightweight static analysis for many languages. Find bug variants with patterns 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 18,001 |
-| Forks | 1,218 |
-| Stars today | 35 |
+| Stars | 18,025 |
+| Forks | 1,224 |
+| Stars today | 32 |
 
 ---
 
@@ -106,9 +106,9 @@ A massively spiffy yet delicately unobtrusive compression library.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,262 |
-| Forks | 2,917 |
-| Stars today | 2 |
+| Stars | 7,268 |
+| Forks | 2,918 |
+| Stars today | 5 |
 
 ---
 
@@ -119,9 +119,9 @@ Espressif IoT Development Framework. Official development framework for Espressi
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 19,619 |
-| Forks | 8,618 |
-| Stars today | 11 |
+| Stars | 19,625 |
+| Forks | 8,620 |
+| Stars today | 13 |
 
 ---
 
@@ -134,7 +134,7 @@ A project aimed at providing a better PC VR mode for BotW using the Cemu emulato
 | Language | C |
 | Stars | 1,708 |
 | Forks | 219 |
-| Stars today | 1 |
+| Stars today | 3 |
 
 ---
 
@@ -145,9 +145,9 @@ Open-source vector similarity search for Postgres
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 23,840 |
-| Forks | 1,411 |
-| Stars today | 13 |
+| Stars | 23,848 |
+| Forks | 1,415 |
+| Stars today | 14 |
 
 ---
 
@@ -158,9 +158,9 @@ General purpose TLS and crypto library
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 31,550 |
-| Forks | 11,652 |
-| Stars today | 7 |
+| Stars | 31,561 |
+| Forks | 11,657 |
+| Stars today | 12 |
 
 ---
 
@@ -171,8 +171,8 @@ An open source cross-platform USB stack for embedded system
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,302 |
-| Forks | 1,591 |
+| Stars | 7,305 |
+| Forks | 1,592 |
 | Stars today | 1 |
 
 ---
@@ -184,9 +184,9 @@ Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 14,723 |
-| Forks | 2,399 |
-| Stars today | 6 |
+| Stars | 14,734 |
+| Forks | 2,401 |
+| Stars today | 15 |
 
 ---
 
@@ -197,9 +197,9 @@ ImageMagick is a free, open-source software suite for creating, editing, convert
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,954 |
-| Forks | 1,716 |
-| Stars today | 6 |
+| Stars | 17,960 |
+| Forks | 1,718 |
+| Stars today | 12 |
 
 ---
 
@@ -210,9 +210,9 @@ Simple DirectMedia Layer
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,078 |
-| Forks | 3,189 |
-| Stars today | 4 |
+| Stars | 17,088 |
+| Forks | 3,192 |
+| Stars today | 9 |
 
 ---
 
@@ -223,8 +223,8 @@ Flipper Zero firmware source code
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 17,009 |
-| Forks | 3,553 |
-| Stars today | 9 |
+| Stars | 17,020 |
+| Forks | 3,556 |
+| Stars today | 10 |
 
 ---

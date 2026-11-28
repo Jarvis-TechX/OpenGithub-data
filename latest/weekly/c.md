@@ -1,7 +1,7 @@
 # GitHub Trending - C
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-27T08:18:25Z
+**Snapshot Time:** 2026-11-28T07:40:01Z
 **Total Repositories:** 11
 **New Entries:** 0
 **Quality Score:** 96.36/100
@@ -15,9 +15,9 @@ Turn Amazon Echos (Echo Dot 3, Echo Dot 2, Echo 2) into local Home Assistant voi
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,541 |
-| Forks | 133 |
-| Stars this week | 230 |
+| Stars | 1,546 |
+| Forks | 136 |
+| Stars this week | 216 |
 
 ---
 
@@ -28,9 +28,9 @@ Lightweight static analysis for many languages. Find bug variants with patterns 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 18,001 |
-| Forks | 1,218 |
-| Stars this week | 158 |
+| Stars | 18,025 |
+| Forks | 1,224 |
+| Stars this week | 163 |
 
 ---
 
@@ -41,9 +41,9 @@ A hierarchical inference engine for frontier MoE models: hot experts on the GPU 
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 53,631 |
-| Forks | 6,489 |
-| Stars this week | 1,461 |
+| Stars | 53,790 |
+| Forks | 6,508 |
+| Stars this week | 1,330 |
 
 ---
 
@@ -54,9 +54,9 @@ Display and control your Android device
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 155,882 |
-| Forks | 14,288 |
-| Stars this week | 647 |
+| Stars | 155,975 |
+| Forks | 14,290 |
+| Stars this week | 692 |
 
 ---
 
@@ -67,9 +67,9 @@ ClamAV - Documentation is here:https://docs.clamav.net
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 7,755 |
+| Stars | 7,759 |
 | Forks | 994 |
-| Stars this week | 73 |
+| Stars this week | 68 |
 
 ---
 
@@ -80,9 +80,9 @@ A new bootable USB solution.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 81,247 |
-| Forks | 5,096 |
-| Stars this week | 385 |
+| Stars | 81,177 |
+| Forks | 5,089 |
+| Stars this week | 423 |
 
 ---
 
@@ -94,8 +94,8 @@ stb single-file public domain libraries for C/C++
 |--------|-------|
 | Language | C |
 | Stars | 35,117 |
-| Forks | 8,134 |
-| Stars this week | 145 |
+| Forks | 8,132 |
+| Stars this week | 143 |
 
 ---
 
@@ -106,9 +106,9 @@ The official NGINX Open Source repository.
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 33,570 |
-| Forks | 8,436 |
-| Stars this week | 1,245 |
+| Stars | 33,700 |
+| Forks | 8,486 |
+| Stars this week | 1,151 |
 
 ---
 
@@ -119,9 +119,9 @@ Eclipse Mosquitto - An open source MQTT broker
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 11,507 |
-| Forks | 2,677 |
-| Stars this week | 30 |
+| Stars | 11,511 |
+| Forks | 2,676 |
+| Stars this week | 34 |
 
 ---
 
@@ -130,9 +130,9 @@ Eclipse Mosquitto - An open source MQTT broker
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 1,149 |
-| Forks | 516 |
-| Stars this week | 136 |
+| Stars | 1,160 |
+| Forks | 519 |
+| Stars this week | 140 |
 
 ---
 
@@ -143,8 +143,8 @@ A new lightweight, hybrid routing mesh protocol for packet radios
 | Metric | Value |
 |--------|-------|
 | Language | C |
-| Stars | 4,165 |
-| Forks | 1,665 |
-| Stars this week | 62 |
+| Stars | 4,167 |
+| Forks | 1,670 |
+| Stars this week | 64 |
 
 ---

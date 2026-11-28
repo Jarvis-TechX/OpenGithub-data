@@ -1,7 +1,7 @@
 # GitHub Trending - Javascript
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-27T08:18:38Z
+**Snapshot Time:** 2026-11-28T07:40:13Z
 **Total Repositories:** 14
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 78,979 |
-| Forks | 5,353 |
-| Stars this month | 31,165 |
+| Stars | 79,364 |
+| Forks | 5,381 |
+| Stars this month | 30,171 |
 
 ---
 
@@ -28,9 +28,9 @@ A coding-agent skill for multi-phase security audits with independently verified
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 88,601 |
-| Forks | 2,506 |
-| Stars this month | 46,809 |
+| Stars | 89,419 |
+| Forks | 2,531 |
+| Stars this month | 45,874 |
 
 ---
 
@@ -41,9 +41,9 @@ Agent skills that give coding agents taste: art direction, reference images and 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 122,108 |
-| Forks | 8,228 |
-| Stars this month | 19,556 |
+| Stars | 122,426 |
+| Forks | 8,252 |
+| Stars this month | 19,270 |
 
 ---
 
@@ -54,9 +54,9 @@ For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & 
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 2,396 |
-| Forks | 158 |
-| Stars this month | 1,137 |
+| Stars | 2,417 |
+| Forks | 160 |
+| Stars this month | 1,094 |
 
 ---
 
@@ -67,9 +67,9 @@ Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watc
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 24,341 |
-| Forks | 3,282 |
-| Stars this month | 8,185 |
+| Stars | 24,481 |
+| Forks | 3,296 |
+| Stars this month | 8,044 |
 
 ---
 
@@ -80,9 +80,9 @@ The fastest browser for AI agents to run browser automation, built for sharing y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 24,744 |
-| Forks | 1,411 |
-| Stars this month | 5,041 |
+| Stars | 24,828 |
+| Forks | 1,416 |
+| Stars this month | 4,797 |
 
 ---
 
@@ -93,9 +93,9 @@ Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 62,921 |
-| Forks | 9,189 |
-| Stars this month | 6,322 |
+| Stars | 63,075 |
+| Forks | 9,218 |
+| Stars this month | 6,304 |
 
 ---
 
@@ -106,9 +106,9 @@ ConardLi's open-source Skills collection, featuring web design, knowledge retrie
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 15,890 |
-| Forks | 1,790 |
-| Stars this month | 2,629 |
+| Stars | 15,932 |
+| Forks | 1,793 |
+| Stars this month | 2,653 |
 
 ---
 
@@ -119,9 +119,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 119,507 |
-| Forks | 37,044 |
-| Stars this month | 2,608 |
+| Stars | 119,586 |
+| Forks | 37,059 |
+| Stars this month | 2,621 |
 
 ---
 
@@ -132,9 +132,9 @@ JavaScript 3D Library.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 41,451 |
-| Forks | 2,984 |
-| Stars this month | 12,024 |
+| Stars | 41,577 |
+| Forks | 2,989 |
+| Stars this month | 8,958 |
 
 ---
 
@@ -145,9 +145,9 @@ jQuery JavaScript Library
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 60,193 |
+| Stars | 60,068 |
 | Forks | 20,635 |
-| Stars this month | 915 |
+| Stars this month | 948 |
 
 ---
 
@@ -158,9 +158,9 @@ Community-contributed instructions, agents, skills, and configurations to help y
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 41,616 |
-| Forks | 5,447 |
-| Stars this month | 1,314 |
+| Stars | 41,644 |
+| Forks | 5,450 |
+| Stars this month | 1,316 |
 
 ---
 
@@ -171,9 +171,9 @@ Vercel's official collection of agent skills
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 35,007 |
-| Forks | 3,057 |
-| Stars this month | 2,044 |
+| Stars | 35,055 |
+| Forks | 3,061 |
+| Stars this month | 2,035 |
 
 ---
 
@@ -184,8 +184,8 @@ Production-grade engineering skills for AI coding agents.
 | Metric | Value |
 |--------|-------|
 | Language | JavaScript |
-| Stars | 120,671 |
-| Forks | 12,554 |
-| Stars this month | 10,287 |
+| Stars | 120,837 |
+| Forks | 12,572 |
+| Stars this month | 10,141 |
 
 ---

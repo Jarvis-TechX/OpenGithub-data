@@ -1,7 +1,7 @@
 # GitHub Trending - Python
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-27T08:17:51Z
+**Snapshot Time:** 2026-11-28T07:39:34Z
 **Total Repositories:** 24
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ A Claude Code skill bundle for bug hunting and external red-team work - 85 skill
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 25,102 |
-| Forks | 2,552 |
-| Stars today | 1,597 |
+| Stars | 26,460 |
+| Forks | 2,704 |
+| Stars today | 1,608 |
 
 ---
 
@@ -28,9 +28,9 @@ A Claude Code skill bundle for bug hunting and external red-team work - 85 skill
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 66,595 |
-| Forks | 6,079 |
-| Stars today | 746 |
+| Stars | 67,136 |
+| Forks | 6,175 |
+| Stars today | 666 |
 
 ---
 
@@ -41,9 +41,9 @@ A Claude Code skill bundle for bug hunting and external red-team work - 85 skill
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 71,904 |
-| Forks | 9,351 |
-| Stars today | 702 |
+| Stars | 72,331 |
+| Forks | 9,460 |
+| Stars today | 660 |
 
 ---
 
@@ -54,9 +54,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 75,993 |
-| Forks | 6,710 |
-| Stars today | 759 |
+| Stars | 76,487 |
+| Forks | 6,804 |
+| Stars today | 675 |
 
 ---
 
@@ -67,9 +67,9 @@ The open-source agent for CI/CD reliability.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 15,939 |
-| Forks | 2,081 |
-| Stars today | 327 |
+| Stars | 16,206 |
+| Forks | 2,164 |
+| Stars today | 328 |
 
 ---
 
@@ -80,9 +80,9 @@ The only downloader you need. 下载器的集大成者。
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 19,444 |
-| Forks | 1,181 |
-| Stars today | 889 |
+| Stars | 20,072 |
+| Forks | 1,279 |
+| Stars today | 836 |
 
 ---
 
@@ -93,9 +93,9 @@ AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MC
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 17,245 |
-| Forks | 2,417 |
-| Stars today | 774 |
+| Stars | 17,740 |
+| Forks | 2,502 |
+| Stars today | 718 |
 
 ---
 
@@ -106,9 +106,9 @@ Academic Research Skills for Claude Code: research → write → review → revi
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 58,759 |
-| Forks | 4,478 |
-| Stars today | 120 |
+| Stars | 58,894 |
+| Forks | 4,486 |
+| Stars today | 162 |
 
 ---
 
@@ -119,9 +119,9 @@ Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 42,955 |
-| Forks | 4,551 |
-| Stars today | 38 |
+| Stars | 42,997 |
+| Forks | 4,557 |
+| Stars today | 62 |
 
 ---
 
@@ -132,9 +132,9 @@ Apache Airflow - A platform to programmatically author, schedule, and monitor wo
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 47,701 |
-| Forks | 18,411 |
-| Stars today | 24 |
+| Stars | 47,720 |
+| Forks | 18,414 |
+| Stars today | 22 |
 
 ---
 
@@ -145,9 +145,9 @@ Python tool for converting files and office documents to Markdown.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 198,656 |
-| Forks | 15,088 |
-| Stars today | 164 |
+| Stars | 198,793 |
+| Forks | 15,107 |
+| Stars today | 167 |
 
 ---
 
@@ -158,9 +158,9 @@ The 100 line AI agent that solves GitHub issues or helps you in your command lin
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 10,133 |
-| Forks | 1,372 |
-| Stars today | 43 |
+| Stars | 10,149 |
+| Forks | 1,374 |
+| Stars today | 28 |
 
 ---
 
@@ -171,9 +171,9 @@ A PyTorch native platform for training generative AI models
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,995 |
-| Forks | 1,102 |
-| Stars today | 11 |
+| Stars | 6,001 |
+| Forks | 1,105 |
+| Stars today | 10 |
 
 ---
 
@@ -184,9 +184,9 @@ Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and m
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 1,702 |
-| Forks | 353 |
-| Stars today | 12 |
+| Stars | 1,729 |
+| Forks | 356 |
+| Stars today | 29 |
 
 ---
 
@@ -197,9 +197,9 @@ Community maintained hardware plugin for vLLM on Huawei Ascend
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 3,158 |
-| Forks | 2,862 |
-| Stars today | 4 |
+| Stars | 3,161 |
+| Forks | 2,864 |
+| Stars today | 5 |
 
 ---
 
@@ -210,9 +210,9 @@ Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as lit
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 5,097 |
-| Forks | 718 |
-| Stars today | 102 |
+| Stars | 5,167 |
+| Forks | 725 |
+| Stars today | 74 |
 
 ---
 
@@ -223,9 +223,9 @@ OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 9,654 |
-| Forks | 989 |
-| Stars today | 501 |
+| Stars | 9,824 |
+| Forks | 1,021 |
+| Stars today | 282 |
 
 ---
 
@@ -236,9 +236,9 @@ Training-free language model modification: Remove censorship, suppress slop, red
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 43,383 |
-| Forks | 5,462 |
-| Stars today | 134 |
+| Stars | 43,496 |
+| Forks | 5,488 |
+| Stars today | 150 |
 
 ---
 
@@ -249,9 +249,9 @@ MCP server integration for DaVinci Resolve Studio
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 4,444 |
-| Forks | 505 |
-| Stars today | 17 |
+| Stars | 4,465 |
+| Forks | 512 |
+| Stars today | 57 |
 
 ---
 
@@ -262,9 +262,9 @@ MCP server integration for DaVinci Resolve Studio
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 151,838 |
-| Forks | 13,644 |
-| Stars today | 119 |
+| Stars | 152,409 |
+| Forks | 13,687 |
+| Stars today | 633 |
 
 ---
 
@@ -275,9 +275,9 @@ let your agent control your phone
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 6,034 |
-| Forks | 636 |
-| Stars today | 100 |
+| Stars | 6,192 |
+| Forks | 649 |
+| Stars today | 187 |
 
 ---
 
@@ -288,9 +288,9 @@ Odoo. Open Source Apps To Grow Your Business.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 56,144 |
-| Forks | 34,430 |
-| Stars today | 26 |
+| Stars | 56,166 |
+| Forks | 34,433 |
+| Stars today | 33 |
 
 ---
 
@@ -301,9 +301,9 @@ Build and run agents you can see, understand and trust.
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 36,794 |
-| Forks | 3,946 |
-| Stars today | 56 |
+| Stars | 36,835 |
+| Forks | 3,950 |
+| Stars today | 59 |
 
 ---
 
@@ -314,8 +314,8 @@ PaperOrchestra is a multi-agent framework for automated AI research paper writin
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 6,552 |
-| Forks | 847 |
-| Stars today | 113 |
+| Stars | 6,691 |
+| Forks | 856 |
+| Stars today | 110 |
 
 ---

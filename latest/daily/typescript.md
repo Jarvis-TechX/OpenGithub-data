@@ -1,9 +1,9 @@
 # GitHub Trending - Typescript
 
 **Time Range:** daily
-**Snapshot Time:** 2026-11-27T08:17:55Z
-**Total Repositories:** 17
-**New Entries:** 0
+**Snapshot Time:** 2026-11-28T07:39:37Z
+**Total Repositories:** 18
+**New Entries:** 1
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ Cursor plugin specification and official plugins
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 19,863 |
-| Forks | 2,165 |
-| Stars today | 270 |
+| Stars | 20,063 |
+| Forks | 2,244 |
+| Stars today | 243 |
 
 ---
 
@@ -28,9 +28,9 @@ Knowledge infrastructure to make your agents smarter. Search, scrape and access 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 211,192 |
-| Forks | 11,072 |
-| Stars today | 1,046 |
+| Stars | 211,856 |
+| Forks | 11,154 |
+| Stars today | 822 |
 
 ---
 
@@ -41,9 +41,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,395 |
-| Forks | 1,578 |
-| Stars today | 309 |
+| Stars | 13,667 |
+| Forks | 1,634 |
+| Stars today | 311 |
 
 ---
 
@@ -54,9 +54,9 @@ There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 79,127 |
-| Forks | 5,774 |
-| Stars today | 525 |
+| Stars | 79,577 |
+| Forks | 5,852 |
+| Stars today | 474 |
 
 ---
 
@@ -67,9 +67,9 @@ Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSLht
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 25,947 |
-| Forks | 827 |
-| Stars today | 40 |
+| Stars | 25,997 |
+| Forks | 828 |
+| Stars today | 58 |
 
 ---
 
@@ -80,9 +80,9 @@ The open-source cloud for agents & devs. Including Auth, Databases, Storage, Fun
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 58,685 |
-| Forks | 5,919 |
-| Stars today | 38 |
+| Stars | 58,613 |
+| Forks | 5,916 |
+| Stars today | 55 |
 
 ---
 
@@ -93,9 +93,9 @@ Mastra is the modern TypeScript framework for AI-powered applications and agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 29,851 |
-| Forks | 3,145 |
-| Stars today | 20 |
+| Stars | 29,866 |
+| Forks | 3,151 |
+| Stars today | 26 |
 
 ---
 
@@ -106,9 +106,9 @@ AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 3,623 |
-| Forks | 1,875 |
-| Stars today | 31 |
+| Stars | 3,704 |
+| Forks | 1,899 |
+| Stars today | 63 |
 
 ---
 
@@ -119,9 +119,9 @@ The open alternative to Salesforce, designed for AI.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 61,532 |
-| Forks | 10,204 |
-| Stars today | 45 |
+| Stars | 61,576 |
+| Forks | 10,213 |
+| Stars today | 46 |
 
 ---
 
@@ -132,9 +132,9 @@ Email for professionals and teams
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 7,763 |
-| Forks | 1,389 |
-| Stars today | 84 |
+| Stars | 7,797 |
+| Forks | 1,404 |
+| Stars today | 41 |
 
 ---
 
@@ -145,9 +145,9 @@ Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 78,840 |
-| Forks | 5,261 |
-| Stars today | 99 |
+| Stars | 78,986 |
+| Forks | 5,268 |
+| Stars today | 114 |
 
 ---
 
@@ -158,9 +158,9 @@ WebGL2 powered visualization framework
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 14,831 |
+| Stars | 14,833 |
 | Forks | 2,311 |
-| Stars today | 6 |
+| Stars today | 2 |
 
 ---
 
@@ -171,9 +171,9 @@ Spec-driven development (SDD) for AI coding assistants.
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 75,847 |
-| Forks | 5,199 |
-| Stars today | 90 |
+| Stars | 75,913 |
+| Forks | 5,207 |
+| Stars today | 92 |
 
 ---
 
@@ -184,47 +184,60 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 36,978 |
-| Forks | 1,210 |
-| Stars today | 12 |
+| Stars | 36,988 |
+| Forks | 1,214 |
+| Stars today | 17 |
 
 ---
 
-## 15. [croffasia/itsaplan](https://github.com/croffasia/itsaplan)
+## 15. [NYLLON-SOFTWARE/SignuDoc](https://github.com/NYLLON-SOFTWARE/SignuDoc) 🆕
+
+Open-source document signature platform. Not affiliated with DocuSign.
+
+| Metric | Value |
+|--------|-------|
+| Language | TypeScript |
+| Stars | 3,590 |
+| Forks | 770 |
+| Stars today | 197 |
+
+---
+
+## 16. [croffasia/itsaplan](https://github.com/croffasia/itsaplan)
 
 ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 2,694 |
-| Forks | 367 |
-| Stars today | 34 |
+| Stars | 2,726 |
+| Forks | 368 |
+| Stars today | 29 |
 
 ---
 
-## 16. [anomalyco/opencode](https://github.com/anomalyco/opencode)
+## 17. [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
 The open source coding agent.
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 229,489 |
-| Forks | 31,253 |
-| Stars today | 249 |
+| Stars | 229,672 |
+| Forks | 31,278 |
+| Stars today | 277 |
 
 ---
 
-## 17. [earendil-works/pi](https://github.com/earendil-works/pi)
+## 18. [earendil-works/pi](https://github.com/earendil-works/pi)
 
 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 124,167 |
-| Forks | 16,056 |
-| Stars today | 213 |
+| Stars | 124,396 |
+| Forks | 16,072 |
+| Stars today | 235 |
 
 ---

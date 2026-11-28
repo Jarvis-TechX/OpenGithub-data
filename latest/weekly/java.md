@@ -1,9 +1,9 @@
 # GitHub Trending - Java
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-27T08:18:28Z
-**Total Repositories:** 19
-**New Entries:** 1
+**Snapshot Time:** 2026-11-28T07:40:04Z
+**Total Repositories:** 18
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,22 +15,22 @@ JDK main-line developmenthttps://openjdk.org/projects/jdk
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 23,583 |
+| Stars | 23,589 |
 | Forks | 6,558 |
-| Stars this week | 46 |
+| Stars this week | 40 |
 
 ---
 
-## 2. [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) 🆕
+## 2. [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches)
 
 Morphe Patches
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 5,201 |
-| Forks | 431 |
-| Stars this week | 221 |
+| Stars | 5,222 |
+| Forks | 437 |
+| Stars this week | 210 |
 
 ---
 
@@ -41,9 +41,9 @@ Morphe Patches
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 48,643 |
-| Forks | 16,215 |
-| Stars this week | 125 |
+| Stars | 48,653 |
+| Forks | 16,214 |
+| Stars this week | 120 |
 
 ---
 
@@ -54,9 +54,9 @@ A browser automation framework and ecosystem.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 34,617 |
-| Forks | 8,737 |
-| Stars this week | 24 |
+| Stars | 34,618 |
+| Forks | 8,736 |
+| Stars this week | 25 |
 
 ---
 
@@ -67,9 +67,9 @@ Instagram without Reels, feed or ads: an open-source, updatable Instagram app fo
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 1,446 |
-| Forks | 88 |
-| Stars this week | 43 |
+| Stars | 1,449 |
+| Forks | 89 |
+| Stars this week | 41 |
 
 ---
 
@@ -80,9 +80,9 @@ The main repository of Telegram X — official alternative Telegram client for A
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,259 |
-| Forks | 1,218 |
-| Stars this week | 43 |
+| Stars | 6,262 |
+| Forks | 1,222 |
+| Stars this week | 41 |
 
 ---
 
@@ -93,8 +93,8 @@ The world's fastest open query engine for sub-second analytics both on and off t
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 12,293 |
-| Forks | 2,693 |
+| Stars | 12,296 |
+| Forks | 2,696 |
 | Stars this week | 24 |
 
 ---
@@ -106,91 +106,78 @@ A libre lightweight streaming front-end for Android.
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 40,978 |
-| Forks | 4,036 |
-| Stars this week | 162 |
+| Stars | 40,993 |
+| Forks | 4,035 |
+| Stars this week | 158 |
 
 ---
 
-## 9. [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-
-🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-| Metric | Value |
-|--------|-------|
-| Language | Java |
-| Stars | 40,673 |
-| Forks | 8,719 |
-| Stars this week | 138 |
-
----
-
-## 10. [keycloak/keycloak](https://github.com/keycloak/keycloak)
+## 9. [keycloak/keycloak](https://github.com/keycloak/keycloak)
 
 Open Source Identity and Access Management For Modern Applications and Services
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 38,079 |
-| Forks | 9,253 |
-| Stars this week | 113 |
+| Stars | 38,098 |
+| Forks | 9,259 |
+| Stars this week | 122 |
 
 ---
 
-## 11. [apache/nifi](https://github.com/apache/nifi)
+## 10. [apache/nifi](https://github.com/apache/nifi)
 
 Apache NiFi
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 6,339 |
-| Forks | 3,011 |
-| Stars this week | 12 |
+| Stars | 6,342 |
+| Forks | 3,010 |
+| Stars this week | 14 |
 
 ---
 
-## 12. [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
+## 11. [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)
 
 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
 
 | Metric | Value |
 |--------|-------|
 | Language | Kotlin |
-| Stars | 3,751 |
-| Forks | 501 |
-| Stars this week | 128 |
+| Stars | 3,779 |
+| Forks | 506 |
+| Stars this week | 144 |
 
 ---
 
-## 13. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+## 12. [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 
 Free and Open Source, Distributed, RESTful Search Engine
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 78,851 |
-| Forks | 26,151 |
-| Stars this week | 324 |
+| Stars | 78,747 |
+| Forks | 26,147 |
+| Stars this week | 341 |
 
 ---
 
-## 14. [termux/termux-app](https://github.com/termux/termux-app)
+## 13. [termux/termux-app](https://github.com/termux/termux-app)
 
 Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 65,801 |
-| Forks | 8,474 |
-| Stars this week | 568 |
+| Stars | 65,877 |
+| Forks | 8,484 |
+| Stars this week | 571 |
 
 ---
 
-## 15. [apache/zookeeper](https://github.com/apache/zookeeper)
+## 14. [apache/zookeeper](https://github.com/apache/zookeeper)
 
 Apache ZooKeeper
 
@@ -198,12 +185,12 @@ Apache ZooKeeper
 |--------|-------|
 | Language | Java |
 | Stars | 12,836 |
-| Forks | 7,330 |
+| Forks | 7,328 |
 | Stars this week | 6 |
 
 ---
 
-## 16. [LiteLDev/LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android)
+## 15. [LiteLDev/LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android)
 
 LeviLauncher for Android
 
@@ -211,46 +198,46 @@ LeviLauncher for Android
 |--------|-------|
 | Language | Java |
 | Stars | 749 |
-| Forks | 219 |
-| Stars this week | 21 |
+| Forks | 222 |
+| Stars this week | 24 |
 
 ---
 
-## 17. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+## 16. [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
 
 LSPosed Framework
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 25,674 |
+| Stars | 25,688 |
 | Forks | 3,595 |
-| Stars this week | 120 |
+| Stars this week | 128 |
 
 ---
 
-## 18. [apache/iceberg](https://github.com/apache/iceberg)
+## 17. [apache/iceberg](https://github.com/apache/iceberg)
 
 Apache Iceberg
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 9,458 |
-| Forks | 3,716 |
-| Stars this week | 12 |
+| Stars | 9,459 |
+| Forks | 3,717 |
+| Stars this week | 13 |
 
 ---
 
-## 19. [openrocket/openrocket](https://github.com/openrocket/openrocket)
+## 18. [openrocket/openrocket](https://github.com/openrocket/openrocket)
 
 Model-rocketry aerodynamics and trajectory simulation software
 
 | Metric | Value |
 |--------|-------|
 | Language | Java |
-| Stars | 3,286 |
-| Forks | 725 |
-| Stars this week | 24 |
+| Stars | 3,287 |
+| Forks | 726 |
+| Stars this week | 23 |
 
 ---

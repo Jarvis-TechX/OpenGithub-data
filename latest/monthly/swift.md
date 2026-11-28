@@ -1,8 +1,8 @@
 # GitHub Trending - Swift
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-27T08:18:57Z
-**Total Repositories:** 18
+**Snapshot Time:** 2026-11-28T07:40:29Z
+**Total Repositories:** 17
 **New Entries:** 0
 **Quality Score:** 100.00/100
 
@@ -15,9 +15,9 @@ Status Trio — a native macOS app that combines Wi-Fi, battery, and volume into
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,159 |
+| Stars | 2,170 |
 | Forks | 120 |
-| Stars this month | 1,360 |
+| Stars this month | 1,358 |
 
 ---
 
@@ -28,9 +28,9 @@ An open source browser for Mac, iPhone, and iPad.
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,462 |
-| Forks | 144 |
-| Stars this month | 636 |
+| Stars | 1,476 |
+| Forks | 145 |
+| Stars this month | 594 |
 
 ---
 
@@ -41,7 +41,7 @@ iOS 27 MobileGestalt editor
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,334 |
+| Stars | 1,335 |
 | Forks | 100 |
 | Stars this month | 517 |
 
@@ -54,8 +54,8 @@ iOS 27 MobileGestalt editor
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 3,175 |
-| Forks | 345 |
+| Stars | 3,185 |
+| Forks | 348 |
 | Stars this month | 1,120 |
 
 ---
@@ -69,7 +69,7 @@ A toolkit for SQLite databases, with a focus on application development
 | Language | Swift |
 | Stars | 8,760 |
 | Forks | 1,120 |
-| Stars this month | 64 |
+| Stars this month | 65 |
 
 ---
 
@@ -80,9 +80,9 @@ Free on-device iOS/iPadOS application manager/installer, using certificates part
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 5,229 |
+| Stars | 5,239 |
 | Forks | 501 |
-| Stars this month | 307 |
+| Stars this month | 319 |
 
 ---
 
@@ -93,9 +93,9 @@ Conduit — native SwiftUI iOS client for Hermes Agent
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 706 |
-| Forks | 97 |
-| Stars this month | 253 |
+| Stars | 707 |
+| Forks | 99 |
+| Stars this month | 249 |
 
 ---
 
@@ -106,9 +106,9 @@ iOS 27+ 本机虚拟定位与步行路线测试工具
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 1,372 |
+| Stars | 1,379 |
 | Forks | 180 |
-| Stars this month | 769 |
+| Stars this month | 780 |
 
 ---
 
@@ -119,9 +119,9 @@ An an app that installs Sidestore on iOS 27, fully on-device
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,157 |
-| Forks | 178 |
-| Stars this month | 905 |
+| Stars | 2,307 |
+| Forks | 187 |
+| Stars this month | 1,070 |
 
 ---
 
@@ -134,7 +134,7 @@ Model export recipes, Python primitives, and Swift runtime utilities for on-devi
 | Language | Swift |
 | Stars | 2,385 |
 | Forks | 271 |
-| Stars this month | 164 |
+| Stars this month | 162 |
 
 ---
 
@@ -145,9 +145,9 @@ Free up your Mac. Safely. A free, open-source native Mac app that clears the cac
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 2,034 |
+| Stars | 2,039 |
 | Forks | 112 |
-| Stars this month | 690 |
+| Stars this month | 616 |
 
 ---
 
@@ -158,9 +158,9 @@ bluetooth mesh chat, IRC vibes
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 37,219 |
-| Forks | 5,901 |
-| Stars this month | 420 |
+| Stars | 37,217 |
+| Forks | 5,900 |
+| Stars this month | 366 |
 
 ---
 
@@ -171,9 +171,9 @@ A tool for creating and running Linux containers using lightweight virtual machi
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 52,091 |
-| Forks | 1,851 |
-| Stars this month | 1,297 |
+| Stars | 52,100 |
+| Forks | 1,849 |
+| Stars this month | 1,287 |
 
 ---
 
@@ -184,9 +184,9 @@ AI coding assistant for Xcode
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 6,405 |
+| Stars | 6,407 |
 | Forks | 2,114 |
-| Stars this month | 72 |
+| Stars this month | 71 |
 
 ---
 
@@ -197,47 +197,34 @@ Open source Ghostty-based macOS terminal with vertical tabs and notifications fo
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 28,987 |
-| Forks | 2,715 |
-| Stars this month | 738 |
+| Stars | 29,000 |
+| Forks | 2,718 |
+| Stars this month | 741 |
 
 ---
 
-## 16. [hugeBlack/GetMoreRam](https://github.com/hugeBlack/GetMoreRam)
-
-A simple AltSign wrapper app that allows you to enable "Increased Memory Limit" to your sideloaded apps without using Xcode
-
-| Metric | Value |
-|--------|-------|
-| Language | Swift |
-| Stars | 514 |
-| Forks | 167 |
-| Stars this month | 100 |
-
----
-
-## 17. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+## 16. [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
 Run iOS apps without actually installing them!
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 14,717 |
-| Forks | 1,379 |
-| Stars this month | 1,342 |
+| Stars | 14,776 |
+| Forks | 1,386 |
+| Stars this month | 1,360 |
 
 ---
 
-## 18. [farzaa/clicky](https://github.com/farzaa/clicky)
+## 17. [farzaa/clicky](https://github.com/farzaa/clicky)
 
 The open-source project HeyClicky grew out of. The official HeyClicky app, an AI buddy for Mac and Windows: heyclicky.com
 
 | Metric | Value |
 |--------|-------|
 | Language | Swift |
-| Stars | 8,079 |
-| Forks | 1,611 |
+| Stars | 8,082 |
+| Forks | 1,616 |
 | Stars this month | 307 |
 
 ---

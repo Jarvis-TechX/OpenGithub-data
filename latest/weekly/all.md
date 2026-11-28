@@ -1,9 +1,9 @@
 # GitHub Trending - All
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-27T08:18:13Z
+**Snapshot Time:** 2026-11-28T07:39:51Z
 **Total Repositories:** 15
-**New Entries:** 1
+**New Entries:** 0
 **Quality Score:** 100.00/100
 
 ---
@@ -15,9 +15,9 @@ The workspace to stay in the loop and on top of agents - shape, decide, plan, an
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 15,310 |
-| Forks | 1,466 |
-| Stars this week | 1,631 |
+| Stars | 15,462 |
+| Forks | 1,478 |
+| Stars this week | 1,596 |
 
 ---
 
@@ -28,9 +28,9 @@ A library of Agent Skills designed to work with the Stitch MCP server. Each skil
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 13,396 |
-| Forks | 1,578 |
-| Stars this week | 2,619 |
+| Stars | 13,667 |
+| Forks | 1,634 |
+| Stars this week | 2,616 |
 
 ---
 
@@ -41,9 +41,9 @@ Keep your coding agent up to date with the latest web best practices
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 11,327 |
-| Forks | 843 |
-| Stars this week | 2,209 |
+| Stars | 11,508 |
+| Forks | 850 |
+| Stars this week | 2,008 |
 
 ---
 
@@ -54,9 +54,9 @@ Open source personal agent with its own computer. It chases invoices, preps your
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 4,103 |
-| Forks | 624 |
-| Stars this week | 1,165 |
+| Stars | 4,483 |
+| Forks | 676 |
+| Stars this week | 1,424 |
 
 ---
 
@@ -67,9 +67,9 @@ Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c
 | Metric | Value |
 |--------|-------|
 | Language | Go |
-| Stars | 56,738 |
-| Forks | 4,697 |
-| Stars this week | 2,284 |
+| Stars | 56,965 |
+| Forks | 4,710 |
+| Stars this week | 2,335 |
 
 ---
 
@@ -80,9 +80,9 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 75,993 |
-| Forks | 6,710 |
-| Stars this week | 5,090 |
+| Stars | 76,487 |
+| Forks | 6,804 |
+| Stars this week | 5,072 |
 
 ---
 
@@ -93,9 +93,9 @@ Chrome DevTools for coding agents
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 59,543 |
-| Forks | 4,901 |
-| Stars this week | 1,175 |
+| Stars | 59,657 |
+| Forks | 4,849 |
+| Stars this week | 1,150 |
 
 ---
 
@@ -106,9 +106,9 @@ Claude Code skills for equity investors and traders — market analysis, technic
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 8,646 |
-| Forks | 1,565 |
-| Stars this week | 1,381 |
+| Stars | 8,759 |
+| Forks | 1,576 |
+| Stars this week | 1,332 |
 
 ---
 
@@ -119,9 +119,9 @@ AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applicati
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 21,881 |
-| Forks | 2,190 |
-| Stars this week | 1,269 |
+| Stars | 21,981 |
+| Forks | 2,194 |
+| Stars this week | 1,185 |
 
 ---
 
@@ -132,9 +132,9 @@ An open source design system that's fully customizable and agent ready
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 33,427 |
-| Forks | 2,605 |
-| Stars this week | 2,519 |
+| Stars | 33,568 |
+| Forks | 2,618 |
+| Stars this week | 2,306 |
 
 ---
 
@@ -145,9 +145,9 @@ Enable Hermès Watch Faces on any Apple Watch devices
 | Metric | Value |
 |--------|-------|
 | Language | Objective-C |
-| Stars | 2,555 |
-| Forks | 206 |
-| Stars this week | 325 |
+| Stars | 2,590 |
+| Forks | 207 |
+| Stars this week | 296 |
 
 ---
 
@@ -158,22 +158,22 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 18,139 |
-| Forks | 1,575 |
-| Stars this week | 1,430 |
+| Stars | 18,247 |
+| Forks | 1,591 |
+| Stars this week | 1,375 |
 
 ---
 
-## 13. [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) 🆕
+## 13. [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills)
 
 Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 
 | Metric | Value |
 |--------|-------|
 | Language | Shell |
-| Stars | 54,131 |
-| Forks | 3,852 |
-| Stars this week | 704 |
+| Stars | 54,418 |
+| Forks | 3,871 |
+| Stars this week | 950 |
 
 ---
 
@@ -184,9 +184,9 @@ Build your own AI office with Univer Office SDK. Bring editing, calculation, col
 | Metric | Value |
 |--------|-------|
 | Language | TypeScript |
-| Stars | 32,006 |
-| Forks | 2,874 |
-| Stars this week | 1,825 |
+| Stars | 32,082 |
+| Forks | 2,886 |
+| Stars this week | 1,280 |
 
 ---
 
@@ -197,8 +197,8 @@ Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co
 | Metric | Value |
 |--------|-------|
 | Language | Python |
-| Stars | 11,667 |
-| Forks | 973 |
-| Stars this week | 3,229 |
+| Stars | 12,049 |
+| Forks | 995 |
+| Stars this week | 3,169 |
 
 ---

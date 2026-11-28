@@ -1,10 +1,10 @@
 # GitHub Trending - C#
 
 **Time Range:** weekly
-**Snapshot Time:** 2026-11-27T08:18:31Z
-**Total Repositories:** 15
+**Snapshot Time:** 2026-11-28T07:40:07Z
+**Total Repositories:** 14
 **New Entries:** 0
-**Quality Score:** 97.33/100
+**Quality Score:** 97.14/100
 
 ---
 
@@ -15,188 +15,175 @@ Repository for skills to assist AI coding agents with .NET and C#
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 6,380 |
+| Stars | 6,388 |
 | Forks | 510 |
-| Stars this week | 81 |
+| Stars this week | 79 |
 
 ---
 
-## 2. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
-
-Free, open-source Windows optimization tool for performance, privacy, and simplicity.
-
-| Metric | Value |
-|--------|-------|
-| Language | C# |
-| Stars | 13,239 |
-| Forks | 586 |
-| Stars this week | 499 |
-
----
-
-## 3. [dulaiduwang003/Pavise-Game](https://github.com/dulaiduwang003/Pavise-Game)
+## 2. [dulaiduwang003/Pavise-Game](https://github.com/dulaiduwang003/Pavise-Game)
 
 Open-source Windows game resource manager. Suppresses background processes, gives games exclusive CPU cores, steers device interrupts off game cores, applies per-game GPU driver, memory and power policies, and restores every change after play. No injection, no telemetry. GPL-3.0.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 2,682 |
-| Forks | 113 |
-| Stars this week | 282 |
+| Stars | 2,722 |
+| Forks | 114 |
+| Stars this week | 272 |
 
 ---
 
-## 4. [ppy/osu](https://github.com/ppy/osu)
+## 3. [ppy/osu](https://github.com/ppy/osu)
 
 rhythm is just a *click* away!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 19,548 |
-| Forks | 2,916 |
-| Stars this week | 61 |
+| Stars | 19,567 |
+| Forks | 2,921 |
+| Stars this week | 73 |
 
 ---
 
-## 5. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
+## 4. [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner)
 
 FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 7,757 |
-| Forks | 258 |
-| Stars this week | 357 |
+| Stars | 7,779 |
+| Forks | 260 |
+| Stars this week | 333 |
 
 ---
 
-## 6. [2dust/v2rayN](https://github.com/2dust/v2rayN)
+## 5. [2dust/v2rayN](https://github.com/2dust/v2rayN)
 
 A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 121,556 |
-| Forks | 16,413 |
-| Stars this week | 631 |
+| Stars | 121,630 |
+| Forks | 16,423 |
+| Stars this week | 622 |
 
 ---
 
-## 7. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
+## 6. [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI)
 
 UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 27,281 |
+| Stars | 27,299 |
 | Forks | 997 |
-| Stars this week | 170 |
+| Stars this week | 168 |
 
 ---
 
-## 8. [Radarr/Radarr](https://github.com/Radarr/Radarr)
+## 7. [Radarr/Radarr](https://github.com/Radarr/Radarr)
 
 Movie organizer/manager for usenet and torrent users.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 14,891 |
-| Forks | 1,271 |
-| Stars this week | 70 |
+| Stars | 14,899 |
+| Forks | 1,273 |
+| Stars this week | 63 |
 
 ---
 
-## 9. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+## 8. [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
 
 the subtitle editor :)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 15,144 |
-| Forks | 1,398 |
-| Stars this week | 90 |
+| Stars | 15,150 |
+| Forks | 1,403 |
+| Stars this week | 82 |
 
 ---
 
-## 10. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
+## 9. [MoFeng2223/BrimDeck](https://github.com/MoFeng2223/BrimDeck)
 
 A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 968 |
-| Forks | 98 |
-| Stars this week | 92 |
+| Stars | 1,014 |
+| Forks | 100 |
+| Stars this week | 149 |
 
 ---
 
-## 11. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+## 10. [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
 
 A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 39,431 |
+| Stars | 39,442 |
 | Forks | 4,121 |
-| Stars this week | 120 |
+| Stars this week | 111 |
 
 ---
 
-## 12. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+## 11. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
 | Stars | 13,923 |
 | Forks | 1,213 |
-| Stars this week | 56 |
+| Stars this week | 54 |
 
 ---
 
-## 13. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
+## 12. [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer)
 
 The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 4,809 |
-| Forks | 311 |
-| Stars this week | 45 |
+| Stars | 4,814 |
+| Forks | 312 |
+| Stars this week | 46 |
 
 ---
 
-## 14. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+## 13. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 
 ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 38,548 |
-| Forks | 11,495 |
+| Stars | 38,545 |
+| Forks | 11,441 |
 | Stars this week | 22 |
 
 ---
 
-## 15. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+## 14. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
 
 PowerShell for every system!
 
 | Metric | Value |
 |--------|-------|
 | Language | C# |
-| Stars | 56,333 |
-| Forks | 8,563 |
-| Stars this week | 115 |
+| Stars | 56,349 |
+| Forks | 8,564 |
+| Stars this week | 114 |
 
 ---

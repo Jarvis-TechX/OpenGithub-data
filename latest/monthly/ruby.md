@@ -1,7 +1,7 @@
 # GitHub Trending - Ruby
 
 **Time Range:** monthly
-**Snapshot Time:** 2026-11-27T08:18:42Z
+**Snapshot Time:** 2026-11-28T07:40:15Z
 **Total Repositories:** 23
 **New Entries:** 0
 **Quality Score:** 100.00/100
@@ -15,9 +15,9 @@ The personal finance app for everyone (by everyone)
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 18,139 |
-| Forks | 1,575 |
-| Stars this month | 7,475 |
+| Stars | 18,247 |
+| Forks | 1,591 |
+| Stars this month | 7,571 |
 
 ---
 
@@ -28,9 +28,9 @@ Ruby on Rails
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 59,165 |
-| Forks | 23,022 |
-| Stars this month | 1,091 |
+| Stars | 59,078 |
+| Forks | 22,974 |
+| Stars this month | 1,120 |
 
 ---
 
@@ -41,9 +41,9 @@ Your self-hosted, globally interconnected microblogging community
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,670 |
-| Forks | 7,564 |
-| Stars this month | 781 |
+| Stars | 50,598 |
+| Forks | 7,557 |
+| Stars this month | 800 |
 
 ---
 
@@ -54,9 +54,9 @@ Metasploit Framework
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,686 |
+| Stars | 39,694 |
 | Forks | 15,063 |
-| Stars this month | 478 |
+| Stars this month | 481 |
 
 ---
 
@@ -67,9 +67,9 @@ Open-source live-chat, email support, omni-channel desk. An alternative to Inter
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 40,661 |
-| Forks | 9,908 |
-| Stars this month | 2,363 |
+| Stars | 40,705 |
+| Forks | 9,916 |
+| Stars this month | 2,350 |
 
 ---
 
@@ -80,9 +80,9 @@ OpenProject is the leading open source project management software for product, 
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 17,782 |
-| Forks | 3,849 |
-| Stars this month | 1,113 |
+| Stars | 17,806 |
+| Forks | 3,852 |
+| Stars this month | 1,110 |
 
 ---
 
@@ -94,8 +94,8 @@ Community-curated topic and collection pages on GitHub
 |--------|-------|
 | Language | Ruby |
 | Stars | 4,972 |
-| Forks | 14,753 |
-| Stars this month | 57 |
+| Forks | 14,754 |
+| Stars this month | 56 |
 
 ---
 
@@ -106,9 +106,9 @@ Create agents that monitor and act on your behalf. Your agents are standing by!
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,654 |
-| Forks | 4,365 |
-| Stars this month | 571 |
+| Stars | 50,657 |
+| Forks | 4,366 |
+| Stars this month | 569 |
 
 ---
 
@@ -119,9 +119,9 @@ Create agents that monitor and act on your behalf. Your agents are standing by!
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 50,452 |
-| Forks | 11,453 |
-| Stars this month | 639 |
+| Stars | 50,463 |
+| Forks | 11,456 |
+| Stars this month | 635 |
 
 ---
 
@@ -132,9 +132,9 @@ Create agents that monitor and act on your behalf. Your agents are standing by!
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 51,801 |
-| Forks | 10,301 |
-| Stars this month | 121 |
+| Stars | 51,799 |
+| Forks | 10,302 |
+| Stars this month | 117 |
 
 ---
 
@@ -145,7 +145,7 @@ Vagrant is a tool for building and distributing development environments.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 27,242 |
+| Stars | 27,245 |
 | Forks | 4,421 |
 | Stars this month | 46 |
 
@@ -159,8 +159,8 @@ For empowering community 🌱
 |--------|-------|
 | Language | Ruby |
 | Stars | 22,839 |
-| Forks | 4,275 |
-| Stars this month | 54 |
+| Forks | 4,274 |
+| Stars this month | 53 |
 
 ---
 
@@ -171,7 +171,7 @@ For empowering community 🌱
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 15,696 |
+| Stars | 15,699 |
 | Forks | 13,988 |
 | Stars this month | 71 |
 
@@ -184,9 +184,9 @@ Open source DocuSign alternative. Create, fill, and sign digital documents ✍�
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 19,170 |
-| Forks | 1,980 |
-| Stars this month | 398 |
+| Stars | 19,185 |
+| Forks | 1,982 |
+| Stars this month | 397 |
 
 ---
 
@@ -197,9 +197,9 @@ Zammad is a web based open source helpdesk/customer support system.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 6,152 |
-| Forks | 1,113 |
-| Stars this month | 127 |
+| Stars | 6,156 |
+| Forks | 1,114 |
+| Stars this month | 122 |
 
 ---
 
@@ -211,8 +211,8 @@ A Ruby/Rack web server built for parallelism
 |--------|-------|
 | Language | Ruby |
 | Stars | 7,931 |
-| Forks | 1,528 |
-| Stars this month | 16 |
+| Forks | 1,529 |
+| Stars this month | 17 |
 
 ---
 
@@ -223,9 +223,9 @@ A curated list of engineering blogs
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 39,047 |
-| Forks | 2,074 |
-| Stars this month | 276 |
+| Stars | 39,052 |
+| Forks | 2,075 |
+| Stars this month | 275 |
 
 ---
 
@@ -236,9 +236,9 @@ The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Proje
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 2,458 |
+| Stars | 2,459 |
 | Forks | 912 |
-| Stars this month | 181 |
+| Stars this month | 180 |
 
 ---
 
@@ -249,9 +249,9 @@ The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Proje
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 22,323 |
-| Forks | 12,158 |
-| Stars this month | 74 |
+| Stars | 22,324 |
+| Forks | 12,164 |
+| Stars this month | 70 |
 
 ---
 
@@ -262,9 +262,9 @@ Your favorite self-hostable alternative to Google Timeline (Google Location Hist
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 11,042 |
+| Stars | 11,046 |
 | Forks | 426 |
-| Stars this month | 317 |
+| Stars this month | 306 |
 
 ---
 
@@ -275,9 +275,9 @@ Library packaging and distribution for Ruby.
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 3,997 |
-| Forks | 1,977 |
-| Stars this month | 21 |
+| Stars | 3,996 |
+| Forks | 1,981 |
+| Stars this month | 20 |
 
 ---
 
@@ -288,9 +288,9 @@ The Ruby Programming Language
 | Metric | Value |
 |--------|-------|
 | Language | Ruby |
-| Stars | 23,869 |
+| Stars | 23,866 |
 | Forks | 5,701 |
-| Stars this month | 124 |
+| Stars this month | 126 |
 
 ---
 
